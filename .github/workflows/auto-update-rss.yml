@@ -28,6 +28,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install uv
         uv sync
+        echo ${{ secrets.CONNPASS_API_KEY }}
     - name: Run script
       run: |
         uv run main.py
