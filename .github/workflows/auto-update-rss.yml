@@ -31,6 +31,8 @@ jobs:
     - name: Run script
       run: |
         uv run main.py
+      env:
+          CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
     - name: Commit
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
