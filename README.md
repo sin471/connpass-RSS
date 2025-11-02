@@ -1,4 +1,4 @@
-# Connpass-RSS
+# connpass-RSS
 
 connpass API を使用して、**47都道府県すべて**のイベント情報を RSS フィードとして生成するプログラムです。
 
@@ -28,8 +28,8 @@ connpass API を使用して、**47都道府県すべて**のイベント情報�
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/sin471/Connpass-RSS.git
-cd Connpass-RSS
+git clone https://github.com/sin471/connpass-RSS.git
+cd connpass-RSS
 
 # uv を使用して依存関係をインストール
 uv sync
@@ -41,7 +41,7 @@ uv sync
 
 生成された RSS フィードを RSS リーダーで購読できます。購読したいRSSフィードのxmlファイルを`rss`ディレクトリ内から選び、RawデータのURLをRSSリーダーに登録してください。
 
-たとえば、東京のイベントのRSSフィードを購読する場合は、`rss/rss_tokyo.xml`のRawデータである https://raw.githubusercontent.com/sin471/Connpass-RSS/refs/heads/main/rss/rss_tokyo.xml のURLをRSSリーダーに登録します。
+たとえば、東京のイベントのRSSフィードを購読する場合は、`rss/rss_tokyo.xml`のRawデータである https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/rss/rss_tokyo.xml のURLをRSSリーダーに登録します。
 
 ### RSS フィードの生成
 
@@ -87,7 +87,7 @@ generate_rss_for_prefecture("tokyo", "東京", keyword=["Python"])
 ## プロジェクト構成
 
 ```
-Connpass-RSS/
+connpass-RSS/
 ├── main.py              # メインスクリプト
 ├── pyproject.toml       # プロジェクト設定ファイル
 ├── README.md            # このファイル
