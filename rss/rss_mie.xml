@@ -1,2 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>三重のイベント</title><link>https://connpass.com/explore/</link><description>三重のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:08:58 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>三重のイベント</title><link>https://connpass.com/explore/</link><description>三重のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:10:45 +0000</lastBuildDate><item><title>第３２回伊勢IT交流会</title><link>https://iseit.connpass.com/event/371110/</link><description>📍 会場: SANDBOX
+住所: 三重県伊勢市宮町1丁目3−10
+
+
+
+&lt;p&gt;今回も茶話会やります！&lt;/p&gt;
+&lt;h1&gt;伊勢IT交流会とは？&lt;/h1&gt;
+&lt;p&gt;伊勢志摩地域のITが少しでも活発になるように交流会を開催しています。交流会の主目的は情報交換です。
+技術的な話題について話したり、自分（や自社）のビジネスについて話したり、人脈を広げたり、案件情報の交換をしたり、技術者を探したり、愚痴を言ったり、雑談したり、など、参加者の方が楽しめればと思います。&lt;/p&gt;
+&lt;h1&gt;内容&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;自己紹介&lt;/li&gt;
+&lt;li&gt;LT（ライトニングトーク）：短いプレゼンのこと、５～１０分程度&lt;/li&gt;
+&lt;li&gt;雑談（情報交換）&lt;/li&gt;
+&lt;li&gt;告知タイム&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;入退場自由ですのでお気軽にお立ち寄りください。&lt;br&gt;
+なお、LTは必ず全員するスタイルではなく発表したい方のみです。&lt;/p&gt;
+&lt;h2&gt;LTについて&lt;/h2&gt;
+&lt;p&gt;５分～１０分程度の短めのプレゼンです。やりたい方のみ発表します。内容は基本的になんでもOKです。たとえば、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技術的な話題&lt;/li&gt;
+&lt;li&gt;自己紹介・自社紹介&lt;/li&gt;
+&lt;li&gt;製品紹介&lt;/li&gt;
+&lt;li&gt;コミュニティやイベントの紹介&lt;/li&gt;
+&lt;li&gt;ネタ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;などなどです。  &lt;/p&gt;
+&lt;p&gt;ただし、しつこい勧誘とかを伴うものや、これまずいな、と主催者（jmori）が個人的に判断したものはLTをお断りする場合がありますので、あらかじめご了承ください。
+気軽に話題を提供できる場として使ってください。&lt;/p&gt;
+&lt;h2&gt;LTを希望する場合&lt;/h2&gt;
+&lt;p&gt;LTを希望する方は、申し込み時のアンケートで『LT希望』を選んでいただければと思います（申し込み時点で発表内容が決まってなくてもOKです）。当日LTをやりたい方の人数で発表時間等を決めようと思います。&lt;/p&gt;
+&lt;p&gt;目安は５～１０分ぐらいです。ただ、会場の使用時間の制限があるので、希望者が多くて持ち時間が５分未満になるような場合はなるべく事前にご連絡します。&lt;/p&gt;
+&lt;h2&gt;現時点でのLT予定&lt;/h2&gt;
+&lt;p&gt;なお、現時点でのLT予定は次のとおりです（順不同、敬称略）。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;発表者&lt;/th&gt;
+&lt;th align="left"&gt;タイトル&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;Shin Yamaguchi&lt;/td&gt;
+&lt;td align="left"&gt;Building RAG Chatbot on Cloudflare&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;aknow2&lt;/td&gt;
+&lt;td align="left"&gt;（未定）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;moyashi&lt;/td&gt;
+&lt;td align="left"&gt;（未定）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;tama0203&lt;/td&gt;
+&lt;td align="left"&gt;自己紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;kkinoshita&lt;/td&gt;
+&lt;td align="left"&gt;伊勢ギーク・フェア開催予定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;suganox&lt;/td&gt;
+&lt;td align="left"&gt;（未定）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;参加資格&lt;/h1&gt;
+&lt;p&gt;参加資格・年齢制限は特にありません。web製作、プログラマ、SE、デザイナー、マネージャー、営業、その他ITにかかわる仕事をされている方やITに興味がある方（もちろん、学生さんもOK）なら誰でも気軽に参加していただけます。&lt;/p&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;p&gt;会場および設備使用料の分担として、費用を人数割りでお願いします（上限５００円）。&lt;/p&gt;
+&lt;h1&gt;申し込み方法&lt;/h1&gt;
+&lt;p&gt;connpass （本ページ）よりお申し込みください。ご友人やお知り合いが一緒に参加する場合、お申込者の方だけでなくお連れの方も本サイトよりお申し込みください。&lt;/p&gt;
+&lt;h1&gt;会場について&lt;/h1&gt;
+&lt;p&gt;伊勢市にあるコワーキングスペースの &lt;a href="https://sandbox-mie.com/" rel="nofollow"&gt;SANDBOX&lt;/a&gt; ４Ｆの会議室になります。２Ｆに受付があるので、そちらで会議室利用する旨を伝えてからご来場ください。&lt;/p&gt;
+&lt;h2&gt;WiFi&lt;/h2&gt;
+&lt;p&gt;SANDBOX さんの WiFi を利用できます。&lt;/p&gt;
+&lt;h2&gt;電源&lt;/h2&gt;
+&lt;p&gt;取ることができます。延長コード・タップもいくつかは用意する予定ですが、ご心配な方はご自分でご用意いただければと思います。&lt;/p&gt;
+&lt;h2&gt;駐車場&lt;/h2&gt;
+&lt;p&gt;SANDBOX の駐車場をご利用ください（詳細は &lt;a href="https://sandbox-mie.com/about/" rel="nofollow"&gt;https://sandbox-mie.com/about/&lt;/a&gt; をご覧ください）。&lt;/p&gt;
+&lt;h1&gt;茶話会（さわかい）について&lt;/h1&gt;
+&lt;p&gt;今回も伊勢IT交流会後にお時間のある方で、茶話会という形でお話でもできればなと思っています。&lt;/p&gt;
+&lt;p&gt;場所は同じ SANDBOX 内のフリースペースを利用したいと思います。当日、参加希望をお尋ねしますので、お時間のある方はぜひご参加ください。&lt;/p&gt;
+&lt;p&gt;なお、伊勢IT交流会とは別にフリースペースの利用料金（フリードリンク込み）が必要です。詳しくは &lt;a href="https://sandbox-mie.com/price/" rel="nofollow"&gt;https://sandbox-mie.com/price/&lt;/a&gt; をご覧ください。&lt;/p&gt;</description><guid isPermaLink="false">https://iseit.connpass.com/event/371110/</guid><pubDate>Sat, 15 Nov 2025 13:30:00 +0900</pubDate></item></channel></rss>

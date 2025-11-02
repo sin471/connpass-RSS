@@ -1,2 +1,905 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:08:57 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:10:42 +0000</lastBuildDate><item><title>日本Androidの会浜松支部 第172回ミーティング</title><link>https://jaghama.connpass.com/event/373878/</link><description>📍 会場: 鴨江アートセンター
+住所: 浜松市中区鴨江町1番地 
+
+もくもく会 Part67
+
+&lt;p&gt;日本Androidの会 浜松支部 第172回ミーティングを開催します。  &lt;/p&gt;
+&lt;p&gt;今回は&lt;span style="font-size: 16px; font-weight: bolder;"&gt;「もくもく会 Part67」
+&lt;/span&gt;です。&lt;/p&gt;
+&lt;p&gt;今回は、もくもく会を鴨江アートセンターで開催します。&lt;br&gt;
+もくもく開発の中継や近況報告など、  ゆるーく情報交換しようと思います。&lt;br&gt;
+途中参加、途中退場は自由です。&lt;br&gt;
+今回は、第2日曜日の11月09日 (日)の13-17時からの開催です！    &lt;/p&gt;
+&lt;p&gt;状況によりオンラインに切り替える可能性もあります。&lt;/p&gt;
+&lt;p&gt;Google MeetのURLは当日にメールとconnpassに記載します。&lt;br&gt;
+事前にconnpassのメール登録をお願いします。  &lt;/p&gt;
+&lt;p&gt;不要不急の外出は控えて参加をお願いします。&lt;br&gt;
+シェアオフィスなどで参加される方は自己責任でお願いします。&lt;br&gt;
+体調が優れない場合は、遠慮なく欠席してください。  &lt;/p&gt;
+&lt;p&gt;※内容、時間は変更する事があります。時々connpassをご確認下さい。&lt;br&gt;
+※スイーツ募集中！  &lt;/p&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  内容
+ &lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  「もくもく会オフライン」
+&lt;br&gt;
+・もくもく会オフライン
+&lt;br&gt;
+&lt;/li&gt;
+  &lt;li&gt;
+   LT
+   &lt;br&gt;
+   募集中 (ML投稿かなおや @naoya_24 or まーくん @macha1972まで)
+   &lt;br&gt;
+   LT:ライトニングトーク（Lightning Talk）とはカンファレンスやフォーラムなどで
+   &lt;br&gt;
+   行われる短いプレゼンテーションのこと。
+   &lt;br&gt;
+   様々な形式があるが、持ち時間が5分という制約が広く共有されている。(ウィキペディアより)
+  &lt;/li&gt;
+ &lt;/ul&gt;
+
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  場所
+ &lt;/h1&gt;
+&lt;p&gt;〒432-8024&lt;br&gt;
+静岡県浜松市中央区鴨江町1番地&lt;br&gt;
+102号室&lt;/p&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  参加費
+ &lt;/h1&gt;
+&lt;p&gt;無料(会場代として500円程度の寄付を募る場合があります)&lt;/p&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+懇親会
+ &lt;/h1&gt;
+&lt;p&gt;未定&lt;/p&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  タイムテーブル(仮)
+ &lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;講師&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 – 13:15&lt;/td&gt;
+&lt;td&gt;開催準備&lt;/td&gt;
+&lt;td&gt;スタッフ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:15 – 16:30&lt;/td&gt;
+&lt;td&gt;もくもく会オフライン&lt;/td&gt;
+&lt;td&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 – 16:45&lt;/td&gt;
+&lt;td&gt;LT、イベント告知、運営について&lt;/td&gt;
+&lt;td&gt;希望者・スタッフ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:45 – 17:00&lt;/td&gt;
+&lt;td&gt;片付け&lt;/td&gt;
+&lt;td&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  その他
+ &lt;/h1&gt;
+
+&lt;p&gt;次回は、2025年12月13日(土) or 14日(日) or 20日(土) or 21日(日)の日時と内容は未定です。&lt;br&gt;
+その他、やりたいことがある方は、MLへ投稿してください。&lt;/p&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  備考
+ &lt;/h1&gt;
+
+&lt;p&gt;内容、時間は変更する事があります。時々ご確認下さい。&lt;br&gt;
+ 一部参加もOKです。&lt;br&gt;
+ 問合せは、なおや(naoya_24) or まーくん(macha1972) まで。&lt;br&gt;
+ 電源延長コードなどがある方は持参して下さると嬉しいです。&lt;br&gt;
+ 録画・公開は考慮中。顔出しNGの方は申告して下さい。&lt;br&gt;
+ スイーツ募集中！&lt;/p&gt;
+&lt;h1 style="border: 1px solid #6F6F6F; border-left: 16px solid #6F6F6F; padding: 4px 0px 4px 4px; margin-top: 24px;"&gt;
+  主催団体について
+ &lt;/h1&gt;
+
+&lt;p&gt;日本Androidの会 浜松支部です。&lt;br&gt;
+ 日本Androidの会の会則に基づき、「自主・自律・分散」のモットーの下に活動をしていきます。&lt;br&gt;
+ 浜松支部に興味がある方は是非参加して下さい。運営に参加される方も募集中。  &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+   Androidユーザ
+  &lt;/li&gt;
+  &lt;li&gt;
+   Android初心者
+  &lt;/li&gt;
+  &lt;li&gt;
+   Androidアプリ等を開発したい方、されている方
+  &lt;/li&gt;
+  &lt;li&gt;
+   Androidアプリ等のデザインに興味がある方
+  &lt;/li&gt;
+  &lt;li&gt;
+   Android組込みに興味がある方
+  &lt;/li&gt;
+  &lt;li&gt;
+   Androidに興味がある方
+  &lt;/li&gt;
+ &lt;/ul&gt;
+
+&lt;p&gt;浜松支部への入会（無料）は、下記MLに登録下さい。&lt;br&gt;
+ &lt;a href="https://groups.google.com/group/android-hamamatsu/" rel="nofollow"&gt;
+ &lt;/a&gt;&lt;a href="https://groups.google.com/group/android-hamamatsu/" rel="nofollow"&gt;https://groups.google.com/group/android-hamamatsu/&lt;/a&gt;
+ &lt;/p&gt;
+&lt;p&gt;日本Androidの会の活動は下記のURLを参照して下さい。&lt;br&gt;
+ &lt;a href="http://www.android-group.jp/" rel="nofollow"&gt;
+  &lt;/a&gt;&lt;a href="http://www.android-group.jp/" rel="nofollow"&gt;http://www.android-group.jp/&lt;/a&gt;
+ &lt;/p&gt;</description><guid isPermaLink="false">https://jaghama.connpass.com/event/373878/</guid><enclosure url="https://media.connpass.com/thumbs/a0/82/a082fc8981678d5481bf369de8025eee.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 13:00:00 +0900</pubDate></item><item><title>第114回CoderDojo 浜松（2025年11月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/373148/</link><description>📍 会場: 浜松市鴨江アートセンター(201号室)
+住所: 静岡県浜松市中区鴨江町1番地
+
+7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）
+
+&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
+&lt;p&gt;7～17歳の小中高校生を対象とした、プログラミングクラブのようなものです。
+プログラミングに興味があれば誰でも参加できます。
+最初はみんな初心者。
+会場に集まった他のニンジャ（参加者）といっしょにプログラミングに挑戦してみましょう！&lt;/p&gt;
+&lt;p&gt;※ 本活動に興味がある大人の方もメンターとして是非ご参加ください。（学生さんや社会人・年長者の方も大歓迎です）&lt;/p&gt;
+&lt;h2&gt;CoderDojo 浜松に参加するには？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本ページで申し込み後、当日はPCやタブレット等ご持参して会場に来てください。&lt;/li&gt;
+&lt;li&gt;PC貸し出し枠もあります。台数に限りがあるため先着順となります。&lt;/li&gt;
+&lt;li&gt;参加費は無料です。（会場の部屋代等の寄付は任意で受け付けています）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日のタイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00～&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30～13:35&lt;/td&gt;
+&lt;td&gt;はじめの挨拶&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:35～13:45&lt;/td&gt;
+&lt;td&gt;発表タイム1（発表者求ム！）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:50～14:50&lt;/td&gt;
+&lt;td&gt;プログラミングの時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00～15:30&lt;/td&gt;
+&lt;td&gt;発表タイム2（発表者求ム！）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30～16:30&lt;/td&gt;
+&lt;td&gt;自由時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30～16:55&lt;/td&gt;
+&lt;td&gt;片付け＆退室&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 自分の作品を見せたい・発表したいニンジャまたはメンターはぜひ発表してください。&lt;br&gt;
+※ 時間割は、その日の都合によって柔軟に変わる場合があります。  &lt;/p&gt;
+&lt;h2&gt;今後の開催予定&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;第115回 CoderDojo 浜松：2025年12月28日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;li&gt;第116回 CoderDojo 浜松：2026年1月25日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;li&gt;第117回 CoderDojo 浜松：2026年2月22日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;li&gt;第118回 CoderDojo 浜松：2026年3月29日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;b&gt;はじめての方へ&lt;/b&gt;&lt;/h1&gt;
+
+
+&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
+&lt;p&gt;CoderDojo とは、7〜17歳の子どもを対象にしたプログラミングクラブ。
+地域主体で非営利で若い世代のプログラミング活動を見守る活動です。
+詳しくは、&lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt; をご覧ください。 &lt;/p&gt;
+&lt;h2&gt;ニンジャとは・メンターとは&lt;/h2&gt;
+&lt;p&gt;CoderDojoは海外から始まった活動のため、少し変わった言葉が使われています。
+この活動は「ニンジャ（若者）のプログラムの修行を、メンター（年長者）が一緒になって考えて見守る」 というようなものと思えばよいでしょう。&lt;/p&gt;
+&lt;h2&gt;CoderDojo 浜松 について&lt;/h2&gt;
+&lt;p&gt;CoderDojo 浜松では、2016年から月に1回ペースで道場を開いています。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CoderDojo 浜松ホームページ : &lt;a href="https://coderdojo-hamamatsu.org/" rel="nofollow"&gt;https://coderdojo-hamamatsu.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CoderDojoは地域ごとに活動内容が異なりますが、CoderDojo 浜松では主に次のようなことをやっています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scratch という ブロック・プログラミング環境による製作・学習&lt;/li&gt;
+&lt;li&gt;micro:bit、RaspberryPi などのマイコンボードのプログラミング&lt;/li&gt;
+&lt;li&gt;Processing / Python/ JavaScript / Unity などをつかったプログラミング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上記以外にも、プログラムに関係あることなら、自分の興味がある事をしていただいてかまいません。&lt;/p&gt;
+&lt;p&gt;なお、初めて参加される方や「プログラムを始めたいけど、何からやればよいの？」という方には、会場にある書籍や初学者向けサイトを紹介して、最初の一歩の手助けをしています。&lt;/p&gt;
+&lt;p&gt;例えば、次に挙げるのは気軽に始めることができるのでお勧めです。もしも使い方が分からなければDojoで聞いてください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://octostudio.org/ja/" rel="nofollow"&gt;OctoStudio&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;「OctoStudio」は、お手持ちのスマホ（Android/iPhone）でScratchと似たことができます。&lt;/li&gt;
+&lt;li&gt;スマホのセンサーを使ったプログラミングも簡単にできます。お勧めです。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hourofcode.com/jp" rel="nofollow"&gt;Hour Of Code&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;「Hour of Code」はゲーム風にお題を解いていくことでScratchを学べるサイトです。 &lt;/li&gt;
+&lt;li&gt;小学校低学年でも十分楽しめます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.scratchjr.org/" rel="nofollow"&gt;ScratchJr&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;Scratchジュニアは、低学年以下でも簡単に操作できるよう工夫されています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.viscuit.com/" rel="nofollow"&gt;viscuit&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;「viscuit」も浜松の小学生の間で流行っています。&lt;/li&gt;
+&lt;li&gt;スマホやタブレット等でも動きます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;CoderDojo浜松のScratchスタジオ&lt;/h3&gt;
+&lt;p&gt;Dojo浜松およびDojo磐田のScratchスタジオがあります。みんなの作品を見たり遊んだり改造したりしてね！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/studios/32504726/" rel="nofollow"&gt;CoderDojo Hamamatsu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/studios/35249830/" rel="nofollow"&gt;CoderDojo磐田&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;みんなの作った作品もスタジオにぜひ追加してね！(方法はメンターに聞いてね！)&lt;/p&gt;
+&lt;h1&gt;&lt;b&gt;その他&lt;/b&gt;&lt;/h1&gt;
+&lt;h2&gt;CoderDojo 浜松では、プログラミングに興味がある大人も募集しています&lt;/h2&gt;
+&lt;p&gt;CoderDojo 浜松では、メンターとしてプログラミング活動を見守ってくれる大人または学生のボランティアも募集しています。 
+プログラミングに詳しいかどうかはあまり重要でありません。子供に何かを教えるのが好き、もしくは、自分自身がプログラミングに興味があるかどうかが大切です。
+CoderDojo 浜松のボランティアに興味がありましたら、メンターとして申し込みの上、当日会場にお越しください。
+なお、自分用のPCやタブレットはあった方が良いですが、必須ではありません。&lt;/p&gt;
+&lt;p&gt;※ 企業や各種団体によるメンターや支援も大歓迎です。（講演・プレゼン・人・場所など）&lt;br&gt;
+※ CoderDojo 浜松では、メンターとしてIT技術者が参加することが多く、また専門の教員の方も頻繁に参加していただいています。  &lt;/p&gt;
+&lt;p&gt;※ 運営について&lt;br&gt;
+CoderDojo 浜松は完全に非営利なボランティアのみで運用しています。&lt;/p&gt;
+&lt;p&gt;※ CoderDojo 浜松は浜松市社会福祉協議会（赤い羽根共同募金）の2024年度 助成金に申請し受けました。助成金は会場費、教材費、および消耗品に使用しています。&lt;/p&gt;
+
+
+&lt;h2&gt;補足事項・注意事項&lt;/h2&gt;
+&lt;p&gt;※ 小学生以下のお子様の場合、お申込みはこちらのConnpassから保護者の方が行ってください。（ユーザー名はニックネームに変更しておきましょう）&lt;br&gt;
+※ 無線LANに接続可能なノートPCまたはタブレット等を持参してご参加ください。電源延長コードを持ってこれる方は念のため用意してください。&lt;br&gt;
+※ ノートPCの貸し出し希望の方は、本Connpassの申し込み時に指定してください。&lt;br&gt;
+※ お車で来場の方は、鴨江アートセンターの裏側の有料駐車場をお使いください。満車の場合は、栄町パーキング（当館斜め向かい、有料）などもあります。&lt;/p&gt;</description><guid isPermaLink="false">https://coderdojo-hamamatsu.connpass.com/event/373148/</guid><enclosure url="https://media.connpass.com/thumbs/50/36/5036e44b5fc1ddfb9ab2684f057d3024.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 13:30:00 +0900</pubDate></item><item><title>第30回 CoderDojo磐田</title><link>https://coderdojo-iwata.connpass.com/event/372427/</link><description>📍 会場: 磐田市民文化会館 創作活動室1
+住所: 〒438-0831 静岡県磐田市上新屋678番地1
+
+新たな沼の入り口？3Dプリンター特集
+
+&lt;h1&gt;第30回 CoderDojo磐田&lt;/h1&gt;
+&lt;h2&gt;第30回記念 3Dプリンター特集&lt;/h2&gt;
+&lt;p&gt;10月におこなわれたMaker Fair Tokyo 2025。&lt;br&gt;
+そこにいた人たちとその作品に感化され、&lt;br&gt;
+参加した翌日に思い切って3Dプリンターを購入しました！&lt;br&gt;
+簡単な作品を作り、その場でプリントする。&lt;br&gt;
+そんなワークショップをやってみようと思います。&lt;br&gt;
+（チャンピオンが3Dプリント初心者なので、有識者も募集中）&lt;/p&gt;
+&lt;p&gt;第29回で紹介したMaker Fair参加レポートは&lt;a href="https://docs.google.com/presentation/d/1Vx94gfpxgOmGlAfOU791TCv3D56ltN6U20PzT3fthAc/edit?usp=drive_link" rel="nofollow"&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Scratch (Stretch)、toio、教育版マインクラフトほか、&lt;br&gt;
+プログラミングを中心としたデジタル技術を&lt;br&gt;
+自由に楽しく学べる場を提供しています！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;プログラミングでゲーム制作をしてみたい&lt;/li&gt;
+&lt;li&gt;マインクラフトで建物/仕掛けをつくりたい&lt;/li&gt;
+&lt;li&gt;自分がつくったとっておきの作品を発表したい&lt;/li&gt;
+&lt;li&gt;学校のプログラミング課題で困っている&lt;/li&gt;
+&lt;li&gt;始めてみたいけどどこから手をつけていいかわからない等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;気持ちがあればなんでもOKです。　&lt;br&gt;
+初心者から中上級者まで、気軽にお申し込みください！&lt;/p&gt;
+&lt;h2&gt;マインクラフトに関する注意事項&lt;/h2&gt;
+&lt;p&gt;事前に必ずご確認お願いします。&lt;/p&gt;
+&lt;h3&gt;教育版以外のバージョンをお使いの方&lt;/h3&gt;
+&lt;p&gt;任意のプラットフォームでOKとします。&lt;/p&gt;
+&lt;p&gt;ただし道場内では教育版を前提とするため&lt;br&gt;
+他のプラットフォームだとできないこともあります。&lt;br&gt;
+わかりやすい例はマルチプレイです。&lt;br&gt;
+同一グループ内のアカウント同士でないと&lt;br&gt;
+できません。&lt;/p&gt;
+&lt;p&gt;あらかじめご了承ください。&lt;/p&gt;
+&lt;h3&gt;参加枠ごとの準備&lt;/h3&gt;
+&lt;h4&gt;パソコン貸出かつマイクラ希望&lt;/h4&gt;
+&lt;p&gt;1つの申し込み (1家族) で1台、&lt;br&gt;
+2台目以降は当日空きがあれば貸出可&lt;br&gt;
+とさせてください。&lt;/p&gt;
+&lt;h4&gt;パソコン持参かつマイクラ希望&lt;/h4&gt;
+&lt;p&gt;初めての方は事前にインストールを&lt;br&gt;
+済ませておくことをお勧めします。&lt;br&gt;
+当日準備も可能ではありますが、&lt;br&gt;
+プレイできるまでに30~60分程度かかります。&lt;/p&gt;
+&lt;p&gt;また要求スペックが比較的高いです。&lt;br&gt;
+ダウンロード、インストールを済ませ、&lt;br&gt;
+快適にプレイできるかをご確認ください&lt;br&gt;
+体験版はアカウントも課金もなく試せます。&lt;/p&gt;
+&lt;p&gt;教育版のダウンロードはこちらから。&lt;br&gt;
+&lt;a href="https://education.minecraft.net/ja-jp/get-started/download" rel="nofollow"&gt;https://education.minecraft.net/ja-jp/get-started/download&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;CoderDojo磐田とは&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://coderdojo-iwata.connpass.com" rel="nofollow"&gt;こちら&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;募集対象と参加資格&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;7~17歳の若者&lt;ul&gt;
+&lt;li&gt;プログラミングに少しでも興味関心があること&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;子どもたちの学びをサポートしたい方（年齢、性別、専門知識等は問いません）&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo 憲章&lt;/a&gt;に同意できること&lt;/li&gt;
+&lt;li&gt;簡単なPC操作が一通り出来ること&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;お申し込みについて&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12歳以下のお子さまが参加される場合、必ず保護者の方がお申し込みを行い、当日もご同伴ください。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;1つのお申し込みで&lt;strong&gt;1家族最大4名まで&lt;/strong&gt;参加可能です。兄弟姉妹一緒でのご参加も大歓迎です！なお、5名以上の場合はメールでご相談ください。送迎時のみ一時的に5名以上となる場合は、連絡は不要です。&lt;/li&gt;
+&lt;li&gt;貸出枠のお申し込みで確保できる端末の台数は1家族につき1台です。当日空きがあれば2台目以降も貸し出せます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お子さま自身のプログラミングを学びたい・楽しみたい気持ち&lt;/li&gt;
+&lt;li&gt;Wi-Fi接続可能なノートパソコン&lt;/li&gt;
+&lt;li&gt;マウス (ScratchやMinecraftではドラッグ&amp;amp;ドロップを多用するためおすすめです)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;レゴ（toioで遊ぶ場合、あると楽しいです！）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日のおおまかなスケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時刻&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 - 13:30&lt;/td&gt;
+&lt;td&gt;開場、設営*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30 - 13:45&lt;/td&gt;
+&lt;td&gt;説明&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:45 - 15:00&lt;/td&gt;
+&lt;td&gt;プログラミング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00 - 15:15&lt;/td&gt;
+&lt;td&gt;作品発表1*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:15 - 15:45&lt;/td&gt;
+&lt;td&gt;プログラミング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00 - 16:15&lt;/td&gt;
+&lt;td&gt;作品発表2*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:15 - 16:30&lt;/td&gt;
+&lt;td&gt;設営撤去、閉場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;当日は13:30頃でOKですが、もし設営にご協力いただける場合は13時前後にお越し頂けると幸いです。&lt;/li&gt;
+&lt;li&gt;休憩は各自のタイミングでどうぞ。&lt;/li&gt;
+&lt;li&gt;*発表は任意参加ですが、是非挑戦してみてください。制作途中でも構いません。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;ご質問、ご相談等ありましたら以下のメールアドレス宛てにご連絡ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="" rel="nofollow"&gt;iwata.jp@coderdojo.com&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://coderdojo-iwata.connpass.com/event/372427/</guid><enclosure url="https://media.connpass.com/thumbs/08/3e/083eaebaeb9f222db9b9db14f68eead0.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 13:30:00 +0900</pubDate></item><item><title>PyLadies Caravan in 静岡</title><link>https://pyladies-tokyo.connpass.com/event/371957/</link><description>📍 会場: 静岡市コ・クリエーションスペース
+住所: 静岡県静岡市葵区御幸町3-21 (ペガサート7 階)
+
+緑茶とうなぎパイ、あとダイビング
+
+&lt;h1&gt;PyLadies Caravan in 静岡 開催します！&lt;/h1&gt;
+&lt;p&gt;こんにちは! PyLadies Caravan です！
+今回は静岡でPyLadies Caravanを初開催します。&lt;/p&gt;
+&lt;p&gt;静岡エリアの女性エンジニア、エンジニアを目指す学生のみなさま、Pythonはお好きですか？&lt;br&gt;
+もちろん、初めてPython触る方も大歓迎！&lt;br&gt;
+今回はPythonを使ったデータ分析をテーマにお届けします。  &lt;/p&gt;
+&lt;p&gt;みなさま奮ってご参加ください～！  &lt;/p&gt;
+&lt;h1&gt;PyLadies Caravanとは&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://tokyo.pyladies.com/caravan/index.html" rel="nofollow"&gt;https://tokyo.pyladies.com/caravan/index.html&lt;/a&gt;  &lt;br&gt;
+Pythonを通じてプログラミングを学んだり、現役エンジニア、Pythonistaと交流したりして、女性同士新たなPython仲間と出会う場になればという思いで企画したイベントです。&lt;/p&gt;
+&lt;p&gt;プログラミングってなんだろうという方、Pythonを新たに学んでみたい方、No Python, No Life!な方、などを対象に、各回テーマを決めて開催していきます。&lt;/p&gt;
+&lt;h1&gt;PyLadies Caravan in 静岡おしながき&lt;/h1&gt;
+&lt;p&gt;PyLadies Caravan in 静岡は、Pythonでデータ分析にチャレンジしたい方に向けたセッションを2つご用意しました！&lt;br&gt;
+まずはデータ分析のイロハを学び、その結果をWebフレームワークで可視化してみるというセッション構成です。&lt;/p&gt;
+&lt;h3&gt;Pythonデータ分析コトハジメ (ハンズオン) @kanan&lt;/h3&gt;
+&lt;p&gt;Pythonでデータ分析をこれからはじめたい！そんな方に向けたPython分析編の基本のキをハンズオン形式で学びます。&lt;/p&gt;
+&lt;h3&gt;Streamlit で分析結果をWEB公開しよう（ハンズオン） @maaya8585&lt;/h3&gt;
+&lt;p&gt;Webアプリケーション開発のフレームワークStreamlitを使って分析結果を可視化してWeb上で公開できる準備をしてみましょう～&lt;/p&gt;
+&lt;h3&gt;ライトなデータ分析をしたい！ @mizzsugar&lt;/h3&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;h3&gt;懇親会&lt;/h3&gt;
+&lt;p&gt;懇親会どっかに繰り出します！参加したい方、お気軽にどうぞ～！&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="center"&gt;時間&lt;/th&gt;
+&lt;th align="center"&gt;題目&lt;/th&gt;
+&lt;th align="center"&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;13:00 -&lt;/td&gt;
+&lt;td align="center"&gt;開場・受付開始&lt;/td&gt;
+&lt;td align="center"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;13:30 - 13:35&lt;/td&gt;
+&lt;td align="center"&gt;オープニング：PyLadiesについて&lt;/td&gt;
+&lt;td align="center"&gt;スタッフ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;13:35 - 14:00&lt;/td&gt;
+&lt;td align="center"&gt;♪自己紹介タイム♪&lt;/td&gt;
+&lt;td align="center"&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;14:00 - 14:50&lt;/td&gt;
+&lt;td align="center"&gt;Pythonデータ分析コトハジメ (ハンズオン)&lt;/td&gt;
+&lt;td align="center"&gt;@kanan&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;14:50 - 15:00&lt;/td&gt;
+&lt;td align="center"&gt;休憩&lt;/td&gt;
+&lt;td align="center"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;15:00 - 16:10&lt;/td&gt;
+&lt;td align="center"&gt;Streamlit で分析結果をWEB公開しよう（ハンズオン）&lt;/td&gt;
+&lt;td align="center"&gt;@maaya8585&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;16:10 - 16:15&lt;/td&gt;
+&lt;td align="center"&gt;休憩&lt;/td&gt;
+&lt;td align="center"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;16:15 - 16:45&lt;/td&gt;
+&lt;td align="center"&gt;ライトなデータ分析をしたい！&lt;/td&gt;
+&lt;td align="center"&gt;@mizzsugar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;16:45 - 17:00&lt;/td&gt;
+&lt;td align="center"&gt;クロージング＆片付け&lt;/td&gt;
+&lt;td align="center"&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;17:00&lt;/td&gt;
+&lt;td align="center"&gt;撤退&lt;/td&gt;
+&lt;td align="center"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;18:00-&lt;/td&gt;
+&lt;td align="center"&gt;懇親会&lt;/td&gt;
+&lt;td align="center"&gt;希望者のみ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;イベント対象者&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Pythonをこれからはじめてみたい方&lt;/li&gt;
+&lt;li&gt;Python 色々できるらしいけど一体何ができるんだ？！と思ってる方&lt;/li&gt;
+&lt;li&gt;初めてだけどとにかく何か出来上がるワクワク感を楽しんでみたい方&lt;/li&gt;
+&lt;li&gt;女性エンジニアが集まる場でわいわいしたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本イベントは女性を対象とさせていただいております。   &lt;/p&gt;
+&lt;h1&gt;持ち物&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;PC  &lt;/li&gt;
+&lt;li&gt;おやつ&lt;/li&gt;
+&lt;li&gt;飲み物 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1人1品のおやつの持ち寄りをお願いします。  &lt;br&gt;
+個包装されているお菓子がオススメ！  &lt;br&gt;
+パソコンを触るので手が汚れないおやつがオススメ！！    &lt;/p&gt;
+&lt;h1&gt;事前準備&lt;/h1&gt;
+&lt;p&gt;Python3.11 以上, Chromeなどのブラウザが入っているPCをご用意ください。&lt;br&gt;
+&lt;strong&gt;会場はWifiなし、または通信速度が遅い可能性がある為、できるだけ事前に環境準備をお願いします。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;①Python3.13までのPython3系インストール(3.10の動作保証はしません)&lt;br&gt;
+&lt;a href="https://www.python.org/" rel="nofollow"&gt;https://www.python.org/&lt;/a&gt;    &lt;br&gt;
+上記ページ内「downloads」からpython3.13を入手し、インストールしましょう。    &lt;br&gt;
+&lt;strong&gt;&lt;a href="https://www.anaconda.com/" rel="nofollow"&gt;anaconda&lt;/a&gt;は利用しないでください&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;やり方がよくわからないと言う方は以下のページが参考になると思います。&lt;br&gt;
+&lt;a href="http://bootcamp-text.readthedocs.io/textbook/1_install.html" rel="nofollow"&gt;http://bootcamp-text.readthedocs.io/textbook/1_install.html&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Windowsの方には以下のページがおすすめです。&lt;br&gt;
+&lt;a href="https://www.python.jp/install/windows/install.html" rel="nofollow"&gt;https://www.python.jp/install/windows/install.html&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;②Visual Studio Codeのインストール   &lt;br&gt;
+下記URLからエディタ（Visual Studio Code）をインストールしてきてください。&lt;br&gt;
+Visual Studio Code ※無料&lt;br&gt;
+&lt;a href="https://code.visualstudio.com/" rel="nofollow"&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;③Pythonの外部ライブラリのインストール    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jupyter&lt;/li&gt;
+&lt;li&gt;streamlit&lt;/li&gt;
+&lt;li&gt;seaborn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;④ハンズオンコードのダウンロード&lt;br&gt;
+&lt;a href="https://drive.google.com/drive/folders/1HtpH5z1dFipI9ZwEqtYC4_O8HQ2wrj4y?usp=sharing" rel="nofollow"&gt;Session1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://github.com/mahya8585/caravan-Streamlit-handson" rel="nofollow"&gt;Session2&lt;/a&gt;    &lt;br&gt;
+&lt;a href="https://github.com/mahya8585/caravan-Streamlit-handson/blob/main/alien.png" rel="nofollow"&gt;Streamlit Hands-onで使う画像&lt;/a&gt;
+&lt;a href="https://caravan-app-handson-hiroshima.streamlit.app/" rel="nofollow"&gt;Streamlit Hands-onの教科書&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;わからないことなどありましたら PyLadies JapanのSlackもしくは Twitter @PyLadiesTokyo もしくは本イベントのお問い合わせページからご質問いただければスタッフが対応いたします。おきがるにどうぞ。    &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bit.ly/1fqJkNu" rel="nofollow"&gt;PyLadies Japan Slack参加申請はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;会場について&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;静岡市コ・クリエーションスペース  &lt;br&gt;
+〒420-0857　静岡県静岡市葵区御幸町3-21 ペガサート7 階&lt;br&gt;
+&lt;br&gt;
+ACCESS  &lt;br&gt;
+&lt;a href="https://coc-shizuoka.jp/" rel="nofollow"&gt;静岡市コ・クリエーションスペース&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;参加登録時のアンケートご協力のお願い&lt;/h3&gt;
+&lt;p&gt;会場の利用に際し、事前に参加者の氏名・メールアドレスの提出が必要となりますので、ご協力お願いします。&lt;br&gt;
+connpass参加登録時にアンケートへ入力をお願いします。  &lt;/p&gt;
+&lt;h1&gt;PyLadies Tokyoとは？&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://tokyo.pyladies.com/" rel="nofollow"&gt;PyLadies Tokyo&lt;/a&gt; は&lt;a href="http://www.pyladies.com/" rel="nofollow"&gt;PyLadies&lt;/a&gt; の東京支部としてPythonが好きな女性同士をつなぎ、ともにスキルアップしていくために活動しています。&lt;br&gt;
+本コミュニティでは Python が好きな女性の参加者を絶賛募集中です^^！&lt;br&gt;
+初心者／熟練者問いません。Pythonでコードを書いたことがない・・・という方でもPythonに興味があればお気軽にご参加下さい。なお、&lt;strong&gt;男性は参加出来ません。&lt;/strong&gt;あらかじめご了承下さい。&lt;/p&gt;
+&lt;h1&gt;行動規範&lt;/h1&gt;
+&lt;p&gt;PyLaides のイベントに参加する、発表する、スタッフとしてイベントを運営するなどPyLadiesにかかわる全ての人は以下のCode Of Conduct (行動規範) を守る必要があります。参加者がお互いに敬意を払って楽しい時間を過ごせるよう、ご理解ご協力をお願いいたします。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pyladiestokyo.github.io/handbook/member/coc.html" rel="nofollow"&gt;https://pyladiestokyo.github.io/handbook/member/coc.html&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://pyladies-tokyo.connpass.com/event/371957/</guid><enclosure url="https://media.connpass.com/thumbs/47/b3/47b314f1ed113aa10254768c693a1c19.png" length="0" type="image/png"/><pubDate>Sat, 13 Dec 2025 13:30:00 +0900</pubDate></item><item><title>[ゆるIT勉強会浜松] 土曜勉強会 (+懇親会)</title><link>https://progdojo-hmmt.connpass.com/event/371350/</link><description>📍 会場: 浜松市市民協働センター
+住所: 静岡県浜松市中区中央一丁目13-3
+
+ゆるふわIT勉強会リアル会の部
+
+
+
+
+&lt;h1&gt;IT勉強会 ＋ 懇親会(飲み会またはファミレス) です。&lt;/h1&gt;
+&lt;p&gt;IT全般に関するリアル勉強会です。&lt;/p&gt;
+&lt;p&gt;毎週やっている「ゆるふわIT勉強会浜松」ですが、久々に土曜日の開催です。&lt;/p&gt;
+&lt;h2&gt;時間&lt;/h2&gt;
+&lt;p&gt;16:00から勉強会スタートですが、それより前の時間からフリースペースで作業したりお茶したり雑談したりしていただいても構いません。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="left"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;15時頃～&lt;/td&gt;
+&lt;td align="left"&gt;２Fフリースペースにゆるく集合&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:00～17:55&lt;/td&gt;
+&lt;td align="left"&gt;第1部 勉強会 (会議室スタジオ )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:15くらい&lt;/td&gt;
+&lt;td align="left"&gt;第2部 飲み会に出発  (懇親会のみ参加はここまでに集合)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者が十分集まれば、会議室を借ります  → ２F奥のスタジオを借りました。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;勉強会の内容&lt;/h1&gt;
+&lt;p&gt;いつも、だいたい4,5名の方よりLTやプレゼンがあります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;テーマは、IT全般及びプログラミング全般を対象としてます。&lt;/li&gt;
+&lt;li&gt;今回は、AIコーディング等に関する話題が多めとなりそうです。&lt;/li&gt;
+&lt;li&gt;LTは早いもの勝ちで。後になるほど時間が少なくなるかも。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;過去の勉強会では、主に次のような話題が多めでした。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;最近出た話題: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI関連話題。&lt;ul&gt;
+&lt;li&gt;AIコーディング&lt;/li&gt;
+&lt;li&gt;MCP の 概要解説&lt;/li&gt;
+&lt;li&gt;MCPサーバー自作例として 作曲サーバー&lt;/li&gt;
+&lt;li&gt;LLMプロンプトエンジニアリング本の読書と解説&lt;/li&gt;
+&lt;li&gt;LLM Transformer の基本アーキテクチャの解説&lt;/li&gt;
+&lt;li&gt;G検定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MakerFair出展報告&lt;/li&gt;
+&lt;li&gt;電子辞書ハッキング、レトロゲーム機ハッキング&lt;/li&gt;
+&lt;li&gt;画像および音楽のVJ、ライブコーディング&lt;/li&gt;
+&lt;li&gt;Lean言語、V言語。&lt;/li&gt;
+&lt;li&gt;Gitの仕組み (Gitが分かると言えるには、Git作れるくらい仕組みを知る) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;これまで学んできたこと: [機械学習, DNN, データ分析, 統計学, ベイズ推論, 画像処理, Python, Rust などなど]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+&lt;h2&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;浜松駅から北方向に徒歩10分程にある「浜松市民協働センター(はまこら)」にゆるく集まってください。&lt;/p&gt;
+&lt;p&gt;「ゆるIT勉強会浜松」という名前で16:00～18:00まで会議室予約済みですが、フリースペースはその時間以外も使えます。&lt;/p&gt;
+
+
+&lt;h2&gt;このグループの概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;本勉強会は、IT技術・CS(Computer Science)・プログラミング全般の基礎技術に関して、情報交換や勉強の助け合いを目的としています。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本勉強会は、オンラインでも活動しており、SlackおよびDiscordにて、ITに関する情報交換や勉強会や本の読書会などを週1以上のペースで行っています。   &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;関連する勉強会&lt;/h4&gt;
+&lt;p&gt;次もよろしくお願いします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;静岡西部のPython勉強会 &lt;a href="https://unagi-py.connpass.com/" rel="nofollow"&gt;Unagi.py&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</description><guid isPermaLink="false">https://progdojo-hmmt.connpass.com/event/371350/</guid><enclosure url="https://media.connpass.com/thumbs/81/fb/81fb7e2df4e49c864711f5b10fcb9b54.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 16:00:00 +0900</pubDate></item><item><title>JAWS-UG静岡市 AWS勉強会 202511</title><link>https://jawsug-shizuoka.connpass.com/event/370233/</link><description>📍 会場: ship
+住所: 静岡県静岡市葵区呉服町２丁目７−２
+
+～静岡市支部リブート！！～
+
+&lt;p&gt;どうもこんにちは！静岡市支部です。しばらく、休眠していたのですが、
+この度、静岡市支部リブート企画として、AWSに関するライトニングトーク大会を開催します！&lt;/p&gt;
+&lt;p&gt;テーマはAWSに関するLTであれば、何でもOKです。LT初心者、リブートをテーマにLTしたい、静岡から発信していきたい
+など、なんでもＯＫ！ふるってご参加ください。仕事帰りなどライトに参加お願いします！&lt;/p&gt;
+&lt;h2&gt;日時&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日付: 2025年11月14日 (金)  &lt;/li&gt;
+&lt;li&gt;時間: 18:15～20:00　（勉強会開始は18:30~）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;会場名: SHIP (&lt;a href="https://ship-shizuoka.jp/" rel="nofollow"&gt;https://ship-shizuoka.jp/&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;住所: 静岡県静岡市葵区呉服町２丁目７−２６　静専ビル2F &lt;/li&gt;
+&lt;li&gt;アクセス: JR静岡駅から徒歩8分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;会場は、上記に決定しました。(10/2 追記)&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;クラウドやAWSに興味のある方  &lt;/li&gt;
+&lt;li&gt;エンジニア同士で交流したい方  &lt;/li&gt;
+&lt;li&gt;初心者歓迎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本編終了後に会場周辺の飲食店にて懇親会を開催予定です。(有料)&lt;/p&gt;
+&lt;h2&gt;LT実施者の方へ&lt;/h2&gt;
+&lt;p&gt;会場の特性上、会場に訪問した本イベントに参加しない一般の方がLTを聞く場合があります。
+LT内容は、他の来場者に聞かれても問題ない内容としてご配慮をお願い致します。
+（聞かれることで、セキュリティインシデントにつながる内容でないこと、など。）&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:15&lt;/td&gt;
+&lt;td&gt;開場・受付&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:40&lt;/td&gt;
+&lt;td&gt;LT枠1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:50&lt;/td&gt;
+&lt;td&gt;LT枠2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;LT枠3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10&lt;/td&gt;
+&lt;td&gt;LT枠4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:20&lt;/td&gt;
+&lt;td&gt;LT枠5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30&lt;/td&gt;
+&lt;td&gt;LT枠6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:40&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;JAWS-UG 参加する方法/ルールとマナー&lt;/h2&gt;
+&lt;p&gt;以下、一読ください。&lt;br&gt;
+&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://jawsug-shizuoka.connpass.com/event/370233/</guid><enclosure url="https://media.connpass.com/thumbs/05/31/0531894615de5d2df26b6fa0a571d6f9.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 18:15:00 +0900</pubDate></item><item><title>第3回 JAZUG Shizuoka</title><link>https://jazug.connpass.com/event/368296/</link><description>📍 会場: 浜松市市民協働センター(第3研修室)
+住所: 〒430-0929 静岡県浜松市中央区中央１丁目１３−３
+
+JAZUG Shizuoka 第3回イベント！LT大会！
+
+&lt;h1&gt;🎶本イベントについて&lt;/h1&gt;
+&lt;p&gt;今年2月に再始動した&lt;strong&gt;JAZUG Shizuoka&lt;/strong&gt;の第3回のイベントです。&lt;/p&gt;
+&lt;p&gt;今回もLT大会を開催します！&lt;br&gt;
+&lt;strong&gt;LTにご登壇頂ける方&lt;/strong&gt;を募集していますので是非お申し込みください！&lt;/p&gt;
+&lt;p&gt;これまでのJAZUG Shizuokaのイベントでも「初登壇です！」といった方もいっしゃいました🎉&lt;br&gt;
+「登壇なんてハードル高い...」と思っている方こそ、初めての登壇の場としてご活用いただければと思います😊&lt;/p&gt;
+&lt;p&gt;登壇テーマはAzureに関わっていればなんでもOKです！&lt;br&gt;
+入門レベルのテーマから、そんなコアな部分を？！といったところまで幅広く募集しています。  &lt;/p&gt;
+&lt;p&gt;例：&lt;br&gt;
+「SWA CLIを使ってローカルからStatic Web Appsにデプロイしてみた」&lt;br&gt;
+「Azureの設定をミスって本番環境でやらかしてしまった話とその防止策について」&lt;br&gt;
+「Microsoft Igniteで個人的に気になった情報を紹介します！」  &lt;/p&gt;
+&lt;p&gt;Shizuokaと名を冠していますが、県外からの参加者も募集していますので&lt;br&gt;
+隣県の方や、静岡に遊びに来てみたい方もぜひご参加ください！&lt;/p&gt;
+&lt;p&gt;しばらくは浜松市や静岡市での開催を検討していますが&lt;br&gt;
+コミュニティの活動が軌道に乗ってこれば、県内各地での開催も予定しています！&lt;br&gt;
+是非、静岡県全体でAzureコミュニティを盛り上げていきましょう！&lt;/p&gt;
+&lt;h1&gt;🐱JAZUG(Japan Azure Users Group)について&lt;/h1&gt;
+&lt;p&gt;JAZUGはMicrosoft Azure を学び、楽しみ、活かす、日本のユーザーグループです。&lt;br&gt;
+&lt;a href="https://www.facebook.com/jazug.jp" rel="nofollow"&gt;https://www.facebook.com/jazug.jp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;そして、2025年2月よりJAZUG静岡が&lt;strong&gt;JAZUG Shizuoka&lt;/strong&gt;として再始動しました。
+&lt;a href="https://www.facebook.com/groups/jazshizu/" rel="nofollow"&gt;https://www.facebook.com/groups/jazshizu/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JAZUGのイベントは東京がメインでなかなか行けない！    &lt;/li&gt;
+&lt;li&gt;地方でも Azure の話をして盛り上げたい！  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;といった方に是非ご参加いただきたいと思います。&lt;br&gt;
+今後もオフラインを中心として、LT会やもくもく会等を企画していきます😎  &lt;/p&gt;
+&lt;h1&gt;⏱️タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;タイトル&lt;/th&gt;
+&lt;th&gt;スピーカー(敬称略)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:05-15:20&lt;/td&gt;
+&lt;td&gt;Azure AI Red Teaming Agent駆使してAIの安全性を担保&lt;/td&gt;
+&lt;td&gt;Akira Sato&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:25-15:40&lt;/td&gt;
+&lt;td&gt;LT②&lt;/td&gt;
+&lt;td&gt;鈴木航二&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:45-16:00&lt;/td&gt;
+&lt;td&gt;Azure Kubernetes Service(AKS)を開発運用したことによる気づき&lt;/td&gt;
+&lt;td&gt;増田 和己&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00-16:15&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:15-17:30&lt;/td&gt;
+&lt;td&gt;Microsoft Ignite 2025で発表されたAKSのアップデートを振り返る（仮）&lt;/td&gt;
+&lt;td&gt;若葉 香月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:35-16:50&lt;/td&gt;
+&lt;td&gt;リアルタイム音声モデル gpt-realtime を使った音声対話ツール&lt;/td&gt;
+&lt;td&gt;しろくま（Hiorki, Nomura）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:55-17:10&lt;/td&gt;
+&lt;td&gt;LT⑥&lt;/td&gt;
+&lt;td&gt;T.B.D.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:10-17:30&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00-&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;登壇者の都合によってタイムテーブルや内容が変更される可能性はありますが&lt;br&gt;
+開始時間と、終了時間は変更ない予定です。&lt;/p&gt;
+&lt;h1&gt;📃セッション概要&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;LT枠登壇者、絶賛募集中です！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「トークテーマ決まってないけど、なんか発表します」というのもOKなので、とりあえずお申込みください！&lt;br&gt;
+LTの登壇や発表内容に関して不明点などありましたら、Xにて&lt;a href="https://x.com/satodayo1115" rel="nofollow"&gt;@satodayo1115&lt;/a&gt;までご連絡ください。&lt;/p&gt;
+&lt;h2&gt;LT①:Azure AI Red Teaming Agent駆使してAIの安全性を担保&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+Azure AI Foundry上で利用可能な「Azure AI Red Teaming Agent」を活用することで、AIを活用したアプリの安全性を高め、様々なリスクから身を守ることが可能です。&lt;br&gt;
+AIに対する様々な攻撃手法や、攻撃に対する堅牢性の評価方法をご紹介します！&lt;br&gt;
+【スピーカー】&lt;br&gt;
+Akira  Sato&lt;br&gt;
+回路設計がしたくて浜松のメーカーに新卒入社するものの、なぜか組み込みソフトウェアの開発部署に配属されてキャリアをスタート。そこからなんやかんやスマホアプリやWebアプリの開発にも携わるようになり、現職においてはAzureや生成AIを活用したサービスの開発を推進。ブログや登壇などのアウトプットも積極的に行っています！&lt;br&gt;
+&lt;a href="https://x.com/satodayo1115" rel="nofollow"&gt;@satodayo1115&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;LT②:T.B.D.&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+T.B.D&lt;br&gt;
+【スピーカー】&lt;br&gt;
+ 鈴木航二 さん    &lt;/p&gt;
+&lt;h2&gt;LT③:Azure Kubernetes Service(AKS)を開発運用したことによる気づき&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+ある国家系プロジェクトにてAKSの開発運用を行い、その際の気づきや改善点を簡単に共有したい &lt;br&gt;
+【スピーカー】&lt;br&gt;
+増田 和己 さん&lt;br&gt;
+在住は千葉県ですが趣味のロードバイクで度々静岡に来ており、さらに静岡をするきっかけになると思い参加させていただいた。      &lt;/p&gt;
+&lt;h2&gt;LT④:Microsoft Ignite 2025で発表されたAKSのアップデートを振り返る（仮）&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+2025年11月18日から21日に開催されるMicrosoft Ignite 2025ではAIだけでなく様々なアップデートが予想されます。&lt;br&gt;
+その中でもAzureのマネージドなKubernetesサービス・AKSにおいてどのようなアップデートがあったかをお話します。     &lt;br&gt;
+【スピーカー】&lt;br&gt;
+若葉 香月 さん&lt;br&gt;
+都内SIerでインフラエンジニアとして事業会社のCI/CD基盤や開発プラットフォームの運用全般を担当。技術分野ではAzureを含むMicrosoft製品、GitHub製品に興味あり。&lt;br&gt;
+2025年5月にAzure Compute InfrastructureおよびAzure NetworkingのカテゴリにてMicrosoft MVPを受賞。    &lt;/p&gt;
+&lt;h2&gt;LT⑤:リアルタイム音声モデル gpt-realtime を使った音声対話ツール&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+リアルタイム音声モデル gpt-realtime を使って、会話しながらリアルタイムに外部ツールを呼び出して、タスクを完遂する仕組みをお話しします！ &lt;br&gt;
+【スピーカー】&lt;br&gt;
+しろくま（Hiorki, Nomura） さん&lt;br&gt;
+名古屋でエンジニアをしています。Azure や 生成AI 、GitHub Copilot、Microsoft365 Copilot などの技術検証とそこで得たノウハウのOutputをしてます！&lt;/p&gt;
+&lt;h2&gt;LT⑥:T.B.D.&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+T.B.D.  &lt;br&gt;
+【スピーカー】&lt;br&gt;
+T.B.D.  &lt;/p&gt;
+&lt;h1&gt;🏟️ 開催場所&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://maps.app.goo.gl/ZdWvpvdTyUWvfULR9" rel="nofollow"&gt;浜松市市民協働センター(はまこら)&lt;/a&gt;&lt;br&gt;
+〒430-0929 静岡県浜松市中央区中央１丁目１３−３
+第3研修室  &lt;/p&gt;
+&lt;p&gt;※施設に駐車場はございません。&lt;br&gt;
+近隣の有料駐車場、または公共交通機関をご利用ください。　&lt;/p&gt;
+&lt;h1&gt;🤝行動規約&lt;/h1&gt;
+&lt;p&gt;私たちは、勉強会に参加する全員をコミュニティメンバーと考えています。&lt;br&gt;
+すべてのコミュニティメンバーが悲しむことがないよう、以下のような迷惑行為は禁止させていただきます。&lt;br&gt;
+迷惑行為を取られた方は、即刻退場いただくとともに、次回以降の勉強会への参加をお断りします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者、スピーカー、スタッフ、各種スポンサーを含むすべてのコミュニティメンバーに対するハラスメント行為&lt;/li&gt;
+&lt;li&gt;人材紹介、転職、宗教、マルチ商法など、本勉強会とは関係のない勧誘や営業活動 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;また、セッション中の写真撮影は、シャッター音など周りの方へのご配慮をお願いいたします。 &lt;br&gt;
+次回以降の勉強会のリクエストは大歓迎です。&lt;br&gt;
+『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/368296/</guid><enclosure url="https://media.connpass.com/thumbs/71/25/7125780c4da9887f6cd5b056c068789b.png" length="0" type="image/png"/><pubDate>Sat, 29 Nov 2025 14:30:00 +0900</pubDate></item></channel></rss>

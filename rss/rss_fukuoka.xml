@@ -1,2 +1,550 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:09:06 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:11:04 +0000</lastBuildDate><item><title>自家製LLMを作ろう：BPEトークナイザー</title><link>https://i-love-ai.connpass.com/event/374541/</link><description>📍 会場: エンジニアカフェ
+住所: 福岡市中央区天神1丁目15番30号
+
+論文を読み、BPE（Byte-Pair Encoding）トークナイザーを実装し、訓練します。
+
+&lt;h1&gt;自家製LLMを作ろう：BPEトークナイザー&lt;/h1&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;自家製LLMは、個人が大量のテキストデータからデータセットを作り、構築・訓練した大規模言語モデルです。&lt;/p&gt;
+&lt;p&gt;このプロジェクトでは&lt;a href="https://en.wikipedia.org/wiki/Andrej_Karpathy" rel="nofollow"&gt;Karpathy&lt;/a&gt;（OpenAIの共同創業者）の&lt;a href="https://github.com/karpathy/nanochat" rel="nofollow"&gt;nanochat&lt;/a&gt;の実装を理解し、自家製LLMの完成を目指します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://arxiv.org/abs/1508.07909" rel="nofollow"&gt;論文&lt;/a&gt;を読み、自家製LLMのデータセットを構築するために必要なBPE（Byte-Pair Encoding）トークナイザーを作り、大量のテキストデータで学習させます。&lt;/p&gt;
+&lt;h2&gt;資料&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;当日18:00に資料のURLをコンパスのメッセージで送信します。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以下は「OpenAI製TritonでGPUカーネルを作ろう」のワークショップのサンプルです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/hayatoshibahara/triton-softmax/blob/main/main.ipynb" rel="nofollow"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://colab.research.google.com/github/hayatoshibahara/triton-softmax/blob/main/main.ipynb" rel="nofollow"&gt;Google Colab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;現地参加&lt;/h2&gt;
+&lt;p&gt;エンジニアカフェ地下のミーティングスペース&lt;/p&gt;
+&lt;h2&gt;リモート参加&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;当日18:00にGoogle MeetのURLをコンパスのメッセージで送信します。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;準備&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://colab.research.google.com" rel="nofollow"&gt;Google Colab&lt;/a&gt;を利用できる状態のパソコン&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huggingface.co/" rel="nofollow"&gt;Hugging Face&lt;/a&gt;のAPIキー&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wandb.ai/" rel="nofollow"&gt;Weights &amp;amp; Biases&lt;/a&gt;のAPIキー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムライン&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00 ~ 20:30&lt;/td&gt;
+&lt;td&gt;ワークショップ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;講師&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;芝原 隼人&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マッドソフト株式会社代表取締役。3Dダンスモーション生成AIサービス「最強AIダンサー」開発者。慶應義塾大学電子工学科卒、同大学院メディアデザイン研究科博士課程中退後、メガベンチャーでAIを活用したサービスの開発に従事。福岡市主催のハッカソンと起業プログラムでの受賞をきっかけに創業。「面白いプロダクトを作り、世界を変える」ミッションを持ち、新技術の研究開発と社会実装に取り組む。エンジニアカフェコミュニティーマネージャーでもある。&lt;/p&gt;
+&lt;h2&gt;エンジニアカフェ&lt;/h2&gt;
+&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
+&lt;h2&gt;福岡市赤煉瓦文化館&lt;/h2&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;</description><guid isPermaLink="false">https://i-love-ai.connpass.com/event/374541/</guid><enclosure url="https://media.connpass.com/thumbs/a5/77/a5771910433b2ce51b18cb37fb2007f2.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 19:00:00 +0900</pubDate></item><item><title>第109回CoderDojo久留米</title><link>https://coderdojo-kurume.connpass.com/event/374504/</link><description>📍 会場: みんくる
+住所: 久留米市六ツ門町3−11(くるめりあ六ツ門6階)
+
+子どものためのプログラミング道場
+
+&lt;h1&gt;今回のCoderDojoは会場みんくる  交流スペース1 開催です！&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;CoderDojo久留米の流れ&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;
+１３：３０　会場準備&lt;br&gt;
+１４；００　はじめに（説明）&lt;br&gt;
+　　　　　　自己紹介＋きょうやること&lt;br&gt;
+　　　　　　プログラミングなど創作活動&lt;br&gt;
+１６；００　成果物発表&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Facebookにも情報をお届けしますが、Facebookをやってない方もいらっしゃいますので新しい情報収集手段として
+CoderDojo久留米参加者用の&lt;a href="https://line.me/ti/g2/qd9TlNa7umISx-V4KpAWAg?utm_source=invitation&amp;amp;utm_medium=link_copy&amp;amp;utm_campaign=default" rel="nofollow"&gt;LINEオープンチャット&lt;/a&gt;も開設しました。CoderDojo久留米に参加したことがあるかた、参加してみたい方を対象としています。&lt;/p&gt;
+&lt;h2&gt;CoderDojo久留米とは？&lt;/h2&gt;
+&lt;p&gt;次世代のプログラマを育てるためのボランティアで運営される無料のプログラミング道場です。&lt;br&gt;
+CoderDojo 久留米の詳細につきましては、CoderDojo久留米の&lt;a href="https://www.facebook.com/CoderDojoKurume/" rel="nofollow"&gt;facebookページ&lt;/a&gt;を御覧ください。&lt;/p&gt;
+&lt;h2&gt;参加対象&lt;/h2&gt;
+&lt;p&gt;対象年齢：7歳〜17歳&lt;br&gt;
+(小学校低学年１、２年のお子さまには保護者さまが横についていただきますようお願いします）&lt;/p&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料です。&lt;/p&gt;
+&lt;h2&gt;開催場所&lt;/h2&gt;
+&lt;p&gt;みんくる&lt;br&gt;
+久留米市六ツ門町3−11 くるめりあ六ツ門6階&lt;br&gt;
+交流スペース&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;駐車場割引サービスあり&lt;/p&gt;
+&lt;p&gt;詳しくは&lt;a href="https://kurume-kyodo.jp/access_parking/" rel="nofollow"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;用意するもの&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;パソコン&lt;br&gt;
+iPadやタブレットでも可&lt;br&gt;
+*各自水分補給用の飲み物（会場は飲食OKです）&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CoderDojo備品&lt;br&gt;
+TOIO２セット
+Micro:bit
+その他書籍あり&lt;/p&gt;
+&lt;h2&gt;申し込み方法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;connpassからのお申し込み&lt;/b&gt;&lt;br&gt; 
+　当ページで「このイベントに申し込む」を押してください。&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※ キャンセルは「申し込みキャンセル」ボタンを押してください。&lt;/p&gt;
+&lt;h2&gt;撮影について&lt;/h2&gt;
+&lt;p&gt;CoderDojo当日は、イベントの内容の写真撮影・ビデオ撮影をさせていただきます。撮影した写真や映像等はSNSなどで使わせていただきます。基本的には参加者は写真撮影・ビデオ撮影 OK という認識でおりますので、もし写真撮影・ビデオ撮影がNGな方はご連絡ください&lt;/p&gt;
+&lt;h2&gt;新型コロナウイルス感染症対策の方針&lt;/h2&gt;
+&lt;p&gt;基本方針&lt;br&gt;
+&lt;br&gt;
+マスク着用は個人の自由とします。こちらからお願いすることはありません。&lt;br&gt;
+差し入れのおやつを食べる際には手をきれいにしてから食べましょう！&lt;br&gt;
+手洗い場、消毒液はあります。&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;CoderDojoガイダンス&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/presentation/d/e/2PACX-1vTukDtBzvD62d9rNLBY1kXp8arXJBnB-Lq6YWSW5oZXoeokGLscob1HNYzmD7mIIxhkoQyCJVoFAFvh/pub?start=false&amp;amp;loop=true&amp;amp;delayms=3000" rel="nofollow"&gt;https://docs.google.com/presentation/d/e/2PACX-1vTukDtBzvD62d9rNLBY1kXp8arXJBnB-Lq6YWSW5oZXoeokGLscob1HNYzmD7mIIxhkoQyCJVoFAFvh/pub?start=false&amp;amp;loop=true&amp;amp;delayms=3000&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;知っておきたい!CoderDojo用語&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dojo(道場) - プログラミングしにくる場所&lt;/li&gt;
+&lt;li&gt;Ninja(ニンジャ) - 参加している子供達&lt;/li&gt;
+&lt;li&gt;Mentor(メンター) - ニンジャの手助けをする大人&lt;/li&gt;
+&lt;/ul&gt;</description><guid isPermaLink="false">https://coderdojo-kurume.connpass.com/event/374504/</guid><enclosure url="https://media.connpass.com/thumbs/cf/09/cf0901e793af882403a173f006a98617.png" length="0" type="image/png"/><pubDate>Sat, 29 Nov 2025 14:00:00 +0900</pubDate></item><item><title>Pythonチュートリアルから量子回路のプログラミングまでやりたい #20</title><link>https://engineercafe.connpass.com/event/374382/</link><description>📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）
+住所: 福岡市中央区天神1丁目15番30号
+
+【VTube配信（α版）】雑談しながらプログラミングするよ？(20/n)
+
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;中の人がプログラミングの勉強をする様子を雑談しながら配信します。拾いきれるかわからないですが、チャット欄で適宜コメントいただけると喜びます。&lt;/p&gt;
+&lt;p&gt;量子コンピュータのPythonライブラリで遊ぶことを目指して、&lt;a href="https://docs.python.org/ja/3/tutorial/" rel="nofollow"&gt;チュートリアル&lt;/a&gt;を見ながらPythonの勉強をすすめています。&lt;/p&gt;
+&lt;p&gt;引き続き雑談メインでPythonチュートリアルを進めます。&lt;a href="https://www.youtube.com/watch?v=bmXWECYxZas" rel="nofollow"&gt;前回&lt;/a&gt;は10.3のコマンドライン引数から始めて10章を一通り終えました。今回は11章の標準ライブラリミニツアーその2をやっていきます（前回11.1にちょっと入ったけど、中途半端に終わったので11.1からやります）。量子コンピューティングまでの道のりはまだまだまだまだまだまだまだまだまだまだまだまだまだまだまだまだまだまだ長い。&lt;/p&gt;
+&lt;h4&gt;お約束&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;中の人が誰かわかっても知らない体で&lt;/li&gt;
+&lt;li&gt;内容は中の人のペースで進むので、適宜ググったり学習しながらユルく見てください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;こんな方にオススメ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pythonの雰囲気を味わいたい&lt;/li&gt;
+&lt;li&gt;人がプログラミングの勉強をしている様子を見たい&lt;/li&gt;
+&lt;li&gt;人が勉強しているのをBGM的に流し見したい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;赤煉瓦会館とエンジニアカフェの紹介&lt;/h1&gt;
+&lt;h2&gt;福岡市赤煉瓦文化館について&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="赤煉瓦文化館" src="https://engineercafe.jp/wp/wp-content/uploads/2024/07/2cbbad58b0b89e6d30b796da71612fde.png" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;
+&lt;h2&gt;エンジニアカフェについて&lt;/h2&gt;
+&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
+&lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt;
+&lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt;
+&lt;h2&gt;Engineer Cafe&lt;/h2&gt;
+&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/374382/</guid><enclosure url="https://media.connpass.com/thumbs/ae/db/aedb788b434b5d34a1d3a77df3150f22.png" length="0" type="image/png"/><pubDate>Thu, 13 Nov 2025 16:00:00 +0900</pubDate></item><item><title>vue.jsについて学ぼう！</title><link>https://connpass.com/event/373779/</link><description>📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）
+住所: 福岡市中央区天神1丁目15番30号
+
+
+
+&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt; vue.jsを学ぼう！&lt;/strong&gt; 開発を始めたての初心者の方向けのイベントになります&lt;/p&gt;
+&lt;p&gt;vue.jsはWebサイトやWebアプリのユーザーインターフェース (UI) を開発するためのJavaScriptフレームワークです。
+vue.jsの公式サイトのチュートリアル(&lt;a href="https://ja.vuejs.org/tutorial/#step-1" rel="nofollow"&gt;https://ja.vuejs.org/tutorial/#step-1&lt;/a&gt;) を進めながら学習していくイベントです。HTML 、 CSS 、 JavaScript の基本的な知識を前提とされて作られているので初めに基礎知識について話した後ガイドだけでは理解が難しい言葉などの語句の説明をはさみながら進めていきます。
+チュートリアルの進捗次第でハンズオンの時間が取ることができない場合がございます。その際はご了承ください。&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時：12月15日（月）18:00〜20:00&lt;/li&gt;
+&lt;li&gt;場所：天神エンジニアカフェ（メインホール）&lt;/li&gt;
+&lt;li&gt;参加費：無料&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;対象の方&lt;br&gt;
+　　・開発を始めたての初心者の方&lt;br&gt;
+　　・JavaScriptフレームワークに興味のある方&lt;br&gt;
+　　・フロントエンド開発に興味がある方&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;持ち物:　Visual Studio CodeをインストールしたPC&lt;/li&gt;
+&lt;li&gt;スケジュール:前半チュートリアル　後半ハンズオン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;赤煉瓦会館とエンジニアカフェの紹介&lt;/h1&gt;
+&lt;h2&gt;福岡市赤煉瓦文化館について&lt;/h2&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;
+&lt;h2&gt;エンジニアカフェについて&lt;/h2&gt;
+&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
+&lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt;
+&lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt;
+&lt;h2&gt;Engineer Cafe&lt;/h2&gt;
+&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;
+&lt;p&gt;エンジニアカフェには行動規範がございます。ご一読ください。
+&lt;a href="https://engineercafe.jp/ja/topics/3056" rel="nofollow"&gt;https://engineercafe.jp/ja/topics/3056&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://connpass.com/event/373779/</guid><enclosure url="https://media.connpass.com/thumbs/68/fd/68fd3312839e82ace3c6b761b7a3ac74.png" length="0" type="image/png"/><pubDate>Mon, 15 Dec 2025 18:00:00 +0900</pubDate></item><item><title>第2回 Fukuoka MCP Community</title><link>https://fukuoka-mcp.connpass.com/event/373171/</link><description>📍 会場: 株式会社オルターブース 天神サテライト
+住所: 福岡県福岡市中央区舞鶴3-1-16 福岡DKビル5F
+
+
+
+&lt;h1&gt;🌸本イベントについて&lt;/h1&gt;
+&lt;p&gt;福岡で &lt;a href="https://modelcontextprotocol.io/" rel="nofollow"&gt;MCP (Model Context Protocol)&lt;/a&gt; をテーマにした勉強会です。&lt;br&gt;
+MCP に興味ある方や使っている方、MCP はまだわからないけど AI を使った開発に興味ある方などなど、ご参加ください。&lt;/p&gt;
+&lt;p&gt;今回はGitHub Japanの山本さん（&lt;a href="https://x.com/nnasaki" rel="nofollow"&gt;@nnasaki&lt;/a&gt;）をお迎えして、GitHubのMCP関連のお話しをしていただく予定になっています。ぜひご参加ください！&lt;/p&gt;
+&lt;h1&gt;📆開催日時&lt;/h1&gt;
+&lt;p&gt;2025年11月28日（金） 19:00-20:30&lt;/p&gt;
+&lt;h1&gt;⏰タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="left"&gt;タイトル&lt;/th&gt;
+&lt;th align="left"&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:45&lt;/td&gt;
+&lt;td align="left"&gt;開場・受付&lt;/td&gt;
+&lt;td align="left"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:00&lt;/td&gt;
+&lt;td align="left"&gt;オープニング・会場説明&lt;/td&gt;
+&lt;td align="left"&gt;@tsubakimoto_s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:05&lt;/td&gt;
+&lt;td align="left"&gt;自己紹介タイム&lt;/td&gt;
+&lt;td align="left"&gt;参加者全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:15&lt;/td&gt;
+&lt;td align="left"&gt;登壇（30分枠）：タイトル未定&lt;/td&gt;
+&lt;td align="left"&gt;GitHub Japan 山本さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:55&lt;/td&gt;
+&lt;td align="left"&gt;登壇（10分枠）：タイトル未定&lt;/td&gt;
+&lt;td align="left"&gt;募集中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:10&lt;/td&gt;
+&lt;td align="left"&gt;登壇（10分枠）：タイトル未定&lt;/td&gt;
+&lt;td align="left"&gt;募集中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:30&lt;/td&gt;
+&lt;td align="left"&gt;クロージング&lt;/td&gt;
+&lt;td align="left"&gt;@tsubakimoto_s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;✋登壇者募集&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Fukuoka MCP Community では登壇者を募集しています！&lt;/strong&gt;&lt;br&gt;
+MCP (Model Context Protocol) や周辺技術に関する内容であれば何でも歓迎です。（プログラミング言語も限定しません）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境でのMCPの使い方&lt;/li&gt;
+&lt;li&gt;おすすめのMCPサーバーがある&lt;/li&gt;
+&lt;li&gt;自分なりのAI駆動開発について&lt;/li&gt;
+&lt;li&gt;などなど&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;初登壇も大歓迎です。みんなで盛り上がれると嬉しいです。&lt;/p&gt;
+&lt;h1&gt;🚩会場&lt;/h1&gt;
+&lt;p&gt;株式会社オルターブース&lt;br&gt;
+福岡市中央区舞鶴3-1-16 福岡DKビル5F&lt;/p&gt;
+&lt;p&gt;※会場に到着したら入口の呼び鈴を押してください。&lt;/p&gt;
+&lt;h1&gt;🎤主催者情報&lt;/h1&gt;
+&lt;p&gt;松村 優大 (&lt;a href="https://x.com/tsubakimoto_s" rel="nofollow"&gt;@tsubakimoto_s&lt;/a&gt;)&lt;br&gt;
+株式会社オルターブース / Microsoft MVP / GitHub公認トレーナー&lt;/p&gt;
+&lt;h1&gt;💡注意事項&lt;/h1&gt;
+&lt;h2&gt;🍵飲食について&lt;/h2&gt;
+&lt;p&gt;飲食の持ち込みは節度ある範囲でご自由にどうぞ。&lt;br&gt;
+なおアルコールの持ち込みは禁止しております。&lt;/p&gt;
+&lt;h2&gt;🔌会場の電源について&lt;/h2&gt;
+&lt;p&gt;数に限りがありますので、譲り合って使ってください。&lt;/p&gt;
+&lt;h2&gt;📶会場のネットワークついて&lt;/h2&gt;
+&lt;p&gt;会場のWi-Fiを使用することができます。&lt;/p&gt;
+&lt;h1&gt;🤝行動規範 (Code of Conduct)&lt;/h1&gt;
+&lt;p&gt;私たちは、勉強会に参加する全員をコミュニティメンバーと考えています。すべてのコミュニティメンバーが悲しむことがないよう、以下のような迷惑行為は禁止させていただきます。迷惑行為を取られた方は、即刻退場いただくとともに、次回以降の勉強会への参加をお断りします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者、スピーカー、スタッフ、各種スポンサーを含むすべてのコミュニティメンバーに対する、ハラスメント行為&lt;/li&gt;
+&lt;li&gt;人材紹介、転職、宗教、マルチ商法など、本勉強会とは関係のない勧誘や営業活動&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;また、セッション中の写真撮影は、シャッター音など周りの方へのご配慮をお願いいたします。 次回以降の勉強会のリクエストは大歓迎です。&lt;br&gt;
+『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;【お知らせ】&lt;/h1&gt;
+&lt;p&gt;12月20日（土）に主催の松村がこちらのイベントを開催します。MCP 関連のセッションも予定していますので、ぜひご参加ください。&lt;/p&gt;
+&lt;p&gt;.NET Conf 2025 Fukuoka x Tokyo x Osaka
+&lt;a href="https://fukuten.connpass.com/event/371620/" rel="nofollow"&gt;https://fukuten.connpass.com/event/371620/&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://fukuoka-mcp.connpass.com/event/373171/</guid><enclosure url="https://media.connpass.com/thumbs/b7/60/b76094bebde372687fce46554a6fb2a4.png" length="0" type="image/png"/><pubDate>Fri, 28 Nov 2025 19:00:00 +0900</pubDate></item><item><title>独自 “ステーブルコイン” を発行してみよう！</title><link>https://engineercafe.connpass.com/event/372947/</link><description>📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）
+住所: 福岡市中央区天神1丁目15番30号
+
+ブロックチェーンがどんなものか知りたい ブロックチェーンの基礎をプログラミングしてみたい方はぜひ！
+
+&lt;h2&gt;AIと作ったシンプルな独自通貨発行Web3アプリで体験するブロックチェーン開発の入り口&lt;/h2&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;米国のGENIUS（ジーニアス）法やJPCYなど、ブロックチェーン技術を使った &lt;strong&gt;ステーブルコイン&lt;/strong&gt; が話題になっている昨今。&lt;br&gt;
+デモ用Web3アプリを使用した &lt;strong&gt;独自通貨&lt;/strong&gt; の発行や「MetaMask」ウォレットの利用を通じて、ステーブルコインの基礎となるWeb3アプリの動きを体験します！&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;今回使用するデモ用Web3アプリは、実は &lt;strong&gt;生成AIを活用したバイブコーディング&lt;/strong&gt; で作ってみた非常にシンプルなアプリです🤖&lt;br&gt;
+技術的なキホン部分だけに絞ると、「独自“ステーブルコイン”」（ちゃんと「ステーブルコイン」と言うためには、技術的に価値のペッグをしたり、法的な規制を考慮する必要があります）や「独自通貨」の発行が意外とシンプルなことが分かります。&lt;br&gt;
+ソースコードの読み方が分っていれば、生成AIでのバイブコーディングでもシンプルなWeb3アプリは意外と簡単に動くものが作れることもポイントです💡&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;「通貨」や「トークン」に絞った解説や体験をすることで、&lt;strong&gt;Web3やブロックチェーン技術を「サービスに組み込む」イメージをつける&lt;/strong&gt; ことが目標です💪 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;※あくまで解説目的のイベント用なので、このイベントで登場する「“ステーブルコイン”（みたいなもの）」や「独自通貨」は現実的な価値は持ちません。実際のサービスに落とし込む際には、法律やセキュリティなど慎重に対応してください。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;イベント内で告知もあり！&lt;/h2&gt;
+&lt;p&gt;今後エンジニアカフェで予定しているイベントやプログラムのご案内や説明あります！ 楽しみにしてもらえるようなことです！♪&lt;/p&gt;
+&lt;p&gt;11月上旬に、他のイベントも是非チェックください！ &lt;br&gt;&lt;br&gt;
+＜近日開催のイベント＞ &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;フィジカルAI開発体験（ロボットアーム編）｜11月1日(土)「フィジカルAI開発入門（ロボットアーム編）」   &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://engineercafe.connpass.com/event/372650/" rel="nofollow"&gt;https://engineercafe.connpass.com/event/372650/&lt;/a&gt;  &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WEBアプリAI駆動開発コース 体験イベント｜11月3日(月)「AI Studioで作る！ゲーム開発ハンズオン」   &lt;br&gt;
+&lt;a href="https://engineercafe.connpass.com/event/373050/" rel="nofollow"&gt;https://engineercafe.connpass.com/event/373050/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;こんな方にオススメ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ AIを使った開発に興味がある  &lt;/li&gt;
+&lt;li&gt;✅ 最新の開発手法を体験したい  &lt;/li&gt;
+&lt;li&gt;✅ 11月から始まる「全5回｜WEB3(BLOCKCHAIN)」講座の雰囲気を知りたい  &lt;/li&gt;
+&lt;li&gt;✅ 手持ちの技術を増やしたい  &lt;/li&gt;
+&lt;li&gt;✅ 新しい技術からプロダクトのインスピレーションを得たい  &lt;/li&gt;
+&lt;li&gt;✅ 楽しく何かを作る体験がしたい  &lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;✅ webアプリ開発経験がある&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;✅ ブロックチェーンがどんなものか知りたい&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;✅ ブロックチェーンの基礎をプログラミングしてみたい&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;✅ Web3[Blockchain]やAIなどを用いたプロダクト開発をしてみたい&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;✅ Web3[Blockchain]アプリを使うイメージをつかみたい&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：こちらの日程はあくまで予定です。変更する可能性がありますのでご了承ください。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;コンテンツ&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30～19:00&lt;/td&gt;
+&lt;td&gt;受付開始（ウェルカムドリンク） &lt;strong&gt;※ドリンク1杯無料&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00～19:30&lt;/td&gt;
+&lt;td&gt;ブロックチェーンとトークンの概要説明&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30～20:30&lt;/td&gt;
+&lt;td&gt;デモWeb3アプリを使った独自通貨発行の体験会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:30～20:45&lt;/td&gt;
+&lt;td&gt;他イベントのご紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;登壇者&lt;/h2&gt;
+&lt;p&gt;▶️名前：矢野 航平&lt;br&gt;
+　所属：Engineer Cafe Community Manager&lt;/p&gt;
+&lt;h2&gt;赤煉瓦文化館とエンジニアカフェの紹介&lt;/h2&gt;
+&lt;h3&gt;福岡市赤煉瓦文化館について&lt;/h3&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;
+&lt;h3&gt;エンジニアカフェについて&lt;/h3&gt;
+&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
+&lt;h3&gt;Fukuoka City Akarenga Cultural Center&lt;/h3&gt;
+&lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909.  The structure was designed by Tatsuno Kataoka design office.  As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it.  This architecture is English Queen Anne style.  As the Fukuoka city history museum since 1972.  Engineer Cafe opened on August  21st in 2019.  Many tourists and engineers are visiting here today.&lt;/p&gt;
+&lt;h3&gt;Engineer Cafe&lt;/h3&gt;
+&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka.  As part of the “Engineer Friendly City Fukuoka”, inside of  Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019.  We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/372947/</guid><enclosure url="https://media.connpass.com/thumbs/23/23/2323a1502a654c26066bfc0a859663cc.png" length="0" type="image/png"/><pubDate>Thu, 06 Nov 2025 19:00:00 +0900</pubDate></item><item><title>ハードウェア技術誌を読もう：トランジスタ技術最新号よみあわせ解説会(2025年12月号)</title><link>https://engineercafe.connpass.com/event/369252/</link><description>📍 会場: エンジニアカフェ 1F
+住所: 福岡市中央区天神1丁目15番30号
+
+
+
+&lt;h2&gt;イベントの概要&lt;/h2&gt;
+&lt;p&gt;老舗エレクトロニクス技術誌「トラ技」の最新号を皆でチェックしましょう。&lt;br&gt;
+一人で読むには難しい専門誌も、解説する人や一緒に考える人と一緒に読めばもっと面白いかも。&lt;br&gt;ハードウェアを始めたい人も、ピンポイントでわからない部分がある人も、トレンドを知りたい人もご参加ください！&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;こんな人におすすめです&lt;/h2&gt;
+&lt;p&gt;ハードウェアにも興味があるけど取り掛かりづらい。&lt;br&gt;自分で読んでみたけれど初歩的な部分で詰んでいる。&lt;br&gt;ハードウェア技術の最新動向が知りたい。&lt;br&gt;ハードウェア分野で交流したい。&lt;/p&gt;
+&lt;h3&gt;スケジュール&lt;/h3&gt;
+&lt;p&gt;18:30～18:45 記事一覧の確認と今月号の概説&lt;br&gt; 
+18:45～19:45 見どころ記事詳説&lt;br&gt;
+19:45～20:00 疑問点解説・話題提供(本誌以外のハードウェアトピックスなど)&lt;br&gt;&lt;/p&gt;&lt;p style="color: red;"&gt;11月14日実施回は開始が遅延する可能性があります(最大10分程度)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;準備するもの&lt;/h3&gt;
+&lt;p&gt;表題号のトランジスタ技術本誌&lt;br&gt;
+(手元の紙面を見ながらの読み合わせになります。極力本誌をお持ちください)&lt;br&gt;
+その他、ハードウェアに関する話題の持ち寄り歓迎します&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;赤煉瓦会館とエンジニアカフェの紹介&lt;/h1&gt;
+&lt;h2&gt;福岡市赤煉瓦文化館について&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="赤煉瓦文化館" src="https://engineercafe.jp/wp/wp-content/uploads/2024/07/2cbbad58b0b89e6d30b796da71612fde.png" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;
+&lt;h2&gt;エンジニアカフェについて&lt;/h2&gt;
+&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
+&lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt;
+&lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt;
+&lt;h2&gt;Engineer Cafe&lt;/h2&gt;
+&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/369252/</guid><enclosure url="https://media.connpass.com/thumbs/1f/8f/1f8f92f821d99d4b6cc1f337fb6516e6.png" length="0" type="image/png"/><pubDate>Fri, 14 Nov 2025 18:30:00 +0900</pubDate></item><item><title>北九州Techカンファレンス2025</title><link>https://kitaqtechcon.connpass.com/event/366519/</link><description>📍 会場: ミクニワールドスタジアム３F
+住所: 〒802-0001 福岡県北九州市小倉北区浅野３丁目９−３３
+
+〜ローカル×テックで切り拓く持続可能な社会〜
+
+&lt;p&gt;&lt;img alt="LT祭（募集）" height="auto" src="https://i.imgur.com/AZL6zAT.png" style="border: 0;" width="960"&gt;&lt;/p&gt;
+&lt;h1&gt;北九州Techカンファレンス2025&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;：2025年12月6日（土）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;【開場・受付】&lt;/strong&gt;： 12:30〜13:00
+ &lt;br&gt;&lt;strong&gt;【本編(本イベント)】&lt;/strong&gt;： 13:00〜18:40
+ &lt;br&gt;&lt;strong&gt;【懇親会(サブイベント)】&lt;/strong&gt;： 19:00〜19:50
+&lt;br&gt;懇親会はサブイベントよりお申し込みください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;場所&lt;/strong&gt;：ミクニワールドスタジアム北九州 3F&lt;br&gt;
+&lt;a href="https://maps.google.com/maps?ll=33.890041,130.886488&amp;amp;z=15&amp;amp;t=m&amp;amp;hl=ja&amp;amp;gl=US&amp;amp;mapclient=embed&amp;amp;cid=11468312249355536719" rel="nofollow"&gt;Googleマップで見る&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;本編(本イベント)参加費&lt;/strong&gt;：無料
+ &lt;br&gt;&lt;strong&gt;懇親会(サブイベント)参加費&lt;/strong&gt;：無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日の受付について&lt;/h2&gt;
+&lt;p&gt;本ページ内の「受付票をみる」リンクより受付票を開いてご準備ください。&lt;br&gt;
+印刷した受付票または画面キャプチャのご提示をお願いしております。&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="スタートアップセッション" height="auto" src="https://i.imgur.com/Hcg4lqW.png" style="border: 0;" width="960"&gt;&lt;/p&gt;
+&lt;h1&gt;イベントについて&lt;/h1&gt;
+&lt;p&gt;北九州Techカンファレンスは、北九州を中心としたエンジニアが主役の技術カンファレンスです。&lt;br&gt;
+会場のミクニワールドスタジアム北九州の２室をお借りして、カンファレンスエリアでは、様々なテーマのセミナーやパネルディスカッションを、展示エリアでは地域のプレイヤーの活動をご紹介します。&lt;br&gt;
+地域産業とITの融合によるDX推進、エンジニアコミュニティの活性化、次世代人材の育成など様々な観点での情報を得、交流を深める場になると思います。&lt;br&gt;
+本編の終了後、懇親会も予定しておりますので、お時間許す方は、サブイベントの方もご検討頂ければと思います。&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;タイムテーブル（仮）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="right"&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;登壇者（予定）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;12:30&lt;/td&gt;
+&lt;td&gt;一般開場&lt;/td&gt;
+&lt;td&gt;北九州市のゆるキャラ、ていたんがお出迎え&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;13:00 - 13:10&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;運営より一言&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;13:10 - 13:40&lt;/td&gt;
+&lt;td&gt;基調講演&lt;/td&gt;
+&lt;td&gt;PHPカンファレンス関西2025実行委員長：瀧川 啓紀さん、株式会社Chaintope：取締役COO　村上 照明 さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;14:00 - 14:40&lt;/td&gt;
+&lt;td&gt;スタートアップセッション&lt;/td&gt;
+&lt;td&gt;株式会社HANATABA：柴田さん、株式会社ParaLux：村田さん、株式会社ロジコモン：大町さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;15:00 - 15:40&lt;/td&gt;
+&lt;td&gt;テックセッション（フロントエンド）&lt;/td&gt;
+&lt;td&gt;GMOインターネット株式会社：井上さん、ウイングアーク1ｓｔさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;16:00 - 16:40&lt;/td&gt;
+&lt;td&gt;コミュニティセッション&lt;/td&gt;
+&lt;td&gt;ChaChaTech：髙橋、ChaChaTech：川上さん、CodeforKitaQ：矢野さん、stepbycode：木戸さん、ぬか炊きLT：藤原さん、BITHUB久保さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;17:00 - 17:40&lt;/td&gt;
+&lt;td&gt;テックセッション（バックエンド）&lt;/td&gt;
+&lt;td&gt;松岡さん、株式会社ハートビーツ：藤崎さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;18:00 - 18:40&lt;/td&gt;
+&lt;td&gt;LT祭&lt;/td&gt;
+&lt;td&gt;GMOインターネット、ウイングアーク1ｓｔ株式会社など多数予定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;19:00 - 19:50&lt;/td&gt;
+&lt;td&gt;懇親会（サブイベントへお申し込みください）&lt;/td&gt;
+&lt;td&gt;北九州市役所：毛利さん から一言&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;19:50&lt;/td&gt;
+&lt;td&gt;エンディング&lt;/td&gt;
+&lt;td&gt;北九州テックカンファレンス2025実行委員長：髙橋より&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="right"&gt;20:00&lt;/td&gt;
+&lt;td&gt;終了&lt;/td&gt;
+&lt;td&gt;ありがとうございました。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;詳細なタイムテーブル、登壇情報などはオフィシャルサイトをご確認ください。&lt;br&gt;
+決定次第、情報公開いたします。&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;また、参加される皆様、登壇される方々、出展される方々、スポンサー様、皆様ご一緒に参加いただけるオフィシャルコミュニティ（Discordサーバー）をご用意しております。&lt;br&gt;
+運営からのお知らせのほか、参加されている方同士の交流にもご利用いただけます。&lt;br&gt;
+お申し込みと併せてご参加いただいて、仲間探しや情報交換にご活用ください。&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;オフィシャルサイト&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://karabiner-inc.notion.site/Tech-2025-2532e2c09247803ab0c4c8c759b59c2a" rel="nofollow"&gt;Notion&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;オフィシャルコミュニティ&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://discord.gg/yPA3cZBKWr" rel="nofollow"&gt;Discord&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;最新情報&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://x.com/kitaq_tech_con" rel="nofollow"&gt;公式Xアカウント&lt;/a&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;イベントエリアについて&lt;/h1&gt;
+&lt;h3&gt;カンファレンスエリア&lt;/h3&gt;
+&lt;p&gt;カンファレンスエリアでは、毎時スタートのパネルディスカッションやセミナー、LT会などを実施します。&lt;br&gt;
+発表・対談のあとに質疑応答なども行ったりします。&lt;br&gt;
+６０分で次のセッションと入れ替えとなります。&lt;br&gt;
+※セッション毎の受講申込などは不要です。&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;展示エリア&lt;/h3&gt;
+&lt;p&gt;展示エリアには会社や製品、技術、コミュニティなどの紹介ブースを出展いただけます。&lt;br&gt;
+&lt;strong&gt;物販などの営利目的での出展はご遠慮いただいております。&lt;/strong&gt;&lt;br&gt;
+※地域に拠点を持つ法人・団体、地域で活動されているコミュニティは無料で出展いただけます。&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="テックセッション（フロントエンド）" height="auto" src="https://imgur.com/iJWAgg2.png" style="border: 0;" width="960"&gt;&lt;/p&gt;
+&lt;h1&gt;懇親会について&lt;/h1&gt;
+&lt;p&gt;本イベント終了後、イベント会場にて引き続き懇親会を開催します。&lt;br&gt;
+ドリンク・軽食をご用意しておりますので、ネットワーキングや親交を深める場としてご利用ください。&lt;br&gt;
+懇親会への参加ご希望の方は、サブイベントへのお申し込みをお願いいたします。&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="テックセッション（バックエンド）" height="auto" src="https://i.imgur.com/dXMPM7r.png" style="border: 0;" width="960"&gt;&lt;/p&gt;
+&lt;h1&gt;参加枠について&lt;/h1&gt;
+&lt;h3&gt;一般参加枠&lt;/h3&gt;
+&lt;p&gt;各エリアに入場して、講演の聴講、展示の見学など、現地でイベントにご参加いただける参加枠です。&lt;br&gt;
+お申し込み頂いた後、&lt;u&gt;公式コミュニティにも合わせてご参加頂ければ幸いです。&lt;/u&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;ブース出展枠&lt;/h3&gt;
+&lt;p&gt;展示エリアへブースを出展いただけます。&lt;br&gt;
+ご希望の方は&lt;strong&gt;ブース出展枠&lt;/strong&gt;よりお申し込みください。&lt;br&gt;
+お申込み頂いた後、運営より別途ご連絡差し上げます。&lt;br&gt;
+販売などの営利目的での出展はご遠慮いただいておりますので、学校やコミュニティ、企業や技術の紹介などでお願いいたします。&lt;br&gt;
+お申し込み頂いた後、&lt;u&gt;公式コミュニティにも合わせてご参加お願いいたします。&lt;/u&gt;&lt;br&gt;
+※地域に拠点を持つ法人・団体、地域で活動されているコミュニティは無料で出展いただけます。&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;スポンサー[ 地域 ]枠 / スポンサー[ 域外 ]枠&lt;/h3&gt;
+&lt;p&gt;ご希望の方のうち、地域で活動されている個人・団体または地域に拠点を構えられている法人の方は&lt;strong&gt;スポンサー[地域]枠&lt;/strong&gt;よりお申し込みください。&lt;br&gt;
+地域外からご希望の方は&lt;strong&gt;スポンサー[域外]枠&lt;/strong&gt;よりお申し込みください。&lt;br&gt;
+スポンサー様にはオフィシャルサイトへの掲載やカンファレンスの中でのご紹介のほか、展示ブースをご用意させて頂きます。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;スポンサー[ 域外 ]枠の参加費用のお支払い方法について、会場払いとなっておりますが、必要に応じ個別にご相談ください。&lt;br&gt;
+スポンサー[ 地域 ]枠でお申し込みの皆さまにつきましては任意のドネーション（寄付）を受け付けています。&lt;br&gt;
+いただいたご厚意は、学生コミュニティの出展支援、告知のための印刷物など運営にあたっての費用に大切に活用させて頂きます。&lt;br&gt;
+※あくまで任意で、スポンサー枠の内容に変更はありません。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;お申し込み頂いた後、&lt;u&gt;公式コミュニティにも合わせてご参加お願いいたします。&lt;/u&gt;&lt;br&gt;
+お申込み頂いた後、運営より別途ご連絡差し上げます。&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;運営[ サポートスタッフ ]枠&lt;/h3&gt;
+&lt;p&gt;当日の会場運営やイベント当日までのSNS告知などの広報をお手伝いいただけるボランティアの方を募集しております。&lt;br&gt;
+お手伝いいただける方は&lt;strong&gt;運営［ サポートスタッフ ］&lt;/strong&gt;よりお申し込みください。&lt;br&gt;
+お申し込み頂いた後、&lt;u&gt;公式コミュニティにも合わせてご参加お願いいたします。&lt;/u&gt;&lt;br&gt;
+公式コミュニティにて、サポートスタッフの希望と併せて、担当したい業務をお知らせください。&lt;br&gt;
+お申込み頂いた後、運営より別途ご連絡差し上げます。&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;行動規範&lt;/h1&gt;
+&lt;p&gt;本イベント参加に際しては&lt;a href="https://karabiner-inc.notion.site/Code-of-Conduct-2812e2c0924780fd9c42ece029f4dba5" rel="nofollow"&gt;行動規範&lt;/a&gt;の遵守をお願い致します。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="コミュニティセッション" height="auto" src="https://i.imgur.com/YkUb85O.png" style="border: 0;" width="960"&gt;&lt;/p&gt;
+&lt;h2&gt;✨ エンジニアが主役の一日を、北九州で一緒に楽しみましょう！ ✨&lt;/h2&gt;
+
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://karabiner.tech/" rel="nofollow"&gt;&lt;img src="https://imgur.com/r0jnTzv.png" width="400"&gt;&lt;/a&gt;
+&lt;a href="https://www.notion.so/karabiner-inc/Tech-2025-2532e2c09247803ab0c4c8c759b59c2a" rel="nofollow"&gt;&lt;img src="https://imgur.com/baDq14K.png" width="400"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;共催&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.city.kitakyushu.lg.jp/index.html" rel="nofollow"&gt;&lt;img src="https://imgur.com/o6Y7veW.png" width="400"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;協賛&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.wingarc.com/" rel="nofollow"&gt;&lt;img src="https://imgur.com/ZOgWtYM.png" width="400"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;協力&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://www.revorn.co.jp/about" rel="nofollow"&gt;&lt;img src="https://imgur.com/9WV8fy4.png" width="400"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://kitaqtechcon.connpass.com/event/366519/</guid><enclosure url="https://media.connpass.com/thumbs/a7/f3/a7f3a86833aa5655c7a7e9bdf634c673.png" length="0" type="image/png"/><pubDate>Sat, 06 Dec 2025 13:00:00 +0900</pubDate></item></channel></rss>

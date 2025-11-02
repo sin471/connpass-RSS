@@ -1,2 +1,302 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茨城のイベント</title><link>https://connpass.com/explore/</link><description>茨城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:06:28 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茨城のイベント</title><link>https://connpass.com/explore/</link><description>茨城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:10:26 +0000</lastBuildDate><item><title>第97回CoderDojo Koga（コーダー道場 古河）</title><link>https://coderdojokoga.connpass.com/event/373047/</link><description>📍 会場: 三桜工業株式会社　さくらキャンパス
+住所: 茨城県古河市鴻巣７５８
+
+プログラミングを楽しむ子供達のためのコミュニティです。
+
+&lt;h2&gt;第97回　CoderDojo Koga （コーダー道場 古河）　開催します。&lt;/h2&gt;
+&lt;ul&gt;
+日　時　：　2025年11月15日（土）&lt;br&gt;
+　　　　　　　10:00　～　12:00ごろ&lt;br&gt;
+
+開催場所　：　三桜工業株式会社　古河事業所　さくらキャンパス&lt;br&gt;
+
+参加費　：　無料&lt;br&gt;
+
+参加条件　：　小学3年生ぐらい～高校生&lt;br&gt;
+　　　　　　　小学3年生以下の小学生でも、誰かに言われてではなく、&lt;br&gt;
+　　　　　　　自分自身からプログラミングを楽しんでみたい。&lt;br&gt;
+　　　　　　　と考えられるのでしたら参加可能です。&lt;br&gt;
+　　　　　　　可能でしたら、ダブルクリックやカットアンドペーストなどの&lt;br&gt;
+　　　　　　　マウス操作ができると良いと思います。&lt;br&gt;
+
+持ち物　：　好奇心（わすれずにね！）&lt;br&gt;
+　　　　　　試行錯誤を楽しむ心（うまくいかないことを楽しむ！）&lt;br&gt;
+　　　　　　飲み物&lt;br&gt;
+　　　　　　持ってこれる方は、パソコン（chromebookとか）やタブレットなど&lt;br&gt;
+　　　　　　パソコンの貸し出しを行っていますが、数に限りあるため持ち込みを歓迎します。&lt;br&gt;
+　　　　　　※　貸出希望の方は、事前申請が必要です。&lt;br&gt;
+　　　　　　必須ではないですがご自分用のUSBマウスがあると良いと思います。&lt;br&gt;
+　　　　　　同じく必須ではないですが、USBメモリがあると、Scratchで作ったプログラム&lt;br&gt;
+　　　　　　を持ち帰って、自宅で続きをすることが出来ます。&lt;br&gt;
+
+定　員　：　ニンジャ（参加してくれる子供たち）　10人くらい&lt;br&gt;
+
+できること　：　Scratch、Raspberry Pi、micro:bit、ロボットカ―ほか、プログラミングに&lt;br&gt;
+　　　　　　　　関することであれば何でもOK！です。&lt;br&gt;
+　　　　　　　　たとえば、学校からプログラミングの宿題が出たら、コーダー道場 古河で&lt;br&gt;
+　　　　　　　　やってみませんか？&lt;br&gt;
+
+当日貸出可能機材　：&lt;br&gt;
+　　　micro:bit、mBot、Raspberry Pi、α-Xplorer（アルファ・エクスプローラ）など、&lt;br&gt;
+　　　興味のある方、使ってみたい方はアンケートのコメントに一声添えてください。&lt;br&gt;
+　　　どんなことできるのか、どんな風に使うのか、自分で調べてきてもらえると嬉しいです。&lt;br&gt;　　　　　
+&lt;/ul&gt;
+
+&lt;h2&gt;CoderDojo Koga （コーダー道場 古河）は&lt;/h2&gt;
+&lt;ul&gt;
+・茨城県古河市を中心に、毎月開催を目指している&lt;br&gt;
+　子どもを対象にした参加費無料のプログラミングクラブです。&lt;br&gt;
+　「子どもたちが、自らプログラミングを楽しんでくれる。」&lt;br&gt;
+　そんな場所を作りたい！　という思いから始まりました。&lt;br&gt;
+・いわゆるパソコン教室やプログラミング講座ではありません。&lt;br&gt;
+　先生や講師と呼ばれる人はいません。&lt;br&gt;
+　また、決まったカリキュラムもありません。&lt;br&gt;
+・その代わりにメンターと呼ばれる人たちが一緒に考え悩んでくれるかもです。&lt;br&gt;
+・プログラミングを教わる場所ではなく、&lt;br&gt;
+　子どもたちが仲間同士やメンターと呼ばれる方々の支援を受けて、&lt;br&gt;
+　できるだけ自主的にプログラミングを楽しむコミュニティです。&lt;br&gt;
+・無償のボランティアと皆様からのご寄付、スポンサーからの支援によって運営されています。&lt;br&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;参加される方へ&lt;/h2&gt;
+&lt;ul&gt;
+・プログラミングに関することであれば、何をやるのも自由です。&lt;br&gt;
+・プログラミングに関して、できるだけ、やること、やりたいことを自分で考えて来てください。&lt;br&gt;
+・CoderDojoについて、下のスライド資料を、一読してから参加ください。&lt;br&gt;
+&lt;a href="https://docs.google.com/presentation/d/1ccmwavHJS4WXdJdjB0TT7j4sWckW6W-gV7I6q-I_LVU/edit#slide=id.p" rel="nofollow"&gt;https://docs.google.com/presentation/d/1ccmwavHJS4WXdJdjB0TT7j4sWckW6W-gV7I6q-I_LVU/edit#slide=id.p&lt;/a&gt;&lt;br&gt;
+
+・問い合わせは、coderdojokoga@gmail.com までメールでいただくか、&lt;br&gt;
+　CoderDojo古河　Facebook(&lt;a href="https://www.facebook.com/coderdojokoga" rel="nofollow"&gt;https://www.facebook.com/coderdojokoga&lt;/a&gt;)　か&lt;br&gt;
+　CoderDojo古河ホームページ(&lt;a href="https://coderdojo-koga.hyasynth.com/" rel="nofollow"&gt;https://coderdojo-koga.hyasynth.com/&lt;/a&gt;)　からご連絡ください。&lt;br&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;ご支援、ご協力をお願いします。&lt;/h2&gt;
+&lt;ul&gt;
+・運営にご協力、支援いただける方を募集しています。&lt;br&gt;
+・プログラミング経験の有無は問題ないです。&lt;br&gt;
+・会場準備や片づけ、機材の運搬、参加してくれた子供たち（ニンジャ）と一緒になって楽しんでもらえると嬉しいです。&lt;br&gt;
+・また継続的に開催するために、機材の提供及び募金をお願いしております。&lt;br&gt;
+詳しくは、coderdojokoga@gmail.com　までお問い合せください。
+&lt;/ul&gt;
+
+&lt;h2&gt;免責事項&lt;/h2&gt;
+&lt;ul&gt;CoderDojo Kogaの活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、CoderDojo Kogaは一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/ul&gt;</description><guid isPermaLink="false">https://coderdojokoga.connpass.com/event/373047/</guid><enclosure url="https://media.connpass.com/thumbs/64/1b/641b6263f708f881f88779a1e365477e.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 10:00:00 +0900</pubDate></item><item><title>CoderDojo Mito 体験会</title><link>https://coderdojo-mito.connpass.com/event/371810/</link><description>📍 会場: 交流サルーンいばらき
+住所: 茨城県三の丸庁舎
+
+はじめてのプログラミング
+
+&lt;p&gt;CoderDojo Mito 体験会「はじめてのプログラミング」&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プログラミングに触れてみよう！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo Mito（コーダー道場 水戸）は、誰でも気軽に参加できる「無料のプログラミングクラブ」です。水戸Dojoでは、Scratch というプログラミング言語を利用してゲームなど楽しいプログラムを作っていきます。&lt;/p&gt;
+&lt;p&gt;この度、CoderDojo Mito は、交流サルーンいばらき協力のもと、 特別体験会「はじめてのプログラミング」を開催します！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日時:&lt;/strong&gt; 2025年11月9日(日) 13:30～15:30&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;場所:&lt;/strong&gt; 交流サルーンいばらき (水戸市三の丸1-5-38 茨城県三の丸庁舎 2F)
+JR水戸駅から徒歩圏内です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;対象:&lt;/strong&gt; 小学生～中学生&lt;br&gt;
+*小学生は保護者同伴でご参加ください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;内容:&lt;/strong&gt;
+Scratchを使った初心者向けのプログラミング体験です。&lt;br&gt;初めてプログラミングに触れるお子様も安心してご参加いただけます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定員:&lt;/strong&gt; 10名程度&lt;br&gt;
+&lt;em&gt;PC持ち込みの方：6名程度&lt;br&gt;
+&lt;/em&gt;PC貸し出し希望の方：4名程度&lt;br&gt;
+(PC貸し出しご希望の方はお申し込み時にお知らせください。)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;持ち物:&lt;/strong&gt; パソコン (PC持ち込みの方のみ)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参加費:&lt;/strong&gt; 無料&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主催:&lt;/strong&gt; CoderDojo Mito&lt;br&gt;
+&lt;strong&gt;協力:&lt;/strong&gt; 交流サルーンいばらき (チャレンジいばらき県民運動)&lt;/p&gt;
+&lt;p&gt;プログラミングを通して、新しい世界を体験してみませんか？&lt;br&gt;
+皆様のご参加を心よりお待ちしております！&lt;/p&gt;</description><guid isPermaLink="false">https://coderdojo-mito.connpass.com/event/371810/</guid><enclosure url="https://media.connpass.com/thumbs/7b/eb/7beb0f66e75f7bb1dbd0c34279627d70.png" length="0" type="image/png"/><pubDate>Sun, 09 Nov 2025 13:30:00 +0900</pubDate></item><item><title>第92回 CoderDojo Hitachinaka</title><link>https://coderdojo-hitachinaka.connpass.com/event/371690/</link><description>📍 会場: ふぁみりこらぼ
+住所: ひたちなか市石川町11-1
+
+小中学生向けプログラミング体験会
+
+&lt;p&gt;第92回　コーダー道場ひたちなか　開催のお知らせ♪&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;●オフで開催（2025年11月3日（月・祝）&lt;/p&gt;
+&lt;p&gt;●募集期間　情報公開日～開催日前日&lt;/p&gt;
+&lt;p&gt;・参加者（お子様）氏名&lt;/p&gt;
+&lt;p&gt;・参加者（お子様）学年&lt;/p&gt;
+&lt;p&gt;・参加希望メニュー（「AI」or「Scratch」or「ロボット」or「オリジナル」）&lt;/p&gt;
+&lt;p&gt;・パソコン「持込」 or 「貸出希望」　　　　　&lt;/p&gt;
+&lt;p&gt;・緊急連絡先（保護者携帯番号）&lt;/p&gt;
+&lt;p&gt;●メニュー　　（申込状況に応じて開催しないメニューもあります）&lt;/p&gt;
+&lt;p&gt;・micro:bitを使ってのロボットプログラミング【Scratch経験者のみ】&lt;/p&gt;
+&lt;p&gt;・AIプログラミング【Scratch経験者のみ】&lt;/p&gt;
+&lt;p&gt;・Scratch　ゲームプログラミング（ポケモン他）【初心者ＯＫ】&lt;/p&gt;
+&lt;p&gt;・自作オリジナル作品発表（パソコンはお持ち込みお願いします）&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;開催にあたっては、密を避けるために 参加人数を制限させていただきます。&lt;/p&gt;
+&lt;p&gt;マスク着用、消毒等、安全安心に会が開催されることに ご協力をお願いいたします。&lt;/p&gt;
+&lt;p&gt;保護者の方はお一人のみの付き添いでお願いします。&lt;/p&gt;
+&lt;h1&gt;イベント終了時のアンケートにご協力をお願いします。&lt;/h1&gt;
+&lt;h1&gt;イベントの準備片付けのご協力をお願いします。&lt;/h1&gt;
+&lt;p&gt;なお、感染症の状況により、急遽開催を中止する場合もあります。 その際はこちらでお知らせいたしますので開催前にご確認をお願いいたします。 &lt;/p&gt;
+&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
+&lt;p&gt;■日　程：2025年11月3日（月・祝）開始時間：午後1時30分　終了予定時間：午後3時30分&lt;/p&gt;
+&lt;p&gt;※開場：午後1時15分～　開始時間までにお越しくださいね。&lt;/p&gt;
+&lt;p&gt;■場　所：ふぁみりこらぼ　&lt;strong&gt;303&lt;/strong&gt;研修室　&lt;/p&gt;
+&lt;p&gt;■参加費：不要&lt;/p&gt;
+&lt;p&gt;■持ち物：なし　※インターネットに接続可能なパソコンをお持ち込みくだると助かります！&lt;/p&gt;
+&lt;p&gt;■対　象：ひたちなか市内の7歳～17歳　（保護者お一人の付き添いをお願いします）&lt;/p&gt;
+&lt;p&gt;■定　員：ロボットプログラミング、スクラッチ（ポケモン他）,AIプログラミング　あわせて　計10名程度&lt;/p&gt;
+&lt;p&gt;■お申込み メール または　Line&lt;/p&gt;
+&lt;p&gt;■お問い合わせ&lt;/p&gt;
+&lt;p&gt;電話：080-9568-7068 (ほとんど出ることができません。公式LINEをご利用ください)&lt;/p&gt;
+&lt;p&gt;メール：coderdojo.hitachinaka@gmail.com&lt;/p&gt;
+&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
+&lt;p&gt;CoderDojo Hitachinaka（コーダー道場 ひたちなか）は、誰でも気軽に参加できる「無料のプログラミングクラブ」です。 ひたちなかDojoでは、Scratch というプログラミング言語を利用してゲームなど楽しいプログラムを作っていきます。&lt;/p&gt;
+&lt;p&gt;主な活動内容としては、初心者の方には「体験コーナー」で講師の説明を聞きながら簡単なゲームを作ってもらいます。 慣れてきたら、それぞれ自分たちの作りたいプログラムを作るなど、いろいろな体験ができるようになっています。 プログラミングで分からない事があったら、周りの友達や、メンター（助言者）と呼ばれるプログラミングが得意な参加者に相談する事が出来ますので、どなたでも楽しくプログラミングに触れていただけます。&lt;/p&gt;
+&lt;p&gt;なお、「micro:bitを使ってのロボットプログラミング」と「AIプログラミング」はScratchの経験をされていないと難しいと思います。まずはScratchでプログラミングを体験してみてくださいね。&lt;/p&gt;
+&lt;p&gt;その日の活動の最後には、成果発表の時間が設けられており、他の参加者の成果を見る事で発想の広がりや更なる学びへと繋げます。 ひたちなかDojoでは、「体験し、学び、互いに教え合う」プログラミングを好きになれる場所を目指しています。&lt;/p&gt;
+&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
+&lt;p&gt;CoderDojo Hitachinakaは、ボランティアと寄付、スポンサーからの支援で運営されています。&lt;/p&gt;</description><guid isPermaLink="false">https://coderdojo-hitachinaka.connpass.com/event/371690/</guid><enclosure url="https://media.connpass.com/thumbs/0a/1c/0a1c29dea5397ff2cac7dfa080a0d718.png" length="0" type="image/png"/><pubDate>Mon, 03 Nov 2025 13:30:00 +0900</pubDate></item><item><title>JAWS-UG 茨城 #9 1周年だよ！水戸に集合だぁ！</title><link>https://jawsug-ibaraki.connpass.com/event/370298/</link><description>📍 会場: BIZcomfort 水戸
+住所: 茨城県水戸市宮町1-2-4 MYM ビル10F
+
+ラーメン山岡家さんのセッションもあるよ！
+
+&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;JAWS-UG茨城の1周年を記念した特別イベント！この一年間の活動を振り返り、AWS技術の最新トレンドや事例を共有します。地域コミュニティとして成長を続ける茨城支部の節目を、皆さんと一緒にお祝いしましょう。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Timeline&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30～&lt;/td&gt;
+&lt;td&gt;受付/会場設営&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00～14:10&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;JAWS-UG 茨城運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:10～14:55&lt;/td&gt;
+&lt;td&gt;リアルタイムWEBアプリを楽しく開発していたら、200店舗で活用されてしまった件(仮)&lt;/td&gt;
+&lt;td&gt;山岡家さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:55～15:05&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:05～15:30&lt;/td&gt;
+&lt;td&gt;データとの対話が導く、BIの新たな可能性 - QuickSightからパワーアップしたQuick Suiteの紹介(仮)&lt;/td&gt;
+&lt;td&gt;AWSさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30～15:40&lt;/td&gt;
+&lt;td&gt;StepFunctionsについて役に立つことを話します&lt;/td&gt;
+&lt;td&gt;フォージビジョン株式会社 山口正徳さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:40～15:50&lt;/td&gt;
+&lt;td&gt;（仮）AWS 環境で GitLab Self-managed&lt;/td&gt;
+&lt;td&gt;emiさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50～16:00&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00～16:10&lt;/td&gt;
+&lt;td&gt;調整中&lt;/td&gt;
+&lt;td&gt;Japan Digital Design株式会社 佐藤 慎さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10～16:20&lt;/td&gt;
+&lt;td&gt;仮(俺たちの)&lt;/td&gt;
+&lt;td&gt;おーつきさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:20～16:45&lt;/td&gt;
+&lt;td&gt;茨城支部のこれまでとこれから(仮)&lt;/td&gt;
+&lt;td&gt;n-takaku(JAWS-UG 茨城運営)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:45～17:00&lt;/td&gt;
+&lt;td&gt;クロージング･記念写真撮影&lt;/td&gt;
+&lt;td&gt;JAWS-UG 茨城運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:00～&lt;/td&gt;
+&lt;td&gt;片付けして懇親会へ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;会場サポーター&lt;/h2&gt;
+&lt;h3&gt;株式会社システムズ&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="ロゴ画像" src="https://www.systems-inc.co.jp/cms_Y8jfEDAe/wp-content/themes/systems-corp/img/common/logo01.svg"&gt;&lt;br&gt;
+30年にわたり、アプリのマイグレーション事業に取り組み、レガシーシステムの刷新を手掛けてきました。&lt;br&gt;
+近年、刷新後の環境はAWSを選択される企業様が増え、インフラ面のマイグレーションにも力を入れており、2022年には「AWS Rising Star Services Partner of the Year - Japan」を受賞しています。&lt;br&gt;
+&lt;a href="https://www.systems-inc.co.jp/" rel="nofollow"&gt;https://www.systems-inc.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会場案内･アクセス&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;扉はカードキーが無いと開かないため、ストッパーを置いて常に少し開いた状態にします。&lt;/li&gt;
+&lt;li&gt;会場内での飲食については、飴やガムなどの軽食、お茶などのノンアルコール類であればOKです！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;会場情報&lt;/h3&gt;
+&lt;p&gt;BIZcomfort 水戸&lt;br&gt;
+茨城県水戸市宮町1-2-4 MYM ビル10F 会議室3＆会議室4&lt;/p&gt;
+&lt;h3&gt;電車でお越しの方&lt;/h3&gt;
+&lt;p&gt;JR水戸駅からペデストリアンデッキ直結徒歩1分で到着します。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JR 常磐線「水戸駅」北口徒歩1 分&lt;/li&gt;
+&lt;li&gt;JR 水郡線「水戸駅」北口徒歩1 分&lt;/li&gt;
+&lt;li&gt;鹿島臨海鉄道大洗鹿島線「水戸駅」北口徒歩1 分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;車でお越しの方&lt;/h3&gt;
+&lt;p&gt;会場に駐車場がないため、お車でご来場の方は近くの有料駐車場に駐車してください。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;タイムズ水戸マイムビル 駐車後8時間 最大800円&lt;/li&gt;
+&lt;li&gt;アップルパーク水戸駅前 終日最大600円&lt;/li&gt;
+&lt;li&gt;水戸三の丸パーキング 終日最大1,200円&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;懇親会会場&lt;/h2&gt;
+&lt;p&gt;茨城地産地消の店 あんこう鍋×常陸牛 全席個室 もんどころ 水戸サウスタワー店 &lt;br&gt;
+会費 5,000円（お釣りのないようご準備お願いします。）  &lt;br&gt;
+※あんこう鍋が食べられます！&lt;br&gt;
+※懇親会は2時間程度を予定しております。 &lt;br&gt;
+※参加申し込み期限：11/5（水）&lt;/p&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;p&gt;当日は、セッションの撮影がございますのでカメラに映り込む可能性がございます。&lt;br&gt;
+登壇者につきましては、撮影OKの方のみご応募ください。&lt;br&gt;
+なお、カメラに映りたくない方は茨城支部メンバーにご相談ください。（ご期待に添えない可能性もございます。）&lt;/p&gt;
+&lt;h2&gt;参加のルールとマナー&lt;/h2&gt;
+&lt;p&gt;イベントに参加する際は以下のWebサイトを必ず熟読していただき、JAWS-UGが定めたルールとマナーに則って&lt;br&gt;
+行動するようお願いいたします。&lt;br&gt;
+&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://jawsug-ibaraki.connpass.com/event/370298/</guid><enclosure url="https://media.connpass.com/thumbs/82/f9/82f911aa58a0ab4cde5f95f4d57ce474.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 13:30:00 +0900</pubDate></item><item><title>11/15 第7回Wi-SE講演会</title><link>https://ibarakiwakate.connpass.com/event/369981/</link><description>📍 会場: 茨城県県南生涯学習センター　6階中講座室
+住所: 茨城県土浦市大和町9-1　土浦駅西口徒歩2分　(ウララビル6階)
+
+
+
+&lt;h1&gt;イベントの目的&lt;/h1&gt;
+&lt;p&gt;本目的は少しでも、技術士の存在を知ってもらいたいという我々の広報活動の一つになります。
+世の中で激変が起きている今、資格で自分に自信を持ちたい、会社で信用される人間になりたいなど様々な悩みがあると思います。そういった悩みに対して、我々技術士があなたにモチーベーションを提供できれば幸いです。&lt;/p&gt;
+&lt;p&gt;今回はこれまでとは異なり、現地講演会の開催になります。お子様も気軽にご参加頂ける現地開催となっています。
+事前申し込みが必要です。よろしくお願いいたします。&lt;/p&gt;
+&lt;h1&gt;開催日時&lt;/h1&gt;
+&lt;p&gt;１．日時：2025年11月15日（土）13：10〜16：45&lt;/p&gt;
+&lt;p&gt;２．場所：茨城県県南生涯学習センター　6階中講座室&lt;/p&gt;
+&lt;p&gt;主な内容：&lt;/p&gt;
+&lt;p&gt;・演題「気象・防災」に関する講演
+　気象災害発生のメカニズム
+　茨城県内で発生した災害と気象状況
+　各種防災気象情報の紹介
+　気象災害から身を守るための方法　　等&lt;/p&gt;
+&lt;p&gt;講師：一般社団法人 日本気象予報士会 北関東支部 茨城部会　気象予報士&lt;/p&gt;
+&lt;p&gt;・ワークショップ
+　テーマ「経験したことのない大雨、その時どうする？」&lt;/p&gt;
+&lt;p&gt;詳しくはこちら。
+&lt;a href="https://www.engineer.or.jp/c_shibu/ibaraki/topics/011/011057.html" rel="nofollow"&gt;https://www.engineer.or.jp/c_shibu/ibaraki/topics/011/011057.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ご連絡はこちら。　WI-SE(at)&lt;a href="http://googlegroups.com" rel="nofollow"&gt;googlegroups.com&lt;/a&gt; 　　(at)は＠にしてご送信ください。&lt;/p&gt;</description><guid isPermaLink="false">https://ibarakiwakate.connpass.com/event/369981/</guid><enclosure url="https://media.connpass.com/thumbs/6a/e5/6ae539a2899ff42410c5b21d86212539.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 13:10:00 +0900</pubDate></item></channel></rss>

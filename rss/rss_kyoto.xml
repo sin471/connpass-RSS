@@ -1,5 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:08:59 +0000</lastBuildDate><item><title>Kyoto.Mokumoku Vol.58</title><link>https://kyoto-mokumoku.connpass.com/event/374405/</link><description>📍 会場: 株式会社80&amp;Company
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:10:47 +0000</lastBuildDate><item><title>KaiRA2025年後期第6回輪読会【強化学習・数理最適化】</title><link>https://kaira-thesis-reading.connpass.com/event/374686/</link><description>📍 会場: 京都大学文学部第５講義室
+住所: 京都府京都市左京区吉田本町
+
+
+
+&lt;h1&gt;💻KaiRA2025年後期輪読会について&lt;/h1&gt;
+&lt;p&gt;2025年後期には『ゼロから作るDeep Learning ❹―強化学習編
+』と『しっかり学ぶ数理最適化』を輪読します。&lt;br&gt;
+強化学習に関しては、書籍の内容に加えて関連論文の輪読も行います。&lt;/p&gt;
+&lt;p&gt;第6回輪読会では、『強化学習』のモンテカルロ法と『数理最適化』の制約なし最適化問題と等式制約つき最適化問題の最適性条件について発表します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.oreilly.co.jp/books/9784873119755/" rel="nofollow"&gt;&lt;img alt="ゼロから作るDeep Learning ❹―強化学習編
+" height="140" src="https://www.oreilly.co.jp/books/images/picture_large978-4-87311-975-5.jpeg" width="100"&gt;&lt;/a&gt;
+&lt;a href="https://www.kspub.co.jp/book/detail/5212707.html" rel="nofollow"&gt;&lt;img alt="しっかり学ぶ数理最適化" height="140" src="https://www.kspub.co.jp/book/detail/images/66fb0a4e25e8f654e4400a5fe7ffabe7511f8279.jpg" width="100"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2回生以上や他大生、社会人の方でも、意欲のある方は入会できますのでぜひ参加してください!&lt;/p&gt;
+&lt;h2&gt;📝輪読会スケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;日付&lt;/th&gt;
+&lt;th align="left"&gt;強化学習&lt;/th&gt;
+&lt;th align="left"&gt;数理最適化&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;10/2&lt;/td&gt;
+&lt;td align="left"&gt;発表担当決め&lt;/td&gt;
+&lt;td align="left"&gt;発表担当決め&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;10/9&lt;/td&gt;
+&lt;td align="left"&gt;バンディット問題(1章)&lt;/td&gt;
+&lt;td align="left"&gt;数理最適化入門、線形計画(1.1~2.1.4)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;10/16&lt;/td&gt;
+&lt;td align="left"&gt;マルコフ決定過程(2章)&lt;/td&gt;
+&lt;td align="left"&gt;線形計画(2.2.1~2.2.4)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;10/23&lt;/td&gt;
+&lt;td align="left"&gt;ベルマン方程式(3章)&lt;/td&gt;
+&lt;td align="left"&gt;線形計画(2.2.5~2.3.2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;10/30&lt;/td&gt;
+&lt;td align="left"&gt;動的計画法(4章)&lt;/td&gt;
+&lt;td align="left"&gt;線形計画、非線形計画(2.3.3~3.1.2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;11/6&lt;/td&gt;
+&lt;td align="left"&gt;モンテカルロ法(5章)&lt;/td&gt;
+&lt;td align="left"&gt;非線形計画(3.2~3.3.1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;11/27&lt;/td&gt;
+&lt;td align="left"&gt;TD法(6章)&lt;/td&gt;
+&lt;td align="left"&gt;非線形計画(3.3.2~3.4)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;12/4&lt;/td&gt;
+&lt;td align="left"&gt;ニューラルネットワークとQ学習(7章)&lt;/td&gt;
+&lt;td align="left"&gt;整数計画と組合せ最適化(4.1~4.1.4)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;12/11&lt;/td&gt;
+&lt;td align="left"&gt;DQN(8章)&lt;/td&gt;
+&lt;td align="left"&gt;整数計画と組合せ最適化(4.1.5~4.1.8)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;12/18&lt;/td&gt;
+&lt;td align="left"&gt;方策勾配法(9章)&lt;/td&gt;
+&lt;td align="left"&gt;整数計画と組合せ最適化(4.2~4.3.2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;12/25&lt;/td&gt;
+&lt;td align="left"&gt;DDPG、TRPO＋PPO&lt;/td&gt;
+&lt;td align="left"&gt;整数計画と組合せ最適化(4.3.3~4.4.2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;1/8&lt;/td&gt;
+&lt;td align="left"&gt;Rainbow、Agent57&lt;/td&gt;
+&lt;td align="left"&gt;整数計画と組合せ最適化(4.4.3~4.5.6)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;1/15&lt;/td&gt;
+&lt;td align="left"&gt;AlphaGO、AlphaZero&lt;/td&gt;
+&lt;td align="left"&gt;整数計画と組合せ最適化(4.6~4.8)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;過去回については、&lt;a href="https://www.docswell.com/user/kyoto-kaira" rel="nofollow"&gt;Docswell&lt;/a&gt;にてスライドを公開しているのでご覧ください。&lt;/p&gt;
+&lt;h1&gt;🗓️ 開催場所について&lt;/h1&gt;
+&lt;p&gt;対面/オンラインのハイブリッドで開催いたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;対面会場：京都大学文学部教室 &lt;strong&gt;第5講義室&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r-y" rel="nofollow"&gt;こちら&lt;/a&gt;の地図の8番の建物（7番の建物の向かい側の棟）の2階です。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;オンライン参加URL：申し込み後「参加者への情報」に表示されるURLからGoogle meetへお入りください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;✉️ 入会方法&lt;/h2&gt;
+&lt;p&gt;お申し込み後、「参加者への情報」に表示される&lt;strong&gt;Googleフォーム&lt;/strong&gt;にご記入ください。&lt;br&gt;
+フォーム記入後、KaiRAのSlackへご招待いたします！&lt;/p&gt;
+&lt;h2&gt;🤖 京都大学人工知能研究会KaiRAについて&lt;/h2&gt;
+&lt;p&gt;KaiRA(Kyoto university AI Research Association)はAI・機械学習に関する本の輪読会や作業会、Kaggleへの参加などを行っている京都大学の自主ゼミサークルです。&lt;/p&gt;
+&lt;p&gt;2回生以上の方や京都大学以外の学生、社会人の方でも入会することができます。
+KaiRAに興味のある方は下記ロゴをクリックしてWebサイトをチェックしてみてください！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kyoto-kaira.github.io/?utm_campaign=connpass_reading2024_04" rel="nofollow"&gt;&lt;img alt="KaiRAウェブサイト" height="50" src="https://kyoto-kaira.github.io/assets/images/logo_KaiRA.png" width="120"&gt;&lt;/a&gt;
+&lt;a href="https://twitter.com/kyoto_kaira" rel="nofollow"&gt;&lt;img alt="Xロゴ" height="50" src="https://kyoto-kaira.github.io/assets/images/logo_X.png" width="50"&gt;&lt;/a&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://kaira-thesis-reading.connpass.com/event/374686/</guid><enclosure url="https://media.connpass.com/thumbs/39/59/39597e1253451893d1d0c2aad8b3f8c0.png" length="0" type="image/png"/><pubDate>Thu, 06 Nov 2025 18:40:00 +0900</pubDate></item><item><title>Kyoto.Mokumoku Vol.58</title><link>https://kyoto-mokumoku.connpass.com/event/374405/</link><description>📍 会場: 株式会社80&amp;Company
 住所: 京都府京都市左京区吉田牛ノ宮町６−１
 
 京都のオフィスではんなりと作業をしよう
@@ -452,46 +561,201 @@ AI開発の実践的な流れを体験しながら、AIコーディングの現�
 &lt;li&gt;&lt;strong&gt;会場設備：&lt;/strong&gt; WiFi、電源あり  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;📞 お問い合わせ&lt;/h2&gt;
-&lt;p&gt;ご不明な点はconnpassまたはTwitter（@JingSuo36793）までお気軽にお問い合わせください。&lt;/p&gt;</description><guid isPermaLink="false">https://kyoto-univ-ai-coding-lab.connpass.com/event/374284/</guid><enclosure url="https://media.connpass.com/thumbs/d7/53/d753a7731cdbf7cc61f7877e605ced3e.png" length="0" type="image/png"/><pubDate>Wed, 05 Nov 2025 18:30:00 +0900</pubDate></item><item><title>JISTA関西支部 25年11月度定例会『＜京都昼開催＞京都特別講演／グループワーク』</title><link>https://jista.connpass.com/event/373146/</link><description>📍 会場: 京都市生涯学習総合センター山科（アスニー山科）
-住所: 京都市山科区竹鼻竹ノ街道町92
+&lt;p&gt;ご不明な点はconnpassまたはTwitter（@JingSuo36793）までお気軽にお問い合わせください。&lt;/p&gt;</description><guid isPermaLink="false">https://kyoto-univ-ai-coding-lab.connpass.com/event/374284/</guid><enclosure url="https://media.connpass.com/thumbs/d7/53/d753a7731cdbf7cc61f7877e605ced3e.png" length="0" type="image/png"/><pubDate>Wed, 05 Nov 2025 18:30:00 +0900</pubDate></item><item><title>生成AI時代のデザインを再発見する──考え方から実践まで【HackathonMeetup#4】</title><link>https://craftstadium.connpass.com/event/373243/</link><description>📍 会場: ストライク 京都イノベーションオフィス
+住所: 京都府京都市中京区烏丸通四条上ル笋町688  第15長谷ビル5階
 
-講演者 松井元康 氏（京都鉄道博物館）
+〜AIと共に“つくる力”をアップデートする1日〜
 
-&lt;h1&gt;JISTA関西支部 25年11月度定例会『＜京都昼開催＞京都特別講演／グループワーク』&lt;/h1&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;p&gt;JISTA関西支部の2025年度の活動スローガンは「つなぐ関西、つなげる未来」としています。&lt;br&gt;
-会員の方からの「大阪での平日夜の定例会は参加しにくい」とのご意見を受け、11月度定例会は京都で祝日昼間での開催を企画しました。&lt;br&gt;
-今回は京都に所縁があり、かつＩＴ業界や組織の境界を越えて新たな価値を発見するため、京都鉄道博物館の松井元康氏をお迎えし、京都特別講演をしていただきます。企業の経営戦略と技術をつなぐ観点からご示唆をいただければと考えております。
-&lt;br&gt;
-また、参加者間のトランザクションメモリーを深めるため、グループワークにより、お互いのことをより深く知っていただける機会を作りたいと思います。&lt;br&gt;
-定例会に初めて参加される方、関西支部以外の会員の皆さまにも参加しやすい内容となっております。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;今回は現地開催のみ（オンラインなし）となります。&lt;br&gt;
-皆さまのご参加、心よりお待ちしております。&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;日時&lt;/h3&gt;
-&lt;p&gt;2025年11月24日(祝・月曜日) 14:00～16:45&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;14:00～14:10　オープニング&lt;br&gt;
-14:10～15:00　京都特別講演「（仮題）５００系新幹線の開発秘話」&lt;br&gt;
-　　　　　　　　講演者　松井 元康 氏（公益財団法人交通文化振興財団 京都鉄道博物館 副館長）&lt;br&gt;
-15:00～15:15　休憩&lt;br&gt;
-15:15～16:35　グループワーク（ワールドカフェ方式による参加者間のコミュニケーション）&lt;br&gt;
-16:35～16:45　エンディング&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;会場&lt;/h3&gt;
-&lt;p&gt;京都市生涯学習総合センター山科（アスニー山科）　※最寄りはJR/地下鉄/京阪 山科駅&lt;br&gt;
-（住所：京都市山科区竹鼻竹ノ街道町92）&lt;/p&gt;
-&lt;h3&gt;参加対象&lt;/h3&gt;
-&lt;p&gt;・日本ITストラテジスト協会（JISTA）の会員&lt;br&gt;
-・日本ITストラテジスト協会（JISTA）の会員から紹介を受けた方&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;【日時】同日　17:00～19:00&lt;/p&gt;
-&lt;p&gt;【会場】NIKUBAR JIGORO　&lt;br&gt;
-　　　　（住所：京都府京都市山科区安朱南屋敷町13－2）&lt;br&gt;
-　　　　&lt;a href="https://nikubarjigoro.owst.jp/" rel="nofollow"&gt;https://nikubarjigoro.owst.jp/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【参加費】5000円・事前払い&lt;/p&gt;
-&lt;p&gt;【人数】最大30名&lt;/p&gt;
-&lt;h3&gt;申込期限&lt;/h3&gt;
-&lt;p&gt;2025年11月19日(水)23時59分&lt;/p&gt;
-&lt;p&gt;※懇親会から参加する方は「定例会現地参加＋懇親会」を選んでください&lt;/p&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/373146/</guid><enclosure url="https://media.connpass.com/thumbs/58/d5/58d534211ed39020c4f10daa125e1664.png" length="0" type="image/png"/><pubDate>Mon, 24 Nov 2025 14:00:00 +0900</pubDate></item><item><title>【京都ゆる会】一緒に作業しませんか？ #23</title><link>https://kyotoprogramminglab-connpassbranch.connpass.com/event/372014/</link><description>📍 会場: コワーキング∞ラボ 京創舎
+&lt;p&gt;関西ビギナーズハッカソンに向けた技術習得プログラムの第4回目。今回は &lt;strong&gt;デザイン&lt;/strong&gt; を学びます。&lt;/p&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;生成AIが誰の手にも届くようになったいま、デザインは何をする行為なのか。&lt;/p&gt;
+&lt;p&gt;本ワークショップでは、&lt;strong&gt;「AI時代のデザインとは？」&lt;/strong&gt; という根本的な問いを出発点に、&lt;strong&gt;思考法と実践法の両面から"デザイン"を再発見していきます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;対象は、デザイナーだけに限りません。&lt;/p&gt;
+&lt;p&gt;エンジニア、事業設計者、プロジェクトマネージャーなど、ものづくりやプロジェクト推進に関わるすべての人が、"デザイン的に考える力"を身につけることを目指します。&lt;/p&gt;
+&lt;p&gt;AIがもたらす変化を理解しながら、実際に手を動かして体験することで、&lt;strong&gt;考える／つくる／伝える&lt;/strong&gt; のあいだを往復する、デザインの新しい姿を学びます。&lt;/p&gt;
+&lt;h2&gt;得られること&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AIがデザインにもたらした変化&lt;/strong&gt;と、新しい創造の可能性&lt;/li&gt;
+&lt;li&gt;デザインを&lt;strong&gt;"考える技術"として活かす方法&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;サービス設計やプロジェクト推進における、&lt;strong&gt;デザイン思考の実践的応用&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;AI時代のチームや個人に求められる&lt;strong&gt;マインドセット&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2025年11月7日(金) ワークショップ:14:30〜18:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ストライク 京都イノベーションオフィス/Hive Kyoto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;定員&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;20名&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;完全無料&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;対象&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;若手エンジニア・デザイナー・プロダクト開発に興味がある方&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;こんな人におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;「デザインを言葉で説明できるようになりたい」人&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「AIを使って発想やプロトタイプを形にしたい」人&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「デザインを専門外から理解し、チームで活かしたい」人&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「考える／つくるの循環をつくりたい」人&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;対象者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;デザイン専攻でなくても、何かを"作りたい"と思っている方&lt;/li&gt;
+&lt;li&gt;情報系、理工系、経営系、文系など、専攻問わずものづくりに興味がある学生・社会人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;p&gt;14:30–14:35 オープニング／チェックイン
+14:35–14:45 趣旨説明：「なぜAI×デザインか」
+14:45–14:55 アイスブレイク
+14:55–15:25 レクチャー①「デザインとは何をする行為なのか？」
+15:25–15:35 グループ対話：「最近“デザイン”を感じた瞬間」
+15:35–15:55 ワーク① 使いやすい/使いにくいデザインの「なぜ」
+15:55–16:10 休憩
+16:10–16:40 レクチャー②：「AI時代のデザイン的思考とは？」
+16:40–16:50 グループ対話：デザインを学ぶって何を学ぶこと？
+16:50–17:00 休憩
+17:00–17:45 ワーク②AI時代のサービスデザイン実践
+17:45–17:55 成果共有
+17:55–18:10 クロージングトーク
+18:10–18:25 自由交流
+18:30   終了&lt;/p&gt;
+&lt;p&gt;を想定しています。&lt;/p&gt;
+&lt;p&gt;※詳細なタイムテーブルは追って掲載予定です。&lt;/p&gt;
+&lt;h2&gt;講師紹介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;塩月 慶子&lt;/strong&gt; - 株式会社ライトライト CDO(Chief Design Officer)。携帯電話のプロダクトデザイナーとしてSHARPに勤務後、地域メディア制作、CAMPFIREでのクラウドファンディング支援、プロダクト開発などを経験。2023年からは株式会社ライトライトにて、プロダクトによる新しい事業承継のあり方を模索。2024年グッドデザイン賞を受賞。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="塩月 慶子" src="https://craftstadium.imgix.net/855c719e-6990-4916-af9e-46b812136bf9/044DC742-AD4A-48B9-88CA-4E3223839C68.png" width="50%"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;岡田 拓也&lt;/strong&gt; - 株式会社ライトライト オープンネーム事業承継relayプロダクトチームプロジェクトマネージャー。多数の地域プロジェクトやメディア運営、サービス開発を経験。2015年より継続的に様々な場で独自のワークショップを実施。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="岡田 拓也" src="https://craftstadium.imgix.net/dcbe8271-d0d9-455a-9338-0ed29d60d573/5CBB2B48-0D1A-4324-8B31-736692C84F66.png" width="50%"&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;relay概要&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;オープンネーム事業承継 relayは、「事業承継をオープンに。」を合言葉に、事業を譲りたい方と事業を継ぎたい方をweb上でマッチングさせるサービスです。relayは、事業者の想いやストーリー、持続可能な強みにフォーカスし、共感をベースにした新しい事業承継体験を実現します。閉じられたイメージの強かったこの業界で、後継者探しを当たり前の文化にし、望まない廃業を減らしていきます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://relay.town/" rel="nofollow"&gt;https://relay.town/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;雰囲気&lt;/h2&gt;
+&lt;p&gt;静かに深く考えながらも、実験的で創造的な半日を。&lt;/p&gt;
+&lt;p&gt;デザインとAIのあいだを行き来しながら、&lt;strong&gt;つくることの本質&lt;/strong&gt;を探ります。&lt;/p&gt;
+&lt;h2&gt;参加特典&lt;/h2&gt;
+&lt;h3&gt;関西ビギナーズハッカソン 連携特典&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;優先参加権:&lt;/strong&gt; 2月開催予定のハッカソンへの先行エントリー&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;コミュニティ特典:&lt;/strong&gt; CraftStadiumコミュニティへの招待&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;シリーズ全体の流れ&lt;/h2&gt;
+&lt;p&gt;技術的連続性を重視した段階的スキルアップ!&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;回&lt;/th&gt;
+&lt;th&gt;日程&lt;/th&gt;
+&lt;th&gt;テーマ&lt;/th&gt;
+&lt;th&gt;連携ポイント&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;第1回&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;6月14日&lt;/td&gt;
+&lt;td&gt;体験談&lt;/td&gt;
+&lt;td&gt;モチベーション向上&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;第2回&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;7月6日&lt;/td&gt;
+&lt;td&gt;Node.js API開発入門&lt;/td&gt;
+&lt;td&gt;バックエンド基礎&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;第3回&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;8月10日&lt;/td&gt;
+&lt;td&gt;Reactでインタラクティブ UI&lt;/td&gt;
+&lt;td&gt;フロントエンド実装&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;第4回&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;11月7日&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;デザイン思考ワークショップ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;←今回&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;第5回&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;12月14日&lt;/td&gt;
+&lt;td&gt;プレゼン術・総仕上げ&lt;/td&gt;
+&lt;td&gt;発表スキル完成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;会場・アクセス&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ストライク 京都イノベーションオフィス/Hive Kyoto&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GoogleMap:&lt;/strong&gt; &lt;a href="https://maps.app.goo.gl/pE6QMCbchFeeUvqq6" rel="nofollow"&gt;https://maps.app.goo.gl/pE6QMCbchFeeUvqq6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;住所:&lt;/strong&gt; 〒604-8153 京都府京都市中京区烏丸通四条上ル笋町688 第15長谷ビル5階&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;アクセス:&lt;/strong&gt; 京都市営地下鉄「四条駅」から徒歩1分 / 阪急京都線「烏丸駅」から徒歩1分 / 22番出口が一番早いです。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日の提供物&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;軽食・お菓子をご用意(ストライク提供)&lt;/li&gt;
+&lt;li&gt;飲料完備&lt;/li&gt;
+&lt;li&gt;Wi-Fi環境完備&lt;/li&gt;
+&lt;li&gt;電源完備&lt;/li&gt;
+&lt;li&gt;ワークショップ資料一式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;重要なお知らせ・注意事項&lt;/h2&gt;
+&lt;h3&gt;株式会社ストライクのメルマガ配信について&lt;/h3&gt;
+&lt;p&gt;本イベントの共催である株式会社ストライクから、年4回(四半期ごと)のメルマガ配信を行います。広報誌の電子版のメルマガを送ります。配信停止したい場合は、メールの配信停止ボタンを押して解除をお願いします。&lt;/p&gt;
+&lt;p&gt;参加申込みにより、メルマガ配信に同意いただいたものとみなします。配信停止はいつでも可能です。&lt;/p&gt;
+&lt;h3&gt;関西ビギナーズハッカソンのメール配信について&lt;/h3&gt;
+&lt;p&gt;関西ビギナーズハッカソンから不定期でメール配信を行います。配信停止したい場合は、以下のGoogleFormから受け取り拒否をお願いします。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/1R0fyWkmjzSrYZEsuR8vz3CEnGtfn5XPEfVABJXURsAo/" rel="nofollow"&gt;https://docs.google.com/forms/d/1R0fyWkmjzSrYZEsuR8vz3CEnGtfn5XPEfVABJXURsAo/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;参加にあたって&lt;/h2&gt;
+&lt;h3&gt;参加をお断りする場合&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;エージェント・営業目的での参加&lt;/li&gt;
+&lt;li&gt;飲食のみを目的とした参加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;主催・運営&lt;/h2&gt;
+&lt;h3&gt;主催&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;CraftStadium&lt;/strong&gt; - 「創るたびに、強くなる。」ハッカソンプラットフォーム&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.craftstadium.com/hackathon" rel="nofollow"&gt;https://www.craftstadium.com/hackathon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="craftstadium" src="https://craftstadium.imgix.net/572000ba-f73b-477c-8c7b-bc56caa74af1/CraftStadium_horizontal_背景なし(1).png" width="50%"&gt;&lt;/p&gt;
+&lt;h3&gt;協力&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;株式会社ストライク&lt;/strong&gt; - M&amp;amp;A業界のリーディングカンパニー&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.strike.co.jp/" rel="nofollow"&gt;https://www.strike.co.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;株式会社ライトライト&lt;/strong&gt; - 事業承継プラットフォーム「relay」運営&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://light-right.jp/" rel="nofollow"&gt;https://light-right.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;ご質問・ご不明点がございましたら、connpassのメッセージ機能、または &lt;a href="https://kansai-hackathon.com/contact/" rel="nofollow"&gt;https://kansai-hackathon.com/contact/&lt;/a&gt; まで問い合わせください。&lt;/p&gt;
+&lt;h2&gt;最後に&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;「技術はあるけど、何を作ればいいかわからない」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そんなあなたの悩みを、デザイン思考で解決しませんか?&lt;/p&gt;
+&lt;p&gt;第2回・第3回で学んだ技術力に、「ユーザーの心を掴むアイデア発想力」を加えれば、ハッカソンで勝てるチームの中核メンバーになれます!&lt;/p&gt;
+&lt;p&gt;生成AIという強力な武器を使いこなしながら、&lt;strong&gt;考える力とつくる力を同時に磨く半日&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;静かに深く考えながらも、実験的で創造的な時間を過ごしましょう。&lt;/p&gt;
+&lt;p&gt;デザインとAIのあいだを行き来しながら、&lt;strong&gt;つくることの本質&lt;/strong&gt;を探ります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;みなさんのご参加をお待ちしています!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;過去のイベントレポート&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.craftstadium.com/news/hackathon-meetup-01-report-86-percent-motivation-boost" rel="nofollow"&gt;https://www.craftstadium.com/news/hackathon-meetup-01-report-86-percent-motivation-boost&lt;/a&gt;
+&lt;a href="https://www.craftstadium.com/news/hackathon-meetup-02-report" rel="nofollow"&gt;https://www.craftstadium.com/news/hackathon-meetup-02-report&lt;/a&gt;
+&lt;a href="https://www.craftstadium.com/news/hackathon-meetup-03-report" rel="nofollow"&gt;https://www.craftstadium.com/news/hackathon-meetup-03-report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="craftstadium" src="https://craftstadium.imgix.net/7045bd0f-a1f1-4009-b9f3-4d2c482a255d/スクリーンショット2025-06-1612.40.58.png" width="50%"&gt;
+&lt;img alt="craftstadium" src="https://craftstadium.imgix.net/cb5ea7fe-ab55-4d8f-9eb9-dfa3986edaa6/IMG_8018.jpg" width="50%"&gt;&lt;/p&gt;</description><guid isPermaLink="false">https://craftstadium.connpass.com/event/373243/</guid><enclosure url="https://media.connpass.com/thumbs/df/80/df8049f5323e66e800df056447ba1ca9.png" length="0" type="image/png"/><pubDate>Fri, 07 Nov 2025 14:00:00 +0900</pubDate></item><item><title>【京都ゆる会】一緒に作業しませんか？ #23</title><link>https://kyotoprogramminglab-connpassbranch.connpass.com/event/372014/</link><description>📍 会場: コワーキング∞ラボ 京創舎
 住所: 京都市下京区高倉通高辻下る葛籠屋町519
 
 京都で開催します！

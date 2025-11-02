@@ -1,2 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>徳島のイベント</title><link>https://connpass.com/explore/</link><description>徳島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Nov 2025 04:09:04 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>徳島のイベント</title><link>https://connpass.com/explore/</link><description>徳島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:10:59 +0000</lastBuildDate><item><title>【徳島】第35回 カンファレンス動画鑑賞会</title><link>https://tokushima-app.connpass.com/event/374452/</link><description>📍 会場: L is B 徳島ラボ
+住所: 徳島市新町橋
+
+モバイル・フロントエンド開発者向けカンファレンス動画を見る会
+
+&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;モバイルアプリ開発やフロントエンド開発者向けのカンファレンスのセッション動画をみんなでわいわい見る会です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;「動画があるとわかっているけど、いつでも見えると思ってなかなか見ない」&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「動画を見たあと、みんなでわいわい意見を交わしたい」&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「自分からは見ようとしなかったセッションに出会いたい」&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;…というような人向けのイベントです！&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 - 12:00&lt;/td&gt;
+&lt;td&gt;動画鑑賞会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00 - 13:00&lt;/td&gt;
+&lt;td&gt;おひるごはん休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 - 17:00&lt;/td&gt;
+&lt;td&gt;動画鑑賞会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 入退出自由&lt;/p&gt;
+&lt;h1&gt;何を見るの？&lt;/h1&gt;
+&lt;p&gt;モバイルアプリやフロントエンド開発に関するカンファレンスの公開されている過去セッション動画をみんなで見ます。&lt;/p&gt;
+&lt;p&gt;参加者が見たい動画をリクエストして鑑賞するので、あらかじめ動画をいくつか選んでおいてもらえると当日捗ります。&lt;/p&gt;
+&lt;h2&gt;おしながき（ここに挙げてないものでも歓迎）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DroidKaigi 2025&lt;/li&gt;
+&lt;li&gt;TSKaigi 2025&lt;/li&gt;
+&lt;li&gt;try! Swift Tokyo 2025&lt;/li&gt;
+&lt;li&gt;FlutterKaigi 2024&lt;/li&gt;
+&lt;li&gt;Vue Fes Japan 2024&lt;/li&gt;
+&lt;li&gt;iOSDC Japan 2024&lt;/li&gt;
+&lt;li&gt;Kotlin Fest 2024&lt;/li&gt;
+&lt;li&gt;…など！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;補足&lt;/h1&gt;
+&lt;p&gt;その動画の内容に詳しい人がいるとは限りません。&lt;/p&gt;
+&lt;p&gt;見終わってから、みんなであーだこーだしながら理解を深めていきましょう！&lt;/p&gt;
+&lt;p&gt;お菓子など、飲食物持ち寄り歓迎！
+感染対策として、他人にシェアする場合は個包装のものにしてください。&lt;/p&gt;
+&lt;h1&gt;会場&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;L is B 徳島ラボ&lt;ul&gt;
+&lt;li&gt;参加者にご連絡します（阿波おどり会館の近くです）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;飲食は可能です（自動販売機は阿波おどり会館周辺にあります）&lt;/li&gt;
+&lt;li&gt;駐車場はありません（近隣のコインパーキング／または公共交通機関のご利用を）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;当日発熱、せきやのどの痛みがあるなど、体調不良の症状がある方は参加をご遠慮ください。&lt;/li&gt;
+&lt;li&gt;主催側の体調不良により、当日に開催を中止する場合があります。&lt;/li&gt;
+&lt;/ul&gt;</description><guid isPermaLink="false">https://tokushima-app.connpass.com/event/374452/</guid><enclosure url="https://media.connpass.com/thumbs/2d/eb/2deb9347a47395a60a6098059e6b4252.png" length="0" type="image/png"/><pubDate>Sun, 16 Nov 2025 10:00:00 +0900</pubDate></item></channel></rss>
