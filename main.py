@@ -74,6 +74,7 @@ def generate_rss_for_prefecture(prefecture_en: str, prefecture_ja: str, keyword:
     fg.subtitle(prefecture_ja + "のイベント情報")
     fg.link(href="https://connpass.com/explore/", rel="self")
     fg.language("ja")
+    fg.logo("https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png")
 
     # 取得したイベントのうちこれから開催されるものをRSSエントリーとして追加
     added_count = 0
