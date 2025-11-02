@@ -58,29 +58,103 @@ def fetch_content(keyword: list, prefecture: str) -> dict:
         return {"error": "Failed to fetch content", "events": []}
 
 
-def main():
-    PREFECTURE_EN = "aichi"
-    PREFECTURE_JA = "愛知"
-    content = fetch_content(prefecture=PREFECTURE_EN, keyword=[])
-    print(f"取得したイベント数: {len(content.get('events', []))}")
+def generate_rss_for_prefecture(prefecture_en: str, prefecture_ja: str, keyword: list = []):
+    """
+    指定された都道府県の RSS フィードを生成する
+    """
+    content = fetch_content(prefecture=prefecture_en, keyword=keyword)
+    event_count = len(content.get('events', []))
+    print(f"[{prefecture_ja}] 取得したイベント数: {event_count}")
 
     fg = ffeed.FeedGenerator()
     fg.id("https://connpass.com/explore/")
-    fg.title(PREFECTURE_JA + "のイベント")
+    fg.title(prefecture_ja + "のイベント")
     fg.author({"name": "connpass-rss", "email": "example@example.com"})
     fg.link(href="https://connpass.com/explore/", rel="alternate")
-    fg.subtitle(PREFECTURE_JA + "のイベント情報")
+    fg.subtitle(prefecture_ja + "のイベント情報")
     fg.link(href="https://connpass.com/explore/", rel="self")
     fg.language("ja")
 
     # 取得したイベントのうちこれから開催されるものをRSSエントリーとして追加
+    added_count = 0
     for event in content.get("events", []):
         if event.get("started_at") > datetime.datetime.now().isoformat():
-            print(f"Adding event to RSS feed: {event['title']}")
             fg = add_entry(fg, event)
+            added_count += 1
 
-    fg.rss_file("rss.xml")  # Write the RSS feed to a file
-    print(f"RSS feed generated: rss.xml ({len(content.get('events', []))} events)")
+    # ファイル名を都道府県名で保存
+    filename = f"rss/rss_{prefecture_en}.xml"
+    fg.rss_file(filename)
+    print(f"[{prefecture_ja}] RSS feed generated: {filename} ({added_count} events)")
+    return added_count
+
+
+def main():
+    # 47都道府県のリスト（英語名と日本語名）
+    prefectures = [
+        ("online", "オンライン"),
+        ("hokkaido", "北海道"),
+        ("aomori", "青森"),
+        ("iwate", "岩手"),
+        ("miyagi", "宮城"),
+        ("akita", "秋田"),
+        ("yamagata", "山形"),
+        ("fukushima", "福島"),
+        ("ibaraki", "茨城"),
+        ("tochigi", "栃木"),
+        ("gunma", "群馬"),
+        ("saitama", "埼玉"),
+        ("chiba", "千葉"),
+        ("tokyo", "東京"),
+        ("kanagawa", "神奈川"),
+        ("niigata", "新潟"),
+        ("toyama", "富山"),
+        ("ishikawa", "石川"),
+        ("fukui", "福井"),
+        ("yamanashi", "山梨"),
+        ("nagano", "長野"),
+        ("gifu", "岐阜"),
+        ("shizuoka", "静岡"),
+        ("aichi", "愛知"),
+        ("mie", "三重"),
+        ("shiga", "滋賀"),
+        ("kyoto", "京都"),
+        ("osaka", "大阪"),
+        ("hyogo", "兵庫"),
+        ("nara", "奈良"),
+        ("wakayama", "和歌山"),
+        ("tottori", "鳥取"),
+        ("shimane", "島根"),
+        ("okayama", "岡山"),
+        ("hiroshima", "広島"),
+        ("yamaguchi", "山口"),
+        ("tokushima", "徳島"),
+        ("kagawa", "香川"),
+        ("ehime", "愛媛"),
+        ("kochi", "高知"),
+        ("fukuoka", "福岡"),
+        ("saga", "佐賀"),
+        ("nagasaki", "長崎"),
+        ("kumamoto", "熊本"),
+        ("oita", "大分"),
+        ("miyazaki", "宮崎"),
+        ("kagoshima", "鹿児島"),
+        ("okinawa", "沖縄"),
+    ]
+
+    print("=" * 60)
+    print("47都道府県の RSS フィード生成を開始します")
+    print("=" * 60)
+
+    total_events = 0
+    for prefecture_en, prefecture_ja in prefectures:
+        added_count = generate_rss_for_prefecture(prefecture_en, prefecture_ja)
+        total_events += added_count
+
+    print("=" * 60)
+    print("全都道府県の RSS フィード生成が完了しました")
+    print(f"総イベント数: {total_events}")
+    print("=" * 60)
 
 
 if __name__ == "__main__":

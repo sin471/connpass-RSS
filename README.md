@@ -1,14 +1,14 @@
 # Connpass-RSS
 
-connpass API を使用して、特定の都道府県のイベント情報を RSS フィードとして生成する Python プロジェクトです。
+connpass API を使用して、**47都道府県すべて**のイベント情報を RSS フィードとして生成するプログラムです。
 
 ## 概要
 
-このプロジェクトは、[connpass](https://connpass.com/) の公開 API からイベント情報を取得し、RSS フィード（`rss.xml`）として出力します。デフォルトでは愛知県のイベント情報を取得しますが、設定を変更することで他の都道府県にも対応できます。
+このプロジェクトは、[connpass](https://connpass.com/) の公開 API からイベント情報を取得し、都道府県ごとに個別の RSS フィード（`rss_<prefecture>.xml`）を生成します。今後開催されるイベントのみが含まれ、RSS リーダーで購読できます。
 
 ## 主な機能
 
-- connpass API からイベント情報を取得
+- **47都道府県すべて**のイベント情報を自動取得
 - 今後開催されるイベントのみをフィルタリング
 - RSS 2.0 形式でフィード生成
 - イベントの詳細情報を含む：
@@ -16,7 +16,7 @@ connpass API を使用して、特定の都道府県のイベント情報を RSS
   - URL
   - 開催日時
   - 開催地（会場名・住所）
-  - 説明文
+  - 説明文（キャッチコピー + 本文）
   - イベント画像
 
 ## 必要要件
@@ -28,66 +28,74 @@ connpass API を使用して、特定の都道府県のイベント情報を RSS
 
 ```bash
 # リポジトリをクローン
-git clone <your-repo-url>
-cd connpass-rss
+git clone https://github.com/sin471/Connpass-RSS.git
+cd Connpass-RSS
 
 # uv を使用して依存関係をインストール
 uv sync
 ```
 
-## 環境変数の設定
-
-connpass API キーが必要です。環境変数 `CONNPASS_API_KEY` に設定してください。
-
-**Windows (PowerShell):**
-```powershell
-$env:CONNPASS_API_KEY="your-api-key-here"
-uv run main.py
-```
-
-**Windows (コマンドプロンプト):**
-```cmd
-set CONNPASS_API_KEY=your-api-key-here
-uv run main.py
-```
-
-**Linux/Mac (bash):**
-```bash
-export CONNPASS_API_KEY="your-api-key-here"
-uv run main.py
-```
-
 ## 使い方
 
-### 基本的な使用方法
+### RSS フィードの購読方法
+
+生成された RSS フィードを RSS リーダーで購読できます。購読したいRSSフィードのxmlファイルを`rss`ディレクトリ内から選び、RawデータのURLをRSSリーダーに登録してください。
+
+たとえば、東京のイベントのRSSフィードを購読する場合は、`rss/rss_tokyo.xml`のRawデータである https://raw.githubusercontent.com/sin471/Connpass-RSS/refs/heads/main/rss/rss_tokyo.xml のURLをRSSリーダーに登録します。
+
+### RSS フィードの生成
 
 ```bash
 uv run main.py
 ```
 
-実行すると、`rss.xml` ファイルが生成されます。
+実行すると、`rss/` ディレクトリ内に47都道府県分の RSS フィードファイルが生成されます：
 
-### カスタマイズ
+```
+rss/rss_hokkaido.xml
+rss/rss_aomori.xml
+rss/rss_iwate.xml
+...
+rss/rss_okinawa.xml
+```
 
-`main.py` の `main()` 関数内で、以下の設定を変更できます：
+
+
+## カスタマイズ
+
+### 特定の都道府県のみ生成
+
+`main.py` の `prefectures` リストを編集して、必要な都道府県のみに絞ることができます：
 
 ```python
-# 都道府県を変更
-PREFECTURE_EN = "tokyo"  # 東京
-PREFECTURE_JA = "東京"
+prefectures = [
+    ("tokyo", "東京"),
+    ("osaka", "大阪"),
+    ("aichi", "愛知"),
+]
+```
 
-# キーワード検索を追加
-content = fetch_content(prefecture=PREFECTURE_EN, keyword=["Python", "AI"])
+### キーワードフィルタを追加
+
+`generate_rss_for_prefecture` 関数の呼び出し時にキーワードを指定できます：
+
+```python
+# Python 関連イベントのみ取得
+generate_rss_for_prefecture("tokyo", "東京", keyword=["Python"])
 ```
 
 ## プロジェクト構成
 
 ```
-connpass-rss/
-├── main.py           # メインスクリプト
-├── pyproject.toml    # プロジェクト設定ファイル
-├── README.md         # このファイル
-└── rss.xml           # 生成される RSS フィード
+Connpass-RSS/
+├── main.py              # メインスクリプト
+├── pyproject.toml       # プロジェクト設定ファイル
+├── README.md            # このファイル
+└── rss/                 # RSS フィード出力ディレクトリ
+    ├── rss_hokkaido.xml # 北海道の RSS フィード
+    ├── rss_tokyo.xml    # 東京の RSS フィード
+    ├── rss_osaka.xml    # 大阪の RSS フィード
+    └── ...              # その他47都道府県分
 ```
 
 ## 依存パッケージ
@@ -99,10 +107,6 @@ connpass-rss/
 
 このプロジェクトは [connpass API v2](https://connpass.com/about/api/) を使用しています。
 
-### 利用可能なパラメータ
-
-- `prefecture` - 都道府県（例: "aichi", "tokyo"）
-- `keyword` - 検索キーワードのリスト
 
 ## ライセンス
 
