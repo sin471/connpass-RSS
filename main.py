@@ -35,30 +35,38 @@ def add_entry(fg: ffeed.FeedGenerator, event: dict):
     fe.id(event["url"])
     fe.title(event["title"])
     fe.link(href=event["url"])
-    description = ""
+
+    # HTML形式で情報をリスト化
+    description = "<ul>"
 
     # 開催日時を見やすい日本語形式に変換
     if event.get("started_at"):
         formatted_start = format_datetime_jp(event["started_at"])
-        description += f"🗓 開始: {formatted_start}\n"
+        description += f"<li>🗓 開始: {formatted_start}</li>"
 
     # 終了日時を見やすい日本語形式に変換
     if event.get("ended_at"):
         formatted_end = format_datetime_jp(event["ended_at"])
-        description += f"🕐 終了: {formatted_end}\n"
+        description += f"<li>🕐 終了: {formatted_end}</li>"
 
     # 開催地情報を追加
     if event.get("place"):
-        description += f"📍 会場: {event['place']}"
+        description += f"<li>📍 会場: {event['place']}</li>"
         if event.get("address"):
-            description += f"\n🏢 住所: {event['address']}"
+            description += f"<li>🏢 住所: {event['address']}</li>"
 
+    # ハッシュタグを追加
     if event.get("hash_tag"):
-        description += f"\n\nハッシュタグ: #{event['hash_tag']}"
+        description += f"<li>🏷️ ハッシュタグ: #{event['hash_tag']}</li>"
+
+    description += "</ul>"
 
     # 説明文を作成（catch と description の組み合わせ）
-    description += f"\n\n{event.get('catch', '')}"
-    description += f"\n\n{event.get('description', '')}"
+    if event.get("catch"):
+        description += f"<p>{event.get('catch')}</p>"
+    if event.get("description"):
+        description += f"<div>{event.get('description')}</div>"
+
     fe.description(description)
 
     if "updated_at" in event:
