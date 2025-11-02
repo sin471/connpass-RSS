@@ -6,6 +6,27 @@ import feedgen.feed as ffeed
 import requests
 
 
+def format_datetime_jp(iso_datetime: str) -> str:
+    """
+    ISO 8601 形式の日時文字列を見やすい日本語形式に変換する
+
+    Args:
+        iso_datetime: ISO 8601 形式の日時文字列 (例: '2025-11-25T18:00:00+09:00')
+
+    Returns:
+        日本語形式の日時文字列 (例: '2025年11月25日(火) 18:00')
+        パースに失敗した場合は元の文字列をそのまま返す
+    """
+    try:
+        dt = datetime.datetime.fromisoformat(iso_datetime)
+        # 曜日の日本語変換
+        weekdays = ["月", "火", "水", "木", "金", "土", "日"]
+        weekday = weekdays[dt.weekday()]
+        return f"{dt.year}年{dt.month}月{dt.day}日({weekday}) {dt.hour}:{dt.minute:02d}"
+    except (ValueError, AttributeError):
+        return iso_datetime
+
+
 def add_entry(fg: ffeed.FeedGenerator, event: dict):
     """
     connpass API から取得したイベント情報を RSS エントリーとして追加する
@@ -15,20 +36,33 @@ def add_entry(fg: ffeed.FeedGenerator, event: dict):
     fe.title(event["title"])
     fe.link(href=event["url"])
     description = ""
+
+    # 開催日時を見やすい日本語形式に変換
+    if event.get("started_at"):
+        formatted_start = format_datetime_jp(event["started_at"])
+        description += f"🗓 開始: {formatted_start}\n"
+
+    # 終了日時を見やすい日本語形式に変換
+    if event.get("ended_at"):
+        formatted_end = format_datetime_jp(event["ended_at"])
+        description += f"🕐 終了: {formatted_end}\n"
+
     # 開催地情報を追加
     if event.get("place"):
         description += f"📍 会場: {event['place']}"
         if event.get("address"):
-            description += f"\n住所: {event['address']}"
+            description += f"\n🏢 住所: {event['address']}"
+
+    if event.get("hash_tag"):
+        description += f"\n\nハッシュタグ: #{event['hash_tag']}"
 
     # 説明文を作成（catch と description の組み合わせ）
     description += f"\n\n{event.get('catch', '')}"
     description += f"\n\n{event.get('description', '')}"
     fe.description(description)
 
-    # 開始日時を published として設定
-    if "started_at" in event:
-        fe.published(event["started_at"])
+    if "updated_at" in event:
+        fe.published(event["updated_at"])
 
     # 画像を設定（enclosure として追加）
     if event.get("image_url"):
