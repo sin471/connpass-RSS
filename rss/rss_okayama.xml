@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 15:38:52 +0000</lastBuildDate><item><title>岡山エンジニア座談会 #10【Tech Guild】</title><link>https://okayama-engineer.connpass.com/event/374333/</link><description>📍 会場: パイナップル会議室 岡山駅前
-住所: 岡山県岡山市北区駅前町2-6-2
-
-ゆるくエンジニア談義を楽しみましょう♪
-
-&lt;h1&gt;【Tech Guild】第10回岡山エンジニア座談会&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 02 Nov 2025 16:19:50 +0000</lastBuildDate><item><title>岡山エンジニア座談会 #10【Tech Guild】</title><link>https://okayama-engineer.connpass.com/event/374333/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: パイナップル会議室 岡山駅前&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区駅前町2-6-2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるくエンジニア談義を楽しみましょう♪&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【Tech Guild】第10回岡山エンジニア座談会&lt;/h1&gt;
 &lt;p&gt;岡山のエンジニア同士で気軽に交流できる座談会を開催します！&lt;br&gt;
 技術の話でも、趣味の話でも、仕事の愚痴でもOK！&lt;br&gt;
 エンジニア仲間とゆるく楽しく語り合いましょう🎉&lt;br&gt;
@@ -83,12 +78,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;みなさんのご参加をお待ちしています！&lt;br&gt;
-一緒に楽しい会を作りましょう🎶&lt;/p&gt;</description><guid isPermaLink="false">https://okayama-engineer.connpass.com/event/374333/</guid><enclosure url="https://media.connpass.com/thumbs/73/6b/736be2d8a5b9d409c9a809897fba921c.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 15:30:00 +0900</pubDate></item><item><title>SORACOM UG Okayama #6 IoTカメラと生成AIで画像分析ワークショップ</title><link>https://soracomug-tokyo.connpass.com/event/372740/</link><description>📍 会場: 岡山国際交流センター 5F会議室(2)
-住所: 岡山県岡山市北区奉還町２丁目２−１
-
-クラウド型カメラ「ソラカメ」と生成AIで手軽に画像分析するワークショップ
-
-&lt;h2&gt;概要&lt;/h2&gt;
+一緒に楽しい会を作りましょう🎶&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-engineer.connpass.com/event/374333/</guid><enclosure url="https://media.connpass.com/thumbs/73/6b/736be2d8a5b9d409c9a809897fba921c.png" length="0" type="image/png"/><pubDate>Thu, 30 Oct 2025 13:33:24 +0900</pubDate></item><item><title>SORACOM UG Okayama #6 IoTカメラと生成AIで画像分析ワークショップ</title><link>https://soracomug-tokyo.connpass.com/event/372740/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月8日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月8日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山国際交流センター 5F会議室(2)&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区奉還町２丁目２−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #soracomug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;クラウド型カメラ「ソラカメ」と生成AIで手軽に画像分析するワークショップ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;SORACOMが提供する「ソラカメ」と、SORACOMが提供するIoTアプリケーションをローコードで開発できる「SORACOM Flux」を使い、ソラカメで取得した画像を生成AIで画像解析し、その結果をメール通知するシステムを構築します。
 　今回のハンズオンでは、「Fluxアプリ」を簡単に作成できる「SORACOM Flux アプリテンプレート」を使い、ソラカメで撮影した画像から人数検知をしてメール通知するシステムを構築します。&lt;/p&gt;
 &lt;h2&gt;開催日時・場所&lt;/h2&gt;
@@ -185,12 +175,7 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;blockquote&gt;
 &lt;p&gt;SORACOM User Group / ソラコムユーザーグループ（通称SORACOM UG）とは、業種や職業問わず、IoTやIoTプラットフォーム SORACOMについて関心を持った方、既に利用されている方、これからIoTを始める方が誰でも参加することが出来るコミュニティです。個人としてIoTに興味がある方や、IoTビジネスを提供されている方、これから自社のサービスや製品にIoTを取り入れようという方など、様々なバックグラウンド、経験を持った方が集まり、互いに学び合い、交流し合う場です。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;SORACOM UG Okayamaは、SORACOM UGの岡山支部になります。&lt;/p&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/372740/</guid><enclosure url="https://media.connpass.com/thumbs/64/96/649695ba4e2724df735e023158c21f0e.png" length="0" type="image/png"/><pubDate>Sat, 08 Nov 2025 13:30:00 +0900</pubDate></item><item><title>CoderDojo吉備Okayama #053</title><link>https://coderdojokibi.connpass.com/event/371097/</link><description>📍 会場: 岡山市立吉備公民館
-住所: 岡山県岡山市北区庭瀬４１６
-
-吉備（岡山）の子ども向けのプログラミング道場の第53回！
-
-&lt;h1&gt;第53回 CoderDojo吉備Okayama&lt;/h1&gt;
+&lt;p&gt;SORACOM UG Okayamaは、SORACOM UGの岡山支部になります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/372740/</guid><enclosure url="https://media.connpass.com/thumbs/64/96/649695ba4e2724df735e023158c21f0e.png" length="0" type="image/png"/><pubDate>Thu, 16 Oct 2025 17:04:15 +0900</pubDate></item><item><title>CoderDojo吉備Okayama #053</title><link>https://coderdojokibi.connpass.com/event/371097/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年11月15日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年11月15日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山市立吉備公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区庭瀬４１６&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo吉備&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;吉備（岡山）の子ども向けのプログラミング道場の第53回！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第53回 CoderDojo吉備Okayama&lt;/h1&gt;
 &lt;p&gt;CoderDojoとは
 CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。&lt;/p&gt;
 &lt;p&gt;2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には212以上の道場があります。&lt;/p&gt;
@@ -271,4 +256,108 @@ Scratchなど技術力は問いません。子ども達の相談にのって一�
 CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点はお問合せください。
 メンターのお子様（ジュニアメンター）も参加OKです。申し込みの際にその旨コメントをお願いします。&lt;/p&gt;
 &lt;h1&gt;その他&lt;/h1&gt;
-&lt;p&gt;持参されるPCのプロジェクタに投影できるコネクタやケーブルをお持ちでしたら持参願います。（人数が多い場合、発表時に投影するため。）&lt;/p&gt;</description><guid isPermaLink="false">https://coderdojokibi.connpass.com/event/371097/</guid><enclosure url="https://media.connpass.com/thumbs/40/bd/40bdbc09f07d80502b0bca136895251a.png" length="0" type="image/png"/><pubDate>Sat, 15 Nov 2025 14:00:00 +0900</pubDate></item></channel></rss>
+&lt;p&gt;持参されるPCのプロジェクタに投影できるコネクタやケーブルをお持ちでしたら持参願います。（人数が多い場合、発表時に投影するため。）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojokibi.connpass.com/event/371097/</guid><enclosure url="https://media.connpass.com/thumbs/40/bd/40bdbc09f07d80502b0bca136895251a.png" length="0" type="image/png"/><pubDate>Sat, 01 Nov 2025 07:01:12 +0900</pubDate></item><item><title>忘年会議2025</title><link>https://bonenkaigi.connpass.com/event/366073/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Ryotei （座・スタジアム）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区奉還町2-5-23&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #忘年会議&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;忘年会議とは&lt;/h1&gt;
+&lt;p&gt;忘年会議は、瀬戸内地方のIT技術に興味ある方が一同に会する 毎年恒例の名物的なイベントです。初めての方も大歓迎ですので、是非とも参加ください。&lt;/p&gt;
+&lt;h1&gt;会場&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://www.233-3959.com/pc/ryoutei/disp_catalogue.php?key=13" rel="nofollow"&gt;Ryotei （座・スタジアム）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;岡山県岡山市北区奉還町2-5-23&lt;/p&gt;
+&lt;p&gt;食べ飲み放題となります&lt;/p&gt;
+&lt;p&gt;※お店に入ったら「座・スタジアム（ざ・すたじあむ）の予約です」とお店の方にお伝えください&lt;/p&gt;
+&lt;h1&gt;参加枠について&lt;/h1&gt;
+&lt;h2&gt;LT枠(5分)&lt;/h2&gt;
+&lt;p&gt;LTする枠です。&lt;/p&gt;
+&lt;h2&gt;一般&lt;/h2&gt;
+&lt;p&gt;どなたでもお申し込みいただけます。&lt;/p&gt;
+&lt;h1&gt;昼にはなにかありますか？&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://gbdaitokai.connpass.com/event/366072/" rel="nofollow"&gt;合同勉強会 in 大都会岡山 -2025 Winter-&lt;/a&gt; があります。&lt;/p&gt;
+&lt;h2&gt;未成年の方歓迎！ただし、飲酒は絶対NG！&lt;/h2&gt;
+&lt;p&gt;本忘年会はIT分野のコミュニティに興味のある未成年の方の参加を積極的に歓迎いたします。但し、未成年の方への飲酒は絶対にさせません！&lt;br&gt;
+また、高校生以下の方は、必ず保護者の方のご了承を得たうえでお申し込み・参加をお願いいたします。&lt;/p&gt;
+&lt;h2&gt;合同勉強会会場で事前受付が行えます&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;当日合同勉強会の会場では、忘年会議の事前受付が行えます。合同勉強会に参加される方は、スムーズな開催のため事前受付にご協力ください&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;LT大会 打順&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;TBD&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://bonenkaigi.connpass.com/event/366073/</guid><enclosure url="https://media.connpass.com/thumbs/5b/4d/5b4d154003c870bb17b0825736d55e6f.png" length="0" type="image/png"/><pubDate>Fri, 15 Aug 2025 18:01:27 +0900</pubDate></item><item><title>合同勉強会 in 大都会岡山 -2025 Winter-</title><link>https://gbdaitokai.connpass.com/event/366072/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月13日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山国際交流センター 5F会議室(1)&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区奉還町２丁目２−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gbdaitokai&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;このイベントについて&lt;/h1&gt;
+&lt;p&gt;合同勉強会in大都会岡山は、岡山県近辺のIT勉強会コミュニティによる、合同勉強会です。  &lt;/p&gt;
+&lt;h1&gt;参加コミュニティ&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://okayama-wp-comunity.org" rel="nofollow"&gt;Okayama WordPress Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://okayama-ai-dev.connpass.com/" rel="nofollow"&gt;岡山でAI駆動開発をやっていく会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;懇親会は？&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://bonenkaigi.connpass.com/event/366073/" rel="nofollow"&gt;忘年会議2025&lt;/a&gt; があります。&lt;/p&gt;
+&lt;h1&gt;一般参加枠の参加費について&lt;/h1&gt;
+&lt;p&gt;受付時に回収します。&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="center"&gt;登壇者&lt;/th&gt;
+&lt;th align="center"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:00 - 13:30&lt;/td&gt;
+&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;開場・受付&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:30 - 13:35&lt;/td&gt;
+&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:35 - 13:55&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;13:55 - 14:15&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;14:15 - 14:35&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;14:35 - 14:50&lt;/td&gt;
+&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;14:50 - 15:30&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;Linghtning Talks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;15:30 - 15:45&lt;/td&gt;
+&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;15:45 - 16:05&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:05 - 16:25&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:25 - 16:45&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;16:45 - 17:00&lt;/td&gt;
+&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;クロージング～撤収&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gbdaitokai.connpass.com/event/366072/</guid><enclosure url="https://media.connpass.com/thumbs/8a/ee/8aee533e854d1384fc1f894979b22b65.png" length="0" type="image/png"/><pubDate>Fri, 22 Aug 2025 10:17:55 +0900</pubDate></item></channel></rss>
