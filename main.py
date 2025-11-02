@@ -90,7 +90,7 @@ def fetch_content(keyword: list, prefecture: str) -> dict:
     API_KEY = os.getenv("CONNPASS_API_KEY", "")
     headers = {"X-API-Key": API_KEY, "User-Agent": "connpass-rss/1.0"}
     # リクエストパラメータの設定
-    params = {"keyword": keyword, "prefecture": prefecture, "count": 100, "order": 1} # 更新順にすることでupdated_atが新しい順に取得
+    params = {"keyword": keyword, "prefecture": prefecture, "count": 100, "order": 2} # 開催済みの取得を減らすため開催日時順で取得
 
     try:
         print(f"Fetching content from {URL} with params {params}")
