@@ -1,5 +1,6 @@
 import datetime
 import os
+import time
 
 import feedgen.feed as ffeed
 import requests
@@ -151,6 +152,10 @@ def main():
     for prefecture_en, prefecture_ja in prefectures:
         added_count = generate_rss_for_prefecture(prefecture_en, prefecture_ja)
         total_events += added_count
+
+        # レート制限を回避するため、各リクエスト後に待機
+        print(f"待機中... ")
+        time.sleep(1)
 
     print("=" * 60)
     print("全都道府県の RSS フィード生成が完了しました")
