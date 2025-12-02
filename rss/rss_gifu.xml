@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 01 Dec 2025 15:14:49 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 02 Dec 2025 15:15:13 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2026/3/15(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室1&lt;/li&gt;
@@ -15,30 +15,49 @@
 &lt;p&gt;&lt;strong&gt;予め Zoom Workplace のノートパソコン・タブレット端末へのインストールをお願いいたします。&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;最初に、順に自己紹介することから始めたいと考えています。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;自己紹介の際、参加される方のほうでも Zoom で画面共有しながら興味があること・情報共有したいこと等について紹介いただけたらと考えています。（自己紹介だけでも大丈夫です。）&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;内容は、下記の論文等 Vision Transformer 関連の論文の内容を追うことを考えています。(こちらは私のほうで準備する内容で、参加される方のほうで用意される場合は、テーマはどのようなテーマでも構いません。)&lt;/p&gt;
+&lt;p&gt;Multimodal Diffusion Transformer (MM-DiT), ControlNets 等の画像生成AI関連のテーマを扱うことを考えています。(こちらは私のほうで準備する内容で、参加される方のほうで用意される場合は、テーマはどのようなテーマでも構いません。)&lt;/p&gt;
+&lt;p&gt;参考論文&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2508.07519" rel="nofollow"&gt;https://arxiv.org/pdf/2508.07519&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考ソースコード&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Exploring Plain Vision Transformer Backbones for Object Detection&lt;br&gt;
-&lt;a href="https://arxiv.org/pdf/2203.16527" rel="nofollow"&gt;https://arxiv.org/pdf/2203.16527&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Inference-only tiny reference implementation of SD3.5 and SD3 (SD3, 3.5の参照実装：学習済みモデルの利用)&lt;br&gt;
+&lt;a href="https://github.com/Stability-AI/sd3.5" rel="nofollow"&gt;https://github.com/Stability-AI/sd3.5&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;DINOv2: Learning Robust Visual Features without Supervision&lt;br&gt;
-&lt;a href="https://arxiv.org/pdf/2304.07193" rel="nofollow"&gt;https://arxiv.org/pdf/2304.07193&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Masked-attention Mask Transformer for Universal Image Segmentation&lt;br&gt;
-&lt;a href="https://arxiv.org/pdf/2112.01527" rel="nofollow"&gt;https://arxiv.org/pdf/2112.01527&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stable Diffusion 3.5 の参照実装&lt;br&gt;
+&lt;a href="https://github.com/yousef-rafat/miniDiffusion" rel="nofollow"&gt;https://github.com/yousef-rafat/miniDiffusion&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Vision Transformer の論文紹介は、下記の第九回 2025/11/16 で一度実施しました。そこで触れなかった論文で重要そうな論文をいくつか選んで追っていく予定です。&lt;br&gt;
-&lt;a href="https://connpass.com/event/364770/" rel="nofollow"&gt;https://connpass.com/event/364770/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ControlNet 関連&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adding Conditional Control to Text-to-Image Diffusion Models (ControlNet)&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2302.05543" rel="nofollow"&gt;https://arxiv.org/pdf/2302.05543&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2404.07987" rel="nofollow"&gt;https://arxiv.org/pdf/2404.07987&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2502.10451" rel="nofollow"&gt;https://arxiv.org/pdf/2502.10451&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer (DiT向けControlNet)&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2503.07027" rel="nofollow"&gt;https://arxiv.org/pdf/2503.07027&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;その他&lt;/h3&gt;
 &lt;p&gt;下記のページは、第十回 (2025/12/21)、第十一回（2026/1/11）、第十二回（2026/2/15）の案内のページなります。&lt;br&gt;
 &lt;a href="https://connpass.com/event/368505/" rel="nofollow"&gt;https://connpass.com/event/368505/&lt;/a&gt;
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/371719/" rel="nofollow"&gt;https://connpass.com/event/371719/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/377697/</guid><enclosure url="https://media.connpass.com/thumbs/79/b2/79b28263eabb74b3ede8333e3e745ef7.png" length="0" type="image/png"/><pubDate>Mon, 01 Dec 2025 21:42:22 +0900</pubDate></item><item><title>第79回 CoderDojo岐阜</title><link>https://coderdojo-gifu.connpass.com/event/376882/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: みんなの森 ぎふメディアコスモス「おどるスタジオ」&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜県岐阜市司町40番地5&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojogifu&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント当日、入室の際に参加票の提示が必要になりました&lt;/h1&gt;
+&lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/377697/</guid><enclosure url="https://media.connpass.com/thumbs/79/b2/79b28263eabb74b3ede8333e3e745ef7.png" length="0" type="image/png"/><pubDate>Tue, 02 Dec 2025 21:09:09 +0900</pubDate></item><item><title>第79回 CoderDojo岐阜</title><link>https://coderdojo-gifu.connpass.com/event/376882/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月6日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月6日(土) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: みんなの森 ぎふメディアコスモス「おどるスタジオ」&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜県岐阜市司町40番地5&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojogifu&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント当日、入室の際に参加票の提示が必要になりました&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://coderdojo-gifu.org/blog/2024/10/need-to-show-ticket-in-entrance" rel="nofollow"&gt;公式サイト&lt;/a&gt; でもお知らせをしましたが、&lt;span style="color: red;"&gt;イベント開催当日に会場に入室される際に、当 connpass で参加を申し込みできた方のみ表示することができる参加票（受付番号とQRコードなどが表示される）の提示をお願いします。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;道場で&lt;span style="color: red;"&gt;取り組みを行う子ども（ニンジャ）１名につき、参加票が１つ必要&lt;/span&gt;になります。つまり、ニンジャ１名に対して connpass アカウントを１つ用意して参加申し込みをしていただく必要があります。&lt;/p&gt;
 &lt;h1&gt;１アカウントの申し込みで参加できる人数について&lt;/h1&gt;
@@ -154,13 +173,15 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;その他&lt;/h3&gt;
-&lt;p&gt;下記のページは、第七回（2025/9/21）、第八回（2025/10/5）、第九回（2025/11/16）、第十回（2025/12/21）の案内のページなります。
+&lt;p&gt;下記のページは、第九回（2025/11/16）、第十回（2025/12/21）、第十一回（2026/1/11）、第十三回（2026/3/15）の案内のページなります。
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/364770/" rel="nofollow"&gt;https://connpass.com/event/364770/&lt;/a&gt;
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/368505/" rel="nofollow"&gt;https://connpass.com/event/368505/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/371719/" rel="nofollow"&gt;https://connpass.com/event/371719/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/374611/</guid><enclosure url="https://media.connpass.com/thumbs/d1/8c/d18c139479f87556b517ba332e898ea2.png" length="0" type="image/png"/><pubDate>Sat, 01 Nov 2025 21:31:17 +0900</pubDate></item><item><title>岐阜AI勉強会 第十一回 2026/1/11</title><link>https://connpass.com/event/371719/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月11日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月11日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+&lt;a href="https://connpass.com/event/371719/" rel="nofollow"&gt;https://connpass.com/event/371719/&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/374611/</guid><enclosure url="https://media.connpass.com/thumbs/d1/8c/d18c139479f87556b517ba332e898ea2.png" length="0" type="image/png"/><pubDate>Tue, 02 Dec 2025 21:34:12 +0900</pubDate></item><item><title>岐阜AI勉強会 第十一回 2026/1/11</title><link>https://connpass.com/event/371719/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月11日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月11日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2026/1/11(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;
@@ -188,7 +209,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;その他&lt;/h3&gt;
-&lt;p&gt;下記のページは、第七回（2025/9/21）、第八回（2025/10/5）、第九回（2025/11/16）、第十回（2025/12/21）、第十二回（2026/2/15）の案内のページなります。
+&lt;p&gt;下記のページは、第七回（2025/9/21）、第八回（2025/10/5）、第九回（2025/11/16）、第十回（2025/12/21）、第十二回（2026/2/15）、第十三回（2026/3/15）の案内のページなります。
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/360132/" rel="nofollow"&gt;https://connpass.com/event/360132/&lt;/a&gt;
 &lt;br&gt;
@@ -198,7 +219,9 @@
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/368505/" rel="nofollow"&gt;https://connpass.com/event/368505/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/371719/</guid><enclosure url="https://media.connpass.com/thumbs/3f/2f/3f2f8b3d888bb7cebad506fe266e10a3.png" length="0" type="image/png"/><pubDate>Sat, 01 Nov 2025 21:33:04 +0900</pubDate></item><item><title>岐阜AI勉強会 第十回 2025/12/21</title><link>https://connpass.com/event/368505/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+&lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/371719/</guid><enclosure url="https://media.connpass.com/thumbs/3f/2f/3f2f8b3d888bb7cebad506fe266e10a3.png" length="0" type="image/png"/><pubDate>Tue, 02 Dec 2025 21:30:57 +0900</pubDate></item><item><title>岐阜AI勉強会 第十回 2025/12/21</title><link>https://connpass.com/event/368505/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月21日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月21日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2025/12/21(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;
@@ -225,7 +248,7 @@
 &lt;a href="https://colab.research.google.com/github/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion_3_5_Medium.ipynb" rel="nofollow"&gt;https://colab.research.google.com/github/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion_3_5_Medium.ipynb&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="出力した画像の例" src="https://www.leafwindow.com/wordpress-05/wp-content/uploads/2025/11/Leaves-v1.jpeg"&gt;&lt;/p&gt;
 &lt;h3&gt;その他&lt;/h3&gt;
-&lt;p&gt;下記のページは、第七回（2025/9/21）、第八回（2025/10/5）、第九回（2025/11/16）、第十一回（2026/1/11）、第十二回（2026/2/15）の案内のページなります。
+&lt;p&gt;下記のページは、第七回（2025/9/21）、第八回（2025/10/5）、第九回（2025/11/16）、第十一回（2026/1/11）、第十二回（2026/2/15）、第十三回（2026/3/15）の案内のページなります。
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/360132/" rel="nofollow"&gt;https://connpass.com/event/360132/&lt;/a&gt;
 &lt;br&gt;
@@ -235,4 +258,6 @@
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/371719/" rel="nofollow"&gt;https://connpass.com/event/371719/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Mon, 01 Dec 2025 21:10:59 +0900</pubDate></item></channel></rss>
+&lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Tue, 02 Dec 2025 21:35:39 +0900</pubDate></item></channel></rss>
