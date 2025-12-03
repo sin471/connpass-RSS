@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>富山のイベント</title><link>https://connpass.com/explore/</link><description>富山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>富山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 02 Dec 2025 15:15:02 +0000</lastBuildDate><item><title>さくらのAI Engineで学ぶ生成AIトレンドハンズオン in BuriKaigi 2026</title><link>https://toyama-eng.connpass.com/event/377342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月10日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月10日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 富山国際会議場&lt;/li&gt;&lt;li&gt;🏢 住所: 富山市大手町1番2号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;RAG・MCP・A2Aを作ってみる&lt;/p&gt;&lt;div&gt;&lt;h1&gt;さくらのAI Engineで学ぶ生成AIトレンドハンズオン&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>富山のイベント</title><link>https://connpass.com/explore/</link><description>富山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>富山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 03 Dec 2025 15:15:23 +0000</lastBuildDate><item><title>さくらのAI Engineで学ぶ生成AIトレンドハンズオン in BuriKaigi 2026</title><link>https://toyama-eng.connpass.com/event/377342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月10日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月10日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 富山国際会議場&lt;/li&gt;&lt;li&gt;🏢 住所: 富山市大手町1番2号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;RAG・MCP・A2Aを作ってみる&lt;/p&gt;&lt;div&gt;&lt;h1&gt;さくらのAI Engineで学ぶ生成AIトレンドハンズオン&lt;/h1&gt;
 &lt;h2&gt;RAG・MCP・A2Aを作ってみる&lt;/h2&gt;
 &lt;p&gt;さくらインターネット 亀田治伸 さまをによる、&lt;br&gt;
 「さくらのAI Engine」を使いながら &lt;strong&gt;RAG・MCP・A2A&lt;/strong&gt; といった最新トピックを実際に触って学ぶハンズオンを開催します。&lt;/p&gt;
@@ -955,7 +955,7 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;p&gt;お待たせしました！寒ブリの季節です。今回で 11 回目の開催です。この時期にしか味わえない冬の旬、寒ブリを味わいつつ、テクノロジーの旬にも味わいましょう。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://burikaigi.dev" rel="nofollow"&gt;公式サイト&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fortee.jp/burikaigi-2026/proposal/all" rel="nofollow"&gt;採択されたトーク一覧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fortee.jp/burikaigi-2026/proposal/accepted" rel="nofollow"&gt;採択されたトーク一覧&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://fortee.jp/burikaigi-2026/timetable" rel="nofollow"&gt;スケジュール(タイムテーブル)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 style="background-color: #283655; color: #fff;"&gt;懇親会 / ワークショップ&lt;/h1&gt;
@@ -963,13 +963,14 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;h2 style="background-color: #4d648d; color: #fff;"&gt;懇親会&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Day.2 の夜に開催予定です。サブイベントにて案内しますのでアナウンスをお待ちください。&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;h2 style="background-color: #4d648d; color: #fff;"&gt;BuriKaigi 2026 with TDDBootcamp&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;サブイベントにて案内しますのでアナウンスをお待ちください。&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;日付&lt;/th&gt;
 &lt;th&gt;開場&lt;/th&gt;
 &lt;th&gt;開演&lt;/th&gt;
+&lt;th&gt;URL&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -977,33 +978,38 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;td&gt;2026/1/09 (金)&lt;/td&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;14:50&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/374721/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/374721/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2026/1/09 (金)&lt;/td&gt;
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/376363/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/376363/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2026/1/10 (土)&lt;/td&gt;
 &lt;td&gt;12:20&lt;/td&gt;
 &lt;td&gt;14:10&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/376364/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/376364/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2026/1/10 (土)&lt;/td&gt;
 &lt;td&gt;14:20&lt;/td&gt;
 &lt;td&gt;16:10&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/376365/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/376365/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※スケジュールは(仮)となります。&lt;/p&gt;
 &lt;h2 style="background-color: #4d648d; color: #fff;"&gt;BuriKaigi 2026 with TinyGo Keeb Tour&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;サブイベントにて案内しますのでアナウンスをお待ちください。&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BuriKaigi2026 with TinyGo Keeb - conf2025badge&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;日付&lt;/th&gt;
 &lt;th&gt;開場&lt;/th&gt;
 &lt;th&gt;開演&lt;/th&gt;
+&lt;th&gt;URL&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1011,23 +1017,44 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;td&gt;2026/1/09 (金)&lt;/td&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;14:50&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/375656/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/375656/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2026/1/09 (金)&lt;/td&gt;
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/376181/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/376181/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※スケジュールは(仮)となります。&lt;/p&gt;
-&lt;h2 style="background-color: #4d648d; color: #fff;"&gt;さくらのAI Engineで学ぶ生成AIトレンドハンズオン in BuriKaigi 2026&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;サブイベントにて案内しますのでアナウンスをお待ちください。&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BuriKaigi2026 with TinyGo Keeb - zero-kb02&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;日付&lt;/th&gt;
 &lt;th&gt;開場&lt;/th&gt;
 &lt;th&gt;開演&lt;/th&gt;
+&lt;th&gt;URL&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2026/1/09 (金)&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;16:50&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/375313/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/375313/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 style="background-color: #4d648d; color: #fff;"&gt;さくらのAI Engineで学ぶ生成AIトレンドハンズオン in BuriKaigi 2026&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日付&lt;/th&gt;
+&lt;th&gt;開場&lt;/th&gt;
+&lt;th&gt;開演&lt;/th&gt;
+&lt;th&gt;URL&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1035,12 +1062,13 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;td&gt;2026/1/10 (金)&lt;/td&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://toyama-eng.connpass.com/event/377342/" rel="nofollow"&gt;https://toyama-eng.connpass.com/event/377342/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※スケジュールは(仮)となります。&lt;/p&gt;
 &lt;h1 style="background-color: #283655; color: #fff;"&gt;日程&lt;/h1&gt;
 
+&lt;p&gt;一般セッションの &lt;a href="https://fortee.jp/burikaigi-2026/timetable" rel="nofollow"&gt;タイムテーブル&lt;/a&gt; と併せてご確認ください&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1199,6 +1227,11 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2 style="background-color: #283655; color: #fff;"&gt;技術書同人誌博覧会（技書博）&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://gishohaku.github.io/gishohaku-logo/svg/gishohaku-1line.svg" width="300"&gt;&lt;/p&gt;
+&lt;p&gt;技術同人誌の即売会イベントの技書博です！技術同人誌をご存じない方に向けて、私たちのイベントで過去に頒布された技術書を見本として展示し、皆さんが自由に立ち読みできるコーナーを設けますので、ぜひお立ち寄りください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gishohaku.dev" rel="nofollow"&gt;https://gishohaku.dev&lt;/a&gt;&lt;/p&gt;
 &lt;h1 style="background-color: #283655; color: #fff;"&gt;スポンサー (WIP)&lt;/h1&gt;
 
 &lt;p&gt;BuriKaigi では、出世魚と呼ばれる&lt;a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA" rel="nofollow"&gt;ブリ&lt;/a&gt;の種類に応じたスポンサーランクを設定させていただいております。&lt;/p&gt;
@@ -1413,4 +1446,4 @@ Go に興味がある方、TinyGo を触ってみたい方、自作キーボー�
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://toyamarb.github.io/" rel="nofollow"&gt;https://toyamarb.github.io/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://toyama-eng.connpass.com/event/372229/</guid><enclosure url="https://media.connpass.com/thumbs/0f/97/0f973930a2c71082d18c581d3fb2d115.png" length="0" type="image/png"/><pubDate>Mon, 01 Dec 2025 13:53:52 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://toyama-eng.connpass.com/event/372229/</guid><enclosure url="https://media.connpass.com/thumbs/0f/97/0f973930a2c71082d18c581d3fb2d115.png" length="0" type="image/png"/><pubDate>Wed, 03 Dec 2025 22:31:05 +0900</pubDate></item></channel></rss>
