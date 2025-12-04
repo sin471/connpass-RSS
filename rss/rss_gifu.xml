@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 03 Dec 2025 15:15:34 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 04 Dec 2025 15:15:48 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2026/3/15(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室1&lt;/li&gt;
@@ -238,14 +238,43 @@
 &lt;p&gt;最初に、順に自己紹介することから始めたいと考えています。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;自己紹介の際、参加される方のほうでも Zoom で画面共有しながら興味があること・情報共有したいこと等について紹介いただけたらと考えています。（自己紹介だけでも大丈夫です。）&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;画像生成 AI を対象にする予定です。内容は変更の可能性もありますが、今のところは Stable Diffusion 3 を対象にしようと考えています。Stable Diffusion v1, v2, XL等、他のバージョンも扱うかもしれません。(こちらは私のほうで準備する内容で、参加者の方のほうで用意される場合は、テーマはどのようなテーマでも構いません。)&lt;/p&gt;
+&lt;p&gt;参考文献：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (Stable Diffusion 3)
-&lt;a href="https://arxiv.org/pdf/2403.03206" rel="nofollow"&gt;https://arxiv.org/pdf/2403.03206&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (Stable Diffusion 3)&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2403.03206" rel="nofollow"&gt;https://arxiv.org/pdf/2403.03206&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing&lt;br&gt;
+&lt;a href="https://arxiv.org/pdf/2508.07519" rel="nofollow"&gt;https://arxiv.org/pdf/2508.07519&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;その他(1)：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;Stable Diffusion 3.5 Medium を Google Colab PRO で動かしたときのメモを下記のリンク先のブログにメモとして投稿しました。&lt;br&gt;
 &lt;a href="https://www.leafwindow.com/stable-diffusion-3-5-medium-on-google-colab/" rel="nofollow"&gt;https://www.leafwindow.com/stable-diffusion-3-5-medium-on-google-colab/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;下記のリンク先が動作確認用に用意した Google Colab 用のページになります。&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下記のリンク先が動作確認用に用意した Google Colab のページになります。&lt;br&gt;
 &lt;a href="https://colab.research.google.com/github/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion_3_5_Medium.ipynb" rel="nofollow"&gt;https://colab.research.google.com/github/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion_3_5_Medium.ipynb&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;その他(2)：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Stable Diffusion 3.5 の参照実装を git clone して Google Colab PRO で動かたしときのメモを下記のリンク先のブログにメモとして投稿しました。&lt;br&gt;
+&lt;a href="https://www.leafwindow.com/stable-diffusion-3-5-git-clone-on-google-colab/" rel="nofollow"&gt;https://www.leafwindow.com/stable-diffusion-3-5-git-clone-on-google-colab/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下記のリンク先が動作確認用に用意した Google Colab のページになります。&lt;br&gt;
+&lt;a href="https://github.com/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion3_5_GitClone_Medium_T5XXL.ipynb" rel="nofollow"&gt;https://github.com/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion3_5_GitClone_Medium_T5XXL.ipynb&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下記のリンク先の Stability AI の Stable Diffusion 3.5 の参照実装を git clone して動かしました
+&lt;a href="https://github.com/Stability-AI/sd3.5" rel="nofollow"&gt;https://github.com/Stability-AI/sd3.5&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img alt="出力した画像の例" src="https://www.leafwindow.com/wordpress-05/wp-content/uploads/2025/11/Leaves-v1.jpeg"&gt;&lt;/p&gt;
 &lt;h3&gt;その他&lt;/h3&gt;
 &lt;p&gt;下記のページは、第七回（2025/9/21）、第八回（2025/10/5）、第九回（2025/11/16）、第十一回（2026/1/11）、第十二回（2026/2/15）、第十三回（2026/3/15）の案内のページなります。
@@ -260,4 +289,4 @@
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Tue, 02 Dec 2025 21:35:39 +0900</pubDate></item></channel></rss>
+&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Thu, 04 Dec 2025 21:57:45 +0900</pubDate></item></channel></rss>
