@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 07 Dec 2025 15:11:26 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 08 Dec 2025 15:15:04 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2026/3/15(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室1&lt;/li&gt;
@@ -231,7 +231,7 @@
 &lt;a href="https://github.com/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion3_5_GitClone_Medium_T5XXL.ipynb" rel="nofollow"&gt;https://github.com/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion3_5_GitClone_Medium_T5XXL.ipynb&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;上記のリンク先の手順ですと、画像生成処理を実行する際、毎回学習済みモデルをロードしているため、一回の実行に多くの時間を要します。下記のリンク先にロード済みのモデルを使用して画像生成するように修正した方法を記載しました。&lt;br&gt;
+&lt;p&gt;上記のリンク先の手順ですと、画像生成処理を実行する際、毎回学習済みモデルをロードしているため、一回の実行に多くの時間を要します。下記のリンク先にロード済みのモデルを使用して画像生成するように修正した方法と修正版用の Google Colab のページへのリンクを記載しました。&lt;br&gt;
 &lt;a href="https://www.leafwindow.com/stable-diffusion-3-5-git-clone-on-google-colab-2/" rel="nofollow"&gt;https://www.leafwindow.com/stable-diffusion-3-5-git-clone-on-google-colab-2/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -259,4 +259,4 @@
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Sun, 07 Dec 2025 21:59:17 +0900</pubDate></item></channel></rss>
+&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Mon, 08 Dec 2025 08:25:08 +0900</pubDate></item></channel></rss>
