@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 13 Dec 2025 15:12:07 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 14 Dec 2025 15:12:18 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十三回 2026/3/15</title><link>https://connpass.com/event/377697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室１&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2026/3/15(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室1&lt;/li&gt;
@@ -199,7 +199,7 @@
 &lt;a href="https://arxiv.org/pdf/2508.07519" rel="nofollow"&gt;https://arxiv.org/pdf/2508.07519&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;その他(1)：&lt;/p&gt;
+&lt;p&gt;その他(1) ... diffusers, Stable Diffusion 3.5 Medium：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Stable Diffusion 3.5 Medium を Google Colab PRO で動かしたときのメモを下記のリンク先のブログにメモとして投稿しました。&lt;br&gt;
@@ -210,7 +210,7 @@
 &lt;a href="https://colab.research.google.com/github/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion_3_5_Medium.ipynb" rel="nofollow"&gt;https://colab.research.google.com/github/fukagai-takuya/gifu-ai/blob/main/gifu-ai-2025-12-21/StableDiffusion_3_5_Medium.ipynb&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;その他(2)：&lt;/p&gt;
+&lt;p&gt;その他(2) ... Stability-AI/sd3.5, Stable Diffusion 3.5 Medium：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Stable Diffusion 3.5 の参照実装を git clone して Google Colab PRO で動かたしときのメモを下記のリンク先のブログにメモとして投稿しました。&lt;br&gt;
@@ -233,7 +233,23 @@
 &lt;a href="https://github.com/Stability-AI/sd3.5" rel="nofollow"&gt;https://github.com/Stability-AI/sd3.5&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;その他(3)：&lt;/p&gt;
+&lt;p&gt;その他(3) ... git clone diffusers, FLUX.1 [schnell] ：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hugging Face diffusers の GitHub リポジトリを Git Clone して FLUX.1 [schnell] をデバッグ実行してみました&lt;br&gt;
+&lt;a href="https://www.leafwindow.com/hugging-face-diffusers-github-git-clone-flux1-schnell/" rel="nofollow"&gt;https://www.leafwindow.com/hugging-face-diffusers-github-git-clone-flux1-schnell/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下記のリンク先の Hugging Face の diffusers の GitHub リポジトリを git clone して動かしました&lt;br&gt;
+&lt;a href="https://github.com/huggingface/diffusers" rel="nofollow"&gt;https://github.com/huggingface/diffusers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;その他(4) ... diffusers, callback, FLUX.1 [schnell] ：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FLUX.1 [schnell] の生成途中の画像を diffusers の FluxPipeline のcallback 関数を使用して出力してみました&lt;br&gt;
+&lt;a href="https://www.leafwindow.com/flux-1-schnell-diffusers-fluxpipeline-callback-output-denoising-step-images/" rel="nofollow"&gt;https://www.leafwindow.com/flux-1-schnell-diffusers-fluxpipeline-callback-output-denoising-step-images/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;その他(5)：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hugging Face の Stable Diffusion 3.5 Medium の training 済みモデルが置かれたページ (MM-DiT-Xのネットワーク構成図もあります)&lt;br&gt;
 &lt;a href="https://huggingface.co/stabilityai/stable-diffusion-3.5-medium" rel="nofollow"&gt;https://huggingface.co/stabilityai/stable-diffusion-3.5-medium&lt;/a&gt;&lt;/li&gt;
@@ -253,4 +269,4 @@
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/374611/" rel="nofollow"&gt;https://connpass.com/event/374611/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Thu, 11 Dec 2025 21:42:04 +0900</pubDate></item></channel></rss>
+&lt;a href="https://connpass.com/event/377697/" rel="nofollow"&gt;https://connpass.com/event/377697/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/368505/</guid><enclosure url="https://media.connpass.com/thumbs/6e/5b/6e5b9454848027d6e7d07a429170fe2c.png" length="0" type="image/png"/><pubDate>Sun, 14 Dec 2025 16:50:11 +0900</pubDate></item></channel></rss>
