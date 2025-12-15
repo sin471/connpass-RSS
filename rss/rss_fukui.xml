@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 14 Dec 2025 15:12:12 +0000</lastBuildDate><item><title>Fukui Tech LT #1</title><link>https://connpass.com/event/376396/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月20日(金) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Agile Studio Park FUKUI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央1丁目3番5号 FUKUMACHI BLOCK Office 8階 804&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 15 Dec 2025 15:18:23 +0000</lastBuildDate><item><title>Fukui Tech LT #1</title><link>https://connpass.com/event/376396/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月20日(金) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Agile Studio Park FUKUI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央1丁目3番5号 FUKUMACHI BLOCK Office 8階 804&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;福井県のソフトウェア開発に携わるエンジニア同士で
 &lt;strong&gt; ライトニングトーク(LT) &lt;/strong&gt; 形式の交流イベントを行います&lt;/p&gt;
 &lt;h1&gt;目的&lt;/h1&gt;
@@ -159,18 +159,18 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;13:40-14:00&lt;/td&gt;
-&lt;td align="left"&gt;AWSコミュニティ最新情報&lt;/td&gt;
-&lt;td align="left"&gt;AWS 沼口繁&lt;/td&gt;
+&lt;td align="left"&gt;コミュニティ最新情報&lt;/td&gt;
+&lt;td align="left"&gt;アマゾン ウェブ サービス ジャパン合同会社 沼口繁&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;14:00-14:15&lt;/td&gt;
-&lt;td align="left"&gt;LT：&lt;/td&gt;
-&lt;td align="left"&gt;株式会社永和システムマネジメント&lt;/td&gt;
+&lt;td align="left"&gt;AWS Amplifyをもっと便利に使うための取り組み&lt;/td&gt;
+&lt;td align="left"&gt;株式会社永和システムマネジメント 村上雅彦&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;14:20-14:35&lt;/td&gt;
-&lt;td align="left"&gt;LT：&lt;/td&gt;
-&lt;td align="left"&gt;ユニフォームネクスト株式会社&lt;/td&gt;
+&lt;td align="left"&gt;弊社のAWS事情、大公開！&lt;/td&gt;
+&lt;td align="left"&gt;ユニフォームネクスト株式会社 山下拓海&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;14:40-14:55&lt;/td&gt;
@@ -199,7 +199,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;16:00-16:10&lt;/td&gt;
-&lt;td align="left"&gt;LT：俺とECS Express Mode - Rails動かしてみよう -&lt;/td&gt;
+&lt;td align="left"&gt;俺とECS Express Mode - Rails動かしてみよう -&lt;/td&gt;
 &lt;td align="left"&gt;ふぁらお加藤&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -231,8 +231,19 @@
 &lt;blockquote&gt;
 &lt;p&gt;AWSコミュニティマネージャー日本担当。JAWS-UG及びAWSのコミュニティ支援の最新情報をお伝えします&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3&gt;（株式会社永和システムマネジメント）&lt;/h3&gt;
-&lt;h3&gt;（ユニフォームネクスト株式会社）&lt;/h3&gt;
+&lt;h3&gt;村上雅彦（株式会社永和システムマネジメント）&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://avatars.githubusercontent.com/u/1638848?v=4" width="300"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;株式会社永和システムマネジメント プリンシパルエンジニア
+AWS Community Builder (Since 2022)、JAWS-UG福井運営メンバー、Amplify Japan User Group運営メンバー
+趣味でAWS Amplify関連のリポジトリにコントリビューションしたりOSSツールを公開しています。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;山下拓海（ユニフォームネクスト株式会社）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;弊社のAWS事情、大公開！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://avatars.githubusercontent.com/u/87481129" width="300"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大学生 / JAWS-UG 福井支部 運営&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;（株式会社 &lt;a href="http://jig.jp" rel="nofollow"&gt;jig.jp&lt;/a&gt;）&lt;/h3&gt;
 &lt;h3&gt;乙部美咲&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;コミュニティで開けたキャリア～県外コミュニティ遠征記&lt;/strong&gt;&lt;/p&gt;
@@ -281,4 +292,4 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 &lt;p&gt;あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。
 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。
-AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/375652/</guid><enclosure url="https://media.connpass.com/thumbs/ba/8b/ba8b8036070abe1a4a70bbce14c5b757.png" length="0" type="image/png"/><pubDate>Wed, 10 Dec 2025 11:38:13 +0900</pubDate></item></channel></rss>
+AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/375652/</guid><enclosure url="https://media.connpass.com/thumbs/ba/8b/ba8b8036070abe1a4a70bbce14c5b757.png" length="0" type="image/png"/><pubDate>Mon, 15 Dec 2025 13:24:33 +0900</pubDate></item></channel></rss>
