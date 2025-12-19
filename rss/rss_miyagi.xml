@@ -1,5 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 18 Dec 2025 15:18:48 +0000</lastBuildDate><item><title>JPUG PostgreSQL合宿 2026年2月</title><link>https://connpass.com/event/379125/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月14日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 松島センチュリーホテル&lt;/li&gt;&lt;li&gt;🏢 住所: 〒981-0213 宮城県宮城郡松島町松島仙随８&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PostgreSQL18 文書翻訳＆勉強会 ＠松島海岸（宮城県）&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 19 Dec 2025 15:14:25 +0000</lastBuildDate><item><title>第5回それいけ。AI ～仙台のLT会(2026年1月26日)</title><link>https://soreike-ai.connpass.com/event/379270/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月26日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月26日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目4-19アーバンネット仙台中央ビル&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;本イベントについて&lt;/h2&gt;
+&lt;p&gt;NTTアーバンソリューションズ(YUI NOS)とNECソリューションイノベータが共同開催するAIをテーマにしたLT会です。&lt;/p&gt;
+&lt;p&gt;「会社を超えた交流の場」「新しい技術・知識に触れる場」「仙台を盛り上げる」という3つの目標を掲げ、両社が持つ知見と情熱を知恵の交流に活かすために開催します。
+この場が単なる技術紹介以上に、参加者同士のネットワーク形成や、仙台という地域の発展へのヒントを得られるようにしてきたいです。&lt;/p&gt;
+&lt;h2&gt;当日タイムテーブル&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;開場&lt;/span&gt;
+&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;開始&lt;/span&gt;
+&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;35&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;19&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="err"&gt;分&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="err"&gt;質問&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="err"&gt;分&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;
+&lt;span class="mi"&gt;19&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;集合写真撮影&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="mi"&gt;19&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;交流会&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;◇会場：YUI NOS  2Fコワーキングスペース
+◇注意
+・写真撮影 OK  (映り込みなど配慮してください。運営も使います)
+・SNS投稿  OK  (写真は本人の了承得てください)
+◇会場
+・2Fで受付をしてください。  入退出はスタッフに声掛けください。
+◇ルール
+・連続の発表はご遠慮ください。間隔を2回程度空けてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1&gt;YUI NOS 施設利用 プライバシーポリシー&lt;/h1&gt;
+&lt;p&gt;プライバシーポリシーに従ってください。
+https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
+&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
+&lt;p&gt;イベントに参加するみなさんは以下のポリシーを遵守するように心がけてください。
+(TokyoGirls.rb アンチハラスメントポリシーを参考にさせていただきました。ありがとうございます。）&lt;/p&gt;
+&lt;h2&gt;当ポリシーの目的と適用範囲&lt;/h2&gt;
+&lt;p&gt;当ポリシーは、イベントの参加者全員が楽しく、安全に集える場を維持するために策定されました。&lt;/p&gt;
+&lt;p&gt;「参加者全員が楽しく、安全に集える場を維持する」という目的には、「将来開催されるイベントについてもみなさんが不安や心配を感じることなく、気軽に参加できること」も含まれています。&lt;/p&gt;
+&lt;p&gt;よって、当ポリシーはイベント会場内の発言や行動だけでなく、イベント終了後に発生した参加者同士のコミュニケーションや、SNS・ブログ等での情報発信（このイベントに関するもの）に対しても適用されます。&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;イベントに関わる人たちは誰もが対等です。よって、当ポリシーはイベントに関わる、以下の全員が対象になります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者&lt;/li&gt;
+&lt;li&gt;登壇者&lt;/li&gt;
+&lt;li&gt;スポンサー&lt;/li&gt;
+&lt;li&gt;運営スタッフ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当ポリシーでは、上記全員をまとめて「参加者」と表現します。ですので、「参加者」の中には登壇者やスポンサー、運営スタッフも含まれる点にご注意ください。&lt;/p&gt;
+&lt;h2&gt;ハラスメントの観点&lt;/h2&gt;
+&lt;p&gt;ハラスメント（他人を困らせる行為や嫌がらせ）の観点には、以下のような例があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ジェンダー、性自認やジェンダー表現、性的指向&lt;/li&gt;
+&lt;li&gt;障がい&lt;/li&gt;
+&lt;li&gt;外見、身体的特徴&lt;/li&gt;
+&lt;li&gt;人種、民族、国籍&lt;/li&gt;
+&lt;li&gt;年齢&lt;/li&gt;
+&lt;li&gt;宗教&lt;/li&gt;
+&lt;li&gt;特定のツールや技術、プログラミング言語と、その愛好者またはコミュニティ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ただし、上記の観点はあくまで一例です。上記以外の観点であっても、参加者が不快、不安に感じる発言や行動はハラスメントとみなされます。&lt;/p&gt;
+&lt;h2&gt;禁止行為&lt;/h2&gt;
+&lt;p&gt;上記の観点に対する、以下のような行為を禁止します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;攻撃的、非建設的、過剰に批判的な発言や揶揄（やゆ）&lt;/li&gt;
+&lt;li&gt;脅迫、ストーキング、つきまとい&lt;/li&gt;
+&lt;li&gt;不適切な身体的接触&lt;/li&gt;
+&lt;li&gt;性的な関心を引く行為（性的な画像の掲示や、性的なコスチュームの着用等）&lt;/li&gt;
+&lt;li&gt;ジェンダーを強く意識させるコンテキストで、特定の個人をほめたたえる行為&lt;/li&gt;
+&lt;li&gt;その他、スタッフがハラスメントであると判断した行為&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;言うまでもありませんが、性的なハラスメントについては男性から女性に対してだけではなく、女性から男性に対するハラスメントも禁止です。&lt;/p&gt;
+&lt;h2&gt;ハラスメントを受けたら、判断に迷ったら&lt;/h2&gt;
+&lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
+&lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
+&lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/379270/</guid><enclosure url="https://media.connpass.com/thumbs/a8/7e/a87eed032fcba41bd5e03885c0af4631.png" length="0" type="image/png"/><pubDate>Fri, 19 Dec 2025 13:01:49 +0900</pubDate></item><item><title>JPUG PostgreSQL合宿 2026年2月</title><link>https://connpass.com/event/379125/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月14日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 松島センチュリーホテル&lt;/li&gt;&lt;li&gt;🏢 住所: 〒981-0213 宮城県宮城郡松島町松島仙随８&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PostgreSQL18 文書翻訳＆勉強会 ＠松島海岸（宮城県）&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;日本PostgreSQLユーザ会は 2026年 2月 14日（土） - 15日（日）に合宿イベントを開催します。&lt;/p&gt;
 &lt;p&gt;予定している実施内容は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
