@@ -1,5 +1,136 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 27 Dec 2025 15:12:16 +0000</lastBuildDate><item><title>70回CoderDojo静岡</title><link>https://coderdojo-shizuoka.connpass.com/event/379088/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 静岡市番町市民活動センター（大会議室）&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡市葵区 一番町50&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供のための無料のプログラミング広場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（こーだーどうじょう）とは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 28 Dec 2025 15:12:29 +0000</lastBuildDate><item><title>第116回CoderDojo 浜松（2026年1月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/380024/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月25日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月25日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市鴨江アートセンター(201号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区鴨江町1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo浜松&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
+&lt;p&gt;7～17歳の小中高校生を対象とした、プログラミングクラブのようなものです。
+プログラミングに興味があれば誰でも参加できます。
+最初はみんな初心者。
+会場に集まった他のニンジャ（参加者）といっしょにプログラミングに挑戦してみましょう！&lt;/p&gt;
+&lt;p&gt;※ 本活動に興味がある大人の方もメンターとして是非ご参加ください。（学生さんや社会人・年長者の方も大歓迎です）&lt;/p&gt;
+&lt;h2&gt;CoderDojo 浜松に参加するには？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本ページで申し込み後、当日はPCやタブレット等ご持参して会場に来てください。&lt;/li&gt;
+&lt;li&gt;PC貸し出し枠もあります。台数に限りがあるため先着順となります。&lt;/li&gt;
+&lt;li&gt;参加費は無料です。（会場の部屋代等の寄付は任意で受け付けています）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日のタイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00～&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30～13:35&lt;/td&gt;
+&lt;td&gt;はじめの挨拶&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:35～13:45&lt;/td&gt;
+&lt;td&gt;発表タイム1（発表者求ム！）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:50～14:50&lt;/td&gt;
+&lt;td&gt;プログラミングの時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00～15:30&lt;/td&gt;
+&lt;td&gt;発表タイム2（発表者求ム！）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30～16:30&lt;/td&gt;
+&lt;td&gt;自由時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30～16:55&lt;/td&gt;
+&lt;td&gt;片付け＆退室&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 自分の作品を見せたい・発表したいニンジャまたはメンターはぜひ発表してください。&lt;br&gt;
+※ 時間割は、その日の都合によって柔軟に変わる場合があります。  &lt;/p&gt;
+&lt;h2&gt;今後の開催予定&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;第115回 CoderDojo 浜松：2025年12月28日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;li&gt;第116回 CoderDojo 浜松：2026年1月25日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;li&gt;第117回 CoderDojo 浜松：2026年2月22日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;li&gt;第118回 CoderDojo 浜松：2026年3月29日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;b&gt;はじめての方へ&lt;/b&gt;&lt;/h1&gt;
+
+
+&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
+&lt;p&gt;CoderDojo とは、7〜17歳の子どもを対象にしたプログラミングクラブ。
+地域主体で非営利で若い世代のプログラミング活動を見守る活動です。
+詳しくは、&lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt; をご覧ください。 &lt;/p&gt;
+&lt;h2&gt;ニンジャとは・メンターとは&lt;/h2&gt;
+&lt;p&gt;CoderDojoは海外から始まった活動のため、少し変わった言葉が使われています。
+この活動は「ニンジャ（若者）のプログラムの修行を、メンター（年長者）が一緒になって考えて見守る」 というようなものと思えばよいでしょう。&lt;/p&gt;
+&lt;h2&gt;CoderDojo 浜松 について&lt;/h2&gt;
+&lt;p&gt;CoderDojo 浜松では、2016年から月に1回ペースで道場を開いています。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CoderDojo 浜松ホームページ : &lt;a href="https://coderdojo-hamamatsu.org/" rel="nofollow"&gt;https://coderdojo-hamamatsu.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CoderDojoは地域ごとに活動内容が異なりますが、CoderDojo 浜松では主に次のようなことをやっています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scratch という ブロック・プログラミング環境による製作・学習&lt;/li&gt;
+&lt;li&gt;micro:bit、RaspberryPi などのマイコンボードのプログラミング&lt;/li&gt;
+&lt;li&gt;Processing / Python/ JavaScript / Unity などをつかったプログラミング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上記以外にも、プログラムに関係あることなら、自分の興味がある事をしていただいてかまいません。&lt;/p&gt;
+&lt;p&gt;なお、初めて参加される方や「プログラムを始めたいけど、何からやればよいの？」という方には、会場にある書籍や初学者向けサイトを紹介して、最初の一歩の手助けをしています。&lt;/p&gt;
+&lt;p&gt;例えば、次に挙げるのは気軽に始めることができるのでお勧めです。もしも使い方が分からなければDojoで聞いてください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://octostudio.org/ja/" rel="nofollow"&gt;OctoStudio&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;「OctoStudio」は、お手持ちのスマホ（Android/iPhone）でScratchと似たことができます。&lt;/li&gt;
+&lt;li&gt;スマホのセンサーを使ったプログラミングも簡単にできます。お勧めです。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hourofcode.com/jp" rel="nofollow"&gt;Hour Of Code&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;「Hour of Code」はゲーム風にお題を解いていくことでScratchを学べるサイトです。 &lt;/li&gt;
+&lt;li&gt;小学校低学年でも十分楽しめます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.scratchjr.org/" rel="nofollow"&gt;ScratchJr&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;Scratchジュニアは、低学年以下でも簡単に操作できるよう工夫されています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.viscuit.com/" rel="nofollow"&gt;viscuit&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;「viscuit」も浜松の小学生の間で流行っています。&lt;/li&gt;
+&lt;li&gt;スマホやタブレット等でも動きます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;CoderDojo浜松のScratchスタジオ&lt;/h3&gt;
+&lt;p&gt;Dojo浜松およびDojo磐田のScratchスタジオがあります。みんなの作品を見たり遊んだり改造したりしてね！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/studios/32504726/" rel="nofollow"&gt;CoderDojo Hamamatsu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/studios/35249830/" rel="nofollow"&gt;CoderDojo磐田&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;みんなの作った作品もスタジオにぜひ追加してね！(方法はメンターに聞いてね！)&lt;/p&gt;
+&lt;h1&gt;&lt;b&gt;その他&lt;/b&gt;&lt;/h1&gt;
+&lt;h2&gt;CoderDojo 浜松では、プログラミングに興味がある大人も募集しています&lt;/h2&gt;
+&lt;p&gt;CoderDojo 浜松では、メンターとしてプログラミング活動を見守ってくれる大人または学生のボランティアも募集しています。 
+プログラミングに詳しいかどうかはあまり重要でありません。子供に何かを教えるのが好き、もしくは、自分自身がプログラミングに興味があるかどうかが大切です。
+CoderDojo 浜松のボランティアに興味がありましたら、メンターとして申し込みの上、当日会場にお越しください。
+なお、自分用のPCやタブレットはあった方が良いですが、必須ではありません。&lt;/p&gt;
+&lt;p&gt;※ 企業や各種団体によるメンターや支援も大歓迎です。（講演・プレゼン・人・場所など）&lt;br&gt;
+※ CoderDojo 浜松では、メンターとしてIT技術者が参加することが多く、また専門の教員の方も頻繁に参加していただいています。  &lt;/p&gt;
+&lt;p&gt;※ 運営について&lt;br&gt;
+CoderDojo 浜松は完全に非営利なボランティアのみで運用しています。&lt;/p&gt;
+&lt;p&gt;※ CoderDojo 浜松は浜松市社会福祉協議会（赤い羽根共同募金）の2024年度 助成金に申請し受けました。助成金は会場費、教材費、および消耗品に使用しています。&lt;/p&gt;
+
+
+&lt;h2&gt;補足事項・注意事項&lt;/h2&gt;
+&lt;p&gt;※ 小学生以下のお子様の場合、お申込みはこちらのConnpassから保護者の方が行ってください。（ユーザー名はニックネームに変更しておきましょう）&lt;br&gt;
+※ 無線LANに接続可能なノートPCまたはタブレット等を持参してご参加ください。電源延長コードを持ってこれる方は念のため用意してください。&lt;br&gt;
+※ ノートPCの貸し出し希望の方は、本Connpassの申し込み時に指定してください。&lt;br&gt;
+※ お車で来場の方は、鴨江アートセンターの裏側の有料駐車場をお使いください。満車の場合は、栄町パーキング（当館斜め向かい、有料）などもあります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-hamamatsu.connpass.com/event/380024/</guid><enclosure url="https://media.connpass.com/thumbs/50/36/5036e44b5fc1ddfb9ab2684f057d3024.png" length="0" type="image/png"/><pubDate>Sun, 28 Dec 2025 14:53:03 +0900</pubDate></item><item><title>70回CoderDojo静岡</title><link>https://coderdojo-shizuoka.connpass.com/event/379088/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 静岡市番町市民活動センター（大会議室）&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡市葵区 一番町50&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供のための無料のプログラミング広場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（こーだーどうじょう）とは&lt;/h1&gt;
 &lt;p&gt;CoderDojoは、7〜17歳の子どもを対象にした無料のプログラミング道場です。
 CoderDojoの活動は2011年にアイルランドで始まり、世界では100カ国・2,000以上の道場、日本では全国に190以上の道場があります (2024年4月時点)。&lt;/p&gt;
 &lt;h1&gt;CoderDojo静岡&lt;/h1&gt;
@@ -218,138 +349,7 @@ CoderDojoの活動は2011年にアイルランドで始まり、世界では100�
 募集の公開は直近回のみとしています。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;お問い合わせ&lt;/h2&gt;
 &lt;p&gt;ご質問、ご相談等ありましたら以下のメールアドレス宛てにご連絡ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="" rel="nofollow"&gt;iwata.jp@coderdojo.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-iwata.connpass.com/event/378837/</guid><enclosure url="https://media.connpass.com/thumbs/93/74/9374118a7c5ae35746069e0f19dbfbda.png" length="0" type="image/png"/><pubDate>Sat, 13 Dec 2025 18:24:02 +0900</pubDate></item><item><title>第115回CoderDojo 浜松（2025年12月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/376889/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2025年12月28日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2025年12月28日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市鴨江アートセンター(201号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区鴨江町1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo浜松&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
-&lt;p&gt;7～17歳の小中高校生を対象とした、プログラミングクラブのようなものです。
-プログラミングに興味があれば誰でも参加できます。
-最初はみんな初心者。
-会場に集まった他のニンジャ（参加者）といっしょにプログラミングに挑戦してみましょう！&lt;/p&gt;
-&lt;p&gt;※ 本活動に興味がある大人の方もメンターとして是非ご参加ください。（学生さんや社会人・年長者の方も大歓迎です）&lt;/p&gt;
-&lt;h2&gt;CoderDojo 浜松に参加するには？&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;本ページで申し込み後、当日はPCやタブレット等ご持参して会場に来てください。&lt;/li&gt;
-&lt;li&gt;PC貸し出し枠もあります。台数に限りがあるため先着順となります。&lt;/li&gt;
-&lt;li&gt;参加費は無料です。（会場の部屋代等の寄付は任意で受け付けています）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;当日のタイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;13:00～&lt;/td&gt;
-&lt;td&gt;開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:30～13:35&lt;/td&gt;
-&lt;td&gt;はじめの挨拶&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:35～13:45&lt;/td&gt;
-&lt;td&gt;発表タイム1（発表者求ム！）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:50～14:50&lt;/td&gt;
-&lt;td&gt;プログラミングの時間&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00～15:30&lt;/td&gt;
-&lt;td&gt;発表タイム2（発表者求ム！）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30～16:30&lt;/td&gt;
-&lt;td&gt;自由時間&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:30～16:55&lt;/td&gt;
-&lt;td&gt;片付け＆退室&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※ 自分の作品を見せたい・発表したいニンジャまたはメンターはぜひ発表してください。&lt;br&gt;
-※ 時間割は、その日の都合によって柔軟に変わる場合があります。  &lt;/p&gt;
-&lt;h2&gt;今後の開催予定&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;第115回 CoderDojo 浜松：2025年12月28日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
-&lt;li&gt;第116回 CoderDojo 浜松：2026年1月25日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
-&lt;li&gt;第117回 CoderDojo 浜松：2026年2月22日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
-&lt;li&gt;第118回 CoderDojo 浜松：2026年3月29日（日） 13:30〜15:30（鴨江アートセンター 201号室）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;&lt;b&gt;はじめての方へ&lt;/b&gt;&lt;/h1&gt;
-
-
-&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
-&lt;p&gt;CoderDojo とは、7〜17歳の子どもを対象にしたプログラミングクラブ。
-地域主体で非営利で若い世代のプログラミング活動を見守る活動です。
-詳しくは、&lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt; をご覧ください。 &lt;/p&gt;
-&lt;h2&gt;ニンジャとは・メンターとは&lt;/h2&gt;
-&lt;p&gt;CoderDojoは海外から始まった活動のため、少し変わった言葉が使われています。
-この活動は「ニンジャ（若者）のプログラムの修行を、メンター（年長者）が一緒になって考えて見守る」 というようなものと思えばよいでしょう。&lt;/p&gt;
-&lt;h2&gt;CoderDojo 浜松 について&lt;/h2&gt;
-&lt;p&gt;CoderDojo 浜松では、2016年から月に1回ペースで道場を開いています。 &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CoderDojo 浜松ホームページ : &lt;a href="https://coderdojo-hamamatsu.org/" rel="nofollow"&gt;https://coderdojo-hamamatsu.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;CoderDojoは地域ごとに活動内容が異なりますが、CoderDojo 浜松では主に次のようなことをやっています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Scratch という ブロック・プログラミング環境による製作・学習&lt;/li&gt;
-&lt;li&gt;micro:bit、RaspberryPi などのマイコンボードのプログラミング&lt;/li&gt;
-&lt;li&gt;Processing / Python/ JavaScript / Unity などをつかったプログラミング&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;上記以外にも、プログラムに関係あることなら、自分の興味がある事をしていただいてかまいません。&lt;/p&gt;
-&lt;p&gt;なお、初めて参加される方や「プログラムを始めたいけど、何からやればよいの？」という方には、会場にある書籍や初学者向けサイトを紹介して、最初の一歩の手助けをしています。&lt;/p&gt;
-&lt;p&gt;例えば、次に挙げるのは気軽に始めることができるのでお勧めです。もしも使い方が分からなければDojoで聞いてください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://octostudio.org/ja/" rel="nofollow"&gt;OctoStudio&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;「OctoStudio」は、お手持ちのスマホ（Android/iPhone）でScratchと似たことができます。&lt;/li&gt;
-&lt;li&gt;スマホのセンサーを使ったプログラミングも簡単にできます。お勧めです。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hourofcode.com/jp" rel="nofollow"&gt;Hour Of Code&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;「Hour of Code」はゲーム風にお題を解いていくことでScratchを学べるサイトです。 &lt;/li&gt;
-&lt;li&gt;小学校低学年でも十分楽しめます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.scratchjr.org/" rel="nofollow"&gt;ScratchJr&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;Scratchジュニアは、低学年以下でも簡単に操作できるよう工夫されています。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.viscuit.com/" rel="nofollow"&gt;viscuit&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;「viscuit」も浜松の小学生の間で流行っています。&lt;/li&gt;
-&lt;li&gt;スマホやタブレット等でも動きます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h3&gt;CoderDojo浜松のScratchスタジオ&lt;/h3&gt;
-&lt;p&gt;Dojo浜松およびDojo磐田のScratchスタジオがあります。みんなの作品を見たり遊んだり改造したりしてね！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://scratch.mit.edu/studios/32504726/" rel="nofollow"&gt;CoderDojo Hamamatsu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://scratch.mit.edu/studios/35249830/" rel="nofollow"&gt;CoderDojo磐田&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんなの作った作品もスタジオにぜひ追加してね！(方法はメンターに聞いてね！)&lt;/p&gt;
-&lt;h1&gt;&lt;b&gt;その他&lt;/b&gt;&lt;/h1&gt;
-&lt;h2&gt;CoderDojo 浜松では、プログラミングに興味がある大人も募集しています&lt;/h2&gt;
-&lt;p&gt;CoderDojo 浜松では、メンターとしてプログラミング活動を見守ってくれる大人または学生のボランティアも募集しています。 
-プログラミングに詳しいかどうかはあまり重要でありません。子供に何かを教えるのが好き、もしくは、自分自身がプログラミングに興味があるかどうかが大切です。
-CoderDojo 浜松のボランティアに興味がありましたら、メンターとして申し込みの上、当日会場にお越しください。
-なお、自分用のPCやタブレットはあった方が良いですが、必須ではありません。&lt;/p&gt;
-&lt;p&gt;※ 企業や各種団体によるメンターや支援も大歓迎です。（講演・プレゼン・人・場所など）&lt;br&gt;
-※ CoderDojo 浜松では、メンターとしてIT技術者が参加することが多く、また専門の教員の方も頻繁に参加していただいています。  &lt;/p&gt;
-&lt;p&gt;※ 運営について&lt;br&gt;
-CoderDojo 浜松は完全に非営利なボランティアのみで運用しています。&lt;/p&gt;
-&lt;p&gt;※ CoderDojo 浜松は浜松市社会福祉協議会（赤い羽根共同募金）の2024年度 助成金に申請し受けました。助成金は会場費、教材費、および消耗品に使用しています。&lt;/p&gt;
-
-
-&lt;h2&gt;補足事項・注意事項&lt;/h2&gt;
-&lt;p&gt;※ 小学生以下のお子様の場合、お申込みはこちらのConnpassから保護者の方が行ってください。（ユーザー名はニックネームに変更しておきましょう）&lt;br&gt;
-※ 無線LANに接続可能なノートPCまたはタブレット等を持参してご参加ください。電源延長コードを持ってこれる方は念のため用意してください。&lt;br&gt;
-※ ノートPCの貸し出し希望の方は、本Connpassの申し込み時に指定してください。&lt;br&gt;
-※ お車で来場の方は、鴨江アートセンターの裏側の有料駐車場をお使いください。満車の場合は、栄町パーキング（当館斜め向かい、有料）などもあります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-hamamatsu.connpass.com/event/376889/</guid><enclosure url="https://media.connpass.com/thumbs/50/36/5036e44b5fc1ddfb9ab2684f057d3024.png" length="0" type="image/png"/><pubDate>Sun, 23 Nov 2025 14:46:18 +0900</pubDate></item><item><title>Python駿河 新年会 2026</title><link>https://pycon-shizu.connpass.com/event/375998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月24日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月24日(土) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: GROW STOCK&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県静岡市葵区紺屋町6−9 紺屋町中ビル 5F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Python駿河 新年会&lt;/h1&gt;
+&lt;p&gt;&lt;a href="" rel="nofollow"&gt;iwata.jp@coderdojo.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-iwata.connpass.com/event/378837/</guid><enclosure url="https://media.connpass.com/thumbs/93/74/9374118a7c5ae35746069e0f19dbfbda.png" length="0" type="image/png"/><pubDate>Sat, 13 Dec 2025 18:24:02 +0900</pubDate></item><item><title>Python駿河 新年会 2026</title><link>https://pycon-shizu.connpass.com/event/375998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月24日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月24日(土) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: GROW STOCK&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県静岡市葵区紺屋町6−9 紺屋町中ビル 5F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Python駿河 新年会&lt;/h1&gt;
 &lt;p&gt;2026年最初のPython駿河 勉強会後の新年会です。&lt;br&gt;
 GROW STOCKさんにて開催します。&lt;/p&gt;
 &lt;h2&gt;日時&lt;/h2&gt;
