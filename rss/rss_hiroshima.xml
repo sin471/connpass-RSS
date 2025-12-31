@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 30 Dec 2025 15:14:55 +0000</lastBuildDate><item><title>Unreal Engine Meetup Hiroshima #3</title><link>https://ue-hiroshima.connpass.com/event/379637/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: イノベーションハブひろしまCamps&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区紙屋町１丁目４−３ エフ・ケイビル１F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ue_hiroshima&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回のテーマは「ノンゲーム」&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 31 Dec 2025 15:14:29 +0000</lastBuildDate><item><title>Unreal Engine Meetup Hiroshima #3</title><link>https://ue-hiroshima.connpass.com/event/379637/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: イノベーションハブひろしまCamps&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区紙屋町１丁目４−３ エフ・ケイビル１F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ue_hiroshima&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回のテーマは「ノンゲーム」&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;Unreal Engine のMeetup です！！
 &lt;br&gt;
 Unreal Engine に興味がある人なら誰でも参加OK！
@@ -585,8 +585,8 @@ kintone部のみなさん（&lt;a href="https://www.youtube.com/watch?v=u9zlynvd
 &lt;tr&gt;
 &lt;td&gt;13:45〜14:10&lt;/td&gt;
 &lt;td&gt;メインセッション３&lt;/td&gt;
-&lt;td&gt;ー&lt;/td&gt;
-&lt;td&gt;調整中&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://x.com/Vipper_The_NEET" rel="nofollow"&gt;杉谷 智宏&lt;/a&gt; 様&lt;/td&gt;
+&lt;td&gt;ローカルLLMとDifyで作るセキュアな閉鎖系AI利用基盤（仮）&lt;/td&gt;
 &lt;td&gt;20分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -698,6 +698,14 @@ AWS を活用したデータ基盤構築（Iceberg / Athena / Redshift）、需�
 AWS Ambassador / AWS Community HERO&lt;/p&gt;
 &lt;h4&gt;演題: 地方におけるユーザー企業とベンダーの上手な付き合い方&lt;/h4&gt;
 &lt;p&gt;地方での事例をもとにユーザー企業とベンダーが互いに価値を最大化しながら協働するための具体的なアプローチを紹介します&lt;/p&gt;
+&lt;h3&gt;杉谷 智宏 様（株式会社エネコム）&lt;/h3&gt;
+&lt;div align="center"&gt;&lt;img src="https://drive.google.com/thumbnail?id=10PZfMXP1Iov6MK-xb_scGHvp-pjuyD3e&amp;amp;sz=w250"&gt;&lt;/div&gt;
+
+&lt;p&gt;株式会社エネコム　ITインテグレーション部&lt;br&gt;
+他力本願堂本舗　代表　たりき&lt;br&gt;
+過去にはハッカージャパンにて10年にわたる長期連載を持っていた。MicrosoftMVP Consumer Security部門受賞歴あり。著作・共著あり。&lt;/p&gt;
+&lt;h4&gt;演題: ローカルLLMとDifyで作るセキュアな閉鎖系AI利用基盤（仮）&lt;/h4&gt;
+&lt;p&gt;弊社内で構築した閉鎖系NWで利用する生成AI利用基盤をもとに，ローカルLLMを導入して，よりセキュアな環境とすることで，経営情報や人事情報，個人情報を含む本番データ，社内文書等を安全に扱える生成AI利用環境を構築する&lt;/p&gt;
 &lt;h3&gt;リレーセッション&lt;/h3&gt;
 &lt;h3&gt;前田 浩幸 様（猪原［食べる］総合歯科医療クリニック）&lt;/h3&gt;
 &lt;div align="center"&gt;&lt;img height="250" src="https://osh-web.github.io//img/2025/hiroyukimaeda.jpg"&gt;&lt;/div&gt;
@@ -766,7 +774,7 @@ AWS Ambassador / AWS Community HERO&lt;/p&gt;
 &lt;p&gt;参加者がハラスメント行為に属するふるまいをした場合、主催者は適切と判断した範囲で、当該行為を行った者に対する警告や、会場からの追放などの対応を行います。&lt;/p&gt;
 &lt;p&gt;もしあなたがハラスメントに遭った場合、他の人がハラスメントに遭っている場合、あるいは他に気になることがあったときは、すぐに運営スタッフに連絡していただくようお願いします。&lt;/p&gt;
 &lt;p&gt;また、イベントの趣旨と関係のない宣伝行為・採用活動・ネットワーキングのみを目的としたご参加はご遠慮ください。&lt;br&gt;
-&lt;b&gt;ルールに違反する方は参加をお断りする場合がございます。&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osh.connpass.com/event/376704/</guid><enclosure url="https://media.connpass.com/thumbs/f0/86/f086961878474bacb50c55deb5ed672c.png" length="0" type="image/png"/><pubDate>Tue, 30 Dec 2025 12:47:38 +0900</pubDate></item><item><title>Global Game Jam 2026 瀬戸内会場 in 広島</title><link>https://hirouni.connpass.com/event/373294/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月30日(金) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島工業大学 五日市キャンパス 新4号館 HIT Innovation Lab 418&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市佐伯区三宅２丁目１ (新4号館)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #GGJ_hiroshima&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もやります！48時間でデジタル＆アナログゲームを一緒に作ろう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎮 グローバルゲームジャム2026、広島でも開催します！&lt;/h1&gt;
+&lt;b&gt;ルールに違反する方は参加をお断りする場合がございます。&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osh.connpass.com/event/376704/</guid><enclosure url="https://media.connpass.com/thumbs/f0/86/f086961878474bacb50c55deb5ed672c.png" length="0" type="image/png"/><pubDate>Wed, 31 Dec 2025 12:35:02 +0900</pubDate></item><item><title>Global Game Jam 2026 瀬戸内会場 in 広島</title><link>https://hirouni.connpass.com/event/373294/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月30日(金) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島工業大学 五日市キャンパス 新4号館 HIT Innovation Lab 418&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市佐伯区三宅２丁目１ (新4号館)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #GGJ_hiroshima&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もやります！48時間でデジタル＆アナログゲームを一緒に作ろう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎮 グローバルゲームジャム2026、広島でも開催します！&lt;/h1&gt;
 &lt;h2&gt;年に1回、全世界のゲームクリエイターと同時にゲームを作る特別な3日間。&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;🕹️ 開発開始からゲームの完成までは、&lt;font size="3"&gt;たったの48時間。&lt;/font&gt;&lt;/li&gt;
@@ -992,7 +1000,7 @@ AWS Ambassador / AWS Community HERO&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://kamera25.github.io/event/hirouni/2026_ggj/hit_n418.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size="3"&gt;&lt;strong&gt;今回のゲームジャムは &lt;a href="https://www.it-hiroshima.ac.jp/about/gp/center/iot.html" rel="nofollow"&gt;広島工業大学  IoT・AI・データサイエンス教育研究推進センター&lt;/a&gt; との共催となります！&lt;/strong&gt;&lt;/font&gt; &lt;br&gt;
 広島工業大学内にある、&lt;a href="https://youtu.be/i57KguB-8PQ" rel="nofollow"&gt;HIT Innovation Lab&lt;/a&gt; でゲームジャムを初開催します！&lt;br&gt;
-広島駅からたったの4駅でアクセス良好。学生達の熱気で日々町中が賑わう &lt;strong&gt;五日市キャンパス&lt;/strong&gt; が舞台です。&lt;/p&gt;
+広島駅からたったの5駅でアクセス良好。学生達の熱気で日々町中が賑わう &lt;strong&gt;五日市キャンパス&lt;/strong&gt; が舞台です。&lt;/p&gt;
 &lt;p&gt;新4号館へは、&lt;a href="https://www.it-hiroshima.ac.jp/virtualcampus/" rel="nofollow"&gt;こちらのキャンパスマップ&lt;/a&gt; をご確認の上でお越しください。&lt;/p&gt;
 &lt;h3&gt;アクセス(公共交通機関)について&lt;/h3&gt;
 &lt;ul&gt;
@@ -1155,4 +1163,4 @@ Grayちゃん と ユニティちゃん、そしてGodotちゃんと一緒にゲ
 &lt;p&gt;&lt;a href="https://globalgamejam.org/" rel="nofollow"&gt;Global Game Jam, Inc.&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;瀬戸内会場 in 広島 運営代表&lt;/h3&gt;
 &lt;p&gt;三島冠太 (広島Unity勉強会)&lt;br&gt;
-Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/0c/41/0c411620491ad1a4e9e636746a785035.png" length="0" type="image/png"/><pubDate>Sat, 20 Dec 2025 18:47:51 +0900</pubDate></item></channel></rss>
+Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/0c/41/0c411620491ad1a4e9e636746a785035.png" length="0" type="image/png"/><pubDate>Wed, 31 Dec 2025 19:09:34 +0900</pubDate></item></channel></rss>
