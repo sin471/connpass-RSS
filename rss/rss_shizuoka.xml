@@ -1,5 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 31 Dec 2025 15:14:04 +0000</lastBuildDate><item><title>第116回CoderDojo 浜松（2026年1月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/380024/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月25日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月25日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市鴨江アートセンター(201号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区鴨江町1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo浜松&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 01 Jan 2026 15:14:05 +0000</lastBuildDate><item><title>JAWS-UG磐田 Amazon Bedrock AgentCore ワークショップ</title><link>https://jawsug-iwata.connpass.com/event/380153/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月14日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月14日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ワークピア磐田 第１会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県磐田市見付2989番地3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;基本から高度なエージェント開発まで&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Amazon Bedrock AgentCore ワークショップ : 基本から高度なエージェント開発まで&lt;/h1&gt;
+&lt;h2&gt;【Agenda】&lt;/h2&gt;
+&lt;p&gt;JAWS-UG磐田支部にて、Amazon Bedrock AgentCore ワークショップのハンズオンの勉強会を開催いたします。&lt;/p&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00～13:30&lt;/td&gt;
+&lt;td&gt;受付&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30～13:40&lt;/td&gt;
+&lt;td&gt;ハンズオンの説明&lt;/td&gt;
+&lt;td&gt;JAWS-UG 磐田&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:40～16:40&lt;/td&gt;
+&lt;td&gt;Amazon Bedrock AgentCore ワークショップ&lt;/td&gt;
+&lt;td&gt;JAWS-UG 磐田&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:40～17:00&lt;/td&gt;
+&lt;td&gt;質疑応答&lt;/td&gt;
+&lt;td&gt;JAWS-UG 磐田&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;【事前準備のお願い】&lt;/h2&gt;
+&lt;h3&gt;Builder IDの準備&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ハンズオン環境は「Builder ID」でログインする為、未登録の方は事前登録をお願いします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Builder ID登録サイト：&lt;a href="https://community.aws/Builderid?trk=d46da6bb-5c61-47c1-8556-73c2f549fa47&amp;amp;sc_channel=el" rel="nofollow"&gt;https://community.aws/Builderid&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;ハンズオン環境利用登録&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ハンズオン環境の利用登録〆切は開催1週間前（～2月7日）になります。&lt;/li&gt;
+&lt;li&gt;ハンズオン環境の利用登録はイベント申し込みページの&lt;strong&gt;参加者への情報&lt;/strong&gt;に記載しています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;【参加のルールとマナー】&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;ルール&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;関係者の人種、性別、性的指向、身体的特徴、見た目、政治、宗教（または無宗教）などに係る表現は、いかなる場合も適切ではありません。  &lt;/li&gt;
+&lt;li&gt;JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣伝行為・採用活動・ネットワーキングのみを目的としたご参加はご遠慮ください。  &lt;/li&gt;
+&lt;li&gt;ルールに違反する方は参加をお断りする場合がございます。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;マナー&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。  &lt;/li&gt;
+&lt;li&gt;全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。  &lt;/li&gt;
+&lt;li&gt;私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。  &lt;/li&gt;
+&lt;li&gt;AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-iwata.connpass.com/event/380153/</guid><enclosure url="https://media.connpass.com/thumbs/ad/ca/adca990cae2c488b4ed43bbcfee50200.png" length="0" type="image/png"/><pubDate>Thu, 01 Jan 2026 00:01:42 +0900</pubDate></item><item><title>第116回CoderDojo 浜松（2026年1月）</title><link>https://coderdojo-hamamatsu.connpass.com/event/380024/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月25日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月25日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市鴨江アートセンター(201号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区鴨江町1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo浜松&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;7〜17歳のプログラミングクラブ（Scratch/マイコン/Python/p5.js等）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;CoderDojo 浜松 開催案内&lt;/b&gt;&lt;/h1&gt;
 &lt;p&gt;7～17歳の小中高校生を対象とした、プログラミングクラブのようなものです。
 プログラミングに興味があれば誰でも参加できます。
 最初はみんな初心者。
