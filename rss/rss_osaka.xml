@@ -1,5 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 01 Jan 2026 15:14:16 +0000</lastBuildDate><item><title>【大阪・作業会】OUE Unofficial Meetup – もくもく会 #3</title><link>https://oue-meetup.connpass.com/event/380101/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月14日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月14日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学図書館　ラーニング・コモンズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市東淀川区大隅2−2−8　大阪経済大学&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;✨ OUE Unofficial Meetupとは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 02 Jan 2026 15:14:34 +0000</lastBuildDate><item><title>マッパーズサミット2026</title><link>https://osm.connpass.com/event/380259/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月1日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: グラングリーン大阪 北館3階 さくらインターネット Blooming Camp コネクトエリア&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0011 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント趣旨&lt;/h2&gt;
+&lt;p&gt;みんなで作る自由な地図である&lt;a href="https://osm.org" rel="nofollow"&gt;OpenStreetMap&lt;/a&gt;の会合、ミートアップ、交流会です。&lt;br&gt;
+地図を書く方（マッパー）のノウハウを共有し、タグ付けのアイデアを考えたり、話し合ったりする内容です。
+上級者の方はもちろん、初心者のみなさんも気軽に参加して、楽しく交流しつつマッパー力を上げませんか？  &lt;/p&gt;
+&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;日時：2026年02月01日（日）13:00～17:00&lt;br&gt;
+集合：〒530-0011 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F Blooming Camp コネクトエリア（&lt;a href="https://www.openstreetmap.org/node/12860354392" rel="nofollow"&gt;〒530-0011 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F&lt;/a&gt;）&lt;br&gt;
+協力：さくらインターネット、OpenStreetMap Foundation Japan&lt;/p&gt;
+&lt;h2&gt;当日の持ち物&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;発表・議題提供される方は、資料共有用にHDMI端子付きのノートPCを持参頂くと便利かもしれません。&lt;/li&gt;
+&lt;li&gt;その他は特にありません。自分の名刺でも作品でも、持参されたいものがあれば持ってきても結構です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;スケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 - 13:00&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.openstreetmap.org/node/12860354392" rel="nofollow"&gt;Blooming Camp コネクトエリア集合&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 - 13:30&lt;/td&gt;
+&lt;td&gt;挨拶、諸注意、アイスブレイク&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30 - 14:00&lt;/td&gt;
+&lt;td&gt;OSMFJタイルサーバーのご紹介（さくらインターネット様ご協力）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00 - 14:30&lt;/td&gt;
+&lt;td&gt;発表：JOSMで緻密なマッピング！（坂ノ下）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:30 - 15:00&lt;/td&gt;
+&lt;td&gt;発表：日常に溶け込むマッピング（北村由衣）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00 - 15:30&lt;/td&gt;
+&lt;td&gt;発表：＜受付中＞&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30 - 16:00&lt;/td&gt;
+&lt;td&gt;発表：＜受付中＞&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00 - 16:30&lt;/td&gt;
+&lt;td&gt;議題：タグ付けのあれこれどうやるの？（全員参加）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 - 17:00&lt;/td&gt;
+&lt;td&gt;まとめ、クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osm.connpass.com/event/380259/</guid><enclosure url="https://media.connpass.com/thumbs/8d/02/8d0212f2c3a9f13180558b1fcecf9ee7.png" length="0" type="image/png"/><pubDate>Fri, 02 Jan 2026 14:11:27 +0900</pubDate></item><item><title>【大阪・作業会】OUE Unofficial Meetup – もくもく会 #3</title><link>https://oue-meetup.connpass.com/event/380101/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月14日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月14日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学図書館　ラーニング・コモンズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市東淀川区大隅2−2−8　大阪経済大学&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;✨ OUE Unofficial Meetupとは&lt;/h1&gt;
 &lt;p&gt;OUE Unofficial Meetup は大阪経済大学（OUE）を開催地として、学内外の誰でも参加できるオープンなコミュニティです。所属や立場、スキルレベルは一切問いません。大学生がIT/AI 系イベントに「行ってみたいけど不安」「知っている人がいない」と感じがちな現状を踏まえて、参加の心理的ハードルを下げ、大阪のITコミュニティにつながる入口をつくることを目的に立ち上げました。&lt;/p&gt;
 &lt;p&gt;すでに他のITコミュニティに参加されている方の参加も歓迎しています。この場は、学生がITコミュニティの雰囲気に触れられることを重視しています。皆様が立ち寄ってくださることで、「知っている人がいる」という安心感が生まれ、学生が学外の既存コミュニティへ一歩踏み出しやすくなります。立ち寄っていただけるだけで、この場は機能します。OUE Unofficial Meetupは、学生と既存コミュニティをゆるやかにつなぐ役割も担いたいと考えています。&lt;/p&gt;
 &lt;h1&gt;🎤 もくもく会&lt;/h1&gt;
@@ -3499,7 +3558,8 @@ LINEヤフー株式会社 大阪グランフロントオフィス&lt;/p&gt;
 &lt;p&gt;もちろん手ぶらで来て見学・交流だけでもOKです。&lt;/p&gt;
 &lt;h1&gt;日時&lt;/h1&gt;
 &lt;p&gt;2026年1月31日（土）&lt;/p&gt;
-&lt;p&gt;14:00～18:30&lt;/p&gt;
+&lt;p&gt;14:00～19:30&lt;/p&gt;
+&lt;p&gt;（途中入退室可）&lt;/p&gt;
 &lt;h1&gt;会場&lt;/h1&gt;
 &lt;p&gt;アールスリーインスティテュート&lt;/p&gt;
 &lt;p&gt;gusuku Ashibinaa OSAKA&lt;/p&gt;
@@ -3585,7 +3645,7 @@ LINEヤフー株式会社 大阪グランフロントオフィス&lt;/p&gt;
 &lt;p&gt;A. はい、テーブルに設置してあるコンセントをご利用ください。&lt;br&gt;
 ただし数に限りがありますので、他の参加者への配慮をお願いします。&lt;/p&gt;
 &lt;p&gt;Q. スーツケースでの持ち込みは可能ですか？&lt;/p&gt;
-&lt;p&gt;A. はい、可能です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://keyboard-meetup-osaka.connpass.com/event/376952/</guid><pubDate>Sat, 13 Dec 2025 22:03:49 +0900</pubDate></item><item><title>大阪AI文化万博｜見て・触れて・つながる。「生成AI×クリエイティブ」の文化祭</title><link>https://kansaiaicampus.connpass.com/event/376944/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月24日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月24日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: NTT西日本 QUINTBRIDGE&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市都島区東野田町4丁目15番82号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Gemini3.0, Nanobanana Pro, Vidu, Sora2,...&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【関西最大級】大阪AI文化万博 - 未来のクリエイティブ、ここに集結。【1/24 大阪・京橋】&lt;/h1&gt;
+&lt;p&gt;A. はい、可能です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://keyboard-meetup-osaka.connpass.com/event/376952/</guid><pubDate>Fri, 02 Jan 2026 16:21:58 +0900</pubDate></item><item><title>大阪AI文化万博｜見て・触れて・つながる。「生成AI×クリエイティブ」の文化祭</title><link>https://kansaiaicampus.connpass.com/event/376944/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月24日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月24日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: NTT西日本 QUINTBRIDGE&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市都島区東野田町4丁目15番82号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Gemini3.0, Nanobanana Pro, Vidu, Sora2,...&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【関西最大級】大阪AI文化万博 - 未来のクリエイティブ、ここに集結。【1/24 大阪・京橋】&lt;/h1&gt;
 &lt;h2&gt;✨ つくる喜びを、AIと共に。&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;「観て」「共有して」「つながる」1日。関西最大級のAIクリエイターの祭典、開催決定！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;「AI技術の進化」は、私たちの「創造」のあり方を劇的に変えようとしています。
@@ -3704,10 +3764,10 @@ SNSで話題の最新技術や、制作の裏側を生で聞ける貴重なチ�
 &lt;p&gt;本イベントに関するご質問は、「主催者へ連絡」ボタンよりお問い合わせください。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最新情報は公式X(旧Twitter)でも発信中！&lt;/strong&gt;
 &lt;a href="https://x.com/osaka_ai_expo" rel="nofollow"&gt;https://x.com/osaka_ai_expo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ハッシュタグ&lt;/strong&gt;: #AICultureCreatorFestival #大阪AI万博&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansaiaicampus.connpass.com/event/376944/</guid><enclosure url="https://media.connpass.com/thumbs/31/16/3116f76a559a888ea40ee46602015ab6.png" length="0" type="image/png"/><pubDate>Mon, 29 Dec 2025 16:06:08 +0900</pubDate></item><item><title>【GDG】AI 時代の Web エンジニアたちへ</title><link>https://gdgkwansai.connpass.com/event/376906/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月30日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月30日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪国際工科専門職大学&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001  ⼤阪市北区梅⽥3-3-1 梅田総合校舎&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;本イベントでは、「AI 時代の Web エンジニア」をテーマに、AI を活用したコーディングやAI時代に求められるセキュリティ対策、不変的な Web アーキテクチャ、技術選定の勘所まで、明日からの開発に役立つ知見を共有します。
+&lt;p&gt;&lt;strong&gt;ハッシュタグ&lt;/strong&gt;: #AICultureCreatorFestival #大阪AI万博&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansaiaicampus.connpass.com/event/376944/</guid><enclosure url="https://media.connpass.com/thumbs/31/16/3116f76a559a888ea40ee46602015ab6.png" length="0" type="image/png"/><pubDate>Mon, 29 Dec 2025 16:06:08 +0900</pubDate></item><item><title>【GDG】AI 時代の Web エンジニアたちへ</title><link>https://gdgkwansai.connpass.com/event/376906/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月30日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月30日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪国際工科専門職大学&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001  ⼤阪市北区梅⽥3-3-1 梅田総合校舎&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;AI を活用したコーディングやAI時代に求められるセキュリティ対策、不変的な Web アーキテクチャ、技術選定の勘所まで、明日からの開発に役立つ知見を共有します。
 社会人エンジニアから学生エンジニアまで、AI と共存し、より価値ある Web 開発を行うためのヒントを持ち帰ってください。&lt;/p&gt;
-&lt;h3&gt;🎯 こんな方におすすめ&lt;/h3&gt;
+&lt;h3&gt;こんな方におすすめ&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;フロントエンド・バックエンド問わず、現役の Web エンジニア&lt;/li&gt;
 &lt;li&gt;AIツール（CladeやCursor、Antigravityなど）の活用や、最新の技術動向に興味がある方&lt;/li&gt;
@@ -3717,11 +3777,12 @@ SNSで話題の最新技術や、制作の裏側を生で聞ける貴重なチ�
 &lt;/ul&gt;
 &lt;h1&gt;会場情報&lt;/h1&gt;
 &lt;h2&gt;大阪国際工科専門職大学&lt;/h2&gt;
+&lt;p&gt;大阪（西口）駅前、徒歩90秒！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;大阪府大阪市北区梅田３丁目３−１&lt;/li&gt;
 &lt;li&gt;📍&lt;a href="https://maps.app.goo.gl/bfEvq9Kt6wkzWmHc9" rel="nofollow"&gt;&lt;strong&gt;GoogleMap&lt;/strong&gt;  &lt;/a&gt;&lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;タイムテーブル（決定次第更新します！）&lt;/h1&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -3742,14 +3803,9 @@ SNSで話題の最新技術や、制作の裏側を生で聞ける貴重なチ�
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;18:40 ~ 18:55&lt;/td&gt;
+&lt;td&gt;18:40 ~ 19:10&lt;/td&gt;
 &lt;td&gt;LLM を使ってアーキテクトするコツ&lt;/td&gt;
 &lt;td&gt;たくてぃん 氏&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:55 ~ 19:10&lt;/td&gt;
-&lt;td&gt;(TBD)&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:10 ~ 19:20&lt;/td&gt;
@@ -3758,7 +3814,7 @@ SNSで話題の最新技術や、制作の裏側を生で聞ける貴重なチ�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:20 ~ 19:35&lt;/td&gt;
-&lt;td&gt;(TBD)&lt;/td&gt;
+&lt;td&gt;AI時代の技術キャッチアップ&lt;/td&gt;
 &lt;td&gt;田中 洋一郎 氏&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3857,7 +3913,7 @@ X: &lt;a href="https://x.com/taku_ting" rel="nofollow"&gt;@taku_ting&lt;/a&gt;&l
 &lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;/p&gt;
 &lt;p&gt;イベントに参加される方はご一読ください。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/376906/</guid><enclosure url="https://media.connpass.com/thumbs/92/71/92716d0dd4a407a128653426180c9601.png" length="0" type="image/png"/><pubDate>Thu, 25 Dec 2025 12:23:52 +0900</pubDate></item><item><title>[誰でも参加OK] re:Invent Recap &amp; Bedrock AgentCoreハンズオン</title><link>https://jawsugdei.connpass.com/event/376847/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月10日(土) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月10日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: gusuku Ashibinaa OSAKA（アールスリーインスティテュート）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区大深町3-1 グランフロント大阪 タワーC 16階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugdei&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;WIP&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/376906/</guid><enclosure url="https://media.connpass.com/thumbs/95/15/9515c3250be60f189752d4f9821b18b3.png" length="0" type="image/png"/><pubDate>Fri, 02 Jan 2026 20:00:38 +0900</pubDate></item><item><title>[誰でも参加OK] re:Invent Recap &amp; Bedrock AgentCoreハンズオン</title><link>https://jawsugdei.connpass.com/event/376847/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月10日(土) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月10日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: gusuku Ashibinaa OSAKA（アールスリーインスティテュート）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区大深町3-1 グランフロント大阪 タワーC 16階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugdei&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;WIP&lt;/h1&gt;
 &lt;p&gt;現在詳細調整中です！
 AWS re:Invent のアップデートを振り返るセッションと、Amazon Bedrock AgentCore を使ったハンズオン勉強会を開催予定！&lt;br&gt;
 お楽しみに！&lt;/p&gt;
@@ -4287,7 +4343,7 @@ JAWS DAYS 2014 の参加をきっかけに AWS に興味を持ち、2016 年か�
 &lt;p&gt;2025年7月にフォージビジョン入社。&lt;br&gt;
 開発エンジニアとして従事した経験を活かして、インフラ・バックエンド・フロントエンド多岐に渡ってお客様のプロジェクトを推進している。&lt;br&gt;
 サーバーレスやイベント駆動アーキテクチャ、テナント設計が得意領域。&lt;br&gt;
-AWS All Certifications Engineers 2025&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://forgevision.connpass.com/event/374829/</guid><enclosure url="https://media.connpass.com/thumbs/35/c9/35c9e74ed7a589a6dc4ac0216cbfbf99.png" length="0" type="image/png"/><pubDate>Tue, 23 Dec 2025 09:56:45 +0900</pubDate></item><item><title>高専カンファレンス25s</title><link>https://connpass.com/event/374705/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月26日(木) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月26日(木) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: コミュニティプラザ平野&lt;/li&gt;&lt;li&gt;🏢 住所: 〒547-0011 大阪府大阪市平野区長吉出戸５丁目３−５８ 平野区民センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf197_25s&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/374705/</guid><enclosure url="https://media.connpass.com/thumbs/bf/b8/bfb859e8dc056c412bef79ec48118ed1.png" length="0" type="image/png"/><pubDate>Sat, 06 Dec 2025 20:04:00 +0900</pubDate></item><item><title>1day技術ワークショップ ～パフォーマンスチューニングはここから始めよう～ in関西</title><link>https://cyberagent.connpass.com/event/373746/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 大阪富国生命ビル 18F&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区小松原町2番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;1日でパフォーマンスチューニングを経験できるハンズオンイベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
+AWS All Certifications Engineers 2025&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://forgevision.connpass.com/event/374829/</guid><enclosure url="https://media.connpass.com/thumbs/35/c9/35c9e74ed7a589a6dc4ac0216cbfbf99.png" length="0" type="image/png"/><pubDate>Tue, 23 Dec 2025 09:56:45 +0900</pubDate></item><item><title>高専カンファレンス25s</title><link>https://connpass.com/event/374705/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月26日(木) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月26日(木) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: コミュニティプラザ平野&lt;/li&gt;&lt;li&gt;🏢 住所: 〒547-0011 大阪府大阪市平野区長吉出戸５丁目３−５８ 平野区民センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf197_25s&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/374705/</guid><enclosure url="https://media.connpass.com/thumbs/bf/b8/bfb859e8dc056c412bef79ec48118ed1.png" length="0" type="image/png"/><pubDate>Fri, 02 Jan 2026 22:25:07 +0900</pubDate></item><item><title>1day技術ワークショップ ～パフォーマンスチューニングはここから始めよう～ in関西</title><link>https://cyberagent.connpass.com/event/373746/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 大阪富国生命ビル 18F&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区小松原町2番4号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;1日でパフォーマンスチューニングを経験できるハンズオンイベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
 &lt;h3&gt;【サーバーサイド学生向け】1day技術ワークショップ ～パフォーマンスチューニングはここから始めよう～&lt;/h3&gt;
 &lt;p&gt;・息をするように高パフォーマンスな機能を作れるようになりたい
 &lt;br&gt;・なんとなく実装したWeb API、どうやってパフォーマンスを測ればいいのかわからない
