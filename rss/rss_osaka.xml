@@ -1,5 +1,416 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 04 Jan 2026 15:13:01 +0000</lastBuildDate><item><title>【大阪開催】「ルールズ・オブ・プログラミング」読書会vol.48</title><link>https://cpp-osaka.connpass.com/event/380400/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月13日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月13日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: コナミ大阪スタジオ イベントホール&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田一丁目13番1号(大阪梅田ツインタワーズ・サウス 23階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cpp読書会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大阪でオフライン開催しています&lt;/p&gt;&lt;div&gt;&lt;p&gt;C++に関する本をみんなで読み進めていく会です。&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 05 Jan 2026 15:17:06 +0000</lastBuildDate><item><title>CoderDojo平野 #02: ～ AIの楽しさを知ろう</title><link>https://yozoralabo.connpass.com/event/380530/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月24日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月24日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: YOZORA LABO&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市平野区宮町１－１－２３&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIと共に君たちの未来を創ろう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;CoderDojo 平野は、技術を教える教室ではなく、君の「意志（Will）」をAIと共に形にする研究所（ラボ）です。&lt;/p&gt;
+&lt;p&gt;これまでのプログラミング学習は、コードの書き方を覚えることに多くの時間を使っていました。しかし、これからは違います。
+最強のパートナーである「生成AI（ChatGPT, Gemini, Claudeなど）」がいれば、君の「こんなものを作りたい！」「あんなことができたらいいな」というアイデアは、驚くべきスピードで実現できます。&lt;/p&gt;
+&lt;p&gt;今回のDojoでは、Python（パイソン）などのプログラミング と 最新のAIツール などを組み合わせて、君だけのオリジナル作品作りに挑戦します。
+難しいエラーが出ても大丈夫。AIと一緒に考え、乗り越える「未来のエンジニアの戦い方」を体験しましょう！&lt;/p&gt;
+&lt;p&gt;こんな子におすすめ！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AIを使ってみたい、AIと話してみたい子&lt;/li&gt;
+&lt;li&gt;「作りたいもの」があるけれど、技術が難しくて諦めていた子&lt;/li&gt;
+&lt;li&gt;普通のプログラミング教室では物足りない子&lt;/li&gt;
+&lt;li&gt;自分だけのゲームやツールを作って、友達を驚かせたい子&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;――― 開催概要 ―――&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日時: 1月24日 (土) 14:00 〜 16:00&lt;/li&gt;
+&lt;li&gt;場所: CoderDojo 平野（YOZORA LABO）&lt;/li&gt;
+&lt;li&gt;参加費: 無料&lt;/li&gt;
+&lt;li&gt;対象: AIとプログラミングに興味がある小中学生&lt;/li&gt;
+&lt;li&gt;募集人数: ニンジャ（参加するお子様） 6名&lt;/li&gt;
+&lt;li&gt;使用ツール: Pythonなど, 生成AI (ChatGPT, Gemini, Claudeや他のAIツール)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;――― 参加枠について ―――&lt;/p&gt;
+&lt;p&gt;🥷 参加者 (ニンジャ)&lt;/p&gt;
+&lt;p&gt;プログラミングやAIに挑戦したいお子様はこちらの枠でお申し込みください。
+初心者でも大丈夫！「やりたい！」という気持ちがあれば大歓迎です。&lt;/p&gt;
+&lt;p&gt;🧙‍♂️ メンター&lt;/p&gt;
+&lt;p&gt;ニンジャたちの制作サポートをしていただける、Dojoメンター経験者の方はこちらからお願いします。
+近隣Dojoからの助っ人も大歓迎です！子どもたちの柔軟な発想を一緒に楽しみましょう。&lt;/p&gt;
+&lt;p&gt;――― 持ち物・機材について ―――&lt;/p&gt;
+&lt;p&gt;💻 ノートパソコン (必須)
+Wi-Fiに接続可能なノートパソコンをご持参ください。
+（Windows / Mac / Chromebook いずれも可）&lt;/p&gt;
+&lt;p&gt;🔌 電源アダプタ・マウス
+必要に応じてお持ちください。&lt;/p&gt;
+&lt;p&gt;――― 貸出PCについて (限定2台)&lt;/p&gt;
+&lt;p&gt;ノートパソコンをお持ちでない方向けに、スポンサー企業様より寄贈いただいたプログラミング環境セットアップ済みのPCを2台ご用意しております。予約制・先着順となります。
+* 利用をご希望の方は、お申し込み時のアンケートで必ず「貸出PC希望」を選択してください。&lt;/p&gt;
+&lt;p&gt;――― 保護者の皆様へ（必ずお読みください） ―――&lt;/p&gt;
+&lt;p&gt;⚠️ お子様の同伴について
+安全な運営のため、12歳以下（小学生）のお子様が参加される場合は、保護者の方の同伴をお願いいたします。
+会場内には保護者様用の待機スペースもございます。&lt;/p&gt;
+&lt;p&gt;🤖 生成AIの利用について
+本イベントでは、プログラミング学習の補助および創造性を拡張するツールとして「生成AI（ChatGPT等）」を利用します。
+つきましては、お申し込み時に「生成AI利用に関する同意」を頂いております。
+最新技術を安全かつ教育的に活用するため、ご理解とご協力をお願いいたします。&lt;/p&gt;
+&lt;p&gt;👀 見学について
+イベントの様子をご覧になる「見学のみ」の参加も歓迎しております。
+「どんな活動をしているか見てみたい」「うちの子に合うか確認したい」という方も、ぜひお気軽にお立ち寄りください。&lt;/p&gt;
+&lt;p&gt;―――タイムスケジュール (予定) ―――&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13:45 - 開場・受付開始&lt;/li&gt;
+&lt;li&gt;14:00 - オープニング・AI活用のヒント&lt;/li&gt;
+&lt;li&gt;14:15 - 制作タイム（AIと一緒に作ってみよう！）&lt;/li&gt;
+&lt;li&gt;15:30 - 発表会（成果を見せ合おう）&lt;/li&gt;
+&lt;li&gt;15:50 - クロージング・記念撮影&lt;/li&gt;
+&lt;li&gt;16:00 - 解散&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;―――&lt;/p&gt;
+&lt;p&gt;主催：CoderDojo 平野
+会場協力：YOZORA LABO&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://yozoralabo.connpass.com/event/380530/</guid><enclosure url="https://media.connpass.com/thumbs/64/10/64101e5bcbc2687fb1fec6736be9a8a1.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 23:49:13 +0900</pubDate></item><item><title>【研究会#4】元 共立電子役員が語る ウェブエンジニアにもハードウェアに触れて欲しい理由</title><link>https://osaka-web-summit.connpass.com/event/380523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月27日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月27日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: D2H OSAKA&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市中央区伏見町３丁目２−６ 伏見町ＫＹビル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OSAKA WEB SUMMIT 研究会&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;ウェブはどこまで「フィジカル」になれるのか―。&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;電子工作界隈からの問いを紐解きながらウェブの未来を考える。&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+OSAKA WEB SUMMITは年1回の大型イベントだけでなく、毎月少人数制の研究会を実施することで、より有益な情報を得られるような活動をしています。&lt;br&gt;
+&lt;br&gt;
+研究会第4弾は、ハードウェアにまつわる登壇者です。&lt;br&gt;
+ホログラム株式会社 専務取締役　長者原 亨 氏をお招きし、電子工作界隈から見たウェブの未来を皆さんと一緒に考えていきます。&lt;br&gt;
+&lt;br&gt;
+昨今ハードウェアよりもソフトウェアが進化し、ソフトウェアリリースのハードルがどんどん下がっています。&lt;br&gt;
+一方で&lt;strong&gt;「ソフトウェア界隈の方々がハードウェアの知見を持つと、もっと差別化ができることは明白である」&lt;/strong&gt;と語るのは、&lt;br&gt;
+大阪・日本橋で電子工作パーツを買い求めた人なら誰もが知る「共立電子」の役員を務められ、&lt;br&gt;
+ロボット教材開発や中学技術教科書の編集に携わられたご経験を持つ長者原氏です。&lt;br&gt;
+&lt;br&gt;
+今回は電子工作とウェブという今までと違った角度から、ウェブの未来を一緒に考えてみませんか。&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;登壇者 / Speaker&lt;/h1&gt;
+&lt;p&gt;ホログラム株式会社&lt;br&gt;
+専務取締役　長者原 亨 氏
+&lt;img src="https://cdn.peatix.com/event/4792032/cover-S1ijmhxMwqT0YMB80Wi90EvNUhkZs92I.jpeg"&gt;&lt;/p&gt;
+&lt;h1&gt;開催概要 / Outline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時 : 2026年1月27日(火)&lt;/li&gt;
+&lt;li&gt;受付開始 : 18:30&lt;/li&gt;
+&lt;li&gt;場所 : D2H OSAKA 〒541-0044 大阪府大阪市中央区伏見町3-2-6 伏見町KYビル1F &lt;a href="https://maps.app.goo.gl/5x1j86gUTi8opVqq5" rel="nofollow"&gt;Googleマップで見る&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;参加費 : 無料 (懇親会参加も無料)&lt;/li&gt;
+&lt;li&gt;協賛 : &lt;a href="https://obvious-foxtrot-c16.notion.site/AIDX-2025-1b34e97df78680db95b5d41e08d0e7e3" rel="nofollow"&gt;一般社団法人AI・DXリスキリング協会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;プログラム / Program&lt;/h2&gt;
+&lt;p&gt;19:00~&lt;br&gt;
+　OSAKA WEB SUMMIT代表理事 小谷 爽 開会挨拶&lt;br&gt;
+19:05~&lt;br&gt;
+　会場 D2H OSAKA ご紹介&lt;br&gt;
+19:10~&lt;br&gt;
+　協賛企業 一般社団法人AI・DXリスキリング協会 挨拶&lt;br&gt;
+19:15~&lt;br&gt;
+　長者原 亨 氏 ご講演&lt;br&gt;
+20:15~&lt;br&gt;
+　OSAKA WEB SUMMITのご紹介、アンケート&lt;br&gt;
+20:25~&lt;br&gt;
+　懇親会 (希望者のみ)&lt;br&gt;
+21:00&lt;br&gt;
+　閉会&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;この研究会で得られること / What You Will Gain From This Lecture&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ソフトウェアだけでなくハードウェアを絡めた強みを見つけることができる&lt;/li&gt;
+&lt;li&gt;ハードウェアの本質を知り、ビジネスに活かすヒントが得られる&lt;/li&gt;
+&lt;li&gt;研究会を通じて、横のつながりを作ることができる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;注意点 / Notes&lt;/h1&gt;
+&lt;p&gt;オンライン配信はございません&lt;/p&gt;
+&lt;h1&gt;お問い合わせ / Contact&lt;/h1&gt;
+&lt;p&gt;一般社団法人OSAKA WEB SUMMIT 事務局&lt;br&gt;
+info@osaka-web-summit.org&lt;br&gt;
+&lt;a href="https://osaka-web-summit.org" rel="nofollow"&gt;https://osaka-web-summit.org&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osaka-web-summit.connpass.com/event/380523/</guid><enclosure url="https://media.connpass.com/thumbs/d1/98/d1984e5ef69889b56327cb279ee77410.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 21:37:57 +0900</pubDate></item><item><title>大阪もくもく会@No.14</title><link>https://connpass.com/event/380469/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月21日(水) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月21日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: RE-020&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市浪速区難波中3丁目9-3 RE-020 205号室&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※途中参加、退出可能です&lt;/p&gt;&lt;div&gt;&lt;h1&gt;☘️概要&lt;/h1&gt;
+&lt;p&gt;大阪の市内で、もくもく会を開催致します💡&lt;/p&gt;
+&lt;p&gt;近年リモートワークが多くなっていて、自宅からなかなか出ないエンジニアの方も多いかと思います。
+お互いの知識や情報を交換しながら学びを得たい、リフレッシュがてら、社外とのつながりを作りたいなどといった方に対して一緒にもくもく作業をしませんか？🙌&lt;/p&gt;
+&lt;p&gt;エンジニアの同士の情報交換やつながりの場もなれればと思います。
+👍✨&lt;/p&gt;
+&lt;p&gt;ITエンジニアのみなさまのご参加をお待ちしています！🙌&lt;/p&gt;
+&lt;p&gt;※途中参加、途中退出は自由です♪&lt;/p&gt;
+&lt;h1&gt;☘️対象者&lt;/h1&gt;
+&lt;p&gt;ITエンジニアの方(会社員、フリーランスなど)&lt;/p&gt;
+&lt;p&gt;※ネットワークビジネスや、SES営業などをされている方はご遠慮ください✋&lt;/p&gt;
+&lt;h1&gt;☘️参加費&lt;/h1&gt;
+&lt;p&gt;無料です💸&lt;/p&gt;
+&lt;h1&gt;☘️タイムスケジュール&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間&lt;/th&gt;
+&lt;th align="center"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:50〜20:00&lt;/td&gt;
+&lt;td align="center"&gt;準備(任意参加です♪)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:00〜22:00&lt;/td&gt;
+&lt;td align="center"&gt;もくもく会スタート💻&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;22:00〜22:30&lt;/td&gt;
+&lt;td align="center"&gt;終了、片付け&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1&gt;☘️主催メンバー紹介&lt;/h1&gt;
+&lt;ul&gt;
+
+&lt;p&gt;
+◉きむ
+&lt;br&gt;
+エンジニア歴10年のバックエンドエンジニア。現在は法人1社経営していて、未経験から会社員→フリーランス→法人設立へ。
+&lt;br&gt;
+主な技術はJava、C#。Web制作も従事しており、HTML,CSS,JavaScriptも経験あり。
+&lt;br&gt;
+趣味はマンガ、サウナ、ラーメン、スポーツ　最近は専らモンハンNowにハマって市内を徘徊しております。
+&lt;br&gt;
+スタートラインは関係なく、未経験エンジニアからでも力は付けれる！そんなことをモットーに楽しく自分からも知識を沢山吸収していきます✨
+&lt;/p&gt;
+
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/380469/</guid><enclosure url="https://media.connpass.com/thumbs/f9/1c/f91cab812824bddf3891d95263826ba2.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 15:41:00 +0900</pubDate></item><item><title>第9回 生成AI最新情報キャッチアップDAY</title><link>https://osakan-space.connpass.com/event/380439/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: オオサカンスペース（大雅ビル10階）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市中央区備後町3-6-2(大雅ビル)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIのアップデートが早くて、一人で追い切れないと感じている生成AIギークの集い（10時間）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🤖 生成AI最新情報キャッチアップDAY&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;生成AIの最新ニュースをキャッチアップし、実際に手を動かし、語り合う。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;エンジニアやバイブコーダー、生成AIの技術とビジネス活用に興味がある人たちが集まるイベントです。主催は、エンジニアのいのっちとコワーキングスペースオーナーのおおさきです。&lt;/p&gt;
+&lt;p&gt;最新のモデルやツールを試しながら、知見を共有し、ディスカッション。技術的な話だけでなく、ビジネスへの活かし方についても語り合います。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;✨ 好きなことを、好きなだけ、遠慮なく話してください。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マニアックな話、大歓迎。ギークな人はもちろん、ギークな人の話を聞きたい人も集まっています。「技術的な話は興味あるけど、ちょっと怖い…」という方は、オンラインで耳を傾けるだけでもOKです。&lt;/p&gt;
+&lt;h2&gt;💡 こんな人におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;生成AIニュースの流れが速すぎて、ひとりで追いきれない&lt;/li&gt;
+&lt;li&gt;バイブコーディングについて情報交換したい&lt;/li&gt;
+&lt;li&gt;新しいモデルやツールを試したいけど、時間が取れない&lt;/li&gt;
+&lt;li&gt;最新AI技術について語り合える仲間がほしい&lt;/li&gt;
+&lt;li&gt;「うまくいった／うまくいかなかった」を気軽に話し合いたい&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10時間もAIづけ！？ むしろ大歓迎！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📋 開催概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;⏰ イベント時間&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;10:00〜20:00（遅刻・途中退場OK）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;📍 場所&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;オオサカンスペース ＆ オンライン（Meet）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;🏠 会場費&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;500円（オオサカンスペースメンバーは無料）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;🎫 イベント参加費&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1,000円（打ち上げの軽食＆ドリンク込み）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;オンラインでも途中退場でも参加費は変わりません。ただ、できれば最初から最後まで参加いただけると嬉しいです。生成AIについて語り合いながら、一緒に学べる仲間を増やしていきたい、そんな想いでこのイベントを開催しています。ご都合が許せば、ぜひ打ち上げまでご参加ください。&lt;/p&gt;
+&lt;h3&gt;⚠️ キャンセル規定&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;参加できなくなった場合は、&lt;strong&gt;必ずご連絡ください&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;連絡なく欠席された場合は、参加費を頂戴いたします&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🗓️ 当日の流れ&lt;/h2&gt;
+&lt;h3&gt;🌅 10:00 - 13:00｜生成AIニュースキャッチアップ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;直近のAIニュースをみんなでワイワイ振り返る&lt;/li&gt;
+&lt;li&gt;「今月どんなニュースあったっけ？」などと話しながら情報を共有&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🍽️ 13:00 - 14:00｜ランチ休憩&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;近くのお店にランチにでかけましょう（希望者／実費）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 14:00 - 18:00｜もくもくタイム（自由時間）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;気になっていたAIツールやAIモデルをその場で試す&lt;/li&gt;
+&lt;li&gt;午前中に得た情報を元に、実際に手を動かして試してみる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🍺 18:00 - 20:00｜打ち上げ（軽食＆ドリンク付き）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;今日の学びや新発見をシェア&lt;/li&gt;
+&lt;li&gt;「次回は何を試す？」「こういうテーマでLTしたい！」を話しながら交流&lt;/li&gt;
+&lt;li&gt;焼きそばや中華など、そのときに応じて軽食とドリンクを用意します&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;ここから先は、イベントの詳細です。興味がある方だけお読みください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;✨ このイベントの特徴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;📰 最新AIニュースキャッチアップ&lt;/strong&gt; — 話題のモデルやツールをみんなで振り返る&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🔧 実際に試してみる&lt;/strong&gt; — 気になるツールやモデルをその場で触って検証&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🍻 打ち上げ&lt;/strong&gt; — 学んだことを共有しながら、お酒を飲んで交流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;👥 コミュニティ&lt;/strong&gt; — 継続的な情報交換や仲間づくりを目指す&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;⏰ 10時間のロングイベント&lt;/strong&gt; — 朝から晩まで、生成AIの話で盛り上がる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;👤 主催について&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;猪俣&lt;/strong&gt;：技術者&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大崎&lt;/strong&gt;：コワーキングスペースのオーナー。技術者ではなく、非エンジニアのバイブコーダー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;👥 参加者について&lt;/h2&gt;
+&lt;p&gt;システム開発者、製造業でDXやAIを進めている方、エンジニア、ウェブ屋さん、コンサルタント、コワーキングスペース運営者、学生さんやお医者さんなど、さまざまな立場の方が参加しています。&lt;/p&gt;
+&lt;p&gt;AIの研究をしている人、仕事で使っている人、3Dモデリングや開発に取り入れている人など、関わり方はさまざま。「もっと知りたい」「誰かと話したい」「仲間がほしい」そんな気持ちが、この場に参加するきっかけになっています。&lt;/p&gt;
+&lt;p&gt;立場や経験を越えて、気づきや学びを共有できる場になっていることが、とても心強いです。&lt;/p&gt;
+&lt;h2&gt;🏷️ 過去に話題にのぼったキーワード&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;説明はおおよそで読んでください&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;キーワード&lt;/th&gt;
+&lt;th&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Vibe Coding&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;細かい文法よりノリと感覚で指示してAIに爆速で作らせる開発スタイル&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Cursor&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;AIエージェント統合型のコードエディタ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Claude Code&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Anthropicが提供するターミナル型エージェントツール&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Windsurf / AntiGravity&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;GoogleのAIエージェント統合IDE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Bolt&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ブラウザ内で開発が完結するAIコーディングツール&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Sora 2&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;OpenAIの動画生成AI。実写と区別がつかないレベルに到達&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#NaNo Banana Pro&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;高品質な画像生成モデル&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Google AI Studio&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Geminiを使ったAIツール開発環境&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Firebase Studio&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Googleのアプリ開発環境。非エンジニアでも動くものを作れる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#MCP&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Model Context Protocol：AIが外部ツールと連携するための通信規約&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;#Suno&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;音楽生成AI。店舗BGMなど実用化が進む&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;❓ よくある質問（Q&amp;amp;A）&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Q. 途中参加・途中退室は可能ですか？&lt;/strong&gt;
+はい、可能です。10時間の長丁場なので、都合のよい時間にお越しください。事前に参加予定の時間帯をお知らせいただけると助かります。途中退場しても参加費は変わりません。&lt;/p&gt;
+&lt;p&gt;ただ、できれば最初から最後まで参加いただけると嬉しいです。生成AIについて語り合いながら、一緒に学べる仲間を増やしていきたい、そんな想いでこのイベントを開催しています。ご都合が許せば、ぜひ打ち上げまでご参加ください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q. もくもくタイムは何をするのでしょうか？&lt;/strong&gt;
+基本的に各自がやりたいことを自由に進めます。AIツールやAIモデルを試したり、自分のプロジェクトを進めたり、他の参加者と情報交換したりと自由です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q. 持ち物や準備するものはありますか？&lt;/strong&gt;
+ノートPCや充電器をお持ちください。もくもくタイムで試したいツールやモデルがあれば、事前に準備しておくとスムーズです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q. 飲食は持ち込み可能ですか？&lt;/strong&gt;
+はい、可能です。軽食や飲み物など自由にお持ちください。打ち上げでは簡単なフードとドリンクを用意します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q. 一人で参加しても大丈夫でしょうか？&lt;/strong&gt;
+はい、お一人での参加者も多くいらっしゃいます。運営側もサポートしますので、安心してご参加ください。&lt;/p&gt;
+&lt;h2&gt;📝 過去の開催レポート&lt;/h2&gt;
+&lt;h3&gt;📆 2025年11月29日&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;形式：&lt;/strong&gt; ツールを実際にインストールして画面共有、その場でコーディング&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主な議論トピック&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AIエディタ「Antigravity」の検証&lt;/strong&gt; — Claude Code vs Cursorの比較も話題に&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ブラウザと検索の未来&lt;/strong&gt; — Google AIモードとChatGPTのパーソナライズ機能を議論&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;クラウドサービスの使い分け&lt;/strong&gt; — AWS/GCPのクレジット支援を併用する戦略&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Google Workspace「Flow」&lt;/strong&gt; — 請求書メールの自動保存など&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;即席ツール開発&lt;/strong&gt; — 会話中のアイデアをClaude Codeでリアルタイム実装&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osakan-space.connpass.com/event/380439/</guid><enclosure url="https://media.connpass.com/thumbs/95/eb/95eb80459acfdd81c96b5f48332cbf93.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 19:36:47 +0900</pubDate></item><item><title>126回　本町デジもく会</title><link>https://dezimoku.connpass.com/event/380437/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月17日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: TheDECK&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市中央区南本町2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デジもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;ご参加のみなさまは下記の点にご留意ください。&lt;/p&gt;
+&lt;p&gt;・会場はコワーキングスペースのため、他のグループや個人利用の方も作業、お仕事をされています&lt;br&gt;
+・原則「もくもく会」ですが参加者同士の&lt;font color="red"&gt;交流(会話)は周りを気遣ってトーンを抑える&lt;/font&gt;よう心がけてください&lt;br&gt;
+・&lt;font color="red"&gt;工作物、成果物の紹介、披露、デモ時は音声出力のボリウムを絞って&lt;/font&gt;ください&lt;br&gt;
+・&lt;font color="red"&gt;電子音、電子楽器、ゲーム効果音等を出力するときは隣のFabスペースに移動して&lt;/font&gt;ご利用ください&lt;br&gt;
+・zoom等オンライン交流は映像メインで行い会話を要するときは手短に、またはWeb会議用個室ブースをご利用ください&lt;br&gt;
+・ハンダ付けは隣のFabスペースに移動してご利用ください&lt;br&gt;
+・他の利用者も作業、お仕事をされていることを念頭に行動しましょう&lt;br&gt;
+・会場の設備、備品は丁寧に使い、必ず現状復帰させてから解散しましょう&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;【デジもく会とは】&lt;br&gt;
+デジタル工作好きが集まって自分で作りたいものをもくもくと作る場を提供しているゆる〜いコミュニティです。&lt;br&gt;
+参加者は学生から第一線を退いたシニア世代まで初心者、ベテランまで幅広く「これからデジタル工作を始めたいけど周りにアドバイスしてくれる人がいない」といった方も大歓迎です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;デジタル工作とは、ArduinoやRaspberry Piに代表されるプログラミングを伴った電子工作や3Dプリンタ、レーザーカッター等コンピュータ制御のデジタルツールを使って工作することを指しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;参加費は500円。PayPayまたは現金で受け付けます。&lt;br&gt;
+会場では100V電源、ドリンクコーナー(コーヒー、烏龍茶、ジュース等ソフトドリンク)が無料で、&lt;br&gt;
+3Dプリンタ、レーザーカッター、刺繍用ミシンが有料でご利用いただけます。&lt;/p&gt;
+&lt;p&gt;見学や取材ご希望の方はエントリー時にコメント欄でその旨お伝えください。&lt;br&gt;
+閉会後(17時以降)は希望者で懇親会を開くことがあります。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;h2&gt;協力団体&lt;/h2&gt;
+&lt;p align="center"&gt;
+共催
+&lt;/p&gt;&lt;p align="center"&gt;
+&lt;a href="https://thedeck.jp/" rel="nofollow"&gt;&lt;img src="https://thedeck.jp/wp/wp-content/themes/thedeck-new/img/logo.png" width="200"&gt;&lt;br&gt;
+THE DECK
+&lt;/a&gt;&lt;br&gt;
+共催
+&lt;/p&gt;&lt;p align="center"&gt;
+&lt;a href="https://eiwa-up.jp/" rel="nofollow"&gt;&lt;img src="https://eiwa-up.jp/wp/wp-content/themes/eiwa-theme/images/logo.svg" width="200"&gt;&lt;br&gt;
+有限会社　栄和
+&lt;/a&gt;&lt;br&gt;
+
+&lt;/p&gt;&lt;p align="center"&gt;
+&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;&lt;img alt="サンプル" src="https://ho-lo.jp/wp-content/themes/holo-theme/images/logo2.svg" style="background-color: black;" width="200"&gt;&lt;/a&gt;&lt;/p&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;
+&lt;/a&gt;&lt;p align="center"&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;
+&lt;/a&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;ホログラム　株式会社
+&lt;/a&gt;&lt;br&gt;
+
+&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dezimoku.connpass.com/event/380437/</guid><enclosure url="https://media.connpass.com/thumbs/05/ba/05baa702bc971b8a207960ae0320157e.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 12:21:25 +0900</pubDate></item><item><title>Redmine Patch Night #6</title><link>https://rpn.connpass.com/event/380434/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月16日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月16日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社アジャイルウェア 大阪本社オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市中央区淡路町4−2−13 アーバンネット御堂筋ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;🛠️ Redmine Patch Night について&lt;/h2&gt;
+&lt;p&gt;Redmineの改善や機能追加に向けて、実際にパッチを書いてみることを目的としたハンズオン形式の勉強会です。&lt;br&gt;
+初心者から上級者まで、どなたでも参加歓迎！&lt;br&gt;
+「Redmineの中身を覗いてみたい」「自分の要望をパッチにしてみたい」という方も大歓迎です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Redmineの改善に興味がある方  &lt;/li&gt;
+&lt;li&gt;Ruby on Railsに少しでも触れたことがある方  &lt;/li&gt;
+&lt;li&gt;OSS活動に挑戦してみたい方  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;内容（予定）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Redmineの開発環境セットアップ（初参加者向け） &lt;/li&gt;
+&lt;li&gt;Redmineの課題一覧からパッチ候補の選定&lt;/li&gt;
+&lt;li&gt;実際にパッチを作成＆動作確認&lt;/li&gt;
+&lt;li&gt;作ったパッチのレビュー・投稿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;開催場所&lt;/h2&gt;
+&lt;p&gt;株式会社アジャイルウェアのイベントスペース&lt;br&gt;
+〒541-0047 大阪府大阪市中央区淡路町4−2−13&lt;br&gt;
+アーバンネット御堂筋ビル 11F&lt;/p&gt;
+&lt;p&gt;みなさんのご参加を心よりお待ちしております！&lt;/p&gt;
+&lt;p&gt;アジャイルウェアオフィスまでの館内ルート案内
+&lt;a href="https://docs.google.com/presentation/d/16nwwVwztWCTn3oKLzE1OVIifrtzeaNcPBJgDpvQNMuo/edit?slide=id.p#slide=id.p" rel="nofollow"&gt;https://docs.google.com/presentation/d/16nwwVwztWCTn3oKLzE1OVIifrtzeaNcPBJgDpvQNMuo/edit?slide=id.p#slide=id.p&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;※connpassで参加登録されていない方の会場への入場は、会場のセキュリティの観点からお断りしています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;RedminePatchNightでは、参加者・運営のやりとりにDiscordを利用しております。下記のリンクから参加していただけると大変助かります。
+&lt;a href="https://discord.gg/UkYFzu7qYd" rel="nofollow"&gt;https://discord.gg/UkYFzu7qYd&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://rpn.connpass.com/event/380434/</guid><enclosure url="https://media.connpass.com/thumbs/af/eb/afeb2ede41c4aee3ebf58d777393220e.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 11:59:55 +0900</pubDate></item><item><title>【大阪開催】「ルールズ・オブ・プログラミング」読書会vol.48</title><link>https://cpp-osaka.connpass.com/event/380400/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月13日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月13日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: コナミ大阪スタジオ イベントホール&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田一丁目13番1号(大阪梅田ツインタワーズ・サウス 23階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cpp読書会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大阪でオフライン開催しています&lt;/p&gt;&lt;div&gt;&lt;p&gt;C++に関する本をみんなで読み進めていく会です。&lt;br&gt;
 本を通してC++ の勉強をしていけたらと考えています。&lt;/p&gt;
 &lt;h1&gt;読むもの&lt;/h1&gt;
 &lt;ul&gt;
@@ -129,7 +540,7 @@ Xアカウントがない場合は「参加者への情報」に書かれてい�
 &lt;li&gt;禁煙です&lt;/li&gt;
 &lt;li&gt;イベント開催時間に遅れての参加や、早めの退出は&lt;strong&gt;自由です&lt;/strong&gt;ので、ご遠慮なくご参加ください&lt;/li&gt;
 &lt;li&gt;発熱等、体調のすぐれない方は、ご参加を控えてください&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://umdindies.connpass.com/event/380382/</guid><enclosure url="https://media.connpass.com/thumbs/c5/24/c524e8a9ad142a053e28fd88e88df0d4.png" length="0" type="image/png"/><pubDate>Sun, 04 Jan 2026 15:49:36 +0900</pubDate></item><item><title>マッパーズサミット2026</title><link>https://osm.connpass.com/event/380259/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月1日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: グラングリーン大阪 北館3階 さくらインターネット Blooming Camp コネクトエリア&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0011 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント趣旨&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://umdindies.connpass.com/event/380382/</guid><enclosure url="https://media.connpass.com/thumbs/c5/24/c524e8a9ad142a053e28fd88e88df0d4.png" length="0" type="image/png"/><pubDate>Sun, 04 Jan 2026 15:49:36 +0900</pubDate></item><item><title>マッパーズサミット2026</title><link>https://osm.connpass.com/event/380259/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月1日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: グラングリーン大阪 北館3階 さくらインターネット Blooming Camp コネクトエリア&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0011 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;協力: OpenStreetMap Foundation Japan&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント趣旨&lt;/h2&gt;
 &lt;p&gt;みんなで作る自由な地図である&lt;a href="https://osm.org" rel="nofollow"&gt;OpenStreetMap&lt;/a&gt;の会合、ミートアップ、交流会です。&lt;br&gt;
 地図を書く方（マッパー）のノウハウを共有し、タグ付けのアイデアを考えたり、話し合ったりする内容です。
 上級者の方はもちろん、初心者のみなさんも気軽に参加して、楽しく交流しつつマッパー力を上げませんか？  &lt;/p&gt;
@@ -188,7 +599,7 @@ Xアカウントがない場合は「参加者への情報」に書かれてい�
 &lt;td&gt;まとめ、クロージング&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osm.connpass.com/event/380259/</guid><enclosure url="https://media.connpass.com/thumbs/8d/02/8d0212f2c3a9f13180558b1fcecf9ee7.png" length="0" type="image/png"/><pubDate>Fri, 02 Jan 2026 14:11:27 +0900</pubDate></item><item><title>【大阪・作業会】OUE Unofficial Meetup – もくもく会 #3</title><link>https://oue-meetup.connpass.com/event/380101/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月14日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月14日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学図書館　ラーニング・コモンズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市東淀川区大隅2−2−8　大阪経済大学&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;✨ OUE Unofficial Meetupとは&lt;/h1&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osm.connpass.com/event/380259/</guid><enclosure url="https://media.connpass.com/thumbs/8d/02/8d0212f2c3a9f13180558b1fcecf9ee7.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 15:34:47 +0900</pubDate></item><item><title>【大阪・作業会】OUE Unofficial Meetup – もくもく会 #3</title><link>https://oue-meetup.connpass.com/event/380101/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月14日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月14日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学図書館　ラーニング・コモンズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市東淀川区大隅2−2−8　大阪経済大学&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;✨ OUE Unofficial Meetupとは&lt;/h1&gt;
 &lt;p&gt;OUE Unofficial Meetup は大阪経済大学（OUE）を開催地として、学内外の誰でも参加できるオープンなコミュニティです。所属や立場、スキルレベルは一切問いません。大学生がIT/AI 系イベントに「行ってみたいけど不安」「知っている人がいない」と感じがちな現状を踏まえて、参加の心理的ハードルを下げ、大阪のITコミュニティにつながる入口をつくることを目的に立ち上げました。&lt;/p&gt;
 &lt;p&gt;すでに他のITコミュニティに参加されている方の参加も歓迎しています。この場は、学生がITコミュニティの雰囲気に触れられることを重視しています。皆様が立ち寄ってくださることで、「知っている人がいる」という安心感が生まれ、学生が学外の既存コミュニティへ一歩踏み出しやすくなります。立ち寄っていただけるだけで、この場は機能します。OUE Unofficial Meetupは、学生と既存コミュニティをゆるやかにつなぐ役割も担いたいと考えています。&lt;/p&gt;
 &lt;h1&gt;🎤 もくもく会&lt;/h1&gt;
@@ -1032,7 +1443,7 @@ LTをした方に対しては有志でプライベートの時間を割いて準
 &lt;p&gt;LTの登壇希望大歓迎です！
 10分〜15分程度の時間で「生成AIの業務活用」をテーマに発表をお願いします。
 ※LTとはライトニングトーク（Lightning talks）の略で、短いプレゼンテーションのことです&lt;br&gt;
-LT参加枠でご応募ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://eiger.connpass.com/event/379288/</guid><enclosure url="https://media.connpass.com/thumbs/5f/a7/5fa7369b8365b8618954ef348b5a6990.png" length="0" type="image/png"/><pubDate>Thu, 25 Dec 2025 14:30:50 +0900</pubDate></item><item><title>第50回関西PHP勉強会</title><link>https://phpkansai.connpass.com/event/379287/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月15日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月15日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: gusuku Ashibinaa OSAKA&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 グランフロント大阪タワーC16階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #phpkansai&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PHPにちょっとでも興味がある方は大歓迎！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+LT参加枠でご応募ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://eiger.connpass.com/event/379288/</guid><enclosure url="https://media.connpass.com/thumbs/5f/a7/5fa7369b8365b8618954ef348b5a6990.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 20:13:53 +0900</pubDate></item><item><title>第50回関西PHP勉強会</title><link>https://phpkansai.connpass.com/event/379287/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月15日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月15日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: gusuku Ashibinaa OSAKA&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 グランフロント大阪タワーC16階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #phpkansai&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PHPにちょっとでも興味がある方は大歓迎！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;関西でPHPについて知見を共有する勉強会です！&lt;br&gt;
 初心者から上級者まで楽しめる会を目指しています。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;PHPに興味のある方ならどなたでも大歓迎✨&lt;br&gt;
@@ -1850,8 +2261,8 @@ Backlogを活用した効果的な仕事の進め方や、チームのコミュ�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:05-19:15&lt;/td&gt;
-&lt;td align="left"&gt;【KINTOテクノロジーズ登壇】&lt;br&gt; TBD クラウドインフラ関連の予定&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;【KINTOテクノロジーズ登壇】&lt;br&gt; EKS と OSS をフル活用した o11y 基盤の内製化事例の紹介（仮）&lt;/td&gt;
+&lt;td align="left"&gt;KINTOテクノロジーズ &lt;br&gt; 林田洋平&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:15-19:25&lt;/td&gt;
@@ -1865,8 +2276,8 @@ Backlogを活用した効果的な仕事の進め方や、チームのコミュ�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:35-19:45&lt;/td&gt;
-&lt;td align="left"&gt;【ゲストスピーカ様 登壇予定】&lt;br&gt; TBD&lt;/td&gt;
-&lt;td align="left"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;【AWS Cloud Support Engineer 様 登壇】&lt;br&gt; AWS環境を守る技術 ～サポート現場から見たセキュリティ"あるある"と対策～(仮)&lt;/td&gt;
+&lt;td align="left"&gt;AWS Cloud Support Engineer 串上 俊 様&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;19:45-19:55&lt;/td&gt;
@@ -1901,9 +2312,8 @@ Backlogを活用した効果的な仕事の進め方や、チームのコミュ�
 &lt;p&gt;当イベントでは、参加者の氏名やメールアドレスなどの個人情報を収集する場合があります。 また、アンケートフォーム等にてご入力いただいた情報は、本共催イベントの各社が取得及び管理します。 収集した個人情報について、以下の利用目的の範囲内において利用いたします。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;勉強会の申し込み者の入館時のご本人確認&lt;/li&gt;
-&lt;li&gt;セミナー、イベント等に関する情報提供のため&lt;/li&gt;
-&lt;li&gt;採用に関する情報提供のため&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/378950/</guid><enclosure url="https://media.connpass.com/thumbs/f3/a5/f3a54199845a050a2cda6b42dda9aa18.png" length="0" type="image/png"/><pubDate>Fri, 26 Dec 2025 15:12:35 +0900</pubDate></item><item><title>【大阪】KANSAI AI PUB（関西×人工知能×場）2026/01/14 #AIMTG</title><link>https://deep-learning-osaka.connpass.com/event/378940/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月14日(水) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月14日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: GPT-5.6 Room&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区本庄東1-18-8&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #KansaiAIPub&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい&lt;/p&gt;&lt;div&gt;&lt;h1&gt;毎月第2水曜日20時〜開催！&lt;/h1&gt;
+&lt;li&gt;KINTOテクノロジーズ主催のイベント等に関する情報提供のため&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/378950/</guid><enclosure url="https://media.connpass.com/thumbs/f3/a5/f3a54199845a050a2cda6b42dda9aa18.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 19:35:32 +0900</pubDate></item><item><title>【大阪】KANSAI AI PUB（関西×人工知能×場）2026/01/14 #AIMTG</title><link>https://deep-learning-osaka.connpass.com/event/378940/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月14日(水) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月14日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: GPT-5.6 Room&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区本庄東1-18-8&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #KansaiAIPub&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい&lt;/p&gt;&lt;div&gt;&lt;h1&gt;毎月第2水曜日20時〜開催！&lt;/h1&gt;
 &lt;p align="center"&gt;
 
 &lt;img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F85299379-9d1e-4d26-90e6-9a23c67123d1%2FIMG_6594.heic?id=b157c61a-5f7c-4c02-ad80-7bc8fffc4f9c&amp;amp;table=block&amp;amp;spaceId=a4346e3f-175a-43cf-adce-004cc73ed9f7" width="70%"&gt;
@@ -3432,8 +3842,13 @@ connpassからお申込みください！　お支払いは当日イベント会
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;お問い合わせは、connpassの「イベント管理者への問い合わせ」からお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgosaka.connpass.com/event/377408/</guid><enclosure url="https://media.connpass.com/thumbs/2f/18/2f180680989729c4d6d6fa104a5c7f0e.png" length="0" type="image/png"/><pubDate>Fri, 05 Dec 2025 08:53:35 +0900</pubDate></item><item><title>【MixLeapコラボ】ココカラ勉強会 2026年 関西コミュニティ新年会</title><link>https://kokokara.connpass.com/event/377292/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月15日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月15日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: LINEヤフー株式会社 大阪グランフロントオフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町4-20 グランフロント大阪 タワーA 37階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ココカラ勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;あけましておめでとうございます！2026年もよろしくお願いします&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;h3&gt;登壇内容&lt;/h3&gt;
 &lt;p&gt;今回は、LINEヤフー様の大阪オフィスにて&lt;a href="https://lycorp-osaka-jp.connpass.com/" rel="nofollow"&gt;Mix Leap&lt;/a&gt;との共催で関西で活動している6コミュニティをお呼びし新年会を開催します。
 「なぜコミュニティ活動をしているのか」、「コミュニティが目指す所」、「コミュニティをやってよかったこと」などのLTをしていただきます。&lt;/p&gt;
+&lt;h3&gt;コミュニティジャンクション&lt;/h3&gt;
+&lt;p&gt;会場内には、各コミュニティの活動を紹介できるホワイトボードとテーブルをご用意しています。&lt;br&gt;
+ノベルティやチラシの設置はもちろん、ホワイトボードにコミュニティ名や活動内容、開催予定イベントなどを書いていただき、&lt;br&gt;
+他コミュニティとの交流や新しい参加者との出会いのきっかけづくりの場として、ぜひ積極的にご活用ください。&lt;/p&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;h3&gt;日時&lt;/h3&gt;
 &lt;p&gt;2026/01/15 (木) 18:30 ~ 21:30&lt;/p&gt;
@@ -3554,7 +3969,7 @@ LINEヤフー株式会社 大阪グランフロントオフィス&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;#ココカラ勉強会&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;#mixleap&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;気になったことや感想をぜひつぶやいてください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kokokara.connpass.com/event/377292/</guid><enclosure url="https://media.connpass.com/thumbs/8d/f0/8df0ed123567d5c67a2b2202a3659327.png" length="0" type="image/png"/><pubDate>Thu, 18 Dec 2025 09:48:35 +0900</pubDate></item><item><title>第12回AI勉強会「スナックAI」（大阪開催）</title><link>https://kansai-ai-co.connpass.com/event/377190/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月27日(火) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月27日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: ワーキングスペースROUGHLABOTECH扇町&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区末広町3-21(扇町センタービル707)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
+&lt;p&gt;気になったことや感想をぜひつぶやいてください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kokokara.connpass.com/event/377292/</guid><enclosure url="https://media.connpass.com/thumbs/8d/f0/8df0ed123567d5c67a2b2202a3659327.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 15:39:51 +0900</pubDate></item><item><title>第12回AI勉強会「スナックAI」（大阪開催）</title><link>https://kansai-ai-co.connpass.com/event/377190/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月27日(火) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月27日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: ワーキングスペースROUGHLABOTECH扇町&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区末広町3-21(扇町センタービル707)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
 &lt;p&gt;生成AIを使えば業務効率やアイデア創出のスピードは驚くほど加速します。
 それでも「みんなどう使ってるの？」「うちでどう使えばいいの？」「専門用語が難しくて…」と足踏みしている方は少なくありません。
 そこで誕生したのが、肩書も年齢も関係なく“スナック感覚”で集まれるゆるい勉強会 「スナックAI」です。&lt;/p&gt;
@@ -3688,7 +4103,7 @@ LINEヤフー株式会社 大阪グランフロントオフィス&lt;/p&gt;
 &lt;li&gt;参加者への不快な声かけやナンパ行為&lt;/li&gt;
 &lt;li&gt;ハラスメントにつながる行為全般&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;会場内で問題が確認された場合、主催側の判断でご退出いただく場合があります。 安心して参加できる場づくりにご協力ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://oue-meetup.connpass.com/event/377093/</guid><enclosure url="https://media.connpass.com/thumbs/97/06/97062d0592947737d14b6ae6d87e1d01.png" length="0" type="image/png"/><pubDate>Thu, 25 Dec 2025 16:31:25 +0900</pubDate></item><item><title>Keyboard Meetup Osaka #1</title><link>https://keyboard-meetup-osaka.connpass.com/event/376952/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月31日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: アールスリーインスティテュート（gusuku Ashibinaa OSAKA）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 グランフロント大阪 タワーC 16階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;会場内で問題が確認された場合、主催側の判断でご退出いただく場合があります。 安心して参加できる場づくりにご協力ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://oue-meetup.connpass.com/event/377093/</guid><enclosure url="https://media.connpass.com/thumbs/97/06/97062d0592947737d14b6ae6d87e1d01.png" length="0" type="image/png"/><pubDate>Mon, 05 Jan 2026 19:21:48 +0900</pubDate></item><item><title>Keyboard Meetup Osaka #1</title><link>https://keyboard-meetup-osaka.connpass.com/event/376952/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月31日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: アールスリーインスティテュート（gusuku Ashibinaa OSAKA）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 グランフロント大阪 タワーC 16階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;こだわりのキーボード・入力デバイスを持ち寄り、わいわいするイベントです。&lt;/p&gt;
 &lt;p&gt;もちろん手ぶらで来て見学・交流だけでもOKです。&lt;/p&gt;
 &lt;h1&gt;日時&lt;/h1&gt;
