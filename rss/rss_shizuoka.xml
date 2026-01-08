@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 07 Jan 2026 15:16:40 +0000</lastBuildDate><item><title>JAWS-UG磐田 Amazon Bedrock AgentCore ワークショップ</title><link>https://jawsug-iwata.connpass.com/event/380153/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月14日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月14日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ワークピア磐田 第１会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県磐田市見付2989番地3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;基本から高度なエージェント開発まで&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Amazon Bedrock AgentCore ワークショップ : 基本から高度なエージェント開発まで&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 08 Jan 2026 15:17:55 +0000</lastBuildDate><item><title>JAWS-UG磐田 Amazon Bedrock AgentCore ワークショップ</title><link>https://jawsug-iwata.connpass.com/event/380153/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月14日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月14日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ワークピア磐田 第１会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県磐田市見付2989番地3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;基本から高度なエージェント開発まで&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Amazon Bedrock AgentCore ワークショップ : 基本から高度なエージェント開発まで&lt;/h1&gt;
 &lt;h2&gt;【Agenda】&lt;/h2&gt;
 &lt;p&gt;JAWS-UG磐田支部にて、Amazon Bedrock AgentCore ワークショップのハンズオンの勉強会を開催いたします。&lt;/p&gt;
 
@@ -568,17 +568,28 @@ GROW STOCKさんにて開催します。&lt;/p&gt;
 &lt;p&gt;イベント詳細についてはこちらの公式のインフォメーションからご確認ください。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://shizuoka.pycon.jp/2026/info" rel="nofollow"&gt;https://shizuoka.pycon.jp/2026/info&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;※なお本イベントのオンライン配信は今回はございません。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;キーノートセッション&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ゲストによるキーノートが行われます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;トークセッション&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;キーノートセッション&lt;/h3&gt;
+&lt;p&gt;Atsushi Odagiri 様によるキーノートを行います。&lt;br&gt;
+&lt;img src="https://shizuoka.pycon.jp/_nuxt/img/aodag.c1215fa.jpg" width="250"&gt;&lt;/p&gt;
+&lt;h4&gt;Atsushi Odagiri(aodag)&lt;/h4&gt;
+&lt;p&gt;Python使って四半世紀弱、もはや手足がPython。
+株式会社オープンコレクター所属。
+大学時代にHow To Become A HackerをきっかけにPythonを使い始め、それがオープンソース等のコミュニティー活動を始めるきっかけとなった。
+名古屋で働きながらコミュニティ活動後、2010年に転職とともに東京に移動。
+株式会社ビープラウドを経て2016年株式会社オープンコレクターに転職。
+さわやかもいいけど久しぶりに五味八珍で餃子食べたい。&lt;/p&gt;
+&lt;p&gt;著書／訳書：
+『パーフェクトPython［改訂2版］（2020 技術評論社）』&lt;/p&gt;
+&lt;h3&gt;トークセッション&lt;/h3&gt;
 &lt;p&gt;8つの30分トークを2トラック構成で行います。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;出展者トークセッション&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;出展者トークセッション&lt;/h3&gt;
 &lt;p&gt;ブース出展者によるトークおよびブース紹介を行います。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;LT（ライトニングトーク）&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;LT（ライトニングトーク）&lt;/h2&gt;
 &lt;p&gt;5分ショートトーク。当日に募集を行います。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公式パーティー&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;公式パーティー&lt;/h2&gt;
 &lt;p&gt;カンファレンス開催後に交流を深められる様な懇親会を開催します。&lt;br&gt;
-会場はコ・クリエーションスペースを予定しています。&lt;/p&gt;
+会場はコ・クリエーションスペースを予定しています。&lt;br&gt;
+（別途connpassイベントを公開予定です）&lt;/p&gt;
 &lt;h1&gt;そのほかの案内&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;当日は体調がすぐれない場合は、無理をせずにご参加をお控えください。&lt;/li&gt;
@@ -595,4 +606,4 @@ GROW STOCKさんにて開催します。&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h1&gt;PyCon mini Shizuokaとは？&lt;/h1&gt;
 &lt;p&gt;静岡のPythonコミュニティが立ち上げた地域のPythonカンファレンスです。静岡のPythonistaが集まれるコミュニティを目指して活動しています。&lt;/p&gt;
-&lt;p&gt;静岡県西部方面の&lt;a href="https://unagi-py.connpass.com" rel="nofollow"&gt;Unagi.py&lt;/a&gt;、静岡県中部方面の&lt;a href="https://py-suruga.connpass.com" rel="nofollow"&gt;Python駿河&lt;/a&gt;、静岡県東部方面のshizuoka.pyの参加者/スタッフ、静岡にゆかりのある他地域の方がメインスタッフとして参加しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pycon-shizu.connpass.com/event/372943/</guid><enclosure url="https://media.connpass.com/thumbs/df/e2/dfe29b38743dc9ed293e449a9e10e0f7.png" length="0" type="image/png"/><pubDate>Tue, 04 Nov 2025 12:19:25 +0900</pubDate></item></channel></rss>
+&lt;p&gt;静岡県西部方面の&lt;a href="https://unagi-py.connpass.com" rel="nofollow"&gt;Unagi.py&lt;/a&gt;、静岡県中部方面の&lt;a href="https://py-suruga.connpass.com" rel="nofollow"&gt;Python駿河&lt;/a&gt;、静岡県東部方面のshizuoka.pyの参加者/スタッフ、静岡にゆかりのある他地域の方がメインスタッフとして参加しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pycon-shizu.connpass.com/event/372943/</guid><enclosure url="https://media.connpass.com/thumbs/df/e2/dfe29b38743dc9ed293e449a9e10e0f7.png" length="0" type="image/png"/><pubDate>Thu, 08 Jan 2026 21:31:31 +0900</pubDate></item></channel></rss>
