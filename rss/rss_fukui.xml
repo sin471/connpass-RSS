@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 12 Jan 2026 15:18:19 +0000</lastBuildDate><item><title>Fukui Tech LT #1</title><link>https://connpass.com/event/376396/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月20日(金) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Agile Studio Park FUKUI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央1丁目3番5号 FUKUMACHI BLOCK Office 8階 804&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 13 Jan 2026 15:17:09 +0000</lastBuildDate><item><title>Fukui Tech LT #1</title><link>https://connpass.com/event/376396/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月20日(金) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Agile Studio Park FUKUI BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央1丁目3番5号 FUKUMACHI BLOCK Office 8階 804&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;福井県のソフトウェア開発に携わるエンジニア同士で
 &lt;strong&gt; ライトニングトーク(LT) &lt;/strong&gt; 形式の交流イベントを行います&lt;/p&gt;
 &lt;h1&gt;目的&lt;/h1&gt;
@@ -209,7 +209,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;16:30-16:40&lt;/td&gt;
-&lt;td align="left"&gt;LT：TBD&lt;/td&gt;
+&lt;td align="left"&gt;aws cli と soracom cli を Deno でうまくくっつけてIoT開発を楽にしたかった話&lt;/td&gt;
 &lt;td align="left"&gt;はるゆき&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -289,6 +289,13 @@ JAWS-UG新潟運営。新潟市在住。&lt;/p&gt;
 &lt;p&gt;福井リブートおめでとうございます。
 石川県在住のソフトウェアエンジニアです。AWSはペーパードライバーなのでお手柔らかにお願いします！&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3&gt;はるゆき&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;aws cli と soracom cli を Deno でうまくくっつけてIoT開発を楽にしたかった話&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/939275120643751936/x1Rj9sO5_400x400.jpg" width="300"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;県内のとあるIT企業でエンジニアをしているはるゆきです。
+個人開発でたまに遊んでたSORACOM + AWS IoTの開発の話と、Denoでcliをうまく組み合わせて効率化したかった話をします。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;ユニフォームネクスト株式会社　大道真弘&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;基幹システムAWS移行でDMSに泣いた話&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/9b/09/9b097f6111ad67654ea404b48a3258a8.png"&gt;&lt;/p&gt;
@@ -302,7 +309,7 @@ JAWS-UG新潟運営。新潟市在住。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://esm.co.jp/" rel="nofollow"&gt;https://esm.co.jp/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://esm.co.jp/" rel="nofollow"&gt;&lt;img src="https://img.yatte-mi.net/jawsug_fukui/img_sponsor/esm_AgileStudio_logo_v5.png" width="300"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;■ ドリンクスポンサー：株式会社 &lt;a href="http://jig.jp" rel="nofollow"&gt;jig.jp&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;参加者への飲み物の提供&lt;/p&gt;
+&lt;p&gt;参加者への飲み物の提供　：　おいしいホットコーヒーをご用意いただけます☕&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.jig.jp/" rel="nofollow"&gt;https://www.jig.jp/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;■ スナックスポンサー：ユニフォームネクスト株式会社&lt;/h2&gt;
 &lt;p&gt;17:00～交流＆情報交換会のお菓子の提供&lt;/p&gt;
@@ -318,4 +325,4 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 &lt;p&gt;あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。
 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。
-AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/375652/</guid><enclosure url="https://media.connpass.com/thumbs/ba/8b/ba8b8036070abe1a4a70bbce14c5b757.png" length="0" type="image/png"/><pubDate>Mon, 12 Jan 2026 20:24:51 +0900</pubDate></item></channel></rss>
+AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/375652/</guid><enclosure url="https://media.connpass.com/thumbs/ba/8b/ba8b8036070abe1a4a70bbce14c5b757.png" length="0" type="image/png"/><pubDate>Tue, 13 Jan 2026 20:49:17 +0900</pubDate></item></channel></rss>
