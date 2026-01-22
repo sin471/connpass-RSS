@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 21 Jan 2026 15:22:29 +0000</lastBuildDate><item><title>SEB SUMMIT</title><link>https://seb-sapporo.connpass.com/event/382078/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月22日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月22日(日) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: EZOHUB SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市東区北８条東４丁目１−２０&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ITでつながる、札幌。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 22 Jan 2026 15:21:30 +0000</lastBuildDate><item><title>CoderDojo Hokkaido LT &amp; 作品発表会</title><link>https://coderdojo-ebetsu.connpass.com/event/382354/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～作品の発表、展示、ライトニングトーク(LT)を行います、みんなで自慢や自己主張をしよう！～&lt;/p&gt;</description><guid isPermaLink="false">https://coderdojo-ebetsu.connpass.com/event/382354/</guid><pubDate>Thu, 22 Jan 2026 20:15:45 +0900</pubDate></item><item><title>第４７回 CoderDojo江別</title><link>https://coderdojo-ebetsu.connpass.com/event/382353/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;スクラッチやマイクラなどで、大人も一緒に遊んでみよう。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo江別では&lt;/h1&gt;
+&lt;p&gt;楽しく、のんびりと、想像力を膨らませましょう。自分の作品を発表しましょう。
+スクラッチで自分の考えた「何か？」を描いてみましょう。
+不明点がありましたらお問い合わせくださいご説明いたします。&lt;/p&gt;
+&lt;h2&gt;今回のDOJOは&lt;/h2&gt;
+&lt;p&gt;基本的に自由にプログラミングやゲーム、デジタルコンテンツの作成など行います。&lt;br&gt;
+しかし、今回は&lt;strong&gt;マイクラをマルチプレーヤー(3人以上)で遊びたい&lt;/strong&gt;と思っております。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【保護者の皆さんへ】&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;「PCなど持っていない」、「使えるPCがない」などありましたら、ぜひ、ご相談ください。
+古いPCなどを再利用する方法を知っております。そこらへんの情報を共有できます。
+そして、レンタル用のPCを3台ほど持っております。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://coderdojo.jp/kata#learn" rel="nofollow"&gt;スクラッチの参考資料&lt;/a&gt;をダウンロードできます。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;古いPCなどありましたら、それを持参ください。
+  そのPCを「Linux」という無料のOSで&lt;a href="https://youtu.be/iR3TTHHmj1U" rel="nofollow"&gt;再度使えるようにできます&lt;/a&gt;。
+  ただし、そのPCのデータなど保存していたものが全て消えてしまうので、データの退避などしておいてください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coder Dojoの「&lt;a href="https://coderdojo.jp/kata" rel="nofollow"&gt;Kata&lt;/a&gt;」がありますので、参考になるドキュメント(資料)をやってみるのも一つです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「Greenfoot」などやってみませんか？Javaというマインクラフトを作っているプログラミング言語です。「&lt;a href="https://www.greenfoot.org/scenarios/" rel="nofollow"&gt;人の作品を見てみよう&lt;/a&gt;」で作品が見れます。そして、使用している言語がJavaになります&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;１８歳以上のみなさんへ&lt;/h3&gt;
+&lt;p&gt;メンター(ボランティア)を募集しています。
+是非ご参加ください。プログラミング好きな大人がいますので、見分を広げる機会にできると思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-ebetsu.connpass.com/event/382353/</guid><enclosure url="https://media.connpass.com/thumbs/a8/f4/a8f4dbdfbfa27aee3cf0bb522b83e03c.png" length="0" type="image/png"/><pubDate>Thu, 22 Jan 2026 19:45:39 +0900</pubDate></item><item><title>SEB SUMMIT</title><link>https://seb-sapporo.connpass.com/event/382078/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月22日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月22日(日) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: EZOHUB SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市東区北８条東４丁目１−２０&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ITでつながる、札幌。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;SEB SUMMITは「ITでつながる、札幌。」をテーマに、札幌近郊のITエンジニアやITエンジニアを志望する学生、IT企業を対象としたミートアップイベントです。&lt;/p&gt;
 &lt;p&gt;IT企業やITエンジニアの動向のセッションと交流を目的とした懇親会を実施し、「ITエンジニアとして札幌で働くエンジニアと学生」や「市内IT企業とITエンジニア」の交流を通して札幌市内のIT業界が盛り上がることを目的としています。&lt;/p&gt;
 &lt;h1&gt;テーマ「ITでつながる、札幌。」について&lt;/h1&gt;
@@ -25,7 +56,8 @@
 &lt;strong&gt;開催時間&lt;/strong&gt;: 13:30 ~ 16:30&lt;br&gt;
 &lt;strong&gt;開催場所&lt;/strong&gt;: 亀田交流プラザ&lt;br&gt;
 &lt;strong&gt;参加費&lt;/strong&gt;: 無料&lt;br&gt;
-&lt;strong&gt;対象者&lt;/strong&gt;: どなたでも参加できます  &lt;/p&gt;
+&lt;strong&gt;対象者&lt;/strong&gt;: どなたでも参加できます&lt;br&gt;
+&lt;strong&gt;テーマ&lt;/strong&gt;: 自由&lt;/p&gt;
 &lt;h2&gt;備考&lt;/h2&gt;
 &lt;p&gt;申し込んでいなくても参加歓迎です。ただし登壇する場合は、飛び入り枠として全員の発表後に参加いただくこととなります。時間によっては、登壇に至らない可能性もあることをご理解ください。&lt;/p&gt;
 &lt;h2&gt;タイムテーブル&lt;/h2&gt;
@@ -65,7 +97,7 @@
 &lt;h2&gt;問い合わせ&lt;/h2&gt;
 &lt;p&gt;X (Twitter): &lt;a href="https://x.com/mariconf_fun" rel="nofollow"&gt;@mariconf_fun&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;学外の方で、過去にマリカンに関連するイベント (春LT、未来祭LT、市電等) に参加したことのない方は、事前の連絡をお願いしています。&lt;br&gt;
-上記の連絡先へDMにてご連絡下さい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mariconf.connpass.com/event/381926/</guid><enclosure url="https://media.connpass.com/thumbs/28/46/2846c300b718172ca3a24aa16fe9be10.png" length="0" type="image/png"/><pubDate>Mon, 19 Jan 2026 18:01:19 +0900</pubDate></item><item><title>FM-Hokkaido WinterMeeting2026</title><link>https://connpass.com/event/381867/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月31日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ちえりあ&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市西区宮の沢１条１丁目１−１０ 札幌市生涯学習総合センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Filemaker&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;北海道のFileMakerユーザーの為のオフラインミーティング&lt;/p&gt;&lt;div&gt;&lt;p&gt;開催日時
+上記の連絡先へDMにてご連絡下さい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mariconf.connpass.com/event/381926/</guid><enclosure url="https://media.connpass.com/thumbs/28/46/2846c300b718172ca3a24aa16fe9be10.png" length="0" type="image/png"/><pubDate>Thu, 22 Jan 2026 14:12:55 +0900</pubDate></item><item><title>FM-Hokkaido WinterMeeting2026</title><link>https://connpass.com/event/381867/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月31日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: ちえりあ&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市西区宮の沢１条１丁目１−１０ 札幌市生涯学習総合センター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Filemaker&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;北海道のFileMakerユーザーの為のオフラインミーティング&lt;/p&gt;&lt;div&gt;&lt;p&gt;開催日時
 　2026/01/31 （土）13:30〜
 開催場所
 　札幌市生涯学習施設　ちえりあ&lt;/p&gt;
@@ -194,7 +226,7 @@
 参加登録後に詳細を確認してください。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;問い合わせ&lt;/h2&gt;
-&lt;p&gt;hazime27.t@ &lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt; までご連絡いただければ，対応いたします&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://furait.connpass.com/event/381035/</guid><enclosure url="https://media.connpass.com/thumbs/e2/3d/e23d912d85316b571b32bd809332826c.png" length="0" type="image/png"/><pubDate>Fri, 09 Jan 2026 22:26:52 +0900</pubDate></item><item><title>DTM研究会</title><link>https://connpass.com/event/380659/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月21日(水) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年1月21日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 猿田彦珈琲 札幌&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西４丁目１ D-Lifeplace札幌&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/380659/</guid><enclosure url="https://media.connpass.com/thumbs/a9/eb/a9eb234bbe798fbea8b8b2f7622cd11f.png" length="0" type="image/png"/><pubDate>Tue, 06 Jan 2026 17:06:34 +0900</pubDate></item><item><title>第47回 JAWS-UG札幌 勉強会 コンテナ特集！</title><link>https://jawsug-sapporo.connpass.com/event/380166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月13日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月13日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: NECソリューションイノベータ株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北8条西3-28（札幌エルプラザ10階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS re:Invent 2025 re:Cap&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;hazime27.t@ &lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt; までご連絡いただければ，対応いたします&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://furait.connpass.com/event/381035/</guid><enclosure url="https://media.connpass.com/thumbs/e2/3d/e23d912d85316b571b32bd809332826c.png" length="0" type="image/png"/><pubDate>Fri, 09 Jan 2026 22:26:52 +0900</pubDate></item><item><title>第47回 JAWS-UG札幌 勉強会 コンテナ特集！</title><link>https://jawsug-sapporo.connpass.com/event/380166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月13日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月13日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: NECソリューションイノベータ株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北8条西3-28（札幌エルプラザ10階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS re:Invent 2025 re:Cap&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;AWSコンテナ設計・構築[本格]入門 増補改訂版 出版記念！
 著者で旭川出身のAWSコンテナヒーロー新井さんが北海道にやってくる！&lt;/p&gt;
 &lt;p&gt;コンテナ周りのお話をがっつり学びましょう！
@@ -1048,7 +1080,7 @@ LT登壇が初めての方もお気軽にご応募ください！
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;19:10&lt;/td&gt;
-&lt;td align="left"&gt;ゲストLT: 試されるDataOps!?~ここ４年間のデータ基盤の壁と乗り越え過程を北の大地で語る〜(みっつ)&lt;/td&gt;
+&lt;td align="left"&gt;ゲストLT: 試されるDataOps!?~ここ４年間のデータ基盤の軌跡と成長と壁を北の大地で語る〜(みっつ)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;19:30&lt;/td&gt;
@@ -1126,7 +1158,7 @@ AWS認定15冠、GoogleCloudはいま7冠&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;公序良俗の遵守&lt;/strong&gt;: すべての参加者は、公共の場にふさわしい行動を心がけてください。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;主催者の権限&lt;/strong&gt;: 参加者の行動が他者に不快感を与えると主催者が判断した場合、該当者は退室していただくことがあります。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;緊急連絡先&lt;/strong&gt;: イベント中に何か問題があった場合は、事前に提供される緊急連絡先へご連絡をお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tamesaredatahokkaido.connpass.com/event/376777/</guid><enclosure url="https://media.connpass.com/thumbs/0c/b1/0cb19dbceb98880e46a65a025e55ec01.png" length="0" type="image/png"/><pubDate>Wed, 21 Jan 2026 23:37:15 +0900</pubDate></item><item><title>OpenTelemetry Meetup 2026-02 in Sapporo</title><link>https://opentelemetry.connpass.com/event/376362/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月19日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #oteljp&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;6回目&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tamesaredatahokkaido.connpass.com/event/376777/</guid><enclosure url="https://media.connpass.com/thumbs/0c/b1/0cb19dbceb98880e46a65a025e55ec01.png" length="0" type="image/png"/><pubDate>Thu, 22 Jan 2026 10:21:52 +0900</pubDate></item><item><title>OpenTelemetry Meetup 2026-02 in Sapporo</title><link>https://opentelemetry.connpass.com/event/376362/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月19日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #oteljp&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;6回目&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;OpenTelemetry Meetupの第6回目です！今回はなんと初めて東京を飛び出して、札幌での開催です！&lt;/p&gt;
 &lt;p&gt;オブザーバビリティやOpenTelemetryに興味がある方やこのような方の参加を大歓迎します。&lt;/p&gt;
 &lt;ul&gt;
@@ -1556,7 +1588,7 @@ Terraformを使ったことはありますか？Terraform Providerを実装し�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;20:00 - 20:10&lt;/td&gt;
-&lt;td align="left"&gt;新しい Lambda の Media 活用&lt;/td&gt;
+&lt;td align="left"&gt;生成 AI の動画理解について改めて整理しよう&lt;/td&gt;
 &lt;td align="left"&gt;AWS 北村友&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1587,4 +1619,4 @@ Terraformを使ったことはありますか？Terraform Providerを実装し�
 &lt;h1&gt;ハッシュタグ&lt;/h1&gt;
 &lt;p&gt;当イベントは実況、拡散、大歓迎です！  &lt;/p&gt;
 &lt;p&gt;参加表明、当日の実況、参加レポートなどについては &lt;br&gt;
-JAWS-UGの "#jawsug", Media-JAWSの "#mediajaws" のハッシュタグをつけてぜひ拡散ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://media-jaws.connpass.com/event/367503/</guid><enclosure url="https://media.connpass.com/thumbs/3e/09/3e09fcec680e1188f175385342191477.png" length="0" type="image/png"/><pubDate>Wed, 21 Jan 2026 12:08:34 +0900</pubDate></item></channel></rss>
+JAWS-UGの "#jawsug", Media-JAWSの "#mediajaws" のハッシュタグをつけてぜひ拡散ください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://media-jaws.connpass.com/event/367503/</guid><enclosure url="https://media.connpass.com/thumbs/3e/09/3e09fcec680e1188f175385342191477.png" length="0" type="image/png"/><pubDate>Thu, 22 Jan 2026 12:34:05 +0900</pubDate></item></channel></rss>
