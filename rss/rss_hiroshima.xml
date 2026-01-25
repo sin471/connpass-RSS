@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 24 Jan 2026 15:13:59 +0000</lastBuildDate><item><title>Power Appsで市民開発したいけぇ#8</title><link>https://jpaug-hiroshima.connpass.com/event/382155/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月28日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月28日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: port-cloud&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区基町 5-44 広島商工会議所ビル 9階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;未来型事務職養成講座卒業生によるアプリ発表会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;① イベントの位置づけ&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 25 Jan 2026 15:14:01 +0000</lastBuildDate><item><title>Power Appsで市民開発したいけぇ#8</title><link>https://jpaug-hiroshima.connpass.com/event/382155/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月28日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月28日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: port-cloud&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区基町 5-44 広島商工会議所ビル 9階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;未来型事務職養成講座卒業生によるアプリ発表会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;① イベントの位置づけ&lt;/h1&gt;
 &lt;h2&gt;①-1. 成果発表 × コミュニティ・ミートアップ&lt;/h2&gt;
 &lt;p&gt;本イベントは、&lt;br&gt;
 &lt;strong&gt;広島県事業「未来型事務職養成講座」応用・演習講座の成果発表&lt;/strong&gt;を起点にした、&lt;br&gt;
@@ -1578,7 +1578,7 @@ AWS Ambassador / AWS Community HERO&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;🕹️ 開発開始からゲームの完成までは、&lt;font size="3"&gt;たったの48時間。&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;💡 &lt;font size="3"&gt;たまたま集まった仲間&lt;/font&gt;と、ゲームを面白くするアイデアを出し合って…。&lt;/li&gt;
-&lt;li&gt;🌍 &lt;font size="3"&gt;世界97か国のゲーム制作者&lt;/font&gt;と、同じ週で1万本を超えるゲーム作る…！
+&lt;li&gt;🌍 &lt;font size="3"&gt;世界92か国のゲーム制作者&lt;/font&gt;と、同じ週で1万本を超えるゲーム作る…！
 　   &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;font size="5"&gt;「一年に一回。ちょっとゲームを作る」&lt;/font&gt;   &lt;/p&gt;
@@ -1742,12 +1742,35 @@ AWS Ambassador / AWS Community HERO&lt;/p&gt;
 &lt;p&gt;なおペラコンなんて作ったことないよ…？という方は、岡山Unity勉強会の wanwanwanさんの&lt;a href="https://www.youtube.com/watch?v=TFC-cMqAY5A" rel="nofollow"&gt;ゲームジャム高梁に向けてペラコンを作ろう!2023&lt;/a&gt;の動画をご覧ください。 　&lt;/p&gt;
 &lt;h2&gt;🛠️ 利用するゲーム制作ツール・工具・材料について&lt;/h2&gt;
 &lt;h3&gt;👾 デジタルゲームを作成する予定の方&lt;/h3&gt;
-&lt;p&gt;円滑なゲーム制作を行うため、指定するゲームエンジンのバージョンのご利用をお願いいたします。&lt;br&gt;
-特にプログラマーの方は、主にお使いのゲームエンジンの以下のバージョンを事前にインストールしておいてください。&lt;br&gt;
-※開催の一週間前にご連絡します！&lt;/p&gt;
-
-
-&lt;p&gt;なお最新の機能が必要な場合などはこの限りではありません。チーム内で相談した上で利用バージョンの選定をお願いします。&lt;/p&gt;
+&lt;p&gt;本イベントでは、使用するゲームエンジン（Unity、UE、Godotなど）の &lt;strong&gt; 開発推奨バージョン &lt;/strong&gt; を運営側で指定いたします。&lt;br&gt;
+特にプログラマの方は、 &lt;strong&gt; ゲームジャムで利用する予定のゲームエンジンの以下バージョンのインストール&lt;/strong&gt; を事前にお願いします。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;ツール&lt;/th&gt;
+&lt;th&gt;推奨バージョン&lt;/th&gt;
+&lt;th&gt;特記事項&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Unity&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://unity.com/ja/releases/unity-6/support#unity6-latest" rel="nofollow"&gt;Unity 6(6000).3.5f1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://earth-shop.net/install-webgl-build-support/" rel="nofollow"&gt;Web Build Supportのインストールも推奨します&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unreal Engine&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.unrealengine.com/ja/unreal-engine-5" rel="nofollow"&gt;Unreal Engine 5.7.2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://forums.unrealengine.com/t/unreal-engine5-pc/2600261" rel="nofollow"&gt;軽量モードでの開発もご検討ください&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Godot Engine&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://godotengine.org" rel="nofollow"&gt;Godot Engine 4.5.1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;通常版(.NET版でないもの)をご利用ください&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;なお必要な場合はチーム内で話し合って、別のバージョンやその他のゲーム開発ライブラリを使っていただいても大丈夫です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;VR/AR/MRデバイス、ジョイパッド、自作電子工作デバイスなどを持参しての参加も大歓迎です。&lt;/li&gt;
 &lt;/ul&gt;
@@ -1973,4 +1996,4 @@ Grayちゃん と ユニティちゃん、そしてGodotちゃんと一緒にゲ
 &lt;p&gt;&lt;a href="https://globalgamejam.org/" rel="nofollow"&gt;Global Game Jam, Inc.&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;瀬戸内会場 in 広島 運営代表&lt;/h3&gt;
 &lt;p&gt;三島冠太 (広島Unity勉強会)&lt;br&gt;
-Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/0c/41/0c411620491ad1a4e9e636746a785035.png" length="0" type="image/png"/><pubDate>Thu, 22 Jan 2026 23:55:32 +0900</pubDate></item></channel></rss>
+Email: mishimakantai@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/373294/</guid><enclosure url="https://media.connpass.com/thumbs/0c/41/0c411620491ad1a4e9e636746a785035.png" length="0" type="image/png"/><pubDate>Sun, 25 Jan 2026 14:00:28 +0900</pubDate></item></channel></rss>
