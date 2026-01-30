@@ -1,5 +1,263 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 29 Jan 2026 15:27:54 +0000</lastBuildDate><item><title>もくもく会@大名古屋ビルディング【景観最高】</title><link>https://nagoya-se.connpass.com/event/383048/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 大名古屋ビルディング11F&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中村区名駅3丁目28−12&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名駅から歩いて5分のところで勉強会を開いています!&lt;/p&gt;&lt;div&gt;&lt;h5&gt;【過去の参加者】&lt;br&gt;&lt;/h5&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 30 Jan 2026 15:26:41 +0000</lastBuildDate><item><title>製造業でも生成AI活用したい！名古屋LLM MeetUp#11</title><link>https://kinto-technologies.connpass.com/event/383174/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月19日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月19日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: なごのキャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区那古野２丁目１４−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #名古屋LLMMeetUp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
+&lt;b&gt;実はもうすぐ2周年！春を待つLT祭りです🌸&lt;/b&gt;&lt;br&gt;
+★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;/p&gt;
+&lt;h1&gt;🔰 はじめに&lt;/h1&gt;
+&lt;h3&gt;「生成AIを業務に活用したい」を応援するMeetUp&lt;/h3&gt;
+&lt;p&gt;製造業が盛んな東海地方では、独特の業務環境の中で、生成AIの導入や活用に挑戦している方が数多くいます。&lt;br&gt;
+名古屋LLM MeetUpは、そんなチャレンジの成功事例や失敗から得た学びを共有し合い、自社での生成AI活用を一歩前に進めるためのコミュニティです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「東海地方／製造業」という名前がついていますが、地域・業種問わず大歓迎です！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;参加にあたって&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;画像生成が可能なAIツールは、参加者ご自身でご用意ください&lt;/li&gt;
+&lt;li&gt;ツールの用意が難しい方は、当日グループメンバーと協力して作成できます&lt;/li&gt;
+&lt;li&gt;画像生成AIを初めて使う方も大歓迎です！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🎯 こんな方におすすめ！&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;生成AI活用の成功体験や失敗談をみんなとシェアしたい方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成AIの未来や可能性について語り合いたい方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;他社がどのように生成AIを活用しているのか気になる方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自分の業務を生成AIでもっと効率化したいと考えている方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成AI活用を推進する立場の方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「とにかく生成AIを使って何かしろ」と指示を受けた担当者の方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;業務でもっと生成AIを活かしたいエンジニアの方&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成AIの話題にとにかく興味がある方&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;生成AIに興味のある方なら、どなたでもお気軽にご参加ください！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;&lt;strong&gt;🕑タイムテーブル &lt;/strong&gt;&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;時間　&lt;/th&gt;
+&lt;th align="left"&gt;タイトル　&lt;/th&gt;
+&lt;th align="left"&gt;スピーカー（敬称略）　&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;18:30-19:00&lt;/td&gt;
+&lt;td align="left"&gt;開場・受付&lt;/td&gt;
+&lt;td align="left"&gt;－&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:00-19:10&lt;/td&gt;
+&lt;td align="left"&gt;オープニング+アイスブレーク&lt;/td&gt;
+&lt;td align="left"&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:10-19:20&lt;/td&gt;
+&lt;td align="left"&gt;LT①&lt;br&gt;&lt;strong&gt;AIエージェントによるレガシーシステムの技術継承&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="left"&gt;阪 和幸（株式会社ジーニーズ）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:20-19:30&lt;/td&gt;
+&lt;td align="left"&gt;LT②&lt;br&gt;&lt;strong&gt;AIが作ったデータは誰のものでもない&lt;/strong&gt;&lt;/td&gt;
+&lt;td align="left"&gt;山崎 凌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:30-19:40&lt;/td&gt;
+&lt;td align="left"&gt;休憩&lt;/td&gt;
+&lt;td align="left"&gt;－&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;19:40-20:20&lt;/td&gt;
+&lt;td align="left"&gt;第10回記念企画&lt;br&gt;画像生成AIでイベントロゴを作ろう&lt;/td&gt;
+&lt;td align="left"&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:20-20:30&lt;/td&gt;
+&lt;td align="left"&gt;スポンサー企業紹介&lt;/td&gt;
+&lt;td align="left"&gt;KDDI株式会社, KINTOテクノロジーズ株式会社&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:30-20:35&lt;/td&gt;
+&lt;td align="left"&gt;中締め&lt;/td&gt;
+&lt;td align="left"&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;20:35-21:30&lt;/td&gt;
+&lt;td align="left"&gt;懇親会 &amp;amp; 飛び込みLT&lt;/td&gt;
+&lt;td align="left"&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;21:30&lt;/td&gt;
+&lt;td align="left"&gt;終了&lt;/td&gt;
+&lt;td align="left"&gt;－&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;&lt;strong&gt;📝運営メンバー紹介&lt;/strong&gt;&lt;/h1&gt;
+&lt;h3&gt;和田 颯馬 &lt;a href="https://twitter.com/cognac_n/" rel="nofollow"&gt;@cognac_n&lt;/a&gt; / 矢島 卓 &lt;a href="https://twitter.com/quindim" rel="nofollow"&gt;@quindim&lt;/a&gt; / 及川 竜也&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/7d8d26c139522e6e334b6ca8304540bf.jpg" width="100"&gt;　&lt;img src="https://i.gyazo.com/baa79ce447be0b7540400483e51588cc.png" width="100"&gt;　&lt;img src="https://i.gyazo.com/c78a9125de1285a40c29ce20e42faad7.png" width="100"&gt;&lt;/p&gt;
+&lt;h3&gt;高垣 湧成 / 福田 大悟 / 御田 稔 &lt;a href="https://twitter.com/minorun365" rel="nofollow"&gt;@minorun365&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/a4be2185451c7d1e8722e366f661a710.jpg" width="100"&gt;　&lt;img src="https://i.gyazo.com/d5467ee502a331067cafcd7d44fd7a09.png" width="100"&gt;　&lt;img src="https://i.gyazo.com/81f851a7eb42c89fa8e76534bce790ce.jpg" width="100"&gt;&lt;/p&gt;
+&lt;h3&gt;古林 信吾 / どのりー / 斎賀 大輔 /&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/685abed4f83e159d5b072fe191e2e64f.png" width="100"&gt;　&lt;img height="100" src="https://i.gyazo.com/481c33c743ef3f6e80355f69c6e10a73.jpg"&gt;　&lt;img height="100" src='https://i.gyazo.com/18afaf7533147a02f1f66f947d919e22.png"'&gt;　&lt;/p&gt;
+&lt;h3&gt;髙谷 憲司 / 池田新二&lt;/h3&gt;
+&lt;p&gt;&lt;img height="100" src='https://i.gyazo.com/51f0041bd7f98039f8b5297b8018100c.png"'&gt;
+&lt;img src="https://i.gyazo.com/46cd2c590735c1a25c13d1ae1a2311c5.jpg" width="100"&gt;&lt;/p&gt;
+&lt;h3&gt;運営参加希望者、募集中！&lt;/h3&gt;
+&lt;h1&gt;⚠️ 注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;当イベントへの参加申し込みをもって、注意事項に同意したものとみなします。&lt;/li&gt;
+&lt;li&gt;イベント会場へは応募した本人だけが入場できます。&lt;/li&gt;
+&lt;li&gt;交通費は自己負担です。&lt;/li&gt;
+&lt;li&gt;当イベントの風景は撮影します。イベント風景、発言内容などは記事や投稿に使用する予定です。ご参加頂く方は写真撮影等に映り込む可能性がありますのでご了承ください。また、イベントにおいて記録された発言内容について、参加者は著作者人格権を行使しないものとします。&lt;/li&gt;
+&lt;li&gt;参加者による写真やビデオ撮影、録音は原則禁止です。&lt;/li&gt;
+&lt;li&gt;事故・盗難・怪我・参加者間のトラブルに我々は責任を負いません。&lt;/li&gt;
+&lt;li&gt;進行を妨げる方には退出いただく場合がございます。&lt;/li&gt;
+&lt;li&gt;勧誘行為を禁止します。飲食や勧誘などを主目的とした参加は固くお断りします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;ℹ️ 個人情報の取り扱いについて&lt;/h1&gt;
+&lt;p&gt;当イベントでは、参加者の氏名やメールアドレスなどの個人情報を収集する場合があります。 また、アンケートフォーム等にてご入力いただいた個人情報は、以下の目的においてのみ利用いたします。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コミュニティ開催会場の入館申請手続き&lt;/li&gt;
+&lt;li&gt;勉強会の申し込み者の入館時のご本人確認&lt;/li&gt;
+&lt;li&gt;セミナー、イベント等に関する情報提供&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/383174/</guid><enclosure url="https://media.connpass.com/thumbs/d2/e4/d2e4a4f06ed51aa6e58c375401159894.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 19:39:42 +0900</pubDate></item><item><title>kintone Night Nagoya vol.32</title><link>https://knn.connpass.com/event/383173/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月27日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月27日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintoneNightNagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テーマは今後お知らせします！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Night Nagoya！&lt;/h1&gt;
+&lt;p&gt;サイボウズ 名古屋オフィス主催 定例イベント　"kintone Night Nagoya"　です。&lt;br&gt;
+kintoneやサイボウズを感じるプチイベントを毎月定期的に開催します。お気軽にご参加ください。&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;第32回 ：テーマ未定&lt;br&gt;&lt;/h1&gt;
+&lt;p&gt;内容はただいま検討中です。お楽しみに！&lt;/p&gt;
+&lt;h1&gt;場所&lt;/h1&gt;
+&lt;p&gt;愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;br&gt;
+サイボウズ 名古屋オフィス&lt;br&gt;
+&lt;a href="https://cybozu.co.jp/company/access/nagoya/" rel="nofollow"&gt;https://cybozu.co.jp/company/access/nagoya/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;いつでも自由に12階のオフィスまで上がってきていただけます！出入り自由。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;地下：栄駅13番出口横の中日ビル入口より入っていただけます&lt;br&gt;
+地上：栄駅12番出口&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;
+18:00：開場&lt;br&gt;
+&lt;br&gt;
+18:30-20:30　本編&lt;br&gt;
+&lt;br&gt;
+21:00〜：懇親会(任意)&lt;br&gt;
+&lt;br&gt;
+※内容調整の上、コンテンツは更新いたします。&lt;/p&gt;
+&lt;h1&gt;LT/告知の飛び込み歓迎です&lt;/h1&gt;
+&lt;p&gt;参加種別に「LT/PR枠」を追加してあります。&lt;/p&gt;
+&lt;p&gt;基本的に広めのkintoneに関連する話題であれば内容はなんでもOKです。&lt;br&gt;
+お申込み後、 nagoya@cybozu.co.jp まで一報ください。&lt;br&gt;
+一緒に内容を相談の上、タイムスケジュールに組み込みます。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;尚、当日のタイムテーブルは変更なく修正される場合がございます。
+ご了承下さい。&lt;/p&gt;
+&lt;h1&gt;ご案内&lt;/h1&gt;
+&lt;p&gt;本イベントは無償です。&lt;br&gt;
+学生さん、初心者さん、一見さん、大歓迎です！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://knn.connpass.com/event/383173/</guid><enclosure url="https://media.connpass.com/thumbs/7b/f7/7bf74909295a2cb25c8ba58bc0a06b68.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 20:44:22 +0900</pubDate></item><item><title>トウカイリサーチ UXリサーチ体験会 vol.2</title><link>https://tokai-research.connpass.com/event/383077/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月6日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月6日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社エスケイワード 本社&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市東区泉１丁目２１−２７(泉ファーストスクエア９階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #トウカイリサーチ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;とあるお題に対してインタビューを体験しよう！！！&lt;/p&gt;&lt;div&gt;
+
+&lt;h1 style="font-size: 2rem; font-weight: 700; padding: .5em .8em; background-color: #2045a6; color: white; text-align: center;"&gt;
+    インタビュー体験会 vol.2
+&lt;/h1&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;トウカイリサーチについて&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;
+トウカイリサーチは東海地方でUXデザイン・UXリサーチ・PDMに関する人に会えるリサーチコミュニティです。&lt;br&gt;
+UXデザイン・UXリサーチ・PDMには悩みが生まれやすい傾向にあります。&lt;br&gt;
+初めの一歩を踏み出すスタートの仕方、その後の学び方、周囲への浸透...&lt;br&gt;
+その中で東海地方で同じ悩みを抱えている人と会い、社外の横の繋がりを作り、みんなで悩みを共有しながら一歩前に進めれるコミュニティがトウカイリサーチです。
+&lt;/p&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;とあるお題に対してインタビューを体験しよう！！！&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;
+今回はとあるお題に対してインタビューを体験する会となります。&lt;br&gt;
+UXリサーチが初めての方、沢山ご経験されてる方、両者とも楽しめる会を考えています。&lt;br&gt;
+&lt;br&gt;
+※リサーチが初めての方でも楽しめる体験を設計しております。気軽にご参加ください
+&lt;/p&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;こんな方におすすめ&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;
+- 東海在住のUXリサーチに関わる職種の方（リサーチャー、デザイナー、プロダクトマネージャーなど職種は問いません）&lt;br&gt;
+- 将来、UXリサーチに関わる仕事をしたい方&lt;br&gt;
+- UXリサーチャーの働き方を知りたい方&lt;br&gt;
+- 参加企業のプロダクトやリサーチ手法に興味がある方
+&lt;/p&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;開催日時・場所&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;
+2026年3月6日(金) 19:00〜21:00 (18:45開場)&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;場所&lt;/strong&gt;&lt;br&gt;
+株式会社エスケイワードさま&lt;br&gt;
+・住所：愛知県名古屋市東区泉１丁目２１−２７(泉ファーストスクエア９階)
+&lt;/p&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;タイムスケジュール&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 0.5em 0; padding: 0 1.0em; font-size: 0.9rem;"&gt;
+（当日の状況により時間配分が変更になる場合があります）
+&lt;/p&gt;
+
+&lt;table style="border: none; background-color: unset;"&gt;
+&lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;19:00 ~ 19:05&lt;/div&gt;
+      &lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;イントロ（5分）&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;19:10 ~ 19:20&lt;/div&gt;
+      &lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;インタビューに関するインプット（10分）&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;19:20 ~ 20:20&lt;/div&gt;
+      &lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;インタビュー体験会（30分で交代）&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:20 ~ 20:35&lt;/div&gt;
+      &lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;振り返り・クロージング（15分）&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:35 ~ 21:00&lt;/div&gt;
+      &lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;インタビュー知見共有・交流会（30分）&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;注意点&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;
+- 営業行為や飲食のみを目的とした入場は、お断りさせていただく場合があります。&lt;br&gt;
+- イベントの様子を撮影しSNSで公開する場合があります。お姿が写る可能性がありますので、あらかじめご了承ください。&lt;br&gt;
+- ゲスト用Wi-Fiを利用できます。&lt;br&gt;
+- 電源を利用できますが、全員分はありません。譲り合ってご利用ください。&lt;br&gt;
+- イベントの趣旨と関係のない発言を長時間続ける方、他の方への迷惑行為（暴言、ハラスメントなど）が見られる方は、ご退場いただく場合があります。&lt;br&gt;
+- 参加者同士が気持ちよく交流できるよう、ご協力をお願いいたします。
+&lt;/p&gt;
+
+&lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;主催&lt;/h2&gt;
+
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;
+トウカイリサーチ&lt;br&gt;
+&lt;a href="https://tokai-research.connpass.com/" rel="nofollow"&gt;https://tokai-research.connpass.com/&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;</description><guid isPermaLink="false">https://tokai-research.connpass.com/event/383077/</guid><enclosure url="https://media.connpass.com/thumbs/0d/77/0d772fa5062b87f1af3e097cd5a91833.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 18:14:07 +0900</pubDate></item><item><title>もくもく会@大名古屋ビルディング【景観最高】</title><link>https://nagoya-se.connpass.com/event/383048/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 大名古屋ビルディング11F&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中村区名駅3丁目28−12&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名駅から歩いて5分のところで勉強会を開いています!&lt;/p&gt;&lt;div&gt;&lt;h5&gt;【過去の参加者】&lt;br&gt;&lt;/h5&gt;
 &lt;p&gt;20代女性：C#からフロントエンドエンジニアに転向したくて、React勉強中！&lt;br&gt;
 20代男性：社内サークルで作ってるLravel+Vueの課題を進めたい。&lt;br&gt;
 30代男性：脱サラして、フリーランスになるためにオンプレインフラを自分で構築！&lt;br&gt;
@@ -343,7 +601,7 @@ info@jellyware.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">h
 &lt;tr&gt;
 &lt;td&gt;20:49-20:54&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
-&lt;td&gt;登壇者募集中&lt;/td&gt;
+&lt;td&gt;cochumo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:54-21:00&lt;/td&gt;
@@ -358,7 +616,7 @@ info@jellyware.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">h
 &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等他人への迷惑行為を行うことは禁止します。&lt;/li&gt;
 &lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただきます。&lt;/li&gt;
 &lt;li&gt;咳や発熱、倦怠感など、体調が優れない方は参加を控えていただくようお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-benkyoukai.connpass.com/event/382083/</guid><enclosure url="https://media.connpass.com/thumbs/2e/30/2e30887baf8217c7ab9021c3b4aa0fa8.png" length="0" type="image/png"/><pubDate>Wed, 28 Jan 2026 16:14:40 +0900</pubDate></item><item><title>河村電器産業株式会社 工場見学ツアー</title><link>https://chunog.connpass.com/event/381969/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月27日(金) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月27日(金) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: JR高蔵寺駅&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;ChuNOG7翌日の2月27日に、河村電器産業株式会社様のご厚意により工場見学ツアーを&lt;br&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-benkyoukai.connpass.com/event/382083/</guid><enclosure url="https://media.connpass.com/thumbs/2e/30/2e30887baf8217c7ab9021c3b4aa0fa8.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 20:55:57 +0900</pubDate></item><item><title>河村電器産業株式会社 工場見学ツアー</title><link>https://chunog.connpass.com/event/381969/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月27日(金) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月27日(金) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: JR高蔵寺駅&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;ChuNOG7翌日の2月27日に、河村電器産業株式会社様のご厚意により工場見学ツアーを&lt;br&gt;
 開催していただけることになりました！&lt;br&gt;
 定員16名を超える応募があった場合は抽選となります。&lt;br&gt;
 抽選となった場合は、2/16(月) 0〜2時の間に抽選が行われ、結果が通知されます。&lt;br&gt;
@@ -1766,7 +2024,7 @@ Backlogを活用した効果的な仕事の進め方や、チームのコミュ�
 &lt;h1&gt;協賛&lt;/h1&gt;
 &lt;p&gt;&lt;img alt="nulab logo.png" src="https://i.ibb.co/5MZsZBN/Nulab-logo.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://nulab.com/ja/" rel="nofollow"&gt;会社情報&lt;/a&gt;・&lt;a href="https://nulab.com/ja/about/careers/" rel="nofollow"&gt;採用情報&lt;/a&gt;
-株式会社ヌーラボは、福岡に本社をおく、コラボレーションツール「&lt;a href="https://backlog.com/ja/" rel="nofollow"&gt;Backlog&lt;/a&gt;」「&lt;a href="https://cacoo.com/ja/home" rel="nofollow"&gt;Cacoo&lt;/a&gt;」「&lt;a href="https://nulab.com/ja/nulabpass" rel="nofollow"&gt;Nulab Pass&lt;/a&gt;」を提供する会社です。現在は、国内3拠点（福岡・京都・東京）に加え、ニューヨーク、アムステルダムに海外拠点を持ち、グローバルに展開しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jbug.connpass.com/event/380876/</guid><enclosure url="https://media.connpass.com/thumbs/41/98/41985a2f03cb15b502bfb395412e402c.png" length="0" type="image/png"/><pubDate>Sun, 25 Jan 2026 16:29:16 +0900</pubDate></item><item><title>フロントエンドもくもく会 #45</title><link>https://nfug.connpass.com/event/380848/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月10日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月10日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ディップ株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄4-1-1 中日ビル20F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;div style="margin-top: 20px;"&gt;&lt;/div&gt;
+株式会社ヌーラボは、福岡に本社をおく、コラボレーションツール「&lt;a href="https://backlog.com/ja/" rel="nofollow"&gt;Backlog&lt;/a&gt;」「&lt;a href="https://cacoo.com/ja/home" rel="nofollow"&gt;Cacoo&lt;/a&gt;」「&lt;a href="https://nulab.com/ja/nulabpass" rel="nofollow"&gt;Nulab Pass&lt;/a&gt;」を提供する会社です。現在は、国内3拠点（福岡・京都・東京）に加え、ニューヨーク、アムステルダムに海外拠点を持ち、グローバルに展開しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jbug.connpass.com/event/380876/</guid><enclosure url="https://media.connpass.com/thumbs/41/98/41985a2f03cb15b502bfb395412e402c.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 20:00:06 +0900</pubDate></item><item><title>フロントエンドもくもく会 #45</title><link>https://nfug.connpass.com/event/380848/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月10日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月10日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ディップ株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄4-1-1 中日ビル20F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;div style="margin-top: 20px;"&gt;&lt;/div&gt;
 &lt;p style="font-size: 150%; font-weight: bold;"&gt;
 フロントエンドもくもく会、久しぶりに開催してます！
 &lt;/p&gt;
@@ -2457,7 +2715,7 @@ React/Next.js、TypeScript、パフォーマンス最適化、アクセシビリ
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;19:40&lt;/td&gt;
-&lt;td align="center"&gt;TBD&lt;/td&gt;
+&lt;td align="center"&gt;StorybookのインタラクションテストでUIの仕様をテストする&lt;/td&gt;
 &lt;td align="center"&gt;&lt;a href="https://x.com/ishida_2002" rel="nofollow"&gt;ishida&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2472,13 +2730,13 @@ React/Next.js、TypeScript、パフォーマンス最適化、アクセシビリ
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;20:10&lt;/td&gt;
-&lt;td align="center"&gt;LT募集中！&lt;/td&gt;
-&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;iOSアプリでフロントエンドと仲良くする&lt;/td&gt;
+&lt;td align="center"&gt;&lt;a href="https://x.com/intent/user?screen_name=ryu_develop" rel="nofollow"&gt;ryu_nakayama&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;20:20&lt;/td&gt;
-&lt;td align="center"&gt;LT募集中！&lt;/td&gt;
-&lt;td align="center"&gt;&lt;/td&gt;
+&lt;td align="center"&gt;Core Web Vitalsを意識したフロントエンド開発&lt;/td&gt;
+&lt;td align="center"&gt;&lt;a href="https://connpass.com/user/cochumo/" rel="nofollow"&gt;cochumo&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="center"&gt;20:30&lt;/td&gt;
@@ -2502,7 +2760,7 @@ React/Next.js、TypeScript、パフォーマンス最適化、アクセシビリ
 &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等他人への迷惑行為を行うことは禁止します。&lt;/li&gt;
 &lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただきます。&lt;/li&gt;
 &lt;li&gt;咳や発熱、倦怠感など、体調が優れない方は参加を控えていただくようお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stmn.connpass.com/event/379272/</guid><enclosure url="https://media.connpass.com/thumbs/23/33/23335f8c845e169e23cb6af936dba64b.png" length="0" type="image/png"/><pubDate>Tue, 27 Jan 2026 12:28:27 +0900</pubDate></item><item><title>宇宙開発ナイト#4</title><link>https://connpass.com/event/379171/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 愛知県名古屋市中区栄2-2-17名古屋情報センタービル２Ｆ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄2-2-17名古屋情報センタービル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;宇宙開発についてプレゼン、語り合うイベント&lt;/p&gt;&lt;div&gt;&lt;h2&gt;宇宙開発ナイトについて&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stmn.connpass.com/event/379272/</guid><enclosure url="https://media.connpass.com/thumbs/23/33/23335f8c845e169e23cb6af936dba64b.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 19:26:40 +0900</pubDate></item><item><title>宇宙開発ナイト#4</title><link>https://connpass.com/event/379171/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 愛知県名古屋市中区栄2-2-17名古屋情報センタービル２Ｆ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄2-2-17名古屋情報センタービル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;宇宙開発についてプレゼン、語り合うイベント&lt;/p&gt;&lt;div&gt;&lt;h2&gt;宇宙開発ナイトについて&lt;/h2&gt;
 &lt;p&gt;宇宙に魅せられた者達のイベント「宇宙開発ナイト#4」を開催します！&lt;br&gt;
 （注：お昼に開催します！）&lt;/p&gt;
 &lt;p&gt;宇宙開発分野では数多くの新興企業が登場し、世界中で宇宙開発、宇宙ビジネスにチャレンジしようという勢いがあり、弊社も軌道上サービスを実現するために日夜励んでおります。&lt;/p&gt;
@@ -2984,7 +3242,7 @@ CodeDojoのメンターとして、子どもたちと一緒にプログラミン
 必要ありません。&lt;/p&gt;
 &lt;p&gt;（他）
 スキルがあり、ご本人がご希望される場合、土曜に作業していただくお仕事あります。
-時間単価：2,000円～&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://boolsoftware.connpass.com/event/378675/</guid><enclosure url="https://media.connpass.com/thumbs/a8/e9/a8e986b9262b9e690e5fa304edab59cd.png" length="0" type="image/png"/><pubDate>Wed, 21 Jan 2026 11:53:57 +0900</pubDate></item><item><title>GlobalGameJam2026 名古屋 名古ゲ部会場</title><link>https://nagogebu.connpass.com/event/378654/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月30日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋ゲーム制作部(セントラルコーポ 503号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区丸の内３丁目5-34 503&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ggjngy&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;GlobalGameJam(GGJ)とは&lt;/h1&gt;
+時間単価：2,000円～&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://boolsoftware.connpass.com/event/378675/</guid><enclosure url="https://media.connpass.com/thumbs/a8/e9/a8e986b9262b9e690e5fa304edab59cd.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 08:43:10 +0900</pubDate></item><item><title>GlobalGameJam2026 名古屋 名古ゲ部会場</title><link>https://nagogebu.connpass.com/event/378654/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年1月30日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月1日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋ゲーム制作部(セントラルコーポ 503号室)&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区丸の内３丁目5-34 503&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ggjngy&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;GlobalGameJam(GGJ)とは&lt;/h1&gt;
 &lt;p&gt;ゲームジャムとは&lt;strong&gt;ゲーム開発を行うハッカソン&lt;/strong&gt;的なイベントで、&lt;br&gt;
 GGJはその中でも世界中で同じ日に開催される、大規模のものとなります。&lt;br&gt;
 &lt;a href="https://globalgamejam.org/" rel="nofollow"&gt;公式サイト&lt;/a&gt;&lt;br&gt;
@@ -3113,7 +3371,92 @@ GGJはその中でも世界中で同じ日に開催される、大規模のも�
 &lt;p&gt;・開催中に発生した怪我や機材の破損等のトラブルにつきましては自己責任とさせていただきます。  &lt;/p&gt;
 &lt;h1&gt;問い合わせ&lt;/h1&gt;
 &lt;p&gt;その他、ご質問等ありましたら&lt;br&gt;
-nagogebu@gmail.comまでお問い合わせいただければと思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nagogebu.connpass.com/event/378654/</guid><pubDate>Fri, 23 Jan 2026 19:24:10 +0900</pubDate></item><item><title>No.163 CoderDojo瑞穂 / Mizuho 現地</title><link>https://coderdojo-mizuho.connpass.com/event/378442/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月8日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月8日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 瑞穂区社会福祉協議会ボランティアセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市瑞穂区佐渡町３丁目18番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoMizuho&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 瑞穂&lt;/h1&gt;
+nagogebu@gmail.comまでお問い合わせいただければと思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nagogebu.connpass.com/event/378654/</guid><pubDate>Fri, 23 Jan 2026 19:24:10 +0900</pubDate></item><item><title>OWASP Nagoya Chapter ミーティング 第42回</title><link>https://owaspnagoya.connpass.com/event/378596/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月13日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月13日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動推進センター  名古屋市中区栄三丁目18番1号 (ナディアパーク デザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中区栄三丁目18番1号 (ナディアパーク デザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #owaspnagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;OWASP Nagoya Chapter meeting #42&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OWASP Nagoya Chapter ミーティング 第42回&lt;/h1&gt;
+&lt;p&gt;OWASP Nagoya Chapter ミーティングを開催します。  &lt;/p&gt;
+&lt;p&gt;今回は、OWASP Top 10:2025について、全体概要と個別リスクについて学びたいと思います。 
+OWASPのプロジェクトは、草の根活動で、さまざまな活動が進んでおり、気軽に情報を共有しましょう。
+スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;名古屋市 市民活動推進センター ナディアパーク デザインセンタービル6階 集会室&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;地下鉄「栄」駅　7、8番出口より徒歩7分&lt;/li&gt;
+&lt;li&gt;地下鉄「矢場町」駅　5、6番出口より徒歩5分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参加費 無料&lt;/h2&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30 - 19:40&lt;/td&gt;
+&lt;td&gt;OWASP Nagoya運営からの説明&lt;/td&gt;
+&lt;td&gt;OWASP Nagoya&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:40 - 19:50&lt;/td&gt;
+&lt;td&gt;自己紹介・ネットワーキング&lt;/td&gt;
+&lt;td&gt;参加者各自&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:50 - 20:20&lt;/td&gt;
+&lt;td&gt;OWASP Top 10:2025&lt;/td&gt;
+&lt;td&gt;OWASP Nagoya 丹羽 雪晴&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:20 - 20:50&lt;/td&gt;
+&lt;td&gt;A03:2025 Software Supply Chain Failures&lt;/td&gt;
+&lt;td&gt;OWASP Nagoya 加藤&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:50 - 21:00&lt;/td&gt;
+&lt;td&gt;今後の活動について&lt;/td&gt;
+&lt;td&gt;OWASP Nagoya&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;解散&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;主催&lt;/h2&gt;
+&lt;p&gt;OWASP Nagoya Chapter&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;連絡先： owasp758 [at] &lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt; ([at]を@に置き換えてください)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;OWASPとは&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://owasp.org/" rel="nofollow"&gt;OWASP&lt;/a&gt; - Open Worldwide Application Security Project は、Webシステムをはじめとするアプリケーションソフトウェアのセキュリティについての情報共有と、セキュアなソフトウェア開発を促進するための普及・啓発を行うオープンコミュニティです。&lt;/p&gt;
+&lt;p&gt;OWASP Nagoya は東海地区におけるOWASPのローカルチャプター(支部)として活動をしております。&lt;/p&gt;
+&lt;h2&gt;OWASP Nagoya 各ページ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;公式ページ&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://owasp.org/www-chapter-nagoya/" rel="nofollow"&gt;https://owasp.org/www-chapter-nagoya/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Facebook&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/owaspnagoya/" rel="nofollow"&gt;https://www.facebook.com/owaspnagoya/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;X（旧Twitter）&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/owaspnagoya/" rel="nofollow"&gt;https://twitter.com/owaspnagoya/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Slack&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://join.slack.com/t/owaspnagoya/shared_invite/enQtMzM0OTkwMTM1NDQxLTI5ODQzZDViMDg4NDA2MzA4OGFmZmVmMWRjM2Y0ODBkMGM2YzVkMzU0MGU5Y2IxMTE5NmM2Yjg3Zjg3YzRhOWU" rel="nofollow"&gt;こちらから登録してください&lt;/a&gt;AWS Inspector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://owaspnagoya.connpass.com/event/378596/</guid><enclosure url="https://media.connpass.com/thumbs/3d/17/3d17b41677709906ac12f19170e9c10f.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 09:31:52 +0900</pubDate></item><item><title>No.163 CoderDojo瑞穂 / Mizuho 現地</title><link>https://coderdojo-mizuho.connpass.com/event/378442/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月8日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月8日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 瑞穂区社会福祉協議会ボランティアセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市瑞穂区佐渡町３丁目18番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoMizuho&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 瑞穂&lt;/h1&gt;
 &lt;p&gt;愛知県名古屋市瑞穂区で小・中学生を対象にプログラミング道場を定期的に開催します。 子供達の自主性を育むことを目的とし、学校のような授業やカリキュラムなどは用意せず、自分がやりたいこと、作りたいものをメンター（指導者）や仲間と一緒に考えてプログラミングを行います。&lt;/p&gt;
 &lt;h1&gt;持参するもの&lt;/h1&gt;
 &lt;p&gt;ノートパソコン（Wi-Fi接続可能なもの）あるいはタブレット、電源ケーブル、マウス、テキストなど。&lt;/p&gt;
@@ -3234,7 +3577,7 @@ ID:coderdojomizuho&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:30～14:45&lt;/td&gt;
-&lt;td&gt;LT #6 AWS Transform Custom&lt;/td&gt;
+&lt;td&gt;LT #6 AWS Transform&lt;/td&gt;
 &lt;td&gt;アマゾンウェブサービスジャパン 上野さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3292,7 +3635,7 @@ ID:coderdojomizuho&lt;/p&gt;
 &lt;p&gt;AIエージェントの設計・構築・運用などを担当しております。AWS Community Builder(AI Engineering) / 2025 Japan AWS Jr.Champion&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;&lt;strong&gt;山下光洋 (トレノケート/ JAWS-UG名古屋, 大阪)&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src="https://www.yamamanx.com/wp-content/uploads/2025/12/2025-higashidori.png" width="400pix"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.yamamanx.com/wp-content/uploads/2026/01/2026yamashitaprofile.jpg" width="400pix"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;開発ベンダー 5 年、ユーザ企業システム部門9年を経て、トレノケート社で年間 1,500 名以上の受講者にトレーニングを提供。
 AWS 認定インストラクターアワード 3 連覇、多年にわたる Japan AWS Top Engineers 選出。書籍執筆、ブログ、勉強会、 Youtube などで情報発信。&lt;/p&gt;
@@ -3355,7 +3698,7 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 &lt;li&gt;本人の生命の保護などのために必要な場合であって、緊急を要するなど、ご本人の同意を得ることが困難である場合&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;スタッフ募集中です！&lt;/h1&gt;
-&lt;p&gt;一緒にコミュニティーを盛り上げていただけるスタッフも随時募集しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/378364/</guid><enclosure url="https://media.connpass.com/thumbs/07/07/0707c7e7d60002519f9f1944a2a417b5.png" length="0" type="image/png"/><pubDate>Mon, 26 Jan 2026 10:11:12 +0900</pubDate></item><item><title>第5回東海医療DX研究会情報交換会</title><link>https://toukai-meddx.connpass.com/event/378319/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 御器所酒房 なご壱&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市昭和区阿由知通４丁目４−１&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;第5回東海医療DX研究会の情報交換会です。&lt;/p&gt;
+&lt;p&gt;一緒にコミュニティーを盛り上げていただけるスタッフも随時募集しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/378364/</guid><enclosure url="https://media.connpass.com/thumbs/07/07/0707c7e7d60002519f9f1944a2a417b5.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 16:55:41 +0900</pubDate></item><item><title>第5回東海医療DX研究会情報交換会</title><link>https://toukai-meddx.connpass.com/event/378319/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月21日(土) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月21日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 御器所酒房 なご壱&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市昭和区阿由知通４丁目４−１&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;第5回東海医療DX研究会の情報交換会です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;時刻：17時00分から&lt;/li&gt;
 &lt;li&gt;場所：御器所酒房 なご壱。桜通線、御器所駅近くです。&lt;/li&gt;
@@ -3841,7 +4184,7 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 &lt;li&gt;コミュニティ開催会場の入館申請手続き&lt;/li&gt;
 &lt;li&gt;勉強会の申し込み者の入館時のご本人確認&lt;/li&gt;
 &lt;li&gt;セミナー、イベント等に関する情報提供&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/376788/</guid><enclosure url="https://media.connpass.com/thumbs/5b/67/5b67df45e848f73579a2bc14fcb3cf15.png" length="0" type="image/png"/><pubDate>Mon, 19 Jan 2026 16:52:35 +0900</pubDate></item><item><title>第5回NeTS in 名古屋 supported by CNCI</title><link>https://u29.connpass.com/event/376386/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月25日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月25日(水) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社コミュニティネットワークセンター　本社&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市東区東桜一丁目3番1 0 号 東桜第一ビル8階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;U29とは&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/376788/</guid><enclosure url="https://media.connpass.com/thumbs/5b/67/5b67df45e848f73579a2bc14fcb3cf15.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 20:12:25 +0900</pubDate></item><item><title>第5回NeTS in 名古屋 supported by CNCI</title><link>https://u29.connpass.com/event/376386/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月25日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月25日(水) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社コミュニティネットワークセンター　本社&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市東区東桜一丁目3番1 0 号 東桜第一ビル8階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;U29とは&lt;/h1&gt;
 
 &lt;p&gt;U29（読み方：ユニーク）は、ネットワークが&lt;/p&gt;
 &lt;p&gt;（元々）わからなかった人の&lt;/p&gt;
@@ -3907,7 +4250,7 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 &lt;br&gt;
 &lt;br&gt;
 
-今回は、ヤマハ発動機株式会社の永田さんよりオンラインコミュニティ「Yamaha Pas Life」を活用した顧客理解の取り組みについて、株式会社ロフトワークの野島さんより名古屋大学内にある共創施設「ComoNe」における取り組みについてお話しいただきます。
+登壇者として、ヤマハ発動機株式会社の永田さんよりオンラインコミュニティ「Yamaha Pas Life」を活用した顧客理解の取り組み、株式会社ロフトワークの野島さんより名古屋大学内にある共創施設「ComoNe」の活動、株式会社ニジボックスの吉川さんより福祉領域の新規事業を題材に「問いの構造化」の重要性についてお話しいただきます。
 
 &lt;/p&gt;
 
@@ -3915,7 +4258,7 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 
 &lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;開催日時&lt;/h2&gt;
 
-&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;1月30日（金）19:00 - 21:30（オンラインは 20:30 終了）&lt;/p&gt;
+&lt;p style="margin: .5em 0 1.2em 0; padding: 0 1.0em;"&gt;1月30日（金）19:00 - 21:30（オンラインは 20:40 終了）&lt;/p&gt;
 
 &lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;会場&lt;/h2&gt;
 
@@ -3955,7 +4298,7 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 
     &lt;tr&gt;
       &lt;td style="border: none; background-color: unset;"&gt;
-        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;19:20 ~ 20:00&lt;/div&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;19:20 ~ 19:40&lt;/div&gt;
       &lt;/td&gt;
       &lt;td style="border: none; background-color: unset;"&gt;Guest Talk&lt;/td&gt;
       &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;『お客さまの“心”に向き合い続けるための場のデザイン。「Yamaha PAS Life」』&lt;br&gt;ヤマハ発動機株式会社 永田智美 氏&lt;/td&gt;
@@ -3963,6 +4306,7 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 
     &lt;tr&gt;
       &lt;td style="border: none; background-color: unset;"&gt;
+      &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;19:40 ~ 20:00&lt;/div&gt;
       &lt;/td&gt;
       &lt;td style="border: none; background-color: unset;"&gt;Guest Talk&lt;/td&gt;
       &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;『共創と公共の場「ComoNe」』&lt;br&gt;株式会社ロフトワーク 野島稔喜  氏&lt;/td&gt;
@@ -3970,31 +4314,31 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 
     &lt;tr&gt;
       &lt;td style="border: none; background-color: unset;"&gt;
-        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:00 ~ 20:05&lt;/div&gt;
-      &lt;/td&gt;
-      &lt;td style="border: none; background-color: unset;"&gt;Break Time&lt;/td&gt;
-      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;小休憩&lt;/td&gt;
-    &lt;/tr&gt;
-
-    &lt;tr&gt;
-      &lt;td style="border: none; background-color: unset;"&gt;
-        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:05 ~ 20:10&lt;/div&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:00 ~ 20:10&lt;/div&gt;
       &lt;/td&gt;
       &lt;td style="border: none; background-color: unset;"&gt;Sponsor LT&lt;/td&gt;
-      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;Coming Soon&lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;株式会社はてな 米山弘恭 氏&lt;/td&gt;
     &lt;/tr&gt;
 
     &lt;tr&gt;
       &lt;td style="border: none; background-color: unset;"&gt;
-        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:10 ~ 20:30&lt;/div&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:10 ~ 20:20&lt;/div&gt;
+      &lt;/td&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;Sponsor LT&lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;『良質な“問い”を生み出すための社会洞察〜新たな価値を生み出すリサーチ〜』&lt;br&gt;株式会社メンバーズ nu.Designカンパニー 佐藤亮太 氏&lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr&gt;
+      &lt;td style="border: none; background-color: unset;"&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:20 ~ 20:40&lt;/div&gt;
       &lt;/td&gt;
       &lt;td style="border: none; background-color: unset;"&gt;Guest Talk&lt;/td&gt;
-      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;Coming Soon&lt;/td&gt;
+      &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;『新規事業を前進させる「問いの構造化」とリサーチ設計』&lt;br&gt;株式会社ニジボックス 吉川聡史 氏&lt;/td&gt;
     &lt;/tr&gt;
 
     &lt;tr&gt;
       &lt;td style="border: none; background-color: unset;"&gt;
-        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:30 ~ 21:20&lt;/div&gt;
+        &lt;div style="background-color: #e8eeff; color: #2045a6; padding: 4px 20px;"&gt;20:40 ~ 21:20&lt;/div&gt;
       &lt;/td&gt;
       &lt;td style="border: none; background-color: unset;"&gt;Closing&lt;/td&gt;
       &lt;td style="border: none; background-color: unset; font-weight: bold;"&gt;クロージング＆パーティートーク ※現地参加のみ&lt;/td&gt;
@@ -4033,6 +4377,27 @@ Fusionを使っている方、これから学びたい方、どなたでもお�
 &lt;/h3&gt;
 &lt;p style="margin: .3em 0 1.3em 0; padding: 0 1.0em;"&gt;
 株式会社ロフトワーク LAYOUTディレクター。静岡県浜松市出身。静岡文化芸術大学大学院デザイン研究科修了。大学院時代は、中心市街地の公共空間における人々のアクティビティ創出のデザイン活動や、山口情報芸術センター[YCAM]でインターンとして「食」のワークショップ空間のオープンと運営に携わった。修了後、建築設計事務所や研究者との実践的なプロジェクトを経てロフトワークに入社。場作りのプロジェクトやミュージアム運営を経て、現在は、ComoNeの運営統括として、日々ワクワクする企みを形にしている。
+&lt;/p&gt;
+
+&lt;h3 style="font-size: 1.2rem; margin-top: 1.2em; font-weight: 600; border-bottom: solid #e8eeff 2px; color: #2045a6;"&gt;
+株式会社はてな （toitta）コンテンツ本部第一グループ プロデューサー / 米山 弘恭
+&lt;/h3&gt;
+&lt;p style="margin: .3em 0 1.3em 0; padding: 0 1.0em;"&gt;
+デジタル広告代理店に新卒入社後、ECサイト運営、運用型広告商品の営業、自社アドネットワークの開発ディレクションなどに従事したのち2017年より現職。現職の(株)はてなでは広告営業・事業開発・データ分析などの業務に従事したのち、プロダクトマネージャーに転身。現在は自社サービスであるはてなブックマークと、新規事業 toittaの事業責任者とプロダクトマネジメントを担当。認定スクラムプロダクトオーナー®️ (CSPO®️)HCD-Net認定 人間中心設計専門家
+&lt;/p&gt;
+
+&lt;h3 style="font-size: 1.2rem; margin-top: 1.2em; font-weight: 600; border-bottom: solid #e8eeff 2px; color: #2045a6;"&gt;
+株式会社メンバーズ nu.Designカンパニー シニアUXデザイナー / 佐藤 亮太
+&lt;/h3&gt;
+&lt;p style="margin: .3em 0 1.3em 0; padding: 0 1.0em;"&gt;
+明治大学卒業。 2018年に(株)メンバーズに入社。WebディレクターとしてWebサイト制作/運用・アクセス解析・マーケティング施策検討等に従事した後、UXデザイナーへ転身。 以降、大手通信会社のFintechサービスアプリのUX改善・スポーツアプリリニューアル、大手電気機器メーカーで新規事業PJでのライドシェアサービス/アプリデザイン、大手電気機器メーカーのAIペットサービスのグロース/改善など、様々なプロジェクトにてUXデザイン・サービスデザインに携わる。
+&lt;/p&gt;
+
+&lt;h3 style="font-size: 1.2rem; margin-top: 1.2em; font-weight: 600; border-bottom: solid #e8eeff 2px; color: #2045a6;"&gt;
+株式会社ニジボックス UX・ディレクション室 室長 / 吉川 聡史
+&lt;/h3&gt;
+&lt;p style="margin: .3em 0 1.3em 0; padding: 0 1.0em;"&gt;
+株式会社ニジボックスでUXデザイナーとWebディレクターが所属するUX・ディレクション室の室長。 2011年11月にイラストレーターとしてニジボックスに入社し、クリエイティブ領域を中心にアニメーター、デザイナーなど幅広く担当。その後ディレクションに職域を広げていき、Webディレクターや映像ディレクターなどを経て、リクルートの新規事業の伴走や大規模案件においてのマネジメントなど複数経験し今に至る。前職は漫画家。
 &lt;/p&gt;
 
 &lt;h2 style="font-size: 1.4rem; margin-left: unset; font-weight: 600; border-bottom: unset; color: #2045a6; padding: 0.5em; background-color: #e8eeff; border-left: solid 5px #2045a6;"&gt;パーティトーク&lt;/h2&gt;
@@ -4091,7 +4456,7 @@ LT登壇・ロゴ掲載・求人情報掲載などあり📸&lt;br&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;/div&gt;</description><guid isPermaLink="false">https://research-conf.connpass.com/event/375633/</guid><enclosure url="https://media.connpass.com/thumbs/41/9d/419dd09588a0a74a7c1423387eff67a7.png" length="0" type="image/png"/><pubDate>Thu, 29 Jan 2026 14:29:36 +0900</pubDate></item><item><title>第107回 CoderDojo Owari</title><link>https://coderdojoowari.connpass.com/event/374279/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月8日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月8日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoOwari&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小〜高校生のプログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;1月は第3日曜開催&lt;/h1&gt;
+&lt;/div&gt;</description><guid isPermaLink="false">https://research-conf.connpass.com/event/375633/</guid><enclosure url="https://media.connpass.com/thumbs/41/9d/419dd09588a0a74a7c1423387eff67a7.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 17:19:42 +0900</pubDate></item><item><title>第107回 CoderDojo Owari</title><link>https://coderdojoowari.connpass.com/event/374279/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月8日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月8日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoOwari&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小〜高校生のプログラミングクラブ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;1月は第3日曜開催&lt;/h1&gt;
 &lt;h1&gt;メンター・サポーター募集中 (メンター特典有り)&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;定員制限が無くなれば、本当はニンジャの定員を増やすことができます。&lt;/li&gt;
@@ -4771,7 +5136,7 @@ SysHack は「初心者の挑戦の場」として、以下の特徴を備えて
 &lt;h2&gt;⚠️ 参加者ポリシー&lt;/h2&gt;
 &lt;p&gt;本イベントでは以下の内容への違反・及びステークホルダーへ悪影響をもたらす行為についての一切を禁じ、退場及び今後のイベント参加のお断りをさせて頂く場合がございます。&lt;/p&gt;
 &lt;p&gt;宗教・マルチ等への勧誘. パワーハラスメント・セクシャルハラスメントなど イベントの趣旨に沿わない目的をもった参加&lt;/p&gt;
-&lt;p&gt;ご連絡. ご質問・ご連絡は シス研 公式 X（旧 Twitter)または公式メールアドレス sysken@aitech.ac.jp まで&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sysken.connpass.com/event/372782/</guid><enclosure url="https://media.connpass.com/thumbs/d3/8c/d38c1346afd36b5ec04716a38a7c4801.png" length="0" type="image/png"/><pubDate>Wed, 14 Jan 2026 11:12:47 +0900</pubDate></item><item><title>技術工業カンファレンスin名古屋</title><link>https://connpass.com/event/368521/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋都市センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0023 愛知県名古屋市中区金山町１丁目１−１ (金山南ビル)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gikouconf186nagoya&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/368521/</guid><enclosure url="https://media.connpass.com/thumbs/02/d7/02d748e3028e7726f97ba9e052a4c681.png" length="0" type="image/png"/><pubDate>Fri, 05 Sep 2025 23:38:25 +0900</pubDate></item><item><title>ChuNOG 7 Meeting（愛知県名古屋市）</title><link>https://chunog.connpass.com/event/368386/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月26日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月26日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋工学院専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市熱田区神宮4-7-21&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ChuNOG第7回目です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ChuNOGとは&lt;/h1&gt;
+&lt;p&gt;ご連絡. ご質問・ご連絡は シス研 公式 X（旧 Twitter)または公式メールアドレス sysken@aitech.ac.jp まで&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sysken.connpass.com/event/372782/</guid><enclosure url="https://media.connpass.com/thumbs/d3/8c/d38c1346afd36b5ec04716a38a7c4801.png" length="0" type="image/png"/><pubDate>Wed, 14 Jan 2026 11:12:47 +0900</pubDate></item><item><title>技術工業カンファレンスin名古屋</title><link>https://connpass.com/event/368521/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋都市センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0023 愛知県名古屋市中区金山町１丁目１−１ (金山南ビル)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gikouconf186nagoya&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/368521/</guid><enclosure url="https://media.connpass.com/thumbs/02/d7/02d748e3028e7726f97ba9e052a4c681.png" length="0" type="image/png"/><pubDate>Fri, 30 Jan 2026 15:27:06 +0900</pubDate></item><item><title>ChuNOG 7 Meeting（愛知県名古屋市）</title><link>https://chunog.connpass.com/event/368386/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月26日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月26日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋工学院専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市熱田区神宮4-7-21&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ChuNOG第7回目です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ChuNOGとは&lt;/h1&gt;
 &lt;p&gt;ChuNOG（読み方：ちゅのぐ）とは、Chubu Network Operators' Groupを意味し、インターネットに於ける技術的事項、および、それにまつわるオペレーションやエクスペリエンスに関する事項を議論、検討、紹介することにより中部地域のインターネット技術者、および、利用者に貢献することを目的としたグループです。中部地域のサステイナブルな発展のため、ChuNOGでの交流を通じて、中部地域の未来を支える学生の支援や人材の育成、および、産産連携・産学連携を活性化するための場の形成に取り組みます。&lt;/p&gt;
 &lt;h1&gt;ChuNOG 7 Meeting 開催概要&lt;/h1&gt;
 &lt;ul&gt;
