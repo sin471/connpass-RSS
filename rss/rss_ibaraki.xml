@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茨城のイベント</title><link>https://connpass.com/explore/</link><description>茨城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>茨城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 04 Feb 2026 15:34:16 +0000</lastBuildDate><item><title>Ibaraki.dev  #16 もくもく会</title><link>https://mito-web-engineer.connpass.com/event/382594/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月15日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース水戸ワグテイル&lt;/li&gt;&lt;li&gt;🏢 住所: 茨城県水戸市南町3-3-35&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ibaraki_dev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;茨城のエンジニアが集まりもくもくする会。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;📝 概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茨城のイベント</title><link>https://connpass.com/explore/</link><description>茨城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>茨城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 05 Feb 2026 15:34:04 +0000</lastBuildDate><item><title>Ibaraki.dev  #16 もくもく会</title><link>https://mito-web-engineer.connpass.com/event/382594/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月15日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース水戸ワグテイル&lt;/li&gt;&lt;li&gt;🏢 住所: 茨城県水戸市南町3-3-35&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ibaraki_dev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;茨城のエンジニアが集まりもくもくする会。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;📝 概要&lt;/h1&gt;
 &lt;p&gt;茨城のエンジニアが集まりもくもくする会です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;茨城で数少ないエンジニア仲間を作りたい&lt;/li&gt;
@@ -122,16 +122,14 @@ k8s / terraformがお友達&lt;/p&gt;
 &lt;li&gt;発表や他のイベントを継続的に妨害すること&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;イベント会場内だけではなく、SNSやブログなどを通じた交流や発信についても、ハラスメント行為がないようにご留意ください。 ハラスメント行為を見聞きした方は、お手数ですがイベント運営メンバーの誰かにTwitter DMなどでご連絡ください。 ご協力よろしくお願いします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mito-web-engineer.connpass.com/event/382594/</guid><enclosure url="https://media.connpass.com/thumbs/b9/95/b99599c080ebd9d823be4887f9aa0934.png" length="0" type="image/png"/><pubDate>Sun, 25 Jan 2026 10:29:54 +0900</pubDate></item><item><title>Kernel/VM探検隊＠つくば No3</title><link>https://kernelvm.connpass.com/event/381371/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月20日(金) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 筑波大学 第三エリア&lt;/li&gt;&lt;li&gt;🏢 住所: 茨城県つくば市天王台1-1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kernelvm&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;あたまのおかしい探検隊が、11年ぶりにつくばに帰ってくる！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;span style="font-size: 2em;"&gt;
-&lt;strong&gt;※申し込み状況に応じてより広い教室に変更し、定員を増やす可能性があります。&lt;/strong&gt;
+@_Alignof の尽力により、一般参加枠を150名まで増枠しました。どうだ参ったか！！！（？）
 &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;補欠でも登録しておくといいことがあるかも。&lt;/p&gt;
 &lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;カーネルやVM、およびその他なんでもIT技術の話題ジャンルについて誰でも何でも発表してワイワイ盛り上がろうという会です。ジャンルの指定は特にありません。楽しければ何でもOK です。詳しい内容や、過去の発表については過去イベントを参照してください。&lt;/p&gt;
 &lt;p&gt;たとえばLinux・*BSD・Plan9・Windowsなどの各種OSのデベロッパー/ヘビーユーザー、セキュリティ界隈の方々、競技プログラミング方面や難読化プログラミングが趣味な方、VMMの研究者の方、社宅でBGP組みたい方、などなど様々な分野で御活躍中の方々に幅広くご参加頂いております。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.kernelvm.org/" rel="nofollow"&gt;https://www.kernelvm.org/&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;会場&lt;/h1&gt;
 &lt;p&gt;筑波大学 第3エリア（具体的な教室は調整中）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;※申し込み状況に応じてより広い教室に変更し、定員を増やす可能性があります。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;TX つくば駅下車・筑波大学循環バス右回り 第3エリア前下車&lt;/p&gt;
 &lt;h1&gt;タイムテーブル&lt;/h1&gt;
 &lt;table&gt;
@@ -385,7 +383,7 @@ k8s / terraformがお友達&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;発表（中） 10分枠（現地or動画再生）  &lt;ul&gt;
 &lt;li&gt;作ってみたもの、 やってみた事、 面白い技術を1つ解説するのに丁度良い長さです。  &lt;/li&gt;
-&lt;li&gt;ショートセッション 10分発表、5分質疑（転換含む）です。  &lt;/li&gt;
+&lt;li&gt;ショートセッション 10分発表、質疑応答はありません。&lt;/li&gt;
 &lt;li&gt;現地参加か、動画再生をお選びください。  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -406,7 +404,7 @@ k8s / terraformがお友達&lt;/p&gt;
 &lt;li&gt;実機を動かすのに電源等が必要な場合はKernel/VM Discordサーバーでご相談ください。  &lt;/li&gt;
 &lt;li&gt;発表したいネタがあるが当日会場に来る事が難しい方(当日予定がある・遠方に住んでいる・VTuberである、等)は、発表者枠で参加登録した上で開催前日までに動画をYouTubeなどにアップロードし、非公開URLを預けていただくか、動画ファイルを送っていただければ当日その動画を会場で流す事ができます。 &lt;/li&gt;
 &lt;li&gt;当日のリモート会議やライブ配信による遠隔からの発表は、機材トラブルのリスクが高いのでご遠慮ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kernelvm.connpass.com/event/381371/</guid><enclosure url="https://media.connpass.com/thumbs/ba/d7/bad747e17f35fb6b1ef46dfff26b79f4.png" length="0" type="image/png"/><pubDate>Tue, 03 Feb 2026 21:43:40 +0900</pubDate></item><item><title>第95回 CoderDojo Hitachinaka</title><link>https://coderdojo-hitachinaka.connpass.com/event/381211/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月11日(水) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月11日(水) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ふぁみりこらぼ&lt;/li&gt;&lt;li&gt;🏢 住所: ひたちなか市石川町11-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小中学生向けプログラミング体験会&lt;/p&gt;&lt;div&gt;&lt;p&gt;第95回　コーダー道場ひたちなか　開催のお知らせ♪&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kernelvm.connpass.com/event/381371/</guid><enclosure url="https://media.connpass.com/thumbs/ba/d7/bad747e17f35fb6b1ef46dfff26b79f4.png" length="0" type="image/png"/><pubDate>Thu, 05 Feb 2026 23:28:35 +0900</pubDate></item><item><title>第95回 CoderDojo Hitachinaka</title><link>https://coderdojo-hitachinaka.connpass.com/event/381211/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月11日(水) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月11日(水) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ふぁみりこらぼ&lt;/li&gt;&lt;li&gt;🏢 住所: ひたちなか市石川町11-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小中学生向けプログラミング体験会&lt;/p&gt;&lt;div&gt;&lt;p&gt;第95回　コーダー道場ひたちなか　開催のお知らせ♪&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;●オフで開催（2026年2月11日（水・祝）&lt;/p&gt;
 &lt;hr&gt;
@@ -527,66 +525,4 @@ CoderDojo Japanを通して、米国系IT企業様からニンジャが使用す
 &lt;/ul&gt;
 
 &lt;h2&gt;免責事項&lt;/h2&gt;
-&lt;ul&gt;CoderDojo Kogaの活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、CoderDojo Kogaは一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojokoga.connpass.com/event/381161/</guid><enclosure url="https://media.connpass.com/thumbs/64/1b/641b6263f708f881f88779a1e365477e.png" length="0" type="image/png"/><pubDate>Sun, 01 Feb 2026 11:47:45 +0900</pubDate></item><item><title>【リアル開催＠茨城県水戸市】AIと対話してアプリを作る！</title><link>https://connpass.com/event/380959/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月5日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月5日(木) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 鯉淵学園農業栄養専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 〒319-0323 茨城県水戸市鯉淵町５９６５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～ 新トレンド「Vibe Coding」体験ワークショップ～&lt;/p&gt;&lt;div&gt;&lt;h2&gt;プログラミング不要、AIと対話するだけでアプリを作る2時間 in 茨城・水戸&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「AIを使ってみたいけれど、何から始めればいいかわからない」&lt;/li&gt;
-&lt;li&gt;「アプリ開発は専門知識がないと無理だと思っている」
-そんな方に向けた、&lt;strong&gt;“AIと会話するだけ”でアイデアを形にする&lt;/strong&gt;体験型ワークショップです。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;2026年の注目トレンド &lt;strong&gt;Vibe Coding（バイブコーディング）&lt;/strong&gt; を、&lt;strong&gt;Google Gemini&lt;/strong&gt; を使って現地で体験します。
-主役は、&lt;strong&gt;40〜50代の非エンジニア&lt;/strong&gt;（もちろん年齢・職種は問いません）。
-&lt;img alt="イメージ画像" src="http://metagri-labo.com/wp-content/uploads/2026/01/e212e25f00487e62ea4d8512e8c2f372.png"&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;このイベントで得られること&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;最新AIで「今できること」を理解&lt;/strong&gt;（身近な活用事例つき）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;テンプレ＋プロンプトで、30分程度で成果物を作成&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参加者同士で成果を共有&lt;/strong&gt;し、学びと発見を持ち帰る&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AIに興味はあるが、使い道が分からない&lt;/li&gt;
-&lt;li&gt;プログラミング経験はないが、アプリ作りに興味がある&lt;/li&gt;
-&lt;li&gt;40〜50代からリスキリングに挑戦したい&lt;/li&gt;
-&lt;li&gt;地域課題や農業にAIを活かしたい（観光・教育・地域産業も歓迎）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;：2026年2月5日（木）13:00〜15:00&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;形式&lt;/strong&gt;：オフライン（現地開催）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;場所&lt;/strong&gt;：鯉淵学園（茨城県水戸市鯉淵町5965）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt;：無料&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;定員&lt;/strong&gt;：30名（先着）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;持ち物&lt;/strong&gt;：Wi-Fi接続可能なノートパソコン（Chrome推奨）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参加条件&lt;/strong&gt;：Googleアカウント（当日ログインできる状態）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;当日の流れ（予定）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;オープニング・挨拶&lt;/li&gt;
-&lt;li&gt;【前半】AIの基礎と最新事例の紹介&lt;/li&gt;
-&lt;li&gt;【後半】Vibe Codingハンズオン（アプリ作成体験）&lt;/li&gt;
-&lt;li&gt;アウトプット共有・フィードバック&lt;/li&gt;
-&lt;li&gt;クロージング（アンケート）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;講師&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;甲斐 雄一郎（Metagri研究所 所長 / 農業コンサルタント）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;農業×IT/AIの実装支援に取り組み、農家支援コミュニティ「Metagri研究所」を運営。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;主催（コミュニティ紹介）&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Metagri研究所（農家支援コミュニティ）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「農業×新技術（AI・web3・メタバース）」を掲げ、持続可能な農業の実現に向けた社会実験・学び・共創を推進。&lt;/p&gt;
-&lt;p&gt;コミュニティ（Discord）
-&lt;a href="https://discord.gg/hyw3AkKa8e" rel="nofollow"&gt;https://discord.gg/hyw3AkKa8e&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;事前準備のお願い（当日スムーズに進めるために）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Googleアカウントの&lt;strong&gt;ログイン確認&lt;/strong&gt;（パスワード・2段階認証など）&lt;/li&gt;
-&lt;li&gt;ノートPCの充電（可能なら充電器も持参）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;関連リンク&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://ibaraki-ai-workshop.metagri-labo.com/" rel="nofollow"&gt;https://ibaraki-ai-workshop.metagri-labo.com/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/380959/</guid><enclosure url="https://media.connpass.com/thumbs/77/06/770672729913e3e6d960c2f46cd38e8c.png" length="0" type="image/png"/><pubDate>Fri, 09 Jan 2026 11:03:36 +0900</pubDate></item></channel></rss>
+&lt;ul&gt;CoderDojo Kogaの活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、CoderDojo Kogaは一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojokoga.connpass.com/event/381161/</guid><enclosure url="https://media.connpass.com/thumbs/64/1b/641b6263f708f881f88779a1e365477e.png" length="0" type="image/png"/><pubDate>Sun, 01 Feb 2026 11:47:45 +0900</pubDate></item></channel></rss>
