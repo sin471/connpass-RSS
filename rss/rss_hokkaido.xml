@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 14 Feb 2026 15:17:25 +0000</lastBuildDate><item><title>ゆるい勉強会＠もくもく会(2/15)</title><link>https://asahikawa.connpass.com/event/384587/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月15日(日) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: CoCoDe(作業・打合せ室)&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道旭川市宮前１条３丁目３−３０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゆるあさ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;色々状況がまずいので開催&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;ゆるいもくもく会18&lt;/strong&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 15 Feb 2026 15:17:13 +0000</lastBuildDate><item><title>ryoppippiさん登壇！AI時代の開発スタイルと最先端環境</title><link>https://seb-sapporo.connpass.com/event/384654/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月11日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月11日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌エルプラザ 大研修室A&lt;/li&gt;&lt;li&gt;🏢 住所: 〒060-0808 北海道札幌市北区北8条西3丁目28&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #seb_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌市内外のITエンジニアや志望者、未経験者が交流し学べるイベント&lt;/p&gt;&lt;div&gt;&lt;h1&gt;企画概要&lt;/h1&gt;
+&lt;p&gt;生成AIの進化により、開発の進め方そのものが大きく変わりつつあります。
+AIと対話しながらコードを書く「Vibe Coding」のようなスタイルや、ツールの活用方法、検証フローの設計など、開発者に求められるスキルセットも広がっています。&lt;/p&gt;
+&lt;p&gt;本イベントでは、「AI時代の開発スタイルと最先端環境」をテーマに、ryoppippiさんにご登壇いただきます。
+Vibe CodingやAIとの向き合い方、開発フロー、開発環境などを交えながらお話しいただきます。&lt;/p&gt;
+&lt;p&gt;高度な実例から身近な改善までを共有し、自分たちの開発スタイルを見直すヒントを持ち帰れる場を目指します。&lt;/p&gt;
+&lt;p&gt;AIをすでに活用している方も、これから本格的に取り入れたい方も歓迎です。
+開発の“やり方”を見直すきっかけとして、ぜひご参加ください。&lt;/p&gt;
+&lt;h1&gt;登壇ゲスト&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/1345183412617789441/lDzpVPwZ_400x400.jpg" width="240px"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;ryoppippiさん &lt;a href="https://x.com/ryoppippi" rel="nofollow"&gt;@ryoppippi&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+Claude Code（Claude CLI）の利用ログからtoken使用量とコストを可視化するCLI ツール「ccusage」の開発者。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;公募登壇（5〜10分 × 2枠）&lt;/h2&gt;
+&lt;p&gt;今回のテーマにあわせて、日々の実践や取り組み事例を共有いただく登壇（5〜10分）を2枠募集します。
+実際に試していることや、現場で工夫している内容を歓迎します。&lt;/p&gt;
+&lt;p&gt;例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vibe Codingの実践やAIとの向き合い方&lt;/li&gt;
+&lt;li&gt;AI出力の検証方法や品質を守るための工夫&lt;/li&gt;
+&lt;li&gt;開発フローの見直しやレビューの回し方&lt;/li&gt;
+&lt;li&gt;ツールや開発環境の整備（CI改善、再現性の確保など）&lt;/li&gt;
+&lt;li&gt;失敗談や改善の試行錯誤&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;小規模な取り組みや途中段階の事例でも問題ありません。
+それぞれの現場でのリアルな実践を、ぜひ共有いただければ嬉しいです。&lt;/p&gt;
+&lt;h2&gt;対象&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;札幌市内外のITエンジニア&lt;/li&gt;
+&lt;li&gt;ITエンジニアを目指す学生・社会人&lt;/li&gt;
+&lt;li&gt;AIを開発に活用している／これから活用したい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;開催日時&lt;/h2&gt;
+&lt;p&gt;2026年3月11日（水）19:00〜21:00 (18:30 開場)&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;札幌エルプラザ  大研修室A&lt;/strong&gt;&lt;br&gt;
+〒060-0808 北海道札幌市北区北8条西3丁目28&lt;br&gt;
+JR札幌駅北口より徒歩3分、札幌駅北口地下歩道12番出口から直通
+&lt;a href="https://maps.app.goo.gl/bwwTzwRbnrvc7MH6A" rel="nofollow"&gt;Google Map&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;タイムテーブル（敬称略）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;コンテンツ&lt;/th&gt;
+&lt;th&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30〜19:00&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00〜19:10&lt;/td&gt;
+&lt;td&gt;オープニング（趣旨説明・諸注意）&lt;/td&gt;
+&lt;td&gt;Sapporo Engineer Base&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10〜19:30&lt;/td&gt;
+&lt;td&gt;公募登壇（5〜10分 × 2枠）&lt;/td&gt;
+&lt;td&gt;公募&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30〜20:00&lt;/td&gt;
+&lt;td&gt;ゲスト登壇&lt;/td&gt;
+&lt;td&gt;ryoppippi さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:00〜21:00&lt;/td&gt;
+&lt;td&gt;交流・質疑・相談タイム（仮）&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;クレジット&lt;/h1&gt;
+&lt;h3&gt;主催：Sapporo Engineer Base&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h1&gt;行動規範&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;一切のハラスメント行為・他社・他人を攻撃する行為を禁止します&lt;/li&gt;
+&lt;li&gt;一切の法律や条例に違反する行為を禁止します&lt;/li&gt;
+&lt;li&gt;宣伝・広報活動などについて制限は行いませんが、イベントの趣旨に反する宣伝や広報活動は禁止します。&lt;/li&gt;
+&lt;li&gt;上記言動が見られた場合は当日主催の運営判断によりその場で参加を取りやめいただきます。&lt;/li&gt;
+&lt;li&gt;その際に発生した参加費などの払い戻しは行いません。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://seb-sapporo.connpass.com/event/384654/</guid><enclosure url="https://media.connpass.com/thumbs/1a/ac/1aacb9ad3cc06635479b19e34e6d95dd.png" length="0" type="image/png"/><pubDate>Sun, 15 Feb 2026 18:01:31 +0900</pubDate></item><item><title>ゆるい勉強会＠もくもく会(2/15)</title><link>https://asahikawa.connpass.com/event/384587/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月15日(日) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: CoCoDe(作業・打合せ室)&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道旭川市宮前１条３丁目３−３０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゆるあさ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;色々状況がまずいので開催&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;ゆるいもくもく会18&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;18回目のもくもく会&lt;br&gt;
 主催者が勉強するのでついでに開催　&lt;/p&gt;
 &lt;h2&gt;勉強会詳細&lt;/h2&gt;
@@ -441,8 +528,9 @@ PHP初学者の方、久しぶりにPHPに触れる方、現場で使ってい�
 &lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;font size="+0.25"&gt;適宜休憩時間をとります。&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font size="+0.25"&gt;終了後、平日夜ですが，交流会（&lt;font style="text-decoration: line-through;"&gt;会費制&lt;/font&gt; &lt;strong&gt;割り勘&lt;/strong&gt;）の企画を予定しています。&lt;/font&gt;&lt;ul&gt;
-&lt;li&gt;すみません、人数が読めないので&lt;strong&gt;割り勘&lt;/strong&gt;にさせてください...🙇&lt;/li&gt;
+&lt;li&gt;&lt;font size="+0.25"&gt;終了後、平日夜ですが，希望者で交流会（&lt;font style="text-decoration: line-through;"&gt;会費制&lt;/font&gt; &lt;strong&gt;割り勘&lt;/strong&gt;）の企画を予定しています。&lt;/font&gt;&lt;ul&gt;
+&lt;li&gt;すみません、人数が読めないので&lt;strong&gt;割り勘&lt;/strong&gt;にさせてください...🙇
+　 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -461,11 +549,15 @@ PHP初学者の方、久しぶりにPHPに触れる方、現場で使ってい�
 &lt;/ul&gt;
 &lt;h2&gt;更新履歴&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;2026-02-15&lt;ul&gt;
+&lt;li&gt;交流会について修正 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;2026-02-07&lt;ul&gt;
 &lt;li&gt;サイト公開&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://javado.connpass.com/event/383851/</guid><enclosure url="https://media.connpass.com/thumbs/99/e0/99e027c36b9a7061c394ae330adceb18.png" length="0" type="image/png"/><pubDate>Sat, 14 Feb 2026 12:30:40 +0900</pubDate></item><item><title>【札幌3/7】アンカンファレンスどうでしょう</title><link>https://javado.connpass.com/event/383580/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月7日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月7日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社札幌営業所&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区大通西3丁目8-1 (桂和大通ビル51 9階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #javado&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ワイワイする会です！（Java Doでしょう #33）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;一緒にアンカンファンレンス、どうでしょう！&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://javado.connpass.com/event/383851/</guid><enclosure url="https://media.connpass.com/thumbs/99/e0/99e027c36b9a7061c394ae330adceb18.png" length="0" type="image/png"/><pubDate>Sun, 15 Feb 2026 11:38:04 +0900</pubDate></item><item><title>【札幌3/7】アンカンファレンスどうでしょう</title><link>https://javado.connpass.com/event/383580/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月7日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月7日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社札幌営業所&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区大通西3丁目8-1 (桂和大通ビル51 9階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #javado&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ワイワイする会です！（Java Doでしょう #33）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;一緒にアンカンファンレンス、どうでしょう！&lt;/h1&gt;
 &lt;p&gt;&lt;font size="+0.5"&gt;アンカンファレンスでは、皆さんが気になっている・聞いてみたい・話してみたい話題を持ち寄って、その話題に興味のある人たちのグループで輪になって、自由にディスカッションをします。&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size="+0.5"&gt;テーマは、ソフトウェアやシステム開発、プログラミング、AI、エンジニアとしての活動、エンジニアとして生きていく上での〇〇など、技術的なこと、悩み、みんなはどうしているんだろうという素朴な疑問、なんでもOKです！&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size="+0.5"&gt;ぜひ色々な話題でワイワイ盛り上がりましょう！&lt;/font&gt;&lt;/p&gt;
@@ -835,6 +927,7 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 今回は、異業種からエンジニアへ転身したゲストスピーカーをお招きし、 「なぜエンジニアを目指したのか」「どんな壁にぶつかり、どう乗り越えたのか」「転職後に感じたギャップややりがい」など、実体験に基づいたリアルなキャリアストーリーをお話しいただきます。&lt;/p&gt;
 &lt;p&gt;エンジニアを目指している方、キャリアチェンジに興味がある方、今後の働き方や成長の方向性に悩んでいるエンジニアにとって、 自分のキャリアを考えるきっかけになるイベントです。&lt;/p&gt;
 &lt;h1&gt;登壇ゲスト&lt;/h1&gt;
+&lt;h3&gt;タイトル：異業種からITへ。安定職を手放してエンジニアになるまでのキャリア転身記&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/51/c7/51c70a26af30c973000a87fceb3fb4a3.png" width="240px"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;しゅん&lt;a href="https://x.com/sshun_web" rel="nofollow"&gt;@sshun_web&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
@@ -913,7 +1006,7 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 &lt;li&gt;上記言動が見られた場合は当日主催の運営判断によりその場で参加を取りやめいただきます。&lt;/li&gt;
 &lt;li&gt;その際に発生した参加費などの払い戻しは行いません。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://seb-sapporo.connpass.com/event/381474/</guid><enclosure url="https://media.connpass.com/thumbs/f9/4b/f94b9c5125bc7a42f8a427ab6dec67b8.png" length="0" type="image/png"/><pubDate>Sun, 08 Feb 2026 18:31:36 +0900</pubDate></item><item><title>CoderDojo恵庭 第124回(Re.)</title><link>https://connpass.com/event/381147/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月22日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月22日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 多目的スペース JUNCTION 2階（ノバス様事業所）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道恵庭市島松寿町1-28-10&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 恵庭 開催のお知らせ&lt;/h1&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://seb-sapporo.connpass.com/event/381474/</guid><enclosure url="https://media.connpass.com/thumbs/f9/4b/f94b9c5125bc7a42f8a427ab6dec67b8.png" length="0" type="image/png"/><pubDate>Sun, 15 Feb 2026 10:03:42 +0900</pubDate></item><item><title>CoderDojo恵庭 第124回(Re.)</title><link>https://connpass.com/event/381147/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月22日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月22日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 多目的スペース JUNCTION 2階（ノバス様事業所）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道恵庭市島松寿町1-28-10&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 恵庭 開催のお知らせ&lt;/h1&gt;
 &lt;p&gt;CoderDojo恵庭を開催します。 ぜひみなさん、ふるってご参加ください。&lt;/p&gt;
 &lt;h2&gt;詳細&lt;/h2&gt;
 &lt;ul&gt;
@@ -1101,7 +1194,7 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:25-19:40&lt;/td&gt;
-&lt;td&gt;発表1. タイトル調整中&lt;/td&gt;
+&lt;td&gt;発表1. テイルサンプリングで注意すること&lt;/td&gt;
 &lt;td&gt;Yoshi Yamaguchi さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1140,8 +1233,8 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 スタートアップソリューションアーキテクト&lt;/p&gt;
 &lt;p&gt;業界問わず、スタートアップ領域のお客様を中心に、 AWS に関する技術支援を担当しています。&lt;/p&gt;
 &lt;h3&gt;セッション1 : 調整中&lt;/h3&gt;
-&lt;h4&gt;スピーカー : Yoshi Yamaguchi&lt;/h4&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;h4&gt;スピーカー : テイルサンプリングで注意すること&lt;/h4&gt;
+&lt;p&gt;トレースを取得するときに、もろもろの事情でテイルサンプリングをしたくなるときがあります。しかし、そこにはいくつかの罠があります。本セッションではテイルサンプリング時に気をつけなければいけないこと、それに対応するための方法を紹介します。&lt;/p&gt;
 &lt;h3&gt;セッション2 : Hono×OpenTelemetryで始めるオブザーバビリティ駆動開発&lt;/h3&gt;
 &lt;p&gt;ispecでは現在、医療機関向け生成AIサービス『Sail AI』を立ち上げています。OpenTelemetryを活用し、スピーディーにプロダクトを開発しながらオブザーバビリティをシフトレフトする試みについて紹介します。&lt;/p&gt;
 &lt;h4&gt;スピーカー : Yusuke Yamada - 株式会社ispec&lt;/h4&gt;
@@ -1178,7 +1271,7 @@ OpenTelemetryの公式ドキュメントの翻訳とトリアージをしてい�
 &lt;h2&gt;協賛🎉&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;会場提供: クラスメソッド株式会社 様&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://opentelemetry.connpass.com/event/376362/</guid><enclosure url="https://media.connpass.com/thumbs/0b/7a/0b7aca15a7e2746695cbd365c669cdee.png" length="0" type="image/png"/><pubDate>Thu, 12 Feb 2026 21:26:20 +0900</pubDate></item><item><title>Road to SRE NEXT 2026 @札幌</title><link>https://sre-lounge.connpass.com/event/375952/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月20日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月20日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社クラスメソッド&lt;/li&gt;&lt;li&gt;🏢 住所: 〒060-0003　北海道札幌市中央区北3条西1-1-1 札幌ブリックキューブ10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #srenext&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;協賛&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://opentelemetry.connpass.com/event/376362/</guid><enclosure url="https://media.connpass.com/thumbs/0b/7a/0b7aca15a7e2746695cbd365c669cdee.png" length="0" type="image/png"/><pubDate>Sun, 15 Feb 2026 20:25:40 +0900</pubDate></item><item><title>Road to SRE NEXT 2026 @札幌</title><link>https://sre-lounge.connpass.com/event/375952/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月20日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月20日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社クラスメソッド&lt;/li&gt;&lt;li&gt;🏢 住所: 〒060-0003　北海道札幌市中央区北3条西1-1-1 札幌ブリックキューブ10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #srenext&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;協賛&lt;/h1&gt;
 &lt;p&gt;会場スポンサー：株式会社クラスメソッド 様&lt;/p&gt;
 &lt;p&gt;ビールスポンサー：転職ドラフト（株式会社リブセンス） 様&lt;/p&gt;
 &lt;h1&gt;会場&lt;/h1&gt;
@@ -1551,19 +1644,4 @@ SRE kaigi 2026に初めて参加した学生の視点から、会場で得た知
 NES Tech Brewery運営&lt;br&gt;
 AWS初心者LT会in札幌運営&lt;br&gt;
 札幌すごいAI会運営&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/367597/</guid><enclosure url="https://media.connpass.com/thumbs/a5/e4/a5e45650b9f070232855fcfc6ebd1f93.png" length="0" type="image/png"/><pubDate>Fri, 13 Feb 2026 20:17:22 +0900</pubDate></item><item><title>さっぽろすごいAIまつり 第一部：ビジネスコンテスト</title><link>https://sapporo-sugoi-ai.connpass.com/event/367595/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月15日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月15日(日) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: Deep Tech CORE SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北５条西５丁目１−5 JR55SAPPOROビル　8F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIを題材にしたビジネスコンテストです！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;視聴の方→特に事前申込は不要なので、そのまま会場へお越しください！&lt;/h2&gt;
-&lt;h2&gt;登壇の方→Discord側でやり取りの上、当日お越しください！&lt;/h2&gt;
-&lt;h1&gt;公式ウェブサイト　&lt;a href="https://matsuri.sugoiai.org" rel="nofollow"&gt;https://matsuri.sugoiai.org&lt;/a&gt;&lt;/h1&gt;
-&lt;h1&gt;開始日時&lt;/h1&gt;
-&lt;p&gt;2月15日(日)11:00に変更となりました！
-(当初は夜想定でしたが、運営都合で昼からに変更となり恐縮です)&lt;/p&gt;
-&lt;h1&gt;参加要件&lt;/h1&gt;
-&lt;p&gt;札幌すごいAI会Discordに掲載したので、こちらをご確認ください！
-&lt;a href="https://discord.gg/Ve2tQeN7cw" rel="nofollow"&gt;https://discord.gg/Ve2tQeN7cw&lt;/a&gt;
-※Discordでの「AIビジコン参加します！」表明が必須となっております、ご確認ください！&lt;/p&gt;
-&lt;p&gt;楽しいチャレンジ機会にしましょう！&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;札幌すごいAI会 代表
-岸本悠佑&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;※詳細はDiscordで掲載・参加者管理をします。connpassの申し込みだけでは参加になりませんので、ご注意ください。&lt;/h2&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/367595/</guid><enclosure url="https://media.connpass.com/thumbs/22/0a/220a8f1f7eb39571ebd348d584c66707.png" length="0" type="image/png"/><pubDate>Fri, 13 Feb 2026 20:15:51 +0900</pubDate></item></channel></rss>
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/367597/</guid><enclosure url="https://media.connpass.com/thumbs/a5/e4/a5e45650b9f070232855fcfc6ebd1f93.png" length="0" type="image/png"/><pubDate>Fri, 13 Feb 2026 20:17:22 +0900</pubDate></item></channel></rss>
