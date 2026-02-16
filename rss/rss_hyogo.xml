@@ -1,5 +1,97 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 15 Feb 2026 15:18:18 +0000</lastBuildDate><item><title>日曜もくもく自習の会</title><link>https://math-coding.connpass.com/event/384807/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月8日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月8日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#11&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 16 Feb 2026 15:34:10 +0000</lastBuildDate><item><title>第29回 CoderDojo西神</title><link>https://coderdojoseishin.connpass.com/event/384893/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;神戸市 令和7年度地域貢献活動補助金 採択事業&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
+&lt;p&gt;こどものための無料のプログラミング道場「CoderDojo」を神戸市西区の学園都市で開催します。
+6歳から18歳までの小学生〜高校生・高専生が対象となります。参加費は無料です。
+貸し出し用のパソコンもありますので、パソコンをお持ちでない方も遠慮なくご参加下さい。&lt;/p&gt;
+&lt;p&gt;※12歳以下の小学生はなるべく保護者の方がご同席下さい。 (ご同席は必須ではありません)&lt;/p&gt;
+&lt;h2&gt;FPVドローン&lt;/h2&gt;
+&lt;p&gt;FPVドローンは、一人称 (自分の目で見たように見える) 視点で操作できるドローンです。
+一般的なドローンは、ドローンが飛んでいるところを眺めながら操作しますが、
+PFVドローンはまるで自分がドローンに乗っているかのような感覚で操作できます。&lt;/p&gt;
+&lt;p&gt;FPVドローンの操作 (動画の送信) にはアマチュア無線の免許が必要ですが、
+CoderDojo西神では免許がなくても体験運用することができます。&lt;/p&gt;
+&lt;h1&gt;コベカツクラブ登録団体です&lt;/h1&gt;
+&lt;p&gt;CoderDojo西神は、神戸市立中学校の部活動の地域移行の受け皿となるコベカツクラブにプログラミング分野で登録されました。コベカツとして参加する前に、CoderDojo西神がどのような活動をしているか体験するために、参加あるいは見学して頂くのも歓迎します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://coderdojoseishin.connpass.com/event/378433/" rel="nofollow"&gt;コベカツクラブ活動紹介 CoderDojo西神&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;※部活動の地域移行後もCoderDojo西神は無料です。安心してご参加下さい。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;神戸市の助成金を受けて活動しています&lt;/h2&gt;
+&lt;p&gt;前年度（「地域課題に取り組むNPO等補助金」）に続き、今年も神戸市の「地域貢献活動助成金」に採択されました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.city.kobe.lg.jp/a52374/sankakusuisin/hojyokinsien.html#chiikikadai_hojokin" rel="nofollow"&gt;https://www.city.kobe.lg.jp/a52374/sankakusuisin/hojyokinsien.html#chiikikadai_hojokin&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;p&gt;下記のようなタイムテーブルに従って開催する予定です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;09:30〜 受付&lt;/li&gt;
+&lt;li&gt;09:40〜10:00 初回参加者向けオリエンテーション・説明&lt;/li&gt;
+&lt;li&gt;10:00〜11:15 学習・PFVドローン体験&lt;/li&gt;
+&lt;li&gt;11:15〜11:30 発表・交流&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;サポートする内容&lt;/h1&gt;
+&lt;p&gt;プログラミングを始めたいけど何から手を付ければいいか分からない、
+プログラミング関連の進路を志望しているけど何すればいいか分からない、
+という感じで足踏みしてしまっている方だけでなく、
+プログラミングを独学してるけど行き詰まった、
+Scratch以外のプログラミングにも挑戦してみたいなど、
+次の一歩を踏み出したい方は是非ともご参加下さい。&lt;/p&gt;
+&lt;p&gt;CoderDojoは、参加者(ニンジャと呼びます)の学びたいこと、実現したいことのお手伝いをします。
+CoderDojo西神では、例えば以下のような内容をサポートしています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;教育版マイクラでプログラミング&lt;/li&gt;
+&lt;li&gt;Scratchでアクションゲームを作ってみる&lt;/li&gt;
+&lt;li&gt;Scratchから次の一歩を踏み出したい&lt;/li&gt;
+&lt;li&gt;マイコンプログラミングに挑戦したい&lt;/li&gt;
+&lt;li&gt;Pythonプログラミング入門&lt;/li&gt;
+&lt;li&gt;JavaScriptプログラミング入門&lt;/li&gt;
+&lt;li&gt;Unityで3D/2Dゲームプログラミング入門&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上記はごく一部の例です。もちろん上記以外の内容にも対応しますので、遠慮なくご相談下さい。&lt;/p&gt;
+&lt;p&gt;また、プログラミングをしてみたいけど具体的にやってみたいことが分からないという場合も相談にのります。
+まずは一度ご参加下さい！&lt;/p&gt;
+&lt;h1&gt;機材・教材&lt;/h1&gt;
+&lt;p&gt;ノートパソコンをお持ちの方はご持参下さい。電源コンセントは会場にあります。
+パソコンをお持ちでない方のために、SSDで高速化したRaspberry Pi 5を複数台、WindowsノートPCを複数台、WindowsミニPCを1台、用意しています。&lt;/p&gt;
+&lt;p&gt;教材・参考となる図書も可能な範囲で用意します。
+学習したい内容を事前にご連絡頂ければ、ご要望に沿った書籍を用意することもできます
+(ご要望に添えない場合もあります) 。&lt;/p&gt;
+&lt;h2&gt;用意しているマイコン&lt;/h2&gt;
+&lt;p&gt;CoderDojo西神では、以下のようなマイコンを用意しています。
+ご希望のマイコンがありましたら、参加申し込み時にマイコン名をご連絡下さい。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.arduino.cc/hardware/uno-r4-wifi" rel="nofollow"&gt;Arduino UNO R4 WiFi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://microbit.org/ja/" rel="nofollow"&gt;BBC micro:bit v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://learn.adafruit.com/adafruit-circuit-playground-express/overview" rel="nofollow"&gt;Adafruit Circuit Playground Express&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.m5stack.com/ja/core/core2" rel="nofollow"&gt;M5Stack Core2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://docs.m5stack.com/en/core/basic" rel="nofollow"&gt;M5Stack Basic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.m5stack.com/ja/core/m5stickc_plus" rel="nofollow"&gt;M5StickC Plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" rel="nofollow"&gt;Raspberry Pi Pico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;人数分のすべての機材を用意することは難しいため、参加状況によってはご希望のマイコンをお使い頂けない可能性もあります。
+申し訳ありませんが、予めご承知おき下さい。&lt;/p&gt;
+&lt;h2&gt;アマチュア無線体験&lt;/h2&gt;
+&lt;p&gt;アマチュア無線の体験コーナーも用意しました。
+アマチュア無線の概要については下記URL (PDFファイル)を参考にしてみて下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.jarl.org/Japanese/6_Hajimeyo/JARL_AMAdonnamono.pdf" rel="nofollow"&gt;アマチュア無線ってどんなもの?&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;h2&gt;開催時間について&lt;/h2&gt;
+&lt;p&gt;09:30から受付を開始します。途中参加も可能ですが、なるべく最初からご参加下さい。&lt;/p&gt;
+&lt;h2&gt;飲食について&lt;/h2&gt;
+&lt;p&gt;軽食の飲食はOKです。ビル1Fにコンビニがある他、フロア内には自動販売機もありますのでご利用下さい。&lt;/p&gt;
+&lt;h2&gt;サポートできない内容&lt;/h2&gt;
+&lt;p&gt;安全面の理由で、はんだごてを用いる電子工作には対応できません。
+はんだごてを使わないブレッドボードによる電子工作には対応できますので、事前にご相談下さい。&lt;/p&gt;
+&lt;h1&gt;CoderDojo西神について&lt;/h1&gt;
+&lt;p&gt;CoderDojo西神は、2023年7月に承認された新しいCoderDojoです。
+西神地区を中心に、プログラミングを軸とした総合的な学習の機会を提供することを目的としています。
+最新情報はX (Twitter)やnoteをご覧下さい。&lt;/p&gt;
+&lt;p&gt;X (Twitter): &lt;a href="https://twitter.com/CoderDojoSeisin" rel="nofollow"&gt;https://twitter.com/CoderDojoSeisin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;note: &lt;a href="https://note.com/CoderDojoSeishin" rel="nofollow"&gt;https://note.com/CoderDojoSeishin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://coderdojo.com/ja-JP/dojos/jp/kobe-hyogo/seishin" rel="nofollow"&gt;https://coderdojo.com/ja-JP/dojos/jp/kobe-hyogo/seishin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo西神の指導者 (メンター) は全員、安全対策への取り組みとして、
+一定のオンライントレーニングを受講、修了しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://coderdojo.com/ja-JP/safeguarding" rel="nofollow"&gt;子供たちと安全に作業する&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module" rel="nofollow"&gt;セーフガードモジュール&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/384893/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Mon, 16 Feb 2026 12:45:25 +0900</pubDate></item><item><title>日曜もくもく自習の会</title><link>https://math-coding.connpass.com/event/384807/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月8日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月8日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#11&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
 みなが自習したいことをもちより自習をする会です。静かに集中して自習をします。  &lt;br&gt;
 初めての方、歓迎します。      &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;こんな方におすすめ&lt;/strong&gt;  &lt;br&gt;
@@ -811,7 +903,7 @@ CoderDojo西神では、例えば以下のような内容をサポートして�
 &lt;li&gt;&lt;a href="https://coderdojo.com/ja-JP/safeguarding" rel="nofollow"&gt;子供たちと安全に作業する&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module" rel="nofollow"&gt;セーフガードモジュール&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/383225/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Sat, 31 Jan 2026 13:26:19 +0900</pubDate></item><item><title>ひめじ勉強会</title><link>https://connpass.com/event/383033/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月28日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月28日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 花の北市民広場&lt;/li&gt;&lt;li&gt;🏢 住所: 〒670-0806 兵庫県姫路市 増位新町２丁目１２&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;IT系の資格の勉強を中心として、勉強好きな人が集まって、一緒に勉強していきたいと思います。&lt;/p&gt;</description><guid isPermaLink="false">https://connpass.com/event/383033/</guid><pubDate>Tue, 03 Feb 2026 11:06:58 +0900</pubDate></item><item><title>関西IT女子つながろう少人数もくもく会</title><link>https://connpass.com/event/382920/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月23日(月) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月23日(月) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: マイスぺ２４神戸スペース&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0025 兵庫県神戸市中央区相生町4-8-20 U.C神戸駅前BLDG 301号室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;「IT歴浅いけど、1人で参加しても大丈夫かな…？」 そんな方のための、IT女子限定もくもく会です&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;#初めまして！おいでらぼ（IT女子会）です！&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/383225/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Mon, 16 Feb 2026 12:33:37 +0900</pubDate></item><item><title>ひめじ勉強会</title><link>https://connpass.com/event/383033/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月28日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月28日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 花の北市民広場&lt;/li&gt;&lt;li&gt;🏢 住所: 〒670-0806 兵庫県姫路市 増位新町２丁目１２&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;IT系の資格の勉強を中心として、勉強好きな人が集まって、一緒に勉強していきたいと思います。&lt;/p&gt;</description><guid isPermaLink="false">https://connpass.com/event/383033/</guid><pubDate>Tue, 03 Feb 2026 11:06:58 +0900</pubDate></item><item><title>関西IT女子つながろう少人数もくもく会</title><link>https://connpass.com/event/382920/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年2月23日(月) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年2月23日(月) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: マイスぺ２４神戸スペース&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0025 兵庫県神戸市中央区相生町4-8-20 U.C神戸駅前BLDG 301号室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;「IT歴浅いけど、1人で参加しても大丈夫かな…？」 そんな方のための、IT女子限定もくもく会です&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;#初めまして！おいでらぼ（IT女子会）です！&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;「IT歴浅いけど、1人で参加しても大丈夫かな…？」
 そんな方のための、IT女子限定もくもく会を企画してみました！
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -1085,7 +1177,8 @@ IT歴はまだ 4か月。。。&lt;/p&gt;
 &lt;li&gt;川崎重工業株式会社&lt;br&gt;
   　社長直轄プロジェクト本部 ソーシャルロボット事業戦略部 山口 潤&lt;/li&gt;
 &lt;li&gt;国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）&lt;br&gt;
-  　AI・ロボット部　生成AIチーム長 遠藤 勇徳&lt;/li&gt;
+  　AI・ロボット部　生成AIチーム長 遠藤 勇徳
+  　AI・ロボット部　人機械共進化チーム長 土井 浩史&lt;/li&gt;
 &lt;li&gt;AGRIST 株式会社&lt;br&gt;
   　執行役員CTO/VP of Engineering エンジニア統括最高責任者 清水 秀樹&lt;/li&gt;
 &lt;/ul&gt;
@@ -1148,8 +1241,8 @@ IT歴はまだ 4か月。。。&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;17:20&lt;/td&gt;
-&lt;td&gt;パネルディスカッション&lt;/td&gt;
-&lt;td&gt;日本マイクロソフト / 鈴木&lt;br&gt;株式会社デンソー / 池田&lt;br&gt;川崎重工業株式会社 / 山口&lt;br&gt;NEDO / TBD&lt;/td&gt;
+&lt;td&gt;パネルディスカッション&lt;br&gt;ロボットの“脳”はどこまで進んだのか&lt;br&gt;― VLA・LLM・現場知で切り拓くPhysical AIの現在地と可能性&lt;/td&gt;
+&lt;td&gt;日本マイクロソフト / 鈴木&lt;br&gt;株式会社デンソー / 池田&lt;br&gt;川崎重工業株式会社 / 山口&lt;br&gt;NEDO / 土井&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18:00&lt;/td&gt;
@@ -1158,7 +1251,7 @@ IT歴はまだ 4か月。。。&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※ タイムスケジュールは前後する場合があります（最大10分程度）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobelab.connpass.com/event/380453/</guid><enclosure url="https://media.connpass.com/thumbs/fa/64/fa64177763ea9147c416b6b6932db2e5.png" length="0" type="image/png"/><pubDate>Thu, 12 Feb 2026 15:32:28 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
+&lt;p&gt;※ タイムスケジュールは前後する場合があります（最大10分程度）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobelab.connpass.com/event/380453/</guid><enclosure url="https://media.connpass.com/thumbs/fa/64/fa64177763ea9147c416b6b6932db2e5.png" length="0" type="image/png"/><pubDate>Mon, 16 Feb 2026 18:01:46 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
 &lt;p&gt;高専カンファレンスとは、全国の高等専門学校の学生・卒業生が一つの会場に集結し、プレゼンによる発表形式を主とした勉強会形式のイベントです。有志の現役学生や卒業生が実行委員会を設立し、企画から広報、運営まで行います。2008年に第1回高専カンファレンスが開催され、今回で第189回目の開催となります。
 　本イベントの目的は,現役高専生が互いに刺激し合うことで成長し、各個人が一人のエンジニアとしての高いモチベーションを獲得することです。高専は日本全国に 58 校 62 キャンパス存在していますが、各キャンパス毎に閉鎖的なコミュニティが形成されているという問題点があります。
 　そこで、本イベントの実施によって、各高専のコミュニティの壁を越えた交流の機会を提供できることが期待されます。また、学生にとって各高専のコミュニティ内では経験できない新たな知見や、複眼的で柔軟な発想力の取得ができる機会になることを目指します。&lt;/p&gt;
