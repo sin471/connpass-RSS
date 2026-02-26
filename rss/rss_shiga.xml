@@ -1,2 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>滋賀のイベント</title><link>https://connpass.com/explore/</link><description>滋賀のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>滋賀のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 25 Feb 2026 15:53:51 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>滋賀のイベント</title><link>https://connpass.com/explore/</link><description>滋賀のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>滋賀のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 26 Feb 2026 15:45:17 +0000</lastBuildDate><item><title>Biwako.go vol.2 ~go mod tidy // 積読~</title><link>https://biwakogo.connpass.com/event/371663/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月22日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月22日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 大津公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒520-0042 滋賀県大津市島の関１４−１ 2f&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Biwako.go vol.2 ~go mod tidy // 積読~&lt;/h1&gt;
+&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;気になっているGoの本はある。
+でも、読む時間がなかなか取れない。
+そんな経験はありませんか？&lt;/p&gt;
+&lt;p&gt;技術書は「やる気がある時に一気に読む」よりも、
+まずは開く時間をつくることが大切です。&lt;/p&gt;
+&lt;p&gt;Biwako.go vol.2 では、そのための場として&lt;strong&gt;「積読会」&lt;/strong&gt;を開催します。&lt;/p&gt;
+&lt;h3&gt;積読会とは？&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;「気になっているけど、まだ読めていないGoの本を、みんなでゆるく開く時間」&lt;/strong&gt;です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;もくもく集中して読むのもOK。&lt;/li&gt;
+&lt;li&gt;分からないところを気軽に聞いたり、雑談しながら読むのもOK。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;勉強会というより、同じ空間でそれぞれの“Goの積読”を消化する会です。&lt;/p&gt;
+&lt;p&gt;本を持っていない方のために、運営側でも書籍・資料を用意しています!!
+「Goがちょっと気になる」——それだけでも、ぜひぜひご気軽にご参加ください!!!
+※ Goの本でなくても大丈夫です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📆 開催概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日程&lt;/strong&gt;：2026年3月22日（日曜日）  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;時間&lt;/strong&gt;：14:00~16:30&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;会場&lt;/strong&gt;：大津公民館 小会議室4&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主催&lt;/strong&gt;：Biwako.go&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt;：無料  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定員&lt;/strong&gt;：15名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;💡 プログラム&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30 - 14:00&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00 - 14:15&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:15 - 15:30&lt;/td&gt;
+&lt;td&gt;積読消費&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50 - 16:20&lt;/td&gt;
+&lt;td&gt;交流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:20 - 16:30&lt;/td&gt;
+&lt;td&gt;エンディング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00 -&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧑‍💻 参加対象&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Go言語に興味がある学生・社会人  &lt;/li&gt;
+&lt;li&gt;エンジニア仲間を増やしたい方  &lt;/li&gt;
+&lt;li&gt;滋賀でエンジニアコミュニティを盛り上げたい方  &lt;/li&gt;
+&lt;li&gt;IT・教育・地域活動に関心がある方  &lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;高校生や大学生の方も大歓迎です！！
+「Goをまだ触ったことがないけど気になっている」という方も気軽にご参加ください！！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;💬 参加方法&lt;/h2&gt;
+&lt;p&gt;connpassの「このイベントに申し込む」ボタンからご登録ください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🤝 コミュニティについて&lt;/h2&gt;
+&lt;p&gt;Biwako.go は、滋賀県を中心に活動する Go 言語コミュニティです。&lt;br&gt;
+Go初心者から経験者まで、誰でも気軽に参加できるイベントを目指しています！
+地域発のエンジニアネットワークとして、定期的な勉強会・交流会を開催予定です。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;学生さんの参加も大歓迎です！！プログラミングを学び始めた方も気軽にどうぞ！！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;📍 活動地域：滋賀・京都・大阪周辺  &lt;/li&gt;
+&lt;li&gt;💬 Discord / X（旧Twitter）でも情報発信予定  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📩 お問い合わせ&lt;/h2&gt;
+&lt;p&gt;ご質問・協賛・取材などのお問い合わせは、以下までお願いいたします。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;メール：biwako.go.master@gmail.com&lt;/li&gt;
+&lt;li&gt;X（旧Twitter）：&lt;a href="https://x.com/biwakogolang" rel="nofollow"&gt;@biwakogolang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Discord&lt;/h3&gt;
+&lt;p&gt;Discordにて当日連絡などを行いますので事前にログインをお願いします。&lt;br&gt;
+招待リンク: &lt;a href="https://discord.gg/aWeMbpD364" rel="nofollow"&gt;https://discord.gg/aWeMbpD364&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;ハッシュタグ&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;#BiwakoGo&lt;/code&gt; &lt;code&gt;#golang&lt;/code&gt; &lt;code&gt;#滋賀IT&lt;/code&gt; &lt;code&gt;#Go積読&lt;/code&gt; &lt;code&gt;#学生エンジニア&lt;/code&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://biwakogo.connpass.com/event/371663/</guid><enclosure url="https://media.connpass.com/thumbs/bf/d7/bfd7ad177b885031bfbd22efb32fc320.png" length="0" type="image/png"/><pubDate>Thu, 26 Feb 2026 09:56:35 +0900</pubDate></item></channel></rss>
