@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 03 Mar 2026 15:40:02 +0000</lastBuildDate><item><title>【Go ハンズオン with Kyoto.go】Windows / LinuxコマンドをGoで再現！</title><link>https://gdgocku.connpass.com/event/385564/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月7日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月7日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: マネーフォワード 京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒604-8004 京都府京都市中京区河原町東入中島町７８ 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotogo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【Go ハンズオン with Kyoto.go】Windows / Linuxコマンドを自作してGoに入門しよう！&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 04 Mar 2026 15:32:25 +0000</lastBuildDate><item><title>【Go ハンズオン with Kyoto.go】Windows / LinuxコマンドをGoで再現！</title><link>https://gdgocku.connpass.com/event/385564/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月7日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月7日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: マネーフォワード 京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒604-8004 京都府京都市中京区河原町東入中島町７８ 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotogo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【Go ハンズオン with Kyoto.go】Windows / Linuxコマンドを自作してGoに入門しよう！&lt;/h1&gt;
 &lt;h2&gt;&lt;strong&gt;開催情報&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;：3月7日（土）15:00〜18:00  &lt;/li&gt;
@@ -525,23 +525,27 @@ GDG Kyoto では、Antigravity を使ったワークショップを開催しま�
 &lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;13:40 - 15:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;13:40 - 14:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;セットアップ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:00 - 16:00&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;h5&gt;「京都 × 聖地巡礼」をテーマにした Web アプリを Antigravity で作ろう&lt;br&gt;　〜自律型AIエージェントで体験、次世代の爆速プロトタイピング〜&lt;/h5&gt;Google Developer Expert for Android&lt;br&gt;あんざいゆき さん&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;15:40 - 16:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;16:00 - 16:20&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;質問タイム＆成果発表＆休憩&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:00 - 16:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;16:20 - 16:35&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;h5&gt;Gemini CLI を開発に使おう&lt;/h5&gt;GDG Kyoto&lt;br&gt;Rie Kanetaka (robo)&lt;br&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:30 - 16:45&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;16:35 - 16:50&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;おやつタイム&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:45 - 17:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;16:50 - 17:00&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;クロージング、片付け&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -621,7 +625,7 @@ GDG Kyoto では、Antigravity を使ったワークショップを開催しま�
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit?usp=sharing" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit?usp=sharing" rel="nofollow"&gt;English&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkyoto.connpass.com/event/384839/</guid><enclosure url="https://media.connpass.com/thumbs/86/02/8602a777445775e3ae362af736e889d4.png" length="0" type="image/png"/><pubDate>Tue, 03 Mar 2026 16:55:15 +0900</pubDate></item><item><title>関西のLINE API Expert集合！〜LINE API LT Night at 京都 #1〜</title><link>https://linedevelopercommunity.connpass.com/event/384620/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月4日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月4日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード 京都開発拠点&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78番地 明治屋京都ビル 4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LINEDC&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LINE開発者全員集合！今年1年のアウトプットの総決算に！登壇者募集中！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkyoto.connpass.com/event/384839/</guid><enclosure url="https://media.connpass.com/thumbs/86/02/8602a777445775e3ae362af736e889d4.png" length="0" type="image/png"/><pubDate>Wed, 04 Mar 2026 13:51:17 +0900</pubDate></item><item><title>関西のLINE API Expert集合！〜LINE API LT Night at 京都 #1〜</title><link>https://linedevelopercommunity.connpass.com/event/384620/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月4日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月4日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード 京都開発拠点&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78番地 明治屋京都ビル 4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LINEDC&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LINE開発者全員集合！今年1年のアウトプットの総決算に！登壇者募集中！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;関西のLINE API Expert集合！〜LINE API LT Night at 京都 #1〜&lt;/strong&gt; 🌔&lt;/p&gt;
 &lt;p&gt;LINE Developer Communityです。&lt;br&gt;
 この度、京都では初となるオフラインミートアップを開催することになりました！🌸&lt;/p&gt;
