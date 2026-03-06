@@ -1,2 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>高知のイベント</title><link>https://connpass.com/explore/</link><description>高知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>高知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 05 Mar 2026 15:43:05 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>高知のイベント</title><link>https://connpass.com/explore/</link><description>高知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>高知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 06 Mar 2026 15:29:49 +0000</lastBuildDate><item><title>Build with AI 2026 高知 Google Developer Groups</title><link>https://gdgshikoku.connpass.com/event/386792/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月12日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月12日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 和の森 sotoffice（旧Kochi Startup BASE）&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市はりまや町一丁目2番12&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;NotebookLM を使ってデータ分析をやってみよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Build with AI 2026 in 高知&lt;/h1&gt;
+&lt;p&gt;専門的なツールや複雑な関数を一切使わずに NotebookLM に「自然な日本語で問いかけるだけ」で、本格的なBI（データ活用）を実践するスキルを習得します。
+スプレッドシートに眠っている売り上げデータやアンケート結果をAIに読み込ませるだけで単なる「数字の羅列」が下記のようなビジネスの武器へと生まれ変わります。&lt;/p&gt;
+&lt;h2&gt;Build with AI とは？&lt;/h2&gt;
+&lt;p&gt;Google の最新 AI モデルとクラウドテクノロジーを使用して、自分たちの手で便利なものを作ってみよう！という世界中で開催されている体験型のイベントです。&lt;/p&gt;
+&lt;p&gt;非エンジニアの方でも大丈夫です。&lt;/p&gt;
+&lt;h2&gt;【こんな方におすすめ】&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;データ分析の専門知識はないがスプレッドシートのデータを
+活用したい方&lt;/li&gt;
+&lt;li&gt;資料作成の効率を大幅に向上させたい方&lt;/li&gt;
+&lt;li&gt;AIを活用したデータ分析の最新トレンドを知りたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;p&gt;講座内容概要&lt;/p&gt;
+&lt;h3&gt;ステップ１：データ分析のパラダイムシフト&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AIデータ分析の現在地（ChatGPTとの違いとNotebookLMの優位性）を知る&lt;/li&gt;
+&lt;li&gt;「グラウンディング（根拠の明確化）」がなぜビジネスに必要なのか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ステップ２：AIに「正しく」読み取らせるデータ整形術&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NotebookLMが理解しやすいスプレッドシートの構造（1行1データ、リスト形式）を学ぶ&lt;/li&gt;
+&lt;li&gt;AIの理解精度を劇的に変える「カラム名（列見出し）」の付け方&lt;/li&gt;
+&lt;li&gt;【ミニ演習】サンプルデータのクレンジングとアップロード体験&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ステップ３：実践①データ探索と基本分析&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;「データに話しかける」ためのプロンプト（指示文）の基本構造を学ぶ&lt;/li&gt;
+&lt;li&gt;基本統計の抽出（合計、平均、最大最小、外れ値の特定）&lt;/li&gt;
+&lt;li&gt;セグメント分析（特定の条件（地域、期間、属性）での絞り込み）&lt;/li&gt;
+&lt;li&gt;【実践】売上データから「重要な傾向」を発見する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ステップ４：実践②複数ソースの統合と戦略提案への昇華&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;定量データ（数値）と定性データ（アンケート結果等）の組み合わせ分析&lt;/li&gt;
+&lt;li&gt;「なぜこの数値になったのか」をAIとディスカッションする&lt;/li&gt;
+&lt;li&gt;分析結果から「レポート骨子」や「改善案」を自動生成する&lt;/li&gt;
+&lt;li&gt;【実践】複合的なデータから来期の施策を策定する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ステップ５：まとめ（リスク管理とこれからの活用・成果発表）&lt;/h3&gt;
+&lt;h2&gt;日時・場所&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2026/04/12 13:30～16:30（開場13:00）&lt;/li&gt;
+&lt;li&gt;場所 和の森 sotoffice（旧Kochi Startup BASE）&lt;/li&gt;
+&lt;li&gt;参加費：無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;インターネット接続可能なノートパソコン&lt;/li&gt;
+&lt;li&gt;Google アカウント&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgshikoku.connpass.com/event/386792/</guid><enclosure url="https://media.connpass.com/thumbs/4e/c6/4ec6f68b307992afce58baff454d2887.png" length="0" type="image/png"/><pubDate>Fri, 06 Mar 2026 13:04:51 +0900</pubDate></item></channel></rss>
