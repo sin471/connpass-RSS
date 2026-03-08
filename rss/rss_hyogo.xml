@@ -1,5 +1,115 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 07 Mar 2026 15:15:56 +0000</lastBuildDate><item><title>第79回 CoderDojo猪名川 2026/3/28（土） 14:00～16:30</title><link>https://coderdojo-inagawa.connpass.com/event/386936/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 日生中央サピエ 2階 サピエギャラリー&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県川辺郡猪名川町松尾台1-2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;＠日生中央サピエ２階 サピエギャラリー&lt;/p&gt;&lt;div&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 08 Mar 2026 15:16:30 +0000</lastBuildDate><item><title>凡人の、凡人による、凡人のための、AI駆動。</title><link>https://connpass.com/event/386954/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ただ、これが全てではない。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h1&gt;
+&lt;h1&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h1&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;何かしらの自然言語が喋れる（英語、日本語、中国語...）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Google アカウントを持っている＆共有できる&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ノートパソコンを持参できる（iapd + keyboard でもいいかも...）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;https://antigravity.google/ を事前インストールしていると好ましい&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;antigravity が難しいと判断した人は &lt;a href="https://aistudio.google.com/" rel="nofollow"&gt;https://aistudio.google.com/&lt;/a&gt; を使ってバイブコーディングにトライしましょう&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;なんとなく作ってみたいアプリ・ツール・サービス...etc がある&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新しく作ることはハードルが高いので、今あなたの目の前（頭の中）の課題を潰す＝余裕時間を作るということも大切です&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仕事などで繰り返し発生する退屈な作業潰しでもよいかも&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全体として Google系サービスを中心に使用しますが、他のツールやサービスもおおよそ使っているので、各個人お好みのものをお使いください&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;指定書とは&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;限りなく強く以下指定書を持参することをお勧めします.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「イシューからはじめよ」 &lt;a href="https://amzn.asia/d/02kzvdQU" rel="nofollow"&gt;https://amzn.asia/d/02kzvdQU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;著者の主張雑感&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G" rel="nofollow"&gt;https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5" rel="nofollow"&gt;https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HEZW_GbY0Ig" rel="nofollow"&gt;https://www.youtube.com/watch?v=HEZW_GbY0Ig&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E" rel="nofollow"&gt;https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;開場&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;セットアップ&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
+
+&lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;はじめに&lt;/span&gt;
+
+&lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;実装開始&lt;/span&gt;
+
+&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;実装終了・生成物で雑談&lt;/span&gt;
+
+&lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;45&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;おわりに・撤収&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;リクエストがあればランチ会などへ&lt;/p&gt;
+&lt;h1&gt;最近のAI界隈の情報など・予備知識動画&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;https://labs.google/flow/tv/channel/listen-closely/QpjaV7vriVb25FoypAZd?random=true  &lt;/li&gt;
+&lt;li&gt;https://labs.google/fx/ja/tools/whisk/[...catchAll]  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/YamayaT/status/2024001469934895481" rel="nofollow"&gt;https://x.com/YamayaT/status/2024001469934895481&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF" rel="nofollow"&gt;https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/Algomatic_AILab/status/2023685630405103627" rel="nofollow"&gt;https://x.com/Algomatic_AILab/status/2023685630405103627&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tkzwgrs/status/2014163608121585807" rel="nofollow"&gt;https://x.com/tkzwgrs/status/2014163608121585807&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;キーワード&lt;/h1&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google Gemini App / Live
+Google Stitch
+Google Jules
+Google Antigravity
+Google AI Studio
+Firebase Studio
+Gemini CLI
+---
+Google Workspace Studio
+Google Vids
+NotebookLM
+Project Opal
+Flow
+Whisk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1&gt;codex5.4 #claudecode #opus4.6 #gemini3.1 #仕様駆動開発 #openclaw #&lt;a href="http://moltbook.com" rel="nofollow"&gt;moltbook.com&lt;/a&gt; #&lt;a href="http://rentahuman.ai" rel="nofollow"&gt;rentahuman.ai&lt;/a&gt;&lt;/h1&gt;
+&lt;h1&gt;架空のお題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;SEOツールを作ろう -&amp;gt; キーワード取得やランキング変動やら&lt;/li&gt;
+&lt;li&gt;体育館空き状況 確認便利ツールを作ろう&lt;/li&gt;
+&lt;li&gt;自動予約もできるようにしよう&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/386954/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Sun, 08 Mar 2026 13:27:55 +0900</pubDate></item><item><title>第79回 CoderDojo猪名川 2026/3/28（土） 14:00～16:30</title><link>https://coderdojo-inagawa.connpass.com/event/386936/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 日生中央サピエ 2階 サピエギャラリー&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県川辺郡猪名川町松尾台1-2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;＠日生中央サピエ２階 サピエギャラリー&lt;/p&gt;&lt;div&gt;&lt;ul&gt;
 &lt;li&gt;プログラミングを始めたい、プログラミングの腕を上げたい、そんなこどもたちを募集しています。&lt;/li&gt;
 &lt;li&gt;Dojo（道場）では各自がプログラミング学習を進めます。困った時、教えてほしい時にサポートします。&lt;/li&gt;
 &lt;li&gt;サポートするプログラミングはScratch、Unityです。今後ご希望により他のプログラミング言語も追加を検討します。&lt;/li&gt;
@@ -593,30 +703,7 @@ CoderDojo西神では、例えば以下のような内容をサポートして�
 &lt;li&gt;&lt;a href="https://coderdojo.com/ja-JP/safeguarding" rel="nofollow"&gt;子供たちと安全に作業する&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module" rel="nofollow"&gt;セーフガードモジュール&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/384893/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Mon, 16 Feb 2026 12:45:25 +0900</pubDate></item><item><title>日曜もくもく自習の会</title><link>https://math-coding.connpass.com/event/384807/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月8日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月8日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#11&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
-みなが自習したいことをもちより自習をする会です。静かに集中して自習をします。  &lt;br&gt;
-初めての方、歓迎します。      &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;こんな方におすすめ&lt;/strong&gt;  &lt;br&gt;
-もくもく自習したいのと一緒に学ぶ仲間がほしい。少し情報交換したい。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ホスト&lt;/strong&gt;&lt;br&gt;
-Kitamura Tomokazu&lt;br&gt;
-Math &amp;amp; Codingの主催をしています。&lt;br&gt;
-皆で集まったほうが集中できるので、イベントを立ち上げてみました。 &lt;br&gt;
-有意義な時間になればよいなと思います。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;もちもの&lt;/strong&gt;&lt;br&gt;
-本やPCやノートなど、もくもくに必要なもの  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;飲食&lt;/strong&gt;&lt;br&gt;
-飲食物は持ち込みOKです（アルコール不可)。    &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;■設備&lt;/strong&gt;&lt;br&gt;
-電源,Wi-Fi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;タイムテーブル&lt;/strong&gt;&lt;br&gt;
-時間 内容&lt;br&gt;
-13:30 - 16:30 もくもく作業  &lt;br&gt;
-最初に自己紹介、最後に今日やったことを分かち合う時間をもちます。   &lt;/p&gt;
-&lt;p&gt;■諸注意&lt;br&gt;
-会場は禁煙です。&lt;br&gt;
-キャンセルされる場合は、必ずConnpass上でキャンセル処理をお願いいたします。  &lt;/p&gt;
-&lt;p&gt;どうぞお気軽にご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/384807/</guid><enclosure url="https://media.connpass.com/thumbs/47/9d/479d02cda3d580eedcc800a90ffa2c3e.png" length="0" type="image/png"/><pubDate>Sun, 15 Feb 2026 18:46:29 +0900</pubDate></item><item><title>CoderDojo @藤江駅前オアシス26/3/14</title><link>https://coderdojofujie.connpass.com/event/384729/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月14日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月14日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 藤江駅前オアシス&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市藤江1701-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供向けのプログラミングを楽しむ場を無料で提供します。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo @藤江駅前オアシス の参加者を募集します&lt;/h1&gt;
+&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/384893/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Mon, 16 Feb 2026 12:45:25 +0900</pubDate></item><item><title>CoderDojo @藤江駅前オアシス26/3/14</title><link>https://coderdojofujie.connpass.com/event/384729/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月14日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月14日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 藤江駅前オアシス&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市藤江1701-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供向けのプログラミングを楽しむ場を無料で提供します。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo @藤江駅前オアシス の参加者を募集します&lt;/h1&gt;
 &lt;p&gt;下記の内容をよくお読みになってからお申込みはこちらのページから保護者の方がおこなってください。&lt;/p&gt;
 &lt;p&gt;CoderDojoでは小中学生を対象にプログラミングを中心とした創作の場を提供します。 子供自身が作りたいものをメンターと呼ばれる大人がサポートしながら進めていきます。もちろんサポートなしでもどんどん進めることができます。&lt;/p&gt;
 &lt;p&gt;プログラミング教室のようにおしえてもらうのではなく自分で考えて作っていきます。また一人でなかなか進まない時でも同じ目標のみんなと楽しく過ごすことができます。&lt;/p&gt;

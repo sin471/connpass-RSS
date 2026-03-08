@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>奈良のイベント</title><link>https://connpass.com/explore/</link><description>奈良のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>奈良のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 07 Mar 2026 15:15:59 +0000</lastBuildDate><item><title>AI駆動開発 勉強会 奈良支部 第一回</title><link>https://aid.connpass.com/event/386192/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: BONCHI&lt;/li&gt;&lt;li&gt;🏢 住所: 奈良県奈良市橋本町3-1 4F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📢 イベント概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>奈良のイベント</title><link>https://connpass.com/explore/</link><description>奈良のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>奈良のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 08 Mar 2026 15:16:33 +0000</lastBuildDate><item><title>AI駆動開発 勉強会 奈良支部 第一回</title><link>https://aid.connpass.com/event/386192/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: BONCHI&lt;/li&gt;&lt;li&gt;🏢 住所: 奈良県奈良市橋本町3-1 4F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📢 イベント概要&lt;/h2&gt;
 &lt;p&gt;奈良でAI駆動開発（AI-Driven Development）を学ぶ記念すべき第一回目の勉強会です！&lt;/p&gt;
 &lt;p&gt;話題の書籍「&lt;a href="https://gihyo.jp/book/2025/978-4-297-15275-8" rel="nofollow"&gt;Claude Code によるAI駆動開発入門&lt;/a&gt;」をテキストに、AIと一緒にプログラミングする新しい開発スタイルを体験してみませんか？&lt;/p&gt;
 &lt;p&gt;今回は第一章の内容に沿って、&lt;strong&gt;Claude Codeのアカウント登録作業から&lt;/strong&gt;みんなで一緒に、ハンズオン形式で丁寧に進めていきます。
@@ -90,109 +90,50 @@
 &lt;li&gt;某外資系メーカー勤務。約10年前にAIに目覚め、猛勉強。ちょっとしたAIが作れます。去年にAI駆動開発の魅力に気づきAIを「作る」だけでなく「使う」活動も推進中。最近の趣味は着物を着ること。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/386192/</guid><enclosure url="https://media.connpass.com/thumbs/14/9f/149f6d41750d1c880caebfc45a38d2f7.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 17:58:09 +0900</pubDate></item><item><title>【ことテク2026 β版】生成 AI コーディングの波に乗り遅れるな！AI駆動開発ハンズオン</title><link>https://kotonara.connpass.com/event/385862/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月8日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月8日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: OKUNO RENTAL SPACE&lt;/li&gt;&lt;li&gt;🏢 住所: 〒630-8241 奈良県奈良市高天町45-2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ことてく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;- 古都から Beyond Vibe Coding 時代を切り開くワークショップ -&lt;/p&gt;&lt;div&gt;&lt;h2&gt;🦌 &lt;strong&gt;古都から Beyond Vibe Coding 時代を切り開くワークショップ&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;2025年、Claude Code などの登場により「&lt;strong&gt;Vibe Coding&lt;/strong&gt;（ニュアンスや自然言語によるコーディング）」の波が押し寄せ、エンジニアのみならず世界中の人々は沸き立ちました。&lt;/p&gt;
-&lt;p&gt;しかし、その進化は止まることを知りません。&lt;/p&gt;
-&lt;p&gt;現在では &lt;strong&gt;SDD（仕様駆動開発）ツール、自律型コーディングエージェント、マルチエージェントシステム&lt;/strong&gt;などが次々と登場し、「情報が多すぎて、結局何から手をつければいいかわからない…」と悩んでいる方も多いのではないでしょうか？&lt;/p&gt;
-&lt;p&gt;本イベントは、そんなモヤモヤを吹き飛ばす超実践型ワークショップです。&lt;/p&gt;
-&lt;p&gt;AI 駆動開発の最新トレンドのキャッチアップから、実際の環境構築、そしてAIエージェントを活用したアプリ開発までを一気に体験します。「&lt;strong&gt;Beyond Vibe Coding（Vibe Codingのその先）&lt;/strong&gt;」の時代を生き抜くための開発スキルを一緒に身につけましょう！&lt;/p&gt;
-&lt;h2&gt;💡 このワークショップで得られること&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;最新の AI 駆動開発（Agentic Coding）のトレンドと全体像の理解&lt;/li&gt;
-&lt;li&gt;AI 駆動開発環境のセットアップ経験&lt;/li&gt;
-&lt;li&gt;自然言語や仕様書から一気にアプリを組み上げる実践的な開発スキル&lt;/li&gt;
-&lt;li&gt;同じ関心を持つ開発者や学生とのネットワーク&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎯 こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;授業や仕事、趣味などで簡単な Web アプリ開発の経験がある方（言語は問いません）&lt;/li&gt;
-&lt;li&gt;コーディングエージェントに興味があるが、まだ触れていない方&lt;/li&gt;
-&lt;li&gt;最新の技術トレンドをインプットしつつ、実際に手を動かしてみたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;イベント詳細&lt;/h2&gt;
-&lt;h3&gt;🕒 タイムテーブル&lt;/h3&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/386192/</guid><enclosure url="https://media.connpass.com/thumbs/14/9f/149f6d41750d1c880caebfc45a38d2f7.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 17:58:09 +0900</pubDate></item><item><title>奈良アジャイル Vol.3</title><link>https://naragile.connpass.com/event/385582/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月18日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月18日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ここ奈良いちばん会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒6308224 奈良県奈良市角振町26 いせやビル 513号室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LTでわいわいする回&lt;/p&gt;&lt;div&gt;&lt;h1&gt;奈良アジャイルとは&lt;/h1&gt;
+&lt;p&gt;奈良を拠点にアジャイル好きな人たちが気軽に交流・相談・勉強することを目的としたコミュニティです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;交流&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;コミュニティに参加したことがない方や、大きな集まりに不安を感じる方でも、安心して仲間を見つけられる場です。
+アジャイル初心者の方はもちろん、奈良に縁のある方、奈良にご興味がある方も大歓迎です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相談&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;普段の活動で孤軍奮闘する方が日々の悩みを打ち明け、一緒に解決の糸口を探せる場です。
+「何を相談したらよいかわからない」という方でも、対話を通して気づきや次の一歩を見つけられることを目指します。
+お互いに話を聞き、支え合うことで前に進むきっかけを生み出せるようにします。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;勉強&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;登壇や発表の練習、意見交換にも取り組みやすい少人数での開催を基本とします。
+参加者同士がフィードバックを交わしながら学び合い、一人では得られない視点や新たな発見に出会いながら、共に成長できる機会を大切にします。&lt;/p&gt;
+&lt;h1&gt;今回のテーマ「LTでわいわいしよう」&lt;/h1&gt;
+&lt;p&gt;普段の取り組みやこれから挑戦したいこと、考えていたり悩んでいることでもアジャイルやスクラムに関連するテーマなら何でもOK！&lt;br&gt;
+みんなで感想やフィードバックを共有し合いながら、話し手も聞き手も学びを得られる時間を過ごしたいと思っています！&lt;br&gt;
+&lt;strong&gt;もちろん、初めてのご参加も大歓迎です！！&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+発表毎に以下のような流れで進めようと考えていますが、参加者数に応じて調整予定です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;5分前後を目安に発表&lt;/li&gt;
+&lt;li&gt;質問や感想、フィードバック&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;時間&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;13:20&lt;/td&gt;
-&lt;td&gt;開場・受付開始&lt;/td&gt;
+&lt;td&gt;19:00 - 19:10&lt;/td&gt;
+&lt;td&gt;開場・設営&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;13:30&lt;/td&gt;
-&lt;td&gt;オープニング・イベント主旨説明&lt;/td&gt;
+&lt;td&gt;19:10 - 20:50&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;13:45&lt;/td&gt;
-&lt;td&gt;【講義】AI駆動開発の現在地 〜Beyond Vibe Coding〜&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:15&lt;/td&gt;
-&lt;td&gt;【レクチャー】AIエージェント開発の環境構築&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00&lt;/td&gt;
-&lt;td&gt;休憩&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:15&lt;/td&gt;
-&lt;td&gt;【ハンズオン】Claude Code Plan モードと仕様駆動開発（SDD）を体験&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;17:30&lt;/td&gt;
-&lt;td&gt;まとめ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:00&lt;/td&gt;
-&lt;td&gt;ネットワーキング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;完全撤収&lt;/td&gt;
+&lt;td&gt;20:50 - 21:00&lt;/td&gt;
+&lt;td&gt;終了・撤収&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3&gt;🎒 持ち物&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ノートPC（Wi-Fi接続が可能なもの）&lt;/li&gt;
-&lt;li&gt;Google Cloud に登録できる Google アカウント&lt;/li&gt;
-&lt;li&gt;GitHub アカウント&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;新しい技術を楽しむ心！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;📝申し込み方法&lt;/h3&gt;
-&lt;p&gt;この connpass ページよりお願いいたします。&lt;br&gt;
-みなさんのご参加、心よりお待ちしています！✨&lt;/p&gt;
-&lt;h3&gt;✅ 参加者の皆様にお願いすること&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;現在のスケジュールや内容と一部変更する場合もございますこと、御了承くださいませ。&lt;/li&gt;
-&lt;li&gt;参加当日に発熱や息苦しさ、強いだるさ、咳・喉頭痛などの症状がある方は、ご来場をお控えくださいませ。&lt;/li&gt;
-&lt;li&gt;お申し込みいただいた後は、できるだけ予定通りご参加くださいませ。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;その他注意事項&lt;/h3&gt;
-&lt;p&gt;個人情報については、当社プライバシーポリシーに基づき、適正に取り扱います。
-ご参加いただく皆様が気持ちよく交流できるよう、以下のような行動はお控えください。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;イベントの妨害と見られる言動&lt;/li&gt;
-&lt;li&gt;開催者及び参加者に対して一方的な批判また攻撃的な言動&lt;/li&gt;
-&lt;li&gt;人材紹介、マルチ商法、宗教など、イベントとは関係のない勧誘&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;ことならテックプロジェクトとは&lt;/h2&gt;
-&lt;p&gt;ことならではの課題、
-ことならではの挑戦。
-今から約1300年前に都として栄えていた古都奈良
-現代の古都奈良には様々な課題があります&lt;/p&gt;
-&lt;p&gt;そんな古都奈良の課題をテクノロジの力で解決してくプロジェクトです&lt;/p&gt;
-&lt;p&gt;ことならテックプロジェクトサイト：&lt;a href="https://www.kotonara.tech/" rel="nofollow"&gt;https://www.kotonara.tech/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;協賛企業：カラビナテクノロジー株式会社&lt;/h2&gt;
-&lt;p&gt;カラビナテクノロジーは、主にシステム開発・アプリ開発・ Webサイト制作を行っている福岡の会社です。
-「命綱や支点を素早く確実に繋ぐカラビナ。そんなカラビナのような役割をテクノロジーで実現したい」という想いのもと、2015年8月、福岡で設立しました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;カラビナWEBサイト：&lt;a href="https://karabiner.tech/" rel="nofollow"&gt;(https://karabiner.tech/)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;カラビナYoutube：&lt;a href="https://www.youtube.com/channel/UCnyNaNT3Pxf8MiZ8jD7Il5Q" rel="nofollow"&gt;(カラビナ公式youtube)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;カラビナブログ：&lt;a href="https://karabiner.tech/blogs/" rel="nofollow"&gt;(カラビナブログ)&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kotonara.connpass.com/event/385862/</guid><enclosure url="https://media.connpass.com/thumbs/e5/67/e56736b245d6cfb6cd590c47ad052321.png" length="0" type="image/png"/><pubDate>Thu, 05 Mar 2026 13:47:06 +0900</pubDate></item></channel></rss>
+&lt;h1&gt;参加費について&lt;/h1&gt;
+&lt;p&gt;参加費は会場費に充てさせていただきます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://naragile.connpass.com/event/385582/</guid><enclosure url="https://media.connpass.com/thumbs/39/b2/39b23352887776b6d718ae7db42924f4.png" length="0" type="image/png"/><pubDate>Sun, 08 Mar 2026 22:25:54 +0900</pubDate></item></channel></rss>
