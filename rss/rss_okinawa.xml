@@ -1,5 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 09 Mar 2026 15:52:02 +0000</lastBuildDate><item><title>沖縄マイクラ部 教育版マインクラフト・Scratchで学ぶプログラミング～AI・動画編集</title><link>https://minecraft098.connpass.com/event/387120/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄中国語・韓国語教室&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Minecraft&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;沖縄マイクラ部 プログラミングスクール「クロスウェーブ」、参加者募集中（小学生、中学生、高校生）&lt;/p&gt;&lt;div&gt;&lt;h2&gt;沖縄マイクラ &amp;amp; Scratch・Python・AI・動画編集教室、参加者募集中&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 10 Mar 2026 15:54:15 +0000</lastBuildDate><item><title>CoderDojo Onna@OIST (Conference Center)</title><link>https://coderdojo-nago.connpass.com/event/387269/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月12日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月12日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１&lt;/li&gt;&lt;li&gt;🏢 住所: 恩納村字谷茶1919-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hands-on Programming Session&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Target&lt;/h1&gt;
+&lt;p&gt;7 to 17 years old&lt;/p&gt;
+&lt;p&gt;It is a place for self-study and learning together to create and express themselves through technology.&lt;/p&gt;
+&lt;p&gt;Elementary school participants must be accompanied by a parent or guardian.&lt;/p&gt;
+&lt;p&gt;Parents and guardians attending the event and those who register for the event are requested to read the description of this event.&lt;/p&gt;
+&lt;h1&gt;Self-organized sessions&lt;/h1&gt;
+&lt;p&gt;We are looking for self-organized sessions.&lt;/p&gt;
+&lt;p&gt;If you have something you would like to present, please let us know the content and required time.&lt;/p&gt;
+&lt;p&gt;The presentation language may be Japanese, English, or both.&lt;/p&gt;
+&lt;h1&gt;What you can do, for example&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Create stories, games, and animations to share with everyone around the world.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;a Scratch studio&lt;/a&gt; for adding projects from everyone participating in CoderDojo Nago. If you would like to add your work, please let us know in the comments, and we will invite you as a curator.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3 is a modified version of Scratch that allows you to use self-made extensions. There are various extensions that can be used, such as voice recognition (Speech to Scratch), pose recognition (Pose Net to Scratch), machine learning that can learn images and sounds (ML to Scratch), and ChatGPT (Chat GPT to Scratch). there is.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;Kids code recipe&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kids Code Recipe is a programming recipe site that introduces how to create games and animations using various programming materials for children and beginners.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A mysterious robot toy that leads children to various creative endeavors.&lt;/p&gt;
+&lt;p&gt;There is also an app &lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt; that allows even elementary school students to easily create robot games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Challenge yourself with a one-hour tutorial for all ages in over 45 languages. millions of students and teachers in over 180 countries have started their Hour of Code.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;HackforPlay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay is a web service that lets you learn programming while creating games. You can read and write JavaScript code to realize your own ideas in games or create your own original games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The micro:bit has many input and output features such as LED display, buttons, and sensors, allowing you to interact with yourself and your surroundings through programming.&lt;/p&gt;
+&lt;p&gt;In CoderDojo Nago, in addition to the micro:bit itself, there are modules to expand its functionality such as the micro:bit Workshop Module and REKA:BIT.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It is an open source integrated software for 3DCG and 2D animation production.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tinkercad is a free web app for 3D design, electronics, and coding.&lt;/p&gt;
+&lt;p&gt;At CoderDojo Nago, you can convert 3D designs created in Tinkercad into sliced data using FlashPrint 5, and then print them using the Adventurer3 Lite 3D printer.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Get a taste of programming with Progate's free, illustration-driven slides.&lt;/p&gt;
+&lt;p&gt;Please register as a free Progate member in advance to participate.&lt;/p&gt;
+&lt;p&gt;Children who have completed the lessons of the free plan and wish to continue learning can also receive a free corporate plan through "Progate, a programming learning service, in partnership with CoderDojo Japan".&lt;/p&gt;
+&lt;h1&gt;How to apply (connpass)&lt;/h1&gt;
+&lt;p&gt;If you are applying for more than one person, please apply for separate accounts.&lt;/p&gt;
+&lt;p&gt;One account can be set up for each e-mail address on connpass.&lt;/p&gt;
+&lt;h1&gt;Participation Fee&lt;/h1&gt;
+&lt;p&gt;Free of charge&lt;/p&gt;
+&lt;h1&gt;Donations to CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;CoderDojo Nago is supported by your donations.&lt;/p&gt;
+&lt;p&gt;We need your support to continue our activities.&lt;/p&gt;
+&lt;p&gt;In order to continue our activities, CoerDojo Nago accepts donations.&lt;/p&gt;
+&lt;h1&gt;About video/photography&lt;/h1&gt;
+&lt;p&gt;When taking videos or photos, please be careful not to include participants other than your child in the photo.&lt;/p&gt;
+&lt;h1&gt;Publicity&lt;/h1&gt;
+&lt;p&gt;We may post photos and videos of our events on the CoderDojo Nago website, SNS, YouTube, and other media.&lt;/p&gt;
+&lt;p&gt;Please be aware of this when participating in the event.&lt;/p&gt;
+&lt;h1&gt;Please help us prevent the spread of the new coronavirus!&lt;/h1&gt;
+&lt;p&gt;Even after vaccination, please continue to "wear a mask," "wash your hands," and "avoid the 3 densities (close, dense, and enclosed).&lt;/p&gt;
+&lt;h1&gt;Inquiries&lt;/h1&gt;
+&lt;p&gt;Please contact us through the &lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;inquiry form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Inquiries to the venue will not be handled.&lt;/p&gt;
+&lt;h1&gt;Volunteer Participation&lt;/h1&gt;
+&lt;p&gt;We are looking for volunteers to participate.&lt;/p&gt;
+&lt;p&gt;Technical skills are not required. Would you like to be present as children inspire ideas and demonstrate their creativity?&lt;/p&gt;
+&lt;h1&gt;Hosted by CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo Nago&lt;/a&gt;  is a non-profit programming club established to spread the principles of CoderDojo and support the community in the northern region of Okinawa Prefecture.&lt;/p&gt;
+&lt;p&gt;CoderDojo Nago adheres to the following principles outlined in the CoderDojo Charter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We commit to inspiring and supporting young people to learn how to create technology
+&lt;/li&gt;&lt;li&gt;We commit to the highest possible standards of child protection in our jurisdiction
+&lt;/li&gt;&lt;li&gt;We commit to not charging children attending nor their parents
+&lt;/li&gt;&lt;li&gt;We commit to encourage parent participation within our Dojo
+&lt;/li&gt;&lt;li&gt;We commit to sharing our knowledge for free (libre and open)
+&lt;/li&gt;&lt;li&gt;We commit to share our knowledge within our Dojo and to other Dojos
+&lt;/li&gt;&lt;li&gt;We commit to take care and uphold the good name of the global CoderDojo community
+&lt;/li&gt;&lt;li&gt;We commit to encouraging collaboration, peer to peer mentoring and project work between the attendees
+&lt;/li&gt;&lt;li&gt;We commit to welcoming volunteers and children regardless of gender, race, sexual orientation, creed, religion or ability.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;Cooperation&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;Okinawa Institute of Science and Technology Graduate University (OIST)&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;対象&lt;/h1&gt;
+&lt;p&gt;7歳から17歳まで&lt;/p&gt;
+&lt;p&gt;テクノロジーで作ったり、表現するため、自学自習をしたり、学び合う場です。&lt;/p&gt;
+&lt;p&gt;小学生の参加者は保護者の同伴が必要です。&lt;/p&gt;
+&lt;p&gt;イベントに参加する保護者の方及び申し込みをする方は本イベントの説明をご確認ください。&lt;/p&gt;
+&lt;h1&gt;セルフオーガナイズドセッション&lt;/h1&gt;
+&lt;p&gt;セルフオーガナイズドセッションを募集しています。&lt;/p&gt;
+&lt;p&gt;発表をしたいことがありましたら、内容や必要な時間などお知らせください。&lt;/p&gt;
+&lt;p&gt;発表する際の言語は、日本語、英語、または両方でもOKです。&lt;/p&gt;
+&lt;h1&gt;新規ボランティアの受け入れについて&lt;/h1&gt;
+&lt;p&gt;ボランティアの参加を募集しています。技術スキルは必須ではありません。子どもたちがアイデアをひらめかせたり、創造性を発揮する場に立ち会いませんか？&lt;/p&gt;
+&lt;p&gt;ボランティアで参加される方は事前に&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/3" rel="nofollow"&gt;行動規範&lt;/a&gt;を必ずご確認ください。&lt;/p&gt;
+&lt;p&gt;初めてボランティアに申し込まれた際は、イベント参加前にGoogle Meetで面接を行います。&lt;/p&gt;
+&lt;h1&gt;できること、例えば・・・&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;物語や、ゲーム、アニメーションを作ろう世界中のみんなと共有しよう。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;Scratchスタジオ&lt;/a&gt;もあります。CoderDojo名護に参加するみなさんのプロジェクトを追加するスタジオです。作品を追加したい場合は、キュレーターに招待しますのでコメントでお知らせください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3(ストレッチスリー)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3は自作の拡張機能を使えるように改造したScratchです。音声認識、ポーズの認識、画像や音声を学習させることができる機械学習、ChatGPTなどが使えるいろいろな拡張機能があります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;キッズコードレシピ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;キッズコードレシピは色々なプログラミング教材を使ったゲームやアニメーションなどのつくり方を子ども・初心者向けに紹介しているプログラミングのレシピサイトです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;子どもたちを様々な創意工夫へと導く不思議なロボットトイです。&lt;/p&gt;
+&lt;p&gt;小学生からでもカンタンにロボットゲームが作れるアプリ&lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt;もあります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;45ヶ国語以上の全世代を対象とした1時間のチュートリアルに挑戦してみて下さい。180以上の国で数百万人の生徒と先生がHour of Codeを始めています。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;ハックフォープレイ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay はゲームを作りながらプログラミングが学べる Web サービスで、 JavaScript で書かれたコードの読み書きを行って、自ら考えたアイデアをゲーム上で実現したり、オリジナルのゲームを作ることができます。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;LEDディスプレイやセンサーなど多くの入出力機能を持ち、プログラムで操作できます。&lt;/p&gt;
+&lt;p&gt;遊び方はいろいろです。&lt;a href="https://note.com/coderdojonago/n/nc2cd835f3235" rel="nofollow"&gt;「ラジコンカー」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/n2c9f6acf9c77" rel="nofollow"&gt;「ろくろアート」や「ターンテーブル」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/nac9f73e5d824" rel="nofollow"&gt;「micro:bit、micro:bit用ワークショップモジュール、 GeekServo、Legoを使って遊ぶ」&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;オープンソースの統合型3DCG製作、2Dアニメーション製作のソフトウェアです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;3Dデザイン、電子工作、コーディングのための無料Webアプリです。&lt;/p&gt;
+&lt;p&gt;3Dプリンターで印刷する方法は&lt;a href="https://note.com/coderdojonago/n/n87d0f67ee3f5" rel="nofollow"&gt;3Dプリントのあんちょこ&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;イラスト中心のスライドで学ぶことができるProgateの無料プランでプログラミングに触れてみよう。&lt;/p&gt;
+&lt;p&gt;無料プランのレッスンを終え、引き続き学びたい子どもたちには&lt;a href="https://prog-8.com/about/news/71" rel="nofollow"&gt;「プログラミング学習のProgate、CoderDojo Japanと提携」&lt;/a&gt;により法人プランの無料提供を受けることもできます。&lt;/p&gt;
+&lt;h1&gt;申込方法（connpass）について&lt;/h1&gt;
+&lt;p&gt;複数名、申し込む場合は、アカウントを分けて申し込み下さい。&lt;/p&gt;
+&lt;p&gt;connpassは１メールアドレスにつき１アカウント設定できます。&lt;/p&gt;
+&lt;p&gt;メールアドレスをお持ちでない場合は&lt;a href="https://gmail.com/" rel="nofollow"&gt;Gmai&lt;/a&gt;lなどで作成ください。&lt;/p&gt;
+&lt;p&gt;connpassの機能については&lt;a href="http://help.connpass.com/participants/event-join" rel="nofollow"&gt;connpass ご利用ガイド&lt;/a&gt;をご確認ください。&lt;/p&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h1&gt;ご寄附によるご支援のお願い&lt;/h1&gt;
+&lt;p&gt;CoderDojo名護はみなさまのご支援により運営されています。&lt;/p&gt;
+&lt;p&gt;継続して活動を続けるため、CoerDojo名護は寄付を受け付けています。&lt;/p&gt;
+&lt;h1&gt;ビデオ・写真撮影について&lt;/h1&gt;
+&lt;p&gt;ビデオ・写真撮影をされる場合は、ご自身のお子様以外の参加者が写り込まないよう配慮をお願いします。&lt;/p&gt;
+&lt;h1&gt;広報について&lt;/h1&gt;
+&lt;p&gt;イベントの様子などを&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護のウェブサイト&lt;/a&gt;、SNS、YouTubeなどに掲載することがあります。&lt;/p&gt;
+&lt;p&gt;参加する際はご了承ください。&lt;/p&gt;
+&lt;h1&gt;お問い合わせについて&lt;/h1&gt;
+&lt;p&gt;「&lt;a href="./inquiry/" rel="nofollow"&gt;イベントへのお問い合わせ&lt;/a&gt;」または&lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;問い合わせフォーム&lt;/a&gt;からお願いします。&lt;/p&gt;
+&lt;p&gt;会場へ問い合わせをしても対応致しかねます。&lt;/p&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、沖縄県北部地域でCoderDojo の理念を広め、コミュニティをサポートするために設立された非営利のプログラミングクラブです。&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、以下にある&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo憲章&lt;/a&gt;の理念を保持します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;若者が技術を作り上げていくための支援を行い、ひらめきを与えることに尽力します
+&lt;/li&gt;&lt;li&gt;できうる範囲で、高い水準の児童保護を優先します
+&lt;/li&gt;&lt;li&gt;道場に参加する子ども達や、その保護者から料金を徴収しません
+&lt;/li&gt;&lt;li&gt;保護者が道場に参加することを推奨します
+&lt;/li&gt;&lt;li&gt;持っている知識を自由かつオープンに共有します
+&lt;/li&gt;&lt;li&gt;自分たちの道場内だけでなく、他の道場とも知識を共有します
+&lt;/li&gt;&lt;li&gt;CoderDojo コミュニティの国際的なブランドを維持し、大切にします
+&lt;/li&gt;&lt;li&gt;参加者間の協力を促進し、同世代間のメンタリングや参加者同士のプロジェクトを推奨します
+&lt;/li&gt;&lt;li&gt;性別、人種、性的指向、信念、宗教、能力 (障がい等) に関係なく、ボランティアや子ども達を歓迎します
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;協力&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;学校法人沖縄科学技術大学院大学学園&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nago.connpass.com/event/387269/</guid><enclosure url="https://media.connpass.com/thumbs/d9/2f/d92feb19f9c9bedf77264edb5d679332.png" length="0" type="image/png"/><pubDate>Tue, 10 Mar 2026 21:19:34 +0900</pubDate></item><item><title>沖縄マイクラ部 教育版マインクラフト・Scratchで学ぶプログラミング～AI・動画編集</title><link>https://minecraft098.connpass.com/event/387120/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月15日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月15日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄中国語・韓国語教室&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Minecraft&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;沖縄マイクラ部 プログラミングスクール「クロスウェーブ」、参加者募集中（小学生、中学生、高校生）&lt;/p&gt;&lt;div&gt;&lt;h2&gt;沖縄マイクラ &amp;amp; Scratch・Python・AI・動画編集教室、参加者募集中&lt;/h2&gt;
 &lt;p&gt;沖縄マイクラ部では、教育版マインクラフトを利用して小学生から高校生にプログラミング教育やマインクラフト上での作品作りを体験してもらっているスクールです。&lt;/p&gt;
 &lt;p&gt;一緒にマインクラフトを楽しんだりプログラミングの勉強をしていきたいという仲間を募集しています。子供たちへのプログラミング教育を目指して「Scratch」「MakeCode」「Python」「JavaScript」「Roblox（Lua）」「Unity」「プチコン（Smile BASIC）」や「RPGツクール」「RPG Developer Bakin」の勉強会も開始しました。&lt;/p&gt;
 &lt;p&gt;教育版マインクラフトを利用した遊びやゲーム・作品作り、ScratchやPython、JavaScript、MakeCodeによるプログラミングを通じて、沖縄の未来のデジタルクリエイティブ人材・DX人材の育成を模索しています&lt;/p&gt;
