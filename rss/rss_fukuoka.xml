@@ -1,5 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 10 Mar 2026 15:53:57 +0000</lastBuildDate><item><title>本番前追い込み電検三種勉強会</title><link>https://fukuokadenken.connpass.com/event/387231/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月20日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: aipカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0073 福岡県福岡市中央区舞鶴３丁目８−７　クレインビル202号室&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;電験三種の試験の本番直前ということで、
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 11 Mar 2026 15:40:56 +0000</lastBuildDate><item><title>ゲーム分科会#37(2026-04-05)</title><link>https://game-tech.connpass.com/event/387338/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月5日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月5日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0001 福岡県福岡市中央区天神１丁目１５−３０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲーム分科会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;特別企画！昔のゲームのプログラムを覗いてみよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;ゲーム開発に興味がある人々の集まりです！ (UnityでもUnrealでもJavascriptでもなんでもござれ！)&lt;br&gt;&lt;br&gt;
+参加者が各自、ゲームの開発作業を意見を交換しながら行ったり、ゲーム制作に興味がある人にアドバイスができるイベントです。&lt;br&gt;&lt;br&gt;
+積極的にコミュニケーション取れる場にしたいと考えています。わからない事は教え合ったり、一緒に考えるイベントを志しています。&lt;br&gt;&lt;br&gt;
+参加者の技術スタックとしてはUnityを使う人が一番多いかもしれません。 2D/3D、VR/ARなど様々なゲームが作れて、事前にインストールしてきていただければ黙々と作業しやすいと思います。&lt;br&gt;&lt;br&gt;
+「ゲーム」の枠を拡張して各々の興味を深堀りしてきましょう！！ XR技術のキャッチアップや検証、プロトタイピングからゲームのサーバー運用方面までいろんな方のお越しをお待ちしております。&lt;br&gt;&lt;br&gt;
+特にやりたいことがない方は以下のような話題の調べ学習にどうですか？&lt;br&gt;&lt;br&gt;
+マインクラフトのマルチプレイサーバーを作ってみたい(Raspberry Piで立てられる？)&lt;br&gt;
+ノベルゲームを作ってみたい &lt;br&gt;
+３Dや２Dで自分の作ったステージをキャラに歩かせたい &lt;br&gt;
+会場となる福岡市エンジニアカフェにもゲーム関連の書籍や開発サポート用のデバイス(Meta Quest、mocopi など)がありますので、こちらをお借りすることもできます。&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;場所&lt;/h1&gt;
+&lt;p&gt;ミーティングスペース(エンジニアカフェ地下)&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;p&gt;10:00-10:15　主催者によるLT（飛び入り大歓迎）&lt;br&gt;
+10:15-13:25「今日やること」を各自で宣言・もくもくと頑張ります会&lt;br&gt;
+11:30「今日やったこと」「出来たこと」や「分からなかったこと」などを共有して雑談&lt;br&gt;
+12:00　終了 (ランチにでもぜひ)&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;こんな人も来ます&lt;/h2&gt;
+&lt;p&gt;ロボット開発にUnityを利用している開発者&lt;br&gt;
+グラフィックデザイナー&lt;br&gt;
+サーバサイドエンジニア&lt;br&gt;
+インディーゲームの開発者&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;主催者の技術スタック&lt;/h2&gt;
+&lt;p&gt;ノベルゲームであれば 会話を一文字ごと表示、早送り キャラの変更 テキストの読み出し &lt;br&gt;
+アクションゲームであれば キャラや地形の配置 キャラ動作 キーボードやスマホ画面での操作 などなど！&lt;/p&gt;
+&lt;h2&gt;話題&lt;/h2&gt;
+&lt;p&gt;国土交通省の『Plateau SDK』がUnity Assets (+ Unreal Engineに)来たぞ！！ &lt;a href="https://assetstore.unity.com/packages/tools/utilities/plateau-sdk-for-unity-245703&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;https://assetstore.unity.com/packages/tools/utilities/plateau-sdk-for-unity-245703&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+2023/3/31付で福岡市のモデルが公開されたぞ &lt;a href="https://www.mlit.go.jp/plateau/plateau-view-app/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;https://www.mlit.go.jp/plateau/plateau-view-app/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+RPG maker uniteが来る!!(先月のmeetupでツクールについての回顧がありました) &lt;a href="https://rpgmakerunite.com/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;https://rpgmakerunite.com/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+Godot 4.0良さそう &lt;a href="https://automaton-media.com/articles/newsjp/20230302-239222/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;https://automaton-media.com/articles/newsjp/20230302-239222/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+Ebiten Go製のツールでニンテンドースイッチにゲームをリリース https://zenn.dev/hajimehoshi/articles/72f027db464280&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;おすすめ書籍&lt;/h2&gt;
+&lt;p&gt;7大ゲームの作り方を完全マスター! ゲームアルゴリズムまるごと図鑑 &lt;a href="http://amazon.jp/dp/4297126095/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4297126095/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+Unityではじめる ROS・人工知能 ロボットプログラミング実践入門 &lt;a href="http://amazon.jp/dp/4862465307/creazynet-22/ref=nosim/&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4862465307/creazynet-22/ref=nosim/&lt;br&gt;&lt;/a&gt;
+[ゲーム&amp;amp;モダンJavaScript文法で2倍楽しい]グラフィックスプログラミング入門 ——リアルタイムに動く画面を描く。プログラマー直伝の基本 (WEB+DB PRESS plus) &lt;a href="http://amazon.jp/dp/4297110857/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4297110857/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+戦略ゲームAI 解体新書 ストラテジー&amp;amp;シミュレーションゲームから学ぶ最先端アルゴリズム &lt;a href="http://amazon.jp/dp/4798154415/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4798154415/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+Unityゲーム プログラミング・バイブル 2nd Generation &lt;a href="http://amazon.jp/dp/4862465072/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4862465072/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+Unity2021 3D/2Dゲーム開発実践入門 &lt;a href="http://amazon.jp/dp/4802613156/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4802613156/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;&lt;/a&gt;
+クラウドゲームをつくる技術 ──マルチプレイゲーム開発の新戦力 &lt;a href="http://amazon.jp/dp/4774199419/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;" rel="nofollow"&gt;http://amazon.jp/dp/4774199419/creazynet-22/ref=nosim/&lt;br&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Twitter&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/Lawz5C" rel="nofollow"&gt;https://twitter.com/Lawz5C&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Discord&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://discord.gg/6mqcq3eFHH" rel="nofollow"&gt;https://discord.gg/6mqcq3eFHH&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://game-tech.connpass.com/event/387338/</guid><enclosure url="https://media.connpass.com/thumbs/ac/23/ac237186ff7ce36a32f6a5b6a8eb0a83.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 13:35:03 +0900</pubDate></item><item><title>Japan Datadog User Group Meetup#19@福岡</title><link>https://datadog-jp.connpass.com/event/387237/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月1日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月1日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社Fusic オープンオフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0001 福岡県福岡市中央区天神４丁目１−１ 第７明星ビル 1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;JDDUGについて&lt;/h1&gt;
+&lt;p&gt;日本で Datadog を利用しているユーザコミュニティのイベントです。&lt;br&gt;
+今後、定期的なイベントにしていくことを目標に早くも福岡での第4回を開催します。&lt;/p&gt;
+&lt;p&gt;誰でも参加可能なコミュニティ &lt;a href="https://t.co/dpBETMaosn" rel="nofollow"&gt;Slack Workspace&lt;/a&gt; も是非。&lt;/p&gt;
+&lt;h1&gt;今回は現地開催オンリーです&lt;/h1&gt;
+&lt;p&gt;オンライン参加を検討されている方には申し訳ありませんが、今回は現地参加オンリーでの開催となります。&lt;br&gt;
+ご了承ください。  &lt;/p&gt;
+&lt;h1&gt;会場スポンサー&lt;/h1&gt;
+&lt;p&gt;株式会社Fusic様&lt;/p&gt;
+&lt;h1&gt;飲食物スポンサー&lt;/h1&gt;
+&lt;p&gt;株式会社ヌーラボ様&lt;/p&gt;
+&lt;h1&gt;Timetable&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Contents&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00-18:30&lt;/td&gt;
+&lt;td&gt;開場 受付開始 乾杯・開会前の懇親タイム&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30-21:00&lt;/td&gt;
+&lt;td&gt;(計画中)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Sessions&lt;/h1&gt;
+&lt;p&gt;計画中。
+&lt;strong&gt;初心者の方から楽しめるコンテンツ、幅広く活用できる最新機能やAI関連、交流系のコンテンツを予定&lt;/strong&gt;しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datadog-jp.connpass.com/event/387237/</guid><enclosure url="https://media.connpass.com/thumbs/43/5a/435a6bd9009941c784156e17a73a2456.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 17:18:18 +0900</pubDate></item><item><title>本番前追い込み電検三種勉強会</title><link>https://fukuokadenken.connpass.com/event/387231/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月20日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月20日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: aipカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0073 福岡県福岡市中央区舞鶴３丁目８−７　クレインビル202号室&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;電験三種の試験の本番直前ということで、
 電験勉強会を開催します。&lt;/p&gt;
 &lt;p&gt;電験三種 勉強会&lt;/p&gt;
 &lt;p&gt;電験三種の中でも 多くの受験者がつまずく「機械」。
@@ -92,7 +170,7 @@
 &lt;h2&gt;エンジニアカフェ&lt;/h2&gt;
 &lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
 &lt;h2&gt;福岡市赤煉瓦文化館&lt;/h2&gt;
-&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://i-love-ai.connpass.com/event/387225/</guid><enclosure url="https://media.connpass.com/thumbs/59/08/59082e0593bc5280fac733604702d35a.png" length="0" type="image/png"/><pubDate>Tue, 10 Mar 2026 13:34:17 +0900</pubDate></item><item><title>AGI福岡 第10回</title><link>https://agifukuoka.connpass.com/event/387212/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月7日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月7日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #agifukuoka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AGI（汎用人工知能）をキーワードに、集い、交流し、議論しましょう。福岡をAGIの都に！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://i-love-ai.connpass.com/event/387225/</guid><enclosure url="https://media.connpass.com/thumbs/59/08/59082e0593bc5280fac733604702d35a.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 13:20:03 +0900</pubDate></item><item><title>AGI福岡 第10回</title><link>https://agifukuoka.connpass.com/event/387212/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月7日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月7日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #agifukuoka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AGI（汎用人工知能）をキーワードに、集い、交流し、議論しましょう。福岡をAGIの都に！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;AGI福岡は、AGI（Artificial General Intelligence、汎用人工知能）をキーワードに、多様なバックグラウンドを持つ人々が集い、交流し、議論する場です。AGIとは、人間の知能のような汎用性を持つAIのことを指します。もしAGIが実現すれば、人類文明に多大な影響を及ぼすと考えられています。  &lt;/p&gt;
 &lt;p&gt;AGI福岡の様子はこちら。&lt;br&gt;
 &lt;a href="https://note.com/yuky_az/n/n010a4dcaa3e7" rel="nofollow"&gt;第1回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/ne9ba9e4c4bf7" rel="nofollow"&gt;第2回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/n416a468a520f" rel="nofollow"&gt;第3回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/ne518231de161" rel="nofollow"&gt;第4回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/n961709c22a94" rel="nofollow"&gt;第5回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/n514d07621e48" rel="nofollow"&gt;第6回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/ndf12811ed53d" rel="nofollow"&gt;第7回&lt;/a&gt;/&lt;a href="https://note.com/yuky_az/n/nd3edd6718112" rel="nofollow"&gt;第8回&lt;/a&gt; /&lt;a href="https://note.com/yuky_az/n/n2af22c75549c" rel="nofollow"&gt;第9回&lt;/a&gt; &lt;/p&gt;
@@ -321,7 +399,7 @@ NOB DATA株式会社代表、データサイエンティスト協会九州支部
 &lt;h2&gt;エンジニアカフェ&lt;/h2&gt;
 &lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
 &lt;h2&gt;福岡市赤煉瓦文化館&lt;/h2&gt;
-&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://i-love-ai.connpass.com/event/386942/</guid><enclosure url="https://media.connpass.com/thumbs/db/ea/dbea36fbb46ace4ed01b7350876e31de.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 14:44:54 +0900</pubDate></item><item><title>AI-Native Coding Night: 実践AI開発ハンズオン＆技術交流会（懇親会あり）</title><link>https://connpass.com/event/386804/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月19日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Engineer Cafe&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Build with TRAE &amp; Z.ai @Fukuoka&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AI-Native Coding Night：AIネイティブ開発を学ぶ実践ハンズオン＆技術交流会&lt;/h2&gt;
+&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://i-love-ai.connpass.com/event/386942/</guid><enclosure url="https://media.connpass.com/thumbs/db/ea/dbea36fbb46ace4ed01b7350876e31de.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 17:47:19 +0900</pubDate></item><item><title>AI-Native Coding Night: 実践AI開発ハンズオン＆技術交流会（懇親会あり）</title><link>https://connpass.com/event/386804/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月19日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Engineer Cafe&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Build with TRAE &amp; Z.ai @Fukuoka&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AI-Native Coding Night：AIネイティブ開発を学ぶ実践ハンズオン＆技術交流会&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;Build with TRAE &amp;amp; &lt;a href="http://Z.ai" rel="nofollow"&gt;Z.ai&lt;/a&gt; @Fukuoka&lt;/strong&gt;&lt;/h3&gt;
 &lt;h2&gt;🚀 &lt;strong&gt;AIネイティブコーディングとは？ なぜ今必要なのか？&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;AIを単なる「補助ツール」として使う時代は終わり、AIと共にシステム全体を設計・構築する「AIネイティブ」な開発が標準になりつつあります。エンジニアの役割は、自らコードを書くことから、AIを指揮しプロジェクトを推進する「アーキテクト」へと進化しています。 このパラダイムシフトに適応し、アイデアから実装までを爆速で形にする「Vibe Coding」の感覚を掴むことが、これからの開発者にとって最大の武器になります。&lt;/p&gt;
@@ -336,25 +414,25 @@ NOB DATA株式会社代表、データサイエンティスト協会九州支部
 &lt;p&gt;最新技術のキャッチアップと、熱量高いコミュニティとの繋がりを同時に手に入れましょう！&lt;/p&gt;
 &lt;h2&gt;🎯 こんな方におすすめ&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;福岡のスタートアップ起業家・ファウンダーの方&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;福岡のスタートアップ起業家・ファウンダーの方&lt;/strong&gt;&lt;br&gt;
     AIを活用した爆速のプロトタイピング（Vibe Coding）で、アイデアを最速で形にする手法を学びたい方。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;九州大学をはじめとする学生エンジニア・リサーチャーの方&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;九州大学をはじめとする学生エンジニア・リサーチャーの方&lt;/strong&gt;&lt;br&gt;
     実際の開発現場で使われている最新のAI開発ワークフローを体験し、トップエンジニアや起業家と繋がりたい方。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;福岡で働く外国人エンジニア・グローバルIT人材の方&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;福岡で働く外国人エンジニア・グローバルIT人材の方&lt;/strong&gt;&lt;br&gt;
     本イベントには日英バイリンガルの登壇者がおり、英語での技術ディスカッションやネットワーキングも大歓迎です！&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIネイティブコーディングを実践したい開発者の方&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;AIネイティブコーディングを実践したい開発者の方&lt;/strong&gt;&lt;br&gt;
     MCP ServerやAgent Skillsなどの最新ツールを実際に動かし、日々の開発生産性を劇的に向上させたい方。&lt;/li&gt;
 &lt;li&gt;他社のエンジニアや多様なバックグラウンドを持つビルダーと、リアルな知見を共有したい方。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;🛠️ ワークショップ内容&lt;/h2&gt;
-&lt;p&gt;【Section 1】AIネイティブコーディングにおける開発入門 　
-担当： Laurie Griffiths
+&lt;p&gt;【Section 1】AIネイティブコーディングにおける開発入門 　&lt;br&gt;
+担当： Laurie Griffiths &lt;br&gt;
 内容： AIをペアプログラミングのパートナーとして最大限活用するための基本スタンスと、明日から使える実践的なTipsを学びます。&lt;/p&gt;
-&lt;p&gt;【Section 2】MCP Server入門：外部ツールとAIを繋ぐ新標準 　
-担当： Tham Yik Foong
+&lt;p&gt;【Section 2】MCP Server入門：外部ツールとAIを繋ぐ新標準 　&lt;br&gt;
+担当： Tham Yik Foong &lt;br&gt;
 内容： Model Context Protocol (MCP) を活用し、AIにコンテキストを正しく伝えるためのサーバー実装を体験。AIの「できること」を広げる手法を学びます。&lt;/p&gt;
-&lt;p&gt;【Section 3】Agent Skills入門：AI開発ワークフローの最適化 　
-担当： Billy Qiu　
+&lt;p&gt;【Section 3】Agent Skills入門：AI開発ワークフローの最適化 　&lt;br&gt;
+担当： Billy Qiu　 &lt;br&gt;
 内容： AIへの指示やコンテキストを構造化する「Agent Skillsの活用法を伝授。開発フローを効率化し、精度の高いアウトプットを引き出す技術を実践します。&lt;/p&gt;
 &lt;h2&gt;📆 タイムテーブル&lt;/h2&gt;
 &lt;table&gt;
@@ -397,13 +475,15 @@ NOB DATA株式会社代表、データサイエンティスト協会九州支部
 &lt;/table&gt;
 &lt;p&gt;※ 当日予告なく時間配分・内容が変更になる可能性がございます。&lt;/p&gt;
 &lt;h2&gt;📝 開催概要・持ち物&lt;/h2&gt;
-&lt;p&gt;日時： 2025年3月19日（木） 19:00〜21:00（18:30 受付開始）
-会場： Engineer Cafe 福岡市中央区天神1丁目15番30号
-参加費： 無料（スポンサー協力による）
-持ち物：
-⚪ ノートパソコン（必須）
-⚪ Wi-Fi接続環境（会場にもございますが、バックアップとしてご準備推奨）
-⚪ 開発環境のセットアップ（詳細は参加確定後、別途メールにてご案内いたします）&lt;/p&gt;
+&lt;p&gt;日時： 2025年3月19日（木） 19:00〜21:00（18:30 受付開始）&lt;br&gt;
+会場： Engineer Cafe 福岡市中央区天神1丁目15番30号 &lt;br&gt;
+参加費： 無料（スポンサー協力による）&lt;br&gt;
+持ち物：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートパソコン（必須）&lt;/li&gt;
+&lt;li&gt;Wi-Fi接続環境（会場にもございますが、バックアップとしてご準備推奨）&lt;/li&gt;
+&lt;li&gt;開発環境のセットアップ（詳細は参加確定後、別途メールにてご案内いたします）&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;🎁 特典・参加者全員プレゼント&lt;/h2&gt;
 &lt;p&gt;本イベントでは、ハンズオンで最新環境を存分に「遊び尽くす」ための特別アカウントを参加者全員にご用意しています！&lt;/p&gt;
 &lt;ul&gt;
@@ -521,7 +601,7 @@ Z.aiは、清華大学コンピュータサイエンス学部知識工学研究�
 &lt;li&gt;&lt;strong&gt;Billy Qiu:&lt;/strong&gt; Bilingual Founder/Engineer focused on AI-Native workflows.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tham Yik Foong:&lt;/strong&gt; Ph.D. in AI and Co-founder of Craftos.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/386804/</guid><enclosure url="https://media.connpass.com/thumbs/6b/a1/6ba11cb874b58584c48d7350b9038a69.png" length="0" type="image/png"/><pubDate>Mon, 09 Mar 2026 17:38:01 +0900</pubDate></item><item><title>第113回CoderDojo久留米</title><link>https://coderdojo-kurume.connpass.com/event/386720/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: みんくる&lt;/li&gt;&lt;li&gt;🏢 住所: 久留米市六ツ門町3−11(くるめりあ六ツ門6階)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子どものためのプログラミング道場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;今回のCoderDojoは会場みんくる  交流スペース1 開催です！&lt;/h1&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/386804/</guid><enclosure url="https://media.connpass.com/thumbs/6b/a1/6ba11cb874b58584c48d7350b9038a69.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 18:37:11 +0900</pubDate></item><item><title>第113回CoderDojo久留米</title><link>https://coderdojo-kurume.connpass.com/event/386720/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: みんくる&lt;/li&gt;&lt;li&gt;🏢 住所: 久留米市六ツ門町3−11(くるめりあ六ツ門6階)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子どものためのプログラミング道場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;今回のCoderDojoは会場みんくる  交流スペース1 開催です！&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;CoderDojo久留米の流れ&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;
@@ -761,71 +841,7 @@ Micro:bit
 &lt;p&gt;来るだけでも大丈夫です。&lt;br&gt;
 帰るころに、少しだけ視界が広がる。&lt;br&gt;
 そんな夜になればうれしいです。&lt;/p&gt;
-&lt;p&gt;X: &lt;a href="https://x.com/hashtag/GenAIge" rel="nofollow"&gt;#GenAIge&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://genaige.connpass.com/event/386451/</guid><enclosure url="https://media.connpass.com/thumbs/94/e0/94e01ca6f7d2ed9e34219b88bd06154c.png" length="0" type="image/png"/><pubDate>Wed, 04 Mar 2026 00:20:17 +0900</pubDate></item><item><title>AI起業サークル</title><link>https://i-love-ai.connpass.com/event/386386/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月10日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月10日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIエージェントと事業を立案し、ウェブサイトをバイブコーディングしよう☆&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI起業サークル&lt;/h1&gt;
-&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;AIエージェントと事業戦略を考える時代が来ました💡&lt;/p&gt;
-&lt;p&gt;このイベントでは、AIエージェントと架空の事業を立案し、ランディングページをバイブコーディングします🧠&lt;/p&gt;
-&lt;h2&gt;対象&lt;/h2&gt;
-&lt;p&gt;事業開発に興味がある非エンジニア・エンジニア&lt;/p&gt;
-&lt;h2&gt;メリット&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;最先端の事業開発手法を無料で体験できます⭐&lt;/li&gt;
-&lt;li&gt;エンジニアカフェの飲み物を1杯無料で楽しめます☕&lt;/li&gt;
-&lt;li&gt;主催者や他の参加者と雑談・相談しながら進められます🔥&lt;/li&gt;
-&lt;li&gt;何度でも参加が可能です👌&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;ルール&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Google AntigravityなどのAIエージェントツールで事業戦略を立案する💭&lt;/li&gt;
-&lt;li&gt;作成したウェブサイトをGitHub Pagesで公開し、成果発表時に共有する☕&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;オンライン見学&lt;/h2&gt;
-&lt;p&gt;connpassの「参加者への情報欄」にZoom URLが表示されます✉️&lt;/p&gt;
-&lt;p&gt;イベント中は、主催者のライブコーディングや挑戦者を見学できます📣&lt;/p&gt;
-&lt;h2&gt;準備&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ノートパソコン&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.google.com" rel="nofollow"&gt;Google&lt;/a&gt;アカウント&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.co.jp" rel="nofollow"&gt;GitHub&lt;/a&gt;アカウント&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://antigravity.google" rel="nofollow"&gt;Google Antigravity&lt;/a&gt;のインストール&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;集合場所&lt;/h2&gt;
-&lt;p&gt;エンジニアカフェ 地下1階 会議室&lt;/p&gt;
-&lt;h2&gt;日程&lt;/h2&gt;
-&lt;p&gt;毎週火曜日 19:00 ~ 20:00（開場 18:00）&lt;/p&gt;
-&lt;h2&gt;タイムライン&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;50分&lt;/td&gt;
-&lt;td&gt;事業戦略の立案・バイブコーディング ※&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10分&lt;/td&gt;
-&lt;td&gt;進捗・成果発表&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※ 現地参加者の希望に応じて、Antigravity・GitHub Pages・プロンプトの書き方の初心者講習をします🔰&lt;/p&gt;
-&lt;p&gt;解説動画は&lt;a href="https://www.youtube.com/watch?v=baLlIWCQvho&amp;amp;list=PLbPtLKRucHw4r6almkcS-cjVNHVTZF5XU" rel="nofollow"&gt;エンジニアカフェのYouTubeチャンネル&lt;/a&gt;にあります🎥&lt;/p&gt;
-&lt;h2&gt;その他&lt;/h2&gt;
-&lt;p&gt;AntigravityとGitHub Pagesの習得は、最低限であれば容易です🙆&lt;/p&gt;
-&lt;p&gt;質問がある場合は、&lt;a href="communitymanager@engineercafe.jp" rel="nofollow"&gt;エンジニアカフェ&lt;/a&gt;までお問い合わせください✉️&lt;/p&gt;
-&lt;p&gt;プロダクトの開発に興味がある場合は、バイブコーディングクラブにご参加ください👷&lt;/p&gt;
-&lt;p&gt;楽しみましょう🧪&lt;/p&gt;
-&lt;h2&gt;講師&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;芝原 隼人&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;マッドソフト株式会社代表取締役。慶應義塾大学電子工学科卒、同大学院メディアデザイン研究科博士課程中退後、メガベンチャーでAIを活用したサービスの開発に従事。福岡市主催のハッカソンと起業プログラムでの受賞をきっかけに創業。「面白いプロダクトを作り、世界を変える」ミッションを持ち、新技術の研究開発と社会実装に取り組む。エンジニアカフェコミュニティーマネージャーでもある。&lt;/p&gt;
-&lt;h2&gt;エンジニアカフェ&lt;/h2&gt;
-&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
-&lt;h2&gt;福岡市赤煉瓦文化館&lt;/h2&gt;
-&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://i-love-ai.connpass.com/event/386386/</guid><enclosure url="https://media.connpass.com/thumbs/59/08/59082e0593bc5280fac733604702d35a.png" length="0" type="image/png"/><pubDate>Mon, 09 Mar 2026 15:36:18 +0900</pubDate></item><item><title>次世代ノーコードツール「Figma Sites」の使い方講座</title><link>https://fukuoka-a11yconf.connpass.com/event/386367/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月17日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月17日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: カラビナテクノロジー株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区渡辺通5丁目23-8 (サンライトビル ３F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #a11yconf_fukuoka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;アッカン福岡2026 Meetup&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;X: &lt;a href="https://x.com/hashtag/GenAIge" rel="nofollow"&gt;#GenAIge&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://genaige.connpass.com/event/386451/</guid><enclosure url="https://media.connpass.com/thumbs/94/e0/94e01ca6f7d2ed9e34219b88bd06154c.png" length="0" type="image/png"/><pubDate>Wed, 04 Mar 2026 00:20:17 +0900</pubDate></item><item><title>次世代ノーコードツール「Figma Sites」の使い方講座</title><link>https://fukuoka-a11yconf.connpass.com/event/386367/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月17日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月17日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: カラビナテクノロジー株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区渡辺通5丁目23-8 (サンライトビル ３F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #a11yconf_fukuoka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;アッカン福岡2026 Meetup&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;アクセシビリティカンファレンス福岡（アッカン福岡）2026のMeetupイベントとして、Figma Sitesの使い方講座＆プチ交流会を開催します！&lt;br&gt;
 講師には2025/11/21に出版されたばかりの&lt;a href="https://www.amazon.co.jp/dp/4296209302" rel="nofollow"&gt;『デザインからサイト構築まで FigmaだけでWeb制作』&lt;/a&gt;の著者陣から、濱野 将さんをお招きします。&lt;br&gt;&lt;br&gt;
 講座では、濱野さんがFigma Sitesの基本から実務で使える公開手順まで解説！&lt;br&gt;
@@ -1517,7 +1533,7 @@ CoderDojoJapanホームページ：&lt;a href="https://coderdojo.jp/" rel="nofol
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;19:55 - 20:05&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;登壇（10分枠）：未定&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;あべたくさん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;20:05 - 20:10&lt;/td&gt;
@@ -1555,7 +1571,7 @@ CoderDojoJapanホームページ：&lt;a href="https://coderdojo.jp/" rel="nofol
 &lt;/li&gt;
 &lt;li&gt;補欠登録の方はご来場いただいてもご入場できませんのでご了承ください。&lt;/li&gt;
 &lt;li&gt;みんな、仲良く、楽しく。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tsunagime-offline.connpass.com/event/385797/</guid><enclosure url="https://media.connpass.com/thumbs/7c/10/7c1006b9d35f578adc6016767c6750c2.png" length="0" type="image/png"/><pubDate>Tue, 10 Mar 2026 19:24:55 +0900</pubDate></item><item><title>ミリしらAI勉強会 #3</title><link>https://engineercafe.connpass.com/event/385781/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月17日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月17日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ミリしらAI勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜お久しぶりに語りましょう〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tsunagime-offline.connpass.com/event/385797/</guid><enclosure url="https://media.connpass.com/thumbs/7c/10/7c1006b9d35f578adc6016767c6750c2.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 14:43:57 +0900</pubDate></item><item><title>ミリしらAI勉強会 #3</title><link>https://engineercafe.connpass.com/event/385781/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月17日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月17日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ミリしらAI勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜お久しぶりに語りましょう〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
 &lt;p&gt;以下のような方を対象に、エンジニアカフェでAIの勉強会を行います！&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;・AIブームになんとなくついていけていない気がする...。&lt;br&gt;
 ・AIにキャッチアップしたいけど、なかなか手を動かしたり調べる時間がない...。&lt;br&gt;
@@ -1911,7 +1927,7 @@ PHPが好きな方、福岡のエンジニアコミュニティに関わって�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※ 時間配分についてはあくまで目安です。当日の進行具合により前後します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fukuokaphp.connpass.com/event/385205/</guid><enclosure url="https://media.connpass.com/thumbs/af/0d/af0de1d785b85707faf002075bd974a4.png" length="0" type="image/png"/><pubDate>Thu, 26 Feb 2026 17:46:18 +0900</pubDate></item><item><title>iPadでSwift Playgroundsを学ぼう#97(2026-03-11)</title><link>https://engineercafe.connpass.com/event/385146/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月11日(水) 12:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月11日(水) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0001 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #エンジニアカフェ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎週水曜日のお昼に１５分間だけ遊んで学ぶイベントです。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;iPadでSwift Playgroundsを学ぼう#97(2026-03-11)&lt;/h1&gt;
+&lt;p&gt;※ 時間配分についてはあくまで目安です。当日の進行具合により前後します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fukuokaphp.connpass.com/event/385205/</guid><enclosure url="https://media.connpass.com/thumbs/af/0d/af0de1d785b85707faf002075bd974a4.png" length="0" type="image/png"/><pubDate>Thu, 26 Feb 2026 17:46:18 +0900</pubDate></item><item><title>iPadでSwift Playgroundsを学ぼう#98(2026-03-18)</title><link>https://engineercafe.connpass.com/event/385148/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月18日(水) 12:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月18日(水) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0001 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #エンジニアカフェ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎週水曜日のお昼に１５分間だけ遊んで学ぶイベントです。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;iPadでSwift Playgroundsを学ぼう#98(2026-03-18)&lt;/h1&gt;
 &lt;p&gt;iPadを使って、15分間でSwift Playgroundsでプログラミングを遊びながら習得していくイベントです。&lt;br&gt;
 毎週水曜日のご飯を食べた後の15分間で学んでいきましょう。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;第１回目はこちら！「コードを学ぼう１turnLeft()まで　」　&lt;a href="https://www.youtube.com/watch?v=OiTV9rQNluo" rel="nofollow"&gt;https://www.youtube.com/watch?v=OiTV9rQNluo&lt;/a&gt;　&lt;br&gt;&lt;/p&gt;
@@ -2044,7 +2060,7 @@ PHPが好きな方、福岡のエンジニアコミュニティに関わって�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;日時&lt;/h2&gt;
-&lt;p&gt;令和８年３月１１日（水）１２：４５〜１３：００&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;令和８年３月１８日（水）１２：４５〜１３：００&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;開催場所&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;オフライン（エンジニアカフェ・イベントスペース）&lt;/li&gt;
@@ -2075,7 +2091,7 @@ SNSに感想書いてくれる枠もお待ちしております！&lt;/p&gt;
 &lt;p&gt;Fukuoka City Akarenga Cultural Center
 Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt;
 &lt;p&gt;Engineer Cafe
-Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/385146/</guid><enclosure url="https://media.connpass.com/thumbs/5f/5d/5f5d97001b0314e8a9aa7d9e3a6f2e9a.png" length="0" type="image/png"/><pubDate>Wed, 04 Mar 2026 16:41:33 +0900</pubDate></item><item><title>OpenStreetMapをつかって、いつもと違った視点の地図を作ろう</title><link>https://connpass.com/event/385126/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月16日(月) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月16日(月) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0001 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;街の写真を撮影、位置情報をもとにオリジナルの地図を作るワークショップ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OpenStreetMapをつかって、いつもと違った視点の地図を作ろう&lt;/h1&gt;
+Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/385148/</guid><enclosure url="https://media.connpass.com/thumbs/5f/5d/5f5d97001b0314e8a9aa7d9e3a6f2e9a.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 13:29:31 +0900</pubDate></item><item><title>OpenStreetMapをつかって、いつもと違った視点の地図を作ろう</title><link>https://connpass.com/event/385126/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月16日(月) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月16日(月) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒810-0001 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;街の写真を撮影、位置情報をもとにオリジナルの地図を作るワークショップ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OpenStreetMapをつかって、いつもと違った視点の地図を作ろう&lt;/h1&gt;
 &lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;街の写真を撮影、位置情報をもとにオリジナルの地図を作るワークショップです&lt;/p&gt;
 &lt;h2&gt;内容&lt;/h2&gt;
@@ -3675,12 +3691,12 @@ LTに初挑戦される方も大歓迎です！&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:10 -&lt;/td&gt;
-&lt;td&gt;主催枠 LT1「なぜAPIのレイテンシの分布は右裾が重いのか (仮)」&lt;/td&gt;
+&lt;td&gt;主催枠 LT1「WebAPIのレイテンシの分布はなぜ右裾が長いのか」&lt;/td&gt;
 &lt;td&gt;Inuverse&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:20 -&lt;/td&gt;
-&lt;td&gt;主催枠 LT2「レガシーから現代へ：店舗アプリPACERの進化 (仮)」&lt;/td&gt;
+&lt;td&gt;主催枠 LT2「レガシーから現代へ：店舗アプリPACERの進化」&lt;/td&gt;
 &lt;td&gt;Esoul&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3749,7 +3765,7 @@ LTに初挑戦される方も大歓迎です！&lt;/p&gt;
 &lt;li&gt;広報活動のため、運営スタッフがイベントの様子を写真・動画撮影する場合があります。あらかじめご了承ください。&lt;/li&gt;
 &lt;li&gt;電源は、全員分のご用意がありません。あらかじめご了承ください。&lt;/li&gt;
 &lt;li&gt;会場内での飲食は、指定された場所でお願いいたします。また指定されたエリア以外への立ち入りはご遠慮ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://trial.connpass.com/event/381402/</guid><enclosure url="https://media.connpass.com/thumbs/8b/95/8b95ba983b862744647b9c17d0c34873.png" length="0" type="image/png"/><pubDate>Mon, 09 Mar 2026 10:05:50 +0900</pubDate></item><item><title>Security Days Spring 2026 福岡</title><link>https://nanooptmedlia.connpass.com/event/381300/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月12日(木) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月12日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: ONE FUKUOKA CONFERENCE HALL&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神１丁目１１−１ ONE FUKUOKA BLDG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;サイバーセキュリティ専門イベントとして2013年より毎年開催されている
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://trial.connpass.com/event/381402/</guid><enclosure url="https://media.connpass.com/thumbs/8b/95/8b95ba983b862744647b9c17d0c34873.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 12:03:47 +0900</pubDate></item><item><title>Security Days Spring 2026 福岡</title><link>https://nanooptmedlia.connpass.com/event/381300/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月12日(木) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月12日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: ONE FUKUOKA CONFERENCE HALL&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神１丁目１１−１ ONE FUKUOKA BLDG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;サイバーセキュリティ専門イベントとして2013年より毎年開催されている
 「Security Days」が、ONE FUKUOKA CONFERENCE HALL （6F）にて
 2026年3月12日（木）に開催します。&lt;br&gt;
  昨今増え続けるサイバーインシデントに対しどのように対策していくのかが重要なファクターとなります。&lt;br&gt;
