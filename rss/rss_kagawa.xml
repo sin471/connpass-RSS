@@ -1,11 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>香川のイベント</title><link>https://connpass.com/explore/</link><description>香川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>香川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 12 Mar 2026 15:51:48 +0000</lastBuildDate><item><title>Build with AI 2026 高松 Google Developer Groups 四国</title><link>https://gdgshikoku.connpass.com/event/386377/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: サンポートホール高松&lt;/li&gt;&lt;li&gt;🏢 住所: 高松市サンポート2-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Build with AI 2026 in 高松&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>香川のイベント</title><link>https://connpass.com/explore/</link><description>香川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>香川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 13 Mar 2026 15:35:58 +0000</lastBuildDate><item><title>Build with AI 2026 高松 Google Developer Groups 四国</title><link>https://gdgshikoku.connpass.com/event/386377/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月21日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月21日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: サンポートホール高松&lt;/li&gt;&lt;li&gt;🏢 住所: 高松市サンポート2-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Build with AI 2026 in 高松&lt;/h1&gt;
 &lt;p&gt;「AIで何か作ってみたいけれど、どこから始めればいい？」「最新のGemini APIや開発ツールで何ができるの？」
 そんな疑問を持つエンジニア・クリエイターの皆さんのためのワークショップイベント、Build with AI を四国で開催します！&lt;/p&gt;
 &lt;p&gt;Googleの最新AI技術を学び、実際に手を動かしながら、あなたのアイデアを形にする時間を過ごしませんか？地方からAIの波を乗りこなしましょう！&lt;/p&gt;
 &lt;h2&gt;Build with AI とは？&lt;/h2&gt;
 &lt;p&gt;Google の最新 AI モデルとクラウドテクノロジーを使用して、自分たちの手で便利なものを作ってみよう！という世界中で開催されている体験型のイベントです。&lt;/p&gt;
 &lt;p&gt;非エンジニアの方でも大丈夫です。&lt;/p&gt;
+&lt;h2&gt;内容 (内容は多少変わる可能性がございます。ご容赦ください)&lt;/h2&gt;
+&lt;h3&gt;1（前半）今からはじめる画像生成 Nano Banana&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;対象者：初心者、非エンジニア/エンジニア&lt;/li&gt;
+&lt;li&gt;内容：Googleの画像生成モデルとして昨年話題になったNano bananaですが、こちらの利用方法についてプロンプトの書き方から説明を行い、実際に画像をいくつか作ってみましょう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2（後半）エンベディングってなに？RAGってなに？LLMの回答をよりよくする技術の紹介&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;対象者：初心者から中級者、エンジニア（非エンジニアの方も歓迎）&lt;/li&gt;
+&lt;li&gt;内容：生成AIの発展にともない、embeddingやRAGという用語が多くの機会で目にすることが増えたのではないでしょうか？このセッションではこれらの用語に馴染みのない方からすでに取り組んでいるけと復習したい方に向けて簡単な解説と実際のサンプルコードをもとに紹介します。ぜひ、最新のAIの流れに追いつくためにも一緒に用語を勉強しましょう！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;アジェンダ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;13:30-14:00: 運営案内、環境セットアップ&lt;/li&gt;
+&lt;li&gt;14:00-15:00: 前半&lt;/li&gt;
+&lt;li&gt;15:00-16:00: 後半&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;必要なもの&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;gmailアカウント&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;【こんな方におすすめ】&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -30,7 +51,7 @@
 &lt;/ul&gt;
 &lt;p&gt;AI 領域の GDE（Google Developer Expert）. 
 Snowflake の Developer Advocate として Data Engineering や AI/ML に関するブログ記事やドキュメントの執筆、デモ開発等を担当。2020 年から 2025 年まで Google の gTech にて Publisher 向けの Solution Engineerとして、ML/Data のソリューションを Github などを介して日本からアジア、世界に向けて提供。
-プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgshikoku.connpass.com/event/386377/</guid><pubDate>Thu, 05 Mar 2026 14:55:24 +0900</pubDate></item><item><title>4/18 OSC香川 懇親会</title><link>https://ospn.connpass.com/event/384302/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 個室と瀬戸内名物 瀬戸酒場&lt;/li&gt;&lt;li&gt;🏢 住所: 〒760-0023 香川県高松市寿町１丁目１−２８ UMIビル １階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #osc26kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;出展者、来場者、関係者を交えての楽しい懇親会です。お気軽にご参加ください！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OSC香川 終了後に懇親会を開催します！&lt;/h1&gt;
+プライベートでは MLOps community JP を Co-organizer として運営している。AI/ML を中心に情報発信を行っている。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgshikoku.connpass.com/event/386377/</guid><enclosure url="https://media.connpass.com/thumbs/a4/46/a44686eb8b28ab13d18b196ad594a34a.png" length="0" type="image/png"/><pubDate>Fri, 13 Mar 2026 14:26:46 +0900</pubDate></item><item><title>4/18 OSC香川 懇親会</title><link>https://ospn.connpass.com/event/384302/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 個室と瀬戸内名物 瀬戸酒場&lt;/li&gt;&lt;li&gt;🏢 住所: 〒760-0023 香川県高松市寿町１丁目１−２８ UMIビル １階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #osc26kg&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;出展者、来場者、関係者を交えての楽しい懇親会です。お気軽にご参加ください！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;OSC香川 終了後に懇親会を開催します！&lt;/h1&gt;
 &lt;p&gt;ご案内（必ずお読みください）&lt;br&gt;
 ・ 参加される方は事前申込をお願いします。&lt;br&gt;
 ・お支払いは&lt;b&gt;現金のみ可能&lt;/b&gt;です（キャッシュレス決済は対応していません）。&lt;br&gt;
