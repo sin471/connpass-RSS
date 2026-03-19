@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>高知のイベント</title><link>https://connpass.com/explore/</link><description>高知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>高知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 18 Mar 2026 16:02:26 +0000</lastBuildDate><item><title>Zephyr Project Meetup: Kochi, Japan</title><link>https://zephyr-rtos.connpass.com/event/387401/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 高知工科大学 永国寺キャンパス （地域連携棟4F 多目的ホール）&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市永国寺町6-28&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZephyrRTOS&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;🎫イベント概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>高知のイベント</title><link>https://connpass.com/explore/</link><description>高知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>高知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 19 Mar 2026 15:45:09 +0000</lastBuildDate><item><title>Zephyr Project Meetup: Kochi, Japan</title><link>https://zephyr-rtos.connpass.com/event/387401/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 高知工科大学 永国寺キャンパス （地域連携棟4F 多目的ホール）&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市永国寺町6-28&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZephyrRTOS&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;** The English guide follows the Japanese version. **&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;🎫イベント概要&lt;/h1&gt;
 &lt;p&gt;Zephyr プロジェクトでは、ユーザーや開発者の交流を目的とした"meetup"を世界中で展開しています。&lt;/p&gt;
 &lt;p&gt;四国初上陸、高知工科大学さんでの開催です。
 新規ユーザー大歓迎、チュートリアル充実での開催予定です。&lt;/p&gt;
@@ -8,8 +10,74 @@
 &lt;li&gt;&lt;a href="https://zephyrproject.org/category/meetup/" rel="nofollow"&gt;https://zephyrproject.org/category/meetup/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;📆 日時&lt;/h1&gt;
-&lt;p&gt;2026年 5月16日(土) 13:00〜18:00
-高知県産学官民連携センター（通称ココプラ）&lt;/p&gt;
+&lt;p&gt;2026年 5月16日(土) 13:00〜18:00&lt;/p&gt;
+&lt;h1&gt;🌐 場所&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;会場: 高知県産学官民連携センター（通称ココプラ）&lt;/li&gt;
+&lt;li&gt;Google Map: &lt;a href="https://maps.app.goo.gl/AyairU2zpavT6JTr8" rel="nofollow"&gt;https://maps.app.goo.gl/AyairU2zpavT6JTr8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;📹 Live Streaming&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;MS Teams or Meet
+準備中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🎯登壇募集&lt;/h1&gt;
+&lt;p&gt;登壇いただける方を募集しています。Zephyr RTOSに関する話題であればなんでも OKです。&lt;/p&gt;
+&lt;p&gt;登壇希望の方は登壇枠で申込みのうえ、下記 Google forms で発表概要の記載をお願いします。&lt;/p&gt;
+&lt;h2&gt;⌛発表時間&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;10～30分 (質疑応答込み、CFP提出時に選択してください)&lt;/li&gt;
+&lt;li&gt;時間の調整が必要であれば、相談してください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎤発表内容&lt;/h2&gt;
+&lt;p&gt;Zephyr RTOS. OSSに関する内容なら、なんでも OK!&lt;/p&gt;
+&lt;h3&gt;📜過去の例&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;宇宙機で使う Zephyr Subsystem&lt;/li&gt;
+&lt;li&gt;Zephyr Module の作り方&lt;/li&gt;
+&lt;li&gt;RXボードへのポーティングに挑戦してみた&lt;/li&gt;
+&lt;li&gt;Zephyr RTOSを使った開発コンペに参加した件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🕛タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時刻&lt;/th&gt;
+&lt;th&gt;発表タイトル&lt;/th&gt;
+&lt;th&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;**:00&lt;/td&gt;
+&lt;td&gt;計画中&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;(登壇数によって調整予定)&lt;/p&gt;
+&lt;h1&gt;💬Discord&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://chat.zephyrproject.org/" rel="nofollow"&gt;Zephyr RTOS公式の Discordサーバー&lt;/a&gt;に日本語で会話できる #japanese チャンネルができました。
+このイベントに関しての質問や人的交流は #japanese チャンネルで行っています。気楽に参加してください&lt;/p&gt;
+&lt;h1&gt;❓FAQ&lt;/h1&gt;
+&lt;h3&gt;会社の名前を出しても良いか?&lt;/h3&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;OK。ただしセールスやマーケティングの売り込み、ライセンスのない技術やクローズドソースの可能性のある技術に関する説明は避けてください
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1&gt;⚠️注意事項&lt;/h1&gt;
+&lt;h2&gt;参加者の皆さまへのお願い&lt;/h2&gt;
+&lt;p&gt;すべての方（スピーカー、スポンサー、ボランティアなど）が、それぞれの職場や法令で定められたルールを尊重しつつ、互いに思いやりをもってご参加してください&lt;/p&gt;
+&lt;h2&gt;禁止行為&lt;/h2&gt;
+&lt;p&gt;差別（性別、性的指向、障がい、外見、人種、年齢、宗教など法令で保護された属性）や暴言、性的嫌がらせ、ストーキング、威嚇、不要な身体接触、写真・録画による嫌がらせなど一切のハラスメント&lt;/p&gt;
+&lt;h2&gt;独占禁止法順守ポリシー&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linuxfoundation.org/legal/antitrust-policy" rel="nofollow"&gt;https://www.linuxfoundation.org/legal/antitrust-policy&lt;/a&gt; を確認してください&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参考日本語訳: &lt;a href="https://www.linuxfoundation.jp/antitrust-policy/" rel="nofollow"&gt;https://www.linuxfoundation.jp/antitrust-policy/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🍺懇親会&lt;/h1&gt;
+&lt;p&gt;夜に懇親会を予定しています。&lt;/p&gt;
+&lt;h1&gt;📝備考&lt;/h1&gt;
+&lt;p&gt;現状特になし。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1&gt;🎫 Event Overview&lt;/h1&gt;
 &lt;p&gt;This will be the first time the event has arrived in Shikoku, and will be held at Kochi University of Technology.
@@ -19,9 +87,75 @@ New users are welcome, and there will be plenty of tutorials.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://zephyrproject.org/category/meetup/" rel="nofollow"&gt;https://zephyrproject.org/category/meetup/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;📆 Date&lt;/h1&gt;
-&lt;p&gt;2026 May 16 (Sat) 13:00～18:00
-Kochi University of Technology Eikokuji Campus&lt;/p&gt;
-&lt;p&gt;** Now Editing **&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zephyr-rtos.connpass.com/event/387401/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49b3f3d64bef22c30a37261e1d1999c.png" length="0" type="image/png"/><pubDate>Thu, 12 Mar 2026 14:31:50 +0900</pubDate></item><item><title>Build with AI 2026 高知 Google Developer Groups</title><link>https://gdgshikoku.connpass.com/event/386792/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月12日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月12日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 和の森 sotoffice（旧Kochi Startup BASE）&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市はりまや町一丁目2番12&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;NotebookLM を使ってデータ分析をやってみよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Build with AI 2026 in 高知&lt;/h1&gt;
+&lt;p&gt;2026 May 16 (Sat) 13:00～18:00&lt;/p&gt;
+&lt;h1&gt;🌐 Location&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: Kochi University of Technology Eikokuji Campus&lt;/li&gt;
+&lt;li&gt;Google Map: &lt;a href="https://maps.app.goo.gl/xWXUDZ8p3Se8zG7V9" rel="nofollow"&gt;https://maps.app.goo.gl/xWXUDZ8p3Se8zG7V9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;📹 Live Streaming&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;MS Teams or Meet
+(Under preparation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🎯 Call for Speakers&lt;/h1&gt;
+&lt;p&gt;We are looking for speakers! Any topic related to Zephyr RTOS is welcome.&lt;/p&gt;
+&lt;p&gt;If you would like to present, please sign up as a “Speaker” on connpass and submit your talk summary using the Google Form below.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeSL8YL4bUAFbTtNnOnks2GotpapoEsTrfv6iho_XJDY8prNg/viewform" rel="nofollow"&gt;https://docs.google.com/forms/d/e/1FAIpQLSeSL8YL4bUAFbTtNnOnks2GotpapoEsTrfv6iho_XJDY8prNg/viewform&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;⌛ Presentation Time&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;10–30 minutes (including Q&amp;amp;A; please select your preference when submitting the CFP)&lt;/li&gt;
+&lt;li&gt;Please consult us if you need to adjust the time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎤 Topics&lt;/h2&gt;
+&lt;p&gt;Anything related to Zephyr RTOS is welcome!&lt;/p&gt;
+&lt;h3&gt;📜 Past Examples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Zephyr Subsystems used in spacecraft&lt;/li&gt;
+&lt;li&gt;How to create a Zephyr Module&lt;/li&gt;
+&lt;li&gt;Challenge: Porting to RX boards&lt;/li&gt;
+&lt;li&gt;Participating in a development competition using Zephyr RTOS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🕛 Timetable&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;Now Planning&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;(Subject to change based on the number of speakers)&lt;/p&gt;
+&lt;h1&gt;💬 Discord&lt;/h1&gt;
+&lt;p&gt;A #japanese channel for Japanese speakers has been created on the &lt;a href="https://chat.zephyrproject.org/" rel="nofollow"&gt;official Zephyr RTOS Discord server&lt;/a&gt;.
+We use the #japanese channel for questions about this event and community interaction. Feel free to join us!&lt;/p&gt;
+&lt;h1&gt;❓ FAQ&lt;/h1&gt;
+&lt;h3&gt;Can I mention my company name?&lt;/h3&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;Yes&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;However&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;please&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;avoid&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;sales&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;pitches&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;marketing&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;promotions&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;or&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;explanations&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;regarding&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;unlicensed&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;or&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;potentially&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;closed&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;source&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;technologies&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1&gt;⚠️ Important Notes / Code of Conduct&lt;/h1&gt;
+&lt;h2&gt;Request to all participants&lt;/h2&gt;
+&lt;p&gt;We ask all participants (speakers, sponsors, volunteers, etc.) to participate with mutual respect while observing the rules of their respective workplaces and applicable laws.&lt;/p&gt;
+&lt;h2&gt;Prohibited Actions&lt;/h2&gt;
+&lt;p&gt;Harassment of any kind, including discrimination (based on gender, sexual orientation, disability, appearance, race, age, religion, or other protected classes), verbal abuse, sexual harassment, stalking, intimidation, unwanted physical contact, or harassment via photography/recording.&lt;/p&gt;
+&lt;h2&gt;Antitrust Policy&lt;/h2&gt;
+&lt;p&gt;Please review: &lt;a href="https://www.linuxfoundation.org/legal/antitrust-policy" rel="nofollow"&gt;https://www.linuxfoundation.org/legal/antitrust-policy&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reference (Japanese translation): &lt;a href="https://www.linuxfoundation.jp/antitrust-policy/" rel="nofollow"&gt;https://www.linuxfoundation.jp/antitrust-policy/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🍺 Social Gathering&lt;/h1&gt;
+&lt;p&gt;We are planning a social gathering in the evening.&lt;/p&gt;
+&lt;h1&gt;📝 Remarks&lt;/h1&gt;
+&lt;p&gt;None at the moment.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zephyr-rtos.connpass.com/event/387401/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49b3f3d64bef22c30a37261e1d1999c.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 07:22:24 +0900</pubDate></item><item><title>Build with AI 2026 高知 Google Developer Groups 四国</title><link>https://gdgshikoku.connpass.com/event/386792/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月12日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月12日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 和の森 sotoffice（旧Kochi Startup BASE）&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市はりまや町一丁目2番12&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;NotebookLM を使ってデータ分析をやってみよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Build with AI 2026 in 高知&lt;/h1&gt;
 &lt;p&gt;専門的なツールや複雑な関数を一切使わずに NotebookLM に「自然な日本語で問いかけるだけ」で、本格的なBI（データ活用）を実践するスキルを習得します。
 スプレッドシートに眠っている売り上げデータやアンケート結果をAIに読み込ませるだけで単なる「数字の羅列」が下記のようなビジネスの武器へと生まれ変わります。&lt;/p&gt;
 &lt;h2&gt;Build with AI とは？&lt;/h2&gt;
@@ -72,7 +206,7 @@ Kochi University of Technology Eikokuji Campus&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;インターネット接続可能なノートパソコン&lt;/li&gt;
 &lt;li&gt;Google アカウント&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgshikoku.connpass.com/event/386792/</guid><enclosure url="https://media.connpass.com/thumbs/4e/c6/4ec6f68b307992afce58baff454d2887.png" length="0" type="image/png"/><pubDate>Fri, 06 Mar 2026 13:04:51 +0900</pubDate></item><item><title>kintone Café 高知 Vol.24</title><link>https://kintone-cafe-kochi.connpass.com/event/384135/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 和の森 sotoffice&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市はりまや町１丁目２−１２&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;はじめてのkintoneアプリづくり 〜 ベンダーに頼らずここまでできる 〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめてのkintoneアプリづくり&lt;br&gt;〜 ベンダーに頼らずここまでできる 〜&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgshikoku.connpass.com/event/386792/</guid><enclosure url="https://media.connpass.com/thumbs/4e/c6/4ec6f68b307992afce58baff454d2887.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 21:32:29 +0900</pubDate></item><item><title>kintone Café 高知 Vol.24</title><link>https://kintone-cafe-kochi.connpass.com/event/384135/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 和の森 sotoffice&lt;/li&gt;&lt;li&gt;🏢 住所: 高知県高知市はりまや町１丁目２−１２&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;はじめてのkintoneアプリづくり 〜 ベンダーに頼らずここまでできる 〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめてのkintoneアプリづくり&lt;br&gt;〜 ベンダーに頼らずここまでできる 〜&lt;/h1&gt;
 &lt;p&gt;kintoneをすでに活用している方はもちろん、
 「これから触ってみたい」「地域でどう活かせるか知りたい」という方も大歓迎です。&lt;/p&gt;
 &lt;p&gt;事例紹介やライトニングトーク、参加者同士の交流を通して、
