@@ -1,5 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 19 Mar 2026 15:44:55 +0000</lastBuildDate><item><title>社会人のための生成AI活用勉強会 by CDLEひろしま</title><link>https://cdle-hiroshima.connpass.com/event/387214/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;明日からすぐ使える、業務効率化の手法を最短で学ぶリアルガチAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;「明日から使える」生成AI、体験してみませんか？&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>広島のイベント</title><link>https://connpass.com/explore/</link><description>広島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>広島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 20 Mar 2026 15:36:26 +0000</lastBuildDate><item><title>はじめてのPython勉強会</title><link>https://plug.connpass.com/event/388245/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月16日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月16日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: エソール広島&lt;/li&gt;&lt;li&gt;🏢 住所: 広島市中区大手町1-2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #PLUG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;はじめてのPython勉強会 〜業務に活かす第一歩〜&lt;/h1&gt;
+&lt;p&gt;Pythonに興味はあるけれど、何から始めればいいか分からない。&lt;br&gt;
+Power Platformなどのローコードツールを使っているけれど、コードにも少し挑戦してみたい。&lt;br&gt;
+プログラミング未経験の方も大歓迎です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pythonを触ったことがない方&lt;/li&gt;
+&lt;li&gt;プログラミングに興味がある方&lt;/li&gt;
+&lt;li&gt;Power Platformを使っていてコード開発にも興味がある方&lt;/li&gt;
+&lt;li&gt;業務効率化・自動化に興味がある方&lt;/li&gt;
+&lt;li&gt;DXに関心がある方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;講師はいませんので、基本的にセルフラーニングで、
+分からないところを補い合いながら各自で勉強していきます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;前回内容&lt;/h2&gt;
+&lt;p&gt;前回は、各自の開発環境を整えるような内容となりました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VS Codeをセットアップして使ってみた&lt;/li&gt;
+&lt;li&gt;Pythonをインストールしてみた&lt;/li&gt;
+&lt;li&gt;作ったアプリをAzureに載せて動かしてみた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3月19日開催 &lt;a href="https://github.com/MikiMakino/hajimete-python-benkyokai/tree/main/docs/2026-03-19" rel="nofollow"&gt;資料&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;※学習題材は準備しますが、今回も当日の参加者に合わせて大きく変更する可能性があります。&lt;/p&gt;
+&lt;h2&gt;関連資料&lt;/h2&gt;
+&lt;p&gt;PLUGイベントガイドページから関連資料をご覧いただけます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;はじめてのGitとGitHub&lt;/li&gt;
+&lt;li&gt;はじめてのDocker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://minoru365.github.io/plug-event-pages/" rel="nofollow"&gt;https://minoru365.github.io/plug-event-pages/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートPC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;目的&lt;/h2&gt;
+&lt;p&gt;この勉強会は
+Pythonやコード開発に触れてみること・可能性を知ることを目的としています。&lt;/p&gt;
+&lt;p&gt;VS Codeを使ってコードを開く、実行する、少し変えてみる。
+そうした体験を通して、コードを実行することや開発環境に慣れていくことを目指します。
+「まずは触ってみたい」「コードに苦手意識をなくしたい」という方も、安心してご参加ください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;対象レベル&lt;/h2&gt;
+&lt;p&gt;完全初心者OK&lt;br&gt;
+プログラミング未経験OK&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔌 PLUGとは&lt;/h2&gt;
+&lt;p&gt;PLUG（Power Platform Local User Group）は&lt;br&gt;
+ローコード・DX・業務改善をテーマに学び合うコミュニティです。&lt;br&gt;
+地方DXを『つなぐ×電源を入れる×ギャップを埋める』&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PLUGの行動規範に準じた尊重あるコミュニケーションをお願いします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;皆さまのご参加をお待ちしています！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://plug.connpass.com/event/388245/</guid><enclosure url="https://media.connpass.com/thumbs/fa/09/fa096b8e303f8eb8bc7b159bf16f344a.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 07:31:53 +0900</pubDate></item><item><title>社会人のための生成AI活用勉強会 by CDLEひろしま</title><link>https://cdle-hiroshima.connpass.com/event/387214/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学きてみんさいラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市南区松原町2番62号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;明日からすぐ使える、業務効率化の手法を最短で学ぶリアルガチAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;「明日から使える」生成AI、体験してみませんか？&lt;/h2&gt;
 &lt;p&gt;ChatGPTやGeminiの名前は聞いたことがあるけど、実際に業務で使えていない...そんな方のための「はじめの一歩」勉強会です！
 実際にパソコンを持ち込んで、手を動かしながら学ぶハンズオン形式。参加者全員が「持ち帰れる成果物」を作ることを目指します。&lt;/p&gt;
 &lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
@@ -89,55 +148,7 @@
 &lt;h1&gt;注意事項&lt;/h1&gt;
 &lt;p&gt;会場およびオンラインの両方で定員を設ける場合があります。早めのお申し込みをお願いいたします！
 録画・録音はご遠慮ください。
-当日のスケジュールやZoomリンクなどは、Connpass上にて随時お知らせします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-hiroshima.connpass.com/event/386726/</guid><enclosure url="https://media.connpass.com/thumbs/15/e9/15e90fdc094ec5ca2cfee4612c076462.png" length="0" type="image/png"/><pubDate>Tue, 17 Mar 2026 12:32:38 +0900</pubDate></item><item><title>はじめてのPython勉強会</title><link>https://plug.connpass.com/event/386397/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月19日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: エソール広島&lt;/li&gt;&lt;li&gt;🏢 住所: 広島市中区大手町1-2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #PLUG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;はじめてのPython勉強会 〜業務に活かす第一歩〜&lt;/h1&gt;
-&lt;p&gt;Pythonに興味はあるけれど、何から始めればいいか分からない。&lt;br&gt;
-Power Platformなどのローコードツールを使っているけれど、コードにも少し挑戦してみたい。  &lt;/p&gt;
-&lt;p&gt;そんな方向けの 初心者向けの勉強会です。
-一緒に動かしながら体験していきます。&lt;/p&gt;
-&lt;p&gt;プログラミング未経験の方も大歓迎です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Pythonを触ったことがない方&lt;/li&gt;
-&lt;li&gt;プログラミングに興味がある方&lt;/li&gt;
-&lt;li&gt;Power Platformを使っていてコード開発にも興味がある方&lt;/li&gt;
-&lt;li&gt;業務効率化・自動化に興味がある方&lt;/li&gt;
-&lt;li&gt;DXに関心がある方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;初心者前提で進めますので、安心してご参加ください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;内容（予定）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;デスクトップ版ExcelでPython in Excelを使ってみよう&lt;/li&gt;
-&lt;li&gt;officeスクリプトやPower Automateと組み合わせて使ってみようかな&lt;/li&gt;
-&lt;li&gt;どんな効率化ができるか試してみよう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※内容は当日の参加者に合わせて変更する可能性が大きくあります&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;持ち物&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ノートPC&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;目的&lt;/h2&gt;
-&lt;p&gt;この勉強会は
-Pythonやコード開発に触れてみること・可能性を知ることを目的としています。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;対象レベル&lt;/h2&gt;
-&lt;p&gt;完全初心者OK&lt;br&gt;
-プログラミング未経験OK&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;🔌 PLUGとは&lt;/h2&gt;
-&lt;p&gt;PLUG（Power Platform Local User Group）は&lt;br&gt;
-ローコード・DX・業務改善をテーマに学び合うコミュニティです。&lt;br&gt;
-地方DXを『つなぐ×電源を入れる×ギャップを埋める』&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;PLUGの行動規範に準じた尊重あるコミュニケーションをお願いします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;皆さまのご参加をお待ちしています！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://plug.connpass.com/event/386397/</guid><enclosure url="https://media.connpass.com/thumbs/fa/09/fa096b8e303f8eb8bc7b159bf16f344a.png" length="0" type="image/png"/><pubDate>Sun, 15 Mar 2026 15:56:52 +0900</pubDate></item><item><title>広島BFF（Beer for Frontend）</title><link>https://beer-for-frontend.connpass.com/event/385687/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月11日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月11日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: port.cloud（ポートクラウド） ミーティングルーム・大&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県 広島市中区 基町 5-44 （広島商工会議所ビル ９F）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ビール等を飲みながらFEについて勉強しましょう。非FE領域の方、初学者の方、学生さん大歓迎です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+当日のスケジュールやZoomリンクなどは、Connpass上にて随時お知らせします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-hiroshima.connpass.com/event/386726/</guid><enclosure url="https://media.connpass.com/thumbs/15/e9/15e90fdc094ec5ca2cfee4612c076462.png" length="0" type="image/png"/><pubDate>Tue, 17 Mar 2026 12:32:38 +0900</pubDate></item><item><title>広島BFF（Beer for Frontend）</title><link>https://beer-for-frontend.connpass.com/event/385687/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月11日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月11日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: port.cloud（ポートクラウド） ミーティングルーム・大&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県 広島市中区 基町 5-44 （広島商工会議所ビル ９F）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ビール等を飲みながらFEについて勉強しましょう。非FE領域の方、初学者の方、学生さん大歓迎です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;会場準備のドリンク（ビール・酎ハイ・その他ソフトドリンク等。）を飲みながら、フロントエンドについて勉強しましょう。&lt;br&gt;
 未成年の方・フロントエンド領域でない方・学生の方・エンジニアでない方も大歓迎です。&lt;br&gt;
 マウント行為・勧誘行為は禁止します。&lt;/p&gt;
@@ -283,7 +294,7 @@ Pythonやコード開発に触れてみること・可能性を知ることを�
 
 &lt;ul&gt;
 &lt;li&gt;チーム広島 アベンジャーズプロジェクト (スキルアップ・DX推進WG)&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://omoni-cloud.connpass.com/event/384956/</guid><enclosure url="https://media.connpass.com/thumbs/ab/4e/ab4e23ec66670cc5dc41ba2804189b19.png" length="0" type="image/png"/><pubDate>Tue, 17 Mar 2026 22:41:06 +0900</pubDate></item><item><title>PBI広島勉強会#10</title><link>https://pbil-h.connpass.com/event/384433/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学（東千田キャンパス 地域連携フロアSENDA LAB）&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区東千田町１丁目１−８９ 総合校舎Ｌ 棟５階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#10&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://omoni-cloud.connpass.com/event/384956/</guid><enclosure url="https://media.connpass.com/thumbs/ab/4e/ab4e23ec66670cc5dc41ba2804189b19.png" length="0" type="image/png"/><pubDate>Tue, 17 Mar 2026 22:41:06 +0900</pubDate></item><item><title>PBI広島勉強会#10</title><link>https://pbil-h.connpass.com/event/384433/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月28日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月28日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 広島大学 東千田キャンパス 地域連携フロアSENDA LAB  慎思棟 (旧L棟) 会議室2（504）&lt;/li&gt;&lt;li&gt;🏢 住所: 広島県広島市中区東千田町１丁目１−８９ (慎思棟（旧L棟） 会議室２(504))&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Power BI を学びたいんじゃけぇ　#10&lt;/p&gt;&lt;div&gt;&lt;p&gt;Power BI Learning 広島(PBI広島)の勉強会を実施します。
 開催時間が15:00~18:00 となっております。ご注意ください。&lt;/p&gt;
 &lt;p&gt;広島でPower BI ユーザーを増やし、みんなで学んでいくコミュニティにしていくため
 導入期間(全６回)は終了し、今後は初心者から上級者まで幅広い参加者がスキルアップできる学びの場にしていきたいと考えています。&lt;/p&gt;
@@ -369,7 +380,7 @@ Pythonやコード開発に触れてみること・可能性を知ることを�
 ・&lt;a href="https://essor.or.jp/pages/30/" rel="nofollow"&gt;エソール広島&lt;/a&gt;&lt;br&gt;
 ・&lt;a href="https://www.port-cloud.jp/price/" rel="nofollow"&gt;port-cloud&lt;/a&gt;（有料）&lt;br&gt;
 ・&lt;a href="https://www.camps-hiroshima.jp/" rel="nofollow"&gt;イノベーション・ハブ・ひろしまCamps&lt;/a&gt; &lt;br&gt;
-・&lt;a href="https://www.hiroshima-u.ac.jp/iagcc/ccc/sendalab/" rel="nofollow"&gt;東千田キャンパス 地域連携フロアSENDA LAB | 広島大&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pbil-h.connpass.com/event/384433/</guid><enclosure url="https://media.connpass.com/thumbs/80/3b/803b735a45e6e8d04e2744a9b7249e3b.png" length="0" type="image/png"/><pubDate>Sun, 01 Mar 2026 12:04:53 +0900</pubDate></item><item><title>kintone Café 広島 Vol.36@福山(福山城)</title><link>https://kintone-cafe-hiroshima.connpass.com/event/383735/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月4日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月4日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福山城 天守前広場&lt;/li&gt;&lt;li&gt;🏢 住所: 〒720-0061 広島県福山市丸之内１丁目８−３９&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintonecafe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;桜を見ながらkintoneトーク&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟開催概要&lt;/h1&gt;
+・&lt;a href="https://www.hiroshima-u.ac.jp/iagcc/ccc/sendalab/" rel="nofollow"&gt;東千田キャンパス 地域連携フロアSENDA LAB | 広島大&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pbil-h.connpass.com/event/384433/</guid><enclosure url="https://media.connpass.com/thumbs/80/3b/803b735a45e6e8d04e2744a9b7249e3b.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 20:53:28 +0900</pubDate></item><item><title>kintone Café 広島 Vol.36@福山(福山城)</title><link>https://kintone-cafe-hiroshima.connpass.com/event/383735/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月4日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月4日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福山城 天守前広場&lt;/li&gt;&lt;li&gt;🏢 住所: 〒720-0061 広島県福山市丸之内１丁目８−３９&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintonecafe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;桜を見ながらkintoneトーク&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟開催概要&lt;/h1&gt;
 &lt;p&gt;春の福山城でお花見をしながら、kintoneについて気軽に語り合う交流イベントを開催します。
 業務改善の工夫、日々のちょっとした悩み、最近のkintoneトピックなどを、堅苦しい勉強会ではなく、リラックスした雰囲気の中で共有する会です。&lt;/p&gt;
 &lt;p&gt;初心者の方も、日頃からkintoneを使っている方も大歓迎。
