@@ -1,5 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 20 Mar 2026 15:36:08 +0000</lastBuildDate><item><title>子ども向けプログラミング道場：コーダー道場88回目@泉北和泉</title><link>https://coderdojo-sakai.connpass.com/event/388234/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 泉北BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 〒590-0137 大阪府堺市南区城山台２−２−８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;会場は南区城山台の泉北BASEです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;会場は城山台の泉北BASEです。&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 21 Mar 2026 15:18:44 +0000</lastBuildDate><item><title>【水曜のDX道場】Copilot Studioの稽古</title><link>https://connpass.com/event/388352/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月1日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月1日(水) 19:15&lt;/li&gt;&lt;li&gt;📍 会場: コミュニティスペース5.6&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区本庄東１−１８−８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DX&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;【水曜のDX道場】Copilot Studioの稽古&lt;/p&gt;&lt;div&gt;&lt;h2&gt;🥋 「水曜のDX道場」とは？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;「業務効率化」「DX」をテーマに、会社の枠を超えて互いに学び合うオープンコミュニティです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;主催企業（弊社）が社内で行っている勉強会を一般公開することにしました。
+私たちが一方的に教えるのではなく、社外の皆様とも知見を共有し、&lt;strong&gt;「これ、どう自動化する？」「もっと良い方法はないか？」と切磋琢磨し合える場&lt;/strong&gt;を作りたいと考えています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▼ 今後の開催テーマ（予定）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.1）：Google App Script ハンズオン / 開発（エンジニア・初学者向け）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.2）：Microsoft Power Apps ハンズオン / 開発（エンジニア・初学者向け）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.3）案件のタスク管理（エンジニア・初学者向け）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.4）AppSheetで作る「AI名刺管理アプリ」開発体験！&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.5）GASをGithubで管理してみましょう&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.6）初心者向けのGithubハンズオン&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.7）初心者向けのVibe Codingハンズオン(Antigravity)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.8）【水曜のDX道場】初心者向けのCopilot Studioハンズオン&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.9）【水曜のDX道場】NotebookLM ハンズオン&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.10）【水曜のDX道場】Dockerで環境構築ハンズオン&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;（Vol.11）【水曜のDX道場】Copilot Studioの練習〜&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;次回以降：Google / SaaS 管理、Microsoft活用、交流会などを週替わりで企画中！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📖 第11回となる今回のテーマは、Copilot Studioの練習です。&lt;/h2&gt;
+&lt;p&gt;8回目のCopilot Studioの内容を踏まえて、よりわかりやすく、皆さんがスタートできる構成にします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;⏳ タイムテーブル (18:00 - 19:15)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;18:00 - 18:15｜開場・受付 &amp;amp; ネットワーキング＆最近の関連話題&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;18:15 - 18:20｜オープニング・LT&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;18:20 - 19:00｜【ハンズオン】&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;19:00 - 19:15｜Q&amp;amp;A&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;💻 対象者・持ち物&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;【対象者】&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;エンジニア未経験の方&lt;/li&gt;
+&lt;li&gt;社外のエンジニアや業務改善担当者と交流し、刺激を受けたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;【持ち物】&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ノートPC&lt;/strong&gt;（Google Chromeブラウザ推奨）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copilot Studioが持っている方&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🚀 主催者メッセージ&lt;/h2&gt;
+&lt;p&gt;Copilot Studioのできることが模索しましょう。ナレッジ、、ツール、トピックス何かわからないなら、一つずつ触って、体験しましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/388352/</guid><enclosure url="https://media.connpass.com/thumbs/ac/b6/acb63651b0ef6a8619c4fd53769db67b.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 22:49:48 +0900</pubDate></item><item><title>【雑談禁止】突然のがちもく会【作業会】</title><link>https://osaka-mokumoku-kai.connpass.com/event/388334/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月22日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月22日(日) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: Blooming Kitchen&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001 大阪府大阪市北区大深町６−３８ 3 階 JAM BASE&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;進捗やばい人が休日に集まって必死に作業をする会です&lt;/p&gt;&lt;div&gt;&lt;p&gt;突然ですし、休日ですが、仕事たまってて休んでる場合じゃない人たちで集まって作業しましょう！&lt;/p&gt;
+&lt;p&gt;一人ではサボってしまう&lt;/p&gt;
+&lt;p&gt;進捗ヤバい&lt;/p&gt;
+&lt;p&gt;集中して作業したい方&lt;/p&gt;
+&lt;p&gt;におすすめです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://osaka-mokumoku-kai.connpass.com/event/388334/</guid><enclosure url="https://media.connpass.com/thumbs/de/3f/de3f95bc7e68dbdf02dbb6f4dabe6ed1.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 16:31:13 +0900</pubDate></item><item><title>データ分析 もくもく会 2026 #3- 初の大阪経済大学 北浜キャンパス回</title><link>https://datascience-mokumoku-kyobashi.connpass.com/event/388241/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月14日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月14日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学 北浜キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0041 大阪府大阪市中央区北浜１丁目８−１６&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;もくもく会の概要
+同会では、データ分析用途のプログラミング言語（R、Python、Ruby、シェルなど、いや好きなコーディング作業や書き物・雑用をやってください）、生成AI・LLM、画像生成、各種AI技術・機械学習のプラットフォーム、多変量解析、モデル作成、データベース、インフラなどをもくもくと構築・実装する場を提供します。主催者が会場・会議室・発表機会・ネットワーキングの場を提供して（参加費用: 無料）、参加者が各自の作業に集中できたり、積極的に最新のAIやテック関連の情報交換できたりする環境を整えます。&lt;/p&gt;
+&lt;p&gt;AIだけに留まらず、様々な業種業界の関係者が参加しますので、現在のAI業界の活況や関連業界の情報収集にもご活用いただけます。&lt;/p&gt;
+&lt;p&gt;また、2025年はAIエージェント元年でしたが、2026年は「AIガジェット元年」とも言われています。AIガジェットの最新動向についてもウォッチしていきます。&lt;/p&gt;
+&lt;p&gt;もくもく会の参加要件
+基本、RやPythonなどでデータ分析やってる方、システム開発やAI界隈の方&lt;/p&gt;
+&lt;p&gt;生成AI枠: "生成AIマニア"やこれから生成AIを深く学びたい方も大歓迎！&lt;/p&gt;
+&lt;p&gt;こんな方におすすめ
+ローコードプラットフォームからコーディングAIエージェントまで幅広く議論したい方&lt;/p&gt;
+&lt;p&gt;生成AIの技術トレンド、AIマネタイズや新規事業化などを議論したい方&lt;/p&gt;
+&lt;p&gt;職場などで生成AIなどの話ができない、AI難民の方々&lt;/p&gt;
+&lt;p&gt;データ分析コミュニティの強者達との情報交換がしたい方&lt;/p&gt;
+&lt;p&gt;(※) 個人主催の私情でやっている、もくもくイベントで、有料サロン・有料セミナーとかの勧誘も全くないのでご安心ください。&lt;/p&gt;
+&lt;p&gt;タイムテーブル&lt;/p&gt;
+&lt;p&gt;18:30 - 18:35 もくもく会 イントロ（初参加者向け）&lt;/p&gt;
+&lt;p&gt;18:35 - 18:45 参加者の自己紹介（1人2分程度）&lt;/p&gt;
+&lt;p&gt;18:45 - 19:30 もくもく タイム・情報交換&lt;/p&gt;
+&lt;p&gt;19:30 - 企画: NTT DATA MSE主催【ハッカソン】フィジカルAI × ローカルLLM / エッジLLM 生成AIハッカソンの　3/16 発表会内容をレポートします。
+&lt;a href="https://connpass.com/event/379699/" rel="nofollow"&gt;https://connpass.com/event/379699/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;①　リザバーコンピューティングの活用事例について
+ZetaX社　CEO 佐藤様　に登壇をお願いしており、ご紹介いただきます。以下　ZetaX社ホームページです。　&lt;a href="https://zetax.jp/" rel="nofollow"&gt;https://zetax.jp/&lt;/a&gt;　ZetaX社は、東京大学発の学生ベンチャー企業で、東京大学で培われた深層技術をビジネスの現場へ接続し、予測不能な未来を、計算可能な確信へと変えていくことをミッションとされております。大変興味深い内容となっておりますので、多数の方にご参加いただきますようお願いします。&lt;/p&gt;
+&lt;p&gt;②　&lt;a href="http://IO.net" rel="nofollow"&gt;IO.net&lt;/a&gt; を活用した　― 幻覚（Hallucination）を許さない企業内完結型 半導体品質保証AI　MySilicon Expert ―
+&lt;a href="http://IO.net" rel="nofollow"&gt;IO.net&lt;/a&gt; 社の　IO.cloud の活用により、GPUの搭載されていない　普通のNotePC で、ネットを切った完全ローカルな状態で動くAIの紹介です。社内データを外に出さず、幻覚も出さないAIです。&lt;/p&gt;
+&lt;p&gt;※ 会議中のLT 随時募集&lt;/p&gt;
+&lt;p&gt;20:45 - 21:00 ラップアップ&lt;/p&gt;
+&lt;p&gt;21:00 - 撤収 &lt;/p&gt;
+&lt;p&gt;受付方法
+当日、開催時間に、大阪経済大学 北浜キャンパスにお越しください。&lt;/p&gt;
+&lt;p&gt;場所・マップにてご確認ください。&lt;/p&gt;
+&lt;p&gt;主催者: 岡（連絡先: snoopy.joe.0806@gmail.com）&lt;/p&gt;
+&lt;p&gt;会場の詳細
+大阪経済大学 北浜キャンパス　内のどこか&lt;/p&gt;
+&lt;p&gt;〒541-0041 大阪府大阪市中央区北浜１丁目&lt;/p&gt;
+&lt;p&gt;ネット環境などの会場設備等
+無料Wifi（施設内無線LAN）、電源（コンセント）、発表用ディスプレイ（会議室利用時）を自由にご利用いただけます。&lt;/p&gt;
+&lt;p&gt;もくもく会でのルール&amp;amp;禁止事項 (必ず一読ください)
+物販、勧誘、ネットワークビジネスや告知の目的のみでの参加&lt;/p&gt;
+&lt;p&gt;途中参加、途中退室OKです。&lt;/p&gt;
+&lt;p&gt;高圧的な態度や個人情報を無用に聞き出す等、他の参加者が不快になるような行為、その他の妨害行為&lt;/p&gt;
+&lt;p&gt;無断キャンセルなど、常識に欠ける行為（欠席の際にはコメント欄に理由を記載いただけますと幸いです。）&lt;/p&gt;
+&lt;p&gt;詳細事項は、登録後に「参加者への情報」をご確認ください。&lt;/p&gt;
+&lt;p&gt;Code of Conduct
+本会の行動規範は、Bio"Pack"athon Code of Conduct（BioPCoC、バイオピーコック） v1.0.3に準じます。&lt;/p&gt;
+&lt;p&gt;アンチハラスメントポリシーや、講演者/OSS開発者との接し方、ポジティブな議論の進め方などを定めています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datascience-mokumoku-kyobashi.connpass.com/event/388241/</guid><enclosure url="https://media.connpass.com/thumbs/ab/2b/ab2b2af68eeaaf451a6be408378a157f.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 09:01:18 +0900</pubDate></item><item><title>子ども向けプログラミング道場：コーダー道場88回目@泉北和泉</title><link>https://coderdojo-sakai.connpass.com/event/388234/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 泉北BASE&lt;/li&gt;&lt;li&gt;🏢 住所: 〒590-0137 大阪府堺市南区城山台２−２−８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;会場は南区城山台の泉北BASEです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;会場は城山台の泉北BASEです。&lt;/h1&gt;
 &lt;p&gt;今月は南区城山台センターにある泉北BASEで開催します。&lt;br&gt;
 最寄駅は泉北高速鉄道 光明池駅です。&lt;br&gt;
 泉北BASEについてはこちらをご覧ください。  &lt;/p&gt;
@@ -4174,7 +4265,7 @@ HDMIで出力された音声は会場のスピーカーと配信に乗ります�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;発表したいネタがあるが当日会場に来る事が難しい方(当日予定がある, 遠方に住んでいる, VTuberである等)は, 発表者枠で参加登録した上で開催前日までに動画ファイルまたは動画をアップロードしたURLを預けていただければ, 当日その動画を会場で流す事ができます.
-当日のリモート会議やライブ配信による遠隔からの発表は, 機材トラブルのリスクが高いのでご遠慮ください.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kernelvm.connpass.com/event/386215/</guid><enclosure url="https://media.connpass.com/thumbs/78/d2/78d2f741f69ef17250187651486ab26c.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 17:55:28 +0900</pubDate></item><item><title>UpdateLog 2026~今年度を存分に放出するLT会~</title><link>https://gdsc-osaka-univ.connpass.com/event/386185/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月23日(月) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月23日(月) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 大阪大学吹田キャンパスInnovator’s club&lt;/li&gt;&lt;li&gt;🏢 住所: 〒565-0871 大阪府吹田市山田丘２−１ 産学共創C棟&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年一年の成果を発表して交流しましょう！！&lt;/p&gt;&lt;div&gt;&lt;p&gt;今年度が終わるまで、あと少し、、、。&lt;/p&gt;
+当日のリモート会議やライブ配信による遠隔からの発表は, 機材トラブルのリスクが高いのでご遠慮ください.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kernelvm.connpass.com/event/386215/</guid><enclosure url="https://media.connpass.com/thumbs/78/d2/78d2f741f69ef17250187651486ab26c.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 10:01:27 +0900</pubDate></item><item><title>UpdateLog 2026~今年度を存分に放出するLT会~</title><link>https://gdsc-osaka-univ.connpass.com/event/386185/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月23日(月) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月23日(月) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 大阪大学吹田キャンパスInnovator’s club&lt;/li&gt;&lt;li&gt;🏢 住所: 〒565-0871 大阪府吹田市山田丘２−１ 産学共創C棟&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年一年の成果を発表して交流しましょう！！&lt;/p&gt;&lt;div&gt;&lt;p&gt;今年度が終わるまで、あと少し、、、。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;今年つくったもの、得た知見、みんなに共有してみませんか？？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;今年から開発を始めたから得たことがいっぱいある&lt;/li&gt;
@@ -5665,8 +5756,8 @@ Kiroなどを使って未来を感じさせてくれる何かを作って発表�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;20:40-20:50&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;未来LT②&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;年100記事更新を支えるAIエージェント等&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;岡本秀高さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;20:50-21:00&lt;/td&gt;
@@ -5687,8 +5778,13 @@ Kiroなどを使って未来を感じさせてくれる何かを作って発表�
 &lt;p&gt;&lt;img alt="桑名さん" src="https://github.com/yamamoto123aaa/jaws-ug-osaka-public/blob/main/%E5%9B%B31.jpg?raw=true"&gt;&lt;/p&gt;
 &lt;p&gt;入社当初からLANSCOPE エンドポイントマネージャー クラウド版の開発に携わり、MDM領域の機能開発を担当。その後、大規模な技術負債の解消や改善施策を経験。現在は開発チームにてアーキテクチャ改善やチーム全体の生産性向上に取り組んでいます。&lt;/p&gt;
 &lt;h2&gt;しろみ&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="しろみさん" src="https://github.com/yamamoto123aaa/jaws-ug-osaka-public/blob/main/652814196_26083789781263248_4862512538745219009_n.jpg?raw=true"&gt;&lt;/p&gt;
 &lt;p&gt;インフラエンジニアとして金融業界向けサービスの基盤運用保守、運用最適化に従事しております。
 組織の制約のなか、新たな技術を導入して明るい未来に繋げる方法を模索中です。&lt;/p&gt;
+&lt;h2&gt;岡本秀高 - CircleCI Senior Field Engineer&lt;/h2&gt;
+&lt;p&gt;Stripeをレイオフされたので、USのカンファレンスに行ったりユーザーカンファレンスを主催したりした人。AWS Samurai 2017 / Community Builder ( Serverless )
+考えるより先に手を動かすことが多く、ブログ記事の半分近くは覚書。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wp-kyoto.net" rel="nofollow"&gt;https://wp-kyoto.net&lt;/a&gt; / https://hidetaka.dev / &lt;a href="https://revtrona.com" rel="nofollow"&gt;https://revtrona.com&lt;/a&gt; の３ブログでAWSやStripe / CICDについて毎年合計80-100記事公開しています。記事公開後の反響やCMSとして利用するWordPress (EC2)の運用保守を段階的にAIエージェント化していますので、運用しているエージェントや実装方法について紹介します。&lt;/p&gt;
 &lt;h1&gt;JAWS-UG OSAKA より案内とお願い&lt;/h1&gt;
 &lt;p&gt;JAWS-UG OSAKA は Amazon Web Services ユーザーグループ「JAWS-UG(Japan - AWS User Group)」大阪支部グループです。&lt;br&gt;
 JAWS-UG OSAKA は2011年より活動開始、以来 Amazon Web Services に関する技術勉強会を大阪市内を中心に定期的に開いています。&lt;br&gt;
@@ -5696,7 +5792,7 @@ JAWS-UG OSAKA は2011年より活動開始、以来 Amazon Web Services に関�
 これまで&lt;a href='https://jawsugosaka.doorkeeper.jp/"' rel="nofollow"&gt;Doorkeeper&lt;/a&gt; にてイベント申し込み等行っていましたが、2024年7月より connpass グループに移設しました。&lt;br&gt;
 既存メンバーの方はぜひグループ再登録を、新規メンバーの方はこちらにて登録をお願いします。&lt;br&gt;
 &lt;br&gt;&lt;br&gt;
-- 旧グループサイト: &lt;a href="https://jawsugosaka.doorkeeper.jp/" rel="nofollow"&gt;https://jawsugosaka.doorkeeper.jp/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsugosaka.connpass.com/event/382658/</guid><enclosure url="https://media.connpass.com/thumbs/f2/b3/f2b3bbe1b081b464aa00695f4dd43d34.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 21:08:46 +0900</pubDate></item><item><title>Build with AI Kansai 2026 - Google Developer Group</title><link>https://gdgkwansai.connpass.com/event/381901/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪国際工科専門職大学&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001  ⼤阪市北区梅⽥3-3-1 梅田総合校舎&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #BuildwithAI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI に関する知見の共有と Google 技術のハンズオン&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
+- 旧グループサイト: &lt;a href="https://jawsugosaka.doorkeeper.jp/" rel="nofollow"&gt;https://jawsugosaka.doorkeeper.jp/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsugosaka.connpass.com/event/382658/</guid><enclosure url="https://media.connpass.com/thumbs/f2/b3/f2b3bbe1b081b464aa00695f4dd43d34.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 12:59:11 +0900</pubDate></item><item><title>Build with AI Kansai 2026 - Google Developer Group</title><link>https://gdgkwansai.connpass.com/event/381901/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪国際工科専門職大学&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001  ⼤阪市北区梅⽥3-3-1 梅田総合校舎&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #BuildwithAI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI に関する知見の共有と Google 技術のハンズオン&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;「知る」から「創る」へ。AIと共に未来を実装する1日。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Build with AI&lt;/strong&gt; は、Google が世界中で展開する、開発者やテクノロジーに関心のあるすべての人を対象としたイベントシリーズです。昨年好評を博した本イベントが、2026年も関西にやってきます！&lt;/p&gt;
 &lt;p&gt;今年のテーマは、AIの&lt;strong&gt;「実践」&lt;/strong&gt;と&lt;strong&gt;「共創」&lt;/strong&gt;です。&lt;br&gt;
@@ -5713,7 +5809,7 @@ JAWS-UG OSAKA は2011年より活動開始、以来 Amazon Web Services に関�
 &lt;/ul&gt;
 
 
-&lt;p&gt;&lt;img alt="connpass contents" src="https://i.ibb.co/ch7SkLdg/connpass-contents.png" width="1080"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="connpass contents" src="https://i.ibb.co/tMsSJpw7/connpass-contents.png" width="1080"&gt;&lt;/p&gt;
 &lt;h1&gt;🗺️ 会場情報&lt;/h1&gt;
 &lt;h2&gt;会場：大阪国際工科専門職大学 15,16階&lt;/h2&gt;
 &lt;p&gt;大阪（西口）駅前、徒歩90秒！  &lt;/p&gt;
@@ -5722,7 +5818,7 @@ JAWS-UG OSAKA は2011年より活動開始、以来 Amazon Web Services に関�
 &lt;li&gt;📍&lt;a href="https://maps.app.goo.gl/bfEvq9Kt6wkzWmHc9" rel="nofollow"&gt;&lt;strong&gt;GoogleMap&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;🕐 タイムテーブル&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="202604 bwai timetable" src="https://i.ibb.co/6cFwkcFF/202604-bwai-timetable.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="202604 bwai timetable" src="https://i.ibb.co/B59zTycP/202604-bwai-timetable.png"&gt;&lt;/p&gt;
 
 
 &lt;h1&gt;🔉 &lt;strong&gt;セッション&lt;/strong&gt;&lt;/h1&gt;
@@ -5893,7 +5989,7 @@ X: &lt;a href="https://x.com/kit_gdsc" rel="nofollow"&gt;@kit_gdsc&lt;/a&gt;&lt;
 &lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;/p&gt;
 &lt;p&gt;イベントに参加される方はご一読ください。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/381901/</guid><enclosure url="https://media.connpass.com/thumbs/04/ce/04ceda080b8677a9a01c554e93655abf.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 18:09:42 +0900</pubDate></item><item><title>【大阪開催】WEBアプリ ハッカソン（2/2日目：発表日）</title><link>https://pg-beginner-mtg.connpass.com/event/380628/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社SOARIG 本社&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市西区江戸堀1-23-13 肥後橋ビル3号館12階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;交流もできるので、ご参考までに発表日だけのご参加も大歓迎です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;更新履歴&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/381901/</guid><enclosure url="https://media.connpass.com/thumbs/04/ce/04ceda080b8677a9a01c554e93655abf.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 16:59:56 +0900</pubDate></item><item><title>【大阪開催】WEBアプリ ハッカソン（2/2日目：発表日）</title><link>https://pg-beginner-mtg.connpass.com/event/380628/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社SOARIG 本社&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市西区江戸堀1-23-13 肥後橋ビル3号館12階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;交流もできるので、ご参考までに発表日だけのご参加も大歓迎です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;更新履歴&lt;/h1&gt;
 &lt;p&gt;◎2026/1/6作成&lt;br&gt;
 ◎2026/3/8更新（会場変更）&lt;br&gt;
 &lt;br&gt;
