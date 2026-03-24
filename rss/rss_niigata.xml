@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>新潟のイベント</title><link>https://connpass.com/explore/</link><description>新潟のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>新潟のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 23 Mar 2026 15:53:22 +0000</lastBuildDate><item><title>若手・ベテランエンジニア交流勉強会@ミライエ長岡（仮称）</title><link>https://connpass.com/event/388204/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: NaDeCBASE 5F イノベーションサロン&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県長岡市大手通２丁目３−１０&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントの説明&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>新潟のイベント</title><link>https://connpass.com/explore/</link><description>新潟のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>新潟のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 24 Mar 2026 15:57:46 +0000</lastBuildDate><item><title>若手・ベテランエンジニア交流勉強会@ミライエ長岡（仮称）</title><link>https://connpass.com/event/388204/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: NaDeCBASE 5F イノベーションサロン&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県長岡市大手通２丁目３−１０&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントの説明&lt;/h1&gt;
 &lt;p&gt;会場であるイノベーションサロンでは、普段から多くの学生や若手エンジニアが開発している様子を見かけます。
 そんな中で「長岡って勉強会ないですよね」という声を耳にすることが増えてきました。&lt;/p&gt;
 &lt;p&gt;……あれ？数年前までは、長岡でもエンジニアが集まって勉強会をしていたような気がします。&lt;/p&gt;
@@ -560,7 +560,7 @@ event@swiing.jp&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;登壇者募集&lt;/h2&gt;
 &lt;p&gt;AWSに関することであれば、どんな内容でもOKです。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;セッションは1枠20分ほどを予定しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;セッションは1枠15分ほどを予定しています。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;「AWSのこのサービスを使ってみた」&lt;/li&gt;
 &lt;li&gt;「資格試験の勉強方法」&lt;/li&gt;
@@ -571,8 +571,7 @@ event@swiing.jp&lt;/p&gt;
 &lt;p&gt;おかげさまですべて埋まりました！たくさんのご応募ありがとうございました。
 （※万が一、登壇のキャンセルが出た場合は、改めて本ページにて告知させていただきます）&lt;/p&gt;
 &lt;h2&gt;セッション一覧&lt;/h2&gt;
-&lt;p&gt;現在、登壇者を募集しています。
-内容が決まり次第、随時更新いたします。&lt;/p&gt;
+&lt;p&gt;内容が決まり次第、随時更新いたします。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -617,6 +616,11 @@ event@swiing.jp&lt;/p&gt;
 &lt;td style="text-align: left;"&gt;（募集中）&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;8&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;タイトル未定&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;沼口 繁&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -635,6 +639,7 @@ AWSに関する情報交換や、地域のエンジニア同士の交流の場�
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;会費：5,000円程度（実費）&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;※会費は当日、懇親会の場にてお支払いいただきます&lt;/p&gt;
 &lt;h3&gt;出欠確認について&lt;/h3&gt;
 &lt;p&gt;人数把握と会場予約のため、お申し込み時のアンケートにて、懇親会参加の意向をご回答ください。&lt;/p&gt;
 &lt;ul&gt;
@@ -654,7 +659,7 @@ AWSに関する情報交換や、地域のエンジニア同士の交流の場�
 &lt;h2&gt;JAWS-UG 上越妙高支部について&lt;/h2&gt;
 &lt;p&gt;JAWS-UG 上越妙高支部では、新潟県上越地域にてクラウドに興味のあるエンジニア・ユーザーに向けた事例紹介や活用方法の紹介など、活発な情報交換が行える場になることを目指して活動しています。&lt;/p&gt;
 &lt;p&gt;代表：植木 和樹&lt;/p&gt;
-&lt;p&gt;メンバー：栁澤 一貴　立神 皓基&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-joetsumyoko.connpass.com/event/382075/</guid><enclosure url="https://media.connpass.com/thumbs/f8/16/f8166ee18dcfc3aeae1e69bdb13af453.png" length="0" type="image/png"/><pubDate>Wed, 18 Feb 2026 15:12:23 +0900</pubDate></item><item><title>AI CRAFT Hacks Niigata #7 〜 Claude Code ハンズオン</title><link>https://ai-craft-hacks-niigata.connpass.com/event/380631/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Sea Point Niigata&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県新潟市中央区関屋1-24&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #aich_niigata&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIを実践活用する全ての人が集う、知識共有コミュニティ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI CRAFT Hacks Niigata&lt;/h1&gt;
+&lt;p&gt;メンバー：栁澤 一貴　立神 皓基&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-joetsumyoko.connpass.com/event/382075/</guid><enclosure url="https://media.connpass.com/thumbs/f8/16/f8166ee18dcfc3aeae1e69bdb13af453.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 15:18:01 +0900</pubDate></item><item><title>AI CRAFT Hacks Niigata #7 〜 Claude Code ハンズオン</title><link>https://ai-craft-hacks-niigata.connpass.com/event/380631/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Sea Point Niigata&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県新潟市中央区関屋1-24&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #aich_niigata&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIを実践活用する全ての人が集う、知識共有コミュニティ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI CRAFT Hacks Niigata&lt;/h1&gt;
 &lt;h2&gt;このイベントについて&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;AI CRAFT Hacks&lt;/strong&gt;は、生成AIツールの実践的な活用法を共有する、学生からプロまで、あらゆる立場の人のためのナレッジシェアイベントです。
 ChatGPT、Midjourney、Stable Diffusion、Notion AI... 次々と登場する生成AIツールを学業、日常業務や専門分野にどう効果的に組み込むか。その答えは、すでに様々な分野の先駆者たちが見つけ始めています。&lt;/p&gt;
