@@ -1,5 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>東京のイベント</title><link>https://connpass.com/explore/</link><description>東京のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>東京のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 24 Mar 2026 15:57:40 +0000</lastBuildDate><item><title>もくもく＆LT会＠中野 #6</title><link>https://nakano-tech-lounge.connpass.com/event/388643/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Pleasanter Lounge&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都中野区中野2-30-5 中野アーバンビル7F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;主催者からのメッセージ&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>東京のイベント</title><link>https://connpass.com/explore/</link><description>東京のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>東京のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 25 Mar 2026 16:00:51 +0000</lastBuildDate><item><title>【AI駆動開発の裏側】Philozお披露目 &amp; 開発秘話 勉強会 + LT会</title><link>https://connpass.com/event/388726/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:45&lt;/li&gt;&lt;li&gt;📍 会場: MOSH株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区桜丘町9番8号 KN渋谷3 4階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【AI駆動開発の裏側】Philozお披露目 &amp;amp; 開発秘話 勉強会 + LT会&lt;/h1&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Claude Code&lt;/strong&gt;を中心としたAI駆動開発で製作したエンジニアマッチングサービス &lt;strong&gt;&lt;a href="https://philoz.net/" rel="nofollow"&gt;Philoz（フィローズ）&lt;/a&gt;&lt;/strong&gt; のお披露目イベントを開催します！&lt;/p&gt;
+&lt;p&gt;Philozは、エンジニアの「技術思想」と「労働価値観」を診断し、思想レベルで適合する企業とマッチングする新しい採用プラットフォームです。&lt;/p&gt;
+&lt;p&gt;本イベントでは、Claude Codeを活用したPhilozの開発秘話や、実際にチームでAI駆動開発に取り組んでみてどうだったか、良かったこと・悪かったこと・改善案などをリアルにお話しします。&lt;/p&gt;
+&lt;p&gt;また、&lt;strong&gt;LT（ライトニングトーク）枠&lt;/strong&gt;も設けています！テーマは「AIの活用」。1人5分、全4枠です。&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AI駆動開発に興味がある方&lt;/li&gt;
+&lt;li&gt;Claude Codeなど、AIコーディングツールを活用した開発に興味がある方&lt;/li&gt;
+&lt;li&gt;チーム開発におけるAI活用のリアルな話を聞きたい方&lt;/li&gt;
+&lt;li&gt;LTで自分のAI活用事例を共有したい方&lt;/li&gt;
+&lt;li&gt;エンジニア同士で交流したい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:15&lt;/td&gt;
+&lt;td&gt;セッション：Philozお披露目 &amp;amp; AI駆動開発の裏側&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:00&lt;/td&gt;
+&lt;td&gt;LT（ライトニングトーク）× 4本&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:30&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:45&lt;/td&gt;
+&lt;td&gt;解散&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;セッション内容&lt;/h2&gt;
+&lt;h3&gt;Philozお披露目 &amp;amp; AI駆動開発の裏側&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Philozとは？ — ペルソナ駆動型エンジニアマッチングの紹介&lt;/li&gt;
+&lt;li&gt;Claude Codeを活用したAI駆動開発で、実際にプロダクトを作ってみた話&lt;/li&gt;
+&lt;li&gt;チーム開発でのClaude Code活用 — 良かったこと・悪かったこと&lt;/li&gt;
+&lt;li&gt;今後の改善案と展望&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;LT（ライトニングトーク）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;テーマ：&lt;strong&gt;AIの活用&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;1人5分 × 4枠&lt;/li&gt;
+&lt;li&gt;LT登壇希望の方は、本ページの「LT登壇枠」からお申し込みください！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;MOSH株式会社
+東京都渋谷区桜丘町9番8号 KN渋谷3 4階&lt;/p&gt;
+&lt;h2&gt;メンバー&lt;/h2&gt;
+&lt;h3&gt;山田（&lt;a href="https://x.com/Yamasan_CEO" rel="nofollow"&gt;@Yamasan_CEO&lt;/a&gt;）&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.reit-inc.co.jp/" rel="nofollow"&gt;ReIT合同会社&lt;/a&gt; 代表&lt;br&gt;
+プラットフォーム開発、モバイルアプリ、AI Integration、クラウド＆DevOpsなど幅広い技術領域で事業を展開。&lt;/p&gt;
+&lt;h3&gt;鈴木（&lt;a href="https://x.com/Trash8ware" rel="nofollow"&gt;@Trash8ware&lt;/a&gt;）&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://design-link.net/" rel="nofollow"&gt;合同会社デザインL&lt;/a&gt;  CTO&lt;br&gt;
+福島県裏磐梯を拠点に、観光×ITで地域の未来をアップデート。ツアー事業とシステム開発事業を展開。&lt;/p&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;会場のWi-Fiはご利用いただけます&lt;/li&gt;
+&lt;li&gt;懇親会では軽食・ドリンクをご用意する予定です&lt;/li&gt;
+&lt;li&gt;当日のイベント内容は、SNSでの共有を歓迎します&lt;/li&gt;
+&lt;li&gt;参加者同士が気持ちよく交流できるよう、マナーを守ってご参加ください&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/388726/</guid><enclosure url="https://media.connpass.com/thumbs/e4/9c/e49c94818e12398085b54188ad55fe0d.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 17:05:08 +0900</pubDate></item><item><title>もくもく＆LT会＠中野 #6</title><link>https://nakano-tech-lounge.connpass.com/event/388643/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Pleasanter Lounge&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都中野区中野2-30-5 中野アーバンビル7F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;主催者からのメッセージ&lt;/h1&gt;
 &lt;p&gt;主にWebエンジニア（BtoB / バックエンド多め）の技術スキルを持つエンジニアを中心とした、もくもく&amp;amp;LT会を開催します。以下のような言語 / プラットフォームに詳しいエンジニアが参加しますが、特に言語やプラットフォームは限定いたしません。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Azure&lt;/li&gt;
@@ -292,1531 +369,165 @@
 &lt;h1&gt;個人情報のお取り扱いについて&lt;br&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;主催：株式会社PolariStone&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;事前・事後アンケート、その他、当イベントを通じて取得した個人情報等の取扱いはプライバシーポリシーに従って取り扱います。 またイベント受付管理や各種ご案内（サービス・イベント・採用等）に利用させていただく場合があります。 ご同意の上、ご参加ください。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;株式会社PolariStone プライバシーポリシー：&lt;a href="https://polaristone.net/contact/" rel="nofollow"&gt;https://polaristone.net/contact/&lt;/a&gt; &lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://orion.connpass.com/event/388612/</guid><enclosure url="https://media.connpass.com/thumbs/ec/16/ec16db9601257900be02276207b38470.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 14:16:36 +0900</pubDate></item><item><title>【少人数飲み会】後輩育成について語る会【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388611/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;U35エンジニアのためのコミュニティサポーターズCoLabにて&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「後輩育成」&lt;/strong&gt;をテーマに、少人数制の飲み会（交流会）を実施します。&lt;/p&gt;
-&lt;p&gt;「後輩育成」は自身の技術力だけでなく、言語化能力や心理的安全性の醸成など、エンジニアとしての「人間力」が試される重要なミッションです。&lt;/p&gt;
-&lt;p&gt;自走するエンジニアを育てるための声掛けの工夫や、コードレビューを通じた成長支援、モチベーション管理の秘訣など、現場での葛藤やノウハウをシェアしましょう。&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;「自分でやった方が早い」という誘惑&lt;/strong&gt;と戦いながら、後輩に仕事を任せるコツを知りたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;後輩の技術的な&lt;strong&gt;スタックアップ（スキル向上）をどう設計すべきか&lt;/strong&gt;悩んでいる方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;他社のエンジニアがどのような&lt;strong&gt;育成カリキュラムや1on1&lt;/strong&gt;を行っているか興味がある方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;後輩育成について語り合いたい方（社会人限定）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388611/</guid><enclosure url="https://media.connpass.com/thumbs/15/e6/15e63cc89a2cb155e264c3d45ccfd5ca.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:55:39 +0900</pubDate></item><item><title>【少人数飲み会】長岡技術科学大学OBOGの会【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388610/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;U35エンジニアのためのコミュニティサポーターズCoLabにて&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「長岡技術科学大学（NUT）OBOG」&lt;/strong&gt;をテーマに、少人数制の飲み会（交流会）を実施します。&lt;/p&gt;
-&lt;p&gt;実務訓練での経験がキャリアにどう繋がったか、独自の技術スタックの深掘り、そして長岡の厳しい冬を共にした仲間だからこそ通じる技術談義をシェアしましょう。&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;「技学」の精神&lt;/strong&gt;を胸に、現場でゴリゴリと実装や設計をリードしている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;なかなか出会えない、同じバックグラウンドを持つ&lt;strong&gt;「実装モンスター」&lt;/strong&gt;と繋がりたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;特定のニッチな技術領域からWeb・IT業界へ転身し、CSの壁をどう乗り越えたか話したい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;長岡技術科学大学（学部・大学院）のOB・OGで、現在はエンジニアとして活躍されている方（社会人限定）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388610/</guid><enclosure url="https://media.connpass.com/thumbs/c9/f2/c9f2b06bb8640c1e47b7f76e99ebcb11.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:56:01 +0900</pubDate></item><item><title>【少人数飲み会】会津大学OBOGの会【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388609/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;U35エンジニアのためのコミュニティサポーターズCoLabにて&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「会津大学（UoA）OBOG」&lt;/strong&gt;をテーマに、少人数制の飲み会（交流会）を実施します。&lt;/p&gt;
-&lt;p&gt;大学での学びが現在のキャリアにどう活きているか、最近の技術スタックの変化、そして母校を囲む思い出（や、あの冬の厳しさ）まで、世代を超えた「UoAスピリット」をシェアしましょう。&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;大学時代の尖った研究&lt;/strong&gt;やプロジェクトの経験が、実業務でどう化けたか語りたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;学年や研究室の枠を超えて、同門ならではの&lt;strong&gt;「技術オタク」な話&lt;/strong&gt;をフラットに楽しみたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;学年や業界を超えて、久々に「会津マインド」全開で技術の深い話を楽しみたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;会津大学のOB・OGで、現在はエンジニアとして活躍されている方（社会人限定）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388609/</guid><enclosure url="https://media.connpass.com/thumbs/3c/3c/3c3ca709ec0ca6bbc7e65bf99a2733ae.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:56:30 +0900</pubDate></item><item><title>【少人数飲み会】新卒3年目まで振り返り会【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388608/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;U35エンジニアのためのコミュニティサポーターズCoLabにて&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「新卒3年目までの振り返り」&lt;/strong&gt;をテーマに、少人数制の飲み会（交流会）を実施します。&lt;/p&gt;
-&lt;p&gt;「新卒3年目」は、基礎を終えて自走が求められる一方、自身の現在地や将来のキャリアに漠然とした不安を感じやすい&lt;strong&gt;「節目の時期」&lt;/strong&gt;です。&lt;/p&gt;
-&lt;p&gt;現場で直面した最大の壁とその乗り越え方や技術選定の悩み、理想と現実のギャップなど、これまでの歩みを振り返りながら、次のステップへのヒントをシェアしましょう。&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;「 junior（ジュニア）」から「middle（ミドル）」へステップアップ&lt;/strong&gt;するための壁を感じている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;他社の同年代エンジニアが、&lt;strong&gt;どのようなタスクを任され、どう学習しているか&lt;/strong&gt;知りたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;キャリアの方向性（スペシャリスト/ゼネラリスト）&lt;/strong&gt;について、同世代の本音を聞いてみたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388608/</guid><enclosure url="https://media.connpass.com/thumbs/9a/5f/9a5ffa0c99f38fa3eadde449c566eb80.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 21:25:09 +0900</pubDate></item><item><title>【少人数飲み会】かえぽんと飲む会【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388607/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;サポーターズ代表の楓さん（かえぽん）と、少人数で美味しいお酒を飲みながら語り合いませんか？&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;代表・楓を囲んだ少人数限定の飲み会を開催します！&lt;br&gt;
-難しい講義やセミナーではありません。「最近のエンジニア就活ってどう？」「キャリアについてちょっと相談したい」「単にかえぽんと乾杯したい！」など、きっかけは何でもOK。&lt;br&gt;
-&lt;br&gt;
-少人数だからこそ、普段のイベントでは聞けない裏話や、深い悩み相談もできちゃうかも？&lt;br&gt;
-美味しいお酒を片手に、みんなで最高に楽しい時間を過ごしましょう！&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;エンジニアとしてのキャリアに漠然とした不安がある方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;「カッコイイ大人」&lt;/strong&gt;を目指したいけれど、何から始めればいいか迷っている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;お酒の力を借りて、普段は言えないキャリアの本音をぶちまけたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388607/</guid><enclosure url="https://media.connpass.com/thumbs/ce/62/ce621660524bfe4f0bbf032369baa21c.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:57:16 +0900</pubDate></item><item><title>【少人数飲み会】女性エンジニアの集い【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388606/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;U35エンジニアのためのコミュニティサポーターズCoLabにて&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「女性エンジニア」&lt;/strong&gt;をテーマに、少人数制の飲み会（交流会）を実施します。&lt;/p&gt;
-&lt;p&gt;ライフイベントとキャリア形成が交差する時期にあり、WEB業界でもより多様なロールモデルが求められています。&lt;/p&gt;
-&lt;p&gt;数年後のキャリア展望や、男性中心のチームにおける「個」の出し方について、本音で相談、シェアをしましょう。&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;ライフステージを見据えたキャリア設計&lt;/strong&gt;に悩んでおり、他社のU35世代がどう考えているか知りたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;「エンジニアとしての専門性」と「ライフイベント」&lt;/strong&gt;をトレードオフにせず、両立させるための戦略を話したい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;周囲に女性エンジニアが少なく、シンプルに女性エンジニアのつながりが欲しい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;性自認が女性であり、ITエンジニアとして働かれている方（社会人限定）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388606/</guid><enclosure url="https://media.connpass.com/thumbs/45/95/4595562a1afa9bac37078abb5ce0a3e4.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 21:24:38 +0900</pubDate></item><item><title>【少人数飲み会】Claude Codeを語る会【サポーターズCoLab】</title><link>https://supporterz-seminar.connpass.com/event/388600/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 虎ノ門ヒルズステーションタワー36F（受付7F）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #サポーターズCoLab&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
-
-&lt;p&gt;U35エンジニアのためのコミュニティサポーターズCoLabにて&lt;/p&gt;
-&lt;p&gt;話題の爆速CLIツール&lt;strong&gt;「Claude Code」&lt;/strong&gt;をテーマに、少人数制の飲み会（交流会）を実施します。&lt;/p&gt;
-&lt;p&gt;「Claude Code」は、ターミナル上でAIと対話しながら、コードの理解・修正・テスト・デプロイまでを完結させる、開発体験を激変させるツールです。&lt;/p&gt;
-&lt;p&gt;エージェント型AIがもたらす開発フローの変化や、実際の活用事例、使いこなすためのTipsなど、現場のリアルな知見をシェアしましょう。&lt;/p&gt;
-&lt;p&gt;4/14（火）にはランチLTとして&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;「Claude Code活用事例」&lt;/a&gt;を実施！こちらもご参加ください！&lt;/p&gt;
-&lt;h2&gt;🍺 どんなことをするか&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;少人数制の交流会&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-10人の少人数制で実施のためじっくり密度の濃い話をしましょう &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;お寿司🍣と日本酒🍶をご用意&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;みんな大好きお寿司とサポーターズ厳選の日本酒をご用意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;他テーマの方とも交流&lt;/strong&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当日は同会場にて別テーマで飲み会を開催。最後の30分は他テーマも合わせた合同の交流会も実施します&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4/21（火）開催テーマ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://supporterz-seminar.connpass.com/event/388600" rel="nofollow"&gt;Claude Code&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388606" rel="nofollow"&gt;女性エンジニア&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388607" rel="nofollow"&gt;かえぽんと飲む&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388608" rel="nofollow"&gt;新卒3年目まで振り返り&lt;/a&gt;　/　&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;会津大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;長岡技術科学大学OBOG&lt;/a&gt; /　&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;後輩育成&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;👉🏽  こんな方におすすめ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;CursorやGitHub Copilotなど、&lt;strong&gt;他のAIツールとの使い分けに試行錯誤&lt;/strong&gt;している方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Claude Codeを触ってみたものの、&lt;strong&gt;他のエンジニアがどう活用しているか&lt;/strong&gt;知りたい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;最新の技術トレンド&lt;/strong&gt;を肴に、同世代のエンジニアとフラットに交流したい方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✅ 参加資格&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;AI時代のエンジニア像について語り合いたい方（社会人限定）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;35歳以下&lt;/strong&gt;のエンジニア職の方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;日時：4月21日（火）19:30-21:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;受付時間：19:15-19:30&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ イベント開始時刻に遅刻された場合、 20:00まで を受付の限度とさせていただきます。&lt;/p&gt;
-&lt;p&gt;※20:00を超過した場合は、ご参加をお断りさせていただく場合がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;場所：サポーターズオフィス&lt;/strong&gt;（&lt;a href="https://maps.app.goo.gl/GNDy2cJ1onkQvqHQ7" rel="nofollow"&gt;Google Map&lt;/a&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;〒105-5536 東京都港区虎ノ門2-6-1 虎ノ門ヒルズステーションタワー36F&lt;/p&gt;
-&lt;p&gt;※昨年開業の最新鋭の超高層ビルです。東京タワーとスカイツリーを望める絶景もお楽しみください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参加費：無料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※サポーターズCoLabの活動に賛同いただける企業様の協賛により、無料でイベントを実施しております&lt;/p&gt;
-&lt;h2&gt;📷 イベントの様子&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;前半90分は本テーマの参加者のみで少人数の交流会（食事やお酒を提供）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/fyglr29a9wb4ftu1kpxpe3vz8oj59waw.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/5cy5i09647y58w02b6skejkmj9m1u1o2.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/09ap2gqzkhjcea7v5azhk11kcz2na31n.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;ラスト30分は他テーマも合わせた合同の交流会（立食形式/任意）&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xteluvfoe8vqgucr54ssu5lp83wlud6o.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/48j4d58wb40u74r402yn8lmna7mft7w4.png" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/xj3k57bk1j6eeapjtdm9acu2cqldjaln.png" width="200"&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;東京タワーが見える虎ノ門ヒルズ36Fにてお待ちしております&lt;/strong&gt;&lt;/p&gt;
-&lt;div&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/qu391ivfljjqxld9hw6lgxqwbyeyskvm.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/ds6499uhcsqtrye323bnvbvgkbf00lvh.webp" width="200"&gt;
-  &lt;img src="https://cartaholdings.box.com/shared/static/f4rc8p4gmcjhwr9anulss4jkant97wyx.jpeg" width="200"&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。  &lt;/p&gt;
-&lt;p&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、  &lt;/p&gt;
-&lt;p&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。  &lt;/p&gt;
-&lt;p&gt;※キャリア支援会社 &lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt; が運営しています。&lt;/p&gt;
-&lt;p&gt;※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
-&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;📓 勉強会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🍻 交流会&lt;/h2&gt;
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
-&lt;/a&gt;
-
-
-
-
-&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
-  &lt;img alt="
-CoLab Conf
-4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
-&lt;/a&gt;
-
-&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
-&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt; さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388600/</guid><enclosure url="https://media.connpass.com/thumbs/cb/d0/cbd04c553e8ffdb54ec9381d5729ab28.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:59:22 +0900</pubDate></item><item><title>dev_night Tokyo #5</title><link>https://auth0-japan.connpass.com/event/388529/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Okta Japan株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区渋谷2-21-1 渋谷ヒカリエ30階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #auth0&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Auth0最新情報やAWSサービスとの連携など、Auth0を使った開発に役立つTips&lt;/p&gt;&lt;div&gt;&lt;h2&gt;dev_nightとは？&lt;/h2&gt;
+&lt;p&gt;株式会社PolariStone プライバシーポリシー：&lt;a href="https://polaristone.net/contact/" rel="nofollow"&gt;https://polaristone.net/contact/&lt;/a&gt; &lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://orion.connpass.com/event/388612/</guid><enclosure url="https://media.connpass.com/thumbs/ec/16/ec16db9601257900be02276207b38470.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 14:16:36 +0900</pubDate></item><item><title>Interface2026年5月号「Linuxとハードウェア」オフ会＠東京</title><link>https://inteface-meet-up.connpass.com/event/388602/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ＣＱ出版社セミナールーム&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都文京区千石4-29-14（ＣＱビル）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;特集筆者によるミニ・セッション＆懇親会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;● オフ会について&lt;/h2&gt;
+&lt;p&gt;コンピュータ技術実験月刊誌Interface 2026年5月号「Linuxとハードウェア」の記事執筆者や関係者を招き，ミニプレゼンや交流会を行います．&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://interface.cqpub.co.jp/" rel="nofollow"&gt;https://interface.cqpub.co.jp/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://interface.cqpub.co.jp/magazine/202605/" rel="nofollow"&gt;https://interface.cqpub.co.jp/magazine/202605/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;前半は記事執筆者のショートプレゼン，後半は交流会になります．
+記事執筆者や編集者とも話ができる気軽な集いです．&lt;/p&gt;
+&lt;p&gt;19:00～20:00 筆者によるプレゼン&lt;br&gt;
+20:00～20:15 ライトニング・トーク&lt;br&gt;
+20:00～ 交流会  &lt;/p&gt;
+&lt;h2&gt;● 参加条件&lt;/h2&gt;
+&lt;p&gt;・参加条件： &lt;strong&gt;Interface 2026年5月をお持ちの方&lt;/strong&gt;&lt;br&gt;
+当日ご持参ください．お持ちでない方は当日現地で購入もできます．  &lt;/p&gt;
+&lt;p&gt;電子版をご購入頂いた方は，購入時に弊社から自動配信される「ご購入/ご利用ありがとうございました」メールをお見せください．&lt;/p&gt;
+&lt;p&gt;・当日会場では他のInterface誌のバック・ナンバの販売もあります&lt;br&gt;
+・当日会場では簡単な軽食とドリンクを用意する予定です  &lt;/p&gt;
+&lt;h2&gt;● こんな方も歓迎&lt;/h2&gt;
+&lt;p&gt;・自作物の持ち込み＆プレゼン（ライトニング・トーク）も大歓迎です．&lt;br&gt;
+・ライトニング・トークをされる方は，参加枠としてライトニング・トーク枠を選択してください．&lt;br&gt;
+※イベントの様子を撮影し，SNSやウェブ，雑誌に掲載しますので,ご了承ください．&lt;br&gt;
+※できるだけ多くの方に参加していただきたいので，キャンセルは早めのご協力よろしくお願いします．&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://inteface-meet-up.connpass.com/event/388602/</guid><enclosure url="https://media.connpass.com/thumbs/61/52/61527e630ed2674b2a4b30ad045552a9.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 12:09:58 +0900</pubDate></item><item><title>Mobile勉強会 ウォンテッドリー × チームラボ × Sansan #24</title><link>https://wantedly.connpass.com/event/388583/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ウォンテッドリー株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区恵比寿四丁目20番3号 (恵比寿ガーデンプレイスタワー 5階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #mobile勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ウォンテッドリー・チームラボ・Sansanが共催するMobile勉強会です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🔍イベントについて&lt;/h1&gt;
+&lt;p&gt;ウォンテッドリー・チームラボ・Sansanが共催するMobile勉強会です。&lt;br&gt;
+モバイルアプリに関する技術的なことを共有する勉強会です。LT形式で各自が共有したいことを話します。&lt;br&gt;
+iOS/Androidの話から、KMPやFlutterといった技術の話など、モバイルアプリに関することであれば話す内容はなんでもOKです。&lt;br&gt;
+今回は、オンラインとオフラインでハイブリットでの開催となります。&lt;/p&gt;
+&lt;p&gt;前回開催内容は&lt;a href="https://teamlab.connpass.com/event/366306/" rel="nofollow"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;📆開催概要&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ ウォンテッドリー株式会社の新オフィスで実施します。白金台の旧オフィスではないのでご注意ください。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【日時】2026年4月21日 19:00受付開始&lt;br&gt;
+【会場】〒150-6005 東京都渋谷区恵比寿四丁目20番3号 恵比寿ガーデンプレイスタワー 5階&lt;br&gt;
+【参加費】無料&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;配信方法&lt;/h1&gt;
+&lt;p&gt;参加者の方には後ほどconnpassからURLを共有いたします。&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;内容について&lt;/h1&gt;
+&lt;h2&gt;💻発表方法&lt;/h2&gt;
+&lt;p&gt;各自5分程度で話すLT形式となります。&lt;br&gt;
+Webinarパネリスト機能で発表いただくことになります。PC💻をご持参ください。&lt;/p&gt;
+&lt;h2&gt;🗣️登壇枠について&lt;/h2&gt;
+&lt;p&gt;若干名ですが登壇者を募集しています。&lt;br&gt;
+モバイルアプリに関連することであれば、お好きな内容のLTで構いません。&lt;br&gt;
+登壇希望の方はConnpassのコメントで発表内容をお伝え下さい。&lt;/p&gt;
+&lt;h2&gt;⏰タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00-19:10&lt;/td&gt;
+&lt;td&gt;登壇者受付・投影テスト&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10-19:20&lt;/td&gt;
+&lt;td&gt;開場・受付&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:20-19:30&lt;/td&gt;
+&lt;td&gt;勉強会についての説明&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30-20:20&lt;/td&gt;
+&lt;td&gt;LT&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:20-21:00&lt;/td&gt;
+&lt;td&gt;歓談🍻&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;閉会予定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※終了時刻は発表者数によって変わります。&lt;br&gt;
+※内容は後ほど更新される可能性がございます。&lt;br&gt;
+※当日予告なく変更になる可能性がございます。&lt;br&gt;
+※現地（オフィス）参加される場合は、19:30までに受付を行ってください。（それ以降のご参加は認めておりません。）&lt;/p&gt;
+&lt;h2&gt;発表者&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名前&lt;/th&gt;
+&lt;th&gt;発表内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ウォンテッドリー/黒沼&lt;/td&gt;
+&lt;td&gt;UIKit→SwiftUIでハマったこと&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ウォンテッドリー/朴&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;チームラボ/&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;チームラボ/&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sansan/&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sansan/&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LT 登壇者 /&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LT 登壇者 /&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LT 登壇者 /&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LT 登壇者 /&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※発表者が決まり次第追加していきます。&lt;/p&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;p&gt;アンケートで提供いただいた内容は、ウォンテッドリーとSansan、チームラボ3社で共有しイベントの運営に利用させていただきます。&lt;/p&gt;
+&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
+&lt;p&gt;本勉強会は、開発者コミュニティの活性化とコミュニケーションを目的としています。私たちは下記のような事柄に関わらずすべての参加者にとって安全で歓迎されるような場を作ることに努めます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;社会的あるいは法的な性、性自認、性表現（外見の性）、性指向&lt;/li&gt;
+&lt;li&gt;年齢、障がい、容姿、体格&lt;/li&gt;
+&lt;li&gt;人種、民族、宗教（無宗教を含む）&lt;/li&gt;
+&lt;li&gt;技術の選択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;そして下記のようなハラスメント行為をいかなる形であっても決して許容しません。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不適切な画像、動画、録音の再生（性的な画像など）&lt;/li&gt;
+&lt;li&gt;発表や他のイベントに対する妨害行為&lt;/li&gt;
+&lt;li&gt;これらに限らない性的嫌がらせ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;登壇者、主催スタッフもこのポリシーの対象となります。&lt;/p&gt;
+&lt;p&gt;ハラスメント行為をやめるように指示された場合、直ちに従うことが求められます。ルールを守らない参加者は、主催者の判断により、退場処分や今後のイベントに聴講者、登壇者、スタッフとして関わることを禁止します。&lt;/p&gt;
+&lt;p&gt;もしハラスメントを受けていると感じたり、他の誰かがハラスメントされていることに気がついた場合、または他に何かお困りのことがあれば、すぐにご連絡ください。&lt;/p&gt;
+&lt;p&gt;対応窓口: customer-relations@wantedly.com&lt;/p&gt;
+&lt;h2&gt;アンケートについて&lt;/h2&gt;
+&lt;p&gt;本フォーム及びイベント終了後のアンケートにご入力いただいた情報は、当社及び協賛企業において、本イベント及びサービスのご案内等に用いらせていただくことを予定しています。個人情報の取り扱いは下部記載のサービスプライバシーポリシーに従います。個人情報の取り扱いにご同意の上、お申し込みください。&lt;/p&gt;
+&lt;p&gt;ウォンテッドリー株式会社&lt;br&gt;
+ &lt;a href="https://www.wantedly.com/about/privacy" rel="nofollow"&gt;https://www.wantedly.com/about/privacy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;チームラボ株式会社&lt;br&gt;
+&lt;a href="https://www.team-lab.com/privacy/" rel="nofollow"&gt;https://www.team-lab.com/privacy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sansan株式会社&lt;br&gt;
+&lt;a href="https://jp.corp-sansan.com/privacy/" rel="nofollow"&gt;https://jp.corp-sansan.com/privacy/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://wantedly.connpass.com/event/388583/</guid><enclosure url="https://media.connpass.com/thumbs/9d/6b/9d6b76ce5c3d233528a983b33739eca2.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 16:21:40 +0900</pubDate></item><item><title>dev_night Tokyo #5</title><link>https://auth0-japan.connpass.com/event/388529/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Okta Japan株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区渋谷2-21-1 渋谷ヒカリエ30階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #auth0&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Auth0最新情報やAWSサービスとの連携など、Auth0を使った開発に役立つTips&lt;/p&gt;&lt;div&gt;&lt;h2&gt;dev_nightとは？&lt;/h2&gt;
 &lt;p&gt;Auth0はあらゆる業界のコンシューマーアプリとSaaSアプリの両方に対応する認証・認可ソリューションを提供しています。
 &lt;a href="https://auth0.com/jp" rel="nofollow"&gt;Auth0&lt;/a&gt;を活用することで、アイデンティティの複雑な課題を解決し、顧客に便利で安全なログイン環境を提供します。その結果、開発者はコアとなるサービス開発のイノベーションに注力できます。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;dev_night&lt;/strong&gt; は、Auth0に興味があるすべての開発者のためのミートアップです。アプリケーションへの認証・認可機能の実装を検討している方から、すでにAuth0をご利用中の方まで、役立つ情報や知見を交換し、開発者同士で交流を深める場です。&lt;/p&gt;
@@ -2345,11 +1056,17 @@ Gelato MONSTERを始めてお披露目をするのに最適な場所だと考え
 &lt;p&gt;
   皆さまのご参加を心よりお待ちしております！&lt;br&gt;
   ぜひお気軽にご参加ください。
-&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mecha-mote-se.connpass.com/event/388251/</guid><enclosure url="https://media.connpass.com/thumbs/82/fc/82fcbb5790453ef8b09863fb65ee30a3.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 13:31:22 +0900</pubDate></item><item><title>Papers We Love Tokyo</title><link>https://pwl.connpass.com/event/388223/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月30日(木) 7:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月30日(木) 9:00&lt;/li&gt;&lt;li&gt;📍 会場: 11F&lt;/li&gt;&lt;li&gt;🏢 住所: 16-28 Nanpeidaicho, Shibuya, Tokyo 150-0036&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.
-We're curating a repository for papers and places-to-find papers. You can contribute by adding PR's for papers, code, and/or links to other repositories.
-We're posting videos of all our presentations, from all our chapters.&lt;/p&gt;
-&lt;p&gt;If you need to reach out to us or have ideas for papers, just ask us via our twitter account.
-Papers We Love has a Code of Conduct. Please contact one of the Meetup's organizers if anyone is not following it. Be good to each other and to the PWL community!&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pwl.connpass.com/event/388223/</guid><enclosure url="https://media.connpass.com/thumbs/9f/ee/9fee2c2fa06058c6b7886a6af6a32e2d.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 21:04:45 +0900</pubDate></item><item><title>【2026年5月13日】AI開発を語るスシ会 PLUG SUSHI NIGHT vol.13</title><link>https://stract.connpass.com/event/388203/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月13日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月13日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: STRACTオフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都千代田区四番町4丁目19 Circles市ヶ谷701&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;🍣 AI開発を語るスシ会🍣 PLUG SUSHI NIGHT vol.11&lt;/h2&gt;
+&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mecha-mote-se.connpass.com/event/388251/</guid><enclosure url="https://media.connpass.com/thumbs/82/fc/82fcbb5790453ef8b09863fb65ee30a3.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 13:31:22 +0900</pubDate></item><item><title>Papers We Love Tokyo</title><link>https://pwl.connpass.com/event/388223/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月30日(木) 7:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月30日(木) 9:00&lt;/li&gt;&lt;li&gt;📍 会場: 11F&lt;/li&gt;&lt;li&gt;🏢 住所: 16-28 Nanpeidaicho, Shibuya, Tokyo 150-0036&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;What was the last paper within the realm of computing you read and loved? What did it inspire you to build or tinker with? Come share the ideas in an awesome academic/research paper with fellow engineers, programmers, and paper-readers. Lead a session and show off code that you wrote that implements these ideas or just give us the lowdown about the paper (because of HARD MATH!). Otherwise, just come, listen, and discuss.&lt;/p&gt;
+&lt;p&gt;We're curating a &lt;a href="https://github.com/papers-we-love/papers-we-love" rel="nofollow"&gt;repository&lt;/a&gt; for papers and places-to-find papers. You can contribute by adding PR's for papers, code, and/or links to other repositories.
+We're posting &lt;a href="https://www.youtube.com/user/PapersWeLove" rel="nofollow"&gt;videos&lt;/a&gt; of all our presentations, from all our chapters.&lt;/p&gt;
+&lt;p&gt;If you need to reach out to us or have ideas for papers, just ask us via our &lt;a href="https://twitter.com/papers_we_love" rel="nofollow"&gt;twitter account&lt;/a&gt;.
+Papers We Love has a &lt;a href="https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md" rel="nofollow"&gt;Code of Conduct&lt;/a&gt;. Please contact one of the Meetup's organizers if anyone is not following it. Be good to each other and to the PWL community!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最近読んで感動した、コンピューティング分野の論文は何ですか？その論文に触発されて、何か作ったり試したりしましたか？素晴らしい学術論文・研究論文のアイデアを、エンジニア、プログラマー、論文好きの仲間たちと共有しましょう。セッションをリードして、そのアイデアを実装したコードを披露するもよし、論文の要点を解説するだけでもOKです（難しい数学があるので！）。もちろん、聴いて議論に参加するだけでも大歓迎です。&lt;/p&gt;
+&lt;p&gt;論文や論文の探し方をまとめた&lt;a href="https://github.com/papers-we-love/papers-we-love" rel="nofollow"&gt;リポジトリ&lt;/a&gt;を運営しています。論文、コード、他のリポジトリへのリンクのPRを送ることで貢献できます。
+全チャプターのプレゼンテーションの&lt;a href="https://www.youtube.com/user/PapersWeLove" rel="nofollow"&gt;動画&lt;/a&gt;も公開しています。&lt;/p&gt;
+&lt;p&gt;ご連絡や論文のアイデアがありましたら、&lt;a href="https://twitter.com/papers_we_love" rel="nofollow"&gt;Twitterアカウント&lt;/a&gt;からお気軽にどうぞ。&lt;/p&gt;
+&lt;p&gt;Papers We Loveには&lt;a href="https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md" rel="nofollow"&gt;行動規範&lt;/a&gt;があります。守られていない方がいた場合は、Meetupの主催者にご連絡ください。お互いを尊重し、PWLコミュニティを大切にしましょう！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pwl.connpass.com/event/388223/</guid><enclosure url="https://media.connpass.com/thumbs/9f/ee/9fee2c2fa06058c6b7886a6af6a32e2d.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 16:09:17 +0900</pubDate></item><item><title>【2026年5月13日】AI開発を語るスシ会 PLUG SUSHI NIGHT vol.13</title><link>https://stract.connpass.com/event/388203/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月13日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月13日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: STRACTオフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都千代田区四番町4丁目19 Circles市ヶ谷701&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;🍣 AI開発を語るスシ会🍣 PLUG SUSHI NIGHT vol.11&lt;/h2&gt;
 &lt;p&gt;STRACTが開催する、AI開発に携わるエンジニアや、&lt;br&gt;
 これから挑戦したい人が集まり、スシを囲みながら語り合う会です！&lt;/p&gt;
 &lt;p&gt;真面目な勉強会でもなく、ただの飲み会でもなく、&lt;br&gt;
@@ -2418,7 +1135,7 @@ Papers We Love has a Code of Conduct. Please contact one of the Meetup's organiz
 &lt;li&gt;登壇者・参加者への無断撮影や録音およびそれらのSNS・ブログ等での発信&lt;/li&gt;
 &lt;li&gt;その他、イベントの運営・雰囲気を著しく損なうと判断される行為&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;違反が確認された場合、警告・退席のお願い、また必要に応じて法執行機関への通報を行う場合がございます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stract.connpass.com/event/388203/</guid><enclosure url="https://media.connpass.com/thumbs/95/2f/952f84fe75495f69de43611faa6c254d.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:37:17 +0900</pubDate></item><item><title>ScalarにおけるAI活用</title><link>https://scalar.connpass.com/event/388187/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: FARO青山&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都港区南青山2-15−5 FARO青山&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI活用&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI×DevOps Study Meetup #1&lt;/p&gt;&lt;div&gt;&lt;h1&gt;勉強会の趣旨&lt;/h1&gt;
+&lt;p&gt;違反が確認された場合、警告・退席のお願い、また必要に応じて法執行機関への通報を行う場合がございます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://stract.connpass.com/event/388203/</guid><enclosure url="https://media.connpass.com/thumbs/95/2f/952f84fe75495f69de43611faa6c254d.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:37:17 +0900</pubDate></item><item><title>自社の業務におけるAI活用事例紹介（ハイブリッド開催）</title><link>https://scalar.connpass.com/event/388187/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: FARO青山&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都港区南青山2-15−5 FARO青山&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI活用&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI×DevOps Study Meetup #1&lt;/p&gt;&lt;div&gt;&lt;h1&gt;勉強会の趣旨&lt;/h1&gt;
 &lt;p&gt;AI駆動開発やそこに関係するマイクロサービスについて理解を深める場になります。弊社が携わっているプロジェクトでAIを使ったチーム開発を進めており、参画しているメンバーや協力会社の方から、具体的なAI駆動開発を実施する方法、その中で生まれたマイクロサービスアーキテクチャを使用したAI駆動開発の事例や実際に使えるエージェントについてお話頂き、参加者の皆様と知識の共有や交換を目的としています。&lt;br&gt;
 （弊社製品のScalarDBも絡んだお話も出てきますが、汎用的な内容ためフラットにお楽しみ頂けます）&lt;/p&gt;
 &lt;h1&gt;想定参加者&lt;/h1&gt;
@@ -2486,7 +1203,59 @@ Papers We Love has a Code of Conduct. Please contact one of the Meetup's organiz
 参加目的が不適切と判断される場合、運営側で参加をキャンセルする場合がございます。&lt;/p&gt;
 &lt;h1&gt;行動規範&lt;/h1&gt;
 &lt;p&gt;この勉強会の全参加者が、以下の行動規範に従う必要があります。以下の行動規範に従う必要があります。このコミュニティの全メンバーが、いかなるイベントにおいても、オーガナイザーによる協力のもと、この行動規範を遵守することが求められています。私たちは、このコミュニティの全ての参加者が、誰にとっても安全な環境を保障するために、協力し合うことを期待しています。&lt;/p&gt;
-&lt;p&gt;私たちの勉強会は、性別、性的自認、外形的な性別、年齢、性的指向、障害、身体的特徴、身体のサイズ、人種、民族、宗教（あるいは無宗教）、技術の選択、を理由としたハラスメントの無い状態を維持すべく行動します。私たちは、勉強会参加者に対する、いかなる種類のハラスメントも容認しません。性的な表現や画像は、トーク、ワークショップ、パーティ、X（旧Twitter）その他のオンラインメディアを含め、いかなるコミュニティイベントでも、不適切なものとします。これらの規則を破った参加者は、オーガナイザーの決定のもと、制裁を受けるか、当該イベントおよび将来のあらゆるイベントあるいはコミュニティから、払い戻し（もしある場合でも）無しで参加を拒絶されることがあります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://scalar.connpass.com/event/388187/</guid><enclosure url="https://media.connpass.com/thumbs/cc/6f/cc6f73dcf56353be72ae2c976897e522.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 19:08:19 +0900</pubDate></item><item><title>PHPerKaigi mini #0  PHPer Book Revue出張版</title><link>https://phperkaigi.connpass.com/event/388134/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 技術書ライブラリー&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都新宿区西早稲田3-20-1 (stonewall bldg. 3F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #phperkaigi&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;PHPerKaigi mini&lt;/h1&gt;
+&lt;p&gt;私たちの勉強会は、性別、性的自認、外形的な性別、年齢、性的指向、障害、身体的特徴、身体のサイズ、人種、民族、宗教（あるいは無宗教）、技術の選択、を理由としたハラスメントの無い状態を維持すべく行動します。私たちは、勉強会参加者に対する、いかなる種類のハラスメントも容認しません。性的な表現や画像は、トーク、ワークショップ、パーティ、X（旧Twitter）その他のオンラインメディアを含め、いかなるコミュニティイベントでも、不適切なものとします。これらの規則を破った参加者は、オーガナイザーの決定のもと、制裁を受けるか、当該イベントおよび将来のあらゆるイベントあるいはコミュニティから、払い戻し（もしある場合でも）無しで参加を拒絶されることがあります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://scalar.connpass.com/event/388187/</guid><enclosure url="https://media.connpass.com/thumbs/cc/6f/cc6f73dcf56353be72ae2c976897e522.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 10:07:15 +0900</pubDate></item><item><title>第5回 IBM Workload Scheduler Meetup</title><link>https://ibm-developer.connpass.com/event/388163/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 日本アイ・ビー・エム箱崎事業所（日本橋箱崎町）&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都中央区日本橋箱崎町19-21&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;IWSにご興味をお持ちの技術者の方々が気軽に集まり、技術的な交流を楽しめるコミュニティイベントです。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟IBM Workload Scheduler（IWS）Meetup 開催のお知らせ🌟&lt;/h1&gt;
+&lt;p&gt;IBM Workload Scheduler（IWS）Meetup は、
+日頃IWSをご利用されている皆さまや、IWSにご興味をお持ちの技術者の方々が気軽に集まり、意見交換や質問、技術的な交流を楽しめるコミュニティイベントです。
+第5回となる5月のMeetupでは、今回も学びと交流が両立する充実のアジェンダをご用意いたしました！
+（※アジェンダは予告なく変更となる場合がございます。）
+IWS に興味のある方、もっと深く知りたい方、技術者同士でつながりたい方、どなたでも大歓迎です！
+皆さまのご参加を心よりお待ちしております。✨&lt;/p&gt;
+&lt;h1&gt;📆 アジェンダ（予定）&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;13:30–14:10　IWS Update&lt;/strong&gt;
+最新情報をわかりやすくご紹介します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14:10–14:50　IWS 導入・構築の現場から&lt;/strong&gt;
+実践的なナレッジや現場ならではの視点を共有します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15:00–16:00　ディスカッションタイム&lt;/strong&gt;
+皆さまで気軽に質問・意見交換を行う交流タイムです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16:00–16:40　IWS 開発部門タイム&lt;/strong&gt;
+開発部門からの深い話や裏側の知見をお届けします。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16:40–16:50　クロージング &amp;amp; 記念撮影&lt;/strong&gt;
+最後はみんなで楽しく笑顔で締めくくりましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16:50〜　ネットワーキングタイム（任意参加）&lt;/strong&gt;
+自由に交流できるカジュアルな時間です。ぜひお気軽に参加してください！&lt;/p&gt;
+&lt;h1&gt;会場・入館方法・受付&lt;/h1&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;日本アイ・ビー・エム箱崎事業所
+　東京都中央区日本橋箱崎町19-21
+&lt;a href="https://www.ibm.com/jp-ja/about/office" rel="nofollow"&gt;https://www.ibm.com/jp-ja/about/office&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;入館について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オフィスのセキュリティと入館手続きの必要上、お名前とご所属、メールアドレスを参加登録時にアンケートで取らせていただいております。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;受付&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;受付は13:00開始です。&lt;/li&gt;
+&lt;li&gt;IBM箱崎事業所1階のラウンジエリアにあります、QRコード読み取りカウンターの脇にイベント受付を設置しております。受付にて、入館用のバッジをお受け取りください。&lt;/li&gt;
+&lt;li&gt;受付から会場の16Fまでは、運営メンバーがアテンドさせていただきます。&lt;/li&gt;
+&lt;li&gt;当日遅刻等で上記の時間に間に合わない場合は、「参加者への情報」に記載する連絡先へご連絡ください。状況によっては、入館までしばらくお待ちいただく事となりますのであらかじめご了承ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;途中退館について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;セキュリティの観点から、IBM社員がフルエスコートさせていただきます。&lt;/li&gt;
+&lt;li&gt;途中退館をご希望される場合は、運営メンバーまでお声がけください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;連絡事項・注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当日/直前の不参加の場合でも、必ず connpass にてキャンセル連絡をお願いいたします。&lt;/li&gt;
+&lt;li&gt;イベントの模様は、後日、写真を添えてSNS等にアップロードさせていただきます。&lt;/li&gt;
+&lt;li&gt;イベントの模様は、一部Teamsで収録を行います。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;個人情報の取り扱いについて&lt;/h2&gt;
+&lt;p&gt;会場へ入館申請を行うため、参加者の本名やメールアドレスの情報を記入頂きます。そのため、connpass の事前アンケートで頂いた個人情報を以下に定める内容にて取り扱います。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コミュニティ開催会場の入館申請手続き&lt;/li&gt;
+&lt;li&gt;ミートアップ申込者の入館時のご本人確認&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ibm-developer.connpass.com/event/388163/</guid><pubDate>Wed, 25 Mar 2026 09:58:59 +0900</pubDate></item><item><title>PHPerKaigi mini #0  PHPer Book Revue出張版</title><link>https://phperkaigi.connpass.com/event/388134/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 技術書ライブラリー&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都新宿区西早稲田3-20-1 (stonewall bldg. 3F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #phperkaigi&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;PHPerKaigi mini&lt;/h1&gt;
 &lt;p&gt;PHPerKaigi mini は技術カンファレンス PHPerKaigi のスポンサーさまおよびスポンサーをご検討頂いている企業さまにホストになって頂いてPHP関連技術者（PHPer / ペチパー）向けに開催される勉強会イベントです。&lt;/p&gt;
 &lt;h1&gt;PHPer Book Revue&lt;/h1&gt;
 &lt;p&gt;第1回開催は技術書ライブラリーさまに会場を提供頂いて、PHPer Book Revue 出張版として実施します。&lt;/p&gt;
@@ -2776,18 +1545,20 @@ LT会形式での発表を行いつつ、参加者同士で交流し、仲を深
 &lt;h1&gt;注意事項・お願い🙏&lt;/h1&gt;
 &lt;p&gt;写真撮影・録画あります。NGの方は事前にご連絡を！&lt;/p&gt;
 &lt;p&gt;一人で悩まず、みんなでAIと仲良くなりましょう！申し込みお待ちしてます！ 🚀✨&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nextfreelance.connpass.com/event/388083/</guid><enclosure url="https://media.connpass.com/thumbs/25/15/25157879a2c4217bd183e066d967283c.png" length="0" type="image/png"/><pubDate>Wed, 18 Mar 2026 18:41:40 +0900</pubDate></item><item><title>【オフライン開催】田町.ai #1</title><link>https://tamachiai.connpass.com/event/388021/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月22日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月22日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社バックテック本社&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都港区3-14-18 キャナルスクエア 6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tamachiai&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;内容&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; は生成AIやその周辺技術・ノウハウに関する共有やエンジニアの交流を行う地域コミュニティになります。&lt;br&gt;
+&lt;p&gt;&lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; は生成AIやその周辺技術・ノウハウに関する共有やエンジニアの交流を行う地域コミュニティです！&lt;br&gt;
 オフラインで開催します！ &lt;/p&gt;
 &lt;p&gt;LTの内容は厳格に考えずに、アウトプットする自分の成長に繋がるから！くらいでもOKです！&lt;br&gt;
 初心者・学生大歓迎！ワイワイやりましょう！  &lt;/p&gt;
-&lt;h2&gt;LT会&lt;/h2&gt;
+&lt;p&gt;「AIが少しでも絡んでいればOK」 です!  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;発表時間は5分厳守でお願いします。質問時間等はありませんので、歓談のときにお話しください。 &lt;/li&gt;
+&lt;li&gt;業務でのAI導入して、成功した・失敗した話！&lt;/li&gt;
+&lt;li&gt;AIでの圧倒的負債解消！  &lt;/li&gt;
+&lt;li&gt;最近触っている 生成AI / AIエージェント の話！  &lt;/li&gt;
+&lt;li&gt;AI時代の組織の悩み！  &lt;/li&gt;
+&lt;li&gt;鬼の Vibe Coding！  &lt;/li&gt;
+&lt;li&gt;ハーネスエンジニアリングやってみた話！&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;例）&lt;br&gt;
-- 生成 AI をプロダクトに組み込んでいる話&lt;br&gt;
-- AI エージェント作ってみた&lt;br&gt;
-- LLM を作ってみた  &lt;/p&gt;
+&lt;p&gt;などなど、幅広く募集します！&lt;/p&gt;
 &lt;h2&gt;タイムスケジュール&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -2841,7 +1612,7 @@ LT会形式での発表を行いつつ、参加者同士で交流し、仲を深
 &lt;h3&gt;入館方法&lt;/h3&gt;
 &lt;p&gt;キャナルスクエア芝浦につきましたらそのまま中へ入りエレベーターで6Fまでお越しください。&lt;/p&gt;
 &lt;h3&gt;アンチハラスメントポリシー&lt;/h3&gt;
-&lt;p&gt;全ての参加者の皆様が安心して &lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; に参加していただけますよう、&lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; では&lt;a href="https://2025.tskaigi.org/code-of-conduct" rel="nofollow"&gt;TSKaigiアンチハラスメントポリシー&lt;/a&gt;に準ずるCode of Conductを設けます。&lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; に参加される方は、上記ポリシーに同意していただいているものとみなします&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tamachiai.connpass.com/event/388021/</guid><enclosure url="https://media.connpass.com/thumbs/f9/6c/f96c9e7a4a98b5ca88bebeee18b25654.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 23:41:14 +0900</pubDate></item><item><title>【ZOZO x Mercari x LayerX】企業R&amp;D勉強会 〜 研究と実用化のリアル〜</title><link>https://layerx.connpass.com/event/388018/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社LayerX&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都中央区築地1-13-1 (銀座松竹ビル 5F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #価値を届けるRandD&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;本イベントは、企業のR&amp;amp;D組織に所属する情報系エンジニア・研究者が、組織の壁を越えて知見・刺激・ネットワークを交換する場として開催するミートアップです。&lt;/p&gt;
+&lt;p&gt;全ての参加者の皆様が安心して &lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; に参加していただけますよう、&lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; では&lt;a href="https://2025.tskaigi.org/code-of-conduct" rel="nofollow"&gt;TSKaigiアンチハラスメントポリシー&lt;/a&gt;に準ずるCode of Conductを設けます。&lt;a href="http://Tamachi.ai" rel="nofollow"&gt;Tamachi.ai&lt;/a&gt; に参加される方は、上記ポリシーに同意していただいているものとみなします&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tamachiai.connpass.com/event/388021/</guid><enclosure url="https://media.connpass.com/thumbs/f9/6c/f96c9e7a4a98b5ca88bebeee18b25654.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 15:57:14 +0900</pubDate></item><item><title>【ZOZO x Mercari x LayerX】企業R&amp;D勉強会 〜 研究と実用化のリアル〜</title><link>https://layerx.connpass.com/event/388018/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社LayerX&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都中央区築地1-13-1 (銀座松竹ビル 5F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #価値を届けるRandD&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;本イベントは、企業のR&amp;amp;D組織に所属する情報系エンジニア・研究者が、組織の壁を越えて知見・刺激・ネットワークを交換する場として開催するミートアップです。&lt;/p&gt;
 &lt;p&gt;異なるドメインのR&amp;amp;D組織から登壇者を招き、「研究をどうやってプロダクトや事業に届けるか」というテーマでライトニングトークを行います。&lt;/p&gt;
 &lt;p&gt;学会やAgent系勉強会は多くありますが、「企業内でR&amp;amp;Dをどう機能させるか」「会社からどう評価されているか」という実務的な悩みを、同じ立場の人と本音で話せる場は意外と少ないと感じています。そのギャップを埋めたいという思いから、このミートアップを開催します。&lt;/p&gt;
 &lt;p&gt;オフライン開催ならではの熱気の中で、各社のR&amp;amp;Dのリアルに触れ、参加者同士の交流を深められる貴重な機会です。ぜひお気軽にご参加ください！&lt;/p&gt;
@@ -2966,7 +1737,185 @@ LT会形式での発表を行いつつ、参加者同士で交流し、仲を深
 &lt;li&gt;&lt;a href="https://zozonext.com/privacy" rel="nofollow"&gt;株式会社ZOZO NEXT プライバシーポリシー&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://static.jp.mercari.com/privacy" rel="nofollow"&gt;株式会社メルカリ プライバシーポリシー&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;※ご提供いただいた個人情報は、イベントの運営・管理、イベントの改善又は新規企画のための分析、登壇参加社の採用情報等のご案内で利用いたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://layerx.connpass.com/event/388018/</guid><enclosure url="https://media.connpass.com/thumbs/b9/e6/b9e6fcca9ec10facf4705591ee0f3c3c.png" length="0" type="image/png"/><pubDate>Mon, 23 Mar 2026 16:25:19 +0900</pubDate></item><item><title>TECH BATON in 東京 修行盛り Claude Coder のブースター</title><link>https://findy.connpass.com/event/387808/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Findy イベントスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都品川区大崎1丁目2−2アートヴィレッジ大崎セントラルタワー 5階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #techbaton_findy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜もっと活用したい人のための LT Night 〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;🧑‍🏫公募枠について&lt;/h2&gt;
+&lt;p&gt;※ご提供いただいた個人情報は、イベントの運営・管理、イベントの改善又は新規企画のための分析、登壇参加社の採用情報等のご案内で利用いたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://layerx.connpass.com/event/388018/</guid><enclosure url="https://media.connpass.com/thumbs/b9/e6/b9e6fcca9ec10facf4705591ee0f3c3c.png" length="0" type="image/png"/><pubDate>Mon, 23 Mar 2026 16:25:19 +0900</pubDate></item><item><title>Cyber-sec+ College vol.3</title><link>https://cyber-sec-plus.connpass.com/event/387830/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社サイバーセキュリティクラウド&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都品川区上大崎3-1-1（JR東急目黒ビル 13階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CSecCollege&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テーマ：インシデント対応から逆算する「ログ設計」入門&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;Cyber-sec+ College とは&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.cscloud.co.jp/dx-security/dx_news/20230608-1/" rel="nofollow"&gt;Cyber-sec+（サイバーセキュリティ プラス・略称：セキュプラ）&lt;/a&gt; の企画・運営メンバーである Cyber-sec+ X が主催するサイバーセキュリティに関するハンズオン形式のイベントです。&lt;/p&gt;
+&lt;p&gt;ハッシュタグ：&lt;a href="https://twitter.com/hashtag/CSecCollege" rel="nofollow"&gt;#CSecCollege&lt;/a&gt; &lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;イベント内容&lt;/strong&gt;&lt;/h1&gt;
+&lt;h5&gt;&lt;strong&gt;インシデント対応から逆算する「ログ設計」入門&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;インシデントが発生した際に「必要なログが残っていなかった」「どこにログがあるのか分からない」といった問題に直面するケースは少なくありません。&lt;/p&gt;
+&lt;p&gt;本イベントではインシデント対応の調査・報告プロセスから逆算し「どのログを」「どこから」「どの粒度で」取得・保存すべきかを整理します。&lt;/p&gt;
+&lt;p&gt;インシデントタイムラインの作成や影響範囲特定に必要な情報を例に、ログの種類・保存設計・データ量の考え方までを体系的に解説。ログ設計の基礎を理解し、実務で活用できる「いざ」というときに困らないログ取得・保管・分析の考え方・整理方法を学びます。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;#&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;なぜログ設計が重要なのか&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;インシデント対応から逆算するログの考え方&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;インシデントタイムライン作成に必要な情報&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;必要なログの種類と取得場所&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;ログに含まれる情報の分解（5W1H）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;ログデータ量の考え方（ログ 1 件のサイズ / 生成量）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;ログ設計の整理方法（ログ × サイズ当て込みシート）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;応用編：ログの相関分析と SIEM 連携&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ Agenda は予定であり、変更となる場合がございます。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;このイベントで学べること&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;インシデント対応に必要なログの種類と役割が理解できる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;どのログを何処から取得すべきか整理できるようになる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ログの情報構造（5W1H）の考え方が理解できる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ログ保存量の概算を計算する方法が分かる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;実務で使えるログ設計の整理方法を学べる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIEM やログ分析基盤への将来的な接続を見据えた設計視点が得られる。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;対象者&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;コーポレートセキュリティ担当者&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;情報システム / IT統制 / セキュリティ担当者&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SOC / インシデント対応に関わる方&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ログ管理や監査ログ設計をこれから整理したい方&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「いざという時に役立つログ設計」を学びたい方&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※ 初心者〜初級者向けの内容です。&lt;/p&gt;
+&lt;p&gt;※ 技術職・セキュリティマネジメント職のどちらでも参加可能です。&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;講師紹介&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Kenta Nakanishi &lt;a href="https://x.com/nknskn" rel="nofollow"&gt;@nknskn&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;コーポレートセキュリティやインシデント対応の観点から、実務で活用できるログ設計・情報整理に取り組んでいます。&lt;/p&gt;
+&lt;p&gt;攻撃・防御の両側面から、実務で困らないための設計や組織全体で役立つ仕組みづくりをテーマに活動しています。&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;参加費用&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;2,000 円（懇親会参加費用なども含む）&lt;/p&gt;
+&lt;p&gt;※ 当日、会場で現金払いとなります。お釣りが生じない様にご準備をお願いします。&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;イベント形式&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;ハンズオン形式（オフライン）&lt;/p&gt;
+&lt;p&gt;※ 開場時刻は 18:15 頃となります。18:15 以降で会場にお越しください。&lt;/p&gt;
+&lt;p&gt;※ 当日はノート PC をご持参ください。ネットワーク環境のご準備はございます。&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;タイムテーブル&lt;/strong&gt;&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;Time&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;Title&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;Player&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:15〜18:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開場・受付&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Cyber-sec+ X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:30〜18:35&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開会挨拶・アイスブレイク&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Nissy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:35〜20:25&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;インシデント対応から逆算する「ログ設計」入門&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Kenta Nakanishi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:25〜20:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;閉会挨拶・集合写真撮影&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Nissy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:30〜21:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;懇親会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;21:30〜21:45&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;片付け・撤収&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 内容は変更となる場合がございます。&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;注意事項&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;当日は写真撮影・録画を行います。一部、メディアへ露出する場合もございますので、予めご了承ください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;会場での受付時刻を 19:00 までといたします。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;参加者へのお願い事項&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Cyber-sec+ X が主催・運営するイベントは、お集まりになる参加者、登壇者、運営者、スポンサーなどの参加種別を問わず、全員でサイバーセキュリティに関する情報交換や交流などを行い楽しむためのものです。&lt;/p&gt;
+&lt;p&gt;それを実現するために以下のような行動指針・ポリシーを定めております。ご確認の上、ご理解・ご協力をお願いいたします。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;技術、趣味、信仰など、各自が大事にしているものを尊重しましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;法律や運営者の指示に従い、安心してコンテンツや交流会を楽しめる場にしましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登壇者の発表を真剣に聞き、終わったら温かい拍手や歓声を送りましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;技術的な知見や発表内容に誤りがあったとしても、敬意を持ち適切な言葉で質問しましょう。また、質問する態度・声色などを始めとした質問の仕方も気を付けましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自分自身が得た知見は「会場限定」などの指定がない場合、積極的に外部発信して知識交流を図りましょう。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;懇親会は発表内容や技術情報などに関する情報交換が主目的となりますので、知識の共有および、参加者同士の交流を目的としないような方の参加はお控えください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cyber-sec-plus.connpass.com/event/387830/</guid><enclosure url="https://media.connpass.com/thumbs/05/20/05201365b00d49f5b2b8e742e7f4bd82.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 10:46:02 +0900</pubDate></item><item><title>TECH BATON in 東京 修行盛り Claude Coder のブースター</title><link>https://findy.connpass.com/event/387808/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Findy イベントスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都品川区大崎1丁目2−2アートヴィレッジ大崎セントラルタワー 5階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #techbaton_findy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜もっと活用したい人のための LT Night 〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;🧑‍🏫公募枠について&lt;/h2&gt;
 &lt;p&gt;&lt;span style="font-size: 120%; color: red;"&gt;&lt;strong&gt;登壇時間は5分です！&lt;br&gt;
 アンケートに必要事項を記載の上、LT公募枠より申込ください！&lt;br&gt;期日【4/20 12:00まで】&lt;/strong&gt;&lt;/span&gt; &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;▼LTテーマ例&lt;/strong&gt;&lt;br&gt;
@@ -3501,62 +2450,109 @@ LINE株式会社 -&amp;gt; 弁護士ドットコム
 &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://love-kotlin.connpass.com/event/387615/</guid><enclosure url="https://media.connpass.com/thumbs/0d/12/0d1206aa2cc9fdc6decdb3d3f006ab11.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:03:06 +0900</pubDate></item><item><title>SaaS Is Dead なエンジニア達の夜</title><link>https://simpleform.connpass.com/event/387595/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: シンプルフォーム株式会社オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都目黒区大橋一丁目5-1クロスエアタワー8F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;SaaS（Software as a Service）は、この数年で急速に普及し、ソフトウェア提供の主要な形態として定着してきました。一方で、近年「SaaS is Dead」という言説も提示され、業界の将来に対する再考が促されています。&lt;/p&gt;
-&lt;p&gt;「SaaS is Dead」という言葉のインパクトゆえに、不安や迷いを感じている方が多いことも事実だと思います。特に、SaaSという枠組みを前提にキャリアや事業を考えてきた方にとっては、その前提が揺らぐように感じられるかもしれません。&lt;/p&gt;
-&lt;p&gt;しかしながら本イベントでは、この議論に対して危機感を前提とはしません。むしろ、ソフトウェアやエンジニアリングの価値がこれまで以上に前面に出てくる局面であり、エンジニアであること自体が強みとなる追い風の環境だと捉えています。&lt;/p&gt;
-&lt;p&gt;本イベントでは、そうした状況を踏まえつつ、これからのソフトウェア開発会社のあり方について、新たな視点を提示します。SaaSの延長ではなく、ソフトウェア企業としての価値をどのように再構築していくのか。その具体像について、参加者の皆さまと共に考える場とします。&lt;/p&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://love-kotlin.connpass.com/event/387615/</guid><enclosure url="https://media.connpass.com/thumbs/0d/12/0d1206aa2cc9fdc6decdb3d3f006ab11.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:03:06 +0900</pubDate></item><item><title>AI犯罪対策の最前線</title><link>https://simpleform.connpass.com/event/387595/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: シンプルフォーム株式会社オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都目黒区大橋一丁目5-1クロスエアタワー8F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;🧭 概要&lt;/h2&gt;
+&lt;p&gt;本イベントは、シンプルフォーム社員らによる書籍シリーズ『技術論考』の思想を起点とし、その中で語られている研究・プロダクト・現場の知見を共有するオフラインイベントです。なお、書籍を読んでいなくても楽しめるイベントとなっておりますので、前提知識がない方もぜひ起こしください。&lt;/p&gt;
+&lt;p&gt;『技術論考』では一貫して、次の思想を扱っています。&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;近年、AIの進歩により、詐欺や偽造が自動化され、数百億円規模の金融犯罪が現実に起きている。
+AIによって生成された書類・画像・会話が銀行や行政の審査を通過し始めている。
+この状況を止めるために、金融犯罪対策に本気で取り組む技術者の力が必要だ。
+闇サイドのAIが偽を量産するなら、こちらは検知・分析に特化したAIで対抗しなければならない。
+データ、数学、AIの力を総動員し、どのように戦うべきかを真剣に考える。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;「AIが社会の信頼を揺るがす時代に、何を作るべきか」
+シンプルフォームのエンジニアが、プロダクト開発・研究の最前線から語ります。
+なお本イベントで扱う「AI犯罪」は、一般的なニュースで取り上げられる「ディープフェイク」などの事例ではなく、銀行や行政の内部で実際に問題となっている、より専門的かつ実務的な領域を対象としています。期待される内容とのズレを防ぐため、あらかじめご理解ください。&lt;/p&gt;
+&lt;h2&gt;💭 なぜこのイベントを開催するのか:&lt;/h2&gt;
+&lt;p&gt;今のAI時代だからこそ、AI犯罪のリアルを共有し、それに対する防衛サイドの思想・アイデア・実装を共有し、同じ方向を向く同志と議論を深める目的でイベントを企画しました。&lt;/p&gt;
+&lt;h3&gt;こんな方におすすめ&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;SaaSを開発しているエンジニアの本音を聞きたい方&lt;/li&gt;
-&lt;li&gt;AIプロダクト開発において悩みがある方&lt;/li&gt;
-&lt;li&gt;現役エンジニアとの繋がりを求める方&lt;/li&gt;
+&lt;li&gt;思想に共鳴いただける方&lt;/li&gt;
+&lt;li&gt;エンジニアやアカデミアの方で本領域に興味の有る方&lt;/li&gt;
+&lt;li&gt;特にWebエンジニア、MLエンジニア、データエンジニア、データサイエンティストの方はドンピシャです&lt;/li&gt;
+&lt;li&gt;AI・データ基盤を社会的インパクトのある領域にどう適用しているか知りたい方&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;開催日時&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;日時：2026/4/24（金）19:00〜21:00&lt;/li&gt;
-&lt;li&gt;形式：オフライン&lt;/li&gt;
-&lt;li&gt;場所：東京都目黒区大橋一丁目5-1クロスエアタワー8F&lt;/li&gt;
-&lt;li&gt;参加費：無料&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;タイムテーブル（予定）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;18:30　開場・受付&lt;/li&gt;
-&lt;li&gt;19:00　オープニング&lt;/li&gt;
-&lt;li&gt;19:05　LT①／小林 要佑・QA&lt;/li&gt;
-&lt;li&gt;19:20　LT②／山本 隆大・QA&lt;/li&gt;
-&lt;li&gt;19:35　LT③／檜山 徹・QA&lt;/li&gt;
-&lt;li&gt;20:00　交流会&lt;/li&gt;
-&lt;li&gt;21:00　終了&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2&gt;🕒 タイムテーブル（予定）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;スピーカー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30&lt;/td&gt;
+&lt;td&gt;開場・受付&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:05&lt;/td&gt;
+&lt;td&gt;LT① 「闇と光のAI」詐欺の自動化に関する技術的展望&lt;/td&gt;
+&lt;td&gt;小間 洋和&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:20&lt;/td&gt;
+&lt;td&gt;LT② 「調査AIエージェントで闇を暴く」 AIエージェントによる徹底的な法人調査&lt;/td&gt;
+&lt;td&gt;山本 隆大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:35&lt;/td&gt;
+&lt;td&gt;LT③ 「データ分析の効率化・高度化」Snowflakeデータ基盤とAIエージェント&lt;/td&gt;
+&lt;td&gt;檜山 徹&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:50&lt;/td&gt;
+&lt;td&gt;Secret Content&lt;/td&gt;
+&lt;td&gt;犬束 敦史&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:00&lt;/td&gt;
+&lt;td&gt;Ask the speaker (交流会)&lt;/td&gt;
+&lt;td&gt;登壇者 ＋ 参加者全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;終了&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;※内容は一部変更になる可能性があります。&lt;/p&gt;
-&lt;h2&gt;登壇者&lt;/h2&gt;
-&lt;h3&gt;小林 要佑&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2&gt;👥 登壇者&lt;/h2&gt;
+&lt;h4&gt;小間 洋和&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://storage.googleapis.com/studio-cms-assets/projects/v7qGR1noOL/s-2500x1667_ec9cfd34-16ba-479c-9f25-1b6b0227e845.webp" width="400px"&gt;&lt;/p&gt;
+&lt;p&gt;CTO&lt;br&gt;
+X: &lt;a href="https://x.com/hkomachi" rel="nofollow"&gt;https://x.com/hkomachi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大阪大学でAIの基礎研究に携わったのち、国内SIerの技術部門にてAIの応用研究および社会実装を担当。税関での水際対策技術など、官民連携プロジェクトを通じて公共性と技術革新の両立に取り組む。2020年よりシンプルフォーム取締役CTOとして、金融犯罪対策・審査AIの分野で最先端の技術基盤構築を牽引。&lt;/p&gt;
+&lt;h4&gt;山本 隆大&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://img.notionusercontent.com/s3/prod-files-secure%2F06b9000e-c00f-4325-b364-70b381b28b14%2Fe1e01342-2314-4187-8ff6-cebf65d18a21%2F00050_ryota_yamamoto.jpg/size/w=2000?exp=1774505437&amp;amp;sig=1Xm142DS4V1sqKGb0bA6vKU-BBjIfDMMlGQVtzZdZL8&amp;amp;id=188c6f48-7294-81c7-985e-ce7a6b3a2896&amp;amp;table=block" width="400px"&gt;&lt;/p&gt;
+&lt;p&gt;所属：技術開発本部 R&amp;amp;Dチーム  &lt;/p&gt;
+&lt;p&gt;電線メーカーで高周波伝送デバイスの研究に従事する傍ら、AI理論を独学。理論と実装を往復する形で専門外ながらも知見を築き、医療系ベンチャーにAIエンジニアとして参画。2024年、シンプルフォームに入社し、R&amp;amp;Dエンジニアとして法人間の関係性を捉えるアルゴリズムやAIエージェントの発明に取り組んでいる。&lt;/p&gt;
+&lt;h4&gt;檜山 徹&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://storage.googleapis.com/studio-design-asset-files/projects/v7qGR1noOL/s-2000x1333_v-frms_webp_5fc0ff7b-aa21-4692-9c9e-726f1489e19d_small.webp" width="400px"&gt;&lt;/p&gt;
+&lt;p&gt;所属：技術開発本部 インフラ・データ基盤チーム&lt;br&gt;
+X：&lt;a href="https://x.com/toru_data" rel="nofollow"&gt;https://x.com/toru_data&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;信号処理、画像処理、機械学習の研究後、SIerにて金融業界のデータ分析業務に従事。その後様々な業界の分析環境整備に明け暮れ、2025年より現職。金融業界の犯罪対策にデータの力で立ち向かうべく、データエンジニアとデータサイエンティストを両立。Snowflake Data Superheroes。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;当日の開催イメージ&lt;/h2&gt;
+&lt;p&gt;シンプルフォーム社から、アルコール・ソフトドリンク・軽食をご提供します  &lt;/p&gt;
+&lt;p&gt;過去イベントの様子&lt;br&gt;
+&lt;img src="https://assets.st-note.com/production/uploads/images/203127576/rectangle_large_type_2_25ad6d3994754577d2d3c793069b60cb.png?width=600&amp;amp;fit=bounds&amp;amp;format=jpg&amp;amp;quality=90"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🎫 参加方法&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;所属：新規事業室&lt;/li&gt;
-&lt;li&gt;GitHubアカウント：&lt;a href="https://github.com/m7142yosuke" rel="nofollow"&gt;https://github.com/m7142yosuke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SNSアカウント：&lt;a href="http://www.linkedin.com/in/要佑-小林-02618631b" rel="nofollow"&gt;www.linkedin.com/in/要佑-小林-02618631b&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;自己紹介：大学院での機械工学専攻、ダイキン工業での需要予測AI開発を経て、EdTechスタートアップでのScalaによるバックエンド開発に従事しました。3年前にシンプルフォームへ参画し、現在は新規事業室にてLLMを活用したAI面談サービス「SimpleInterview」の立ち上げとR&amp;amp;Dを担っています。物理領域から純粋なソフトウェア領域まで渡り歩いてきた視点から、SaaSの枠を超えた「これからのエンジニアリングの価値」を模索しています。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;山本 隆大&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;所属：技術開発本部 R&amp;amp;Dチーム&lt;/li&gt;
-&lt;li&gt;GitHubアカウント：&lt;a href="https://github.com/Ryuta-Yamamoto" rel="nofollow"&gt;https://github.com/Ryuta-Yamamoto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;自己紹介：電線メーカーで高周波伝送デバイスの研究に従事する傍ら、AI理論を独学。理論と実装を往復する形で専門外ながらも知見を築き、予防医療ベンチャーにAIエンジニアとして参画。2024年、シンプルフォームに入社し、R&amp;amp;Dエンジニアとして法人間の関係性を捉えるアルゴリズムやAIエージェントの発明に取り組んでいる。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;檜山 徹&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;所属：技術開発本部 インフラ・データ基盤チーム&lt;/li&gt;
-&lt;li&gt;GitHubアカウント：&lt;a href="https://github.com/thiyama" rel="nofollow"&gt;https://github.com/thiyama&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SNSアカウント：&lt;a href="https://x.com/toru_data" rel="nofollow"&gt;https://x.com/toru_data&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;自己紹介：信号処理、画像処理、機械学習の研究後、SIerにて金融業界のデータ分析業務に従事。その後様々な業界の分析環境整備に明け暮れ、2025年より現職。金融業界の犯罪対策にデータの力で立ち向かうべく、データエンジニアとデータサイエンティストを両立。Snowflake Data Superheroes の一員。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参加方法&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;connpassで参加登録をお願いします  &lt;/li&gt;
-&lt;li&gt;当日は【入場方法】に従ってご参加ください  &lt;/li&gt;
-&lt;li&gt;途中参加・途中退出OKです&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://simpleform.connpass.com/event/387595/</guid><enclosure url="https://media.connpass.com/thumbs/7d/2b/7d2b8010458dc4adb49f39397219f3eb.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:48:49 +0900</pubDate></item><item><title>第31回オープンCAE勉強会@関東（構造など）</title><link>https://openfem-kanto.connpass.com/event/387481/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月24日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月24日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 世田谷産業プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都世田谷区太子堂2－16－7&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;オープンソースCAEに関する情報交換を行う勉強会で，（社）オープンCAE学会の後援を受けてきています。&lt;br&gt;
+&lt;li&gt;connpassより参加登録  &lt;/li&gt;
+&lt;li&gt;当日は案内に従ってご来場ください  &lt;/li&gt;
+&lt;li&gt;途中参加・途中退出可&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://simpleform.connpass.com/event/387595/</guid><enclosure url="https://media.connpass.com/thumbs/1b/e6/1be63b4262dbbb454c9990d65b9f6e84.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 15:13:25 +0900</pubDate></item><item><title>第31回オープンCAE勉強会@関東（構造など）</title><link>https://openfem-kanto.connpass.com/event/387481/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月24日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月24日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 世田谷産業プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都世田谷区太子堂2－16－7&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;オープンソースCAEに関する情報交換を行う勉強会で，（社）オープンCAE学会の後援を受けてきています。&lt;br&gt;
 ここでは構造解析を中心に置くことで，商用CAEとの対比，振動，熱伝導，流体-構造連成など，参加者が興味を持つ幅広い情報交換を期待します。&lt;/p&gt;
 &lt;p&gt;オンライン会議にはGoogleMeetを使用します。会議室入室にはメールアドレスが必要です（G-Mailである必要はありません）。    &lt;/p&gt;
 &lt;p&gt;ハッカー対策のため，オンライン参加は，原則として過去に参加歴（他地区のオープンCAE勉強会への参加歴を含む）があるかメンバー（他地区勉強会メンバーを含む）からの紹介がある方に限定させていただきます。オンラインで初参加の方は，申し込み時に，本サイトの「イベントへのお問い合わせ」機能を用いて管理者宛で自己紹介を含めてご連絡ください。自己紹介からCAE関係者であることが確認できれば、他地区勉強会への参加歴やメンバーからの紹介がなくともオンライン参加できることがあります。  &lt;/p&gt;
@@ -4669,7 +3665,67 @@ X/Twitter:&lt;a href="https://x.com/tetsuroito" rel="nofollow"&gt;@tetsuroito&lt
 &lt;h1&gt;&lt;strong&gt;姉妹イベントの宣伝&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;5/18に生成AI会@お台場を開催します！こちらもぜひご参加ください！！&lt;br&gt;
 &lt;a href="https://seisei-ai.connpass.com/event/378562/" rel="nofollow"&gt;https://seisei-ai.connpass.com/event/378562/&lt;/a&gt;&lt;br&gt;
-&lt;img src="https://media.connpass.com/thumbs/2e/4b/2e4bd83efd41c468e659f0f620793e90.png" width="400"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://brainpad-meetup.connpass.com/event/386854/</guid><enclosure url="https://media.connpass.com/thumbs/44/e3/44e3aaa72b2038371b47affb5c6e8493.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:12:42 +0900</pubDate></item><item><title>第十三回技術書同人誌博覧会 懇親会</title><link>https://gishohaku.connpass.com/event/386796/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月10日(日) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月10日(日) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 大田区産業プラザPiO&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都大田区南蒲田１丁目２０−２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #技書博&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p style="text-align: center; padding-top: 30px; font-size: 20px;"&gt;技書博のあとは懇親会に参加しよう！&lt;/p&gt;
+&lt;img src="https://media.connpass.com/thumbs/2e/4b/2e4bd83efd41c468e659f0f620793e90.png" width="400"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://brainpad-meetup.connpass.com/event/386854/</guid><enclosure url="https://media.connpass.com/thumbs/44/e3/44e3aaa72b2038371b47affb5c6e8493.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:12:42 +0900</pubDate></item><item><title>【コミュニティイベント】HRBPのキャリアを解剖する 〜あなたの山の登り方〜</title><link>https://connpass.com/event/386801/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社タイミー&lt;/li&gt;&lt;li&gt;🏢 住所: 〒105-7135 東京都港区東新橋1-5-2 汐留シティセンター 35階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📖 イベント概要&lt;/h2&gt;
+&lt;p&gt;2026年4月21日（火）、コミュニティイベント「HRBPのキャリアを解剖する～あなたの山の登り方～」を開催します。&lt;/p&gt;
+&lt;p&gt;「御用聞きを抜け出せない」「HRBPとしてのキャリアをどう描けばいいかわからない」&lt;br&gt;
+──そんな問いを持つすべての人事・HRBPの方に届けたい場が生まれます。&lt;/p&gt;
+&lt;p&gt;ゲストはDeNA HR本部長・菅原啓太氏。2015年にエンジニア・事業責任者からHRBPへ転身し、&lt;br&gt;
+日本のHRBP実践と組織組成、外部発信を10年以上牽引してきた第一人者です。&lt;/p&gt;
+&lt;p&gt;当日は、HRGK(御用聞き)→HRPP(ピープルパートナー)→HRBPという3段階ロードマップを軸に、&lt;br&gt;
+各ステージの「よくある壁」と「乗り越え方」、事業・人事・管理職それぞれのキャリアパスにおける&lt;br&gt;
+パフォーマンスを出すためのKeyについて、オフレコトークで語ります。&lt;/p&gt;
+&lt;p&gt;HRBPのキャリアについて、経営目線も交えながら学べる時間は、めったにない機会です。 &lt;br&gt;
+人事責任者からHRBP担当者まで、ぜひ奮ってご参加ください！&lt;/p&gt;
+&lt;h2&gt;📆 開催情報&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時：2026年4月21日（火）19:00～21:00&lt;/li&gt;
+&lt;li&gt;会場：株式会社タイミー内 イベントスペース&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※アクセス：JR「新橋駅」より徒歩3分&lt;br&gt;
+　　　　　　都営大江戸線「汐留駅」徒歩1分&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;⏰ タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;開始&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;　19:00～19:10　&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;　19:10～19:40　&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;セッション&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;　19:40～20:00　&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;テーマディスカッション&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;　20:00～20:50　&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※当日都合によりタイムテーブルは変更の可能性がございます。&lt;/p&gt;
+&lt;h2&gt;🎤登壇者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;登壇者：株式会社ディー・エヌ・エー 執行役員 ヒューマンリソース本部 本部長 菅原 啓太 氏&lt;/li&gt;
+&lt;li&gt;モデレーター：理事 佐藤 邦彦（HumanDriven株式会社 代表取締役CEO / 株式会社ビットキー 執行役員CHRO）&lt;/li&gt;
+&lt;li&gt;代表理事 山中 裕貴（リデザインワーク株式会社 取締役副社長 兼 COO）&lt;/li&gt;
+&lt;li&gt;理事 宇尾野 彰大（株式会社事業人 共同代表/Co-founder）&lt;/li&gt;
+&lt;li&gt;理事 金田 俊輔（Neka合同会社 代表）&lt;/li&gt;
+&lt;li&gt;理事 斉藤 知明（株式会社ログラス 執行役員CBDO AI事業開発チーム マネージャー）&lt;/li&gt;
+&lt;li&gt;理事 新田 利之（株式会社ミツモア 人事本部長）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※当日都合により変動する可能性があります&lt;/p&gt;
+&lt;h2&gt;主催・企画&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://jahrbp.or.jp/wp-content/themes/hrbp/assets/images/logo-hrbp-black.png" width="250"&gt;&lt;/p&gt;
+&lt;h4&gt;当協会HP：&lt;a href="https://jahrbp.or.jp/" rel="nofollow"&gt;https://jahrbp.or.jp/&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;プライバシーポリシー：&lt;a href="https://jahrbp.or.jp/privacy-policy/" rel="nofollow"&gt;https://jahrbp.or.jp/privacy-policy/&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/386801/</guid><enclosure url="https://media.connpass.com/thumbs/71/ef/71efe9eb6418dc0b67323133cb09aafa.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 22:17:31 +0900</pubDate></item><item><title>第十三回技術書同人誌博覧会 懇親会</title><link>https://gishohaku.connpass.com/event/386796/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月10日(日) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月10日(日) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 大田区産業プラザPiO&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都大田区南蒲田１丁目２０−２０&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #技書博&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p style="text-align: center; padding-top: 30px; font-size: 20px;"&gt;技書博のあとは懇親会に参加しよう！&lt;/p&gt;
 &lt;p style="text-align: center; padding-bottom: 30px; font-size: 20px;"&gt;著者・スタッフ・参加者同士で交流しよう！&lt;/p&gt;
 
 &lt;p style="text-align: center; padding-bottom: 30px;"&gt;&lt;img src="https://tblg.k-img.com/restaurant/images/Rvw/243841/320x320_square_c608b0c485fb38869dfe50b6a79d2144.jpg"&gt;&lt;/p&gt;
@@ -5619,7 +4675,7 @@ EMが互いに：&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://conference.findy-code.io/" rel="nofollow"&gt;&lt;strong&gt;テックカンファレンスのプラットフォーム「Findy Conference」&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
   テックカンファレンスの情報や体験を一元化することで、エンジニア・カンファレンス主催者・スポンサーなど関わる人たちの体験を最大化するためのサービスです。直近ではTSKaigiのチケット申し込みにも活用され、イベント運営・参加体験の双方を支えています。&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://findy-inc.connpass.com/event/386091/</guid><enclosure url="https://media.connpass.com/thumbs/da/7f/da7f1e5069033ac8ded8e87cd61c7ece.png" length="0" type="image/png"/><pubDate>Mon, 16 Mar 2026 13:44:34 +0900</pubDate></item><item><title>ADX / ADX LE勉強会 vol.5 ハンズオン</title><link>https://cri.connpass.com/event/385905/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社CRI・ミドルウェア&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区桜丘町20番1号 渋谷インフォスタワー10F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;セレクタラベルで鳴らし分けられるキューを作ろう&lt;/p&gt;&lt;div&gt;&lt;p&gt;■ 主催：株式会社ＣＲＩ・ミドルウェア&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://findy-inc.connpass.com/event/386091/</guid><enclosure url="https://media.connpass.com/thumbs/da/7f/da7f1e5069033ac8ded8e87cd61c7ece.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 10:56:27 +0900</pubDate></item><item><title>ADX / ADX LE勉強会 vol.5 ハンズオン</title><link>https://cri.connpass.com/event/385905/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社CRI・ミドルウェア&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区桜丘町20番1号 渋谷インフォスタワー10F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;セレクタラベルで鳴らし分けられるキューを作ろう&lt;/p&gt;&lt;div&gt;&lt;p&gt;■ 主催：株式会社ＣＲＩ・ミドルウェア&lt;/p&gt;
 &lt;h2&gt;今回の勉強会はハンズオン！&lt;/h2&gt;
 &lt;p&gt;今回のADX / ADX LE勉強会では、実際にCRI Atom Craft LEを使用してサウンドデザインします！&lt;br&gt;
 CRI Atom Craft LEとUnityを使用して、地面の素材によって足音が切り替わるスイッチキューの実装まで行います。&lt;br&gt;
@@ -8728,7 +7784,171 @@ connpassと連携しているXアカウントにてプログラマーズギル�
 &lt;h1&gt;その他&lt;/h1&gt;
 &lt;p&gt;ご不明点がございましたら、開催者までご連絡下さい。&lt;/p&gt;
 &lt;h1&gt;参考キーワード&lt;/h1&gt;
-&lt;p&gt;HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Next.js, webアプリ開発, Github, プログラミング, エンジニア, ポートフォリオ作成, スキルアップ&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://programmersguild.connpass.com/event/382052/</guid><enclosure url="https://media.connpass.com/thumbs/00/60/00604fa9a5cfd94ecb5d1c16de2936ae.png" length="0" type="image/png"/><pubDate>Tue, 20 Jan 2026 11:01:52 +0900</pubDate></item><item><title>プロダクトマネージャーのお茶会(意思決定)</title><link>https://productteatime.connpass.com/event/381892/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 新宿の貸し会議室（新宿駅から徒歩2分）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #PMお茶会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;クローズドな場だからできるプロダクトづくりの知見交換会 。テーマは新年のプロダクトマネジメント。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;小話をお茶請けにお茶しましょう&lt;/h2&gt;
+&lt;p&gt;HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Next.js, webアプリ開発, Github, プログラミング, エンジニア, ポートフォリオ作成, スキルアップ&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://programmersguild.connpass.com/event/382052/</guid><enclosure url="https://media.connpass.com/thumbs/00/60/00604fa9a5cfd94ecb5d1c16de2936ae.png" length="0" type="image/png"/><pubDate>Tue, 20 Jan 2026 11:01:52 +0900</pubDate></item><item><title>2026年5月イベント「ISHI会三周年記念イベント～学生＆新人、半導体初心者に贈る！～」東京会場</title><link>https://ishikai.connpass.com/event/381973/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月6日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月6日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: GMO Yours・フクラス&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都渋谷区道玄坂1丁目2番3号 渋谷フクラス 16階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ISHI会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;学生＆新人、半導体初心者に向けにオープンソース半導体や今後の半導体業界について語っていただきます。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;ISHI会もついに三周年を迎えました！&lt;br&gt;
+今回は、学生や新人、半導体初心者向けの内容を集めました。大学の先生方やオープンソース半導体をやってきた方々に学生＆新人に向けにオープンソース半導体や今後の半導体業界について語っていただきます。 &lt;/p&gt;
+&lt;p&gt;今回は東京と福岡で現地参加枠もありますので、ぜひご参加ください。 
+こちらは東京会場の申し込みのみ行なっております。 &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;福岡会場の申し込みはこちら→&lt;a href="https://ishikai.connpass.com/event/381975/" rel="nofollow"&gt;https://ishikai.connpass.com/event/381975/&lt;/a&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！&lt;br&gt;
+Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark &lt;a href="http://ishi-kai.org" rel="nofollow"&gt;ishi-kai.org&lt;/a&gt; までご連絡ください。)&lt;br&gt;
+&lt;a href="https://discord.gg/Sj47dJk8x7" rel="nofollow"&gt;https://discord.gg/Sj47dJk8x7&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料 &lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;分類&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;壇上者(名前)/肩書&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;タイトル&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;アブストラクト（内容）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;12:45 - 13:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;開場&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ISHI会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;13:00 - 13:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;基調講演1&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;(交渉中)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;13:40 - 14:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;基調講演2&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;西澤先生/広島大学&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:20 - 15:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;基調講演3&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;(交渉中)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:00 - 15:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;学生・大学向けプロジェクト&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;jun1okamura/OpenSUSI&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;OpenSUSI-MPW と FirstTapeout&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;OpenSUSIが2026年度にスタートする２つのOSS設計プログラムに関してのご紹介。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:30 - 16:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;休憩&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:00 - 18:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ISHI会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:00 - 16:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演1&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Shuntaro OHNO&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;基本の増幅回路 差動増幅OPAMP （教科書の最初に出てくるOPAMP）&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;半導体チップでOPAMPを作る場合、MOSFETのレベルから自由に性能設計を行うことができます。ここでは素子の設計から始めて、OPAMPのレイアウトを行うまでの流れを示します。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:20 - 16:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演2&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Maehashi&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;すべての基準 参照電流源回路（CS）・参照電圧源回路（BGR）&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;様々な環境下でアナログ回路を正確に動作させるためには、正確さの拠り所となる参照電流（電圧）源回路が必要です。これらは一体どんなもので、どう設計すればいいのか？ 基本的な回路を通じて体験していこうと思います。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:40 - 17:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演3&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Yutaka KOTANI&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;電子と時間（クロック源） 電圧制御発振器 VCO&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロック信号源として使用可能なVCOの回路構成、動作の仕組み、回路設計、特性評価、評価結果、実際のICチップ上でのレイアウトについて解説します。VCOを設計したことがない人でもわかりやすいように可能な限り単純な回路構成とします。一方で、実際にICチップを製造するため、他の回路と組み合わせて使用しやすく、実用的な性能を目指します。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;17:00 - 17:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演4&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Xian DIY (ueda gen)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;OPAMP作ってみた！&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;前回ISHI会の「初めての半導体設計・製造体験！一日で作るインバータ回路」に参加して、無事インバータ回路を作ることができました。今回は、レベルアップしてオペアンプの設計にチャレンジしました。オペアンプの場合は回路のサイズが大きくなるので、3〜5人程度のグループワークになります。毎週１回程度Discoardに集まって設計を進めて行きました。やはりインバータとは異なり求められる理論的部分が多く、期限に間に合わせるのが大変でしたが、毎週集まることで進捗が出せたかなと思います。最初に断っておきますが、設計したオペアンプは動きませんでした（泣）うんともすんとも言わないのは悔しいところです。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;17:20 - 17:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演5&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Munetomo&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ICチップ設計の醍醐味！CPUの論理設計&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;論理設計の王道は自分でCPUを作ることです。ここではシンプルな命令セットのpicoCPUを定義して、ハードウェア記述言語System VerilogでのRTL記述方法を解説し、論理シミュレーションで動きを追ってみましょう。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;17:40 - 18:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;同人誌完成記念講演6&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Masahiro&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ロケット向けGPSシステムについて&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;鹿児島大学ロケット向けにGPSシステムを実装してみた話&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;18:00 - 18:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;愛の説教部屋&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;久保木先生/広島大学&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;レビュー会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;皆さんが持ち寄った回路図やレイアウトのレビューを行います。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;18:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;閉会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ISHI会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;懇親会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;任意参加&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;東京会場：渋谷駅周辺（予算：5000円以内予定。学割あり。）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;時間は目安です。進行状況により変動します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;日時&lt;/h2&gt;
+&lt;p&gt;2026年5月6日（水・祝）１３：００〜１８：３０&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;開催場所&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オフライン　（東京会場：GMO Yours・フクラス・福岡会場：エンジニアカフェ）&lt;/li&gt;
+&lt;li&gt;オンライン配信（YouTube）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;ISHI会とは&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本会は、ISHI会（Inter-linked Society on Homemade IC Kai）と命名されました。&lt;/li&gt;
+&lt;li&gt;オープン化（民主化）されたISHI=石=Silicon=半導体（ASIC/LSI/IC）を扱い、いろいろな分野を繋げていくソサエティー・コミュニティー（会）から発想されたネーミングです。&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;その先駆けとして登場したOpenMPW(Open Multi Project Wafer)は、Google社がEfabless社に出資して生まれたシャトルプログラムであり、半導体（ASIC/LSI/IC）を作るうえで必要なツール（EDA/PDK）からファブでのISHI製造まで含めて、すべてオープン＆無料で半導体（ASIC/LSI/IC）を製造することができるプログラムです。 これはまさにGNUから始まったオープンソースムーブメント（ソフトウェアの民主化）の「半導体（ASIC/LSI/IC）やEDA/PDKのオープン化」であります！&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;そこで、本会は、これまでの半導体（ASIC/LSI/IC）の専門家だけではなく、これからの半導体（ASIC/LSI/IC）のオープンソースムーブメントに可能性を見出した人たちと新しく半導体（ASIC/LSI/IC）を作りたい人たちにスポットを当てたユーザソサエティー・コミュニティー（会）として立ち上がりました。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;専門家だけが利用可能だったOSやコンパイラ、ライブラリ、アプリ、電子基板、3D CADや3Dプリンターがオープンソースソフトウェア、オープンハードウェア、オープンモデリングなどとして誰もが利用できるようになったように、半導体（ASIC/LSI/IC）やEDA/PDKを誰もが利用できる世界を目指して活動していく所存です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;今後の活動方針としては、他分野の人たちを巻き込んで半導体（ASIC/LSI/IC）分野に革命を起こすという方針で、他分野向けの超初心者向けハンズオンセミナーや専門家向けの濃い内容の勉強会などのイベントを開催したり、チームを作ってOpenMPWシャトルや世界のChipathonに挑戦したり、Maker Faireなどのイベントへの参加をしていきたいと思いますので、よろしくお願いいたします。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！&lt;br&gt;
+Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark &lt;a href="http://ishi-kai.org" rel="nofollow"&gt;ishi-kai.org&lt;/a&gt; までご連絡ください。)&lt;br&gt;
+&lt;a href="https://discord.gg/Sj47dJk8x7" rel="nofollow"&gt;https://discord.gg/Sj47dJk8x7&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;p&gt;イベントもオンライン化に伴って参加者を含め行動規範の精神に基づいた行動を要請します。困りごとがありましたら主催者にご連絡ください。荒らしなどのAbuse行為、悪意が無くともお願いに対し改善がないと判断される場合はケースバイケースで対応させていただくことがございます。 &lt;a href="https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/" rel="nofollow"&gt;https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;謝辞&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gmo.jp/" rel="nofollow"&gt;GMOインターネットグループ&lt;/a&gt;様のご厚意によりリアル会場を提供していただきました。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ishikai.connpass.com/event/381973/</guid><enclosure url="https://media.connpass.com/thumbs/1e/f4/1ef4679daab923630955aa4266d2ca1f.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 20:38:34 +0900</pubDate></item><item><title>プロダクトマネージャーのお茶会(意思決定)</title><link>https://productteatime.connpass.com/event/381892/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 新宿の貸し会議室（新宿駅から徒歩2分）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #PMお茶会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;クローズドな場だからできるプロダクトづくりの知見交換会 。テーマは新年のプロダクトマネジメント。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;小話をお茶請けにお茶しましょう&lt;/h2&gt;
 &lt;p&gt;プロダクトマネジメントに関する話をできる仲間、足りていますか！
 勉強会のあとの懇親会でSNSをフォローするけれど、相談できる関係にはなりづらいのではないでしょうか。
 この会は経験が近しい人との少人数のグループでじっくり話ができるような設計を心がけ、お互いの実践知から学ぶ場を目指します！&lt;/p&gt;
@@ -9471,8 +8691,8 @@ ladec2026 [at] lasa [dot] or [dot] jp&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;li&gt;会場内は禁煙です。&lt;/li&gt;
 &lt;li&gt;会場内での同人誌の有料頒布やグッズ販売等は禁止です。&lt;/li&gt;
 &lt;li&gt;手洗い・うがいを励行し、公衆衛生の向上に努めてください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://makecpu.connpass.com/event/377182/</guid><enclosure url="https://media.connpass.com/thumbs/e1/62/e1626068af9f2e06a8b17fc8cd3a13fb.png" length="0" type="image/png"/><pubDate>Tue, 24 Feb 2026 13:05:41 +0900</pubDate></item><item><title>Women Who Go Tokyo 10周年!! イベント</title><link>https://womenwhogo-tokyo.connpass.com/event/376133/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月30日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月30日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: AP秋葉原&lt;/li&gt;&lt;li&gt;🏢 住所: 〒110-0006 東京都台東区秋葉原1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #wwg_tokyo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;共催: Gophers Japan&lt;/p&gt;&lt;div&gt;&lt;h1&gt;公式サイト&lt;/h1&gt;
-&lt;p&gt;https://web.womenwhogo.tokyo/10th-anniversary/&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://makecpu.connpass.com/event/377182/</guid><enclosure url="https://media.connpass.com/thumbs/e1/62/e1626068af9f2e06a8b17fc8cd3a13fb.png" length="0" type="image/png"/><pubDate>Tue, 24 Feb 2026 13:05:41 +0900</pubDate></item><item><title>Women Who Go Tokyo 10周年!! イベント</title><link>https://womenwhogo-tokyo.connpass.com/event/376133/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月30日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月30日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: AP秋葉原&lt;/li&gt;&lt;li&gt;🏢 住所: 〒110-0006 東京都台東区秋葉原1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #wwg_tokyo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;共催: Gophers Japan&lt;/p&gt;&lt;div&gt;&lt;h1&gt;公式サイト&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://web.womenwhogo.tokyo/10th-anniversary/" rel="nofollow"&gt;https://web.womenwhogo.tokyo/10th-anniversary/&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;会場&lt;/h1&gt;
 &lt;p&gt;秋葉原ビジネスセンター AP秋葉原 5F&lt;br&gt;
 東京都台東区秋葉原 1-1&lt;/p&gt;
@@ -9484,7 +8704,7 @@ ladec2026 [at] lasa [dot] or [dot] jp&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;わたしたちのコミュニティは 2026 年に 10 周年を迎えます！&lt;br&gt;
 記念すべき年に、秋葉原の会場を借りてワークショップを含むイベントを開催することにしました。&lt;/p&gt;
 &lt;p&gt;イベントでは、TinyGo Keeb にご協力いただき、はんだづけやキーキャップデコレーションなどのワークショップを開催する予定です。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;今回の開催場所は TinyGo Conference 2025 と同じ会場なので、雰囲気をご参考にしてください。&lt;br&gt;
+&lt;p&gt;今回の開催場所は TinyGo Conference 2025 と同じ会場なので、雰囲気を参考にしてください。&lt;br&gt;
 &lt;a href="https://tinygo-keeb.org/blog/?p=102" rel="nofollow"&gt;TinyGo Conference 2025 in JAPAN を開催しました&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;登壇者一覧&lt;/h2&gt;
 &lt;table&gt;
@@ -9586,7 +8806,7 @@ ladec2026 [at] lasa [dot] or [dot] jp&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;a href="https://x.com/mikkegt" rel="nofollow"&gt;@mikkegt&lt;/a&gt;, 
 &lt;a href="https://x.com/mororo_yoshida" rel="nofollow"&gt;@marie&lt;/a&gt;, 
 &lt;a href="https://x.com/chiyotn" rel="nofollow"&gt;@chiyo&lt;/a&gt;, 
-&lt;a href="https://x.com/quwen" rel="nofollow"&gt;@quwen&lt;/a&gt;, &lt;/p&gt;
+&lt;a href="https://x.com/mikiislv09" rel="nofollow"&gt;@quwen&lt;/a&gt;, &lt;/p&gt;
 &lt;h1&gt;お問い合わせ&lt;/h1&gt;
 &lt;p&gt;イベントについてのお問い合わせの際は、下記宛にメールをお送りください。&lt;/p&gt;
 &lt;p&gt;10th@womenwhogo.tokyo&lt;br&gt;&lt;/p&gt;
@@ -9596,7 +8816,7 @@ ladec2026 [at] lasa [dot] or [dot] jp&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;br&gt;
 プログラミングが初めて！もしくは Go をあまり書いたことがないという方でも、お気軽にお越しください。&lt;br&gt;
 &lt;br&gt;
-The Go gopher was designed by Renee French.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://womenwhogo-tokyo.connpass.com/event/376133/</guid><enclosure url="https://media.connpass.com/thumbs/8e/30/8e30f24e4e7433fc1f35c0a38b82a721.png" length="0" type="image/png"/><pubDate>Fri, 20 Mar 2026 19:08:05 +0900</pubDate></item><item><title>第十三回技術書同人誌博覧会</title><link>https://gishohaku.connpass.com/event/372013/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月10日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月10日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 大田区産業プラザ（1F大展示ホール）&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都大田区南蒲田1丁目20-20&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #技書博&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p style="text-align: center; padding-top: 30px; font-size: 20px;"&gt;あなたの推しの「技術」を本にしよう！&lt;/p&gt;
+The Go gopher was designed by Renee French&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://womenwhogo-tokyo.connpass.com/event/376133/</guid><enclosure url="https://media.connpass.com/thumbs/8e/30/8e30f24e4e7433fc1f35c0a38b82a721.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 23:07:17 +0900</pubDate></item><item><title>第十三回技術書同人誌博覧会</title><link>https://gishohaku.connpass.com/event/372013/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月10日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月10日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 大田区産業プラザ（1F大展示ホール）&lt;/li&gt;&lt;li&gt;🏢 住所: 東京都大田区南蒲田1丁目20-20&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #技書博&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p style="text-align: center; padding-top: 30px; font-size: 20px;"&gt;あなたの推しの「技術」を本にしよう！&lt;/p&gt;
 &lt;p style="text-align: center; padding-bottom: 30px; font-size: 20px;"&gt;さまざまな「技術書」に出会おう！&lt;/p&gt;
 
 &lt;p&gt;技術書同人誌博覧会（技書博）は、&lt;strong&gt;技術書（技術同人誌）を専門にあつかう同人誌即売会&lt;/strong&gt;です。&lt;br&gt;
