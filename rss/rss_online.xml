@@ -1,5 +1,299 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>オンラインのイベント</title><link>https://connpass.com/explore/</link><description>オンラインのイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>オンラインのイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 25 Mar 2026 16:00:15 +0000</lastBuildDate><item><title>自分、ITエンジニアだけど、なんか聞きたいことある？こたえちゃいますけどwww</title><link>https://gaiax.connpass.com/event/388634/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: YouTube Live&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #GxTechJAM&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第2回：Gaiax Tech JAM　リアルタイム参加型トーク番組【オンライン】&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>オンラインのイベント</title><link>https://connpass.com/explore/</link><description>オンラインのイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>オンラインのイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 26 Mar 2026 16:03:24 +0000</lastBuildDate><item><title>Drupal Meetup 羽田 #83【オンライン開催】</title><link>https://drupal-meetup-haneda.connpass.com/event/388918/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月30日(木) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: zoom&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #drupal_haneda&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;高機能CMS（コンテンツ管理システム） Drupalについて勉強しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;Drupal Meetup 羽田は、オープンソースCMS（コンテンツ管理システム）であるDrupalに興味がある人達を中心としたグループです。&lt;/p&gt;
+&lt;p&gt;さらにDrupal（ドルーパル）普及を目的とした交流の場所です。Drupal（ドルーパル）は、CX（カスタマーエクスペリエンス）・DX（デジタルエクスペリエンス）のプラットフォームとして、多くのグローバル企業や機関に採用されています。API志向のアーキテクチャで、IOTやAI（人工知能）といったシステムとの連携事例も出てきています。またAngularやREACT等のJavaScriptフレームワークを使ってスマホアプリを開発し、バックエンドのプラットフォームとして、Drupal（ドルーパル）を利用する事も可能です。&lt;/p&gt;
+&lt;p&gt;Drupal（ドルーパル）技術者の方、デジタルマーケティング運用担当の方、また、Drupal（ドルーパル）にご興味がある方のご参加をお待ちしております。&lt;/p&gt;
+&lt;p&gt;Drupal 技術動向に関する発表や意見交換を行います。&lt;/p&gt;
+&lt;p&gt;技術動向は知りたいけれど、技術者でないという方、Drupalに興味がある方、是非気軽にご参加ください。&lt;/p&gt;
+&lt;h1&gt;オンライン開催&lt;/h1&gt;
+&lt;p&gt;オンラインでの開催となります。&lt;/p&gt;
+&lt;p&gt;■オンライン開催概要&lt;/p&gt;
+&lt;p&gt;配信プラットフォームに zoom利用をします。&lt;/p&gt;
+&lt;p&gt;※参加者様にはお申込み画面よりzoomURLが表記されます。
+　&lt;/p&gt;
+&lt;h1&gt;プログラム&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;タイムテーブル&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;タイトル&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:00～20:05&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開催の挨拶&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ジェネロ　岩田かずみ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:05～20:25&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Drupal界隈 最近の動向&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;イッセイ　直江健介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:30～20:55&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;参加者による質疑応答&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;参加者全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:55～21:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;閉会の挨拶&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;※プログラムは予告なく変更する場合があります。 ・&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Drupalとは？&lt;/h1&gt;
+&lt;p&gt;Drupalは、オープンソースCMS（コンテンツ管理システム）で、数多くの企業や政府、自治体等に採用されています。&lt;/p&gt;
+&lt;p&gt;Drupal9ではより一層使いやすくなり、ユーザーは、Drupalの充実した技術的なアーキテクチャを今までになく簡単に活用できるようになります。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.drupal.org/" rel="nofollow"&gt;https://www.drupal.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;後援&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://genero.jp/" rel="nofollow"&gt;ジェネロ株式会社&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;関連情報&lt;/h1&gt;
+&lt;p&gt;◆その他の場所で開催されているDrupal Meetup&lt;/p&gt;
+&lt;p&gt;名古屋・豊田でMeetupが開催されています。&lt;/p&gt;
+&lt;p&gt;→ &lt;a href="https://drupal-meetup-toyota.connpass.com/" rel="nofollow"&gt;Drupal Meetup 豊田&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大阪・梅田でMeetupが開催されています。&lt;/p&gt;
+&lt;p&gt;→ &lt;a href="https://drupal-meetup-umeda.connpass.com/" rel="nofollow"&gt;Drupal Meetup 梅田&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;◆Drupal Meetup Tokyo&lt;/p&gt;
+&lt;p&gt;→ &lt;a href="https://drupal-tokyo.connpass.com/event/" rel="nofollow"&gt;Drupal Meetup Tokyo  &lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;諸注意&lt;/h1&gt;
+&lt;p&gt;・プログラム内容は予告なく変更する可能性があります。&lt;/p&gt;
+&lt;p&gt;・開催中の事故・天災・その他の事象によってもたらされたすべての不利益に関して、当勉強会、および会場提供者はその責任を負いかねます。&lt;/p&gt;
+&lt;p&gt;・本イベントは全ての参加者が楽しんでいただくことを主旨としております。そのため、以下のような行動を取られた方は、退室していただく場合がございます。また次回以降の参加もお断りさせていただく場合がございますので了承下さい。過去に以下のような行動を取られた方からのお申込についてもお断りさせていただく場合がございます。&lt;/p&gt;
+&lt;p&gt;1）イベントの妨害と見られる言動&lt;/p&gt;
+&lt;p&gt;2）講師および参加者に対して一方的な批判また攻撃的な言動&lt;/p&gt;
+&lt;p&gt;3）人材紹介、転職、マルチ商法、宗教など、本勉強会とは関係のない勧誘&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://drupal-meetup-haneda.connpass.com/event/388918/</guid><enclosure url="https://media.connpass.com/thumbs/8b/a9/8ba9cdc0eb646515fbc456561bbe416b.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 21:07:49 +0900</pubDate></item><item><title>【ランチLT】AI時代のコードレビューLT会</title><link>https://supporterz-seminar.connpass.com/event/388882/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月22日(水) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月22日(水) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #spzcolab&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜AIと人をマネジメントする新しいエンジニア像を深堀り〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;📍 イベント概要&lt;/h2&gt;
+
+&lt;p&gt;AIコーディングツールの登場によって実装が速くなった一方で、「コードの生成スピードのレビューが追い付かない」、「レビューの手戻りが増えた」という新たなボトルネックに親並みの方は多いのではないでしょうか？&lt;/p&gt;
+&lt;p&gt;本イベントでは、「AI時代のコードレビュー」をテーマに、AIの進化によって実装速度が劇的に向上したいま、各社のレビュー手法や取り組みを紹介します。&lt;/p&gt;
+&lt;p&gt;開発現場で活躍されているエンジニアの試行錯誤から生まれた、実践的な知見や工夫をシェアいただくことで、AI時代のコードレビューの在り方について考えるヒントを持ち帰っていただける場を目指します。&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;🕖 LT一覧&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;登壇者&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;タイトル&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;株式会社TOKIUM　西本 貴&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;AI導入でPRが爆増したことに向き合っているお話&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;株式会社estie 井上 真嘉&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;PR前後のAIレビューでコード品質改善とレビュー待ち削減を進めた話&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;株式会社CARTA HOLDINGS&lt;br&gt;株式会社サポーターズ　ara_ta3&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;レビューを減らすのではなく、役割を分解して再配置する&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;株式会社プレイド&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;準備中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;株式会社Relic　保 龍児（エイミ/amixedcolor）&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;準備中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;🎓 ゲストプロフィール&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cartaholdings.box.com/shared/static/hh1ce2u7fdclrybulf8gx1orfdb7ux9m.webp" width="120"&gt;&lt;/p&gt;
+&lt;div style=""&gt;
+  &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;西本 貴氏&lt;/span&gt; 
+  &lt;a href="https://x.com/nsmttwi" rel="nofollow"&gt;（@nsmttwi）&lt;/a&gt;&lt;br&gt;
+
+  &lt;div style="font-size: 1.2em; margin-top: 5px;"&gt;
+   株式会社TOKIUM&lt;br&gt;プロダクト本部  横断チーム統括部
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/69hueu1v2h6stuyqp0che0zpcik2uqek.jpg" width="120"&gt;&lt;/p&gt;
+&lt;div style=""&gt;
+  &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;井上 真嘉氏&lt;/span&gt; 
+  &lt;a href="https://x.com/rebonire_itame" rel="nofollow"&gt;（@rebonire_itame）&lt;/a&gt;&lt;br&gt;
+
+  &lt;div style="font-size: 1.2em; margin-top: 5px;"&gt;
+    株式会社estie&lt;br&gt;エンタープライズソリューション事業本部 ソフトウェアエンジニア
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/i7uc9p1a7kipwg4yesexfsmyj94l2x6o.png" width="120"&gt;&lt;/p&gt;
+&lt;div style=""&gt;
+  &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;ara_ta3氏&lt;/span&gt;
+  &lt;a href="https://x.com/ara_ta3" rel="nofollow"&gt;（@ara_ta3）&lt;/a&gt;&lt;br&gt;
+
+  &lt;div style="font-size: 1.2em; margin-top: 5px;"&gt;
+    株式会社CARTA HOLDINGS ソフトウェアエンジニア&lt;br&gt;株式会社サポーターズ CTO
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;div style=""&gt;
+  &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;登壇者調整中&lt;/span&gt;&lt;br&gt;
+
+  &lt;div style="font-size: 1.2em; margin-top: 5px;"&gt;
+    株式会社プレイド
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/hxp2yd771xvnexte8a65uzwp3fqjn6ig.png" width="120"&gt;&lt;/p&gt;
+&lt;div style=""&gt;
+  &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;保 龍児（エイミ/amixedcolor）氏&lt;/span&gt; 
+  &lt;a href="https://x.com/amixedcolor" rel="nofollow"&gt;（@amixedcolor）&lt;/a&gt;&lt;br&gt;
+
+  &lt;div style="font-size: 1.2em; margin-top: 5px;"&gt;
+    株式会社Relic&lt;br&gt;
+    シニアデベロッパー
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;📆 開催概要&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;日時：4月22日（水）12:00-13:00&lt;/li&gt;
+  &lt;li&gt;配信：Zoom&lt;/li&gt;
+  &lt;li&gt;参加費：無料&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;✅  こんな方におすすめ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AIによる実装スピードにレビューが追いついていない方&lt;/li&gt;
+  &lt;li&gt;コード生成後の「品質担保」に課題を感じているエンジニア&lt;/li&gt;
+  &lt;li&gt;現場エンジニアによる、AIツール活用の試行錯誤を聞きたい方&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;💫 LT勉強会&lt;/h2&gt;
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/387454/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4/3 金曜日　12:00-" src="https://cartaholdings.box.com/shared/static/d1jpx9xai7ie46lc3jn560vhysgn98cj.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388618/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388882/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4/22 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/63klqliudw8uz3wp3y8ra6jdy7tf0b3z.png"&gt;
+&lt;/a&gt;
+
+&lt;h2&gt;📓 勉強会&lt;/h2&gt;
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388211/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4/15 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/fk7r5ksv80kt1u3is99pqotydj5fbbm1.png"&gt;
+&lt;/a&gt;
+
+&lt;h2&gt;🍻 交流会&lt;/h2&gt;
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388600/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/t7k0oke2q3ugos1yri2ft8cambccmyi5.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388606/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/gxdepi8w9s4muq9ricngvewcd9y3azim.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388607/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/rpg8sh2hhb8c4db8sxxtaz1cgdanzohy.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388608/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/v76ffem6yf9i8aa6mts5zb44liagvq47.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388609/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/02xze7u26o4e3bco6a5qb9dfxlsnv374.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388610/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/nusjdtdordbcyi5dp214nhhvz7ryf2se.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388611/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4月21日（火）19:30-21:30" src="https://cartaholdings.box.com/shared/static/9qsv8yw99y7o82b4bcgzx8zrxfm08fso.png"&gt;
+&lt;/a&gt;
+
+&lt;h2&gt;🏢 主催：株式会社サポーターズ&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="株式会社サポーターズ" src="https://cartaholdings.co.jp/wp-content/uploads/2023/08/teams_supporterz.png" width="50%"&gt;&lt;/p&gt;
+&lt;h2&gt;🔰 サポーターズCoLabとは&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;CoLab（コラボ）&lt;/strong&gt; は、仲間と共に（Co）、楽しみながら成長できる研究室（Lab）のような存在を目指しています。&lt;br&gt;若手エンジニア向けの技術勉強会やミートアップをオリジナルコンテンツで定期開催しており、&lt;br&gt;同世代エンジニアの仕事、スキル、キャリア、悩みを知り、交流することで仲間を増やすことができます。&lt;br&gt;&lt;br&gt;
+※キャリア支援会社&lt;a href="https://corp.supporterz.jp/" rel="nofollow"&gt;サポーターズ&lt;/a&gt;が運営しています。&lt;br&gt;
+※2017-2020年に実施していた「サポーターズCoLab」がパワーアップしての再スタートになります。&lt;/p&gt;
+&lt;h2&gt;ℹ️  注意事項&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;イベント内容およびスケジュールは、予告なく変更される場合がございます。ご了承ください。&lt;/li&gt;&lt;br&gt;
+  &lt;li&gt;イベント中に、サポーターズのサービスや活動についてご案内する時間がございますので、あらかじめご了承ください。&lt;/li&gt;&lt;br&gt;
+  &lt;li&gt;本イベントはエンジニアの方を対象としています。そのため、非エンジニアの方のご参加や、同業他社によるリクルーティング活動はご遠慮いただいております。&lt;/li&gt;&lt;br&gt;
+  &lt;li&gt;ブログやSNSで本イベントについて発信いただく際には、公序良俗に反する内容が含まれないようご協力をお願いいたします。&lt;/li&gt;&lt;br&gt;
+  &lt;li&gt;オンライン開催のため、通信環境によっては音声や映像が乱れる場合がございます。あらかじめご理解ください。&lt;/li&gt;&lt;br&gt;
+ さらに、すべての参加者が快適にイベントを楽しんでいただけるよう、運営側の判断により、参加にふさわしくないと判断された方にはイベント中でもご退席をお願いする場合がございます。以下に該当する方が対象となります。&lt;br&gt;&lt;br&gt;
+  &lt;li&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/li&gt;&lt;br&gt;
+  &lt;li&gt;その他、運営が不適切と判断した方&lt;/li&gt;&lt;br&gt;
+  ご理解とご協力のほど、よろしくお願い申し上げます。
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388882/</guid><enclosure url="https://media.connpass.com/thumbs/b0/ce/b0ced237c93fa7ce86d7ca4db29401f8.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 16:51:54 +0900</pubDate></item><item><title>自分、ITエンジニアだけど、なんか聞きたいことある？こたえちゃいますけどwww</title><link>https://gaiax.connpass.com/event/388634/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: YouTube Live&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #GxTechJAM&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第2回：Gaiax Tech JAM　リアルタイム参加型トーク番組【オンライン】&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;&amp;lt;概要&amp;gt;&lt;/p&gt;
 &lt;p&gt;株式会社ガイアックスです！
 Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生したイベント第二回です！&lt;/p&gt;
@@ -104,7 +398,7 @@ Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生した�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;株式会社デジタルバリュー　小野 紀輝&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Claude Codeくん 君には全ては任せないがほとんどを任せよう&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Claude Codeくん、君には全を任せないがほとんどは任せよう&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;株式会社バラエナテック　幸田 将司&lt;/td&gt;
@@ -113,6 +407,7 @@ Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生した�
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;🎓 ゲストプロフィール&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cartaholdings.box.com/shared/static/8tsd1wykasg98biojngxq2trtm0gmnil.png" width="120"&gt;&lt;/p&gt;
 &lt;div style=""&gt;
   &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;河合 俊典（ばんくし）氏&lt;/span&gt; 
   &lt;a href="https://x.com/vaaaaanquish" rel="nofollow"&gt;（@vaaaaanquish）&lt;/a&gt;&lt;br&gt;
@@ -133,7 +428,8 @@ Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生した�
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/1gpmq6ysuywuqzk87chipv36jif1517l.png" width="120"&gt;&lt;/p&gt;
 &lt;div style=""&gt;
   &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;山口 仁司氏&lt;/span&gt; &lt;br&gt;
 
@@ -143,7 +439,8 @@ Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生した�
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/7ie8l4sd8edq83nupabipja7st2swexx.png" width="120"&gt;&lt;/p&gt;
 &lt;div style=""&gt;
   &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;鈴木 進也氏&lt;/span&gt; 
   &lt;a href="https://x.com/yanyan_360" rel="nofollow"&gt;（@yanyan_360）&lt;/a&gt;&lt;br&gt;
@@ -164,7 +461,8 @@ Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生した�
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/iwcdkxg3ftctqaoljh5et0wc3schqyov.png" width="120"&gt;&lt;/p&gt;
 &lt;div style=""&gt;
   &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;小野　紀輝氏&lt;/span&gt; 
   &lt;a href="https://x.com/osadakun9" rel="nofollow"&gt;（@osadakun9）&lt;/a&gt;&lt;br&gt;
@@ -175,13 +473,15 @@ Gaiax Technical Meetupは装いを新たにGaiax Tech JAMとして新生した�
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="https://cartaholdings.box.com/shared/static/kfwaoztp5bsl86ph97g3q4sh7lwn4a34.png" width="120"&gt;&lt;/p&gt;
 &lt;div style=""&gt;
   &lt;span style="font-size: 1.5em; font-weight: bold;"&gt;幸田　将司氏&lt;/span&gt; 
   &lt;a href="https://x.com/halkichisec" rel="nofollow"&gt;（@halkichisec）&lt;/a&gt;&lt;br&gt;
 
   &lt;div style="font-size: 1.2em; margin-top: 5px;"&gt;
     株式会社バラエナテック&lt;br&gt;
+    代表取締役
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
@@ -218,6 +518,15 @@ CoLab Conf
   &lt;img alt="
 CoLab Conf
 4/14 火曜日　12:00-" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png"&gt;
+&lt;/a&gt;
+
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388882/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4/22 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/63klqliudw8uz3wp3y8ra6jdy7tf0b3z.png"&gt;
 &lt;/a&gt;
 
 &lt;h2&gt;📓 勉強会&lt;/h2&gt;
@@ -312,7 +621,7 @@ CoLab Conf
   &lt;li&gt;保険、宗教、ネットワークビジネスなどの勧誘を目的とされている方&lt;/li&gt;&lt;br&gt;
   &lt;li&gt;その他、運営が不適切と判断した方&lt;/li&gt;&lt;br&gt;
   ご理解とご協力のほど、よろしくお願い申し上げます。
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388618/</guid><enclosure url="https://media.connpass.com/thumbs/b2/5c/b25ccfb9658b2f72ecb9d3282495b423.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 23:35:01 +0900</pubDate></item><item><title>最新『N2WS 4.5』でクラウドバックアップをより強固に！</title><link>https://connpass.com/event/388603/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月17日(金) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月17日(金) 15:35&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;EKS/S3のデータ保護からAzure対応拡張など新機能を紹介！&lt;/p&gt;&lt;div&gt;&lt;p&gt;AWSやAzureなどのパブリッククラウド環境の利用が拡大する中、ランサムウェア対策やリージョン障害、
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388618/</guid><enclosure url="https://media.connpass.com/thumbs/b2/5c/b25ccfb9658b2f72ecb9d3282495b423.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 19:42:04 +0900</pubDate></item><item><title>最新『N2WS 4.5』でクラウドバックアップをより強固に！</title><link>https://connpass.com/event/388603/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月17日(金) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月17日(金) 15:35&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;EKS/S3のデータ保護からAzure対応拡張など新機能を紹介！&lt;/p&gt;&lt;div&gt;&lt;p&gt;AWSやAzureなどのパブリッククラウド環境の利用が拡大する中、ランサムウェア対策やリージョン障害、
 人的ミスなどに備えたデータ保護の重要性が高まっています。
 クラウドでは高可用性が提供される一方で、データ保護やバックアップの責任はユーザ側にあるため、
 適切なバックアップと迅速なリカバリを実現する仕組みが不可欠です。&lt;/p&gt;
@@ -443,7 +752,212 @@ EC2やEBS、RDSなどのクラウドリソースをポリシーベースで自�
 &lt;p&gt;UIテストの自動化をどこまでAIに任せられるか。最新の「MCP（Model Context Protocol）」を使い、個人的に検証を重ねているPlaywrightによるテスト自動化のフローをご紹介します。&lt;/p&gt;
 &lt;p&gt;AIが作成したテストケースの草案を人間が磨き、そこからプログラム生成、実行、証跡取得までを繋げる試行錯誤のプロセスを共有します。「AIとの協働でテスト作成はどこまで楽になるのか」という、個人の学習を通じた気づきと可能性をお伝えします。&lt;/p&gt;
 &lt;h2&gt;個人情報の取り扱いについて&lt;/h2&gt;
-&lt;p&gt;当イベントを通じて取得した個人情報等の取り扱いは、 &lt;a href="https://www.brainpad.co.jp/privacy.html" rel="nofollow" title="connpass"&gt;株式会社ブレインパッドのプライバシーポリシー&lt;/a&gt; に従って取り扱います。 ご同意の上、ご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://brainpad.connpass.com/event/388573/</guid><enclosure url="https://media.connpass.com/thumbs/ac/18/ac18b5575d232f144a27afb3e6f9958e.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 09:17:12 +0900</pubDate></item><item><title>初心者向け：Gemini Gemsを使って記憶するAI、カスタマイズできるチャットボットを体験しよう</title><link>https://future-tech-association.connpass.com/event/388499/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月16日(木) 21:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月16日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Gemini_Gems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIは君の相棒だ！Gemini Gemsで“記憶するAIパートナー”を育てる&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;当イベントを通じて取得した個人情報等の取り扱いは、 &lt;a href="https://www.brainpad.co.jp/privacy.html" rel="nofollow" title="connpass"&gt;株式会社ブレインパッドのプライバシーポリシー&lt;/a&gt; に従って取り扱います。 ご同意の上、ご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://brainpad.connpass.com/event/388573/</guid><enclosure url="https://media.connpass.com/thumbs/ac/18/ac18b5575d232f144a27afb3e6f9958e.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 09:17:12 +0900</pubDate></item><item><title>JAWS-UG東京 ランチタイムLT会 #34</title><link>https://jawsug.connpass.com/event/388571/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: YouTube Live&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_tokyo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;全国から参加OKのオンラインもぐもぐ会。AWSに関するフリーテーマのLTを聞いて楽しく学ぼう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AWS関連なら何でもOKのライトニングトーク会！&lt;/h1&gt;
+&lt;p&gt;フリーテーマのランチLT会、毎月開催しています！&lt;/p&gt;
+&lt;p&gt;オンラインなので全国どこからでも参加OK。お昼食べながら気軽にご参加ください👍&lt;/p&gt;
+&lt;h1&gt;アジェンダ&lt;/h1&gt;
+&lt;p&gt;1時間以内でサクッと終わる予定です！&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時刻&lt;/th&gt;
+&lt;th&gt;コンテンツ&lt;/th&gt;
+&lt;th&gt;登壇者（敬称略）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00-12:05&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;運営メンバー&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:05-12:15&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:15-12:25&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:25-12:35&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:35-12:45&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:45-13:00&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;td&gt;運営メンバー&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※時間や内容は予告なく変更される場合があります。ご了承ください。&lt;/p&gt;
+&lt;h1&gt;テーマ&lt;/h1&gt;
+&lt;p&gt;AWSに関するテーマなら何でもOKのライトニングトーク会です。&lt;br&gt;
+持ち時間は5分が基本です。&lt;/p&gt;
+&lt;p&gt;初心者も大歓迎です！初登壇のチャレンジにもどうぞ🙌&lt;/p&gt;
+&lt;h1&gt;前回までのアーカイブ動画はこちら&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://youtube.com/playlist?list=PLYMeJaIBczfpQCde69Tr7bOVlCB9iVKC0&amp;amp;si=FeRnwQEgUqUm12Gt" rel="nofollow"&gt;https://youtube.com/playlist?list=PLYMeJaIBczfpQCde69Tr7bOVlCB9iVKC0&amp;amp;si=FeRnwQEgUqUm12Gt&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;運営メンバー紹介&lt;/h1&gt;
+&lt;h3&gt;みのるん &lt;a href="https://twitter.com/minorun365" rel="nofollow"&gt;@minorun365&lt;/a&gt; （KDDIアジャイル開発センター株式会社）&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/559fcb52d48f4249ad178f94eb7dd82f.png" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;クラウドやAI分野を中心に、技術の楽しさを伝える活動をしています。&lt;br&gt;AWS AI Hero, AWS Samurai, 2025 Japan AWS Top Engineer &amp;amp; All Certs, Qiita 2024 Top Contributor / 著書「Amazon Bedrock 生成AIアプリ開発入門」,「やさしいMCP入門」,「AIエージェント開発運用入門」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;watany &lt;a href="https://twitter.com/_watany" rel="nofollow"&gt;@_watany&lt;/a&gt; (NTTテクノクロス株式会社)&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/bfe7931d64dbed0c0d09c60fcd46ef8e.jpg" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2015年からAWSを用いた開発に携わり、アーキテクト・運用設計支援として活動する一方で、社内にてテクニカルサポートや研修講師を務めています。また、AWS Community BuilderとしてAWS CDKのContributeや技術ブログの執筆を行っています。2024 AWS Ambassadorを受賞。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;y-ohgi &lt;a href="https://twitter.com/_y_ohgi" rel="nofollow"&gt;@_y_ohgi&lt;/a&gt; (株式会社Topotal)&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/1625e49e58810ac2fed169ae399516a5.jpg" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;株式会社TopotalでSREをやっております。AWS Community Builder (Container)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;ムリギッテ &lt;a href="https://twitter.com/momitanJP" rel="nofollow"&gt;@momitanJP&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/7d1bf04f5dfd29ce36dddc338d8afda7.jpg" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;パブリックセクターから金融機関、製造業まで様々な業界のお客様に向けたシステム提案・導入をしています。最近はCDK、コンテナ、データ基盤がメイン。趣味はBlackbeltを聞きながら筋トレです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;ふくち &lt;a href="https://x.com/har1101mony" rel="nofollow"&gt;@har1101mony&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://i.gyazo.com/f8793071e8c12465dcd3fd2a45e2cfe2.jpg" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;LLMを触って遊んだり、LLMを組み込んだシステムの開発をしています。AWS Community Builder(AI Engineering) / 2025 Japan AWS Jr.Champion&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;参加のルール/マナー&lt;/h1&gt;
+&lt;p&gt;勉強会に参加される方は、JAWS-UGの定める以下のルール/マナーに則って行動することをお願いしております。&lt;/p&gt;
+&lt;h2&gt;ルール&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;関係者の人種、性別、性的指向、身体的特徴、見た目、政治、宗教（または無宗教）などに係る表現は、いかなる場合も適切ではありません。  &lt;/li&gt;
+&lt;li&gt;JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣伝行為・採用活動・ネットワーキングのみを目的としたご参加はご遠慮ください。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ルールに違反する方は参加をお断りする場合がございます。&lt;/p&gt;
+&lt;h2&gt;マナー&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。  &lt;/li&gt;
+&lt;li&gt;全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。  &lt;/li&gt;
+&lt;li&gt;私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。  &lt;/li&gt;
+&lt;li&gt;AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug.connpass.com/event/388571/</guid><enclosure url="https://media.connpass.com/thumbs/f0/dc/f0dcbed0df4fa1ec46a5031936175863.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 12:31:20 +0900</pubDate></item><item><title>TypeScriptでAPI開発するなら知っておきたいRPC　tRPC、oRPC、HonoRPCとは</title><link>https://offers-jp.connpass.com/event/388511/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Offers_DeepDive&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベントの説明&lt;/h2&gt;
+&lt;h3&gt;📢イベント概要&lt;/h3&gt;
+&lt;p&gt;昨今、バックエンドにTypeScriptを導入する事例は一般的になり、フロントエンドとバックエンドで型を共有することで開発効率を高めるさまざまなソリューションが登場しています。中でも「RPC（Remote Procedure Call）」を活用したアプローチは注目を集めており、tRPC・oRPC・Hono RPCなど複数の選択肢が存在します。&lt;/p&gt;
+&lt;p&gt;一方で、「そもそもRPCとは何か」「tRPC・oRPC・Hono RPCはそれぞれ何が違うのか」といった基本的な部分から整理したいと感じている方も多いのではないでしょうか。名前は聞いたことがあるけれど違いがわからない、どれを選べばいいのか判断がつかない、という声も少なくありません。&lt;/p&gt;
+&lt;p&gt;そこで本イベントでは、tRPCを実務で導入・運用されている海老原氏、oRPCやElysiaを活用されている柿氏、Hono RPCでマルチクライアント対応を実践されているよだか氏の3名をお迎えし、RPCの基本から各ソリューションの特徴・選定の考え方までを紐解きます。&lt;/p&gt;
+&lt;p&gt;前半のLTでは、柿氏、海老原氏、よだか氏の3名にそれぞれの視点からお話しいただきます。&lt;/p&gt;
+&lt;p&gt;後半のディスカッションでは、3名を交え、各RPCの推しポイントや課題、モバイル・Webの対応可能性を見据えた技術選定など、現場目線でさらに深掘りしていきます。&lt;/p&gt;
+&lt;p&gt;RPCという概念自体をこれから理解したい方から、すでに使っていて他の選択肢と比較したい方まで、幅広いエンジニアのご参加をお待ちしています。&lt;/p&gt;
+&lt;h3&gt;🧑‍💻イベントでわかること&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;そもそもRPCとは何か、tRPC・oRPC・Hono RPCはそれぞれ何が違うのかの整理&lt;/li&gt;
+&lt;li&gt;各RPCソリューションを実務で使って見えてきたメリット・課題のリアル&lt;/li&gt;
+&lt;li&gt;モバイル・Web対応やOpenAPIの必要性を踏まえた、RPCの技術選定の考え方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🧑‍💻開催概要&lt;/h3&gt;
+&lt;p&gt;【開催形式】オンライン開催&lt;/p&gt;
+&lt;p&gt;【日時】2026年4月23日(木) 19:00~20:30&lt;/p&gt;
+&lt;h3&gt;🕛タイムテーブル&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;セッションタイトル&lt;/th&gt;
+&lt;th&gt;登壇者&lt;/th&gt;
+&lt;th&gt;モデレーター&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;オープニング・ご挨拶&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:05&lt;/td&gt;
+&lt;td&gt;LT①「PRC導入で失敗するたった1つの理由」&lt;/td&gt;
+&lt;td&gt;柿 海斗 氏&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:15&lt;/td&gt;
+&lt;td&gt;LT② 「tRPCの概要と少しだけパフォーマンス」&lt;/td&gt;
+&lt;td&gt;海老原 圭吾 氏&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:25&lt;/td&gt;
+&lt;td&gt;LT③ 「実用！Hono RPC 2026」&lt;/td&gt;
+&lt;td&gt;よだか氏&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:35&lt;/td&gt;
+&lt;td&gt;ディスカッション・質疑応答&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:30&lt;/td&gt;
+&lt;td&gt;最後に&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※LTやディスカッション内容は変更の可能性があります、ご了承ください。&lt;/p&gt;
+&lt;h3&gt;💁‍♀️こんな方におすすめ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;tRPC・oRPC・Hono RPCなどの名前は聞くが、そもそもRPCとは何か・それぞれ何が違うのかを整理したい方&lt;/li&gt;
+&lt;li&gt;すでにいずれかのRPCを使っているが、他の選択肢との比較や選定基準を知りたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;＼現場エンジニア目線の疑問を解決／実際どうなの？ディスカッション&lt;/h3&gt;
+&lt;p&gt;#Offers_DeepDiveでは、「本質的な眼を持つ」というテーマのもと、テーマの本質を探るための質問をいくつかご用意しております。こちらのトピックスを元に、モデレーターより内容の深堀をいたします。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;img src="https://overflow.co.jp/wp-content/uploads/main_backend-6.png"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ディスカッショントピックス&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;各RPCで「ここが一番推せる！」と思うポイントは？&lt;/li&gt;
+&lt;li&gt;IDEでの型解決速度、実際どう感じてる？（速い？遅い？）&lt;/li&gt;
+&lt;li&gt;それぞれのRPCを使っていて「ここは課題かも」と感じるところは？&lt;/li&gt;
+&lt;li&gt;（将来的に）モバイル・Webの対応可能性がある場合にはなにを選ぶのが正解...?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🙋 登壇者&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;【登壇者】株式会社ゼスト Webアプリケーションエンジニア 海老原 圭吾 氏（&lt;a href="https://twitter.com/misoton665" rel="nofollow"&gt;@misoton665&lt;/a&gt;）&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;img src="https://overflow.co.jp/wp-content/uploads/ebihara-海老原圭吾.png" width="20%"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;訪問医療業界の収益最大化を目的としたWebアプリケーションZESTを開発。立ち上げ期のアーキテクチャ設計の担当を経て、現在はフロントエンドをメインにしている。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;【登壇者】ENECHANGE株式会社 フロントエンドエンジニア 柿 海斗 氏（&lt;a href="https://twitter.com/cu30rry_" rel="nofollow"&gt;@cu30rry_&lt;/a&gt;）&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;img src="https://overflow.co.jp/wp-content/uploads/Google-Gemini-Image-Kaito-K.png" width="20%"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;未経験からエンジニアに転身し、今年で実務5年目。TypeScriptを中心に、React・Next.js・TanStackなどのフロントエンド技術を軸に開発。現在はフロントエンドが主領域だが、HonoやElysiaJSを用いたバックエンド開発にも対応。最近は趣味でExpoによるモバイルアプリ開発にも取り組んでいる。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;【登壇者】合同会社ヨダカ フルスタックエンジニアよだか氏（&lt;a href="https://twitter.com/engineerYodaka" rel="nofollow"&gt;@engineerYodaka&lt;/a&gt;）&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;img src="https://pbs.twimg.com/profile_images/1124647557768998912/SEd4Tnoz_400x400.jpg" width="20%"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;web・ネイティブアプリ問わずフロント、バックどちらも書けるフリーランスエンジニアとしてホテルや飲食、SaaSなどのドメインで長いこと３社でやらせてもらっております。 音楽が好きで最近アルバムをリリースしたのと、ロードバイクを買いました。一緒に走ってくれる人募集！ よろしくお願いします！&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;【モデレーター】大西 政徳 氏（&lt;a href="https://twitter.com/monarisa_masa" rel="nofollow"&gt;@monarisa_masa&lt;/a&gt;）&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;img src="https://overflow.co.jp/wp-content/uploads/speaker_ohnishi_masanori.jpg" width="20%"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;新卒でゲーム系スタートアップに入社。ゲーム開発において、開発・保守・運用を一通り経験。 2018年4月より株式会社LegalForceに二人目のエンジニアとして入社。MVP立ち上げ、LegalForceの製品版開発・運用、DDDを用いた開発改善活動・推進を行う。2021年10月よりスタートアップ連携管理SaaSを開発するInnoScouterにCTOとして参画。プロダクト開発の指揮統括、開発組織の体制構築を行う。2021年末に株式会社01BoosterにM&amp;amp;A。2024年6月より独立。プロダクト開発、技術顧問業などを行う。&lt;/p&gt;
+&lt;h3&gt;⚠️諸注意&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;視聴ページはページtopにある「参加情報欄」のリンク、または参加確定者に前日と当日にconnpassメールにてお知らせいたします。&lt;/li&gt;
+&lt;li&gt;エージェントの方や営業目的でのイベントの参加はご遠慮ください。&lt;/li&gt;
+&lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt;
+&lt;li&gt;イベント参加時に入力いただいた情報は、弊社プライバシーポリシーに基づき取り扱いいたします。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://offers-jp.connpass.com/event/388511/</guid><enclosure url="https://media.connpass.com/thumbs/24/b7/24b733f0069d21db227fbed9e7c5094b.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 14:17:49 +0900</pubDate></item><item><title>初心者向け：Gemini Gemsを使って記憶するAI、カスタマイズできるチャットボットを体験しよう</title><link>https://future-tech-association.connpass.com/event/388499/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月16日(木) 21:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月16日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Gemini_Gems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIは君の相棒だ！Gemini Gemsで“記憶するAIパートナー”を育てる&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;「新しいチャットを開くたびに、AIに同じ説明を繰り返すのが面倒…」&lt;br&gt;
 「AIがこちらの意図や文脈をなかなか覚えてくれない…」&lt;br&gt;
 もし、あなたがAIとの対話でこんな“もどかしさ”を感じているなら、このイベントはあなたのためのものです。  &lt;/p&gt;
@@ -1086,7 +1600,93 @@ YouTube Live のURLは開始直前に共有予定です。&lt;br&gt;
 &lt;li&gt;試験勉強＋モチベーション維持&lt;/li&gt;
 &lt;li&gt;少人数で、発言しやすい雰囲気&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;「今の自分にちょうどいい関わり方」で参加してください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://setk.connpass.com/event/388399/</guid><enclosure url="https://media.connpass.com/thumbs/82/df/82dfd4029e3d3545edefbe377aeadba2.png" length="0" type="image/png"/><pubDate>Sun, 22 Mar 2026 15:48:04 +0900</pubDate></item><item><title>【無料】売上はデータで変えられる！実践データ分析入門-数式不要で理解する多変量解析の思考法</title><link>https://datascience-wakara.connpass.com/event/388353/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 20:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Zoom）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;売上を変えるデータ分析の考え方を学ぶ-数式なしで理解する多変量思考の超入門編-&lt;/p&gt;&lt;div&gt;&lt;h4&gt;顧客の本音が見える！"多変量解析" で行う意思決定&lt;/h4&gt;
+&lt;p&gt;「今の自分にちょうどいい関わり方」で参加してください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://setk.connpass.com/event/388399/</guid><enclosure url="https://media.connpass.com/thumbs/82/df/82dfd4029e3d3545edefbe377aeadba2.png" length="0" type="image/png"/><pubDate>Sun, 22 Mar 2026 15:48:04 +0900</pubDate></item><item><title>Windows Cloud Community Meetup #05</title><link>https://wccj.connpass.com/event/388356/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月10日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月10日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #wccj&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;
+
+&lt;h1&gt;Windows Cloud Community Meetup&lt;/h1&gt;
+&lt;h2&gt;本勉強会について&lt;/h2&gt;
+&lt;p&gt;Windows Cloud Community Meetup は Windows 及び Microsoft 関連の End User Computing 製品・サービスと周辺技術について情報を共有・交換し、"上手く" 利用していくためのコミュニティ勉強会です。(Microsoft が主催するセミナー・勉強会ではありません。)&lt;/p&gt;
+&lt;p&gt;参加者の皆さんからのご意見・情報共有(登壇等)も歓迎します。&lt;/p&gt;
+&lt;h2&gt;今回のテーマ&lt;/h2&gt;
+
+
+&lt;p&gt;今回も日本語でのセッションとなります。&lt;/p&gt;
+&lt;h2&gt;セッション概要&lt;/h2&gt;
+&lt;h3&gt;Session 1: (調整中)&lt;/h3&gt;
+&lt;p&gt;Speaker: たかいさん&lt;/p&gt;
+&lt;h3&gt;Session 2: 改めて振り返る Windows 365 (仮)&lt;/h3&gt;
+&lt;p&gt;Speaker: 玉井さん&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;セッション内容・スピーカーは追加・変更となる可能性があります。&lt;/li&gt;
+&lt;li&gt;スケジュールは、当日の状況により変更となる場合があります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;開始時刻&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;セッション&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;スピーカー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;たかいさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:05&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Session 1&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;たかいさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:35&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Session 2&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;玉井さん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:05&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Q&amp;amp;A + ディスカッション&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;玉井さん、たかいさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:25&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;たかいさん&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;(延長戦)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;質問が多ければ、少しだけ延長するかも！？&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;質問や追加の話題がなければ、早めに終了します。&lt;/p&gt;
+&lt;h2&gt;アンケート&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="" rel="nofollow"&gt;(イベント当日より回答可能)こちらからアンケートにご協力をお願いします&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;今後のイベントにおける登壇・発表希望等&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://forms.office.com/r/kendt1ENgt" rel="nofollow"&gt;Call for Speakers はこちら&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;オンラインでの開催となります。参加登録者に対して、イベント参加用のリンクを当日までに送付します。
+Connpassの参加登録者向けに表示される情報にも掲載する予定です。&lt;/p&gt;
+&lt;h2&gt;参加受付・登録について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpass上で参加登録をお願いいたします。&lt;/li&gt;
+&lt;li&gt;参加登録いただいた方に、視聴用の URL をご連絡する予定です。(方式等変更となる場合があります。予めご了承ください。)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;注意事項・連絡事項・その他&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本イベントはコミュニティ主催の勉強会です。&lt;/li&gt;
+&lt;li&gt;セッション動画を後日配信するかどうかは、未定です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ハッシュタグ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;wccj&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://wccj.connpass.com/event/388356/</guid><enclosure url="https://media.connpass.com/thumbs/43/05/43056e2a46493bdc00411c505a1c79aa.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 08:02:57 +0900</pubDate></item><item><title>【無料】売上はデータで変えられる！実践データ分析入門-数式不要で理解する多変量解析の思考法</title><link>https://datascience-wakara.connpass.com/event/388353/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 20:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Zoom）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;売上を変えるデータ分析の考え方を学ぶ-数式なしで理解する多変量思考の超入門編-&lt;/p&gt;&lt;div&gt;&lt;h4&gt;顧客の本音が見える！"多変量解析" で行う意思決定&lt;/h4&gt;
 &lt;p&gt;スマホやSNS、オンラインショッピング… 私たちの行動はすべてデータとして蓄積されています。 企業のマーケティングにおいても、顧客データ・販売データ・Webサイトのアクセスログなど、膨大な「ビッグデータ」が存在します。しかし、こうした大量のデータを前にして、&lt;br&gt;
 &lt;br&gt;
 ・どこから分析すればいいのかわからない&lt;br&gt;
@@ -1897,6 +2497,15 @@ CoLab Conf
 4/14 火曜日　12:00-" height="80" src="https://cartaholdings.box.com/shared/static/eef46l4164j5vjyx4dclcurh9e36byjp.png" width="700"&gt;
 &lt;/a&gt;
 
+
+
+
+&lt;a href="https://supporterz-seminar.connpass.com/event/388882/" rel="nofollow"&gt;
+  &lt;img alt="
+CoLab Conf
+4/22 水曜日　12:00-" src="https://cartaholdings.box.com/shared/static/63klqliudw8uz3wp3y8ra6jdy7tf0b3z.png"&gt;
+&lt;/a&gt;
+
 &lt;h2&gt;📓 勉強会&lt;/h2&gt;
 
 
@@ -2008,67 +2617,7 @@ CoLab Conf
 &lt;p&gt;その他、運営が不適切と判断した方&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388211/</guid><enclosure url="https://media.connpass.com/thumbs/02/72/0272ba8e47d873b10fa2336019f739a7.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:49:40 +0900</pubDate></item><item><title>【CDLE主催】CDLE女子会　月例交流会【2026年4月】</title><link>https://jdla.connpass.com/event/388200/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月9日(木) 20:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月9日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE女子会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#CDLE女子会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CDLE女子会とは&lt;/h1&gt;
-&lt;p&gt;CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会が実施するG検定およびE資格の合格者が参加する日本最大のAIコミュニティで、CDLE女子会とはCDLE内の女性メンバーをネットワーキングを目的としたグループです。&lt;/p&gt;
-&lt;h1&gt;オンライン交流会を毎月第二木曜日に定期開催します！&lt;/h1&gt;
-&lt;p&gt;女性比率がまだまだ低い業界、女性で気兼ねなく話せる仲間が欲しい、ちょっと雑談・相談したい、と思うことはありませんか？
-CDLE女子会では、定期的な交流会の場を設け、気軽にネットワーキングしやすい環境を提供していきます。
-まずは自己紹介から始めてお互いを知り合う会なので、気軽にご参加下さい！
-CDLEの他のイベントと重複した場合は、日程変更いたします。&lt;/p&gt;
-&lt;h1&gt;スケジュール(予定)&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;発表者&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;20:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;開会&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;司会 CDLE女子会メンバー&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;20:30 ～ 20:55&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;自己紹介（ひとり1分くらい）&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;20:55～ 21:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;トークセッション１（30分）&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;21:25 ～ 21:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;移動（5分）&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;21:30 ～ 22:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;トークセッション2（30分）&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;22:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;閉会&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;ご用意いただくもの&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;食べ物とドリンク（アルコールOKです。未成年の方はジュースでお願いします。）&lt;/li&gt;
-&lt;li&gt;新しい仲間と出会いたい気持ち！(^^)&lt;/li&gt;
-&lt;li&gt;オンライン名刺のURL（なくてもOKです。ある方はぜひ！）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;このイベントはオンラインで行います。&lt;/li&gt;
-&lt;li&gt;このイベントはG検定・E資格合格者、JDLA会員の女性メンバーのみが参加出来ます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;*　お問い合わせは、Slack名　ちなつちな_core.member,T.Okamatsu_core.member　まで。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jdla.connpass.com/event/388200/</guid><enclosure url="https://media.connpass.com/thumbs/ac/31/ac31dbf716cb4e52f699cbc97851fa73.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 17:16:49 +0900</pubDate></item><item><title>単体AIからマルチエージェントへー専門性の作り方からチーム設計まで、マルチエージェント実践の現在地</title><link>https://enechange-meetup.connpass.com/event/388192/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enechange_meetup&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;3名のエンジニアが登壇し、実務で培った知見をお届けします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;ご理解とご協力のほど、よろしくお願い申し上げます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/388211/</guid><enclosure url="https://media.connpass.com/thumbs/02/72/0272ba8e47d873b10fa2336019f739a7.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 16:53:33 +0900</pubDate></item><item><title>単体AIからマルチエージェントへー専門性の作り方からチーム設計まで、マルチエージェント実践の現在地</title><link>https://enechange-meetup.connpass.com/event/388192/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enechange_meetup&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;3名のエンジニアが登壇し、実務で培った知見をお届けします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;昨今、AIエージェントを「チーム」として機能させるマルチエージェントのアプローチが注目を集めており、複数エージェントの協調・オーケストレーションへの期待は高まる一方です。&lt;/p&gt;
 &lt;p&gt;しかしチームで成果を出すためには、適切なオーケストレーションを組むだけでなく、メンバー一人ひとりにドメイン知識を持たせ、専門性を高めていく必要があります。&lt;/p&gt;
 &lt;p&gt;そこで本イベントでは、マルチエージェントの実践を 「チームの設計」と「専門エージェントの構築」 の両面から掘り下げます。
@@ -2173,7 +2722,57 @@ CDLEの他のイベントと重複した場合は、日程変更いたします�
 &lt;h3&gt;&lt;a href="https://enechange.co.jp/" rel="nofollow"&gt;ENECHANGE株式会社&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;ENECHANGEは、「エネルギー革命」を技術革新により推進し、より良い世界を創出することをミッションとするエネルギーベンチャー企業です。
 日本最大級のエネルギー切り替えプラットフォーム「エネチェンジ」、エネルギー業界のDXを実現する「エネルギークラウド」の開発運用など、エネルギーテックをベースにした革新的事業を次々に展開し、「エネルギーの未来をつくる」というミッションの実現に取り組んでいます。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://engineer-recruit.enechange.co.jp/" rel="nofollow"&gt;採用情報&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://enechange-meetup.connpass.com/event/388192/</guid><enclosure url="https://media.connpass.com/thumbs/1d/ce/1dce2f08ea5717a1ec9077cb5bc400d5.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 16:53:39 +0900</pubDate></item><item><title>【北海道オンライン会場】XRミーティング 2026/4/15 #XRMTG 【zoom接続】</title><link>https://connpass.com/event/388096/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月15日(水) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月15日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ProVision 開発センター&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DoMCN&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;6拠点連携開催　知見や活動の共有を通じて輪を広げましょう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;2026年もオンラインとSNSで将来の仲間を繋ぎます&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://engineer-recruit.enechange.co.jp/" rel="nofollow"&gt;採用情報&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://enechange-meetup.connpass.com/event/388192/</guid><enclosure url="https://media.connpass.com/thumbs/1d/ce/1dce2f08ea5717a1ec9077cb5bc400d5.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 16:53:39 +0900</pubDate></item><item><title>無償・OSSで始める、コンテナ脆弱性管理負荷を大幅に削減する新しいアプローチ</title><link>https://dockerjapan.connpass.com/event/388164/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月17日(金) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月17日(金) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Docker&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜 Docker Hardened Imagesで実現するセキュアなコンテナ運用〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;コンテナセキュリティ対策としてスキャンツールを導入しても、アラートが多すぎて対応が追いつかず、結果として脆弱性が放置されるケースが少なくありません。さらに、ベースイメージ更新の遅れやCI/CDでのスキャン形骸化などにより、「対応はしているが持続可能ではない」状況に陥る組織も増えています。こうした背景から、コンテナイメージにおける脆弱性対応は開発者やセキュリティ担当者にとって最大の課題のひとつとなり、CVEへの対応やコンプライアンス維持に日々追われているのが現状ではないでしょうか？&lt;/p&gt;
+&lt;p&gt;本セミナーでは、最新の脅威動向と対策に加え、&lt;strong&gt;2025年12月より一部無償・オープンソースの提供が開始され&lt;/strong&gt;、2026年2月にプランが更新されたDocker Hardened Images（DHI）を活用した新しいアプローチを、3-shake社 水元氏（「コンテナセキュリティ」翻訳者）の知見も交えてご紹介します。&lt;/p&gt;
+&lt;h1&gt;アジェンダ&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;① 最新の脅威動向から考える、コンテナサプライチェーンのリスクと対策&lt;/strong&gt;&lt;br&gt;
+コンテナ／Kubernetes環境を狙った攻撃は年々高度化しており、ソフトウェアサプライチェーンを標的にした手口が急増しています。本セッションでは、最新の脅威動向をふまえ、コンテナのサプライチェーンに潜むリスクと具体的な対策を解説します。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コンテナシステムを取り巻く脅威動向  &lt;/li&gt;
+&lt;li&gt;コンテナのソフトウェアサプライチェーンとリスク  &lt;/li&gt;
+&lt;li&gt;コンテナサプライチェーンのセキュリティ対策  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;水元 恭平 氏（3-shake）&lt;br&gt;
+Security Engineer  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②安全なコンテナイメージを作るための新しい業界標準：Docker Hardened Images&lt;/strong&gt; &lt;br&gt;
+多数のOSSで構成されているコンテナイメージは、近年急増する脆弱性を狙ったサプライチェーン攻撃の主要な標的となっています。Docker ではこれに対するアプローチとして、脆弱性や依存関係を大幅に削減したデフォルトで安全なイメージ「Docker Hardened Images(DHI)」をリリースし、2025年12月に Community Edition として一部無償・オープンソースで提供しました。&lt;/p&gt;
+&lt;p&gt;このセッションではこの DHI の仕組み・哲学から既存のコンテナイメージからの移行方法、エンタープライズレベルのSLA・コンプライアンスを適用する方法までご紹介します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker Hardened Images Community Edition の紹介  &lt;/li&gt;
+&lt;li&gt;イメージの選択方法・既存イメージからの移行方法   &lt;/li&gt;
+&lt;li&gt;Docker Hardened Images プランのアップデート (Community, Select, Enterprise, Extended Lifecycle Support)    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;根本 征 氏（Docker Japan）&lt;br&gt;
+Strategic Solutions Engineer  &lt;/p&gt;
+&lt;h1&gt;Docker Hardened Imagesの概要&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;脆弱性対応をシンプルに：「Critical」「High」のCVEを7日以内にDockerが修正。一般的な業界水準よりも速いSLAに支えられた対応。&lt;/li&gt;
+&lt;li&gt;攻撃対象領域の大幅削減：ソースからビルドされた超最小限イメージにより、CVEほぼゼロ・最大95%削減を実現。&lt;/li&gt;
+&lt;li&gt;安心のコンプライアンス対応：SBOM、SLSA準拠、デジタル署名付きで完全に検証可能。FedRAMP/FIPS/STIG準拠のサポートも可能。&lt;/li&gt;
+&lt;li&gt;シームレスな移行と開発効率の向上：AlpineやDebianベースで、既存のDockerfileを最小限の変更で利用可能。スキャン製品によるノイズを削減し、開発者は脆弱性追跡ではなく本来の開発に集中。&lt;/li&gt;
+&lt;li&gt;柔軟なプラン体系：Community（OSS）プランを含め、用途に応じた複数のプランを提供。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;対象者&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;セキュリティ / 脆弱性対応を担当している方  &lt;/li&gt;
+&lt;li&gt;コンテナイメージ管理や本番運用を担っている方  &lt;/li&gt;
+&lt;li&gt;DevSecOpsの推進やセキュリティ強化を検討している方  &lt;/li&gt;
+&lt;li&gt;コンテナのサプライチェーンリスクに課題を感じている方  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;参加メリット&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;最新のコンテナ脆弱性対応戦略を理解できる&lt;/li&gt;
+&lt;li&gt;Docker Hardened Imagesを使った実践的な活用法を学べる&lt;/li&gt;
+&lt;li&gt;自社のセキュリティ対応と開発スピードの両立につなげられる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ご不明な点がありましたら、japan-sales@docker.com までお申し付けください。&lt;/li&gt;
+&lt;li&gt;参加のためのZoomのリンクは、開催2日前を目処に送付致します。届かない場合には、上記までお問い合わせください。  &lt;/li&gt;
+&lt;li&gt;お申し込みにより、Dockerの &lt;a href="https://www.docker.com/legal/docker-privacy-policy/" rel="nofollow"&gt;プライバシーポリシー&lt;/a&gt;にご承諾いただけたことと致します。  &lt;/li&gt;
+&lt;li&gt;ご登録情報は、共催である3-shake社にも共有される場合がございます。あらかじめご了承ください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dockerjapan.connpass.com/event/388164/</guid><enclosure url="https://media.connpass.com/thumbs/d0/51/d0510dde35358e6e55eb11b79a0f93ca.png" length="0" type="image/png"/><pubDate>Thu, 26 Mar 2026 17:34:06 +0900</pubDate></item><item><title>【北海道オンライン会場】XRミーティング 2026/4/15 #XRMTG 【zoom接続】</title><link>https://connpass.com/event/388096/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月15日(水) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月15日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ProVision 開発センター&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DoMCN&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;6拠点連携開催　知見や活動の共有を通じて輪を広げましょう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;2026年もオンラインとSNSで将来の仲間を繋ぎます&lt;/h1&gt;
 &lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;XR（AR/CR/MR/SR/VRの近未来技術）に関する情報共有や自作アプリのお披露目ができる場&lt;br&gt;
 としてイベントを開催します。&lt;/p&gt;
@@ -4677,78 +5276,7 @@ MCPを活用し、個人/チーム単位双方のAI活用状況を定性×定量
 &lt;li&gt;井上　:オムロン株式会社&lt;/li&gt;
 &lt;li&gt;森岡　:同上&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;！！運営メンバー募集中！！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://majime-ni-study.connpass.com/event/387291/</guid><enclosure url="https://media.connpass.com/thumbs/71/12/71122828004b3b378aadeae09673910d.png" length="0" type="image/png"/><pubDate>Mon, 16 Mar 2026 08:31:43 +0900</pubDate></item><item><title>AI時代のプロジェクトマネジメントスペシャル by クラスメソッド</title><link>https://classmethod.connpass.com/event/387256/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月9日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月9日(木) 20:45&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cm_mach&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;クラスメソッド マッハチーム&lt;/p&gt;&lt;div&gt;&lt;h2&gt;追記&lt;/h2&gt;
-&lt;p&gt;03/18: &lt;strong&gt;LT枠を1枠増やしました🚀ご応募お待ちしています&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;AI時代のプロジェクトマネジメントスペシャル by クラスメソッド&lt;/strong&gt;とは&lt;/h2&gt;
-&lt;p&gt;AI技術が急速に進化する今、ボトルネックが個々人の開発作業だけでなく、プロジェクトをどうマネジメントするかに大きく移り変わりつつあります。&lt;br&gt;
-AIツールを活用したタスク管理や意思決定の効率化、チーム間のコミュニケーション最適化など、AI時代だからこそ求められるプロジェクトマネジメントの考え方を、プロジェクトの立ち上げを高速に行うマッハチームの実践的なノウハウとともに、具体的な事例を交えてお伝えします。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://dev.classmethod.jp/articles/ai-era-development-special-by-classmethod-1/" rel="nofollow"&gt;前回開催 "AI時代の開発高速化 by クラスメソッド" のイベントレポートはこちら&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開催日時：&lt;strong&gt;2026年4月9日（木）19:00〜20:30&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;オンライン会場：YouTube Live&lt;/li&gt;
-&lt;li&gt;URLはお申込み後に"参加者への情報"欄に表示されますのでそちらからアクセスできます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;コンテンツとタイムテーブル&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;時間&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;セッションタイトル&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;スピーカー（敬称略）&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00~&lt;/td&gt;
-&lt;td&gt;会社紹介&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:05~&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;(仮) 複数案件を同時に進行するためのコンテキスト整理術&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;マッハチーム&lt;br&gt;西田将幸&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:25~&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;(仮）プロジェクトマネジメントはAIでどう変わるか？&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;リテールアプリ共創部&lt;br&gt; 茂木清嗣&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:45~&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;（仮）AI × 受託開発のマネジメント&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;マッハチーム&lt;br&gt;日吉杏太&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:05~&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;大規模開発におけるPMのAI活用事例&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://connpass.com/user/oshio_eth/" rel="nofollow"&gt;Masayuki Nagashio&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:20~&lt;/td&gt;
-&lt;td&gt;LT&lt;/td&gt;
-&lt;td&gt;🔥募集中です&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:35~&lt;/td&gt;
-&lt;td&gt;LT&lt;/td&gt;
-&lt;td&gt;🔥募集中です&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:50~&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;各セッションで5分の質問タイムを含みます&lt;/p&gt;
-&lt;h2&gt;LT枠について&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;1人あたり5分~10分です&lt;/li&gt;
-&lt;li&gt;テーマは"プロジェクトマネジメント"に関連していればなんでもOKです🥳&lt;/li&gt;
-&lt;li&gt;配信はStream yardで行います&lt;/li&gt;
-&lt;li&gt;connpass申込時に入力されたメールアドレス宛にStream yardの発表者用URLをご連絡いたします&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/387256/</guid><enclosure url="https://media.connpass.com/thumbs/8e/31/8e3147b905c12b938acfa58e84dbdca5.png" length="0" type="image/png"/><pubDate>Wed, 18 Mar 2026 18:29:11 +0900</pubDate></item><item><title>月末 Tech Lunch Online#12 - Google Cloud を語る！-</title><link>https://jaguer-tech-lunch.connpass.com/event/387254/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月28日(火) 12:05&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月28日(火) 12:55&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Google Meet）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jaguer_tech&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google Cloudの技術トピックを集めたランチタイムLT会です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🍱 jagu'e'r 月末 Tech Lunchとは？&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;！！運営メンバー募集中！！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://majime-ni-study.connpass.com/event/387291/</guid><enclosure url="https://media.connpass.com/thumbs/71/12/71122828004b3b378aadeae09673910d.png" length="0" type="image/png"/><pubDate>Mon, 16 Mar 2026 08:31:43 +0900</pubDate></item><item><title>月末 Tech Lunch Online#12 - Google Cloud を語る！-</title><link>https://jaguer-tech-lunch.connpass.com/event/387254/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月28日(火) 12:05&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月28日(火) 12:55&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Google Meet）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jaguer_tech&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google Cloudの技術トピックを集めたランチタイムLT会です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🍱 jagu'e'r 月末 Tech Lunchとは？&lt;/h1&gt;
 &lt;p&gt;Google Cloud のユーザー会（Japan Google Cloud Usergroup for Enterprise: 愛称 Jagu'e'r） 主催のGoogle Cloudに関するLTを集めたオンラインLT会です。Jagu'e'r 会員以外の参加も大歓迎です。&lt;/p&gt;
 &lt;p&gt;「Google Cloud に関する LT をもっとしたい！」「広く登壇機会を作っていきたい！」という想いから毎月の月末に Google Cloud に関するオンラインイベントを開催することとしました！&lt;/p&gt;
 &lt;p&gt;オープンなイベントとなっており、Jagu'e'r 会員でなくてもどなたでも参加 OK です。
@@ -4829,104 +5357,7 @@ Google Cloud に関連する様々なトピックであれば、どなたでも�
 
 &lt;blockquote&gt;
 &lt;p&gt;自己紹介自己紹介自己紹介自己紹介自己紹介自己紹介自己紹介自己紹介自己紹介自己紹介自己紹介&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaguer-tech-lunch.connpass.com/event/387254/</guid><enclosure url="https://media.connpass.com/thumbs/44/06/4406c5aeb7f25499188466e076067791.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 11:33:56 +0900</pubDate></item><item><title>もうNext.jsには戻れない？次世代フルスタックフレームワークTanStack Startってなに</title><link>https://offers-jp.connpass.com/event/387230/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月9日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月9日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Offers_DeepDive&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;📢イベント概要&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;昨今、Next.jsの急速な進化に伴い、そのブラックボックス的な実装に疑問を感じ、新たな選択肢を模索するエンジニアの声が増え始めています。そうした中、TanStack Queryをはじめとする「TanStack系ライブラリ」や、新たなフルスタックフレームワーク「TanStack Start」への注目が高まっています。&lt;/p&gt;
-&lt;p&gt;しかし、実際の運用において「Next.jsと比べて何がどこまで変わるのか」「TanStack系ライブラリを採用する具体的なメリットは何か」を明確にイメージできている方はまだ少ないのが現状です。&lt;/p&gt;
-&lt;p&gt;そこで本イベントでは、TanStack QueryやTanStack Routerを実務で活用されている寺嶋氏と、&lt;strong&gt;TanStack Start&lt;/strong&gt;をプロダクション環境で実際に採用されている池内氏をお迎えし、Next.js経験者の視点からTanStack系ライブラリ・TanStack Startの実際を紐解きます。&lt;/p&gt;
-&lt;p&gt;前半のLTでは、まず寺嶋氏よりTanStack Startの全体像やViteエコシステムにおけるポジション、Next.jsとの比較を交えた概要を解説いただきます。続いて池内氏より、TanStack Startプロダクトにおける実践的な側面（デプロイ環境、認証基盤、データベース連携など）について、現時点での整備状況をお話しいただきます。&lt;/p&gt;
-&lt;p&gt;後半のディスカッションでは、お二人を交え、チーム開発での採用やAIコーディングとの親和性など、現場目線でさらに深掘りしていきます。&lt;/p&gt;
-&lt;p&gt;TanStackが気になり始めた方から、Next.jsからの移行を検討されている方まで、幅広いエンジニアのご参加をお待ちしています。&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;🧑‍💻イベントでわかること&lt;/strong&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;TanStack系ライブラリ（Query・Router等）やTanStack Startの全体像&lt;/li&gt;
-&lt;li&gt;Next.jsとTanStack Startの違い・使い分けの判断基準&lt;/li&gt;
-&lt;li&gt;実務での技術選定やチーム導入における実践的な考え方と、エコシステムの現状&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;&lt;strong&gt;🧑‍💻開催概要&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;【開催形式】オンライン開催&lt;/p&gt;
-&lt;p&gt;【日時】2026年4月9日(木) 19:00〜20:00&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;🕛タイムテーブル&lt;/strong&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;セッションタイトル&lt;/th&gt;
-&lt;th&gt;登壇者&lt;/th&gt;
-&lt;th&gt;モデレーター&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;オープニング・ご挨拶&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:05&lt;/td&gt;
-&lt;td&gt;LT①タイトル(仮)「Comparison of Next.js and TanStack Start」&lt;/td&gt;
-&lt;td&gt;寺嶋 祐稀 氏&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:15&lt;/td&gt;
-&lt;td&gt;LT②タイトル(仮) 「Tanstack Startを取り巻くエコシステムの現在地」&lt;/td&gt;
-&lt;td&gt;池内 孝啓 氏&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:25&lt;/td&gt;
-&lt;td&gt;ディスカッション・質疑応答&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:55&lt;/td&gt;
-&lt;td&gt;最後に&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※LTやディスカッション内容は変更の可能性があります、ご了承ください。&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;💁‍♀️こんな方におすすめ&lt;/strong&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Next.jsを使っているが、フレームワークのブラックボックス化に疑問を感じている方&lt;/li&gt;
-&lt;li&gt;TanStack系ライブラリやTanStack Startが気になっているが、実際の使用感がわからない方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;&lt;strong&gt;＼現場エンジニア目線の疑問を解決／実際どうなの？ディスカッション&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;#Offers_DeepDiveでは、「本質的な眼を持つ」というテーマのもと、テーマの本質を探るための質問をいくつかご用意しております。こちらのトピックスを元に、モデレーターより内容の深堀をいたします。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ディスカッショントピックス（例）&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;逆にNextを選ぶ要件（理由）ってありますか？&lt;/li&gt;
-&lt;li&gt;チーム開発で採用した場合の開発体験はどうですか？&lt;/li&gt;
-&lt;li&gt;新規プロダクトには、TanStack Start？ それともTanStack系ライブラリ？（個人開発、チーム開発の目線で）&lt;/li&gt;
-&lt;li&gt;AIコーディングとの親和性・対応度は？&lt;/li&gt;
-&lt;li&gt;TanStackを使ってみてわかった、ここはまだ課題だなと思うところは？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;&lt;strong&gt;🙋 登壇者&lt;/strong&gt;&lt;/h1&gt;
-&lt;h3&gt;&lt;strong&gt;【登壇者】株式会社Typebase フロントエンドエンジニア 寺嶋 祐稀 氏（@y_temp4）&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;img src="https://avatars.githubusercontent.com/u/13657589?v=4" width="20%"&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;フリーランスのWebエンジニア。React / TypeScriptを用いたWebアプリケーション開発に従事。フロントエンドのアーキテクチャや型安全な設計に関心が深い。XやZennでWebフロントエンド技術の知見を発信している。&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;【登壇者】合同会社プルーラルワークス プロダクトエンジニア 池内 孝啓 氏（@iktakahiro）&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;img src="https://overflow.co.jp/wp-content/uploads/takahiro_ikeuchi_avatar-池内孝啓-1.jpg" width="20%"&gt;
-&lt;br&gt;
-プロダクトエンジニア。モバイル、Web、インフラ、AIエージェントまでフルスタックに開発。合同会社プルーラルワークス代表。日程調整・カレンダー同期アプリ「クロノック」開発中。元メンタルヘルステックCTO・事業責任者（ex-Awarefy）。&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;【モデレーター】大西 政徳 氏（&lt;a href="https://twitter.com/monarisa_masa" rel="nofollow"&gt;@monarisa_masa&lt;/a&gt;）&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;img src="https://overflow.co.jp/wp-content/uploads/speaker_ohnishi_masanori.jpg" width="20%"&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;新卒でゲーム系スタートアップに入社。ゲーム開発において、開発・保守・運用を一通り経験。 2018年4月より株式会社LegalForceに二人目のエンジニアとして入社。MVP立ち上げ、LegalForceの製品版開発・運用、DDDを用いた開発改善活動・推進を行う。2021年10月よりスタートアップ連携管理SaaSを開発するInnoScouterにCTOとして参画。プロダクト開発の指揮統括、開発組織の体制構築を行う。2021年末に株式会社01BoosterにM&amp;amp;A。2024年6月より独立。プロダクト開発、技術顧問業などを行う。&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;⚠️諸注意&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;視聴ページはページtopにある「参加情報欄」のリンク、または参加確定者に前日と当日にconnpassメールにてお知らせいたします。&lt;/li&gt;
-&lt;li&gt;エージェントの方や営業目的でのイベントの参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt;
-&lt;li&gt;イベント参加時に入力いただいた情報は、弊社プライバシーポリシーに基づき取り扱いいたします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://offers-jp.connpass.com/event/387230/</guid><enclosure url="https://media.connpass.com/thumbs/26/bc/26bc286689dee35159c66bea94e71bf4.png" length="0" type="image/png"/><pubDate>Mon, 23 Mar 2026 14:32:45 +0900</pubDate></item><item><title>なぜIoTの自動テストは失敗しやすいのか？</title><link>https://humancrest.connpass.com/event/387147/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 12:45&lt;/li&gt;&lt;li&gt;📍 会場: Zoom&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜ユーザー体験を損なわないための、持続可能な自動化の仕組み〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;■本セミナーについて&lt;/strong&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaguer-tech-lunch.connpass.com/event/387254/</guid><enclosure url="https://media.connpass.com/thumbs/44/06/4406c5aeb7f25499188466e076067791.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 11:33:56 +0900</pubDate></item><item><title>なぜIoTの自動テストは失敗しやすいのか？</title><link>https://humancrest.connpass.com/event/387147/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月21日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月21日(火) 12:45&lt;/li&gt;&lt;li&gt;📍 会場: Zoom&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜ユーザー体験を損なわないための、持続可能な自動化の仕組み〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;■本セミナーについて&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;IoT分野における開発では、アプリ、ハードウェア、そして通信が複雑に絡み合います。&lt;br&gt;
 新機種の追加はもちろん、機能追加やファームウェア・アップデートのたびに発生する膨大なリグレッションテストにお困りの方も多いのではないでしょうか。&lt;br&gt;
 また、リグレッションテストの自動化を始めても、IoT特有の複雑さが壁となり、自動テストがうまくいかずに挫折してしまうというケースも多く見受けられます。&lt;br&gt;&lt;/p&gt;
@@ -5120,73 +5551,7 @@ QAチームの立ち上げ支援や各種ソフトウェアテスト、テスト
 ・お客様との事務連絡&lt;br&gt;
 ・各種のご案内（メールや電話によるセミナーのご案内など）&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;※詳しくはこちらをご参照ください。
-&lt;a href="https://wakara.co.jp/privacy" rel="nofollow"&gt;https://wakara.co.jp/privacy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datascience-wakara.connpass.com/event/386983/</guid><enclosure url="https://media.connpass.com/thumbs/71/0b/710b4e60e65a2fd9b9e23489c0263fbb.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 23:26:48 +0900</pubDate></item><item><title>【無料】コード経験ゼロOK！自動化・分析・AIにつながる実践Pythonプログラミング体験</title><link>https://datascience-wakara.connpass.com/event/386982/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月9日(木) 20:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月9日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Zoom）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Python言語でできることを理解する-手を動かして学ぶPython言語のワークショップ初級編-&lt;/p&gt;&lt;div&gt;&lt;p&gt;Python言語は、現在データサイエンスや業務効率化・自動化、Webアプリケーション開発、Webスクレイピングなど幅広い業務に活用されています。&lt;br&gt;
-習得しやすい言語で、本職のプログラマーでなくとも身近な業務に活用できます。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;また、最近話題となっているChatGPTをはじめ、人工知能技術の開発も大部分がPython言語で行われており、人工知能を一早く活用していきたい人にとっても非常に重要な言語となっています。&lt;br&gt;
-教育の観点でも2022年からPython言語学習が学習指導要領入りしており、プログラミングもいよいよ基礎スキルの1つとして位置づけられるようになってきています。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;一方で、プログラミング言語を学習したことがない方にとって、興味はあるものの「どこから手をつけていいのか分からない」「本や動画など、教材が多すぎて何から学べばいいのか分からない」という方も多いのではないでしょうか。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;そこで本講座では、実際にPython言語でプログラミングを行い最初の一歩を踏み出しつつ、Python言語を学習していく際のポイントを体感する内容となっております。&lt;br&gt;
-これからプログラミング言語の学習を始めていきたい方、以前学習してみたことはあるが思うようにできるようにならなかった、という方に特におすすめの内容となっております。&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;Python言語を選ぶ4つの理由&lt;br&gt;&lt;/h4&gt;
-&lt;p&gt;プログラミング言語には様々なものがあり、どの言語でもできることに大きな違いはありませんが、その中でもPythonは&lt;br&gt;
-・簡単に書くことができて、コードを読みやすい
-・環境構築が簡単、またクラウド上でPythonを動かせるサービスも豊富&lt;br&gt;
-・統計系、機械学習系のライブラリが豊富で、気軽に分析を行いやすい&lt;br&gt;
-・汎用的な言語で、データサイエンス分野以外のシステム開発にも多く使われている&lt;br&gt;
-といった特徴があり、初心者の方にも人気の言語となっています。&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;セミナー概要&lt;/h3&gt;
-&lt;p&gt;・Python言語とは&lt;br&gt;
-・Python言語によるプログラミング体験&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;※カリキュラム内容は進捗等によって変更されることがあります。&lt;/p&gt;
-&lt;h3&gt;対象者&lt;/h3&gt;
-&lt;p&gt;・プログラミング言語「Python」に興味がある&lt;br&gt;
-・機械学習を含むデータ分析に興味がある&lt;br&gt;
-・人工知能（AI）に興味がある&lt;br&gt;
-・Pythonを使ってみたい&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;・プログラミングをお仕事で活用したい方&lt;br&gt;
-→小売業販売管理にかかわる方&lt;br&gt;
-　データに基づいた現状把握と将来の予測、今後の意思決定を行いたい&lt;br&gt;
-→製品開発にかかわる方&lt;br&gt;
-　　顧客アンケートデータを集計し、顧客のニーズを可視化したい&lt;br&gt;
-　→マーケティングにかかわる方&lt;br&gt;
-　　データに基づいたマーケティング施策の評価、最適な施策の判定を行いたい&lt;br&gt;
-　→人事にかかわる方&lt;br&gt;
-　　社員データより退職者を早期に予測しその対策を打ちたい&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;受講にあたっての準備物&lt;/h3&gt;
-&lt;p&gt;◎PC&lt;br&gt;
-◎Googleアカウント&lt;br&gt;
-・（Python言語による演習をGoogle Colaboratoryで行うため）&lt;br&gt;
-※取得方法の動画はこちら&lt;br&gt;
-&lt;a href="https://youtu.be/oM-2S2sBxfI&lt;br&gt;" rel="nofollow"&gt;https://youtu.be/oM-2S2sBxfI&lt;br&gt;&lt;/a&gt;
-※新規アカウント取得はこちらのサイトよりご登録ください。&lt;br&gt;
-&lt;a href="https://www.google.com/intl/ja/account/about/&lt;br&gt;" rel="nofollow"&gt;https://www.google.com/intl/ja/account/about/&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;講師紹介&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;岡崎 凌（おかざき　りょう）&lt;/strong&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;img alt="岡崎凌" src="https://wakara.co.jp/wp-content/uploads/okazaki_ryo200.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;近年注目を集めるAI技術(Deep Learning)の全フロー（開発・実装・運用）を実施し、統計学と機械学習を中心にセミナー、企業研修、イベント講演、オンライン講義などを手掛ける。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;大阪大学大学院卒業。初心者の簡単な統計の活かし方から、多変量解析学や機械学習など発展的な分析手法まで幅広く対応できるスキルを持つ。&lt;br&gt;
-さらに、近年注目を集めるAI技術(Deep Learning)の全フロー（開発・実装・運用）を実施し、統計学と機械学習を中心にセミナー、企業研修、イベント講演、オンライン講義などを手掛ける。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;分野は前職の半導体工学分野のデータ分析をはじめ、医療統計、アンケート項目の設計と分析、集計データの可視化からメーカーの売上分析のコンサルティングなども行う。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;※経営道場として名高い「澤田経営道場」にて統計担当講師。&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;用意するもの&lt;/h3&gt;
-&lt;p&gt;zoomを用いてセミナーを行いますので、ブラウザが利用できるPCやタブレットなどの環境をご用意ください。&lt;/p&gt;
-&lt;h3&gt;ご参加にあたって（必ずご確認ください）&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;■開催当日は、以下の手順でご入場いただけます。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;・該当の「イベント詳細ページ」を開いてください&lt;br&gt;
-・「参加者への情報」にオンライン会場URLを記載しております&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;■開場は開催の約5分前となります。それ以前のご入場はお控え下さい。&lt;br&gt;
-■開催当日の電話対応はできかねます。お問合せはメール、もしくはお問合せフォームよりお願い致します。&lt;br&gt;
-■iPad等タブレットの使用は一部機能が制限される場合がございます。パソコン端末でのご参加を推奨いたします。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;zoomを用いてセミナーを行いますので、ブラウザが利用できるPCやタブレットなどの環境をご用意ください。&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;■個人情報の取り扱いについて&lt;/h4&gt;
-&lt;p&gt;和から株式会社では、お申込みにて提供いただいた利用目的は次のとおりです。&lt;br&gt;
-・お申し込み手続きの実施&lt;br&gt;
-・講座等の実施&lt;br&gt;
-・お客様との事務連絡&lt;br&gt;
-・各種のご案内（メールや電話によるセミナーのご案内など）&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;※詳しくはこちらをご参照ください。
-&lt;a href="https://wakara.co.jp/privacy" rel="nofollow"&gt;https://wakara.co.jp/privacy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datascience-wakara.connpass.com/event/386982/</guid><enclosure url="https://media.connpass.com/thumbs/71/0b/710b4e60e65a2fd9b9e23489c0263fbb.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 23:18:00 +0900</pubDate></item><item><title>【無料】Python in Excel超入門-難しいコードや数式なしで業務効率化・可視化・自動化</title><link>https://datascience-wakara.connpass.com/event/386980/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 14:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Zoom）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Python言語でできることを理解する-手を動かして学ぶPython言語のワークショップ初級編-&lt;/p&gt;&lt;div&gt;&lt;h4&gt;Excelでのデータ分析をさらにレベルアップさせたいあなたに！&lt;br&gt;&lt;/h4&gt;
+&lt;a href="https://wakara.co.jp/privacy" rel="nofollow"&gt;https://wakara.co.jp/privacy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datascience-wakara.connpass.com/event/386983/</guid><enclosure url="https://media.connpass.com/thumbs/71/0b/710b4e60e65a2fd9b9e23489c0263fbb.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 23:26:48 +0900</pubDate></item><item><title>【無料】Python in Excel超入門-難しいコードや数式なしで業務効率化・可視化・自動化</title><link>https://datascience-wakara.connpass.com/event/386980/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 14:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン（Zoom）&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Python言語でできることを理解する-手を動かして学ぶPython言語のワークショップ初級編-&lt;/p&gt;&lt;div&gt;&lt;h4&gt;Excelでのデータ分析をさらにレベルアップさせたいあなたに！&lt;br&gt;&lt;/h4&gt;
 &lt;p&gt;普段Excelを使っていて、こんな悩みを感じたことはありませんか？&lt;br&gt;
 ・データの集計やグラフの描画を何回もするのは手間がかかりすぎる…&lt;br&gt;
 ・複雑な条件でのデータ分析をしたいけれど、Excelの機能だけでは限界がありそう…&lt;br&gt;
@@ -6935,107 +7300,7 @@ X : &lt;a href="https://twitter.com/kaho_eng" rel="nofollow"&gt;https://twitter.
 ・事前・事後アンケートのご依頼&lt;br&gt;
 ・当社サービス・イベント・採用等に関するご案内&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;当社は、上記の目的以外で個人情報を利用することはありません。&lt;br&gt;
-上記内容にご同意の上、本イベントにご参加ください。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://data-learning-guild.connpass.com/event/384386/</guid><enclosure url="https://media.connpass.com/thumbs/c1/fe/c1fe1a4d20d17c5a5337c757a002ac4e.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 23:06:21 +0900</pubDate></item><item><title>つくてくトーク 〜「これ始めました」でつながる春の種まき集会 〜 #16</title><link>https://tsukulink.connpass.com/event/384349/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月10日(金) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月10日(金) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #つくてくトーク&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
-&lt;h2&gt;つくてくトーク 〜「これ始めました」でつながる春の種まき集会 〜&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[イベント開催日：2026年4月10日 (金)]&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;[開催時間：12:00 〜 13:00 (JST)]&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;[開催形式：オンライン（meet）]&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;今回の「つくてくトーク」は、&lt;b&gt;『「これ始めました」でつながる春の種まき集会』&lt;/b&gt;です。&lt;/p&gt;
-
-&lt;p&gt;新年度がスタートしました！🌸
-
-
-4月は周りの環境が変わったり、新しいプロジェクトが動き出したりと、何かとソワソワする時期ですね。&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;「何か新しいことを始めたいけれど、まだエンジンがかかりきっていない……」
-
-
-そんな方も大丈夫。今はまだ、これからの成長に向けた「種まき」の時期です！🌱&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;今回はガチガチの技術勉強会から少し趣向を変えて、この春から始めたこと、あるいはこれから始めたいと思っている目標を&lt;b&gt;「キーワード」&lt;/b&gt;として持ち寄り、ゆる〜く共有し合う座談会を開催します。&lt;/p&gt;
-
-&lt;p&gt;例えば、こんな「種まき」を共有してみませんか？&lt;/p&gt;
-&lt;ul&gt; &lt;li&gt;「朝型シフト」：始業前の30分で技術書を読む習慣を始めました！&lt;/li&gt; &lt;li&gt;「Rustの芽」：いつかやりたかったRust、ついに環境構築から手をつけました。&lt;/li&gt; &lt;li&gt;「脱・属人化」：ドキュメント整備を徹底して、チームを楽にしたい！&lt;/li&gt; &lt;li&gt;「歩くエンジニア」：健康のために、1日8,000歩を目指して歩き始めました。&lt;/li&gt; &lt;/ul&gt;
-
-&lt;p&gt;参加者の皆さんは、ご自身の「小さな一歩」や「やりたいこと」を1つお話しいただければ幸いです。
-
-
-この1時間の「種まき」を通じて、2026年度を一緒に楽しくスタートさせてみませんか？&lt;/p&gt;
-
-&lt;h3&gt;こんな方におすすめ&lt;/h3&gt;
-&lt;ul&gt; &lt;li&gt;新年度、何か新しい刺激やきっかけが欲しい方&lt;/li&gt; &lt;li&gt;他のエンジニアがこの春、どんな挑戦をしようとしているか気になる方&lt;/li&gt; &lt;li&gt;技術の話だけでなく、学習習慣やキャリアの「最初の一歩」を話したい方&lt;/li&gt; &lt;li&gt;ランチタイムにゆるく交流して、モチベーションを上げたい方&lt;/li&gt; &lt;li&gt;「つくてくトーク」の雰囲気を覗いてみたい方&lt;/li&gt; &lt;/ul&gt;
-
-&lt;h1&gt;参加方法&lt;/h1&gt;
-&lt;p&gt;connpassの&lt;strong&gt;「イベントに申し込む」ボタン&lt;/strong&gt;からお申し込みください。&lt;br&gt;
-参加URLは開催前日までにconnpassの参加者向け情報に記載いたします。
-「参加者への情報」欄のURLよりご参加ください。&lt;/p&gt;
-&lt;h1&gt;タイムテーブル&lt;/h1&gt;
-&lt;p&gt;今回はLT（ライトニングトーク）形式を想定しています。
-タイムテーブルの内容は予告なく変更する可能性がございます。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;セッションタイトル&lt;/th&gt;
-&lt;th&gt;発表者&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;12:00~12:05&lt;/td&gt;
-&lt;td&gt;オープニング・ご挨拶&lt;/td&gt;
-&lt;td&gt;主催者&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:05~12:15&lt;/td&gt;
-&lt;td&gt;LT①：TBD&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:15~12:25&lt;/td&gt;
-&lt;td&gt;LT②：TBD&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:25~12:35&lt;/td&gt;
-&lt;td&gt;LT③：TBD&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:35~12:45&lt;/td&gt;
-&lt;td&gt;LT④：TBD&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12:45~13:00&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;td&gt; 主催者&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;主催&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="ツクリンク株式会社ロゴ" src="https://tsukulink.co.jp/wp/wp-content/uploads/2023/04/logo.png" width="200"&gt;&lt;/p&gt;
-&lt;p&gt;人手不足が大きな社会課題となりつつある建設業界。&lt;/p&gt;
-&lt;p&gt;私たちツクリンクは建設事業者向けの受発注マッチングプラットフォームをはじめ、テクノロジーの力で業界の課題解決に取り組んでいます。&lt;/p&gt;
-&lt;p&gt;「産業構造を変え、豊かな未来をつくる」このパーパスのもと、&lt;/p&gt;
-&lt;p&gt;つくるひと。つかうひと。&lt;/p&gt;
-&lt;p&gt;建設に携わるすべてのひとをテクノロジーで幸せにする。&lt;/p&gt;
-&lt;p&gt;魅力あふれる業界へとリブランディングすることが私たちツクリンクが目指しているゴールです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://tsukulink.co.jp/" rel="nofollow"&gt;ツクリンク株式会社&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tsukulink.net/" rel="nofollow"&gt;建設事業者向けの受発注マッチングプラットフォーム&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tsukulink.co.jp/recruit/" rel="nofollow"&gt;採用サイト&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://whatweuse.dev/company/tsukulink" rel="nofollow"&gt;技術スタック&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/li&gt;
-&lt;li&gt;イベント中であろうと運営側で参加にふさわしくないと判断させて頂いた方については、ご退席をお願いすることがございます。&lt;/li&gt;
-&lt;li&gt;その他、上記に当てはまらない場合でも、運営側で参加にふさわしくないと判断した方は参加辞退をお願いすることがございます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;何かお困り事がありましたら、当イベントページの「イベントへのお問い合わせ」よりご連絡をお願いいたします。&lt;/p&gt;
-&lt;h1&gt;個人情報の取り扱いについて&lt;/h1&gt;
-&lt;p&gt;ツクリンク株式会社は、本イベントにおいて参加者から取得した個人情報を、本イベントに関するご連絡、本イベントに必要な諸手続き、ならびにツクリンク株式会社が開催する他イベント、セミナーのご案内及び採用情報のご連絡、その他これらの目的の達成において必要な範囲内でのみ適切に利用します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tsukulink.connpass.com/event/384349/</guid><enclosure url="https://media.connpass.com/thumbs/fd/49/fd49445708d60da2d984f895bac6dc33.png" length="0" type="image/png"/><pubDate>Wed, 04 Mar 2026 11:03:12 +0900</pubDate></item><item><title>データ駆動型材料科学研究会 ウェビナー</title><link>https://soddms.connpass.com/event/383978/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月20日(月) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月20日(月) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;データ駆動型材料科学研究会ウェビナー&lt;/h2&gt;
+上記内容にご同意の上、本イベントにご参加ください。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://data-learning-guild.connpass.com/event/384386/</guid><enclosure url="https://media.connpass.com/thumbs/c1/fe/c1fe1a4d20d17c5a5337c757a002ac4e.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 23:06:21 +0900</pubDate></item><item><title>データ駆動型材料科学研究会 ウェビナー</title><link>https://soddms.connpass.com/event/383978/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月20日(月) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月20日(月) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;データ駆動型材料科学研究会ウェビナー&lt;/h2&gt;
 &lt;p&gt;データ駆動型材料科学研究会では、データ駆動型材料科学の意義や最新の研究動向、手法などを共有する場として、「データ駆動型材料科学研究会 ウェビナー」を定期的に開催いたします。  本ウェビナーでは、アカデミア・産業界を問わず、データ駆動型アプローチを活用した材料科学の最前線で活躍する皆様の講演を通じて、知見の交流と議論の深化を目指します。&lt;/p&gt;
 &lt;h3&gt;第2回ウェビナーについて&lt;/h3&gt;
 &lt;p&gt;第2回ウェビナーでは、高原 渉 氏（株式会社日立製作所、奈良先端科学技術大学院大学）、是津 信行 氏（信州大学）をお招きし、ご講演をいただきます。&lt;/p&gt;
@@ -7203,103 +7468,7 @@ AIが科学技術の重要なツールとして定着しつつある昨今、AI�
 &lt;h2&gt;後援&lt;/h2&gt;
 &lt;p&gt;本企画は，日本ロボット学会の若手・学生のためのキャリアパス開拓研究専門委員会（通称：ろぼやん）からご後援をいただいております．&lt;/p&gt;
 &lt;h2&gt;公式ホームページ&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://robosemi.github.io/" rel="nofollow"&gt;https://robosemi.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://robosemi.connpass.com/event/383476/</guid><enclosure url="https://media.connpass.com/thumbs/42/fe/42fe86b19851bf62358730989c195894.png" length="0" type="image/png"/><pubDate>Fri, 13 Mar 2026 20:07:40 +0900</pubDate></item><item><title>第1回【オンライン輪読会】Team Geek ―Googleのギークたちはいかにしてチームを作るのか</title><link>https://tecotec.connpass.com/event/383014/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月9日(木) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月9日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社テコテック&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #テコテック輪読会&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;💡 開催の背景：なぜ今、この本なのか？&lt;/h2&gt;
-&lt;p&gt;AIが瞬時にコードを生成する時代。エンジニアの真価は、技術そのもの以上に&lt;strong&gt;「いかに人を巻き込み、チームとして成果を出すか」&lt;/strong&gt;という人間らしい活動にシフトしています。&lt;/p&gt;
-&lt;p&gt;今回は、Googleのエンジニアが執筆した名著&lt;strong&gt;『Team Geek ―Googleのギークたちはいかにしてチームを作るのか』&lt;/strong&gt;を題材に、チームビルディングの不変の原理原則である&lt;strong&gt;「HRT（謙虚・尊敬・信頼）」&lt;/strong&gt;について語り合います。&lt;/p&gt;
-&lt;p&gt;普段は社内で開催している輪読会ですが、今回は&lt;strong&gt;「オープン勉強会」&lt;/strong&gt;として社外の皆様も招待いたします。
-所属の垣根を越えて、「現場のリアルな悩み」や「HRTの実践例」を語り合える越境学習の場を目指しています。&lt;/p&gt;
-&lt;h2&gt;📚 題材・参加条件&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;対象書籍：&lt;/strong&gt;
-『Team Geek ―Googleのギークたちはいかにしてチームを作るのか』
-（Brian W. Fitzpatrick, Ben Collins-Sussman 著 / オライリー・ジャパン 発行）
-ISBN：978-4873116303&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!IMPORTANT]
-&lt;strong&gt;【事前準備のお願い：第1章を読んできてください！】&lt;/strong&gt;
-初回となる今回は、&lt;strong&gt;第1章「天才プログラマの神話」&lt;/strong&gt;を題材にします。
-当日はこの章の内容をもとにディスカッションを行いますので、&lt;strong&gt;必ず事前に一読した上でご参加ください。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;参加条件：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;書籍を各自お手元にご用意ください。&lt;/strong&gt;（電子書籍・紙、どちらでも可）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;第1章「天才プログラマの神話」を読了していること。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※著作権保護と著者・出版社へのリスペクトのため、当日は書籍の内容をそのまま投影・配布することはいたしません。各自で読了した上での「感想のシェア」をメインに進めます。&lt;/p&gt;
-&lt;h2&gt;🏃 テコテック流・輪読会の進め方&lt;/h2&gt;
-&lt;p&gt;テコテックでは「アウトプットを通じた学び」を大切にしています。
-参考：&lt;a href="https://tec.tecotec.co.jp/entry/2024/10/18/090000" rel="nofollow"&gt;テコテック エンジニアブログ 「テコテック流 輪読会の進め方」&lt;/a&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;事前準備：&lt;/strong&gt; &lt;strong&gt;第1章「天才プログラマの神話」&lt;/strong&gt;を読んでくる。（必須）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;感想シェアタイム（メイン）：&lt;/strong&gt; 1人3〜5分程度で、「心に残ったフレーズ」「現場での悩み」「AI時代に感じること」などを自由に話します。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;フリーディスカッション：&lt;/strong&gt; 他の人の話を受けて気になったことを深掘りします。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;学びのアウトプット：&lt;/strong&gt; ハッシュタグ &lt;strong&gt;#テコテック輪読会&lt;/strong&gt; で、ベストな気づきをSNS等で発信しましょう！&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;👤 こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「最高のコード」の先にある、チームビルディングに興味がある方&lt;/li&gt;
-&lt;li&gt;HRT（謙虚・尊敬・信頼）の原則を現場でどう活かすか悩んでいる方&lt;/li&gt;
-&lt;li&gt;他社のエンジニアと現場のリアルな課題感を共有し、視点を広げたい方&lt;/li&gt;
-&lt;li&gt;「本を1人で読み切るのが苦手なので、1ヶ月後の目標が欲しい」という方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🏠 開催概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;会場：&lt;/strong&gt; オンライン（Google Meet 予定 ※URLは参加者に公開します）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;準備するもの：&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;対象書籍（お手元にご用意ください）&lt;/li&gt;
-&lt;li&gt;話したいポイントのメモ1つ（スライド作成などは一切不要です！）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📆 当日のタイムテーブル（20:00〜21:00）&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;th&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;20:00 - 20:10&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;イントロ &amp;amp; 自己紹介&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;本日の流れ説明と、簡単な自己紹介（普段の仕事内容など）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;20:10 - 20:40&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;感想シェアタイム&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;【メイン】&lt;/strong&gt; 1人3〜5分程度。用意したメモをもとに、「心に刺さったフレーズ」や「現場のリアル」をシェアします&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;20:40 - 20:55&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;フリーディスカッション&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;全体のシェアを受けて、気になったポイントを深掘り。悩み相談も歓迎です！&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;20:55 - 21:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;クロージング&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;#テコテック輪読会 での学びのアウトプット・次回案内&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!NOTE]
-※当日の議論の盛り上がりにより、終了時間が21:00を若干過ぎる場合がございます。お時間に制約がある方は、途中退席いただいても構いません。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🤝 参加ルールとマナー（HRTの実践）&lt;/h2&gt;
-&lt;p&gt;本勉強会は、参加者全員が心地よく学び、アウトプットできる場を目指しています。以下のガイドラインへの同意をお願いいたします。&lt;/p&gt;
-&lt;h3&gt;順守いただきたいルール&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;多様性の尊重：&lt;/strong&gt; 人種、性別、身体的特徴、政治、宗教などに関わる不適切な表現は、いかなる場合も容認されません。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;目的の遵守：&lt;/strong&gt; 本イベントは学びの共有を目的としています。趣旨に関係のない宣伝行為、過度な採用活動、ネットワーキングのみを目的とした参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ルール違反への対応：&lt;/strong&gt; 公序良俗に反する行為や、他の参加者の迷惑となる行為があった場合は、参加をお断りする場合がございます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;大切にしたいマナー&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ポジティブな発言：&lt;/strong&gt; 発表者や他の参加者の意見に対し、否定や嘲笑ではなく「提案と課題解決」の態度で向き合いましょう。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;HRTの実践：&lt;/strong&gt; 相手への&lt;strong&gt;「謙虚(Humility)・尊敬(Respect)・信頼(Trust)」&lt;/strong&gt;を根底に置いたコミュニケーションを心がけてください。あなたの前向きな発言が、イベントをより豊かにします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;主催者&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.tecotec.co.jp/" rel="nofollow"&gt;株式会社テコテック&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tecotec.connpass.com/event/383014/</guid><enclosure url="https://media.connpass.com/thumbs/79/bc/79bcb4650331d0c90b5e120450c25251.png" length="0" type="image/png"/><pubDate>Wed, 11 Mar 2026 18:31:34 +0900</pubDate></item><item><title>JAWS-UG さいたま支部 第15回勉強会〜re:Boot!!〜</title><link>https://jawsug-saitama.connpass.com/event/276699/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月29日(水) 7:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月29日(水) 9:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_saitama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるりとyoutubeで再開!! 〜サイタマ ユウチュウ部 オンライン勉強会β Vol.2〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JAWS-UG さいたま支部 第15回勉強会〜re:Boot!!〜&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://robosemi.github.io/" rel="nofollow"&gt;https://robosemi.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://robosemi.connpass.com/event/383476/</guid><enclosure url="https://media.connpass.com/thumbs/42/fe/42fe86b19851bf62358730989c195894.png" length="0" type="image/png"/><pubDate>Fri, 13 Mar 2026 20:07:40 +0900</pubDate></item><item><title>JAWS-UG さいたま支部 第15回勉強会〜re:Boot!!〜</title><link>https://jawsug-saitama.connpass.com/event/276699/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月29日(水) 7:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月29日(水) 9:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏢 住所: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_saitama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるりとyoutubeで再開!! 〜サイタマ ユウチュウ部 オンライン勉強会β Vol.2〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JAWS-UG さいたま支部 第15回勉強会〜re:Boot!!〜&lt;/h1&gt;
 &lt;h1&gt;開催情報&lt;/h1&gt;
 &lt;p&gt;2026/04/16 07:00&lt;/p&gt;
 &lt;h1&gt;参加費&lt;/h1&gt;
