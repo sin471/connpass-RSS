@@ -1,5 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 28 Mar 2026 15:22:45 +0000</lastBuildDate><item><title>Koboro.rb</title><link>https://connpass.com/event/389103/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 14:20&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 15:46&lt;/li&gt;&lt;li&gt;📍 会場: 小幌駅&lt;/li&gt;&lt;li&gt;🏢 住所: 小幌駅&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kobororb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本一の秘境駅「小幌駅」にRubyistで集まりましょう&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 29 Mar 2026 15:22:34 +0000</lastBuildDate><item><title>第４８回 CoderDojo江別</title><link>https://coderdojo-ebetsu.connpass.com/event/389128/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;スクラッチやマイクラなどで、大人も一緒に遊んでみよう。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo江別では&lt;/h1&gt;
+&lt;p&gt;楽しく、のんびりと、想像力を膨らませましょう。自分の作品を発表しましょう。
+スクラッチで自分の考えた「何か？」を描いてみましょう。
+不明点がありましたらお問い合わせくださいご説明いたします。&lt;/p&gt;
+&lt;h2&gt;今回のDOJOは&lt;/h2&gt;
+&lt;p&gt;今回も&lt;strong&gt;マイクラをマルチプレーヤー(3人以上)で遊びたい&lt;/strong&gt;と思っております。&lt;br&gt;
+魔法が作れる「&lt;a href="https://iron.wiki/" rel="nofollow"&gt;アイアンスペルズ&lt;/a&gt;」というMODを使用しています。&lt;/p&gt;
+&lt;p&gt;ゲームはサバイバルモードでプレイいたします。敵は強い者がおります。
+洞窟の探検などは、協力体制を組まないと難しいです。&lt;/p&gt;
+&lt;p&gt;そのため、ゲームではありますが「協力してサバイバルする」体験ができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【保護者の皆さんへ】&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近は、マイクラ(Java版)のマルチプレイが多くなっております。&lt;/p&gt;
+&lt;p&gt;ただし、製品版のゲームでなく、開発環境でのゲームプレイになりますので。&lt;br&gt;
+&lt;strong&gt;いくつかの試練&lt;/strong&gt;があります。&lt;br&gt;
+これは、親子で協力してやってもらうことになるかもしれません。&lt;/p&gt;
+&lt;p&gt;具体的には以下のようなことです。ちょっと本格的なモノですが、書き写しなので簡単にできます。
+ポイントは「自分でやった」という成功体験だと思っております。
+・Webサーバーへの接続確認
+・MODファイルのインストール
+・Gradleスクリプトの実装&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【自分のPCにインストール】&lt;/strong&gt;
+ご希望であれば、手持ちのPCへマイクラの開発環境をインストールするお手伝いをいたします。
+自分のPCなので、遊んだ後のデータを保持したままにできます。&lt;/p&gt;
+&lt;p&gt;【レンタルPCについて】 &lt;br&gt;
+1. 「PCなど持っていない」、「使えるPCがない」などありましたら、ぜひ、ご相談ください。
+古いPCなどを再利用する方法を知っております。そこらへんの情報を共有できます。
+そして、レンタル用のPCを６台ほど持っております。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://coderdojo.jp/kata#learn" rel="nofollow"&gt;スクラッチの参考資料&lt;/a&gt;をダウンロードできます。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;古いPCなどありましたら、それを持参ください。
+  そのPCを「Linux」という無料のOSで&lt;a href="https://youtu.be/iR3TTHHmj1U" rel="nofollow"&gt;再度使えるようにできます&lt;/a&gt;。
+  ただし、そのPCのデータなど保存していたものが全て消えてしまうので、データの退避などしておいてください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coder Dojoの「&lt;a href="https://coderdojo.jp/kata" rel="nofollow"&gt;Kata&lt;/a&gt;」がありますので、参考になるドキュメント(資料)をやってみるのも一つです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「Greenfoot」などやってみませんか？Javaというマインクラフトを作っているプログラミング言語です。「&lt;a href="https://www.greenfoot.org/scenarios/" rel="nofollow"&gt;人の作品を見てみよう&lt;/a&gt;」で作品が見れます。そして、使用している言語がJavaになります&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;１８歳以上のみなさんへ(大人を含む)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;メンター(ボランティア)を募集&lt;/strong&gt;しています。
+是非ご参加ください。プログラミング好きな大人がいますので、見分を広げる機会にできると思います。&lt;/p&gt;
+&lt;p&gt;昨今では、どの業界でも「サーバー」や「システム利用」ということが業務でも発生しております。
+Dojoでは、&lt;strong&gt;業務システムの基本となる「サーバー」と「クライアント」の関係を実体験として学ぶ事&lt;/strong&gt;ができます。&lt;/p&gt;
+&lt;p&gt;開発環境で遊べる場所(コミニティ)は、珍しいと思います。&lt;/p&gt;
+&lt;p&gt;是非ご協力のほどをお願いいたします。&lt;/p&gt;
+&lt;p&gt;一度イベントにご参加いただき、それからやる・やらないを決めるというのもよいと思っております。&lt;br&gt;
+※&lt;strong&gt;メンターには７０代の方もいらっしゃいます。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-ebetsu.connpass.com/event/389128/</guid><enclosure url="https://media.connpass.com/thumbs/a8/f4/a8f4dbdfbfa27aee3cf0bb522b83e03c.png" length="0" type="image/png"/><pubDate>Sun, 29 Mar 2026 08:18:03 +0900</pubDate></item><item><title>Hello Drink up at RubyKaigi 2026 Day1</title><link>https://helloinc.connpass.com/event/389120/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月22日(水) 21:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月22日(水) 23:30&lt;/li&gt;&lt;li&gt;📍 会場: いか清 大門店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒040-0063 北海道函館市若松町6-10&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #rubykaigi2026_hello&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Official Partyの余韻そのままに、もうひとつの交流の場を。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟 概要 / Overview&lt;/h1&gt;
+&lt;p&gt;HelloはRubyKaigi 2026のスポンサーです。&lt;/p&gt;
+&lt;p&gt;このたび、Day 1 Official Party後の二次会として、Drinkupイベントを開催します！&lt;/p&gt;
+&lt;p&gt;会場では、北海道・函館の魅力を存分に感じられる美食と地酒をご用意しています🦑🍶&lt;/p&gt;
+&lt;p&gt;ぜひこの機会に、Rubyistの皆さまとの交流をお楽しみください✨&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hello,Inc. is a sponsor of RubyKaigi 2026.&lt;/p&gt;
+&lt;p&gt;We are pleased to host a Drinkup event after the Day 1 Official Party!&lt;/p&gt;
+&lt;p&gt;At the venue, we’ll be serving gourmet cuisine and local sake that showcase the very best of Hakodate, Hokkaido🦑🍶&lt;/p&gt;
+&lt;p&gt;We hope you will enjoy this opportunity to connect with fellow Rubyists✨&lt;/p&gt;
+&lt;h1&gt;💰参加費 / Registration Fee&lt;/h1&gt;
+&lt;p&gt;無料 / Free&lt;/p&gt;
+&lt;h1&gt;📍会場 / Venue&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;いか清 大門&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;〒040-0063 北海道函館市若松町6-10&lt;/p&gt;
+&lt;p&gt;：函館国際ホテル（RubyKaigi 2026 Official Party会場）から徒歩9分&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Ikasei Daimon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;6-10 Wakamatsu-cho, Hakodate City, Hokkaido, Japan&lt;/p&gt;
+&lt;p&gt;：9-minute walk from Hakodate International Hotel (RubyKaigi 2026 Official Party Venue)&lt;/p&gt;
+&lt;h1&gt;🗓️日程 / Timetable&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2026/04/22 Wed&lt;/strong&gt;：RubyKaigi 2026 Day 1&lt;/p&gt;
+&lt;p&gt;※このスケジュールは仮のものであり、変更される場合があります。/ This schedule is subject to change.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;Time&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;21:15&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開場 / Door open!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;21:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;乾杯🍻 / Cheers!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;23:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;締め / L.O.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;24:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;また明日👋 / See you tomorrow!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;🛍️持ち物 / Things to bring&lt;/h1&gt;
+&lt;p&gt;RubyKaigi 2026の名札&lt;/p&gt;
+&lt;p&gt;ご来場の際にConnpassの参加票を確認しますので、当日はご提示いただけるようご準備をお願いします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;RubyKaigi 2026 name tag&lt;/p&gt;
+&lt;p&gt;We will check your Connpass registration ticket upon arrival, so please have it ready when you come to the event.&lt;/p&gt;
+&lt;h1&gt;👥参加者紹介 / Participant Introduction&lt;/h1&gt;
+&lt;h3&gt;みうp / miup &lt;a href="https://x.com/hello_miura_" rel="nofollow"&gt;@hello_miura_&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;元Cookpad新規事業テックリード。RespoのフロントエンドエンジニアとしてHelloへ。真っ白な大型犬サモエドを2頭育てている。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Former tech lead for a new business at Cookpad. Joined Hello as a frontend engineer for Respo. Raises two large, fluffy white Samoyeds.&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;satoakick &lt;a href="https://x.com/satoakick/" rel="nofollow"&gt;@satoakick&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;プログラミングは新卒からで、Rubyは1.9からのお付き合い。RespoのバックエンドエンジニアとしてHelloへ。趣味はサッカー観戦(フロンターレ個人会員)。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Started programming as a new graduate and has been working with Ruby since version 1.9. Joined Hello as a backend engineer for Respo. Enjoys watching soccer and is an individual member of Frontale.&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;もってい / mottei &lt;a href="https://x.com/mottei_0702/" rel="nofollow"&gt;@mottei_0702&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AutoReserveのバックエンドエンジニア。エンジニア歴は5年程、RDBMSがちょっとだけ得意。ポケモンが好きで、最近はぽこあポケモンに生活を破壊されている。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Backend engineer for AutoReserve. Has around five years of engineering experience and is somewhat skilled with RDBMS. Loves Pokémon, and lately their life has been delightfully taken over by PokéPoko Pokémon.&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;鶴ちゃん / Tsuru-chan &lt;a href="https://x.com/_036shinyaa/" rel="nofollow"&gt;@_036shinyaa&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;営業、PdM、新サービス立ち上げまで幅広い経験を持つPM。AutoReserveとRespoの両プロダクトに関わり、Respoのセールスチームを取りまとめる。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;A PM with broad experience spanning sales, product management, and launching new services. Works across both AutoReserve and Respo, while also leading the Respo sales team.&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;ゆーか / Yuka&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;約3年間、WEB広告の代理店で営業を経験。その後、RespoのセールスとしてHelloへ。旅行や読書、飲食店巡りが趣味。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Worked in sales at a web advertising agency for about three years before joining Hello as a sales member for Respo. Enjoys traveling, reading, and exploring restaurants.&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;あいちゃん / ai-chan &lt;a href="https://x.com/ai_chan_17/" rel="nofollow"&gt;@ai_chan_17&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;新卒で野村證券に入社。Helloでは元々Respoのカスタマーサクセスを経験し、現在はAutoReserveのマーケティングと広報PRを兼任。美食とお酒が大好き。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Joined Nomura Securities as a new graduate. At Hello, first worked in customer success for Respo and now handles both marketing and PR for AutoReserve. Loves fine food and good drinks.&lt;/code&gt;&lt;/p&gt;
+&lt;h1&gt;⚠️注意事項 / Notes&lt;/h1&gt;
+&lt;p&gt;・Exhibitor チケットの方の参加はご遠慮ください。&lt;/p&gt;
+&lt;p&gt;・ご都合により参加できなくなった場合は、できるだけ早めに参加登録のキャンセルをお願いいたします。&lt;/p&gt;
+&lt;p&gt;・本イベントのプログラムおよびタイムテーブルは、予告なく変更となる場合があります。&lt;/p&gt;
+&lt;p&gt;・当日の様子を撮影した写真やイベントレポートは、後日弊社のテックブログやその他の媒体でご紹介させていただく場合があります。&lt;/p&gt;
+&lt;p&gt;・会場ではRubyKaigiの&lt;a href="https://rubykaigi.org/2026/policies/" rel="nofollow"&gt;ポリシー&lt;/a&gt;に沿って適切に行動し、イベントをお楽しみください。運営が参加にふさわしくないと判断した場合には、退場をお願いすることがあります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;・Please note that Exhibitor ticket holders are not eligible for this event.&lt;/p&gt;
+&lt;p&gt;・If you are unable to attend, please cancel your registration as soon as possible.&lt;/p&gt;
+&lt;p&gt;・The program and timetable of this event are subject to change without prior notice.&lt;/p&gt;
+&lt;p&gt;・We may share photos and reports of the Drink Up event on our tech blog or other media later.&lt;/p&gt;
+&lt;p&gt;・Please behave appropriately in accordance with RubyKaigi's &lt;a href="https://rubykaigi.org/2026/policies/" rel="nofollow"&gt;Policies&lt;/a&gt; and have a good time at the venue. Those who are deemed by the management to be inappropriate for participation in the event may be asked to leave the venue.&lt;/p&gt;
+&lt;h1&gt;🚨個人情報の取り扱い / Handling of Personal Information&lt;/h1&gt;
+&lt;p&gt;イベント参加時にご提供いただく情報は、以下に従い適切に取り扱います。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hello.ai/ja/privacy" rel="nofollow"&gt;プライバシーポリシー&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The information you provide when attending the event will be handled appropriately in accordance with the following:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hello.ai/en/privacy" rel="nofollow"&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;🍴主催・運営 / Organizer&lt;/h1&gt;
+&lt;h3&gt;&lt;strong&gt;&lt;a href="https://www.hello.ai/" rel="nofollow"&gt;Hello, Inc.&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;株式会社ハローは、急成長を続けるグローバルなAIによるレストラン予約サービス「AutoReserve」、飲食店向けオールインワンクラウド「Respo」、そしてカスタマーサポートの課題を革新的に解決するAIサービス「HelloX」を開発するテクノロジー企業です。&lt;/p&gt;
+&lt;p&gt;まだ世の中にないものを生み出すという信念のもと、ハローは未来を形づくるプロダクトを創造しています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hello, Inc. is a technology company developing the rapidly growing global AI-powered restaurant reservation service AutoReserve, the all-in-one restaurant cloud Respo, and the AI service HelloX, which magically solves customer support challenges. &lt;/p&gt;
+&lt;p&gt;Guided by a belief in creating what does not yet exist, Hello builds products that shape the future.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://helloinc.connpass.com/event/389120/</guid><enclosure url="https://media.connpass.com/thumbs/db/15/db15a37f6816d226778484cdda7978f7.png" length="0" type="image/png"/><pubDate>Sun, 29 Mar 2026 22:50:09 +0900</pubDate></item><item><title>Koboro.rb</title><link>https://connpass.com/event/389103/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 14:20&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 15:46&lt;/li&gt;&lt;li&gt;📍 会場: 小幌駅&lt;/li&gt;&lt;li&gt;🏢 住所: 小幌駅&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kobororb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本一の秘境駅「小幌駅」にRubyistで集まりましょう&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;Koboro.rb とは、史上最も人の少ない土地（無住地）で開催される地域.rbです。&lt;/p&gt;
 &lt;p&gt;RubyKaigi 2026のDay4に、日本一の秘境駅「&lt;a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B9%8C%E9%A7%85" rel="nofollow"&gt;小幌駅&lt;/a&gt;」にRubyistで集まる、ただそれだけのイベントとなります。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;鉄道（と船舶）以外での到達は原則不可能&lt;/strong&gt;な秘境の地で、静かに技術に思いを馳せましょう。&lt;/p&gt;
@@ -1763,28 +1912,7 @@ Drinks are all-inclusive, with a special selection of sake hand-picked by our te
 &lt;p&gt;&lt;a href="https://corp.netprotections.com/" rel="nofollow"&gt;https://corp.netprotections.com/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;🔍 エンジニア採用情報はこちら / Engineer job openings:&lt;br&gt;
-&lt;a href="https://hrmos.co/pages/netprotections/jobs?category=2224669944269824001,2224669944269824002,2224669944269824003" rel="nofollow"&gt;https://hrmos.co/pages/netprotections/jobs&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://netprotections.connpass.com/event/386654/</guid><enclosure url="https://media.connpass.com/thumbs/9a/26/9a268f9eb77d649df52eb9ae91136af0.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 09:57:06 +0900</pubDate></item><item><title>FuraIT #61  年度末だ。春の富良野で集まろう！</title><link>https://furait.connpass.com/event/386548/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #furait&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;3月最後の日曜日。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;テーマ：型にハマらず、ジャンル問わず！&lt;/h2&gt;
-&lt;p&gt;久しぶりに勉強会を開催します。
-皆さんお持ちのネタをぜひ発表してください❗
-発表の時間は15-30分。
-日々の知見を教えてください！&lt;/p&gt;
-&lt;p&gt;今年のTechRAMENは富良野開催！
-その会場となる建物で今回の勉強会をやります。
-下見を兼ねて富良野に遊びに来てください💡&lt;/p&gt;
-&lt;p&gt;3階にはドミトリーもあるので前泊も後泊も可能🉑&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加費 : 500円（学生無料）&lt;/li&gt;
-&lt;li&gt;開場: 13時00分　&lt;/li&gt;
-&lt;li&gt;開始: 13時30分&lt;/li&gt;
-&lt;li&gt;終了: 17時00分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;*もちろん懇親会もやります。
-　みんなでワイワイ！やるぞ！
-　懇親会は会場は同じで会費は2,000円以内でなにか食べ物を用意します。
-　飲み物は各自でお願いします。&lt;/p&gt;
-&lt;h3&gt;お問い合わせ&lt;/h3&gt;
-&lt;p&gt;お困りのことがありましたら気軽に以下のいずれかにご連絡願います。&lt;br&gt;
-Twitter &amp;gt;&amp;gt; @kobutorigattu もしくは mail &amp;gt;&amp;gt; hazime27.t @ &lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://furait.connpass.com/event/386548/</guid><enclosure url="https://media.connpass.com/thumbs/72/b3/72b3f4a97cf2566adff46bd60e056ffe.png" length="0" type="image/png"/><pubDate>Wed, 04 Mar 2026 09:45:41 +0900</pubDate></item><item><title>IVRy Climbing &amp; Drinkup at RubyKaigi 2026</title><link>https://ivry.connpass.com/event/386477/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 18:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 函館アリーナ&lt;/li&gt;&lt;li&gt;🏢 住所: 函館市湯川町1-32-2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #rubykaigi2026_ivry&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;IVRy Climbing &amp;amp; Drinkup at RubyKaigi 2026 🧗🍻&lt;/h1&gt;
+&lt;a href="https://hrmos.co/pages/netprotections/jobs?category=2224669944269824001,2224669944269824002,2224669944269824003" rel="nofollow"&gt;https://hrmos.co/pages/netprotections/jobs&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://netprotections.connpass.com/event/386654/</guid><enclosure url="https://media.connpass.com/thumbs/9a/26/9a268f9eb77d649df52eb9ae91136af0.png" length="0" type="image/png"/><pubDate>Wed, 25 Mar 2026 09:57:06 +0900</pubDate></item><item><title>IVRy Climbing &amp; Drinkup at RubyKaigi 2026</title><link>https://ivry.connpass.com/event/386477/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月23日(木) 18:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月23日(木) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 函館アリーナ&lt;/li&gt;&lt;li&gt;🏢 住所: 函館市湯川町1-32-2&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #rubykaigi2026_ivry&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;IVRy Climbing &amp;amp; Drinkup at RubyKaigi 2026 🧗🍻&lt;/h1&gt;
 &lt;p&gt;IVRy is hosting a climbing and drinkup event after Day 2!&lt;br&gt;
 We've booked a bouldering gym and a restaurant for an evening of fun and networking with fellow attendees. We'll also provide a shuttle bus for the gym and the drinkup venue. The bus to the gym will depart from RubyKaigi 2026 venue.&lt;/p&gt;
 &lt;p&gt;IVRy は Day 2 終了後にクライミングとドリンクアップのイベントを開催します！&lt;br&gt;
@@ -2282,81 +2410,4 @@ AWS初心者LT会in札幌運営&lt;br&gt;
 &lt;li&gt;&lt;strong&gt;公序良俗の遵守&lt;/strong&gt;: すべての参加者は、公共の場にふさわしい行動を心がけてください。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;主催者の権限&lt;/strong&gt;: 参加者の行動が他者に不快感を与えると主催者が判断した場合、該当者は退室していただくことがあります。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;緊急連絡先&lt;/strong&gt;: イベント中に何か問題があった場合は、事前に提供される緊急連絡先へご連絡をお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tamesaredatahokkaido.connpass.com/event/385344/</guid><enclosure url="https://media.connpass.com/thumbs/0c/b1/0cb19dbceb98880e46a65a025e55ec01.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:29:22 +0900</pubDate></item><item><title>AIまつり 2026夏</title><link>https://sapporo-sugoi-ai.connpass.com/event/384273/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Deep Tech CORE SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北５条西５丁目１−5 JR55SAPPOROビル　8F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※詳細は後で作ります！&lt;/p&gt;&lt;div&gt;&lt;p&gt;※詳細は後で更新します！！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/384273/</guid><pubDate>Mon, 09 Feb 2026 21:22:50 +0900</pubDate></item><item><title>CoderDojo恵庭 第125回(Re.)</title><link>https://connpass.com/event/381148/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 多目的スペース JUNCTION 2階（ノバス様事業所）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道恵庭市島松寿町1-28-10&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 恵庭 開催のお知らせ&lt;/h1&gt;
-&lt;p&gt;CoderDojo恵庭を開催します。 ぜひみなさん、ふるってご参加ください。&lt;/p&gt;
-&lt;h2&gt;詳細&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;参加費：無料&lt;/li&gt;
-&lt;li&gt;Wi-Fi：あり（施設のフリーWi-Fiを利用します）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;お申し込み&lt;/h2&gt;
-&lt;p&gt;connpassは開催告知のみとなり、参加受付はGoogleフォームからとなります。 （ご兄弟などでの参加で、メールアドレスを用意できない場合があるため） ご協力のほどお願いいたします。&lt;/p&gt;
-&lt;p&gt;なお会場や機材の関係で、参加希望多数の場合、お申し込みをキャンセルさせていただく場合があります。 ご了承ください。&lt;/p&gt;
-&lt;h2&gt;当日の流れ&lt;/h2&gt;
-&lt;p&gt;モノづくりの時間と発表の時間があります。
-モノづくりの時間には、プログラムや工作を楽しみましょう！ 自分の興味のある教材などをもってきて、やってみるのもOKです。興味のあることを調べたり、ゲームで遊んでもOK！&lt;/p&gt;
-&lt;p&gt;発表の時間では、一人3分までの持ち時間で「今日とりくんだこと」をテーマに発表してもらいます。（希望者のみ）
-会場でつくったもの、家で作ってきたものなど、発表内容はどんなことでもOK！ ひとことだけでも、参加した人たちに伝えてみよう！&lt;/p&gt;
-&lt;p&gt;Ninja、メンター、保護者の方、どなたでも発表することができます。（発表は希望者のみです）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;LEGO WeDo あります！&lt;/li&gt;
-&lt;li&gt;グラビトラックス あります！（&lt;a href="https://gravitrax-jp.com/）" rel="nofollow"&gt;https://gravitrax-jp.com/）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;3Dプリンタ あります！3Dモデリングの体験もできます！&lt;/li&gt;
-&lt;li&gt;arduino uno あります&lt;/li&gt;
-&lt;li&gt;ニャイスコードあります！（&lt;a href="https://www.nyaicecode.net/）" rel="nofollow"&gt;https://www.nyaicecode.net/）&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align="left"&gt;時間&lt;/th&gt;
-&lt;th align="left"&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;9:30&lt;/td&gt;
-&lt;td align="left"&gt;集合・自己紹介・順次開始（モノづくりタイム）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;11:30&lt;/td&gt;
-&lt;td align="left"&gt;発表タイム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;11:50&lt;/td&gt;
-&lt;td align="left"&gt;片付け開始&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;12:00&lt;/td&gt;
-&lt;td align="left"&gt;終了&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※ 内容によって、多少変更する場合があります&lt;/p&gt;
-&lt;h2&gt;お申し込み&lt;/h2&gt;
-&lt;p&gt;以下のリンクの、申し込みフォームからお申し込みください。 &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeCYWfwvH88Lha3hIONAvgvMyEfrSKR_7mRo3wE07gnyd2T_A/viewform" rel="nofollow"&gt;https://docs.google.com/forms/d/e/1FAIpQLSeCYWfwvH88Lha3hIONAvgvMyEfrSKR_7mRo3wE07gnyd2T_A/viewform&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;※ 参加者多数の場合は、参加人数を制限させていただく場合があります。ご了承ください。&lt;/p&gt;
-&lt;h2&gt;お問い合わせ&lt;/h2&gt;
-&lt;p&gt;お問い合わせはチャンピオン（主宰）工藤まで、ご連絡ください。
-メールアドレス： coderdojoeniwa@gmail.com&lt;/p&gt;
-&lt;h1&gt;CoderDojo について&lt;/h1&gt;
-&lt;h2&gt;CoderDojo 憲章&lt;/h2&gt;
-&lt;p&gt;是非ご一読ください &lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;https://coderdojo.jp/charter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CoderDojoは保護者の積極的な参加を推奨しています。お子さんや他のNinjaと一緒に、プログラミングやものづくりに是非挑戦してみてください。 &lt;/p&gt;
-&lt;h2&gt;CoderDojoとは&lt;/h2&gt;
-&lt;p&gt;CoderDojo は、7〜17歳を対象とした非営利のプログラミング道場です。2011年にアイルランドから始まり、世界では112カ国・2,200以上の道場、日本には218以上の道場があります。CoderDojo は全国各地で定期的に開催されており、延べ10,000人以上の子ども達が毎年楽しみながら様々な作品を創っています。&lt;/p&gt;
-&lt;p&gt;詳しくはこちら &lt;a href="https://coderdojo.jp/kata#coderdojo" rel="nofollow"&gt;https://coderdojo.jp/kata#coderdojo&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;CoderDojo 恵庭について&lt;/h2&gt;
-&lt;p&gt;CoderDojo 恵庭は無料のプログラミングクラブです。
-主にScratchやMinecraftをつかって、プログラミングやモノづくりを楽しんでいます。&lt;/p&gt;
-&lt;p&gt;最近では、3Dモデリングなどもやっています。3Dプリンタもあるので、自分でデザインしたモデルを3Dプリンタで出力することもできますよ！&lt;/p&gt;
-&lt;p&gt;やってみたいことを教えてください！チャンピオン（主宰）やメンター、Ninjaのみんなが、きっと一緒に考えてくれます！&lt;/p&gt;
-&lt;h2&gt;チャンピオンからのメッセージ&lt;/h2&gt;
-&lt;p&gt;CoderDojoは相互に学びあう場です。&lt;/p&gt;
-&lt;p&gt;おとな、こどもの年齢や、それぞれの立場をも超えて、フラットにお互いをリスペクトしながら学ぶ場として運営することを常に模索しています。
-保護者、メンター、Ninjaのみんなで、楽しいCoderDojoを運営していきましょう。&lt;/p&gt;
-&lt;p&gt;保護者の方にはNinjaのやりたいことを尊重し、できなかったことができるようになる、学びや想像の楽しさを一緒に感じてほしいと願っています。&lt;/p&gt;
-&lt;p&gt;CoderDojo恵庭では「やりたいこと」が遊びであっても否定しません。できればCoderDojoでは、プログラミングやものづくりといった創作に触れてほしいと願っていますが、CoderDojoではNinjaの自主性を尊重し、基本的にはNinjaのやりたいことをやってもらいます。チャンピオンやメンターはそのお手伝いをする役割です。&lt;/p&gt;
-&lt;p&gt;保護者の皆様にも、CoderDojoの目指すものにぜひご賛同いただき、参加・サポートしていただけると幸いです。&lt;/p&gt;
-&lt;h2&gt;メンター募集中&lt;/h2&gt;
-&lt;p&gt;メンターとしての参加をお待ちしています。 メンターになるための資格は、特に必要ありません。 保護者の方も、参加者あるいはメンターとして活躍してみませんか！？ メンター希望の方で移動手段がない場合は、ご相談ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/381148/</guid><pubDate>Sun, 08 Mar 2026 23:31:24 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tamesaredatahokkaido.connpass.com/event/385344/</guid><enclosure url="https://media.connpass.com/thumbs/0c/b1/0cb19dbceb98880e46a65a025e55ec01.png" length="0" type="image/png"/><pubDate>Tue, 24 Mar 2026 19:29:22 +0900</pubDate></item><item><title>AIまつり 2026夏</title><link>https://sapporo-sugoi-ai.connpass.com/event/384273/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Deep Tech CORE SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北５条西５丁目１−5 JR55SAPPOROビル　8F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※詳細は後で作ります！&lt;/p&gt;&lt;div&gt;&lt;p&gt;※詳細は後で更新します！！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/384273/</guid><pubDate>Mon, 09 Feb 2026 21:22:50 +0900</pubDate></item></channel></rss>

@@ -1,5 +1,191 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 28 Mar 2026 15:23:59 +0000</lastBuildDate><item><title>The Vibe Shift - Gemini時代における「ものづくり」Watch Party</title><link>https://gdgoc-kobe-univ.connpass.com/event/389049/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月4日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月4日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Google AI Dojo とは&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 29 Mar 2026 15:23:55 +0000</lastBuildDate><item><title>#4 凡人の、凡人による、凡人のための、AI駆動。</title><link>https://connpass.com/event/389173/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月4日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月4日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ただ、これが全てではない。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
+&lt;h2&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h2&gt;
+&lt;h2&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;今回のマイテーマ&lt;/h2&gt;
+&lt;p&gt;「理想的なOpenClaw環境を構築する」&lt;/p&gt;
+&lt;h1&gt;指定書とは&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;限りなく強く以下指定書を持参することをお勧めします.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「イシューからはじめよ」 &lt;a href="https://amzn.asia/d/02kzvdQU" rel="nofollow"&gt;https://amzn.asia/d/02kzvdQU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;著者の主張雑感&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G" rel="nofollow"&gt;https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5" rel="nofollow"&gt;https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HEZW_GbY0Ig" rel="nofollow"&gt;https://www.youtube.com/watch?v=HEZW_GbY0Ig&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E" rel="nofollow"&gt;https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;何かしらの自然言語が喋れる（英語、日本語、中国語...）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Google アカウントを持っている＆共有できる&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ノートパソコンを持参できる（iapd + keyboard でもいいかも...）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://chatgpt.com/codex?app-landing-page=true" rel="nofollow"&gt;https://chatgpt.com/codex?app-landing-page=true&lt;/a&gt; を事前インストールしていると好ましい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;https://antigravity.google/ を事前インストールしていると好ましい&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;antigravity が難しいと判断した人は &lt;a href="https://aistudio.google.com/" rel="nofollow"&gt;https://aistudio.google.com/&lt;/a&gt; を使ってバイブコーディングにトライしましょう&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;なんとなく作ってみたいアプリ・ツール・サービス...etc がある&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新しく作ることはハードルが高いので、今あなたの目の前（頭の中）の課題を潰す＝余裕時間を作るということも大切です&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仕事などで繰り返し発生する退屈な作業潰しでもよいかも&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全体として Google系サービスを中心に使用しますが、他のツールやサービスもおおよそ使っているので、各個人お好みのものをお使いください&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;p&gt;17:30 開場(セットアップ)&lt;/p&gt;
+&lt;p&gt;18:00 はじめに&lt;/p&gt;
+&lt;p&gt;18:15 実装開始 &lt;/p&gt;
+&lt;p&gt;20:15 実装終了・生成物で雑談&lt;/p&gt;
+&lt;p&gt;20:30 おわりに&lt;/p&gt;
+&lt;p&gt;20:45 撤収&lt;/p&gt;
+&lt;h1&gt;最近のAI界隈の情報など・予備知識動画&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;https://labs.google/flow/tv/channel/listen-closely/QpjaV7vriVb25FoypAZd?random=true  &lt;/li&gt;
+&lt;li&gt;https://labs.google/fx/ja/tools/whisk/[...catchAll]  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/YamayaT/status/2024001469934895481" rel="nofollow"&gt;https://x.com/YamayaT/status/2024001469934895481&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF" rel="nofollow"&gt;https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/Algomatic_AILab/status/2023685630405103627" rel="nofollow"&gt;https://x.com/Algomatic_AILab/status/2023685630405103627&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tkzwgrs/status/2014163608121585807" rel="nofollow"&gt;https://x.com/tkzwgrs/status/2014163608121585807&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;キーワード&lt;/h1&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google Gemini App / Live
+Google Stitch
+Google Jules
+Google Antigravity
+Google AI Studio
+Firebase Studio
+Gemini CLI
+---
+Google Workspace Studio
+Google Vids
+NotebookLM
+Project Opal
+Flow
+Whisk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;codex app&lt;/h2&gt;
+&lt;p&gt;openclaw
+nemoclaw
+moltbook
+rentahuman&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;superpowers
+conductor
+sisyphus
+everything-claude-code&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;symphony&lt;/p&gt;
+&lt;h1&gt;codex5.4 #copus4.6 #gemini3.1 #仕様駆動開発&lt;/h1&gt;
+&lt;h1&gt;架空のお題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;SEOツールを作ろう -&amp;gt; キーワード取得やランキング変動やら&lt;/li&gt;
+&lt;li&gt;体育館空き状況 確認便利ツールを作ろう&lt;/li&gt;
+&lt;li&gt;自動予約もできるようにしよう&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/389173/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Sun, 29 Mar 2026 20:02:52 +0900</pubDate></item><item><title>新入生大歓迎！Gemini時代における「ものづくり」</title><link>https://gdgoc-kobe-univ.connpass.com/event/389049/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月4日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月4日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;Google AI Dojo をみんなで視聴しながら学ぶ Watch Party を開催します！ 🚀&lt;/p&gt;
+&lt;p&gt;Google AI Dojo は、開発者向けに Google AI の最新イノベーションや活用方法を学べる AI ラボシリーズです。
+生成 AI の基礎から、AI エージェント、Vibe Coding、Google Cloud との連携まで、幅広いテーマを扱っており、これから AI を学びたい方にも、実際の開発に取り入れたい方にも役立つ内容になっています。&lt;/p&gt;
+&lt;p&gt;今回のイベントは、Google AI Dojo の対象セッションを 参加者同士で一緒に視聴し、学び合う Watch Party 形式 で実施します。
+ひとりで視聴するのではなく、同じテーマに興味を持つ参加者と場を共有しながら学べるため、内容を理解しやすく、モチベーションも高めやすいのが特徴です。&lt;/p&gt;
+&lt;p&gt;さらに、&lt;strong&gt;当日はケータリングもご用意しています！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;軽食を楽しみながら、参加者同士で気軽に交流できる場としても楽しんでいただけます。学びだけでなく、AI や開発に興味のある仲間とつながれるのも Watch Party ならではの魅力です。&lt;/p&gt;
+&lt;p&gt;今回扱うテーマは以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google AI Studio&lt;/strong&gt;&lt;br&gt;
+DeepMind の最新モデルを試しながら、生成 AI の基本的な使い方や可能性を学びます。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jules&lt;/strong&gt;&lt;br&gt;
+バックグラウンドでタスクを実行させる設定を学び、より創造的な作業に集中できる開発スタイルを体験します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI やエージェント開発に興味はあるけれど、何から始めればよいか分からない方、最新の Google AI ツールを実際に見ながら理解したい方におすすめです。
+Watch Party なので、ひとりで参加するのが不安な方でも気軽に参加しやすいイベントです。&lt;/p&gt;
+&lt;h2&gt;⏰ タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;セッション&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;スピーカー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;17:30 ~ 18:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Opening&lt;br&gt;ハンズオン準備&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;18:00 ~ 20:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Watch Party&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Juyoeng 氏&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:00 ~ 21:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;懇親会&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;🗓️ 開催概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;項目&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;2026年4月4日 (日) 17:30 - 21:00&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;OPTiM Club KOBE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;無料&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Google AI Dojo とは&lt;/h2&gt;
 &lt;p&gt;Google AI Dojoでスキルアップ！ 🚀
 Google AI Dojoは、開発者の皆さまにGoogle AIの最新イノベーションを紹介し、既存のワークフローやアプリケーションへの統合を支援するために設計されたAIラボシリーズです。&lt;/p&gt;
 &lt;p&gt;本プログラムは四半期ごとに開催され、1セッションにつき3〜5つのラボが実施されます。あらゆるスキルレベルに対応するため、ラボは以下の3つのティアに分類されています。&lt;/p&gt;
@@ -43,7 +229,26 @@ Google AI Dojoは、開発者の皆さまにGoogle AIの最新イノベーショ
 &lt;li&gt;本イベントはオンラインのハンズオンセッションです&lt;/li&gt;
 &lt;li&gt;オンライン参加方法は参加登録後にご案内します&lt;/li&gt;
 &lt;li&gt;本イベントの撮影・録画は NG です&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgoc-kobe-univ.connpass.com/event/389049/</guid><pubDate>Sat, 28 Mar 2026 23:08:14 +0900</pubDate></item><item><title>Tech Salon #3: 技術関連の気になる話題をもちよる会</title><link>https://math-coding.connpass.com/event/388780/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LLM、AI Agent、ロボット、エッジ、機械学習から型理論、インフラ、フロントエンドまで幅広く&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Tech Salon（テック・サロン）とは&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🤝 主催&lt;/h2&gt;
+&lt;h3&gt;GDGoC Kobe University (Google Developer Group on Campus Kobe University)&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://x.com/gdgoc_kobe_univ" rel="nofollow"&gt;X: @gdgoc_kobe_univ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gdg.community.dev/gdg-on-campus-kobe-university-kobe-japan/" rel="nofollow"&gt;GDG on Campus Kobe University - Kobe, Japan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GDGoC Kobe University は、神戸大学を中心に活動するエンジニア・クリエイターコミュニティです。
+「技術」をキーワードに、学部や学年を超えて学生と社会人が共に学び、繋がる場所を目指しています。AI、Cloud Computing、Web技術などに興味がある人は誰でも歓迎です！&lt;/p&gt;
+&lt;h2&gt;🤝 協力&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.optim.co.jp/" rel="nofollow"&gt;株式会社 OPTiM&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OPTiM は、AI・IoT技術を活用し、農業・医療・建設など様々な産業のDX（デジタルトランスフォーメーション）を推進するIT企業です。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;コミュニティ規約&lt;/h2&gt;
+&lt;p&gt;本イベントの参加にあたりましては、Google Developers が定めるコミュニティガイドライン、およびアンチハラスメントポリシーの遵守をお願いいたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/preview?tab=t.0#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;Code of Conduct (JP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://support.google.com/developergroups/answer/3340512?hl=en" rel="nofollow"&gt;Code of Conduct (EN)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgoc-kobe-univ.connpass.com/event/389049/</guid><pubDate>Sun, 29 Mar 2026 03:45:44 +0900</pubDate></item><item><title>Tech Salon #3: 技術関連の気になる話題をもちよる会</title><link>https://math-coding.connpass.com/event/388780/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LLM、AI Agent、ロボット、エッジ、機械学習から型理論、インフラ、フロントエンドまで幅広く&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Tech Salon（テック・サロン）とは&lt;/h2&gt;
 &lt;p&gt;Tech Salon は、技術に関心のある人たちが集まり、&lt;br&gt;
 &lt;strong&gt;気になっている技術トピックを持ち寄って語り合う対話型の場&lt;/strong&gt;です。&lt;/p&gt;
 &lt;p&gt;LLM、AI Agent、ロボット、エッジコンピューティング、&lt;br&gt;
@@ -1060,99 +1265,7 @@ Web Components API を理解するための勉強会をやります！&lt;br&gt;
 &lt;li&gt;荒らし行為&lt;/li&gt;
 &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobe-sannomiya-dev.connpass.com/event/385599/</guid><enclosure url="https://media.connpass.com/thumbs/c1/76/c176ec22d446352e2fcd428cb539e7e4.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 13:01:12 +0900</pubDate></item><item><title>第29回 CoderDojo西神</title><link>https://coderdojoseishin.connpass.com/event/384893/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月29日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月29日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;神戸市 令和7年度地域貢献活動補助金 採択事業&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
-&lt;p&gt;こどものための無料のプログラミング道場「CoderDojo」を神戸市西区の学園都市で開催します。
-6歳から18歳までの小学生〜高校生・高専生が対象となります。参加費は無料です。
-貸し出し用のパソコンもありますので、パソコンをお持ちでない方も遠慮なくご参加下さい。&lt;/p&gt;
-&lt;p&gt;※12歳以下の小学生はなるべく保護者の方がご同席下さい。 (ご同席は必須ではありません)&lt;/p&gt;
-&lt;h2&gt;FPVドローン&lt;/h2&gt;
-&lt;p&gt;FPVドローンは、一人称 (自分の目で見たように見える) 視点で操作できるドローンです。
-一般的なドローンは、ドローンが飛んでいるところを眺めながら操作しますが、
-PFVドローンはまるで自分がドローンに乗っているかのような感覚で操作できます。&lt;/p&gt;
-&lt;p&gt;FPVドローンの操作 (動画の送信) にはアマチュア無線の免許が必要ですが、
-CoderDojo西神では免許がなくても体験運用することができます。&lt;/p&gt;
-&lt;h1&gt;コベカツクラブ登録団体です&lt;/h1&gt;
-&lt;p&gt;CoderDojo西神は、神戸市立中学校の部活動の地域移行の受け皿となるコベカツクラブにプログラミング分野で登録されました。コベカツとして参加する前に、CoderDojo西神がどのような活動をしているか体験するために、参加あるいは見学して頂くのも歓迎します。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://coderdojoseishin.connpass.com/event/378433/" rel="nofollow"&gt;コベカツクラブ活動紹介 CoderDojo西神&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;※部活動の地域移行後もCoderDojo西神は無料です。安心してご参加下さい。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;神戸市の助成金を受けて活動しています&lt;/h2&gt;
-&lt;p&gt;前年度（「地域課題に取り組むNPO等補助金」）に続き、今年も神戸市の「地域貢献活動助成金」に採択されました。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.city.kobe.lg.jp/a52374/sankakusuisin/hojyokinsien.html#chiikikadai_hojokin" rel="nofollow"&gt;https://www.city.kobe.lg.jp/a52374/sankakusuisin/hojyokinsien.html#chiikikadai_hojokin&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;タイムテーブル&lt;/h1&gt;
-&lt;p&gt;下記のようなタイムテーブルに従って開催する予定です。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;09:30〜 受付&lt;/li&gt;
-&lt;li&gt;09:40〜10:00 初回参加者向けオリエンテーション・説明&lt;/li&gt;
-&lt;li&gt;10:00〜11:15 学習・PFVドローン体験&lt;/li&gt;
-&lt;li&gt;11:15〜11:30 発表・交流&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;サポートする内容&lt;/h1&gt;
-&lt;p&gt;プログラミングを始めたいけど何から手を付ければいいか分からない、
-プログラミング関連の進路を志望しているけど何すればいいか分からない、
-という感じで足踏みしてしまっている方だけでなく、
-プログラミングを独学してるけど行き詰まった、
-Scratch以外のプログラミングにも挑戦してみたいなど、
-次の一歩を踏み出したい方は是非ともご参加下さい。&lt;/p&gt;
-&lt;p&gt;CoderDojoは、参加者(ニンジャと呼びます)の学びたいこと、実現したいことのお手伝いをします。
-CoderDojo西神では、例えば以下のような内容をサポートしています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;教育版マイクラでプログラミング&lt;/li&gt;
-&lt;li&gt;Scratchでアクションゲームを作ってみる&lt;/li&gt;
-&lt;li&gt;Scratchから次の一歩を踏み出したい&lt;/li&gt;
-&lt;li&gt;マイコンプログラミングに挑戦したい&lt;/li&gt;
-&lt;li&gt;Pythonプログラミング入門&lt;/li&gt;
-&lt;li&gt;JavaScriptプログラミング入門&lt;/li&gt;
-&lt;li&gt;Unityで3D/2Dゲームプログラミング入門&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;上記はごく一部の例です。もちろん上記以外の内容にも対応しますので、遠慮なくご相談下さい。&lt;/p&gt;
-&lt;p&gt;また、プログラミングをしてみたいけど具体的にやってみたいことが分からないという場合も相談にのります。
-まずは一度ご参加下さい！&lt;/p&gt;
-&lt;h1&gt;機材・教材&lt;/h1&gt;
-&lt;p&gt;ノートパソコンをお持ちの方はご持参下さい。電源コンセントは会場にあります。
-パソコンをお持ちでない方のために、SSDで高速化したRaspberry Pi 5を複数台、WindowsノートPCを複数台、WindowsミニPCを1台、用意しています。&lt;/p&gt;
-&lt;p&gt;教材・参考となる図書も可能な範囲で用意します。
-学習したい内容を事前にご連絡頂ければ、ご要望に沿った書籍を用意することもできます
-(ご要望に添えない場合もあります) 。&lt;/p&gt;
-&lt;h2&gt;用意しているマイコン&lt;/h2&gt;
-&lt;p&gt;CoderDojo西神では、以下のようなマイコンを用意しています。
-ご希望のマイコンがありましたら、参加申し込み時にマイコン名をご連絡下さい。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://docs.arduino.cc/hardware/uno-r4-wifi" rel="nofollow"&gt;Arduino UNO R4 WiFi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://microbit.org/ja/" rel="nofollow"&gt;BBC micro:bit v2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://learn.adafruit.com/adafruit-circuit-playground-express/overview" rel="nofollow"&gt;Adafruit Circuit Playground Express&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.m5stack.com/ja/core/core2" rel="nofollow"&gt;M5Stack Core2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://docs.m5stack.com/en/core/basic" rel="nofollow"&gt;M5Stack Basic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.m5stack.com/ja/core/m5stickc_plus" rel="nofollow"&gt;M5StickC Plus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" rel="nofollow"&gt;Raspberry Pi Pico&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;人数分のすべての機材を用意することは難しいため、参加状況によってはご希望のマイコンをお使い頂けない可能性もあります。
-申し訳ありませんが、予めご承知おき下さい。&lt;/p&gt;
-&lt;h2&gt;アマチュア無線体験&lt;/h2&gt;
-&lt;p&gt;アマチュア無線の体験コーナーも用意しました。
-アマチュア無線の概要については下記URL (PDFファイル)を参考にしてみて下さい。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.jarl.org/Japanese/6_Hajimeyo/JARL_AMAdonnamono.pdf" rel="nofollow"&gt;アマチュア無線ってどんなもの?&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;その他&lt;/h1&gt;
-&lt;h2&gt;開催時間について&lt;/h2&gt;
-&lt;p&gt;09:30から受付を開始します。途中参加も可能ですが、なるべく最初からご参加下さい。&lt;/p&gt;
-&lt;h2&gt;飲食について&lt;/h2&gt;
-&lt;p&gt;軽食の飲食はOKです。ビル1Fにコンビニがある他、フロア内には自動販売機もありますのでご利用下さい。&lt;/p&gt;
-&lt;h2&gt;サポートできない内容&lt;/h2&gt;
-&lt;p&gt;安全面の理由で、はんだごてを用いる電子工作には対応できません。
-はんだごてを使わないブレッドボードによる電子工作には対応できますので、事前にご相談下さい。&lt;/p&gt;
-&lt;h1&gt;CoderDojo西神について&lt;/h1&gt;
-&lt;p&gt;CoderDojo西神は、2023年7月に承認された新しいCoderDojoです。
-西神地区を中心に、プログラミングを軸とした総合的な学習の機会を提供することを目的としています。
-最新情報はX (Twitter)やnoteをご覧下さい。&lt;/p&gt;
-&lt;p&gt;X (Twitter): &lt;a href="https://twitter.com/CoderDojoSeisin" rel="nofollow"&gt;https://twitter.com/CoderDojoSeisin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;note: &lt;a href="https://note.com/CoderDojoSeishin" rel="nofollow"&gt;https://note.com/CoderDojoSeishin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://coderdojo.com/ja-JP/dojos/jp/kobe-hyogo/seishin" rel="nofollow"&gt;https://coderdojo.com/ja-JP/dojos/jp/kobe-hyogo/seishin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CoderDojo西神の指導者 (メンター) は全員、安全対策への取り組みとして、
-一定のオンライントレーニングを受講、修了しています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://coderdojo.com/ja-JP/safeguarding" rel="nofollow"&gt;子供たちと安全に作業する&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module" rel="nofollow"&gt;セーフガードモジュール&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;CoderDojo西神は神戸市「令和6年度 地域課題に取り組むNPO等補助金」の採択事業でした。令和7年度も申請予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/384893/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Mon, 16 Feb 2026 12:45:25 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
+&lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobe-sannomiya-dev.connpass.com/event/385599/</guid><enclosure url="https://media.connpass.com/thumbs/c1/76/c176ec22d446352e2fcd428cb539e7e4.png" length="0" type="image/png"/><pubDate>Sat, 07 Mar 2026 13:01:12 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
 &lt;p&gt;高専カンファレンスとは、全国の高等専門学校の学生・卒業生が一つの会場に集結し、プレゼンによる発表形式を主とした勉強会形式のイベントです。有志の現役学生や卒業生が実行委員会を設立し、企画から広報、運営まで行います。2008年に第1回高専カンファレンスが開催され、今回で第189回目の開催となります。
 　本イベントの目的は,現役高専生が互いに刺激し合うことで成長し、各個人が一人のエンジニアとしての高いモチベーションを獲得することです。高専は日本全国に 58 校 62 キャンパス存在していますが、各キャンパス毎に閉鎖的なコミュニティが形成されているという問題点があります。
 　そこで、本イベントの実施によって、各高専のコミュニティの壁を越えた交流の機会を提供できることが期待されます。また、学生にとって各高専のコミュニティ内では経験できない新たな知見や、複眼的で柔軟な発想力の取得ができる機会になることを目指します。&lt;/p&gt;
