@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 30 Mar 2026 16:01:33 +0000</lastBuildDate><item><title>日本Androidの会浜松支部 第177回ミーティング</title><link>https://jaghama.connpass.com/event/389322/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月11日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月11日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 鴨江アートセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 浜松市中区鴨江町1番地 &lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jaghama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会 Part72&lt;/p&gt;&lt;div&gt;&lt;p&gt;日本Androidの会 浜松支部 第177回ミーティングを開催します。  &lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 31 Mar 2026 16:00:15 +0000</lastBuildDate><item><title>日本Androidの会浜松支部 第177回ミーティング</title><link>https://jaghama.connpass.com/event/389322/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月11日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月11日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 鴨江アートセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 浜松市中区鴨江町1番地 &lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jaghama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会 Part72&lt;/p&gt;&lt;div&gt;&lt;p&gt;日本Androidの会 浜松支部 第177回ミーティングを開催します。  &lt;/p&gt;
 &lt;p&gt;今回は&lt;span style="font-size: 16px; font-weight: bolder;"&gt;「もくもく会 Part72」
 &lt;/span&gt;です。&lt;/p&gt;
 &lt;p&gt;今回は、もくもく会を鴨江アートセンターで開催します。&lt;br&gt;
@@ -765,7 +765,7 @@ LT内容は、他の来場者に聞かれても問題ない内容としてご配
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15:45-16:00&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Claude Code を使って既存のAzure リソースをTerraform コードに変換し各種準備まで行う?スラッシュコマンドを作ってみた(仮)&lt;/td&gt;
 &lt;td&gt;若葉 香月&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -786,7 +786,7 @@ LT内容は、他の来場者に聞かれても問題ない内容としてご配
 &lt;tr&gt;
 &lt;td&gt;16:55-17:10&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;tatematsu_san&lt;/td&gt;
+&lt;td&gt;Kazuki Masuda&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;17:15-17:30&lt;/td&gt;
@@ -819,7 +819,7 @@ LLMのコストって見えづらい部分が多いので、生成AIを活用し
 【スピーカー】&lt;br&gt;
 Akira Sato&lt;br&gt;
 回路設計がしたくて浜松のメーカーに新卒入社するものの、なぜか組み込みソフトウェアの開発部署に配属されてキャリアをスタート。そこからなんやかんやスマホアプリやWebアプリの開発にも携わるようになり、現職においてはAzureや生成AIを活用したサービスの開発を推進。ブログや登壇などのアウトプットも積極的に行っています！&lt;br&gt;
-Microsoft MVP
+Microsoft MVP for Microsoft Foundfy&lt;br&gt;
 &lt;a href="https://x.com/satodayo1115" rel="nofollow"&gt;@satodayo1115&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;セッション②:【Azure迷宮からの脱出】アーキテクチャ選定を助ける 便利ツール3選＋α&lt;/h2&gt;
 &lt;p&gt;【概要】&lt;br&gt;
@@ -829,9 +829,13 @@ Microsoft MVP
 原 七海&lt;br&gt;
 25卒の新卒2年目です！現在はWebアプリケーションの開発を行うチームにて自己研磨をしています。&lt;br&gt;
 会社の&lt;a href="https://tech-lab.sios.jp/archives/author/4d517016ab18cc3d1d267aed3728986f61905084" rel="nofollow"&gt;テックブログ&lt;/a&gt;にて「はらちゃん」という名前で投稿をしているので覗いてみてください。  &lt;/p&gt;
-&lt;h2&gt;セッション③:&lt;/h2&gt;
-&lt;p&gt;【概要】  &lt;/p&gt;
-&lt;p&gt;【スピーカー】  &lt;/p&gt;
+&lt;h2&gt;セッション③:Claude Code を使って既存のAzure リソースをTerraform コードに変換し各種準備まで行う?スラッシュコマンドを作ってみた(仮)&lt;/h2&gt;
+&lt;p&gt;【概要】&lt;br&gt;
+今やAIツールの発展によりIaCの導入ハードルが下がり様々な企業で一般的になってきています。しかし、世の中にはまだまだAzureリソースを手作業で構築、運用・管理を行っているところもあります。今回はAIコーディングツールのClaude Codeを使い、既存のAzureリソースからTerraformのコードを作成し各種準備を行うコマンドを作ってみたことについてお話します。   &lt;br&gt;
+【スピーカー】&lt;br&gt;
+ Kazuki Yamabe  &lt;br&gt;
+外資系企業にてAzureプラットフォームに関するコンサルタントをしています。Azureを含むMicrosoft製品を中心に色々なコミュニティで活動しています。2025年5月にMicrosoft MVPをAzure Compute InfrastructureとAzure Networkingのカテゴリで受賞&lt;br&gt;
+Xアカウント: &lt;a href="https://x.com/kdk_wakaba" rel="nofollow"&gt;@kdk_wakaba&lt;/a&gt;    &lt;/p&gt;
 &lt;h2&gt;セッション④:Azure　AI Foundryを使った営業活動自動化エージェント作成入門&lt;/h2&gt;
 &lt;p&gt;【概要】&lt;br&gt;
  ノンエンジニアの営業が、Azure　AI Foundryを使って営業活動を自動化するエージェント作成に挑戦します。&lt;br&gt;
@@ -861,4 +865,4 @@ Microsoft MVP
 &lt;/ul&gt;
 &lt;p&gt;また、セッション中の写真撮影は、シャッター音など周りの方へのご配慮をお願いいたします。 &lt;br&gt;
 次回以降の勉強会のリクエストは大歓迎です。&lt;br&gt;
-『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/383753/</guid><enclosure url="https://media.connpass.com/thumbs/c3/0d/c30d74d677b8550fab339da2298eb0fc.png" length="0" type="image/png"/><pubDate>Sun, 15 Mar 2026 22:44:49 +0900</pubDate></item></channel></rss>
+『こんなことを知りたい！』というご希望がありましたら、是非スタッフまでお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jazug.connpass.com/event/383753/</guid><enclosure url="https://media.connpass.com/thumbs/c3/0d/c30d74d677b8550fab339da2298eb0fc.png" length="0" type="image/png"/><pubDate>Tue, 31 Mar 2026 12:02:10 +0900</pubDate></item></channel></rss>
