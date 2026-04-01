@@ -1,5 +1,143 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 31 Mar 2026 15:59:29 +0000</lastBuildDate><item><title>Sendai Frontend Meetup #21</title><link>https://sfeug.connpass.com/event/388617/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月15日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月15日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町2丁目2-8 シエロ南町通10F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 01 Apr 2026 16:01:54 +0000</lastBuildDate><item><title>第6回それいけ。AI ～仙台のLT会(2026年4月20日)</title><link>https://soreike-ai.connpass.com/event/389471/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月20日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月20日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目4-19アーバンネット仙台中央ビル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;https://note.com/yui_nos/n/n53c2fd54d255&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;a href="https://note.com/yui_nos/n/n53c2fd54d255" rel="nofollow"&gt;過去のイベントレポートはこちら&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;本イベントについて&lt;/h2&gt;
+&lt;p&gt;NTTアーバンソリューションズ(YUI NOS)とNECソリューションイノベータが共同開催するAIをテーマにしたLT会です。&lt;/p&gt;
+&lt;p&gt;「会社を超えた交流の場」「新しい技術・知識に触れる場」「仙台を盛り上げる」という3つの目標を掲げ、両社が持つ知見と情熱を知恵の交流に活かすために開催します。
+この場が単なる技術紹介以上に、参加者同士のネットワーク形成や、仙台という地域の発展へのヒントを得られるようにしてきたいです。&lt;/p&gt;
+&lt;h2&gt;当日タイムテーブル&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;開場&lt;/span&gt;
+&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;開始&lt;/span&gt;
+&lt;span class="mi"&gt;18&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;35&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;19&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="err"&gt;分&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="err"&gt;質問&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="err"&gt;分&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;
+&lt;span class="mi"&gt;19&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;集合写真撮影&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="mi"&gt;19&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;交流会&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;◇会場：YUI NOS  2Fコワーキングスペース
+◇注意
+・写真撮影 OK  (映り込みなど配慮してください。運営も使います)
+・SNS投稿  OK  (写真は本人の了承得てください)
+◇会場
+・2Fで受付をしてください。  入退出はスタッフに声掛けください。
+◇ルール
+・連続の発表はご遠慮ください。間隔を2回程度空けてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1&gt;YUI NOS 施設利用 プライバシーポリシー&lt;/h1&gt;
+&lt;p&gt;プライバシーポリシーに従ってください。
+https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
+&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
+&lt;p&gt;イベントに参加するみなさんは以下のポリシーを遵守するように心がけてください。
+(TokyoGirls.rb アンチハラスメントポリシーを参考にさせていただきました。ありがとうございます。）&lt;/p&gt;
+&lt;h2&gt;当ポリシーの目的と適用範囲&lt;/h2&gt;
+&lt;p&gt;当ポリシーは、イベントの参加者全員が楽しく、安全に集える場を維持するために策定されました。&lt;/p&gt;
+&lt;p&gt;「参加者全員が楽しく、安全に集える場を維持する」という目的には、「将来開催されるイベントについてもみなさんが不安や心配を感じることなく、気軽に参加できること」も含まれています。&lt;/p&gt;
+&lt;p&gt;よって、当ポリシーはイベント会場内の発言や行動だけでなく、イベント終了後に発生した参加者同士のコミュニケーションや、SNS・ブログ等での情報発信（このイベントに関するもの）に対しても適用されます。&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;イベントに関わる人たちは誰もが対等です。よって、当ポリシーはイベントに関わる、以下の全員が対象になります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者&lt;/li&gt;
+&lt;li&gt;登壇者&lt;/li&gt;
+&lt;li&gt;スポンサー&lt;/li&gt;
+&lt;li&gt;運営スタッフ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当ポリシーでは、上記全員をまとめて「参加者」と表現します。ですので、「参加者」の中には登壇者やスポンサー、運営スタッフも含まれる点にご注意ください。&lt;/p&gt;
+&lt;h2&gt;ハラスメントの観点&lt;/h2&gt;
+&lt;p&gt;ハラスメント（他人を困らせる行為や嫌がらせ）の観点には、以下のような例があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ジェンダー、性自認やジェンダー表現、性的指向&lt;/li&gt;
+&lt;li&gt;障がい&lt;/li&gt;
+&lt;li&gt;外見、身体的特徴&lt;/li&gt;
+&lt;li&gt;人種、民族、国籍&lt;/li&gt;
+&lt;li&gt;年齢&lt;/li&gt;
+&lt;li&gt;宗教&lt;/li&gt;
+&lt;li&gt;特定のツールや技術、プログラミング言語と、その愛好者またはコミュニティ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ただし、上記の観点はあくまで一例です。上記以外の観点であっても、参加者が不快、不安に感じる発言や行動はハラスメントとみなされます。&lt;/p&gt;
+&lt;h2&gt;禁止行為&lt;/h2&gt;
+&lt;p&gt;上記の観点に対する、以下のような行為を禁止します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;攻撃的、非建設的、過剰に批判的な発言や揶揄（やゆ）&lt;/li&gt;
+&lt;li&gt;脅迫、ストーキング、つきまとい&lt;/li&gt;
+&lt;li&gt;不適切な身体的接触&lt;/li&gt;
+&lt;li&gt;性的な関心を引く行為（性的な画像の掲示や、性的なコスチュームの着用等）&lt;/li&gt;
+&lt;li&gt;ジェンダーを強く意識させるコンテキストで、特定の個人をほめたたえる行為&lt;/li&gt;
+&lt;li&gt;その他、スタッフがハラスメントであると判断した行為&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;言うまでもありませんが、性的なハラスメントについては男性から女性に対してだけではなく、女性から男性に対するハラスメントも禁止です。&lt;/p&gt;
+&lt;h2&gt;ハラスメントを受けたら、判断に迷ったら&lt;/h2&gt;
+&lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
+&lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
+&lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/389471/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Wed, 01 Apr 2026 11:31:01 +0900</pubDate></item><item><title>[オフライン]リーン・フィッシュボウルでワイワイしよう</title><link>https://suku3rum-sendai.connpass.com/event/388921/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月14日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月14日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Classmethod 仙台オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4-10-3 JMFビル仙台01 13階Classmethod 仙台オフィス&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #suc3rum&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;金魚鉢スタイルで対話しよう&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;※今回の会場はアルコール類の持ち込みOKです!!&lt;/p&gt;
+&lt;p&gt;今回はリーン・フィッシュボウルを開催します！
+テーマはアジャイルやスクラムに関する話なら何でもOKです。&lt;/p&gt;
+&lt;p&gt;「フィッシュボウル（Fishbowl）」は、大人数でも「少人数の濃密な議論」と「全員の参加意識」を両立させるディスカッション手法です。まるで金魚鉢（フィッシュボウル）の中を覗き込むように、中心にいる数名の議論を周囲が観察することからこの名がつきました。&lt;/p&gt;
+&lt;p&gt;参考：&lt;a href="https://note.shiftinc.jp/n/n5e5483e00c36" rel="nofollow"&gt;フィッシュボウル&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今回はこのフィッシュボウルに「リーンコーヒー」の要素を組み合わせて実施します。リーンコーヒーは、参加者がその場で話したいテーマを出し合い、投票で優先順位を決めてから議論を進める手法です。あらかじめテーマを決めず、参加者の関心に沿って対話が展開されるのが特徴です。&lt;/p&gt;
+&lt;p&gt;つまり「リーン・フィッシュボウル」では、リーンコーヒー方式でテーマを選び、フィッシュボウル形式で対話を行います。気になるテーマがあれば中央の席に座って議論に参加し、聞きたいときは外側から観察する。気軽に出入りできるスタイルです。&lt;/p&gt;
+&lt;p&gt;セッションテーマ例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;今のふりかえりのやり方について意見を聞きたい&lt;/li&gt;
+&lt;li&gt;チームを盛り上げるアイデアを出したい&lt;/li&gt;
+&lt;li&gt;営業チームにスクラムを取り入れるにはどうしたら良い？&lt;/li&gt;
+&lt;li&gt;手を挙げた人が苦労する現場を改善するのにはどうしたら良い？&lt;/li&gt;
+&lt;li&gt;就職・転職活動について相談したい！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スクラムやアジャイルの話がしたい、聞きたい&lt;/li&gt;
+&lt;li&gt;スクラムをやってみたいけど何から始めたらいいのか分からない&lt;/li&gt;
+&lt;li&gt;スクラムをやってるけどうまくいかない、悩みを相談したい&lt;/li&gt;
+&lt;li&gt;一緒に学ぶ仲間がほしい&lt;/li&gt;
+&lt;li&gt;オフラインで人と話したい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;概要&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00-19:10&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10-21:00&lt;/td&gt;
+&lt;td&gt;リーン・フィッシュボウル&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;終了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;終了後、懇親会を予定しております。&lt;/p&gt;
+&lt;h2&gt;諸注意&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;飲食物は持ち寄り制(ポットラック)とさせていただきます。飲みたい・食べたいものをご自由にお持ち込みください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;行動規範 (Code of Conduct)&lt;/h2&gt;
+&lt;p&gt;すくすくスクラム仙台では &lt;a href="https://scrumgatheringtokyo.org/conference_coc_ja.html" rel="nofollow"&gt;RSGTの​行動規範&lt;/a&gt; に準じた行動規範を適用します。&lt;/p&gt;
+&lt;p&gt;短いバージョンを下記に引用します。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;私達の会議では，性別，性的指向，障碍の有無，外見，身体の大きさ，人種，宗教にかかわりなく，全員がハラスメント行為なく会議に参加し体験できる環境の提供に最善を尽くします．私達主催者は，会議参加者によるハラスメント行為を一切許容しません．性的な言葉や映像表現を使うことは会議場および会議に関連するいかなる場でも不適切であり，その適用範囲は発表やトークの内容，ワークショップ，関連パーティー，ツイッターやその他のオンラインメディアでの発言を含みます．これらのルールを破った会議参加者は，主催者の判断によって，会議内での行動を制限されたり，参加費の返却なく会議からの追放処分を受けることがあります．&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://suku3rum-sendai.connpass.com/event/388921/</guid><enclosure url="https://media.connpass.com/thumbs/ae/96/ae9608fdf0653dcbb385866e2e8b6b83.png" length="0" type="image/png"/><pubDate>Wed, 01 Apr 2026 09:04:21 +0900</pubDate></item><item><title>Sendai Frontend Meetup #21</title><link>https://sfeug.connpass.com/event/388617/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月15日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月15日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町2丁目2-8 シエロ南町通10F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;仙台で行うWebフロントエンド全般の勉強会です。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;オンライン配信の予定はありません。&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Webのフロントエンドに興味のある方でしたらどなたでもお気軽にご参加ください！&lt;br&gt;
@@ -86,7 +224,7 @@ OSC仙台の翌日以降も、宮城県周辺でウロウロしたい、何な�
 &lt;br&gt;
 &lt;br&gt;
 希望者がいれば、宮城峡とか温泉とか、宮城の山側の方に行きたいと思います。
-さらにお泊り希望の方は、マットレスはありますが和室にゴロ寝となります。
+さらにお泊り希望の方は、マットレスと寝袋はありますが和室にゴロ寝となります。
 万が一女性の方がいた場合には、女性専用の部屋(と、お風呂ご希望なら一番風呂)を用意します。
 &lt;br&gt;
 &lt;br&gt;
@@ -113,7 +251,7 @@ OSC仙台の翌日以降も、宮城県周辺でウロウロしたい、何な�
 車は、マイカーで来る方はともかくとして、なんか借りようかなと思っている方は、タイムズカーシェアが仙台駅のヨドバシ駐車場にいっぱいありますので、そこで借りることをお勧めします。いずれにしても車出しますよ、という方は&lt;b&gt;車用意します枠&lt;/b&gt;で、免許ないです同乗したいですという方は&lt;b&gt;同乗したい枠&lt;/b&gt;で申し込んでください。
 &lt;br&gt;
 &lt;br&gt;
-車用意します枠が増えたら、同乗したい枠も増やします。が、東北DCに止められるのは普通乗用車で五台くらいまでが限度ですし、そもそもマットレスもそんなに用意していないので、～10名くらいまでかなと思ってます。(って、そんなにくるんか!?)
+車用意します枠が増えたら、同乗したい枠も増やします。が、東北DCに止められるのは普通乗用車で五台くらいまでが限度ですし、そもそもマットレスと寝袋もそんなに用意していないので、合計でも10名くらいまでかなと思ってます。(って、そんなにくるんか!?)
 &lt;br&gt;
 &lt;br&gt;
 ※ネット環境だけはばっちりです。
@@ -126,7 +264,7 @@ OSC仙台の翌日以降も、宮城県周辺でウロウロしたい、何な�
 &lt;/p&gt;
 &lt;p style="font-size: 2.0em;"&gt;
 本当になんにもないですが!!&lt;b&gt;OSC仙台のあとも遊びたい！泊りたい！&lt;/b&gt;という方がいれば、参加お申し込みください。
-&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn-tohoku.connpass.com/event/388491/</guid><enclosure url="https://media.connpass.com/thumbs/88/5c/885c14fba53f31084ce3f8f44d5ff51e.png" length="0" type="image/png"/><pubDate>Mon, 23 Mar 2026 13:26:30 +0900</pubDate></item><item><title>第51回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/388463/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月8日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月8日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace 5A1&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
+&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn-tohoku.connpass.com/event/388491/</guid><enclosure url="https://media.connpass.com/thumbs/88/5c/885c14fba53f31084ce3f8f44d5ff51e.png" length="0" type="image/png"/><pubDate>Wed, 01 Apr 2026 09:59:47 +0900</pubDate></item><item><title>第51回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/388463/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月8日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月8日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace 5A1&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
 &lt;p&gt;仙台周辺のGo言語のコミュニティです。&lt;/p&gt;
 &lt;p&gt;プログラミング言語 Go に関するテックトークなどのイベントをやっています。 &lt;/p&gt;
 &lt;p&gt;技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるgopher達の拠り所を目指しています。&lt;/p&gt;
@@ -442,14 +580,7 @@ Figmaを「使える」だけで終わらせず、「活かせる」スキルへ
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;過去の開催内容&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://ishinomakidojo.blogspot.jp/" rel="nofollow"&gt;石巻道場のブログ&lt;/a&gt;にて、過去の開催をまとめています！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgishinomaki.connpass.com/event/388185/</guid><enclosure url="https://media.connpass.com/thumbs/14/bd/14bd3605b491a37e367800830ca5a13b.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 15:14:05 +0900</pubDate></item><item><title>第1回 Sendai.vim</title><link>https://sendaivim.connpass.com/event/387944/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年3月31日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年3月31日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラウドスミス 開発サテライト&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町１丁目１−８ 青葉パークビル６F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;記念すべきSendai.vimの第一回です。
-nvimユーザーやエディタでvimプラグイン使っているよ、という人も大歓迎です！
-わいわいやりましょう！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;各々のvim設定を紹介しあう&lt;/li&gt;
-&lt;li&gt;こんなプラグインないの？&lt;/li&gt;
-&lt;li&gt;AI時代とvim&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendaivim.connpass.com/event/387944/</guid><enclosure url="https://media.connpass.com/thumbs/cf/cb/cfcbb1d7eb9a8acffab138910c78282c.png" length="0" type="image/png"/><pubDate>Tue, 17 Mar 2026 23:44:50 +0900</pubDate></item><item><title>[JAWS-UG 東北仙台] BuilderCards の体験会</title><link>https://jaws-tohoku.connpass.com/event/387844/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月8日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月8日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: NECソリューションイノベータ　東北支社&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央3-5-17&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;BuilderCards の体験会を楽しみましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;BuilderCards でワイワイ遊びながらAWSの理解を深めましょう&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://ishinomakidojo.blogspot.jp/" rel="nofollow"&gt;石巻道場のブログ&lt;/a&gt;にて、過去の開催をまとめています！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgishinomaki.connpass.com/event/388185/</guid><enclosure url="https://media.connpass.com/thumbs/14/bd/14bd3605b491a37e367800830ca5a13b.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 15:14:05 +0900</pubDate></item><item><title>[JAWS-UG 東北仙台] BuilderCards の体験会</title><link>https://jaws-tohoku.connpass.com/event/387844/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月8日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月8日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: NECソリューションイノベータ　東北支社&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央3-5-17&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;BuilderCards の体験会を楽しみましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;BuilderCards でワイワイ遊びながらAWSの理解を深めましょう&lt;/h1&gt;
 &lt;p&gt;仙台でBuilderCards で遊ぶ機会を設けます！&lt;/p&gt;
 &lt;h2&gt;日時&lt;/h2&gt;
 &lt;ul&gt;
@@ -603,7 +734,27 @@ OSSに関わるのに、特別な資格や経験は必要ありません。
 
 
 &lt;h1&gt;属性アンケートご協力のお願い&lt;/h1&gt;
-&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/387446/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 11:24:21 +0900</pubDate></item><item><title>Road to SRE NEXT 2026 @仙台</title><link>https://sre-lounge.connpass.com/event/385834/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月11日(土) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月11日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS ユイノス&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4-4-19 (ユアサ仙台 アーバンネット仙台中央ビル4F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #srenext&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;会場&lt;/h1&gt;
+&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/387446/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Thu, 19 Mar 2026 11:24:21 +0900</pubDate></item><item><title>仙台のお土産について語り合う会</title><link>https://minamimachi.connpass.com/event/387153/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月3日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月3日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町２丁目２−８ IKIビル10F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントについて&lt;/h1&gt;
+&lt;p&gt;今回のイベントでは、みんなで「仙台のお土産やグルメ」について熱く語り合います！&lt;br&gt;
+トークのお題はこちらである程度ご用意しておりますので、どなたでもお気軽にご参加ください。  &lt;/p&gt;
+&lt;p&gt;【今回の進め方】&lt;br&gt;
+参加者全員がフラットに話せるオープンディスカッション形式で進行します。&lt;/p&gt;
+&lt;h1&gt;ディスカッション内容&lt;/h1&gt;
+&lt;p&gt;※トークテーマや内容は変更になる場合があります。&lt;/p&gt;
+&lt;h2&gt;仙台で一番好きな牛タン屋は？老舗から最新の人気店まで大激論！&lt;/h2&gt;
+&lt;p&gt;最古参の名店「太助」から、今大行列の「たんや善治郎」まで。皆さんの牛タンに対する熱い思いや、おすすめのお店をぜひ教えてください。&lt;/p&gt;
+&lt;h2&gt;あまり知られていない「隠れた名物お土産」を語ろう&lt;/h2&gt;
+&lt;p&gt;前回も話題に上がった「支倉焼（はせくらやき）」のように、意外と知られていないけれど美味しいお土産について語り合いましょう！&lt;/p&gt;
+&lt;h3&gt;🎁 お土産の持参も大歓迎です！&lt;/h3&gt;
+&lt;p&gt;語りたいお土産がある方はぜひお持ちください。他の参加者の方と内容が被るのを防ぐため、持参をご希望の方は事前に下記アカウントまでDM等で申請をお願いします。&lt;br&gt;
+申請先： &lt;a href="https://x.com/intofree_dangan" rel="nofollow"&gt;https://x.com/intofree_dangan&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;【任意参加】利き笹かま王 決定戦！&lt;/h2&gt;
+&lt;p&gt;こちらで3種類の笹かまぼこをご用意します。&lt;br&gt;
+まずは目隠しをした状態で1種類をパクリ。その後、目隠しを外して全種類を試食し、最初に食べたのがどれだったかを当てていただくゲームです！我こそはという方はぜひご挑戦ください。&lt;/p&gt;
+&lt;h2&gt;知ってた？萩の月って値段が2種類あんねん&lt;/h2&gt;
+&lt;p&gt;「実は〇〇なんだよ」といった、地元民ならではの仙台お土産豆知識や裏話をみんなでシェアしましょう！&lt;/p&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;p&gt;1,000円（当日、飲食代として徴収いたします） ※おつまみ・お飲み物をご用意します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minamimachi.connpass.com/event/387153/</guid><pubDate>Wed, 01 Apr 2026 21:35:49 +0900</pubDate></item><item><title>Road to SRE NEXT 2026 @仙台</title><link>https://sre-lounge.connpass.com/event/385834/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月11日(土) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月11日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS ユイノス&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4-4-19 (ユアサ仙台 アーバンネット仙台中央ビル4F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #srenext&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;会場&lt;/h1&gt;
 &lt;h1&gt;タイムスケジュール&lt;/h1&gt;
 &lt;p&gt;※プログラムは変更となる可能性があります。随時こちらで更新いたします。&lt;/p&gt;
 &lt;table&gt;
