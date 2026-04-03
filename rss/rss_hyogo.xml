@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 02 Apr 2026 15:53:05 +0000</lastBuildDate><item><title>第30回 CoderDojo西神</title><link>https://coderdojoseishin.connpass.com/event/389406/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;神戸市 令和7年度地域貢献活動補助金 採択事業&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 03 Apr 2026 15:34:25 +0000</lastBuildDate><item><title>Mecha Ghidraを使ったAI-driven Reverse Engineering</title><link>https://yamatosecurity.connpass.com/event/389782/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月25日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月25日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 神戸デジタル・ラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区京町72番地 新クレセントビル4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #yamasec&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;想定レベル&lt;/h1&gt;
+&lt;p&gt;初級〜中級&lt;/p&gt;
+&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;Mecha GhidraとAIを活用し、バイナリ解析を進めるAI時代の解析手法を学ぶ入門ワークショップです。
+「リバースエンジニアリングツールGhidra実践ガイド」を執筆してから6年近くが経ち、その間にGhidraのアップデートやAIの登場など、リバースエンジニアリングを取り巻く環境は大きく変化しました。本ワークショップでは、従来の解析と現在の解析がどのように変わったのか、AI時代にどのようなアプローチが求められるのかといった最新のトピックを取り上げます。また、Ghidraを使った実践的な作業をAIと対話しながら進めることで、効率的な解析の流れを体験します。さらに、解析の自動化やレポート作成につながるスキル開発も演習し、実務に活かせる活用方法を学びます。AIの支援を受けながらも、最終的には解析者自身が判断し、検証する力を育てることを目指します。&lt;/p&gt;
+&lt;h1&gt;講師 - PINK (@PINKSAWTOOTH)&lt;/h1&gt;
+&lt;p&gt;株式会社サイバーディフェンス研究所にて、マルウェア解析、脅威リサーチ、脅威インテリジェンス製品開発に従事。脅威インテリジェンス領域では、最新のAPTを追跡し、JSAC、VB、HITCON、AVAR、Black Hat Arsenal、CODE BLUEなど様々な国内外のカンファレンスに登壇、多くの研究成果を上げている。&lt;/p&gt;
+&lt;h1&gt;必要な物&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ghidra, Mecha Ghidraが動作する解析用PC&lt;/li&gt;
+&lt;li&gt;OpenAIもしくはAnthropicのサブスクリプション&lt;/li&gt;
+&lt;li&gt;Codex or Claude Code&lt;/li&gt;
+&lt;li&gt;オンラインで参加する方はZoom&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重要: 大和セキュリティslackへの参加&lt;/strong&gt; : ここでやり取りをします！ ( &lt;a href="https://join.slack.com/t/yamatosecurity2/shared_invite/zt-2kt51b7x1-o_XAHgvuVGXuiejqV3T5jg" rel="nofollow"&gt;https://join.slack.com/t/yamatosecurity2/shared_invite/zt-2kt51b7x1-o_XAHgvuVGXuiejqV3T5jg&lt;/a&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;大和セキュリティ&lt;/p&gt;
+&lt;h1&gt;開催場所&lt;/h1&gt;
+&lt;p&gt;神戸デジタル・ラボ(KDL)の4階セミナールームとオンラインのハイブリッド形式&lt;/p&gt;
+&lt;p&gt;神戸デジタル・ラボ(KDL):
+- &lt;a href="https://maps.app.goo.gl/9uHXDUCDWc1mgRAA8" rel="nofollow"&gt;https://maps.app.goo.gl/9uHXDUCDWc1mgRAA8&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;参加費：&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;オンライン参加: Patreonメンバーシップ ( &lt;a href="https://www.patreon.com/yamatosecurity" rel="nofollow"&gt;https://www.patreon.com/yamatosecurity&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;会場参加: 2000円 （学生: 1000円) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;懇親会:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;参加費: 2000円（学生: 1000円) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;スケジュール&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;--04/25（土）--&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;12:30 ～ 13:00 開場&lt;/p&gt;
+&lt;p&gt;13:00 ～ 18:00 Mecha Ghidraを使ったAI-driven Reverse Engineering  with 中島 将太殿 (@PINKSAWTOOTH)&lt;/p&gt;
+&lt;p&gt;18:00 ～ 20:00 懇親会 (神戸会場)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://yamatosecurity.connpass.com/event/389782/</guid><enclosure url="https://media.connpass.com/thumbs/13/73/13734c6dc36b02cd24718c7968d05df8.png" length="0" type="image/png"/><pubDate>Fri, 03 Apr 2026 14:59:06 +0900</pubDate></item><item><title>第30回 CoderDojo西神</title><link>https://coderdojoseishin.connpass.com/event/389406/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;神戸市 令和7年度地域貢献活動補助金 採択事業&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
 &lt;p&gt;こどものための無料のプログラミング道場「CoderDojo」を神戸市西区の学園都市で開催します。
 6歳から18歳までの小学生〜高校生・高専生が対象となります。参加費は無料です。
 貸し出し用のパソコンもありますので、パソコンをお持ちでない方も遠慮なくご参加下さい。&lt;/p&gt;
