@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 05 Apr 2026 15:24:42 +0000</lastBuildDate><item><title>[発表者連絡用] 岩倉市生涯学習フェスティバル 2026</title><link>https://coderdojoowari.connpass.com/event/390003/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;このイベントは、岩倉市生涯学習フェスティバル2025で展示をする人用のイベントです。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 06 Apr 2026 15:39:02 +0000</lastBuildDate><item><title>[発表者連絡用] 岩倉市生涯学習フェスティバル 2026</title><link>https://coderdojoowari.connpass.com/event/390003/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 岩倉市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県岩倉市本町神明西２０&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;このイベントは、岩倉市生涯学習フェスティバル2025で展示をする人用のイベントです。&lt;/p&gt;
 &lt;p&gt;一般来場者の方の申し込みではありません。一般来場者の方は、 CoderDojo Owari のイベントは申し込み不要でお越しいただけます。&lt;/p&gt;
 &lt;h2&gt;CoderDojo 尾張 作品募集&lt;/h2&gt;
 &lt;p&gt;自分の作った作品を展示して、来場者の方に遊んでもらいませんか？&lt;/p&gt;
@@ -1042,7 +1042,7 @@ CoderDojo日進では、micro:bit本体とmicro:bitで動くロボットカー�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;19:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;CodeRabbitのレビューと自動AI修正を組み合わせた開発手法の紹介&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;クマルさん@ABC株式会社&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1069,7 +1069,10 @@ CoderDojo日進では、micro:bit本体とmicro:bitで動くロボットカー�
 &lt;/table&gt;
 &lt;h3&gt;登壇者プロフィール&lt;/h3&gt;
 &lt;h4&gt;クマルさん@ABC株式会社&lt;/h4&gt;
-&lt;p&gt;後ほどアップデート&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.imgur.com/voRbSHK.jpeg" width="300px"&gt;&lt;/p&gt;
+&lt;p&gt;ABC株式会社ではAI駆動開発のエンジニアとして働いています。英国リーズ大学にて高度コンピュータサイエンスの修士号を取得したソフトウェアエンジニアです。フロントエンド、バックエンド、インフラストラクチャにわたる幅広い専門知識を持ち、決済システムのモジュール化から検索パフォーマンスの最適化、デプロイパイプラインの効率化まで、ユーザー中心でスケーラブルなアプリケーションの構築に情熱を注いでいます。中でも最も強い関心を寄せているのはAIと機械学習の分野であり、これまでに3本の研究論文を発表しています。&lt;/p&gt;
+&lt;p&gt;AIを活用した日本語学習パーソナルチューター「Agnes」や、農業における意思決定を支援するインテリジェント農業アシスタント「Nochi」の開発者でもあります。ABC株式会社ではYOLOの物体検出モデルを再学習し、圃場におけるいちごの識別を可能にしました。その過程では12,000枚以上の画像からなる独自のデータセットをキュレーションしており、応用AIに対するエンドツーエンドの実践的なアプローチを体現しています。&lt;/p&gt;
+&lt;p&gt;現在は名古屋を拠点に、日本語と日本文化に深く浸りながら、グローバルなテクノロジーイノベーションと日本の活発な開発者コミュニティをつなぐことに情熱を持って取り組んでいます。&lt;/p&gt;
 &lt;h4&gt;小越広臣@フリー株式会社&lt;/h4&gt;
 &lt;p&gt;&lt;img src="https://i.imgur.com/AHXDQNo.jpeg" width="300px"&gt;&lt;/p&gt;
 &lt;p&gt;フリー株式会社にてシニアアナリティクスエンジニアを務めております。Webエンジニア、iOSエンジニア、データエンジニアとしての経験を経て、現在はアナリティクスエンジニアリングを専門としております。&lt;/p&gt;
@@ -1105,7 +1108,7 @@ CoderDojo日進では、micro:bit本体とmicro:bitで動くロボットカー�
 &lt;li&gt;以上のような行為を推奨したり、擁護したりすること&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;もしハラスメントを受けた、または見かけた場合には&lt;a href="https://twitter.com/goofmint" rel="nofollow"&gt;アツシ&lt;/a&gt;へご連絡ください。&lt;/p&gt;
-&lt;p&gt;※ アンチハラスメントポリシーは &lt;a href="https://flatt.tech/anti-harassment/" rel="nofollow"&gt;アンチハラスメントポリシー | Flatt Security&lt;/a&gt;を参考にさせていただきました&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://crug.connpass.com/event/388498/</guid><enclosure url="https://media.connpass.com/thumbs/c3/da/c3dad4d65fe49af0596de9e2a68e87cc.png" length="0" type="image/png"/><pubDate>Mon, 23 Mar 2026 12:46:52 +0900</pubDate></item><item><title>CoderDojo大府(第120回) 子供向けプログラミング道場 2026/04/19</title><link>https://coderdojo-obu.connpass.com/event/388342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: おおぶ文化交流の杜 allobu&lt;/li&gt;&lt;li&gt;🏢 住所: 〒474-0053 愛知県大府市柊山町６丁目１５０−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供がプログラミングを楽しむ場を無料で提供します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;メニュー&lt;/h1&gt;
+&lt;p&gt;※ アンチハラスメントポリシーは &lt;a href="https://flatt.tech/anti-harassment/" rel="nofollow"&gt;アンチハラスメントポリシー | Flatt Security&lt;/a&gt;を参考にさせていただきました&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://crug.connpass.com/event/388498/</guid><enclosure url="https://media.connpass.com/thumbs/c3/da/c3dad4d65fe49af0596de9e2a68e87cc.png" length="0" type="image/png"/><pubDate>Mon, 06 Apr 2026 18:29:27 +0900</pubDate></item><item><title>CoderDojo大府(第120回) 子供向けプログラミング道場 2026/04/19</title><link>https://coderdojo-obu.connpass.com/event/388342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月19日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月19日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: おおぶ文化交流の杜 allobu&lt;/li&gt;&lt;li&gt;🏢 住所: 〒474-0053 愛知県大府市柊山町６丁目１５０−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供がプログラミングを楽しむ場を無料で提供します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;メニュー&lt;/h1&gt;
 &lt;h2&gt;パソコンでプログラミング&lt;/h2&gt;
 &lt;p&gt;コンピュータ・タブレットなどを使ってプログラミング作品を作ります。 参加にはWiFiのつながるPC・タブレットが必要です。&lt;/p&gt;
 &lt;h2&gt;CoderDojo 大府 子供向けプログラミング道場について&lt;/h2&gt;
