@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 10 Apr 2026 15:42:04 +0000</lastBuildDate><item><title>Saitama.rb #45</title><link>https://saitamarb.connpass.com/event/390151/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 貸会議室6F (銀座ビル8F)&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区宮町1-5 銀座ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #saitamarb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;**Saitama.rbは埼玉県さいたま市を拠点に活動している地域Rubyコミュニティです。 ** 大宮駅東口徒歩1分の貸会議室6Fで毎月第3土曜日にゆるく集まってRubyとその周辺技術について情報交換をしたり、もくもく会をしたりしています。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 11 Apr 2026 15:25:16 +0000</lastBuildDate><item><title>Saitama.rb #45</title><link>https://saitamarb.connpass.com/event/390151/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月18日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月18日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 貸会議室6F (銀座ビル8F)&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区宮町1-5 銀座ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #saitamarb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;**Saitama.rbは埼玉県さいたま市を拠点に活動している地域Rubyコミュニティです。 ** 大宮駅東口徒歩1分の貸会議室6Fで毎月第3土曜日にゆるく集まってRubyとその周辺技術について情報交換をしたり、もくもく会をしたりしています。&lt;/p&gt;
 &lt;p&gt;Ruby使っている人も、これから勉強したい人も、みんなで集まってがんばりましょう。
 はじめてのかたもどうぞお気軽にご参加ください！&lt;/p&gt;
 &lt;p&gt;※もくもく会とは
@@ -216,46 +216,7 @@ Commpassのシステムの都合上２つの参加枠の合算ができないた
 &lt;li&gt;本会での営業活動、ネットワークビジネスや宗教等の勧誘行為はお断りします。&lt;/li&gt;
 &lt;li&gt;雑談もOKですが、もくもくがメインの会ですので出来る限り作業をする心構えでお願いします。&lt;/li&gt;
 &lt;li&gt;なるべく自己紹介の時間までに来てください。遅刻する場合はDiscordに報告お願いします&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kawagoemokumoku.connpass.com/event/389708/</guid><enclosure url="https://media.connpass.com/thumbs/89/dc/89dcba04b5c7eda61b173a6fe13c1e47.png" length="0" type="image/png"/><pubDate>Thu, 02 Apr 2026 21:12:47 +0900</pubDate></item><item><title>【CDLE埼玉】AIエージェント入門 ー Difyで作るAIエージェント ー</title><link>https://cdle-saitama.connpass.com/event/388388/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年4月10日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年4月10日(金) 20:20&lt;/li&gt;&lt;li&gt;📍 会場: 渋沢MIX&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市大宮区吉敷町4-262-18&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LLMからAIエージェント、そしてAgentic AIへの進化&lt;/p&gt;&lt;div&gt;&lt;h2&gt;全体テーマ&lt;/h2&gt;
-&lt;h4&gt;&lt;strong&gt;AIエージェント入門：Difyで作るAIエージェント&lt;/strong&gt;&lt;/h4&gt;
-&lt;h2&gt;開催趣旨&lt;/h2&gt;
-&lt;p&gt;近年、生成AIの進化により、LLM（大規模言語モデル）を単体で利用するだけでなく、外部ツールやデータと連携しながらタスクを実行する「AIエージェント」が注目されています。&lt;/p&gt;
-&lt;p&gt;本イベントでは、LLMの基本概念やRAG（Retrieval-Augmented Generation）の仕組み、AIエージェントの構造、さらにAIエージェントからAgentic AIへの発展といった技術要素を、連続的な進化の流れとして体系的に整理します。その上で、LLMアプリケーション開発プラットフォームであるDifyを用いたハンズオン（基礎的な動きのみ）を実施します。&lt;/p&gt;
-&lt;p&gt;参加者が、概念を理解するだけでなく、実際に手を動かしてAIエージェントを構築することで、その仕組みを実践的に理解することを目的としています。&lt;/p&gt;
-&lt;h2&gt;イベントの特徴&lt;/h2&gt;
-&lt;h4&gt;AIエージェントの全体像と進化を体系的に整理&lt;/h4&gt;
-&lt;p&gt;前半のミニ講演では、以下の流れで整理します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;LLM（大規模言語モデル）の基本特性&lt;/li&gt;
-&lt;li&gt;RAGによる知識拡張の仕組み&lt;/li&gt;
-&lt;li&gt;AIエージェントの基本構造（LLM＋ツール＋データ）&lt;/li&gt;
-&lt;li&gt;AIエージェントからAgentic AIへの発展（タスク実行からゴール志向へ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;生成AIの進化を「構造」と「連続性」で理解&lt;/p&gt;
-&lt;h4&gt;Difyを使ったAIエージェント構築&lt;/h4&gt;
-&lt;p&gt;LLMアプリケーション開発プラットフォーム Dify を使い、ノーコード／ローコードでAIエージェントを構築します。&lt;/p&gt;
-&lt;h4&gt;ハンズオンによる体験型イベント&lt;/h4&gt;
-&lt;p&gt;講義だけではなく、参加者自身が手を動かしながらAIエージェントを構築することで、理解を深めます。&lt;/p&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;p&gt;日　時：2026年4月10日(金)&lt;br&gt;
-開　場：18:30〜&lt;br&gt;
-セミナー：19:00〜20:20&lt;br&gt;
-会　場：渋沢MIX（現地のみ）&lt;br&gt;
-主　催：CDLE埼玉&lt;br&gt;
-参加費：無料（事前申込制）&lt;br&gt;
-定員：50名&lt;br&gt;
-対　象：生成AIやAIエージェントに興味のある方、DX担当者、AIコミュニティメンバーなど&lt;br&gt;  &lt;/p&gt;
-&lt;h2&gt;議事次第&lt;/h2&gt;
-&lt;p&gt;19:00〜19:30 　第1部 ミニ講演&lt;br&gt;
-&lt;strong&gt;「AIエージェントとは何か？──LLMからAIエージェント、そしてAgentic AIへの進化」&lt;/strong&gt; &lt;br&gt;
- LLMからRAG、AIエージェント、そしてAgentic AIへと至る技術の進化の流れを、背景や仕組みの違いも含めながら体系的に整理し、初学者にも理解しやすい形でわかりやすく解説。&lt;br&gt; 
- 伊東 弘人（建設コンサルタント、CDLE埼玉、技術士(建設部門)/博士(工学)）&lt;br&gt; &lt;br&gt;
-19:30〜20:20 　第2部 ハンズオン&lt;br&gt;
-&lt;strong&gt;「Difyハンズオン（AIエージェント構築体験）」&lt;/strong&gt; &lt;br&gt; 
-ノーコードで高度なAIエージェントを構築できるLLMアプリ開発プラットフォーム「Dify」を用いた実践型ハンズオンを実施。開発の民主化を象徴するこの最新ツールに触れ、AIを「使う」側から「作る」側へとステップアップするための具体的な構築ステップを体感。&lt;br&gt;   木村 康英（ITコンサルタント、ITサービス企業、CDLE埼玉/AIUEO）&lt;br&gt;  &lt;/p&gt;
-&lt;h3&gt;備考&lt;/h3&gt;
-&lt;p&gt;※ イベント終了後、ご希望の方を対象に、近くの居酒屋にて懇親会を予定しています。 
-懇親会への参加を希望される方は、「現地参加＋懇親会枠」からお申し込みください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-saitama.connpass.com/event/388388/</guid><enclosure url="https://media.connpass.com/thumbs/e7/8e/e78e97137157ddafa56c35be23cf4c63.png" length="0" type="image/png"/><pubDate>Sun, 05 Apr 2026 11:07:20 +0900</pubDate></item><item><title>JAWS-UG彩の国埼玉支部 #8 彩の国埼玉支部 1周年</title><link>https://jawsug-sainokuni-saitama.connpass.com/event/387763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月30日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月30日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: RaiBoC Hall（市民会館おおみや）&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市大宮区大門町2-118]&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sainokuni&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;彩の国埼玉支部1周年をみんなで お祝いしましょう！！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kawagoemokumoku.connpass.com/event/389708/</guid><enclosure url="https://media.connpass.com/thumbs/89/dc/89dcba04b5c7eda61b173a6fe13c1e47.png" length="0" type="image/png"/><pubDate>Thu, 02 Apr 2026 21:12:47 +0900</pubDate></item><item><title>JAWS-UG彩の国埼玉支部 #8 彩の国埼玉支部 1周年</title><link>https://jawsug-sainokuni-saitama.connpass.com/event/387763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月30日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月30日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: RaiBoC Hall（市民会館おおみや）&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市大宮区大門町2-118]&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sainokuni&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;彩の国埼玉支部1周年をみんなで お祝いしましょう！！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;2025年4月に彩の国埼玉支部が発足し今年で1周年を迎えました！！&lt;/p&gt;
 &lt;p&gt;彩の国埼玉支部1周年イベントとして拡大版としてイベントを立ち上げました。&lt;/p&gt;
 &lt;p&gt;※コンテンツに関しては今後増やしていく予定です&lt;/p&gt;
