@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山梨のイベント</title><link>https://connpass.com/explore/</link><description>山梨のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山梨のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 22 Apr 2026 16:03:44 +0000</lastBuildDate><item><title>子ども向けプログラミングクラブ コーダー道場甲府#52</title><link>https://coderdojokofu.connpass.com/event/391396/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月17日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月17日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 山梨県立青少年センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒400-0812 山梨県甲府市和戸町 1303&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Connpassのアカウントをお持ちでない方は、こちらの&lt;a href="https://forms.gle/kcebebeM2TP8FikdA" rel="nofollow"&gt;Googleフォーム&lt;/a&gt;からお気軽にご参加登録ください。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山梨のイベント</title><link>https://connpass.com/explore/</link><description>山梨のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山梨のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 23 Apr 2026 16:25:25 +0000</lastBuildDate><item><title>第10回 東京山梨 AI Meetup〜AIに"個性"をつけてみよう〜</title><link>https://ai-meetup.connpass.com/event/392022/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月24日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月24日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: SHIRO-no-IRO&lt;/li&gt;&lt;li&gt;🏢 住所: 山梨県甲府市丸の内1-15-2 第5丸銀ビル3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LLMファインチューニング入門ハンズオン&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第10回 Tokyo-Yamanashi AI Meetup&lt;/h1&gt;
+&lt;p&gt;**テーマ：AIに"個性"をつけてみよう〜LLMファインチューニング入門ハンズオン〜&lt;/p&gt;
+&lt;h1&gt;日時&lt;/h1&gt;
+&lt;p&gt;2026年5月24日（日）13:00～16:00&lt;/p&gt;
+&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;LLM（大規模言語モデル）に対してSFT（Supervised Fine-Tuning）を行い、どのようにLLMの挙動が変化するかを皆さんと一緒に試してみます。
+Google Colabの無料枠の範囲内でのSFTを予定しています。
+初心者向けの演習形式の講座ですので、プログラミング知識は不要で非エンジニアでも大丈夫です。
+あまり高度な内容はやりません（できません）のでご了承ください。
+事前に必要なアカウント作成などは事前準備欄をご確認下さい。&lt;/p&gt;
+&lt;p&gt;東京（オンライン予定）・山梨（甲府 SHIRO-no-IRO）をつないでのハイブリッド開催です。&lt;/p&gt;
+&lt;h1&gt;事前準備&lt;/h1&gt;
+&lt;p&gt;当日の演習をスムーズに進めるために、事前に以下のアカウントの取得をお願いします。
+・ Discordアカウント
+　→オンライン参加、チャット、会場間接続に使用
+・GoogleアカウントとColab
+　→Googleアカウントを作成してGoogle Colab（無料枠でOK）を利用できるようにしておいてください。
+・Hugging Faceのアカウントとアクセストークンの発行
+　→Hugging Faceのアカウント（無料）とアクセストークンの発行（無料）を行っておいてください。「Hugging Face アカウント作成 &amp;amp; トークン取得」で検索をすれば良い記事が見つかります。&lt;/p&gt;
+&lt;h1&gt;登壇者プロフィール&lt;/h1&gt;
+&lt;p&gt;田中領人（たなかりょうと）です。昨年までは製造業の会社員で工場に検査用AIの導入などをしていました。今はフリーのAIエンジニアで様々な会社さんのAI関連プロジェクトをサポートしています。
+皆さんに会えるのを楽しみにしています。
+・JDLA Deep Learning for GENERAL 2019 #2
+・松尾・岩澤研究室主催の大規模言語モデル(LLM)講座2025 基礎編・応用編修了&lt;/p&gt;
+&lt;h1&gt;こんな方におすすめ&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;LLMのファインチューニングって聞いたことがあるけど、どんなことをやるのかは良く分からない（でも知りたい）方&lt;/li&gt;
+&lt;li&gt;IT業者に発注する側としてSFT（Supervised Fine-Tuning）の最低限の知識を持っておきたい方&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自分でファインチューニングすることは無いけど、単に興味がある方&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SFTのDeepなテクニックや専門的な知識を身につけたい方には期待外れかも知れません（すいません）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:00〜13:15&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オープニング・自己紹介（接続確認）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:15〜15:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;セッション:AIに"個性"をつけてみよう&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;15:00〜15:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;感想共有・ディスカッション ・もくもくタイム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;15:30〜15:55&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LTタイム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;15:55〜16:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;参加に必要なもの&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートPC（任意）&lt;/li&gt;
+&lt;li&gt;Discordアカウント（オンライン参加・会場間接続に使用）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;会場情報&lt;/h1&gt;
+&lt;h2&gt;山梨会場&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;会場名&lt;/strong&gt;: SHIRO-no-IRO
+&lt;strong&gt;住所&lt;/strong&gt;: 〒400-0031 山梨県甲府市丸の内1丁目15-2 第五丸銀ビル3F（JR甲府駅から徒歩8分）
+&lt;a href="https://shironoiro.jp/" rel="nofollow"&gt;https://shironoiro.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;東京＆オンライン&lt;/h2&gt;
+&lt;p&gt;Discordで参加できます。参加確定後に招待リンクをお送りします。&lt;/p&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;参加が難しくなった場合は早めにキャンセルをお願いします&lt;/li&gt;
+&lt;li&gt;当日の様子を写真撮影し、SNSで発信する場合があります&lt;/li&gt;
+&lt;li&gt;イベント内容は予告なく変更になる場合があります&lt;/li&gt;
+&lt;li&gt;オンライン参加の方は、事前にDiscordへ接続できる状態をご確認ください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;東京-山梨 AI ミートアップ&lt;/strong&gt;
+東京と山梨をオンラインでつなぎ、最新の生成AIツールや活用方法を「みんな」で学ぶコミュニティです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-meetup.connpass.com/event/392022/</guid><enclosure url="https://media.connpass.com/thumbs/24/dc/24dc733f1b7f9608ee2d813a3ff5bdfe.png" length="0" type="image/png"/><pubDate>Fri, 24 Apr 2026 00:12:29 +0900</pubDate></item><item><title>子ども向けプログラミングクラブ コーダー道場甲府#52</title><link>https://coderdojokofu.connpass.com/event/391396/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月17日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月17日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 山梨県立青少年センター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒400-0812 山梨県甲府市和戸町 1303&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Connpassのアカウントをお持ちでない方は、こちらの&lt;a href="https://forms.gle/kcebebeM2TP8FikdA" rel="nofollow"&gt;Googleフォーム&lt;/a&gt;からお気軽にご参加登録ください。&lt;/p&gt;
 &lt;h1&gt;場所&lt;/h1&gt;
 &lt;p&gt;山梨県立青少年センター　小ホール&lt;/p&gt;
 &lt;h1&gt;日時&lt;/h1&gt;
