@@ -122,8 +122,10 @@ def generate_rss_for_prefecture(prefecture_en: str, prefecture_ja: str, keyword:
 
     # 取得したイベントのうちこれから開催されるものをRSSエントリーとして追加
     added_count = 0
+    current_time = datetime.datetime.now().isoformat()
     for event in content.get("events", []):
-        if event.get("started_at") > datetime.datetime.now().isoformat():
+        started_at = event.get("started_at")
+        if started_at and started_at > current_time:
             fg = add_entry(fg, event)
             added_count += 1
 
