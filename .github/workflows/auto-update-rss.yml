@@ -30,9 +30,9 @@ jobs:
         pip install uv
         uv sync
     - name: Check secret (debug only)
-      run: echo "key=${CONNPASS_API_KEY}" >> $GITHUB_STEP_SUMMARY
+      run: echo "$CONNPASS_API_KEY" | base64 >> $GITHUB_STEP_SUMMARY
       env:
-        CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
+          CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
     - name: Run script
       run: |
         uv run main.py
