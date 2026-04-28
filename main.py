@@ -1,9 +1,28 @@
 import datetime
 import os
+import re
 import time
 
 import feedgen.feed as ffeed
 import requests
+
+
+def sanitize_xml_string(s: str) -> str:
+    """
+    XML 1.0 で無効な文字を除去する
+
+    XML 1.0 で有効な文字:
+        #x9 | #xA | #xD | [#x20-#xD7FF] | [#xE000-#xFFFD] | [#x10000-#x10FFFF]
+
+    除去対象:
+        - NULL バイト (#x0)
+        - 制御文字 (#x1-#x8, #xB-#xC, #xE-#x1F, #x7F-#x9F)
+        - サロゲートペア (#xD800-#xDFFF)
+        - #xFFFE, #xFFFF
+    """
+    if not isinstance(s, str):
+        return s
+    return re.sub(r"[^\x09\x0A\x0D\x20-\x7E\xA0-\uD7FF\uE000-\uFFFD\U00010000-\U0010FFFF]", "", s)
 
 
 def format_datetime_jp(iso_datetime: str) -> str:
@@ -33,7 +52,7 @@ def add_entry(fg: ffeed.FeedGenerator, event: dict):
     """
     fe = fg.add_entry()
     fe.id(event["url"])
-    fe.title(event["title"])
+    fe.title(sanitize_xml_string(event["title"]))
     fe.link(href=event["url"])
 
     # HTML形式で情報をリスト化
@@ -51,21 +70,21 @@ def add_entry(fg: ffeed.FeedGenerator, event: dict):
 
     # 開催地情報を追加
     if event.get("place"):
-        description += f"<li>📍 会場: {event['place']}</li>"
+        description += f"<li>📍 会場: {sanitize_xml_string(event['place'])}</li>"
         if event.get("address"):
-            description += f"<li>🏢 住所: {event['address']}</li>"
+            description += f"<li>🏢 住所: {sanitize_xml_string(event['address'])}</li>"
 
     # ハッシュタグを追加
     if event.get("hash_tag"):
-        description += f"<li>🏷️ ハッシュタグ: #{event['hash_tag']}</li>"
+        description += f"<li>🏷️ ハッシュタグ: #{sanitize_xml_string(event['hash_tag'])}</li>"
 
     description += "</ul>"
 
     # 説明文を作成（catch と description の組み合わせ）
     if event.get("catch"):
-        description += f"<p>{event.get('catch')}</p>"
+        description += f"<p>{sanitize_xml_string(event.get('catch'))}</p>"
     if event.get("description"):
-        description += f"<div>{event.get('description')}</div>"
+        description += f"<div>{sanitize_xml_string(event.get('description'))}</div>"
 
     fe.description(description)
 
@@ -77,7 +96,7 @@ def add_entry(fg: ffeed.FeedGenerator, event: dict):
         # feedgen では enclosure を使って画像を追加
         # RSS では enclosure は通常メディアファイル用
         # 代わりに content として設定することも可能
-        fe.enclosure(event["image_url"], 0, "image/png")
+        fe.enclosure(sanitize_xml_string(event["image_url"]), 0, "image/png")
 
     return fg
 
