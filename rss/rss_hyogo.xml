@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 06 May 2026 16:24:15 +0000</lastBuildDate><item><title>姫路IT系勉強会 2026.05</title><link>https://histudy.connpass.com/event/392957/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 13:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 姫路獨協大学&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県姫路市上大野7丁目2番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #histudy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;姫路獨協大学で開催します。場所の確認をお願いします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 07 May 2026 16:44:21 +0000</lastBuildDate><item><title>エージェントコマース研究会 #1</title><link>https://math-coding.connpass.com/event/392984/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月21日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Local LLM による次世代のAIエージェント取引&lt;/p&gt;&lt;div&gt;&lt;h3&gt;概要&lt;/h3&gt;
+&lt;p&gt;「Agent Commerce」とは、AIエージェント同士が自律的に取引・決済・交渉を行う、
+次世代のインターネット経済の仕組みのことです。&lt;/p&gt;
+&lt;p&gt;2026年初頭からAgent Commerceのプロトコルが「UCP (Universal Commerce Protocol)」が整備されAIエージェントが自律的にサービスを探し・発注・決済まで行う世界が現実味を帯びてきています。  &lt;/p&gt;
+&lt;p&gt;このイベントでは、Agent Commerceの技術面にフォーカスし、運営がハンズオン資料を用意しますので、参加者はプロトコルの動作するプロトタイプの動作をみることでAgent Commerceの面白い世界を擬似体験することができます。ハンズオンではLocal LLMを用いてエージェントを動作させることもできるので、可能でしたら動作するようなPCをもってきていただければと思います。  (なくても大丈夫です。)&lt;/p&gt;
+&lt;h3&gt;こんな人に向いています&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Agent Commerce に興味がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;やること（予定）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Agent Commerce の概要を知る  &lt;/li&gt;
+&lt;li&gt;参考資料をベースにAgent Commerceを動作させてみる  &lt;/li&gt;
+&lt;li&gt;Agent Commerce に関する疑問点や応用を議論する  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;持ち物&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートPC等、自前のコンピュータ&lt;/li&gt;
+&lt;li&gt;Local LLMを用いられる場合は、事前にOllamaでLocal LLM環境のセットアップ、及びモデルのインストールを推奨します
+　（モデル本体は数GB~十数GBあり、ダウンロードが時間長く、同時ダウンロードが発生するとネットワークが混雑する為）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;会場&lt;/h3&gt;
+&lt;p&gt;エンジニアが集うコワーキングスペース DEP.&lt;br&gt;
+神戸市中央区三宮町3-1-16(三星ビル４F南室)    &lt;/p&gt;
+&lt;p&gt;◆groupページ&lt;br&gt;
+&lt;a href="https://www.facebook.com/groups/284004485439214/" rel="nofollow"&gt;https://www.facebook.com/groups/284004485439214/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;◆過去のイベント スクラムサインのコミュニティーページ &lt;br&gt;
+&lt;a href="https://scrumsign.com/community/" rel="nofollow"&gt;https://scrumsign.com/community/&lt;/a&gt;&lt;img alt="image.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff39dcd0-949c-41b3-b83c-d7e49833442a/60445b41-b296-426c-ae73-f5e7b743bf37/image.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/392984/</guid><enclosure url="https://media.connpass.com/thumbs/3c/f4/3cf4cbd0ea076bf830aa3abd57d71d81.png" length="0" type="image/png"/><pubDate>Thu, 07 May 2026 17:33:19 +0900</pubDate></item><item><title>姫路IT系勉強会 2026.05</title><link>https://histudy.connpass.com/event/392957/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 13:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 姫路獨協大学&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県姫路市上大野7丁目2番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #histudy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;姫路獨協大学で開催します。場所の確認をお願いします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
 &lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域の技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt;
 &lt;p&gt;参加者には以下のような人たちが参加しています。&lt;/p&gt;
 &lt;ul&gt;
@@ -261,45 +288,7 @@
 &lt;p&gt;2026/7/25 13:00？&lt;/p&gt;
 &lt;p&gt;なんとなく昼飲みで考えてますが、夜になるかも？&lt;/p&gt;
 &lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;実費を割勘&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://akashi-rb.connpass.com/event/392859/</guid><enclosure url="https://media.connpass.com/thumbs/b7/66/b76693ae73bfb2b62ffaacd6e179310d.png" length="0" type="image/png"/><pubDate>Sat, 02 May 2026 16:56:20 +0900</pubDate></item><item><title>【Rubyist以外の方、プログラミング初心者もOK】AKASHI.rb Meetup #20</title><link>https://akashi-rb.connpass.com/event/392858/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月23日(火) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月23日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: いいオフィス明石 AreaDrive&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市本町１丁目２−３３ 興生ビル ４Ｆ&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #akashirb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※初心者歓迎！周辺地域でITに興味がある方はどなたでも参加していただいてかまいません！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AKASHI.rbについて&lt;/h2&gt;
-&lt;p&gt;AKASHI.rbは、明石市周辺在住者のために新しく誕生したエンジニアコミュニティです！もちろん、他地域の方の参加も大歓迎です！Ruby初心者、あるいは、プログラミングの初心者も大歓迎です。&lt;/p&gt;
-&lt;p&gt;発足したばかりのコミュニティかつ管理人にはコミュニテイや勉強会の運営経験がありません。手探りにはなってしまいますが、ぜひ一緒にAKASHI.rbを盛り上げていきましょう！&lt;/p&gt;
-&lt;p&gt;Rubyを中心としたコミュニティではありますが、Ruby以外の技術や技術以外の話題についても、気軽に話し合いながら、みんなで楽しく学べる場を目指しています。勉強会やイベントを通じて、ゆるくつながりながら一緒に成長していきましょう。&lt;/p&gt;
-&lt;h2&gt;何するんですか？&lt;/h2&gt;
-&lt;p&gt;もくもく会になります。
-初参加の方がいる場合は、最初に全員で自己紹介をします！&lt;/p&gt;
-&lt;p&gt;しばらくはこのスタイルでやっていこうと思います。飛び込みLT大歓迎！！&lt;/p&gt;
-&lt;h2&gt;場所&lt;/h2&gt;
-&lt;p&gt;いいオフィス明石 AreaDrive 貸会議室ROOM 2&lt;/p&gt;
-&lt;p&gt;兵庫県明石市本町１丁目２−３３ 興生ビル ４Ｆ&lt;/p&gt;
-&lt;h2&gt;日時&lt;/h2&gt;
-&lt;p&gt;2026/6/20 19:10 ~ 20:50（開場19:00）&lt;/p&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;500円&lt;/p&gt;
-&lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;終了後、開催を予定しています。
-※会費は実費を割勘&lt;/p&gt;
-&lt;p&gt;最近は「明石お魚スタンドうおざえもん」になることが多いです。22時閉店なので、サクっと飲んで帰る感じです。
-&lt;a href="https://tabelog.com/hyogo/A2804/A280401/28052943/" rel="nofollow"&gt;https://tabelog.com/hyogo/A2804/A280401/28052943/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://akashi-rb.connpass.com/event/392858/</guid><enclosure url="https://media.connpass.com/thumbs/b7/66/b76693ae73bfb2b62ffaacd6e179310d.png" length="0" type="image/png"/><pubDate>Sat, 02 May 2026 16:41:09 +0900</pubDate></item><item><title>【Rubyist以外の方、プログラミング初心者もOK】AKASHI.rb Meetup #19</title><link>https://akashi-rb.connpass.com/event/392856/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月26日(火) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月26日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: いいオフィス明石 AreaDrive&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市本町１丁目２−３３ 興生ビル ４Ｆ&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #akashirb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※初心者歓迎！周辺地域でITに興味がある方はどなたでも参加していただいてかまいません！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AKASHI.rbについて&lt;/h2&gt;
-&lt;p&gt;AKASHI.rbは、明石市周辺在住者のために新しく誕生したエンジニアコミュニティです！もちろん、他地域の方の参加も大歓迎です！Ruby初心者、あるいは、プログラミングの初心者も大歓迎です。&lt;/p&gt;
-&lt;p&gt;発足したばかりのコミュニティかつ管理人にはコミュニテイや勉強会の運営経験がありません。手探りにはなってしまいますが、ぜひ一緒にAKASHI.rbを盛り上げていきましょう！&lt;/p&gt;
-&lt;p&gt;Rubyを中心としたコミュニティではありますが、Ruby以外の技術や技術以外の話題についても、気軽に話し合いながら、みんなで楽しく学べる場を目指しています。勉強会やイベントを通じて、ゆるくつながりながら一緒に成長していきましょう。&lt;/p&gt;
-&lt;h2&gt;何するんですか？&lt;/h2&gt;
-&lt;p&gt;もくもく会になります。
-初参加の方がいる場合は、最初に全員で自己紹介をします！&lt;/p&gt;
-&lt;p&gt;しばらくはこのスタイルでやっていこうと思います。飛び込みLT大歓迎！！&lt;/p&gt;
-&lt;h2&gt;場所&lt;/h2&gt;
-&lt;p&gt;いいオフィス明石 AreaDrive 貸会議室ROOM 2&lt;/p&gt;
-&lt;p&gt;兵庫県明石市本町１丁目２−３３ 興生ビル ４Ｆ&lt;/p&gt;
-&lt;h2&gt;日時&lt;/h2&gt;
-&lt;p&gt;2026/5/26 19:10 ~ 20:50（開場19:00）&lt;/p&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;500円&lt;/p&gt;
-&lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;終了後、開催を予定しています。
-※会費は実費を割勘&lt;/p&gt;
-&lt;p&gt;最近は「明石お魚スタンドうおざえもん」になることが多いです。22時閉店なので、サクっと飲んで帰る感じです。
-&lt;a href="https://tabelog.com/hyogo/A2804/A280401/28052943/" rel="nofollow"&gt;https://tabelog.com/hyogo/A2804/A280401/28052943/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://akashi-rb.connpass.com/event/392856/</guid><enclosure url="https://media.connpass.com/thumbs/b7/66/b76693ae73bfb2b62ffaacd6e179310d.png" length="0" type="image/png"/><pubDate>Sat, 02 May 2026 16:40:04 +0900</pubDate></item><item><title>Microsoft AI Lab KOBE 見学・交流会</title><link>https://kobelab.connpass.com/event/392469/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月27日(水) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月27日(水) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: Microsoft AI Co-innovation Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区浜辺通5丁目1-14 神戸商工貿易センタービル24F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;共創エコシステムとプログラムについて学ぶ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;✍️ ラボツアー（見学・交流会）開催概要&lt;/h2&gt;
+&lt;p&gt;実費を割勘&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://akashi-rb.connpass.com/event/392859/</guid><enclosure url="https://media.connpass.com/thumbs/b7/66/b76693ae73bfb2b62ffaacd6e179310d.png" length="0" type="image/png"/><pubDate>Sat, 02 May 2026 16:56:20 +0900</pubDate></item><item><title>Microsoft AI Lab KOBE 見学・交流会</title><link>https://kobelab.connpass.com/event/392469/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月27日(水) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月27日(水) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: Microsoft AI Co-innovation Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区浜辺通5丁目1-14 神戸商工貿易センタービル24F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;共創エコシステムとプログラムについて学ぶ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;✍️ ラボツアー（見学・交流会）開催概要&lt;/h2&gt;
 &lt;p&gt;生成AIの急速な進化により、企業や組織における AI活用・プロトタイピング・業務変革の進め方 は大きく変わりつつあります。
 単なる技術検証にとどまらず、&lt;/p&gt;
 &lt;p&gt;現場の課題を起点に
@@ -772,8 +761,8 @@ PoCやスプリント開発、イベント・ワークショップへの優先�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;20:35 - 20:45&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;LT枠⑥&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;br&gt;所属あれば&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;3-AZ ECS構成で作る株ポートフォリオアプリ&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;シン&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;20:45 - 20:50&lt;/td&gt;
@@ -813,6 +802,11 @@ PoCやスプリント開発、イベント・ワークショップへの優先�
 &lt;blockquote&gt;
 &lt;p&gt;SREをやっています。たまにセキュリティの帽子を被ります。猫はアビシニアンのアルくんです。かわいいですね。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3&gt;シン&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://connpass.com/static/img/common/user_no_image_180.png"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;普段はwebアプリエンジニアとして働いており(約2年）、最近AWSに興味を持って DOP の取得に向けて勉強中です。勉強会や、AWS系の副業案件などありましたらお気軽にお声がけください。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;ヤマダ（北野）&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/60/d9/60d9bdba057fea7ebe462feead84e4b8.png"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -830,7 +824,7 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。 
 お気付きの点があればぜひご協力をお願いいたします。 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。&lt;br&gt;
 AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。&lt;br&gt;
-是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/391241/</guid><enclosure url="https://media.connpass.com/thumbs/72/f3/72f3f5d283178db1702b92d390455de5.png" length="0" type="image/png"/><pubDate>Fri, 01 May 2026 16:34:54 +0900</pubDate></item><item><title>【神戸開催】AI勉強会「スナックAI」 in 神戸</title><link>https://kansai-ai-co.connpass.com/event/391234/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: エムトーン会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区京町７９番地（日本ビルヂング７０７）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
+是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/391241/</guid><enclosure url="https://media.connpass.com/thumbs/72/f3/72f3f5d283178db1702b92d390455de5.png" length="0" type="image/png"/><pubDate>Thu, 07 May 2026 18:35:46 +0900</pubDate></item><item><title>【神戸開催】AI勉強会「スナックAI」 in 神戸</title><link>https://kansai-ai-co.connpass.com/event/391234/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: エムトーン会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区京町７９番地（日本ビルヂング７０７）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
 &lt;p&gt;生成AIを使えば業務効率やアイデア創出のスピードは驚くほど加速します。
 それでも「みんなどう使ってるの？」「うちでどう使えばいいの？」「専門用語が難しくて…」と足踏みしている方は少なくありません。
 そこで誕生したのが、肩書も年齢も関係なく“スナック感覚”で集まれるゆるい勉強会 「スナックAI」です。&lt;/p&gt;
