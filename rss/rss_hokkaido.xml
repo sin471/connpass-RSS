@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 08 May 2026 16:08:45 +0000</lastBuildDate><item><title>kintone Café 札幌 Vol.19</title><link>https://kintone-cafe-sapporo.connpass.com/event/392697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月5日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月5日(金) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社　札幌営業所&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区大通西3丁目8-1 (桂和大通ビル51 9F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;半年ぶりの開催です(^^)&lt;/p&gt;&lt;div&gt;&lt;h3&gt;kintone  札幌 Vol.19&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 09 May 2026 15:41:44 +0000</lastBuildDate><item><title>kintone Café 札幌 Vol.19</title><link>https://kintone-cafe-sapporo.connpass.com/event/392697/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月5日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月5日(金) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社　札幌営業所&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区大通西3丁目8-1 (桂和大通ビル51 9F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;半年ぶりの開催です(^^)&lt;/p&gt;&lt;div&gt;&lt;h3&gt;kintone  札幌 Vol.19&lt;/h3&gt;
 &lt;p&gt;「kintoneCafé札幌 」を6月5日（金）18:00から開催します&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt;テーマ「なんでもLT」&lt;/h3&gt;
 &lt;p&gt;kintone hive参加報告、しくじり事例、ひとり管理者の愚痴、沼から脱出した（まだ沼の中）の話&lt;br&gt;
@@ -805,8 +805,8 @@ Python札幌は、2009年5月に活動を開始して以来今年で17周年を�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;15:40～16:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;セッション2 TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Pythonから入るクリエイティブコーディング入門&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;田熊 健 &lt;a href="https://x.com/tagdev1" rel="nofollow"&gt;@tagdev1&lt;/a&gt; (Python札幌・相談役, 北海道科学大学)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;16:10～16:40&lt;/td&gt;
@@ -850,6 +850,8 @@ Python札幌は、2009年5月に活動を開始して以来今年で17周年を�
 &lt;h4&gt;「PythonでMCPサーバーを作ろう — LLMが“外部世界”とつながる仕組み」 - 小暮 諒(Ryo Kogure) &lt;a href="https://x.com/kogwr" rel="nofollow"&gt;@kogwr&lt;/a&gt; (Python札幌・代表, ネオス株式会社)&lt;/h4&gt;
 &lt;p&gt;近年、LLMアプリは「モデル単体」から「ツールやデータと連携して動く構成」へ広がっています。その接続の標準的な一手として注目されているのが &lt;strong&gt;MCP（Model Context Protocol）&lt;/strong&gt; です。本セッションでは、MCPが何を解決するプロトコルなのかを整理し、&lt;strong&gt;MCPサーバー&lt;/strong&gt;が提供する「リソース」「ツール」「プロンプト」などの概念を、できるだけ平易に俯瞰します。
 Pythonでの実装イメージを交えつつ、「まずは小さなMCPサーバーを立てて、エディタやクライアントから呼べる状態まで持っていきたい」という方を対象に、今日から試せる入口としての道筋を示します。LLM連携に興味はあるが、どのように拡張したら良いか？という点を簡潔に解説したいと思います。&lt;/p&gt;
+&lt;h4&gt;「Pythonから入るクリエイティブコーディング入門」  - 田熊 健(Ken Taguma) &lt;a href="https://x.com/tagdev1" rel="nofollow"&gt;@tagdev1&lt;/a&gt; (Python札幌・相談役, 北海道科学大学)&lt;/h4&gt;
+&lt;p&gt;クリエイティブコーディングの入り口と言えば大定番はProcessing。近年初めてのプログラミング言語としてPythonから入る人が増えている中で、ProcessingみたいなことをPythonでやりたい、というニーズも高まっているとかいないとか。Processing自体にもPythonモードがあったり、PythonからProcessingのjarを呼び出すライブラリもあったりといろいろ選択肢も増えているのですが、今回は完全にPython環境で使えるライブラリ（も実は複数ある）の中から入りやすそうなものを紹介します。もちろんネット上にも様々な情報があるのですが、初心者は躓くこと必至（というか僕自身が躓きまくった）なので環境準備から誰でも始められるように、初学者向けに解説します。&lt;/p&gt;
 &lt;h3&gt;LT発表枠&lt;/h3&gt;
 &lt;h2&gt;事前準備&lt;/h2&gt;
 &lt;ul&gt;
@@ -868,7 +870,7 @@ Pythonでの実装イメージを交えつつ、「まずは小さなMCPサー�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;会場協力&lt;/h2&gt;
-&lt;p&gt;今回の会場は、&lt;a href="https://sapporo-engineer-base.dev/" rel="nofollow"&gt;Sapporo Engineer Base&lt;/a&gt;さんのご協力で、&lt;a href="https://13labo.com/" rel="nofollow"&gt;13LABO&lt;/a&gt;さんを提供していただきました。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://python-sapporo.connpass.com/event/390617/</guid><enclosure url="https://media.connpass.com/thumbs/a0/f1/a0f1e12f34784c7a988972a8bd6edfc3.png" length="0" type="image/png"/><pubDate>Sun, 19 Apr 2026 23:58:52 +0900</pubDate></item><item><title>Mariners' Conference `26 Spring</title><link>https://mariconf.connpass.com/event/390062/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月31日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月31日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 亀田交流プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道函館市美原１丁目２６−１２&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #mariconf2026spring&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Mariners' Conference 2026年度の最初のLT会です!&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント・サークル情報&lt;/h1&gt;
+&lt;p&gt;今回の会場は、&lt;a href="https://sapporo-engineer-base.dev/" rel="nofollow"&gt;Sapporo Engineer Base&lt;/a&gt;さんのご協力で、&lt;a href="https://13labo.com/" rel="nofollow"&gt;13LABO&lt;/a&gt;さんを提供していただきました。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://python-sapporo.connpass.com/event/390617/</guid><enclosure url="https://media.connpass.com/thumbs/a0/f1/a0f1e12f34784c7a988972a8bd6edfc3.png" length="0" type="image/png"/><pubDate>Sat, 09 May 2026 18:11:23 +0900</pubDate></item><item><title>Mariners' Conference `26 Spring</title><link>https://mariconf.connpass.com/event/390062/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月31日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月31日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 亀田交流プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道函館市美原１丁目２６−１２&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #mariconf2026spring&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Mariners' Conference 2026年度の最初のLT会です!&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント・サークル情報&lt;/h1&gt;
 &lt;p&gt;Discordにて最新情報を発信中！(誰でも参加できます)&lt;/p&gt;
 &lt;p&gt;招待URL: &lt;a href="https://discord.gg/w4HYHa4CkA" rel="nofollow"&gt;https://discord.gg/w4HYHa4CkA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;詳しくは、 &lt;a href="https://mariners-conference.github.io/" rel="nofollow"&gt;Mariners' Conference 公式サイト&lt;/a&gt; をご覧ください&lt;/p&gt;
