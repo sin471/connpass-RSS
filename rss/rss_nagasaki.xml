@@ -1,5 +1,91 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長崎のイベント</title><link>https://connpass.com/explore/</link><description>長崎のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長崎のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 10 May 2026 15:44:30 +0000</lastBuildDate><item><title>エンジニアプラス＃3</title><link>https://engineer-plus.connpass.com/event/393134/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月19日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月19日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: CO-DEJIMA&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県長崎市出島町2-11号出島交流会館2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #エンジニアプラス&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;＜今回のイベントの内容について＞&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長崎のイベント</title><link>https://connpass.com/explore/</link><description>長崎のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長崎のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 11 May 2026 17:20:48 +0000</lastBuildDate><item><title>【長崎】UE長崎もくもく会 #3</title><link>https://ue-ngs.connpass.com/event/393375/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: coto 大村アーケード店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒856-0832 長崎県大村市本町444&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #UE長崎&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;自分たちがやりたいことをしよう in 長崎&lt;/p&gt;&lt;div&gt;&lt;p&gt;UE長崎でもくもく会をやります。&lt;br&gt;
+今回は &lt;strong&gt;3DCG・映像制作・ゲーム制作寄り&lt;/strong&gt; のもくもく会です。&lt;/p&gt;
+&lt;p&gt;Unreal Engineに限定しません。&lt;br&gt;
+Blender、Unity、Maya、Substance、After Effects、Web、AR/VR、Vket Cloud、メタバース制作など、作っているものは何でもOKです。&lt;/p&gt;
+&lt;p&gt;3DCG仲間、エンジニア仲間、勉強仲間がほしい方、ぜひ！&lt;/p&gt;
+&lt;p&gt;=================================================&lt;/p&gt;
+&lt;p&gt;「長崎を、誰もが自分の『世界』を描き出し、クリエイターであり続けられる場所に。」  &lt;/p&gt;
+&lt;p&gt;なんて旗印を掲げてみましたが、まずは言い出しっぺの僕らが楽しんでいる様子を垂れ流すところから始めます。&lt;/p&gt;
+&lt;p&gt;発起人も積んでいた3DCG関連の本を消化しようと目論んでいます笑&lt;/p&gt;
+&lt;p&gt;「3DCGを始めたいけど、ひとりだと続かない」&lt;br&gt;
+「UEやUnityを触ってみたい」&lt;br&gt;
+「Blenderを開いたまま積んでいる」&lt;br&gt;
+「映像・AR・VR・メタバース制作に興味がある」&lt;br&gt;
+「作業する場所と仲間がほしい」&lt;/p&gt;
+&lt;p&gt;そんな人向けの、ゆるい作業会です。&lt;/p&gt;
+&lt;h1&gt;■開催日時&lt;/h1&gt;
+&lt;p&gt;日時：2026年6月27日（土）14:00〜17:00&lt;br&gt;
+※遅刻・早退・中座、なんでもOKです。&lt;/p&gt;
+&lt;h1&gt;■会場・費用について&lt;/h1&gt;
+&lt;p&gt;場所： &lt;a href="https://coto-hub.com/arcade" rel="nofollow"&gt;coto 大村アーケード店&lt;/a&gt;&lt;br&gt;
+〒856-0832 長崎県大村市本町444&lt;/p&gt;
+&lt;p&gt;cotoは、大村市にあるコワーキングスペース・カフェ・シェアオフィスが一体になった場所です。&lt;br&gt;
+コワーキングスペースを中心に、こだわりのコーヒーなどのドリンクや軽食を提供するカフェも併設されています。&lt;/p&gt;
+&lt;p&gt;もくもく会自体の参加費・場所代は無料です。&lt;br&gt;
+ただし、カフェ併設の会場のため、&lt;strong&gt;ワンドリンクオーダー&lt;/strong&gt; をお願いします。&lt;/p&gt;
+&lt;p&gt;作業しながらコーヒーを飲んだり、休憩しながら雑談したりできる場所です。&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;※ 駐車場について
+
+専用駐車場の有無・利用条件については、事前に会場情報をご確認ください。
+お車でお越しの方は、必要に応じて近隣のコインパーキング等をご利用ください。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;もし他にも「ここ、もくもくに最適だよ！」という穴場スポットがあれば教えてください。&lt;/p&gt;
+&lt;h1&gt;■ざっくりタイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00〜&lt;/td&gt;
+&lt;td&gt;ゆるっと集合・もくもく開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30〜&lt;/td&gt;
+&lt;td&gt;（もし気が向いたら）やったことシェア&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;〜17:00&lt;/td&gt;
+&lt;td&gt;撤収！&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※遅刻・早退・中座、なんでもOK。&lt;/p&gt;
+&lt;h1&gt;■X（旧Twitter）&lt;/h1&gt;
+&lt;p&gt;フォローお願いします！何かあればDMまで。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/ue_ngs" rel="nofollow"&gt;
+  &lt;img alt="twitter(現x)へ" src="https://portfolio.sion908.tech/img/to_ue_ngs.png"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;■懇親会について&lt;/h1&gt;
+&lt;p&gt;もくもく会終了後、希望者でゆるく懇親会も予定しています。&lt;/p&gt;
+&lt;p&gt;「ちょっと話したい」&lt;br&gt;
+「他の人が何してるか聞きたい」&lt;br&gt;
+「3DCGやゲーム制作の話をしたい」&lt;/p&gt;
+&lt;p&gt;くらいの軽いノリでOKです。&lt;/p&gt;
+&lt;p&gt;こちらも参加は自由なので、気が向いたらぜひどうぞ。&lt;br&gt;
+※費用は当日、参加者同士で割り勘（現地精算）を予定しています。&lt;/p&gt;
+&lt;h1&gt;■注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;席について：参加枠を設けていますが、席を確保できるわけではありません。基本的には会場の利用状況に準じます。&lt;/li&gt;
+&lt;li&gt;ワンドリンクオーダーをお願いします。&lt;/li&gt;
+&lt;li&gt;手段はなんでもOK：UE長崎という名前ですが、UnityでもWebでも、3DCGでも映像制作でも大歓迎です。&lt;/li&gt;
+&lt;li&gt;迷惑はかけない：他の方もいらっしゃるので、節度を持って楽しくもくもくしましょう。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以下、トラブル防止のため、ご一読ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機材トラブル等の問題について、運営は一切の責任を負いません。&lt;/li&gt;
+&lt;li&gt;活動報告のため、イベントの様子を撮影する場合があります。顔出しNGの方は事前にお知らせください。&lt;/li&gt;
+&lt;li&gt;事故、怪我、病気、貴重品の紛失等については各自の責任となります。&lt;/li&gt;
+&lt;li&gt;ネットワークビジネス、宗教等の勧誘行為は固くお断りします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🎉 初心者でも大歓迎！&lt;/h1&gt;
+&lt;p&gt;UE・Unityを触ったことがない人も、Blenderをこれから始めたい人も、3DCG・映像制作に挑戦したい人も、長崎・九州の仲間たちと一緒に「作る」ことを楽しみたい人も大歓迎です。&lt;/p&gt;
+&lt;p&gt;ひとりだと積みがちな本、チュートリアル、制作途中のデータを持ってきて、ゆるく進めましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ue-ngs.connpass.com/event/393375/</guid><enclosure url="https://media.connpass.com/thumbs/fd/51/fd514d16f73a29c50a9f41b6297a705a.png" length="0" type="image/png"/><pubDate>Mon, 11 May 2026 20:48:32 +0900</pubDate></item><item><title>エンジニアプラス＃3</title><link>https://engineer-plus.connpass.com/event/393134/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月19日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月19日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: CO-DEJIMA&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県長崎市出島町2-11号出島交流会館2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #エンジニアプラス&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;＜今回のイベントの内容について＞&lt;/h2&gt;
 &lt;p&gt;AI活用について話せる、聞ける交流会！
 このイベントは、AI活用の実践例をLT(ライトニングトーク)で共有し、参加者同士で気軽に交流するイベントです。
 エンジニアでも、エンジニアじゃなくても参加OK！&lt;/p&gt;
@@ -140,7 +226,7 @@ AWS公式のカードゲーム &lt;a href="https://aws.amazon.com/jp/builders-fl
 &lt;ul&gt;
 &lt;li&gt;写真撮影を行う可能性があります（NGの方は当日お知らせください）&lt;/li&gt;
 &lt;li&gt;イベント内容は一部変更となる場合があります&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagasaki.connpass.com/event/392986/</guid><enclosure url="https://media.connpass.com/thumbs/a5/cc/a5ccce077058a20e3751cc85c3e07dbc.png" length="0" type="image/png"/><pubDate>Thu, 07 May 2026 20:51:21 +0900</pubDate></item><item><title>ITキャンプ in 南島原2026</title><link>https://minasapo.connpass.com/event/391927/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ミナサポ&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県南島原市西有家町長野1776&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;南島原の大自然の中でITスキルを学ぼう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;南島原の自然の中でITについて学ぼう！！&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagasaki.connpass.com/event/392986/</guid><enclosure url="https://media.connpass.com/thumbs/a5/cc/a5ccce077058a20e3751cc85c3e07dbc.png" length="0" type="image/png"/><pubDate>Mon, 11 May 2026 10:09:50 +0900</pubDate></item><item><title>ITキャンプ in 南島原2026</title><link>https://minasapo.connpass.com/event/391927/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ミナサポ&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県南島原市西有家町長野1776&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;南島原の大自然の中でITスキルを学ぼう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;南島原の自然の中でITについて学ぼう！！&lt;/h1&gt;
 &lt;p&gt;今年で11回目を迎える「ITキャンプ in 南島原2026」は、小学生から大人までがITに関する技術を学ぶ事ができ、また南島原の豊かな自然の中に作られたキャンプ場「エコパーク論所原」に宿泊して、最新のIT技術やIT業界のお仕事について知ることができるイベントです。&lt;/p&gt;
 &lt;p&gt;今回のイベントのテーマは「&lt;b&gt;生成AIを育てる！（仮）&lt;/b&gt;」。ハンズオン形式で実践的にIT技術を学ぶことができるワークショップを用意しています。&lt;/p&gt;
 &lt;h2&gt;参加して欲しい人&lt;/h2&gt;
