@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山形のイベント</title><link>https://connpass.com/explore/</link><description>山形のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山形のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 11 May 2026 17:19:17 +0000</lastBuildDate><item><title>第35回 CoderDojo Tsuruoka</title><link>https://coderdojo-tsuruoka.connpass.com/event/392826/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月23日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月23日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 古今cocon&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県鶴岡市山王町8-18 古今cocon&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojotsuruoka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（コーダー道場）とは？&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山形のイベント</title><link>https://connpass.com/explore/</link><description>山形のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山形のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 12 May 2026 17:02:47 +0000</lastBuildDate><item><title>第35回 CoderDojo Tsuruoka</title><link>https://coderdojo-tsuruoka.connpass.com/event/392826/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月23日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月23日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 古今cocon&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県鶴岡市山王町8-18 古今cocon&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojotsuruoka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（コーダー道場）とは？&lt;/h1&gt;
 &lt;p&gt;CoderDojo は7〜17歳を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には201以上の道場があります。(2024年10月現在)&lt;/p&gt;
 &lt;p&gt;子どもにより良い環境で、自発的に、なおかつ無料でプログラミングに触れる機会を提供するために始まりました。&lt;/p&gt;
 &lt;p&gt;CoderDojo Japan Webページ: &lt;a href="https://coderdojo.jp/" rel="nofollow"&gt;https://coderdojo.jp/&lt;/a&gt;&lt;/p&gt;
@@ -347,7 +347,39 @@ APRICOTをはじめとする国際会議への参加は、ハードルが高く�
 &lt;ul&gt;
 &lt;li&gt;概要&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;/pre&gt;
+&lt;pre&gt;3/20にNTT東日本の水越さんが、JANOGのMLで、こんな投稿をしたのを覚えてるでしょうか？
+
+↓↓
+Mailing Listについて聞いてみたいことができたので、こんなアンケート作ってみました。
+質問は
+  MLのアドレスと個人向けのアドレスが並べてポストされ、
+  その個人向けアドレスがMLの配信先に入っていた時に
+  MLがどのような挙動をするのかが好みですか？
+です。
+
+選択肢は
+  MLからその個人向けアドレスには配信しない (個人宛の一通だけが届く)
+  MLからその個人向けアドレスに配信する（ほぼ同じ内容のメールが2通届く）
+  どちらでも良い
+です。
+
+結果の扱いは linkの中にも書いたように、
+  ”結果は、地域NOGなどでの意見交換や、JANOG MLへの集計結果を共有する想定です。
+  元気があれば、情報処理学会のIOT研究会向けに発表としてまとめるかもしれません。”
+↑↑
+
+結果を地域NOGで発表、と書いてあるのですが、水越さんはTDNOGの日は別件があって来ることができません。
+水越さん曰く↓
+
+  ねえねえ、代わりに発表してきてよー
+
+ということで代理で
+
+- 集計した結果
+- 自由回答のアンケートの分析手法(文系的手法+AI)
+
+を発表することになったのでとりあえず頑張ります。
+&lt;/pre&gt;
 
 &lt;h2&gt;15:45-16:05　NaaSで放送サービスを強靭化した話&lt;/h2&gt;
 &lt;ul&gt;
@@ -455,4 +487,4 @@ IPoE協議会 IPv6地理情報共有推進委員会：https://ipoe-c.jp/wg/IPv6/
 &lt;li&gt;応募フォーム（ https://forms.gle/jfsyPAPm21JKv5YT8/ ）&lt;/li&gt;
 &lt;li&gt;staff@tdnog.jp宛てに上記内容を送信&lt;/li&gt;
 &lt;li&gt;コアメンバーに直接コンタクト&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tdnog.connpass.com/event/387206/</guid><enclosure url="https://media.connpass.com/thumbs/b6/20/b620df0a95571369429f8432e5109295.png" length="0" type="image/png"/><pubDate>Tue, 05 May 2026 16:57:49 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tdnog.connpass.com/event/387206/</guid><enclosure url="https://media.connpass.com/thumbs/b6/20/b620df0a95571369429f8432e5109295.png" length="0" type="image/png"/><pubDate>Tue, 12 May 2026 19:17:30 +0900</pubDate></item></channel></rss>
