@@ -1,5 +1,130 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 15 May 2026 16:47:53 +0000</lastBuildDate><item><title>第81回 CoderDojo猪名川 2026/5/23（土） 14:00～16:30</title><link>https://coderdojo-inagawa.connpass.com/event/393927/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月23日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月23日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 日生中央サピエ 2階 サピエギャラリー&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県川辺郡猪名川町松尾台1-2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;＠日生中央サピエ２階 サピエギャラリー&lt;/p&gt;&lt;div&gt;&lt;ul&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 16 May 2026 15:50:41 +0000</lastBuildDate><item><title>#8 凡人の、凡人による、凡人のための、AI駆動。</title><link>https://ai-driven-bonjin.connpass.com/event/394087/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月30日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月30日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ただ、これが全てではない。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
+&lt;h2&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h2&gt;
+&lt;h2&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;今回のマイテーマ&lt;/h2&gt;
+&lt;h3&gt;「今月で終了。Codex 2倍レート キャンペーン終了後のトークン戦略」&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;codex app server&lt;/li&gt;
+&lt;li&gt;hermes kanban &lt;/li&gt;
+&lt;li&gt;codex with mobile &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;指定書とは&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;目標設定は自分がで行うことが行えることが基本です。分からない人は読むことをおすすめします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「イシューからはじめよ」 &lt;a href="https://amzn.asia/d/02kzvdQU" rel="nofollow"&gt;https://amzn.asia/d/02kzvdQU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;著者の主張雑感&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G" rel="nofollow"&gt;https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5" rel="nofollow"&gt;https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HEZW_GbY0Ig" rel="nofollow"&gt;https://www.youtube.com/watch?v=HEZW_GbY0Ig&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E" rel="nofollow"&gt;https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;何かしらの自然言語が喋れる（英語、日本語、中国語...）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;* Google アカウントを持っている＆共有できる&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ノートパソコンを持参できる（iapd + keyboard でもいいかも...）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://chatgpt.com/codex?app-landing-page=true" rel="nofollow"&gt;https://chatgpt.com/codex?app-landing-page=true&lt;/a&gt; を事前インストールしていると好ましい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;https://antigravity.google/ を事前インストールしていると好ましい&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;antigravity が難しいと判断した人は &lt;a href="https://aistudio.google.com/" rel="nofollow"&gt;https://aistudio.google.com/&lt;/a&gt; を使ってバイブコーディングにトライしましょう&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;なんとなく作ってみたいアプリ・ツール・サービス...etc がある&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新しく作ることはハードルが高いので、今あなたの目の前（頭の中）の課題を潰す＝余裕時間を作るということも大切です&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仕事などで繰り返し発生する退屈な作業潰しでもよいかも&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全体として Google系サービスを中心に使用しますが、他のツールやサービスもおおよそ使っているので、各個人お好みのものをお使いください&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;p&gt;17:30 開場(セットアップ)&lt;/p&gt;
+&lt;p&gt;18:00 はじめに&lt;/p&gt;
+&lt;p&gt;18:15 実装開始 &lt;/p&gt;
+&lt;p&gt;20:15 実装終了・生成物で雑談&lt;/p&gt;
+&lt;p&gt;20:30 おわりに&lt;/p&gt;
+&lt;p&gt;20:45 撤収&lt;/p&gt;
+&lt;h1&gt;最近のAI界隈の情報など・予備知識動画&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;https://labs.google/flow/tv/channel/listen-closely/QpjaV7vriVb25FoypAZd?random=true  &lt;/li&gt;
+&lt;li&gt;https://labs.google/fx/ja/tools/whisk/[...catchAll]  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/YamayaT/status/2024001469934895481" rel="nofollow"&gt;https://x.com/YamayaT/status/2024001469934895481&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF" rel="nofollow"&gt;https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/Algomatic_AILab/status/2023685630405103627" rel="nofollow"&gt;https://x.com/Algomatic_AILab/status/2023685630405103627&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tkzwgrs/status/2014163608121585807" rel="nofollow"&gt;https://x.com/tkzwgrs/status/2014163608121585807&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;キーワード&lt;/h1&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google Gemini App / Live
+Google Stitch
+Google Jules
+Google Antigravity
+Google AI Studio
+Firebase Studio
+Gemini CLI
+---
+Google Workspace Studio
+Google Vids
+NotebookLM
+Project Opal
+Flow
+Whisk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;codex app server&lt;/h2&gt;
+&lt;p&gt;openclaw
+nemoclaw
+moltbook
+rentahuman&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;superpowers
+conductor
+sisyphus
+everything-claude-code&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;symphony&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/ml-explore/mlx-swift/" rel="nofollow"&gt;https://github.com/ml-explore/mlx-swift/&lt;/a&gt;
+&lt;a href="https://github.com/raullenchai/Rapid-MLX" rel="nofollow"&gt;https://github.com/raullenchai/Rapid-MLX&lt;/a&gt;
+&lt;a href="https://github.com/jundot/omlx/" rel="nofollow"&gt;https://github.com/jundot/omlx/&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;codex5.5 #gemini3.1 #仕様駆動開発 #gemma4 #dflash #mlx #omlx&lt;/h1&gt;
+&lt;h1&gt;架空のお題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;SEOツールを作ろう -&amp;gt; キーワード取得やランキング変動やら&lt;/li&gt;
+&lt;li&gt;体育館空き状況 確認便利ツールを作ろう&lt;/li&gt;
+&lt;li&gt;自動予約もできるようにしよう&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-driven-bonjin.connpass.com/event/394087/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Sat, 16 May 2026 13:08:41 +0900</pubDate></item><item><title>第81回 CoderDojo猪名川 2026/5/23（土） 14:00～16:30</title><link>https://coderdojo-inagawa.connpass.com/event/393927/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月23日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月23日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 日生中央サピエ 2階 サピエギャラリー&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県川辺郡猪名川町松尾台1-2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;＠日生中央サピエ２階 サピエギャラリー&lt;/p&gt;&lt;div&gt;&lt;ul&gt;
 &lt;li&gt;プログラミングを始めたい、プログラミングの腕を上げたい、そんなこどもたちを募集しています。&lt;/li&gt;
 &lt;li&gt;Dojo（道場）では各自がプログラミング学習を進めます。困った時、教えてほしい時にサポートします。&lt;/li&gt;
 &lt;li&gt;サポートするプログラミングはScratch、Unityです。今後ご希望により他のプログラミング言語も追加を検討します。&lt;/li&gt;
@@ -65,7 +190,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;調整&lt;/td&gt;
+&lt;td&gt;責任あるAIライティングは仕組みと振り返りから - CircleCI Qiitaブログの裏側&lt;/td&gt;
 &lt;td&gt;11:10 - 11:50&lt;/td&gt;
 &lt;td&gt;岡本秀高&lt;/td&gt;
 &lt;/tr&gt;
@@ -401,7 +526,7 @@
 &lt;li&gt;過度に暴力的な表現・行為、露骨な性的表現、人種、国籍、信条、性別、社会的身分、門地等による差別につながる表現・行為、自殺、自傷行為、薬物乱用を誘引または助長する表現・行為、その他反社会的な内容を含み他人に不快感を与える表現・行為&lt;/li&gt;
 &lt;li&gt;営業、宣伝、広告、求人、勧誘、その他営利を目的とする行為（事前にコミュニティで認めたものを除きます。）、性行為やわいせつな行為を目的とする行為、他のお客様に対する嫌がらせや誹謗中傷を目的とする行為&lt;/li&gt;
 &lt;li&gt;宗教活動または宗教団体への勧誘行為&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nishinomiya.connpass.com/event/393617/</guid><enclosure url="https://media.connpass.com/thumbs/8d/83/8d835f85f639e6deed687100adacdffc.png" length="0" type="image/png"/><pubDate>Tue, 12 May 2026 16:53:24 +0900</pubDate></item><item><title>#7 凡人の、凡人による、凡人のための、AI駆動。</title><link>https://ai-driven-bonjin.connpass.com/event/393350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ただ、これが全てではない。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nishinomiya.connpass.com/event/393617/</guid><enclosure url="https://media.connpass.com/thumbs/8d/83/8d835f85f639e6deed687100adacdffc.png" length="0" type="image/png"/><pubDate>Sat, 16 May 2026 09:08:36 +0900</pubDate></item><item><title>#7 凡人の、凡人による、凡人のための、AI駆動。</title><link>https://ai-driven-bonjin.connpass.com/event/393350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ただ、これが全てではない。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
 &lt;h2&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h2&gt;
 &lt;h2&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h2&gt;
 &lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
@@ -668,150 +793,7 @@ CoderDojo明石では、広報のためにDojoの様子を写真または動画�
 &lt;p&gt;◆groupページ&lt;br&gt;
 &lt;a href="https://www.facebook.com/groups/284004485439214/" rel="nofollow"&gt;https://www.facebook.com/groups/284004485439214/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;◆過去のイベント スクラムサインのコミュニティーページ &lt;br&gt;
-&lt;a href="https://scrumsign.com/community/" rel="nofollow"&gt;https://scrumsign.com/community/&lt;/a&gt;&lt;img alt="image.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff39dcd0-949c-41b3-b83c-d7e49833442a/60445b41-b296-426c-ae73-f5e7b743bf37/image.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/392984/</guid><enclosure url="https://media.connpass.com/thumbs/3c/f4/3cf4cbd0ea076bf830aa3abd57d71d81.png" length="0" type="image/png"/><pubDate>Thu, 07 May 2026 17:33:19 +0900</pubDate></item><item><title>姫路IT系勉強会 2026.05</title><link>https://histudy.connpass.com/event/392957/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 13:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 姫路獨協大学&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県姫路市上大野7丁目2番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #histudy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;姫路獨協大学で開催します。場所の確認をお願いします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
-&lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域の技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt;
-&lt;p&gt;参加者には以下のような人たちが参加しています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学生&lt;/li&gt;
-&lt;li&gt;Web製作者&lt;/li&gt;
-&lt;li&gt;Webデザイナー&lt;/li&gt;
-&lt;li&gt;マークアップエンジニア&lt;/li&gt;
-&lt;li&gt;エンジニア&lt;/li&gt;
-&lt;li&gt;フロントエンド&lt;/li&gt;
-&lt;li&gt;バックエンド&lt;/li&gt;
-&lt;li&gt;サーバー&lt;/li&gt;
-&lt;li&gt;インフラ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※参加者は、主に姫路周辺地域の人が多いですが、ほかの地域に在住の方の参加もオンライン・オフラインともに&lt;strong&gt;大歓迎&lt;/strong&gt;です。&lt;/p&gt;
-&lt;h1&gt;勉強会開催について&lt;/h1&gt;
-&lt;p&gt;今月は姫路獨協大学 メディア工房にて&lt;strong&gt;オフライン&lt;/strong&gt;開催です&lt;/p&gt;
-&lt;p&gt;姫路IT系勉強会では、オンライン開催とオフライン開催を交互に開催しています。
-開催月は、偶数月はDiscord上でのオンライン開催、奇数月はオフライン開催しています。&lt;/p&gt;
-&lt;p&gt;開催月と場所を確認の上、ご参加ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;偶数月: オンライン&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;奇数月: オフライン&lt;/strong&gt; 今月&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;会場までのルート&lt;/h1&gt;
-&lt;p&gt;会場は、姫路獨協大学 講義棟 4F メディア工房 424Mです。&lt;br&gt;
-※地図： &lt;a href="https://osm.org/go/56vhasesi--?m=" rel="nofollow"&gt;https://osm.org/go/56vhasesi--?m=&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;講義棟は、こちらの&lt;a href="https://www.himeji-du.ac.jp/access/map/" rel="nofollow"&gt;キャンパスマップ&lt;/a&gt;6番の建物で、この建物の4階です。
-くわしいアクセス方法は、大学へのアクセスページをご覧ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;姫路獨協大学 | アクセス: &lt;a href="https://www.himeji-du.ac.jp/access/traffic/" rel="nofollow"&gt;https://www.himeji-du.ac.jp/access/traffic/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;バスを使う&lt;/h3&gt;
-&lt;p&gt;JR/山陽姫路駅前の神姫バス8番または9番乗り場（&lt;a href="https://www.shinkibus.co.jp/bus/map/index.html" rel="nofollow"&gt;キャスパ、キュエルの前&lt;/a&gt;）から姫路獨協大学ー大寿台行きが15分おきに出ています。それに乗って30分ほどで到着します。運賃は片道310円です。&lt;/p&gt;
-&lt;p&gt;バスは、開始時間に合わせるなら、11:45, 12:00, 12:15, 12:30に出ています。
-詳しい時間については、神姫バスの運行案内をご覧ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;神姫バスＮａｖｉ - 運行案内検索: &lt;a href="https://navi.shinkibus.jp/snk/" rel="nofollow"&gt;https://navi.shinkibus.jp/snk/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;車やバイクなどを使う&lt;/h3&gt;
-&lt;p&gt;車で来られる場合は、学生第1、2、3駐車場が利用できます。駐車料金は200円（硬貨のみ）です。
-それぞれの駐車場へのアクセス方法については、大学のアクセスページをご参照ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;姫路獨協大学 | アクセス: &lt;a href="https://www.himeji-du.ac.jp/access/traffic/" rel="nofollow"&gt;https://www.himeji-du.ac.jp/access/traffic/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;バイクや自転車の方は駐輪場が無料で使えます。場所は&lt;a href="https://www.himeji-du.ac.jp/access/map/" rel="nofollow"&gt;キャンパスマップ&lt;/a&gt;の19番です。&lt;/p&gt;
-&lt;h2&gt;勉強会について&lt;/h2&gt;
-&lt;h3&gt;はじめに&lt;/h3&gt;
-&lt;p&gt;当日または当日までに、勉強会のお題(HackMD)に、以下の様なことを自由にご記入ください。&lt;br&gt;
-(HackMDに記載する内容に関しては、少しでもIT系にカスッていれば何を書いていただいてもOKです)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;興味があること&lt;/li&gt;
-&lt;li&gt;こんなのやってみた(俺/私の話を聞いてくれ！)&lt;/li&gt;
-&lt;li&gt;聞いてみたいこと / 悩んでいること&lt;/li&gt;
-&lt;li&gt;他の会社/フリーランスの人と交流してみたい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;HackMDに記載されたお題を元に、以下の方法で勉強会が進行していきます。&lt;/p&gt;
-&lt;h3&gt;勉強会の進行方法&lt;/h3&gt;
-&lt;p&gt;お題を元に参加者全員でついて話し合う、座談会(アンカンファレンス)形式で進行します。&lt;/p&gt;
-&lt;p&gt;当日に話し合うお題はHackMDに記載します。&lt;/p&gt;
-&lt;p&gt;※お題を記載した人が何かを発表をしなければいけないという類のものでありませんが、「ぜひ、発表をしたい！」という場合は歓迎します。&lt;/p&gt;
-&lt;h3&gt;過去のお題(例)&lt;/h3&gt;
-&lt;p&gt;過去の開催ログはログはこちらで公開しています。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://histudy.jp/" rel="nofollow"&gt;https://histudy.jp/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;勉強会のお題/ログ (HackMD)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://hackmd.io/ni7APdCrT02oldapiz547g?both" rel="nofollow"&gt;https://hackmd.io/ni7APdCrT02oldapiz547g?both&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;p&gt;付箋紙に記載されたお題をジャンル分け・レベル分けし、以下の様な感じで開催されます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;13:15 - 会場の準備(机の並び替えなど)&lt;/li&gt;
-&lt;li&gt;13:30 - 前説・自己紹介&lt;/li&gt;
-&lt;li&gt;14:00 - お題1〜3 (比較的万人向け？) &lt;/li&gt;
-&lt;li&gt;15:00 - お題4〜6 (プログラム系のネタが多め？) &lt;/li&gt;
-&lt;li&gt;16:00 - お題7〜9 (インフラ・ネットワーク・サーバ系・脱落者多数のネタ多し？) &lt;/li&gt;
-&lt;li&gt;17:00 - 終了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;お題の数や盛り上がり具合により時間は変動します。また、間に適当に休憩を挟むので時間は前後します。&lt;/p&gt;
-&lt;h3&gt;姫路IT系勉強会のキーワード&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;プログラミング / 各種フレームワーク&lt;/li&gt;
-&lt;li&gt;JavaScript / TypeScript&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://jp.vuejs.org/" rel="nofollow"&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://ja.reactjs.org/" rel="nofollow"&gt;React&lt;/a&gt; など&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;PHP&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://laravel.com/" rel="nofollow"&gt;Laravel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cakephp.org/" rel="nofollow"&gt;CakePHP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://symfony.com/" rel="nofollow"&gt;Symfony&lt;/a&gt; など&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Python&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.djangoproject.com/" rel="nofollow"&gt;Django&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://flask.palletsprojects.com/" rel="nofollow"&gt;Flask&lt;/a&gt; など&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;シェルスクリプト&lt;/li&gt;
-&lt;li&gt;Common Lisp&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.quicklisp.org/beta/" rel="nofollow"&gt;quicklisp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://roswell.github.io/" rel="nofollow"&gt;roswell&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/joaotavora/sly" rel="nofollow"&gt;SLY is Sylvester the Cat's Common Lisp IDE for Emacs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Scheme Lisp&lt;/li&gt;
-&lt;li&gt;Web制作&lt;/li&gt;
-&lt;li&gt;Webデザイン&lt;/li&gt;
-&lt;li&gt;HTML / CSS&lt;/li&gt;
-&lt;li&gt;CMS / ヘッドレスCMS&lt;/li&gt;
-&lt;li&gt;クラウド / サーバー / ネットワーク&lt;/li&gt;
-&lt;li&gt;仮想化&lt;/li&gt;
-&lt;li&gt;クラウド&lt;/li&gt;
-&lt;li&gt;構成管理 / IaC(Infrastructure as Code)&lt;/li&gt;
-&lt;li&gt;プロジェクトマネジメント / タスクマネージメント / ワークフロー&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.redmine.org/" rel="nofollow"&gt;Redmine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;エディタ / IDE&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://code.visualstudio.com/" rel="nofollow"&gt;VSCode(Visual Studio Code)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Vim&lt;/li&gt;
-&lt;li&gt;Emacs など&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;OSS(オープンソースソフトウェア)&lt;/li&gt;
-&lt;li&gt;Android / iOS&lt;/li&gt;
-&lt;li&gt;ガジェット / Raspberry Pi / Beagle bone black&lt;/li&gt;
-&lt;li&gt;IT技術者のライフハック&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;その他、関連することなど…&lt;/p&gt;
-&lt;h1&gt;連絡方法&lt;/h1&gt;
-&lt;p&gt;姫路IT系勉強会は、Slackで連絡と交流しています。(オンラインで利用するDiscordではないのでご注意ください)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://join.slack.com/t/histudy/shared_invite/zt-ugowinom-ZG0ORhstkrqQGVyjksr_OA" rel="nofollow"&gt;姫路IT系勉強会 Slackへ参加する&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;※オフラインの場合のみ&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;社会人: 500円(会場費代として) &lt;/li&gt;
-&lt;li&gt;学生: 無料(社会人学生不可) &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;学生の方は、学生証をお持ちください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://histudy.connpass.com/event/392957/</guid><enclosure url="https://media.connpass.com/thumbs/b4/6e/b46e6d348fd22fe0491deaec351780e7.png" length="0" type="image/png"/><pubDate>Mon, 04 May 2026 22:42:25 +0900</pubDate></item><item><title>Google I/O Live Viewing</title><link>https://gdgkwansai.connpass.com/event/392937/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 0:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 9:00&lt;/li&gt;&lt;li&gt;📍 会場: Worldwide Kobe&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区琴ノ緒町５丁目４−５ 三琴ビル 3階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;a href="https://scrumsign.com/community/" rel="nofollow"&gt;https://scrumsign.com/community/&lt;/a&gt;&lt;img alt="image.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/ff39dcd0-949c-41b3-b83c-d7e49833442a/60445b41-b296-426c-ae73-f5e7b743bf37/image.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/392984/</guid><enclosure url="https://media.connpass.com/thumbs/3c/f4/3cf4cbd0ea076bf830aa3abd57d71d81.png" length="0" type="image/png"/><pubDate>Thu, 07 May 2026 17:33:19 +0900</pubDate></item><item><title>Google I/O Live Viewing</title><link>https://gdgkwansai.connpass.com/event/392937/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月20日(水) 0:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月20日(水) 9:00&lt;/li&gt;&lt;li&gt;📍 会場: Worldwide Kobe&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区琴ノ緒町５丁目４−５ 三琴ビル 3階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;今年の Google I/O 2026 の生中継をみんなで見ながらワイワイする会です。&lt;/p&gt;
 &lt;h1&gt;注意&lt;/h1&gt;
 &lt;p&gt;イベント自体はアメリカ時間での開催になりますので、日本時間深夜のイベントになります。 未成年の方は、保護者同伴か、保護者が承諾していることが分かるものをご持参下さい。 
@@ -881,25 +863,7 @@ CoderDojo明石では、広報のためにDojoの様子を写真または動画�
 &lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;/p&gt;
 &lt;p&gt;イベントに参加される方はご一読ください。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/392937/</guid><enclosure url="https://media.connpass.com/thumbs/cb/d4/cbd4104a687848c177578b3ca9f007f9.png" length="0" type="image/png"/><pubDate>Mon, 04 May 2026 13:16:03 +0900</pubDate></item><item><title>第11回 CoderDojo川西(宝塚) 2026/5/16(土)　15:00～17:40</title><link>https://coderdojo-takaraduka.connpass.com/event/392877/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: アステ川西6階 市民プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県川西市栄町25-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;@アステ川西6階 市民プラザ　アステギャラリー&lt;/p&gt;&lt;div&gt;&lt;h2&gt;会場への行き方&lt;/h2&gt;
-&lt;p&gt;会場へのアクセスはこちらをご覧ください。&lt;/p&gt;
-&lt;p&gt;会場の外観はこの画面の一番下をご覧ください。&lt;/p&gt;
-&lt;h2&gt;会場を離れる保護者の方は16:00までにお戻りください&lt;/h2&gt;
-&lt;p&gt;お子さんを連れてこられた後、会場を離れられても結構ですが16:00までにはお戻りください。
-終了時刻は16:40としていますが子どもたちの作品発表は16:00からありますので、作品発表には保護者のみなさんも参加してくださいますようお願いいたします。&lt;/p&gt;
-&lt;h2&gt;必ずお読みください&lt;/h2&gt;
-&lt;p&gt;私たちの活動に参加される方は、&lt;a href="https://coderdojo.jp/docs/charter" rel="nofollow"&gt;必ずこちらに記載の内容をご確認の上&lt;/a&gt;、お申し込みください。
-参加申し込みされた方は、こちらの内容に同意いただいたものと判断させていただきます。&lt;/p&gt;
-&lt;p&gt;CoderDojoのただひとつのルールは、"Be Cool!（カッコよくあれ！）"です。活動の中のすべてのことについて"Cool"であることを心がけてください。&lt;/p&gt;
-&lt;h2&gt;持ち物（必須）&lt;/h2&gt;
-&lt;p&gt;ノートパソコン(Mac/Windowsどちらでも可)
-実際にパソコンを使った作業を行います。ノートパソコンは必ず持参をお願いします。
-会場ではWi-Fiによるインターネット接続が利用可能です。
-セキュリティの関係上、Windows XPなどサポートが終了しているOS搭載のパソコン持ち込みはご遠慮ください。
-多くの場合、これら古いOSのパソコンは動作も遅くDojoでの利用に耐えないことがほとんどです。&lt;/p&gt;
-&lt;h2&gt;駐車場のご利用について&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.astekawanishi.com/parking/" rel="nofollow"&gt;https://www.astekawanishi.com/parking/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;会場外観&lt;/h2&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-takaraduka.connpass.com/event/392877/</guid><pubDate>Sat, 02 May 2026 22:04:15 +0900</pubDate></item><item><title>【ただの納涼会】AKASHI.rb Meetup #21</title><link>https://akashi-rb.connpass.com/event/392859/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: いいオフィス明石 AreaDrive&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市本町１丁目２−３３ 興生ビル ４Ｆ&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #akashirb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※初心者歓迎！周辺地域でITに興味がある方はどなたでも参加していただいてかまいません！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AKASHI.rbについて&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/392937/</guid><enclosure url="https://media.connpass.com/thumbs/cb/d4/cbd4104a687848c177578b3ca9f007f9.png" length="0" type="image/png"/><pubDate>Mon, 04 May 2026 13:16:03 +0900</pubDate></item><item><title>【ただの納涼会】AKASHI.rb Meetup #21</title><link>https://akashi-rb.connpass.com/event/392859/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: いいオフィス明石 AreaDrive&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市本町１丁目２−３３ 興生ビル ４Ｆ&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #akashirb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※初心者歓迎！周辺地域でITに興味がある方はどなたでも参加していただいてかまいません！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AKASHI.rbについて&lt;/h2&gt;
 &lt;p&gt;AKASHI.rbは、明石市周辺在住者のために新しく誕生したエンジニアコミュニティです！もちろん、他地域の方の参加も大歓迎です！Ruby初心者、あるいは、プログラミングの初心者も大歓迎です。&lt;/p&gt;
 &lt;p&gt;発足したばかりのコミュニティかつ管理人にはコミュニテイや勉強会の運営経験がありません。手探りにはなってしまいますが、ぜひ一緒にAKASHI.rbを盛り上げていきましょう！&lt;/p&gt;
 &lt;p&gt;Rubyを中心としたコミュニティではありますが、Ruby以外の技術や技術以外の話題についても、気軽に話し合いながら、みんなで楽しく学べる場を目指しています。勉強会やイベントを通じて、ゆるくつながりながら一緒に成長していきましょう。&lt;/p&gt;
@@ -1355,100 +1319,7 @@ CoderDojo西神では、例えば以下のような内容をサポートして�
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://coderdojo.com/ja-JP/safeguarding" rel="nofollow"&gt;子供たちと安全に作業する&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module" rel="nofollow"&gt;セーフガードモジュール&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/391487/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Tue, 12 May 2026 17:11:54 +0900</pubDate></item><item><title>JISTA関西支部 26年5月度定例会『春のライトニングトーク大会』</title><link>https://jista.connpass.com/event/391422/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月16日(土) 13:45&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月16日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 東播磨生活創造センター「かこむ」&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県加古川市加古川町寺家町天神木97-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JISTA&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;JISTA関西支部 26年5月度 定例会『春のライトニングトーク大会』&lt;br&gt;&lt;/h1&gt;
-&lt;h3&gt;講演者および当日のタイムテーブル&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;タイムテーブル&lt;/th&gt;
-&lt;th&gt;登壇者&lt;/th&gt;
-&lt;th&gt;タイトル&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;13:45～14:00&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00～14:20&lt;/td&gt;
-&lt;td&gt;眞鍋美穂さん&lt;/td&gt;
-&lt;td&gt;最後のITストラテジスト試験と私なりの意義&lt;br&gt;〜制度変更をきっかけに再定義した、学びの意味〜&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:20～14:40&lt;/td&gt;
-&lt;td&gt;阿部一晴さん&lt;/td&gt;
-&lt;td&gt;元サラリーマン大学教員のつぶやき&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:40～15:00&lt;/td&gt;
-&lt;td&gt;國里康典さん&lt;/td&gt;
-&lt;td&gt;AI駆動開発の実践知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00～15:20&lt;/td&gt;
-&lt;td&gt;下野正子さん&lt;/td&gt;
-&lt;td&gt;ゼロから作る情シス7年間 ― 台帳ゼロからIPO準備体制・ISMS/Pマーク取得まで&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:20～15:30&lt;/td&gt;
-&lt;td&gt;休憩&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30～15:50&lt;/td&gt;
-&lt;td&gt;田中雅幸さん&lt;/td&gt;
-&lt;td&gt;ST試験論文が書けない本当の理由～添削で見えた合否の分岐点～&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:50～16:10&lt;/td&gt;
-&lt;td&gt;鶴川治久さん&lt;/td&gt;
-&lt;td&gt;2026第１四半期 私の仕事、全部見せます！&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:10～16:30&lt;/td&gt;
-&lt;td&gt;神谷将樹さん&lt;/td&gt;
-&lt;td&gt;「なんちゃってDXでええねん！」その後どないなったん？&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:30～17:00&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;（※タイムテーブルは目安となります）&lt;/p&gt;
-&lt;h3&gt;内容&lt;/h3&gt;
-&lt;p&gt;今月の関西支部定例会ではライトニングトーク大会を開催します。&lt;br&gt;
-ライトニングトークとは短時間でスピーカーが入れ替わり立ち替わりプレゼンを行うプレゼン大会です。&lt;br&gt;
-土曜日開催で、場所は初となる兵庫県加古川市。
-奮って参加いただき、播州の地にてお互いの知見を広げていきましょう！&lt;br&gt;
-&lt;br&gt;
-★登壇の募集は締め切りました。★
-&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;日時&lt;/h3&gt;
-&lt;p&gt;2026年5月16日(土) 13:45～17:00（13:30受付）&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;会場&lt;/h3&gt;
-&lt;p&gt;東播磨生活創造センター「かこむ」 講座研修室 ＜最寄り：JR加古川駅＞
-（住所：兵庫県加古川市加古川町寺家町天神木97-1）&lt;/p&gt;
-&lt;h3&gt;参加対象&lt;/h3&gt;
-&lt;p&gt;・日本ITストラテジスト協会（JISTA）の会員&lt;br&gt;
-・日本ITストラテジスト協会（JISTA）の会員から紹介を受けた方&lt;br&gt;
-・一般の方&lt;/p&gt;
-&lt;h3&gt;オンライン参加の方&lt;/h3&gt;
-&lt;p&gt;参加URLはJISTA MLへの送付とあわせ、こちらにて告知いたします。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;【日時】同日　17:15～19:15&lt;/p&gt;
-&lt;p&gt;【会場】BAR １９８６ KAKOGAWA&lt;br&gt;
-　　　　（住所：〒675-0064 兵庫県加古川市加古川町溝之口800）&lt;br&gt;
-　　　　TEL  079-421-8915&lt;/p&gt;
-&lt;p&gt;【参加費】5,000円・事前払い&lt;/p&gt;
-&lt;p&gt;【人数】最大25名&lt;/p&gt;
-&lt;h3&gt;申込期限&lt;/h3&gt;
-&lt;p&gt;2026年5月11日(水)23時59分&lt;/p&gt;
-&lt;p&gt;※懇親会から参加する方は「定例会現地参加＋懇親会」を選んでください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/391422/</guid><enclosure url="https://media.connpass.com/thumbs/9a/e4/9ae49d3c15ecb236628b6abb9379c0e2.png" length="0" type="image/png"/><pubDate>Tue, 12 May 2026 13:28:37 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #11】LT 大会</title><link>https://jawsug-kobe.connpass.com/event/391241/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月18日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月18日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1002）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS に関するネタならなんでも OK！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoseishin.connpass.com/event/391487/</guid><enclosure url="https://media.connpass.com/thumbs/78/db/78dbc1843a8d3a7fec63d5ffe5d1ed2a.png" length="0" type="image/png"/><pubDate>Tue, 12 May 2026 17:11:54 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #11】LT 大会</title><link>https://jawsug-kobe.connpass.com/event/391241/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月18日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月18日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1002）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS に関するネタならなんでも OK！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;【登壇者募集】はじめての「アウトプット」を全力応援します！&lt;br&gt;
 「社外で登壇なんて、自分にはまだ早いかも…」と思っている方にこそ、ぜひマイクを握ってほしい！&lt;br&gt;そんな思いから、少しゆとりを持たせた&lt;strong&gt;1人10分（準備・交代込み）&lt;/strong&gt;の枠をご用意しました。&lt;br&gt;&lt;br&gt;
 「もう慣れてるよ」って人は、初心者の人が安心できるような「昔やらかした失敗談」とか最近作った構成など話してくれると助かります（笑）&lt;br&gt;
@@ -2376,14 +2247,18 @@ Youtube総再生回数No.1プロチェリストの橋本專史と謎のアマチ
 &lt;p&gt;X: &lt;a href="https://x.com/bathtimefish" rel="nofollow"&gt;@bathtimefish&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="村岡 正和" src="https://github.com/user-attachments/assets/192a22d5-9448-4f47-bd51-0d5ac580702e" width="200"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;MS Base Kobe/株式会社BathTimeFish 代表取締役/株式会社神戸デジタル・ラボ 執行役員/MODE, Inc. ソリューションアーキテクト/一般社団法人 WebDINO Japan フェロー/産業メタバース総合研究所 所長/LINE API Expert 株式会社神戸デジタル・ラボで新事業創出事業を統括。&lt;br&gt;
-神戸を拠点としてWeb/IoTシステムの開発、IT技術コンサルティングを行っている。&lt;br&gt;
-Webを有効活用したビジネスモデルの設計から、それを駆動させるためのアプリケーション開発、セールスマネージメントまで。企業が求めるニーズに応じてオールインワンの支援を行う一方、事業の特性に合った最新技術を選定し、企業に導入するための指導も行っている&lt;/p&gt;
+&lt;p&gt;株式会社BathTimeFish 代表取締役/MODE, Inc. テックエキスパートマネージャー/一般社団法人 WebDINO Japan フェロー&lt;br&gt;
+神戸を拠点としてWeb/IoTシステムの開発、IT技術コンサルティングを行っている。
+Webを有効活用したビジネスモデルの設計から、それを駆動させるためのアプリケーション開発、セールスマネージメントまで。企業が求めるニーズに応じてオールインワンの支援を行う一方、事業の特性に合った最新技術を選定し、企業に導入するための指導も行っている。&lt;br&gt;
+最近はSUNO Premiumユーザーになって音質の向上を追究中。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;藤原唯人 氏&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="藤原唯人" src="https://github-production-user-asset-6210df.s3.amazonaws.com/57386127/593053672-08030129-8d4f-491c-8b90-5b773893360d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260515%2Fus-east-1%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20260515T102433Z&amp;amp;X-Amz-Expires=300&amp;amp;X-Amz-Signature=87d63c5ef8d9486f36461786e370049c94299d548be98ac0b1fa3cb17fb34bcf&amp;amp;X-Amz-SignedHeaders=host&amp;amp;response-content-type=image%2Fpng" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="藤原唯人" src="https://static.zenn.studio/user-upload/95d37b02ae32-20260516.png" width="200"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;ジャズビッグバンド「スガ部」のバンドマスター・ピアニストとしても活躍&lt;/p&gt;
+&lt;p&gt;弁護士（兵庫県弁護士会）　現在、神戸市中央区の神戸パートナーズ法律事務所にて執務&lt;br&gt;
+地元企業を中心とした活動支援のほか、クリエイターの権利保護に意欲的に取り組み、著書に「イラストレーターのための法律相談」（カナリア書房）あり&lt;br&gt;
+ジャズビッグバンド「スガ部」のバンドマスター・ピアニストとしても活躍&lt;br&gt;
+京都大学法学部卒業　神戸市出身&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2&gt;石原 直樹 氏&lt;/h2&gt;
@@ -2422,7 +2297,7 @@ Webを有効活用したビジネスモデルの設計から、それを駆動�
 &lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;/p&gt;
 &lt;p&gt;イベントに参加される方はご一読ください。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/388441/</guid><enclosure url="https://media.connpass.com/thumbs/3c/6e/3c6e48357b3096074b98542d6c60fd34.png" length="0" type="image/png"/><pubDate>Fri, 15 May 2026 19:24:59 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/388441/</guid><enclosure url="https://media.connpass.com/thumbs/3c/6e/3c6e48357b3096074b98542d6c60fd34.png" length="0" type="image/png"/><pubDate>Sat, 16 May 2026 20:17:29 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
 &lt;p&gt;高専カンファレンスとは、全国の高等専門学校の学生・卒業生が一つの会場に集結し、プレゼンによる発表形式を主とした勉強会形式のイベントです。有志の現役学生や卒業生が実行委員会を設立し、企画から広報、運営まで行います。2008年に第1回高専カンファレンスが開催され、今回で第189回目の開催となります。
 　本イベントの目的は,現役高専生が互いに刺激し合うことで成長し、各個人が一人のエンジニアとしての高いモチベーションを獲得することです。高専は日本全国に 58 校 62 キャンパス存在していますが、各キャンパス毎に閉鎖的なコミュニティが形成されているという問題点があります。
 　そこで、本イベントの実施によって、各高専のコミュニティの壁を越えた交流の機会を提供できることが期待されます。また、学生にとって各高専のコミュニティ内では経験できない新たな知見や、複眼的で柔軟な発想力の取得ができる機会になることを目指します。&lt;/p&gt;
