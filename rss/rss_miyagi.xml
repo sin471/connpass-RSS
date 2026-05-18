@@ -1,5 +1,164 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 17 May 2026 15:50:43 +0000</lastBuildDate><item><title>東北Tech道場 第23期 6月 石巻道場</title><link>https://gdgishinomaki.connpass.com/event/393881/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月6日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月6日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 一般社団法人イトナブ石巻&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県石巻市門脇字元浦屋敷30-25&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回の道場はオフラインとオンラインで開催しています。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;a href="http://www.tohokutechdojo.org/" rel="nofollow"&gt;東北Tech道場&lt;/a&gt;とは？&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 18 May 2026 17:25:42 +0000</lastBuildDate><item><title>第7回それいけ。AI ～仙台のLT会(2026年6月8日)</title><link>https://soreike-ai.connpass.com/event/394312/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月8日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月8日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目4-19アーバンネット仙台中央ビル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;https://note.com/yui_nos/n/n53c2fd54d255&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;a href="https://note.com/yui_nos/n/n53c2fd54d255" rel="nofollow"&gt;過去のイベントレポートはこちら&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;本イベントについて&lt;/h2&gt;
+&lt;p&gt;NTTアーバンソリューションズ(YUI NOS)とNECソリューションイノベータが共同開催するAIをテーマにしたLT会です。&lt;/p&gt;
+&lt;p&gt;「会社を超えた交流の場」「新しい技術・知識に触れる場」「仙台を盛り上げる」という3つの目標を掲げ、両社が持つ知見と情熱を知恵の交流に活かすために開催します。
+この場が単なる技術紹介以上に、参加者同士のネットワーク形成や、仙台という地域の発展へのヒントを得られるようにしてきたいです。&lt;/p&gt;
+&lt;h2&gt;当日タイムテーブル&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開場&lt;/span&gt;
+&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開始&lt;/span&gt;
+&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;35&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;&lt;span class="n"&gt;分&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;質問1分&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;1&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;2&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;3&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;4&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;6&lt;/span&gt;
+&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;集合写真撮影&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;交流会&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;◇会場：YUI NOS  2Fコワーキングスペース
+◇注意
+・写真撮影 OK  (映り込みなど配慮してください。運営も使います)
+・SNS投稿  OK  (写真は本人の了承得てください)
+◇会場
+・2Fで受付をしてください。  入退出はスタッフに声掛けください。
+◇ルール
+・連続の発表はご遠慮ください。間隔を2回程度空けてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1&gt;YUI NOS 施設利用 プライバシーポリシー&lt;/h1&gt;
+&lt;p&gt;プライバシーポリシーに従ってください。
+https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
+&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
+&lt;p&gt;イベントに参加するみなさんは以下のポリシーを遵守するように心がけてください。
+(TokyoGirls.rb アンチハラスメントポリシーを参考にさせていただきました。ありがとうございます。）&lt;/p&gt;
+&lt;h2&gt;当ポリシーの目的と適用範囲&lt;/h2&gt;
+&lt;p&gt;当ポリシーは、イベントの参加者全員が楽しく、安全に集える場を維持するために策定されました。&lt;/p&gt;
+&lt;p&gt;「参加者全員が楽しく、安全に集える場を維持する」という目的には、「将来開催されるイベントについてもみなさんが不安や心配を感じることなく、気軽に参加できること」も含まれています。&lt;/p&gt;
+&lt;p&gt;よって、当ポリシーはイベント会場内の発言や行動だけでなく、イベント終了後に発生した参加者同士のコミュニケーションや、SNS・ブログ等での情報発信（このイベントに関するもの）に対しても適用されます。&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;イベントに関わる人たちは誰もが対等です。よって、当ポリシーはイベントに関わる、以下の全員が対象になります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者&lt;/li&gt;
+&lt;li&gt;登壇者&lt;/li&gt;
+&lt;li&gt;スポンサー&lt;/li&gt;
+&lt;li&gt;運営スタッフ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当ポリシーでは、上記全員をまとめて「参加者」と表現します。ですので、「参加者」の中には登壇者やスポンサー、運営スタッフも含まれる点にご注意ください。&lt;/p&gt;
+&lt;h2&gt;ハラスメントの観点&lt;/h2&gt;
+&lt;p&gt;ハラスメント（他人を困らせる行為や嫌がらせ）の観点には、以下のような例があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ジェンダー、性自認やジェンダー表現、性的指向&lt;/li&gt;
+&lt;li&gt;障がい&lt;/li&gt;
+&lt;li&gt;外見、身体的特徴&lt;/li&gt;
+&lt;li&gt;人種、民族、国籍&lt;/li&gt;
+&lt;li&gt;年齢&lt;/li&gt;
+&lt;li&gt;宗教&lt;/li&gt;
+&lt;li&gt;特定のツールや技術、プログラミング言語と、その愛好者またはコミュニティ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ただし、上記の観点はあくまで一例です。上記以外の観点であっても、参加者が不快、不安に感じる発言や行動はハラスメントとみなされます。&lt;/p&gt;
+&lt;h2&gt;禁止行為&lt;/h2&gt;
+&lt;p&gt;上記の観点に対する、以下のような行為を禁止します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;攻撃的、非建設的、過剰に批判的な発言や揶揄（やゆ）&lt;/li&gt;
+&lt;li&gt;脅迫、ストーキング、つきまとい&lt;/li&gt;
+&lt;li&gt;不適切な身体的接触&lt;/li&gt;
+&lt;li&gt;性的な関心を引く行為（性的な画像の掲示や、性的なコスチュームの着用等）&lt;/li&gt;
+&lt;li&gt;ジェンダーを強く意識させるコンテキストで、特定の個人をほめたたえる行為&lt;/li&gt;
+&lt;li&gt;その他、スタッフがハラスメントであると判断した行為&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;言うまでもありませんが、性的なハラスメントについては男性から女性に対してだけではなく、女性から男性に対するハラスメントも禁止です。&lt;/p&gt;
+&lt;h2&gt;ハラスメントを受けたら、判断に迷ったら&lt;/h2&gt;
+&lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
+&lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
+&lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/394312/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Mon, 18 May 2026 21:50:33 +0900</pubDate></item><item><title>Sendai Frontend Meetup #22</title><link>https://sfeug.connpass.com/event/394290/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;仙台で行うWebフロントエンド全般の勉強会です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;オンライン配信の予定はありません。&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;技術だけでなくUXやデザインの話もしていければと考えています！&lt;/p&gt;
+&lt;p&gt;Webのフロントエンドに興味のある方でしたらどなたでもお気軽にご参加ください！&lt;br&gt;
+エンジニアはもちろん、デザイナーやディレクターさんも大歓迎！&lt;/p&gt;
+&lt;p&gt;初心者の方やこれからやっていきたい方も大歓迎です！&lt;/p&gt;
+&lt;h2&gt;参加枠について&lt;/h2&gt;
+&lt;p&gt;参加枠・LT枠共に、決定は申込みの先着順です。&lt;/p&gt;
+&lt;h3&gt;LT枠 / はじめてLT枠&lt;/h3&gt;
+&lt;p&gt;LTを発表したい方は、LT枠でお申し込みください。&lt;br&gt;
+内容はフロントエンドに関わる内容であれば、技術・UX・デザイン・設計の話などなんでもOK。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;はじめてLT枠はこういったイベントでLTするのが初めての人の枠です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初心者の方やLTやってみたいけど敷居が高いと思ってた方&lt;/strong&gt;など、ぜひチャレンジしてみてください！
+また、初めてLT枠の方は懇親会の参加費が無料です。&lt;/p&gt;
+&lt;p&gt;どちらのLT枠も&lt;strong&gt;発表時間は10分程度&lt;/strong&gt;で、発表の後に2分程度の質疑応答の時間を設けます。&lt;/p&gt;
+&lt;p&gt;LT枠/初めてLT枠で申し込まれた方は、&lt;strong&gt;LTタイトルを以下のいずれかの方法でご連絡ください&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;このイベントページのコメント欄でコメント&lt;/li&gt;
+&lt;li&gt;Twitterで &lt;a href="https://twitter.com/kan_dai" rel="nofollow"&gt;@kan_dai&lt;/a&gt; 、または&lt;a href="https://twitter.com/_akagire_" rel="nofollow"&gt;@_akagire_&lt;/a&gt; 宛に連絡(@でもDMでも可）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;18:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;挨拶&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:10&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;はじめてLT&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:25&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:40&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:55&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:10&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;21:45&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;片付け&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;22:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;撤収&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※順番や内容は当日変更になる可能性がございます。&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.enspace.work/about/access/" rel="nofollow"&gt;enspace&lt;/a&gt; さんの会場をお借りして開催します。    &lt;/p&gt;
+&lt;p&gt;住所：宮城県仙台市青葉区国分町1-4-9 enspace 5F (5B1)&lt;/p&gt;
+&lt;p&gt;※1階エントランス先のエレベーターよりお越しください。&lt;/p&gt;
+&lt;h2&gt;懇親会&lt;/h2&gt;
+&lt;p&gt;本編終了後にenspaceさんの会場をお借りして懇親会を行いますのでぜひご参加ください。&lt;/p&gt;
+&lt;p&gt;懇親会ではお酒や軽食を用意します。&lt;/p&gt;
+&lt;p&gt;懇親会に参加される場合は、懇親会費として1000円いただきます。&lt;br&gt;
+※はじめてLT枠の方は無料で懇親会に参加できます。
+※アルコール飲料は、運転される方・未成年には提供致しません&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sfeug.connpass.com/event/394290/</guid><enclosure url="https://media.connpass.com/thumbs/eb/14/eb14b907c404868c9e3383c3191acd07.png" length="0" type="image/png"/><pubDate>Mon, 18 May 2026 18:55:50 +0900</pubDate></item><item><title>東北Tech道場 第23期 6月 石巻道場</title><link>https://gdgishinomaki.connpass.com/event/393881/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月6日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月6日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 一般社団法人イトナブ石巻&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県石巻市門脇字元浦屋敷30-25&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回の道場はオフラインとオンラインで開催しています。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;a href="http://www.tohokutechdojo.org/" rel="nofollow"&gt;東北Tech道場&lt;/a&gt;とは？&lt;/h1&gt;
 &lt;p&gt;Googleなどの協力のもと、2012年10月に 仙台、石巻、滝沢の3会場でスタートしました。 &lt;/p&gt;
 &lt;p&gt;東北の発展のために精力的に活動を行っている方たちを、テクノロジーを使ってそれらの活動を支援したり、&lt;/p&gt;
 &lt;p&gt;またテクノロジーを使って頑張っている開発者の皆さんを支援するためにスタートしたアプリ開発の講座です。 &lt;/p&gt;
