@@ -1,5 +1,130 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 19 May 2026 17:34:50 +0000</lastBuildDate><item><title>CoderDojo長野 第14回  6/21(日) 14:00</title><link>https://coderdojo-nagano.connpass.com/event/393342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月21日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野県立図書館3F&lt;/li&gt;&lt;li&gt;🏢 住所: 長野市若里1-1-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;CoderDojo長野は、長野市で開催している子ども向け参加費無料のプログラミングクラブです。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 20 May 2026 17:49:52 +0000</lastBuildDate><item><title>朝の通勤が学びの時間に変わる。自分で作る「AIニュース公式LINE」</title><link>https://linedevelopercommunity.connpass.com/event/394365/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月2日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月2日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: サザンガク　大会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒390-0874 長野県松本市大手３丁目３−９ NTT東日本大名町ビル 1F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~ビジネスパーソンのためのAI活用ハンズオン~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;「朝の通勤時間、もっと有効活用したい」&lt;/strong&gt;
+そんなビジネスパーソンに向けたAI活用ハンズオンイベントです。&lt;/p&gt;
+&lt;p&gt;今回のイベントでは、&lt;strong&gt;毎朝AIが要約したニュースが自分の公式LINEに自動で届く仕組み&lt;/strong&gt;を、ノーコードでゼロから作ります。&lt;/p&gt;
+&lt;p&gt;朝起きてLINEを開けば、今日チェックすべきニュースが要点だけまとまって届いている。
+通勤電車の中で、ざっと目を通すだけで情報収集が完了する。
+そんな&lt;strong&gt;「自分専用ニュースキュレーター」を自分の手で作る90分&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;「AIに興味はあるけれど、何から始めればいいかわからない」
+「ノーコードツールを触ってみたいけれど、難しそう」
+「毎朝のニュースチェックに時間がかかりすぎている」&lt;/p&gt;
+&lt;p&gt;そんな方でも取り組みやすいように、&lt;strong&gt;初学者向けにわかりやすく進める内容&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;講師は、プロトタイピング専門スクール「プロトアウトスタジオ」プロデューサーで、世界で23名のLINE API Expertsの一人でもある菅原のびすけ氏。プロトタイピングの第一人者が、ノーコードで実用的な仕組みを作る楽しさを直接お伝えします。&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;毎朝の情報収集を効率化したいビジネスパーソン&lt;/li&gt;
+&lt;li&gt;AIやノーコードツールに興味がある方&lt;/li&gt;
+&lt;li&gt;LINEを使った自動化に挑戦してみたい方&lt;/li&gt;
+&lt;li&gt;通勤時間を学びの時間に変えたい方&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;エンジニアでなくても大丈夫です!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📌 こんな悩みありませんか?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「AIを使ってみたいけど、何から始めればいいかわからない」&lt;/li&gt;
+&lt;li&gt;「気になる業界のニュースを見逃してしまう」&lt;/li&gt;
+&lt;li&gt;「通勤時間をもっと学びの時間に変えたい」&lt;/li&gt;
+&lt;li&gt;「自分好みのニュースを効率的に集めたい」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🕰️タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;タイトル&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;スピーカー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;18:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;オープニング&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;18:40 - 19:50&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;ハンズオン&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:50 - 20:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;質疑応答、クロージング&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※タイムテーブルの順番は前後する可能性があります
+※適宜、休憩を入れながら進めます。&lt;/p&gt;
+&lt;h1&gt;イベント詳細&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時：2026/06/2(火) 18:30〜20:00&lt;/li&gt;
+&lt;li&gt;定員：&lt;/li&gt;
+&lt;li&gt;参加費：無料&lt;/li&gt;
+&lt;li&gt;主催：サザンガク・ながの01カレッジ&lt;/li&gt;
+&lt;li&gt;後援：松本市、DigiMAT（デジタルシティ松本推進機構）、デジタルハリウッドSTUDIO松本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;PCのご持参&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;企画運営・講師紹介&lt;/h1&gt;
+&lt;h3&gt;菅原 のびすけ（すがわら・のびすけ） Twitter : &lt;a href="https://x.com/n0bisuke&lt;br&gt;" rel="nofollow"&gt;https://x.com/n0bisuke&lt;br&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;プロトタイピング専門スクール「プロトアウトスタジオ」プロデューサー。
+1989年生まれ。岩手県立大学在籍時にITベンチャー企業の役員を務める。 同大学院を卒業後、株式会社LIGにWebエンジニアとして入社し、Web制作に携わる。2016年7月よりdotstudio株式会社を立ち上げ、IoT・モノづくり領域を中心とした研修や教育業に携わっている。2019年4月にプロトタイピング専門スクール「プロトアウトスタジオ」を立ち上げる。 2018年4月よりデジタルハリウッド大学大学院の非常勤講師も務めている。
+日本最大規模のIoTコミュニティであるIoTLTの主催、Microsoft MVP Visual Studio and Development Technologies (Node.js)、IBM Champion、世界で22名の第1期LINE API Expertsの一人。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://gs.dhw.ac.jp/hubfs/images/faculty/faculty_nobisuke_img02.jpg" width="300px"&gt;&lt;/p&gt;
+&lt;h2&gt;⚙️ 使うサービス&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;サービス&lt;/th&gt;
+&lt;th&gt;役割&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ノーコードツール&lt;/td&gt;
+&lt;td&gt;ワークフロー自動化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;RSSフィード&lt;/td&gt;
+&lt;td&gt;ニュース取得&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;生成AI(ChatGPT等)&lt;/td&gt;
+&lt;td&gt;ニュース要約&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LINE Messaging API&lt;/td&gt;
+&lt;td&gt;LINEへの自動配信&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;当日撮影した写真や映像は、主催者のSNS、Webサイト、告知物等に掲載される可能性があります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;オンライン参加方法&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpassにお申し込みいただくと、参加者欄にURLが表示されます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Youtube チャンネルへの登録よろしくおねがいします！&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1" rel="nofollow"&gt;&lt;img src="https://p72.f4.n0.cdn.getcloudapp.com/items/BluKp6dY/ce933ed5-8d6c-4b75-a278-9e00ee3639f6.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;コミュニティ行動規範（Code of Conduct)について&lt;/h2&gt;
+&lt;p&gt;本コミュニティは参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
+そのために、以下のような行為は禁止されております。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ヘイトスピーチ&lt;/li&gt;
+&lt;li&gt;性的な言葉や画像、性別に言及したり、性別により受け取り方の変わる言葉や画像の使用&lt;/li&gt;
+&lt;li&gt;侮辱や軽蔑的、中傷や他者を貶めるような発言&lt;/li&gt;
+&lt;li&gt;他者のプライバシーや私的な情報の無許可での公開&lt;/li&gt;
+&lt;li&gt;その他多様性への配慮を著しく欠く発言や行動&lt;/li&gt;
+&lt;li&gt;食事のみを目的とした参加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
+&lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。&lt;br&gt;
+ &lt;a href="https://twitter.com/linedc_jp" rel="nofollow"&gt;X @linedc_jp&lt;/a&gt;&lt;br&gt;
+&lt;a href="mailto:linedevcom@gmail.com"&gt;E-mail&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/394365/</guid><enclosure url="https://media.connpass.com/thumbs/dd/c6/ddc6d49d8bdf9c49adead01a2e84eb4b.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 12:01:34 +0900</pubDate></item><item><title>令和8年度 第1回ネットワーク委員会</title><link>https://jcta-shinetsu-network-group.connpass.com/event/394342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月11日(木) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月11日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県長野市鶴賀１２７１−３ ＷＥＳＴ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JCTA信越支部　ネットワーク委員会&lt;/p&gt;</description><guid isPermaLink="false">https://jcta-shinetsu-network-group.connpass.com/event/394342/</guid><enclosure url="https://media.connpass.com/thumbs/63/cc/63cc63ef50c5571fe1a28004efe16b3b.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 09:38:36 +0900</pubDate></item><item><title>CoderDojo長野 第14回  6/21(日) 14:00</title><link>https://coderdojo-nagano.connpass.com/event/393342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月21日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野県立図書館3F&lt;/li&gt;&lt;li&gt;🏢 住所: 長野市若里1-1-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;CoderDojo長野は、長野市で開催している子ども向け参加費無料のプログラミングクラブです。
 隔月日曜日の午後に開催する予定です。&lt;/p&gt;
 &lt;p&gt;プログラミングに興味を持っている子どもたちが集まり、Scratchでゲームを作ったり、micro:bitやRaspberry Piで電子工作をしたり、それぞれ自分のやりたいことを行い交流するための場所です。
 途中参加、退席でも大丈夫です。&lt;/p&gt;
