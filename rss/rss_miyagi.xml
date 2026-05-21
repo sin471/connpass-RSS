@@ -1,5 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 20 May 2026 17:49:05 +0000</lastBuildDate><item><title>CoderDojo仙台若林#62</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/394346/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月24日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月24日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 若林区中央市民センター（別棟）&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市若林区保春院前丁3番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 21 May 2026 17:26:35 +0000</lastBuildDate><item><title>[現地開催]Sendai.rb #47</title><link>https://sendairb.connpass.com/event/394718/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月4日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月4日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 仙台朝市直結 東四ビアガーデン&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目3-1 (東四市場ビル3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sendairb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;RubyKaigiのお土産トークをつまみに乾杯！&lt;/p&gt;&lt;div&gt;&lt;p&gt;仙台周辺のRubyistが集まってワイワイするコミュニティ、Sendai.rbの第47回です！&lt;/p&gt;
+&lt;p&gt;RubyKaigi現地参加メンバーのお土産LTをつまみに、ビアガーデンでビールを楽しみましょう！&lt;/p&gt;
+&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;h2&gt;RubyKaigi 2026 お土産LT会&lt;/h2&gt;
+&lt;p&gt;RubyKaigi 2026現地参加者(スタッフ＋希望者)によるお土産LT会を行います。&lt;br&gt;
+現地参加された方はぜひお土産(LT)をご持参ください♪ 持ち時間は10分程度を予定しています。&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:50&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;集合&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;19:00 ～ 19:10&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;19:10 ～ 20:50&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;RubyKaigi 2026お土産LT会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:50 ～ 21:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;お願い&lt;/h1&gt;
+&lt;h2&gt;CoC&lt;/h2&gt;
+&lt;p&gt;Sendai.rbでは、イベントの参加者全員が楽しく、安全に集える場を維持するために&lt;a href="https://esa-pages.io/p/sharing/13299/posts/6/11c7cd2a3876ee3ef3a3.html" rel="nofollow"&gt;行動規範&lt;/a&gt;を策定しています。&lt;br&gt;
+必ず事前に一読いただき、ご理解いただいた上でご参加ください。&lt;/p&gt;
+&lt;h1&gt;📢Slackチャンネルについて&lt;/h1&gt;
+&lt;p&gt;ruby-jpのSlackグループに#sendairbチャンネルがあります。&lt;br&gt;
+イベント当日の簡単な資料共有をはじめ、参加者どうしのコミュニケーションに使いたいと思っていますので、ぜひご参加ください！&lt;/p&gt;
+&lt;p&gt;ruby-jpのSlackグループに未参加の方は&lt;a href="https://ruby-jp.github.io/" rel="nofollow"&gt;こちら&lt;/a&gt;からどうぞ。(ruby-jpの行動規範も必ずご確認ください)&lt;br&gt;
+このSlackグループには国内のRubyistがたくさん集まっているので、Sendai.rb以外でのコミュニケーションもぜひ楽しんでください😊&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendairb.connpass.com/event/394718/</guid><enclosure url="https://media.connpass.com/thumbs/5b/23/5b23b44251011b9cfff5bf29be433ec6.png" length="0" type="image/png"/><pubDate>Thu, 21 May 2026 23:36:39 +0900</pubDate></item><item><title>CoderDojo仙台若林#62</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/394346/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月24日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月24日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 若林区中央市民センター（別棟）&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市若林区保春院前丁3番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -429,7 +470,7 @@ https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
 &lt;h1&gt;そもそもLinuxの操作に自信がない方へ&lt;/h1&gt;
 &lt;p&gt;こちらに1時間でLinuxの基礎が学べる最適な本がありますのでおすすめです&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://nomizone.booth.pm/items/6243981" rel="nofollow"&gt;https://nomizone.booth.pm/items/6243981&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nomizone.booth.pm/items/6243981" rel="nofollow"&gt;&lt;img src="https://booth.pximg.net/c01d4a03-a144-4dfe-addf-4a4d950d8318/i/6243981/1e99bd55-522f-4d95-9dbd-fe4635622e96_base_resized.jpg" width="300"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cyber-hiyokomame.connpass.com/event/393445/</guid><enclosure url="https://media.connpass.com/thumbs/0c/2e/0c2e0f597cd3e3b175f6ca6a3ed31ba9.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 14:47:14 +0900</pubDate></item><item><title>＃02 はじめてのIT勉強会 in 仙台(2026) 【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/393226/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月27日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月27日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町１丁目４−９&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://lets-go-study-meeting.connpass.com/event/393226/</guid><enclosure url="https://media.connpass.com/thumbs/6e/bc/6ebc9d261c8ea16e2c7b7bb3591328d4.png" length="0" type="image/png"/><pubDate>Fri, 08 May 2026 02:18:22 +0900</pubDate></item><item><title>見て学ぶ！ ChatGPTお試しセミナー in 仙台</title><link>https://sendai-ai.connpass.com/event/392437/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月2日(火) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月2日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Blank2階ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町2丁目3-12（Blank2階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者の方でも2時間でAIを活用して動画を作成出来るようになります!&lt;/p&gt;&lt;div&gt;&lt;h2&gt;❐ イベントについて&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://nomizone.booth.pm/items/6243981" rel="nofollow"&gt;&lt;img src="https://booth.pximg.net/c01d4a03-a144-4dfe-addf-4a4d950d8318/i/6243981/1e99bd55-522f-4d95-9dbd-fe4635622e96_base_resized.jpg" width="300"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cyber-hiyokomame.connpass.com/event/393445/</guid><enclosure url="https://media.connpass.com/thumbs/0c/2e/0c2e0f597cd3e3b175f6ca6a3ed31ba9.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 14:47:14 +0900</pubDate></item><item><title>＃02 はじめてのIT勉強会 in 仙台(2026) 【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/393226/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月27日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月27日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町１丁目４−９&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://lets-go-study-meeting.connpass.com/event/393226/</guid><enclosure url="https://media.connpass.com/thumbs/6e/bc/6ebc9d261c8ea16e2c7b7bb3591328d4.png" length="0" type="image/png"/><pubDate>Thu, 21 May 2026 08:49:55 +0900</pubDate></item><item><title>見て学ぶ！ ChatGPTお試しセミナー in 仙台</title><link>https://sendai-ai.connpass.com/event/392437/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月2日(火) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月2日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Blank2階ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町2丁目3-12（Blank2階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者の方でも2時間でAIを活用して動画を作成出来るようになります!&lt;/p&gt;&lt;div&gt;&lt;h2&gt;❐ イベントについて&lt;/h2&gt;
 &lt;p&gt;「AIって難しそう…」「興味はあるけど何から始めていいのかわからない…」  
 そんなあなたにぴったりの、見るだけで学べる初心者向けセミナーです！&lt;/p&gt;
 &lt;p&gt;ChatGPTを使えば、日常のちょっとした疑問の解決から仕事の効率化、趣味の充実まで、あなたの毎日がもっと便利に、楽しくなります。&lt;/p&gt;
@@ -534,7 +575,7 @@ https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
 ✉️ &lt;strong&gt;メール： &lt;a href="mailto:saitoyuki0702@gmail.com"&gt;saitoyuki0702@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;生成AIの魅力と可能性を体感できる一日を、ぜひ一緒に楽しみましょう！  
-皆さまのご参加を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-ai.connpass.com/event/392437/</guid><enclosure url="https://media.connpass.com/thumbs/67/5b/675b0ac3fa36756c175ef36520387924.png" length="0" type="image/png"/><pubDate>Tue, 28 Apr 2026 16:38:29 +0900</pubDate></item><item><title>【JAWS-UG東北】AWSシリコン最前線 × Bedrock AgentCore ハンズオン</title><link>https://jaws-tohoku.connpass.com/event/392064/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: NECソリューションイノベータ 東北支部&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0021　宮城県仙台市青葉区中央3-5-17（ミレーネT仙台ビル）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;6/13に開催されるJAWS-UG 東北イベントの懇親会予約のページです。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【JAWS-UG東北】AWSシリコン最前線 × Bedrock AgentCore ハンズオン&lt;/h1&gt;
+皆さまのご参加を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-ai.connpass.com/event/392437/</guid><enclosure url="https://media.connpass.com/thumbs/67/5b/675b0ac3fa36756c175ef36520387924.png" length="0" type="image/png"/><pubDate>Thu, 21 May 2026 10:49:48 +0900</pubDate></item><item><title>【JAWS-UG東北】AWSシリコン最前線 × Bedrock AgentCore ハンズオン</title><link>https://jaws-tohoku.connpass.com/event/392064/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: NECソリューションイノベータ 東北支部&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0021　宮城県仙台市青葉区中央3-5-17（ミレーネT仙台ビル）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;6/13に開催されるJAWS-UG 東北イベントの懇親会予約のページです。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【JAWS-UG東北】AWSシリコン最前線 × Bedrock AgentCore ハンズオン&lt;/h1&gt;
 &lt;h2&gt;🟦 イベント概要&lt;/h2&gt;
 &lt;p&gt;本イベントは &lt;span style="color: #d6336c;"&gt;&lt;strong&gt;2部構成のスペシャル回&lt;/strong&gt;&lt;/span&gt; です。&lt;/p&gt;
 &lt;h3&gt;🔹 前半（セッション）&lt;/h3&gt;
@@ -625,7 +666,7 @@ AI時代における「チップ選択の考え方」を、開発に関わる当
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;懇親会に参加する方はこちらのイベントページからお申込みください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://jaws-tohoku.connpass.com/event/392075/" rel="nofollow"&gt;https://jaws-tohoku.connpass.com/event/392075/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaws-tohoku.connpass.com/event/392064/</guid><enclosure url="https://media.connpass.com/thumbs/ef/53/ef534a910bca29fc5f0b8d6ee0650376.png" length="0" type="image/png"/><pubDate>Mon, 27 Apr 2026 09:08:02 +0900</pubDate></item><item><title>OSC仙台前夜祭</title><link>https://ospn-tohoku.connpass.com/event/391843/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月5日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月5日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 神楽 仙台駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央1-7-6 3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;前日来られる方はご一緒に夕飯いかがでしょうか&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;span style="font-size: 1.2em;"&gt;
+&lt;p&gt;&lt;a href="https://jaws-tohoku.connpass.com/event/392075/" rel="nofollow"&gt;https://jaws-tohoku.connpass.com/event/392075/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaws-tohoku.connpass.com/event/392064/</guid><enclosure url="https://media.connpass.com/thumbs/ef/53/ef534a910bca29fc5f0b8d6ee0650376.png" length="0" type="image/png"/><pubDate>Thu, 21 May 2026 09:43:36 +0900</pubDate></item><item><title>OSC仙台前夜祭</title><link>https://ospn-tohoku.connpass.com/event/391843/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月5日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月5日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 神楽 仙台駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央1-7-6 3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;前日来られる方はご一緒に夕飯いかがでしょうか&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;span style="font-size: 1.2em;"&gt;
 6/5(金)のOSC仙台の前夜祭です。(～20名を予定)  &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="font-size: 1.2em;"&gt;
 - 6/5(金) 18:30～20:30&lt;br&gt;
@@ -809,7 +850,7 @@ LTや交流を通して、「AIをどう使うか」「どう活かすか」を�
 &lt;p&gt;本セッションではClaude CodeとRemotionを使って作成したポッドキャスト番組作成ツールを紹介します。&lt;/p&gt;
 &lt;h1&gt;登壇者情報（順次更新）&lt;/h1&gt;
 &lt;h2&gt;Yuya Modeki (もで)&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://scontent-nrt6-1.xx.fbcdn.net/v/t39.30808-6/358489916_6432519583483733_5070899707324291890_n.jpg?_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=1d70fc&amp;amp;_nc_ohc=5mTrD6aZbRAQ7kNvwGrtNGR&amp;amp;_nc_oc=Adrelenpcbr2AkifHGXSV8hjRjAVXQw36tO0Y2nDapFhtahwOgPpPlntld1U9gtZi38&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent-nrt6-1.xx&amp;amp;_nc_gid=Ft36_eeR0LQe6cSq8ylhQw&amp;amp;_nc_ss=7b2a8&amp;amp;oh=00_Af6KnX0B5D57JTqx_Ek7HVQ8bpL_gm4l-bl7p5-ZHskSJQ&amp;amp;oe=6A022615" width="200"&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/a8/0f/a80fe406a42b77349ab78848b7083a8e.png" width="200"&gt;  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;東京エレクトロンデバイス株式会社在籍。現在は仙台でクラウドソリューションアーキテクトとして活動中。
 エンジニア歴は、BIOS(x86アーキテクチャ)→組み込みOS(Windows Embedded)→クラウド(Microsoft Azure)
@@ -826,7 +867,7 @@ LTや交流を通して、「AIをどう使うか」「どう活かすか」を�
 セミナーやワークショップに適した設備を備え、企業・自治体・学生など幅広い参加者が集う “DX の学びと実践の場” として利用されています。&lt;/p&gt;
 &lt;h1&gt;ZUNDA-IT コミュニティガイドライン&lt;/h1&gt;
 &lt;p&gt;皆様が安心してイベントにご参加いただけるよう、事前にご一読をお願いいたします。&lt;br&gt;
-&lt;a href="https://zunda-it.github.io/" rel="nofollow"&gt;https://zunda-it.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/391378/</guid><pubDate>Mon, 11 May 2026 12:30:05 +0900</pubDate></item><item><title>6/6 OSC仙台  懇親会</title><link>https://ospn.connpass.com/event/391085/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月6日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月6日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 東北電子専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区花京院1-3-1(東北電子専門学校)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #osc26sn&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;支払いはOSC会場の受付にて&lt;/p&gt;&lt;div&gt;
+&lt;a href="https://zunda-it.github.io/" rel="nofollow"&gt;https://zunda-it.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/391378/</guid><pubDate>Thu, 21 May 2026 15:56:19 +0900</pubDate></item><item><title>6/6 OSC仙台  懇親会</title><link>https://ospn.connpass.com/event/391085/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月6日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月6日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 東北電子専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区花京院1-3-1(東北電子専門学校)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #osc26sn&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;支払いはOSC会場の受付にて&lt;/p&gt;&lt;div&gt;
 
 &lt;h1&gt;OSC仙台、終了後に学内ので懇親会を開催します！&lt;/h1&gt;
 &lt;p&gt;OSC仙台のプログラムが終了後、2Fの学食に移動して懇親会を開催します！&lt;br&gt;
