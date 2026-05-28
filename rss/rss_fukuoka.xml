@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 27 May 2026 17:53:10 +0000</lastBuildDate><item><title>PythonでQiskitを使った量子回路のプログラミングをやりたい #6</title><link>https://engineercafe.connpass.com/event/394007/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月28日(木) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月28日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Qiskit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;【VTube配信（α版）】雑談しながらQiskitチュートリアルをやるよ？(6/n)&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;中の人がプログラミングの勉強をする様子を雑談しながら配信します。拾いきれるかわからないですが、チャット欄で適宜コメントいただけると喜びます。&lt;/p&gt;
-&lt;p&gt;量子コンピュータのIBM製PythonライブラリQiskitで遊ぶべく、&lt;a href="https://quantum.cloud.ibm.com/docs/ja/tutorials" rel="nofollow"&gt;公式チュートリアル&lt;/a&gt;を手さぐりで進めながら勉強をすすめます。&lt;/p&gt;
-&lt;p&gt;IBM公式で提供されているQiskitチュートリアルを初見で、上から順にすすめていきます。
-前回はチュートリアルの最初にある「CHSH不等式」の「ステップ1」を、また続きからやりました。まだもう少し続きます。
-まずは &lt;code&gt;PauliList&lt;/code&gt; の要素を、Python的な意味でパウリ行列の行列表示をすることを試みました。結果的には&lt;a href="https://quantum.cloud.ibm.com/docs/ja/api/qiskit/qiskit.quantum_info.Pauli#qiskit.quantum_info.Pauli.to_matrix" rel="nofollow"&gt;&lt;code&gt;Pauli&lt;/code&gt; クラスにある &lt;code&gt;to_matrix()&lt;/code&gt; メソッド&lt;/a&gt; で実現できることが分かりました。
-続いて、&lt;a href="https://quantum.cloud.ibm.com/docs/ja/api/qiskit/qiskit.quantum_info.SparsePauliOp" rel="nofollow"&gt;&lt;code&gt;SparsePauliOp&lt;/code&gt;&lt;/a&gt; の挙動確認をしました。（間違っているかもですが） &lt;code&gt;SparsePauliOp&lt;/code&gt; は演算子をパウリ行列の線型結合で表したものなのかな？という理解のもと、 &lt;code&gt;SparsePauliOp&lt;/code&gt; をパウリ行列の線型結合でPython的な意味で表示できないかを模索しているところで終了しました。&lt;/p&gt;
-&lt;p&gt;今回は &lt;code&gt;SparsePauliOp&lt;/code&gt; に慣れることと、これが終わったら「CHSH不等式」の「ステップ2」以降に進む、というのをやる予定です。 &lt;code&gt;SparsePauliOp&lt;/code&gt; はそこそこにして「ステップ2」に入るくらいはしたいところ。&lt;/p&gt;
-&lt;p&gt;量子力学とか量子情報などの説明は配信でする予定はないですが、&lt;a href="https://quantum.cloud.ibm.com/learning/ja/courses/basics-of-quantum-information" rel="nofollow"&gt;IBM公式による学習教材&lt;/a&gt;や、その他いろんな本や記事などを参照してください。
-ここでは、あくまで「QiskitをつかってPythonプログラミングをする」ことにフォーカスします。&lt;/p&gt;
-&lt;h4&gt;お約束&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;中の人が誰かわかっても知らない体で&lt;/li&gt;
-&lt;li&gt;内容は中の人のペースで進むので、適宜ググったり学習しながらユルく見てください&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;こんな方にオススメ&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Qiskitの雰囲気を味わいたい&lt;/li&gt;
-&lt;li&gt;Qiskitを触ってみたい&lt;/li&gt;
-&lt;li&gt;量子コンピュータのプログラミングに興味がある&lt;/li&gt;
-&lt;li&gt;人がプログラミングの勉強をしている様子を見たい&lt;/li&gt;
-&lt;li&gt;人が勉強しているのをBGM的に流し見したい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;赤煉瓦会館とエンジニアカフェの紹介&lt;/h1&gt;
-&lt;h2&gt;福岡市赤煉瓦文化館について&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="赤煉瓦文化館" src="https://engineercafe.jp/wp/wp-content/uploads/2024/07/2cbbad58b0b89e6d30b796da71612fde.png" width="300"&gt;&lt;/p&gt;
-&lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt;
-&lt;h2&gt;エンジニアカフェについて&lt;/h2&gt;
-&lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt;
-&lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt;
-&lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt;
-&lt;h2&gt;Engineer Cafe&lt;/h2&gt;
-&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/394007/</guid><enclosure url="https://media.connpass.com/thumbs/cb/5e/cb5e22478f7fc0e96c5df1da5db6a518.png" length="0" type="image/png"/><pubDate>Fri, 15 May 2026 18:18:49 +0900</pubDate></item><item><title>ミリしらAI勉強会 #4</title><link>https://engineercafe.connpass.com/event/392944/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月28日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月28日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ミリしらAI勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜ちょっと深掘りもいいかも？〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 28 May 2026 17:58:03 +0000</lastBuildDate><item><title>ミリしらAI勉強会 #4</title><link>https://engineercafe.connpass.com/event/392944/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月28日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月28日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ミリしらAI勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜ちょっと深掘りもいいかも？〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
 &lt;p&gt;以下のような方を対象に、エンジニアカフェでAIの勉強会を行います！&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;・AIブームになんとなくついていけていない気がする...。&lt;br&gt;
 ・AIにキャッチアップしたいけど、なかなか手を動かしたり調べる時間がない...。&lt;br&gt;
@@ -198,7 +166,7 @@ LT会を開催します🍜&lt;/p&gt;
 &lt;td&gt;20:05&lt;/td&gt;
 &lt;td&gt;LT6人目&lt;/td&gt;
 &lt;td&gt;yosh&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;AIで変わったこと・変わらないこと&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:15&lt;/td&gt;
@@ -233,7 +201,7 @@ LT会を開催します🍜&lt;/p&gt;
 &lt;li&gt;運営、聴講者、登壇者に対する悪質なハラスメント行為&lt;/li&gt;
 &lt;li&gt;許可のない撮影及び録音を行わないこと&lt;/li&gt;
 &lt;li&gt;所定の場所以外に立ち入らないこと&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fe-yatai.connpass.com/event/392671/</guid><enclosure url="https://media.connpass.com/thumbs/c2/65/c26548a9a8606ed1e884feea1ebbd5b9.png" length="0" type="image/png"/><pubDate>Wed, 27 May 2026 20:57:52 +0900</pubDate></item><item><title>KAWAII♡AI(2026-5-29)</title><link>https://engineercafe.connpass.com/event/394094/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月29日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月29日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #KAWAII♡AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;あなたの「KAWAII」を、AIと全力表現しよう。&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;「KAWAII」は、もうAIで作れる。&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fe-yatai.connpass.com/event/392671/</guid><enclosure url="https://media.connpass.com/thumbs/c2/65/c26548a9a8606ed1e884feea1ebbd5b9.png" length="0" type="image/png"/><pubDate>Thu, 28 May 2026 17:03:54 +0900</pubDate></item><item><title>KAWAII♡AI(2026-5-29)</title><link>https://engineercafe.connpass.com/event/394094/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年5月29日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年5月29日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #KAWAII♡AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;あなたの「KAWAII」を、AIと全力表現しよう。&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;「KAWAII」は、もうAIで作れる。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;生成AIによって、
 個人の“好き”や“世界観”を、
 誰でも自由に表現できる時代になってきました。&lt;/p&gt;
@@ -1647,7 +1615,7 @@ GyaOを経て2009年にエムスリーへ入社。その後ビズリーチにて
 &lt;/table&gt;
 &lt;h2&gt;🎤 登壇者紹介&lt;/h2&gt;
 &lt;h3&gt;金子 茉以様&lt;a href="https://x.com/maturika_ne" rel="nofollow"&gt;@maturika_ne&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="金子 茉以プロフィール写真" src="https://images.microcms-assets.io/assets/da7c0038a35e4eca89b8e56f040e91df/563ea9aecd944aa68b3b40ef1f88a3d4/image%20(4).png" width="150"&gt;&lt;br&gt;
+&lt;p&gt;&lt;img alt="金子 茉以プロフィール写真" src="https://images.microcms-assets.io/assets/da7c0038a35e4eca89b8e56f040e91df/fb36471cb78647cdbaee5f1b621f778d/mai.kaneko-icon.png" width="150"&gt;&lt;br&gt;
 所属：LINEヤフー株式会社&lt;br&gt;
 役割：SET(Software Engineer in Test)&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1682,7 +1650,7 @@ GyaOを経て2009年にエムスリーへ入社。その後ビズリーチにて
 &lt;p&gt;当イベントでは、参加者の氏名やメールアドレスなどの個人情報を収集する場合があります。また、アンケートフォーム等にてご入力いただいた情報は、KINTOテクノロジーズ株式会社が取得及び管理します。収集した個人情報について、KINTOテクノロジーズ株式会社は以下の利用目的の範囲内において利用いたします。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;KINTOテクノロジーズ主催もしくは共催イベントのコンテンツ企画やイベントの満足度向上の目的のみに利用します。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/394308/</guid><enclosure url="https://media.connpass.com/thumbs/ce/3a/ce3a25e7faddca41005e9a3bc6e23cef.png" length="0" type="image/png"/><pubDate>Fri, 22 May 2026 13:44:19 +0900</pubDate></item><item><title>Fukuoka.php++ Vol.3</title><link>https://fukuokaphp.connpass.com/event/393352/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月4日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月4日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社キャッチアップ&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区大名２丁目１１−２５ 新栄ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #fukuokaphp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Fukuoka.php++ Vol.3 株式会社キャッチアップさんのオフィスをお借りして開催します！&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/394308/</guid><enclosure url="https://media.connpass.com/thumbs/ce/3a/ce3a25e7faddca41005e9a3bc6e23cef.png" length="0" type="image/png"/><pubDate>Thu, 28 May 2026 18:34:47 +0900</pubDate></item><item><title>Fukuoka.php++ Vol.3</title><link>https://fukuokaphp.connpass.com/event/393352/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月4日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月4日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社キャッチアップ&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区大名２丁目１１−２５ 新栄ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #fukuokaphp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Fukuoka.php++ Vol.3 株式会社キャッチアップさんのオフィスをお借りして開催します！&lt;/p&gt;
 &lt;h2&gt;イベントについて&lt;/h2&gt;
 &lt;p&gt;福岡発のPHP勉強会です！
 PHPが好きな方、福岡のエンジニアコミュニティに関わってみたい方、ぜひお気軽にご参加ください。&lt;/p&gt;
@@ -3155,7 +3123,48 @@ Fukuokai.sreは福岡および九州で活躍するSREやクラウドネイテ�
 &lt;li&gt;当日の勉強会の様子 (写真・発言内容など) は、Webサイトや SNS 等に掲載・配信される可能性があります。掲載・配信されることを望まない方は事前にお申し出いただくか、来場をご遠慮下さいますようお願い致します。&lt;/li&gt;
 &lt;li&gt;車で会場まで来られる方は、お近くのパーキングをご利用ください。&lt;/li&gt;
 &lt;li&gt;未成年の方、運転される方の飲酒は固くお断り致します。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukuoka.connpass.com/event/394528/</guid><enclosure url="https://media.connpass.com/thumbs/75/2c/752c26aba2e1fafd4606e23bba6e0e1d.png" length="0" type="image/png"/><pubDate>Fri, 22 May 2026 13:37:11 +0900</pubDate></item><item><title>題名のないLT会 #2 untitle meet up ＠福岡</title><link>https://untitle.connpass.com/event/393868/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月25日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月25日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: テックビズ福岡支社&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市博多区博多駅前３丁目４−１ ８F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニア・マーケター・クリエイターみんなの交流イベント(フード・ドリンクあり)&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;題名のないLT会&lt;/strong&gt;&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukuoka.connpass.com/event/394528/</guid><enclosure url="https://media.connpass.com/thumbs/75/2c/752c26aba2e1fafd4606e23bba6e0e1d.png" length="0" type="image/png"/><pubDate>Fri, 22 May 2026 13:37:11 +0900</pubDate></item><item><title>福岡テクニカル・アウトプット同好会  もくもく作業会 #1</title><link>https://fukuoka-tech-output.connpass.com/event/395285/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月23日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月23日(火) 21:15&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ B1F ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #福岡テクどこ_もくもく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テックブログ・登壇資料・OSS活動などなどの個人的アウトプットの作業場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
+&lt;p&gt;技術的なアウトプット作業を行うためのもくもく会です。&lt;br&gt;
+開催時間中であれば入退室自由です。お気軽にお立ち寄りください。&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;技術ブログやドキュメント、技術同人誌の執筆を進めたい方&lt;/li&gt;
+&lt;li&gt;自宅以外の場所で作業をして、モチベーションを維持したい方&lt;/li&gt;
+&lt;li&gt;進捗を誰かに共有して、自分に発破をかけたい方&lt;/li&gt;
+&lt;li&gt;技術的なアウトプットをしている人と交流したい方
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;p&gt;18:45 - 19:00  受付 &lt;br&gt;
+19:00 - 20:45  もくもく作業(執筆)&lt;br&gt;
+20:45 - 21:00   進捗報告・クロージング&lt;br&gt;
+21:00 - 21:15   相談タイム・撤収作業 &lt;br&gt;
+21:30 完全撤収&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;グランドルール&lt;/h2&gt;
+&lt;p&gt;アウトプットに関するモチベーションを相互に高めるため、本イベント参加時には以下のルールに従ってください。&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;イベント会場に入室したら、XやDiscordで「今日はなんの作業を行うのか」を宣言してください。&lt;/li&gt;
+&lt;li&gt;(可能な範囲で)成果物ができたら、作業宣言を行なったチャネルで共有いただけると嬉しいです。&lt;/li&gt;
+&lt;li&gt;他の方の成果物報告に対して、たくさんポジティブなリアクションを行いましょう。&lt;/li&gt;
+&lt;li&gt;本イベントでは、業務上の成果に直結する作業は行えません(業務プロジェクトのコーディング作業などはNGです)。あくまで個人的・または自主的な発信活動の作業に限ります。&lt;/li&gt;
+&lt;li&gt;本イベントでの飲食物の提供はありません。&lt;/li&gt;
+&lt;li&gt;会場の利用ルールに基づき、会場へお持ち込みが可能なお飲み物は蓋つきのもののみとなります。会場建物1階にカフェがありますので、こちらもご利用を検討ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;福岡テクどこの Code of Conduct&lt;/h1&gt;
+&lt;p&gt;[本コミュニティの目的]&lt;br&gt;
+アウトプットを楽しみ、ともに高めあう&lt;br&gt;
+&lt;br&gt;
+[コミュニティルール]&lt;br&gt;
+&lt;br&gt;
+「コミュニティの目的」を達成するため、参加者全員が安心して技術を楽しむための行動を 参加者全員 に求めます。&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;あらゆるハラスメント行為の禁止&lt;/li&gt;
+&lt;li&gt;No sell, No Job の精神を心がける&lt;/li&gt;
+&lt;li&gt;他の参加者やアウトプット成果物に対する敬意を持ち続ける&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;
+もし、これらのルールに関する違反行為を確認した場合には、本コミュニティに関連するイベントの即時退出、および今後の参加をお断りする場合があります。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fukuoka-tech-output.connpass.com/event/395285/</guid><enclosure url="https://media.connpass.com/thumbs/66/b1/66b181e67dfcb767196d29c83fb6efa3.png" length="0" type="image/png"/><pubDate>Thu, 28 May 2026 22:09:35 +0900</pubDate></item><item><title>題名のないLT会 #2 untitle meet up ＠福岡</title><link>https://untitle.connpass.com/event/393868/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月25日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月25日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: テックビズ福岡支社&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市博多区博多駅前３丁目４−１ ８F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;エンジニア・マーケター・クリエイターみんなの交流イベント(フード・ドリンクあり)&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;題名のないLT会&lt;/strong&gt;&lt;/h1&gt;
 &lt;h2&gt;&lt;strong&gt;不定期開催 · 本当にuntitled&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;イベント名つけ忘れていたことから、ドメインが「untitle」となってしまい&lt;/p&gt;
 &lt;p&gt;ひょんなことからついたイベント名「題名のないLT会」&lt;/p&gt;
