@@ -1,159 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 31 May 2026 16:00:24 +0000</lastBuildDate><item><title>Antigravity CLIとDevTools for agentsでLINEミニアプリの開発体験</title><link>https://linedevelopercommunity.connpass.com/event/395073/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月1日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月1日(月) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: GEEKLAB.NAGANO&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県長野市南県町1003(県都ビル６F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google I/O 2026で登場したAIエージェントと開発して、エージェントと一緒にデバッグする&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;2つの最新ツールを組み合わせて、LINEミニアプリアプリの開発体験&lt;/strong&gt;をします&lt;/h1&gt;
-&lt;p&gt;2026年5月、Google I/O 2026 でAIエージェント関連の新ツールが立て続けに発表されました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href="https://antigravity.google/docs/cli-getting-started" rel="nofollow"&gt;Antigravity CLI&lt;/a&gt;&lt;/strong&gt;(AGY CLI): Gemini CLIの後継となる、Google製の軽量・高速なAIエージェントCLI。複数モデル(Gemini 3.5 Flash / Claude Sonnet 4.6 / GPT-OSS 120B など)を切り替えられ、&lt;code&gt;/skills&lt;/code&gt; &lt;code&gt;/mcp&lt;/code&gt; &lt;code&gt;/fork&lt;/code&gt; などのスラッシュコマンドで柔軟に操作できる&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href="https://developer.chrome.com/docs/devtools/agents" rel="nofollow"&gt;Chrome DevTools for agents&lt;/a&gt;&lt;/strong&gt;(1.0安定版): AIエージェントがChromeを直接操作してデバッグできるツール。Lighthouse監査、デバイスエミュレーション、Chrome拡張機能の開発・テスト、メモリリーク検出までエージェントから実行可能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;AGY CLIで「LIFFアプリを作って」と指示してコードを生成し、Chrome DevTools for agentsでブラウザ上の挙動をデバッグする──「コードを書く」から「エージェントに開発を任せて、エージェントと一緒にデバッグする」という、最新のAI駆動開発フローを体験できる内容です。&lt;/p&gt;
-&lt;p&gt;参考記事:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://forest.watch.impress.co.jp/docs/news/2110125.html" rel="nofollow"&gt;「Google Antigravity 2.0」が公開 ～"AI統合IDE"から"エージェント管理アプリ"に&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://forest.watch.impress.co.jp/docs/news/2110721.html" rel="nofollow"&gt;AIエージェントがChromeを操作するデバッグツール「Chrome DevTools for agents」が安定版として提供開始&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://zenn.dev/hoki621/articles/how-to-agy-cli" rel="nofollow"&gt;Googleの新しいTUI Antigravity CLIを試してみた - Zenn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;こんな方におすすめ&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;AIエージェントCLI(Claude Code / Gemini CLI など)を触っている、または興味がある方&lt;/li&gt;
-&lt;li&gt;Antigravity CLI / Chrome DevTools for agents を試してみたかった方&lt;/li&gt;
-&lt;li&gt;LINEのLIFFアプリ開発に興味がある方&lt;/li&gt;
-&lt;li&gt;AIエージェントを使った最新の開発・デバッグフローを体験したい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;当日の流れ&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;①&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;Codespaces&lt;/span&gt;で環境構築
-&lt;span class="w"&gt;   &lt;/span&gt;ブラウザ上のクラウド開発環境を立ち上げる&lt;span class="ss"&gt;(&lt;/span&gt;インストール不要&lt;span class="ss"&gt;)&lt;/span&gt;
-
-②&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;Antigravity&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;CLI&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ss"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;AGY&lt;/span&gt;&lt;span class="ss"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;の環境構築
-&lt;span class="w"&gt;   &lt;/span&gt;インストール、&lt;span class="nv"&gt;Google&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;OAuth&lt;/span&gt;認証、基本操作の確認
-
-③&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;AGY&lt;/span&gt;で&lt;span class="nv"&gt;LINE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;Bot&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;LIFF&lt;/span&gt;アプリの開発体験
-&lt;span class="w"&gt;   &lt;/span&gt;「&lt;span class="nv"&gt;LIFF&lt;/span&gt;アプリを作って」と&lt;span class="nv"&gt;AGY&lt;/span&gt;に指示して、コードを生成・実行
-
-④&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;AGY&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;×&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;Chrome&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;DevTools&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;agents&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;で&lt;span class="nv"&gt;LIFF&lt;/span&gt;アプリのデバッグ体験
-&lt;span class="w"&gt;   &lt;/span&gt;ブラウザ上の&lt;span class="nv"&gt;LIFF&lt;/span&gt;アプリの動作をエージェントが直接確認・修正
-
-⑤&lt;span class="w"&gt; &lt;/span&gt;もくもく応用・共有・振り返り
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;※AGYならではの機能(マルチモデル切り替え、&lt;code&gt;/fast&lt;/code&gt;モード、Dynamic Subagents など)も適宜紹介します。&lt;/p&gt;
-&lt;p&gt;やることの図&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Image from Gyazo" src="https://i.gyazo.com/6676a7baab4a21ff77ad91f490446e89.png"&gt;&lt;/p&gt;
-&lt;h2&gt;タイムライン&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;th&gt;スピーカー&lt;/th&gt;
-&lt;th&gt;目安&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30〜18:35&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;5分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:35〜19:00&lt;/td&gt;
-&lt;td&gt;GitHub Codespaces &amp;amp; AGY CLI 環境構築&lt;/td&gt;
-&lt;td&gt;のびすけ&lt;/td&gt;
-&lt;td&gt;25分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00〜19:40&lt;/td&gt;
-&lt;td&gt;AGYでLINE Bot / LIFFアプリ開発&lt;/td&gt;
-&lt;td&gt;のびすけ&lt;/td&gt;
-&lt;td&gt;40分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:40〜20:15&lt;/td&gt;
-&lt;td&gt;AGY × Chrome DevTools for agents でLIFFデバッグ&lt;/td&gt;
-&lt;td&gt;のびすけ&lt;/td&gt;
-&lt;td&gt;35分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15〜20:25&lt;/td&gt;
-&lt;td&gt;もくもく応用・共有・振り返り&lt;/td&gt;
-&lt;td&gt;のびすけ&lt;/td&gt;
-&lt;td&gt;10分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:25〜20:30&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;5分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※適宜、休憩を入れながら進めます。&lt;/p&gt;
-&lt;h1&gt;事前準備&lt;/h1&gt;
-&lt;p&gt;①LINEのセットアップ&lt;/p&gt;
-&lt;p&gt;https://zenn.dev/protoout/articles/16-line-bot-setup&lt;/p&gt;
-&lt;p&gt;②GitHub Codespacesのセットアップ(当日ブラウザ上で完結する開発環境)&lt;/p&gt;
-&lt;p&gt;https://zenn.dev/protoout/books/16-github-codespaces-manual&lt;/p&gt;
-&lt;p&gt;③Googleアカウント(AGY CLIの認証で使用)&lt;/p&gt;
-&lt;p&gt;④Chrome ブラウザ(Chrome DevTools for agents の動作確認用)&lt;/p&gt;
-&lt;h2&gt;費用について&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;参加費: 無料。ツール利用費も無料を目指します。&lt;/li&gt;
-&lt;li&gt;AGY CLI は Google アカウントでの認証が必要です(無料枠あり)。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AGY CLI / Chrome DevTools for agents はAIがファイルやブラウザを操作する強力なツールです。今回は GitHub Codespaces という隔離された環境で動かすため、自分のパソコンには影響しません。&lt;/li&gt;
-&lt;li&gt;権限(&lt;code&gt;/permissions&lt;/code&gt;)はスラッシュコマンドで制御できます。ハンズオン中の挙動については講師の案内に従ってください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;企画運営・講師紹介&lt;/h1&gt;
-&lt;h3&gt;菅原 のびすけ(すがわら・のびすけ) Twitter : &lt;a href="https://x.com/n0bisuke" rel="nofollow"&gt;https://x.com/n0bisuke&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;プロトタイピング専門スクール「プロトアウトスタジオ」プロデューサー。
-1989年生まれ。岩手県立大学在籍時にITベンチャー企業の役員を務める。同大学院を卒業後、株式会社LIGにWebエンジニアとして入社し、Web制作に携わる。2016年7月よりdotstudio株式会社を立ち上げ、IoT・モノづくり領域を中心とした研修や教育業に携わっている。2019年4月にプロトタイピング専門スクール「プロトアウトスタジオ」を立ち上げる。2018年4月よりデジタルハリウッド大学大学院の非常勤講師も務めている。
-日本最大規模のIoTコミュニティであるIoTLTの主催、Microsoft MVP Visual Studio and Development Technologies (Node.js)、IBM Champion、世界で22名の第1期LINE API Expertsの一人。&lt;/p&gt;
-&lt;h1&gt;イベント詳細&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;日時: 2026/06/01(月) 18:30〜20:30&lt;/li&gt;
-&lt;li&gt;定員: 現地20名(先着順)/ オンライン無制限&lt;/li&gt;
-&lt;li&gt;参加費: ハンズオン無料&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;現地会場参加方法&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;GEEKLAB.NAGANO&lt;/strong&gt;(運営: 株式会社日本システム技研)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;住所: 長野県長野市南県町1003 県都ビル6F&lt;/li&gt;
-&lt;li&gt;連絡先: 026-227-2334(日本システム技研)&lt;/li&gt;
-&lt;li&gt;E-mail: geeklab_nagano@jsl.co.jp&lt;/li&gt;
-&lt;li&gt;FBページ: &lt;a href="https://www.facebook.com/geeklab.nagano/" rel="nofollow"&gt;https://www.facebook.com/geeklab.nagano/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;X: @glnagano&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;会場の県都ビルは信学会と住宅供給公社が入っている建物です。正面玄関が閉まっている場合は X または電話にてご連絡ください。&lt;/p&gt;
-&lt;h3&gt;ご来場について&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;申し訳ございませんが、&lt;strong&gt;公共の交通機関&lt;/strong&gt;を利用してご来場をお願いいたします。&lt;/li&gt;
-&lt;li&gt;駐車場に関しましては近隣駐車場のご利用をお願いいたします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;オンライン参加方法&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Connpassにお申し込みいただくと、参加者欄にURLが表示されます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;主催: &lt;a href="https://linedevelopercommunity.connpass.com/" rel="nofollow"&gt;LINE Developer Community&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Youtube チャンネルへの登録よろしくおねがいします!&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1" rel="nofollow"&gt;http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;コミュニティ行動規範(Code of Conduct)について&lt;/h2&gt;
-&lt;p&gt;本コミュニティは参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
-そのために、以下のような行為は禁止されております。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ヘイトスピーチ&lt;/li&gt;
-&lt;li&gt;性的な言葉や画像、性別に言及したり、性別により受け取り方の変わる言葉や画像の使用&lt;/li&gt;
-&lt;li&gt;侮辱や軽蔑的、中傷や他者を貶めるような発言&lt;/li&gt;
-&lt;li&gt;他者のプライバシーや私的な情報の無許可での公開&lt;/li&gt;
-&lt;li&gt;その他多様性への配慮を著しく欠く発言や行動&lt;/li&gt;
-&lt;li&gt;食事のみを目的とした参加&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
-&lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。
-X @linedc_jp
-E-mail: linedevcom@gmail.com&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/395073/</guid><enclosure url="https://media.connpass.com/thumbs/d7/43/d74349665528a2dabb32e6fefb487f4f.png" length="0" type="image/png"/><pubDate>Thu, 28 May 2026 17:04:42 +0900</pubDate></item><item><title>朝の通勤が学びの時間に変わる。自分で作る「AIニュース公式LINE」</title><link>https://linedevelopercommunity.connpass.com/event/394365/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月2日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月2日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: サザンガク　大会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒390-0874 長野県松本市大手３丁目３−９ NTT東日本大名町ビル 1F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~ビジネスパーソンのためのAI活用ハンズオン~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 01 Jun 2026 19:52:39 +0000</lastBuildDate><item><title>朝の通勤が学びの時間に変わる。自分で作る「AIニュース公式LINE」</title><link>https://linedevelopercommunity.connpass.com/event/394365/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月2日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月2日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: サザンガク　大会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒390-0874 長野県松本市大手３丁目３−９ NTT東日本大名町ビル 1F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~ビジネスパーソンのためのAI活用ハンズオン~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;「朝の通勤時間、もっと有効活用したい」&lt;/strong&gt;
 そんなビジネスパーソンに向けたAI活用ハンズオンイベントです。&lt;/p&gt;
 &lt;p&gt;今回のイベントでは、&lt;strong&gt;毎朝AIが要約したニュースが自分の公式LINEに自動で届く仕組み&lt;/strong&gt;を、ノーコードでゼロから作ります。&lt;/p&gt;
@@ -283,7 +129,7 @@ E-mail: linedevcom@gmail.com&lt;/p&gt;
 &lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
 &lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。&lt;br&gt;
  &lt;a href="https://twitter.com/linedc_jp" rel="nofollow"&gt;X @linedc_jp&lt;/a&gt;&lt;br&gt;
-&lt;a href="mailto:linedevcom@gmail.com"&gt;E-mail&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/394365/</guid><enclosure url="https://media.connpass.com/thumbs/dd/c6/ddc6d49d8bdf9c49adead01a2e84eb4b.png" length="0" type="image/png"/><pubDate>Thu, 28 May 2026 17:09:01 +0900</pubDate></item><item><title>令和8年度 第1回ネットワーク委員会</title><link>https://jcta-shinetsu-network-group.connpass.com/event/394342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月11日(木) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月11日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県長野市鶴賀１２７１−３ ＷＥＳＴ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JCTA信越支部　ネットワーク委員会&lt;/p&gt;</description><guid isPermaLink="false">https://jcta-shinetsu-network-group.connpass.com/event/394342/</guid><enclosure url="https://media.connpass.com/thumbs/63/cc/63cc63ef50c5571fe1a28004efe16b3b.png" length="0" type="image/png"/><pubDate>Fri, 29 May 2026 17:23:14 +0900</pubDate></item><item><title>CoderDojo飯田#46</title><link>https://coderdojoiida.connpass.com/event/394828/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第四十六回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#46&lt;/h1&gt;
+&lt;a href="mailto:linedevcom@gmail.com"&gt;E-mail&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/394365/</guid><enclosure url="https://media.connpass.com/thumbs/dd/c6/ddc6d49d8bdf9c49adead01a2e84eb4b.png" length="0" type="image/png"/><pubDate>Mon, 01 Jun 2026 11:26:26 +0900</pubDate></item><item><title>令和8年度 第1回ネットワーク委員会</title><link>https://jcta-shinetsu-network-group.connpass.com/event/394342/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月11日(木) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月11日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野市生涯学習センター&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県長野市鶴賀１２７１−３ ＷＥＳＴ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JCTA信越支部　ネットワーク委員会&lt;/p&gt;</description><guid isPermaLink="false">https://jcta-shinetsu-network-group.connpass.com/event/394342/</guid><enclosure url="https://media.connpass.com/thumbs/63/cc/63cc63ef50c5571fe1a28004efe16b3b.png" length="0" type="image/png"/><pubDate>Fri, 29 May 2026 17:23:14 +0900</pubDate></item><item><title>CoderDojo飯田#46</title><link>https://coderdojoiida.connpass.com/event/394828/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第四十六回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#46&lt;/h1&gt;
 &lt;p&gt;飯田市での開催46回目のCoderDojoです。&lt;/p&gt;
 &lt;h2&gt;CoderDojoとは？&lt;/h2&gt;
 &lt;p&gt;CoderDojo は7〜17歳(小学校一年生〜高校生まで)を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本には211以上の道場があります。&lt;/p&gt;
@@ -481,7 +327,7 @@ E-mail: linedevcom@gmail.com&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:20〜&lt;br&gt;16:50&lt;/td&gt;
-&lt;td&gt;『調整中 』トーク3&lt;/td&gt;
+&lt;td&gt;『この1年のコーディングエージェントの進化と今後半年の予想 』佐藤 潔&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:50〜&lt;br&gt;17:00&lt;/td&gt;
@@ -514,7 +360,7 @@ X：@glnagano &lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;申し訳ございませんが、公共の交通機関を利用しご来場をお願いいたします。&lt;/li&gt;
 &lt;li&gt;駐車場に関しましては近隣駐車場のご利用をお願いいたします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://startpython.connpass.com/event/391712/</guid><enclosure url="https://media.connpass.com/thumbs/1f/ed/1fedf5ceda20ffd1d9a33e89de3ea666.png" length="0" type="image/png"/><pubDate>Sun, 31 May 2026 10:18:43 +0900</pubDate></item><item><title>【LT登壇】第15回サイバーセキュリティ勉強会2026年夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/384736/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;LI(ライトニングトーク)登壇に関する応募事項&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://startpython.connpass.com/event/391712/</guid><enclosure url="https://media.connpass.com/thumbs/1f/ed/1fedf5ceda20ffd1d9a33e89de3ea666.png" length="0" type="image/png"/><pubDate>Mon, 01 Jun 2026 09:53:44 +0900</pubDate></item><item><title>【LT登壇】第15回サイバーセキュリティ勉強会2026年夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/384736/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;LI(ライトニングトーク)登壇に関する応募事項&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;本イベントの16:15-16:45 (30分)に実施される１枠5分程度の短時間のLT(ライトニングトーク)です。&lt;/li&gt;
 &lt;li&gt;サイバーセキュリティに関するテーマについて講演が出来ます。&lt;/li&gt;
