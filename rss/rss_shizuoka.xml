@@ -1,5 +1,141 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 01 Jun 2026 19:52:45 +0000</lastBuildDate><item><title>kintone Café 静岡 Vol.5</title><link>https://kintonecafe-shizuoka.connpass.com/event/391841/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月5日(金) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月5日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: SHIP - SHIZUOKA INNOVATION PLATFORM -&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県静岡市葵区呉服町２丁目７−２６ 静専ビル2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;kintone Café 静岡 ５年ぶりのリブート第１弾は「生成AIを活用した業務改善を学ぶ」です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;kintone Caféとは？（理念）&lt;/strong&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 02 Jun 2026 18:32:44 +0000</lastBuildDate><item><title>【ハンズオン】LangFlow × LINE Bot ノーコードAIフローで開発体験！</title><link>https://linedevelopercommunity.connpass.com/event/395911/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月4日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月4日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 浜松アクトシティ　コングレスセンター4F　45会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中央区板屋町111-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～コードを書かずに、自分専用のLINE Botを動かす～&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;「LangFlow」というツールをご存知でしょうか？&lt;/p&gt;
+&lt;p&gt;LangFlow は、AIワークフローやチャットBotを &lt;strong&gt;ノードを繋ぐだけで作れるオープンソースのビジュアルフロービルダー&lt;/strong&gt; です。GitHubでも人気を集めており、Dify や n8n と並ぶノーコードAIツールの一角として、じわじわ広がっています。&lt;/p&gt;
+&lt;p&gt;ただ、「&lt;strong&gt;LangFlow で LINE Bot を作る&lt;/strong&gt;」という実装例はまだほとんど見かけません。&lt;/p&gt;
+&lt;p&gt;このハンズオンでは、その空白を埋めるべく、&lt;strong&gt;LangFlow × LINE Bot&lt;/strong&gt; を一緒に作ります。&lt;/p&gt;
+&lt;p&gt;たった3つのノード（Webhook → JSON Operations → API Request）を繋ぐだけで、自分専用のLINE Botが動き出します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gyazo.com/39640330733543088e3c6a987845b9f5" rel="nofollow"&gt;&lt;img alt="Image from Gyazo" src="https://i.gyazo.com/39640330733543088e3c6a987845b9f5.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;エンジニアでなくても大丈夫です！&lt;/strong&gt; 「コードを書く」のではなく「ノードを繋ぐ」だけで動かせるので、プログラミング初心者の方も安心してご参加ください。&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LINE Botを作ってみたいけど、コードを書くのは難しそうと感じている方&lt;/li&gt;
+&lt;li&gt;LangFlow / Dify / n8n などのノーコードAIツールに興味がある方&lt;/li&gt;
+&lt;li&gt;AI × LINE で何かを作りたいけど、最初の一歩が踏み出せていない方&lt;/li&gt;
+&lt;li&gt;エンジニアじゃないけど、自分の手で何かを動かしてみたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日作るもの&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;① LangFlow の環境構築
+   ブラウザ上で動かす方法をご案内
+
+② Webhook ノードで LINEからのメッセージを受け取る
+   LINE Messaging API と LangFlow を繋ぐ
+
+③ JSON Operations ノードで必要な情報を取り出す
+   LINE から届くJSONからメッセージ本文だけ抜き出す
+
+④ API Request ノードで LINEに返信する
+   ユーザーへの返答をLINEに送る
+
+⑤ もくもく応用・共有
+   自分なりのカスタマイズに挑戦！
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;タイムライン&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;スピーカー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30〜&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00〜&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:05〜&lt;/td&gt;
+&lt;td&gt;LangFlow 環境構築&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30〜&lt;/td&gt;
+&lt;td&gt;LINE Bot 構築（ノードを繋ぐ）&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:10〜&lt;/td&gt;
+&lt;td&gt;動作確認・カスタマイズ&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:45〜&lt;/td&gt;
+&lt;td&gt;もくもく応用・共有・振り返り&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:55〜&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 適宜、休憩を挟みながら進めます。&lt;/p&gt;
+&lt;h2&gt;事前準備&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;【必須】&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;LINEのセットアップ
+   https://zenn.dev/protoout/articles/16-line-bot-setup&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;【できれば事前に。難しければ当日現地で準備でも間に合います】&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;GitHubアカウントの作成
+   https://zenn.dev/protoout/articles/50-howto-github-setup&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;費用について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;参加費: 無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;質問は随時OKです。「動かない」「わからない」もどんどん共有してください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;企画運営・講師紹介&lt;/h2&gt;
+&lt;h3&gt;菅原 のびすけ（すがわら・のびすけ）&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://gs.dhw.ac.jp/hubfs/images/faculty/faculty_nobisuke_img02.jpg" width="300px"&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href="https://x.com/n0bisuke" rel="nofollow"&gt;https://x.com/n0bisuke&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;プロトタイピング専門スクール「プロトアウトスタジオ」プロデューサー。
+1989年生まれ。岩手県立大学在籍時にITベンチャー企業の役員を務める。同大学院を卒業後、株式会社LIGにWebエンジニアとして入社し、Web制作に携わる。2016年7月よりdotstudio株式会社を立ち上げ、IoT・モノづくり領域を中心とした研修や教育業に携わっている。2019年4月にプロトタイピング専門スクール「プロトアウトスタジオ」を立ち上げる。2018年4月よりデジタルハリウッド大学大学院の非常勤講師も務めている。
+日本最大規模のIoTコミュニティであるIoTLTの主催、Microsoft MVP Visual Studio and Development Technologies (Node.js)、IBM Champion、世界で22名の第1期LINE API Expertsの一人。&lt;/p&gt;
+&lt;h2&gt;イベント詳細&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時: 2026/06/04(木) 18:30〜開場&lt;/li&gt;
+&lt;li&gt;形式: ハイブリッド開催（現地＋オンライン配信）&lt;/li&gt;
+&lt;li&gt;参加費: 無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;現地会場（浜松）&lt;/h2&gt;
+&lt;p&gt;会場  浜松アクトシティ　コングレスセンター4F　45会議室&lt;/p&gt;
+&lt;p&gt;住所  静岡県浜松市中央区板屋町111-1&lt;/p&gt;
+&lt;h2&gt;オンライン参加方法&lt;/h2&gt;
+&lt;p&gt;Connpassにお申し込みいただくと、参加者欄に視聴URLが表示されます。&lt;/p&gt;
+&lt;p&gt;主催: &lt;a href="https://linedevelopercommunity.connpass.com/" rel="nofollow"&gt;LINE Developer Community&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Youtube チャンネルへの登録もよろしくお願いします！&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1" rel="nofollow"&gt;http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;コミュニティ行動規範（Code of Conduct）について&lt;/h2&gt;
+&lt;p&gt;本コミュニティは参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
+そのために、以下のような行為は禁止されております。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ヘイトスピーチ&lt;/li&gt;
+&lt;li&gt;性的な言葉や画像、性別に言及したり、性別により受け取り方の変わる言葉や画像の使用&lt;/li&gt;
+&lt;li&gt;侮辱や軽蔑的、中傷や他者を貶めるような発言&lt;/li&gt;
+&lt;li&gt;他者のプライバシーや私的な情報の無許可での公開&lt;/li&gt;
+&lt;li&gt;その他多様性への配慮を著しく欠く発言や行動&lt;/li&gt;
+&lt;li&gt;食事のみを目的とした参加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
+&lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;X: &lt;a href="https://twitter.com/linedc_jp" rel="nofollow"&gt;@linedc_jp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail: linedevcom@gmail.com&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/395911/</guid><enclosure url="https://media.connpass.com/thumbs/aa/fb/aafb5506886181cb79c2d21e86746b67.png" length="0" type="image/png"/><pubDate>Wed, 03 Jun 2026 00:03:44 +0900</pubDate></item><item><title>kintone Café 静岡 Vol.5</title><link>https://kintonecafe-shizuoka.connpass.com/event/391841/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月5日(金) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月5日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: SHIP - SHIZUOKA INNOVATION PLATFORM -&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県静岡市葵区呉服町２丁目７−２６ 静専ビル2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;kintone Café 静岡 ５年ぶりのリブート第１弾は「生成AIを活用した業務改善を学ぶ」です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;strong&gt;kintone Caféとは？（理念）&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;kintone Caféは、まだkintoneに触れたことの無い方から、より高度なカスタマイズを行いたいと考えているプロフェッショナルの方まで幅広い層を対象に、 楽しく学び・教え合うことで、kintoneの魅力や活用法をみんなで共有するための勉強会コミュニティです。&lt;/p&gt;
 &lt;h1&gt;&lt;strong&gt;kintone Caféが目指すところ&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;kintoneを、今や社会人としての必須スキルであるExcelと同じくらいあるいはそれ以上の存在に育て・普及させていくことを目指します。 また、kintone Caféを核としたkintoneエコシステムを醸成し、コミュニティに参加・貢献する企業・個人にとってメリットのある場にしていきます。
@@ -751,7 +887,7 @@ CoderDojo 浜松は完全に非営利なボランティアのみで運用して�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;終わり次第&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;懇親会開始&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;懇親会開始(同会場)&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;希望者のみ&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -826,7 +962,7 @@ PyLadies に関わるすべての方は、 &lt;a href="https://pyladiesshizuoka.
 ご理解とご協力をお願いいたします。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;u&gt;男性の方の申請はご遠慮ください&lt;/u&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pyladies-shizuoka.connpass.com/event/392236/</guid><enclosure url="https://media.connpass.com/thumbs/29/a6/29a6c1dea0d0a0711dd37cc7dcd07076.png" length="0" type="image/png"/><pubDate>Mon, 25 May 2026 19:58:03 +0900</pubDate></item><item><title>73回CoderDojo静岡</title><link>https://coderdojo-shizuoka.connpass.com/event/395110/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月26日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月26日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 静岡市番町市民活動センター（大会議室）&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡市葵区 一番町50&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供のための無料のプログラミング広場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（こーだーどうじょう）とは&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pyladies-shizuoka.connpass.com/event/392236/</guid><enclosure url="https://media.connpass.com/thumbs/29/a6/29a6c1dea0d0a0711dd37cc7dcd07076.png" length="0" type="image/png"/><pubDate>Tue, 02 Jun 2026 23:22:24 +0900</pubDate></item><item><title>73回CoderDojo静岡</title><link>https://coderdojo-shizuoka.connpass.com/event/395110/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月26日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月26日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 静岡市番町市民活動センター（大会議室）&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡市葵区 一番町50&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供のための無料のプログラミング広場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（こーだーどうじょう）とは&lt;/h1&gt;
 &lt;p&gt;CoderDojoは、7〜17歳の子どもを対象にした無料のプログラミング道場です。
 CoderDojoの活動は2011年にアイルランドで始まり、世界では100カ国・2,000以上の道場、日本では全国に190以上の道場があります (2024年4月時点)。&lt;/p&gt;
 &lt;h1&gt;CoderDojo静岡&lt;/h1&gt;
