@@ -1,2 +1,1825 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 03 Jun 2026 18:40:23 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 04 Jun 2026 17:40:08 +0000</lastBuildDate><item><title>AgileJapanサテライト沖縄 ～AI時代のソフトウェア開発を考える～</title><link>https://agile-yuimar.connpass.com/event/385208/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月7日(日) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月7日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県男女共同参画センターてぃるる&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市西3-11-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #aj2025oka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;- Reboot Japan -&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Agile Japan サテライト ＜沖縄＞&lt;/h1&gt;
+&lt;p&gt;2025年11月13-14日に開催されたAgile Japan のサテライトを開催します&lt;/p&gt;
+&lt;p&gt;（参考）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://2025.agilejapan.jp/" rel="nofollow"&gt;Agile Japan 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://note.com/project_j_k/n/n5505765d4b76" rel="nofollow"&gt;Agile Japan 2025 サテライト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;サテライト概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Reboot Japan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;『アジャイルソフトウェア開発宣言』から20余年。2025年のテーマは「Reboot Japan」です。
+日々アジャイルに取り組む私たちは、チームや組織、そしてこの沖縄のコミュニティの中で、常に変化を起こせる存在です。
+「アジャイルは難しい」と感じる瞬間があるかもしれません。しかし、新しいことに挑戦する1%の人たちと、1%の技術的革新こそが、未来を切り拓く原動力になります。私たち一人ひとりのアクションが、日本を、そして足元の現場をより良く変えていく力になります。&lt;/p&gt;
+&lt;p&gt;今こそ、自分たちの「再起動（リブート）」について、一緒に考えてみませんか。
+「アジャイルの心（ちむぐくる）」で変革の火種を分かち合い、ここ沖縄から日本をアップデートしていきたい。
+そんな想いを込めて、サテライト沖縄を開催いたします。&lt;/p&gt;
+&lt;h3&gt;参加対象&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;アジャイル開発を実践している方&lt;/li&gt;
+&lt;li&gt;アジャイルやスクラムに興味がある方&lt;/li&gt;
+&lt;li&gt;AIエージェントとの向き合い方に興味がある方&lt;/li&gt;
+&lt;li&gt;プロダクト改善やチーム変革に取り組むマネージャー&lt;/li&gt;
+&lt;li&gt;DX推進を課題とする経営者や部門責任者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;注意事項&lt;/h3&gt;
+&lt;p&gt;地域コミュニティとして対面での交流を大事にしたいので、本イベントはリアル会場にて開催します。&lt;/p&gt;
+&lt;h1&gt;プログラム&lt;/h1&gt;
+&lt;h3&gt;タイムテーブル&lt;/h3&gt;
+&lt;p&gt;※開始、終了時刻、及び内容は若干変更される可能性があります。ご了承ください。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;12:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:10&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;基調講演1. AI時代のソフトウェア開発を考える（2025/11版）（動画視聴）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;14:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ディスカッション、休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;14:40&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ソフトウェア開発現代史: 55％が変化に備えていない現実（動画視聴）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;15:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ディスカッション&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;15:20&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;金融会社でのアジャイル導入の挑戦（動画視聴）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;15:40&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ディスカッション&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:20&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;予備&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;基調講演 「AI時代のソフトウェア開発を考える（2025/11版）」&lt;/h2&gt;
+&lt;h3&gt;セッション概要&lt;/h3&gt;
+&lt;p&gt;2025年に入るあたりからソフトウェア開発の姿はすっかり変わり、コードはAIエージェントが書く時代に入りました。
+TimO'Reillyが言うところの「我々が知っているプログラミングの終焉」です。これからのソフトウェア開発はどうなっていくのでしょうか。
+この講演では、これからのソフトウェア開発の姿、AIエージェントとの向き合いかたを考えていきます。&lt;/p&gt;
+&lt;h3&gt;プロフィール&lt;/h3&gt;
+&lt;p&gt;和田 卓人さん / Takuto Wada&lt;/p&gt;
+&lt;p&gt;プログラマ、テスト駆動開発者。学生時代にソフトウェア工学を学び、オブジェクト指向分析/設計に傾倒。執筆活動や講演、ハンズオンイベントなどを通じてテスト駆動開発を広めようと努力している。 
+『プログラマが知るべき97のこと』（オライリージャパン、2010）監修。『テスト駆動開発』（オーム社、2017）翻訳。『事業をエンジニアリングする技術者たち』（ラムダノート、2022）編者。『SQLアンチパターン第2版』（オライリージャパン、2025）監訳。テストライブラリ power-assert-js 作者。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;ソフトウェア開発現代史: 55％が変化に備えていない現実　─ AI支援型開発時代のReboot Japan&lt;/h2&gt;
+&lt;h3&gt;セッション概要&lt;/h3&gt;
+&lt;p&gt;AI支援型開発時代を迎えた今、日本の多くの組織はその土台づくりに出遅れています。現場の実態には大きなギャップがあり、ファインディがIT従事者798名を対象に行った調査では、開発フレームワークについて「よくわからない」18.2％、「ウォーターフォール」36.8％と、あわせて55％が変化に柔軟に対応できない現実が明らかになりました。さらにVSSやSVNなど旧来のバージョン管理を使う組織も約3割にのぼります。これはAI支援型開発の波に乗り遅れ、将来的に大きな生産性格差を生むリスクを意味します。本セッションでは、ソフトウェア開発現代史を手がかりに「なぜ変われないのか」を整理し、今年ファインディのカンファレンスでケント・ベックやジーン・キムが語った内容を踏まえて「何を取り戻すべきか」を再考します。アジャイルとDevOpsの文化を基盤に、AI時代に日本の開発をRebootする道筋を提示します。&lt;/p&gt;
+&lt;h3&gt;プロフィール&lt;/h3&gt;
+&lt;p&gt;高橋 裕之さん / Hiroyuki Takahashi
+ファインディ株式会社
+Staff Engineer (Engineering Excellence)
+1989年より組込みエンジニアとして、電話網の交換機開発携わり国産OS CTRONをスクラッチで開発。また、BSD UNIXベースのTCP/IPプロトコル開発に従事。その後、メーカーでRTOSや組込みLinuxを基盤としたテレビ、デジタルカメラ、ビデオカメラなどの開発に16年携わる。2005年からソフトウェア開発で起きるさまざまな問題に向き合うことを決意しSPI（ソフトウェアプロセス改善）の専門家へ転身。
+問題を抱える開発チームに向き合いながら、計測エビデンスをもとにしたケイパビリティモデルに基づくプロセス改善活動を得意とする。
+Findy Tech Blog 編集長。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;金融会社でのアジャイル導入の挑戦　～組織の壁・階層を越えた「対話」が紡いだ変革の軌跡～&lt;/h2&gt;
+&lt;h3&gt;セッション概要&lt;/h3&gt;
+&lt;p&gt;「アジャイル導入がなかなかうまく進まない」三菱UFJ eスマート証券もそんな悩みを抱えてました。 今度こそアジャイル導入を実現したい、そんな思いに共感したKDDIは取組に伴走支援させていただきました。 過去の大きな組織での組織変革の経験をもとに、丁寧な対話をベースにしたアプローチを行いました。現場、ビジネスサイド、マネージャー様々な方との対話を重ねて一つ一つ課題をクリアし、結果として1年でスクラムチームを立ち上げることができました。 このセッションでは、過去の変革の経験から得た気づきや目の前の人との対話がいかにして「アジャイル導入」という大きな変革につながったのか、具体的な行動とその成果をご紹介します。同じような悩みを抱える方の何かきっかけになれましたら幸いです。&lt;/p&gt;
+&lt;h3&gt;プロフィール&lt;/h3&gt;
+&lt;p&gt;清野 航さん / Wataru Seino
+KDDI株式会社
+エキスパート
+2012年KDDI株式会社入社。ToC向けのアプリ・サービスのPO・PM・開発に従事。現在はPOをやりつつ、チームがより価値にフォーカスできるようにマネージャーとして橋渡しにも奮闘中。
+また、それらの経験をもとにグループ会社へのアジャイル導入支援などアジャイル開発を推進するメンバーとしても活動中。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;Agile Japanとは&lt;/h1&gt;
+&lt;p&gt;Agile Japanは、日本中にアジャイルの価値を浸透させ、日本の変革を促進することを目指しています。あらゆる業界や職種の方が集まり、実践者も初学者もともに建設的な意見交換ができる場です。&lt;/p&gt;
+&lt;h1&gt;Agile Japanの行動規範&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://2025.agilejapan.jp/code-of-conduct/" rel="nofollow"&gt;https://2025.agilejapan.jp/code-of-conduct/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;多様性の尊重&lt;/h2&gt;
+&lt;p&gt;年齢、性別、国籍、出身などの身体的／精神的な多様性を尊重します。 
+さらに、職業、所属や役割などを超えて、アジャイルに対して違う考え方を持って集う方々を尊重します。&lt;/p&gt;
+&lt;h2&gt;ビギナー歓迎&lt;/h2&gt;
+&lt;p&gt;社外セミナーへの参加や発表に慣れない方も、アジャイルへの取り組みを始めたばかりの方も歓迎・応援します。&lt;/p&gt;
+&lt;h2&gt;建設的な意見交換&lt;/h2&gt;
+&lt;p&gt;相手の立場や文脈を尊重しながら意見を交換しあい、それによって生まれる新たな気づきを双方とも楽しみます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://agile-yuimar.connpass.com/event/385208/</guid><enclosure url="https://media.connpass.com/thumbs/af/81/af81657603d86a9f76653022dda56fbd.png" length="0" type="image/png"/><pubDate>Thu, 30 Apr 2026 21:41:40 +0900</pubDate></item><item><title>「Gemma勉強会 1回目」もくもく会を開催します！</title><link>https://codebase.connpass.com/event/395929/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月11日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月11日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: CODEBASE&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市大山 7-10-14 プロト宜野湾第2ビル 2階 CODEBASE&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #Gemma&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;📌イベント概要&lt;/h2&gt;
+&lt;p&gt;「生成AIでアプリを作ってみたいけど、何から始めればいいか分からない…」&lt;/p&gt;
+&lt;p&gt;「Gemmaの技術に触れてみたい！LLMをローカル環境で動かしてみたい！」&lt;/p&gt;
+&lt;p&gt;そんな想いに応えるべく、今回はGoogleのオープンLLM（大規模言語モデル）である「Gemma」をテーマにした、もくもく会を開催します！&lt;/p&gt;
+&lt;p&gt;最先端のAI技術に触れながら、沖縄のエンジニア仲間と楽しみませんか？&lt;/p&gt;
+&lt;p&gt;ガチガチの講義形式ではないため、各自がドキュメントを読み、手を動かす完全もくもくスタイルです。&lt;/p&gt;
+&lt;p&gt;未経験の方や「Gemmaって触ったことない…」という方も大歓迎！お互いの画面を覗き見したり、情報交換をしたりしながら、ゆるく、でも熱く開発を進めましょう。&lt;/p&gt;
+&lt;p&gt;今回もプロトソリューションの現役エンジニアが、会場でみなさんの「はじめの一歩」をサポートします。&lt;/p&gt;
+&lt;h2&gt;📌会場案内&lt;/h2&gt;
+&lt;p&gt;🔹CODE BASE OKINAWA&lt;/p&gt;
+&lt;p&gt;本イベントはオフラインでの開催となります。&lt;/p&gt;
+&lt;p&gt;住所：沖縄県宜野湾市大山7-10-14　プロト宜野湾沖縄本社第2ビル 2F
+※お間違いのないようにお気をつけください。&lt;/p&gt;
+&lt;h2&gt;❓今回テーマとする「Gemma」とは？&lt;/h2&gt;
+&lt;p&gt;Googleが提供する、オープンで最先端な軽量LLM（大規模言語モデル）シリーズです。
+開発者が自由にカスタマイズしやすく、ローカル環境や手元のPCでも動かせる高い柔軟性とパフォーマンスを誇ります。&lt;/p&gt;
+&lt;h2&gt;🔹 Gemmaについて詳しくはこちら&lt;/h2&gt;
+&lt;p&gt;https://ai.google.dev/gemma&lt;/p&gt;
+&lt;h2&gt;💻こんな方に参加してほしい！&lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;✅ 生成AI（Gemma）を使ったアプリ開発やプロンプトエンジニアリングに興味がある方&lt;br&gt;
+✅ ジュニアエンジニア・学生で、AIプロダクト開発の経験を積んでポートフォリオを強化したい方&lt;br&gt;
+✅ ミドル・シニアエンジニアで、最新のオープンLLMの技術キャッチアップや選定を行いたい方&lt;br&gt;
+✅ 沖縄のITコミュニティに興味があり、技術が好きな仲間とゆるく情報交換したい方&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🕖タイムテーブル
+「成果発表」のようなハードルの高いコンテンツはありません。最後は「今日何やった？」をカジュアルに共有して、次回へのステップにする解散スタイルです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🕖タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;19:00 - 19:15&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;開場・受付（各会場）&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;19:15 - 19:20&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;オープニング（本日の進め方・Gemmaの紹介）&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;19:20 - 20:40&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;もくもくタイム（たっぷり80分！各自開発や環境構築、情報収集など&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;20:45 - 21:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;「今日どこまでやった？」のゆるシェア &amp;amp; 次回のNext Action宣言&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;21:00 - 21:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;本編終了・自由解散（居様子見の雑談・LLMトークタイム）&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;👜持ち物&lt;/h2&gt;
+&lt;p&gt;✅ノートPC(Mac、Windowsどちらでも)&lt;br&gt;
+・メモリ(RAM)：8GB以上推奨（16GB以上あるとより安心です）&lt;br&gt;
+・ブラウザ：Google Chrome 最新版推奨&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;貸出用のPCが数台ございますので、必要な方はメールにて事前相談お願いします&lt;/p&gt;
+&lt;p&gt;✅充電コード&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;✅個人gmailアカウント ※クレジットカード登録等は不要です&lt;/p&gt;
+&lt;p&gt;※各会場には電源・Wi-Fiを完備しています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🅿️ 駐車場(沖縄会場)&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="駐車場画像" src="https://i.imgur.com/yeH5BtH.jpeg"&gt;
+※会場ごとの詳細なアクセスは、各参加枠の案内をご確認ください。&lt;/p&gt;
+&lt;h2&gt;📩 お問い合わせ&lt;/h2&gt;
+&lt;p&gt;下記のメールアドレス宛にご連絡ださい&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;codebase.okinawa@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://codebase.connpass.com/event/395929/</guid><enclosure url="https://media.connpass.com/thumbs/bc/c3/bcc3b57dac5fe56d66e2f510453109b7.png" length="0" type="image/png"/><pubDate>Wed, 03 Jun 2026 13:37:07 +0900</pubDate></item><item><title>沖縄AI勉強会/データサイエンス/生成AI/Claude/ChatGPT</title><link>https://minecraft098.connpass.com/event/395748/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月12日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月12日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI活用についての勉強会です。気軽にどうぞ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;沖縄AI/ChatGPT勉強会｜毎週金曜日・宜野湾で開催中&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;AI検索（GEO）時代に取り残されないための、実践的な生成AI勉強会です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;沖縄県宜野湾市を拠点に、毎週金曜日の夜、少人数でじっくり学べるAI・ChatGPT勉強会を開催しています。&lt;/p&gt;
+&lt;p&gt;「AIを使いたいけど何から始めればいいか分からない」「ChatGPTを業務に活かしたい」「沖縄でAIを学べる場所が少ない」——そんな方に向けて、Google公認AIプロフェッショナルの資格を持つエンジニアが、最新の生成AI活用法を毎週アップデートしながらお伝えしています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;この勉強会で学べること&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPT・Gemini・Claudeなどの最新LLM（大規模言語モデル）の使い方&lt;/li&gt;
+&lt;li&gt;業務効率化に直結するプロンプトエンジニアリングの実践&lt;/li&gt;
+&lt;li&gt;AI検索最適化（GEO：生成エンジン最適化）の基礎と実装&lt;/li&gt;
+&lt;li&gt;自治体・中小企業向けのAI導入事例と具体的な活用ステップ&lt;/li&gt;
+&lt;li&gt;データサイエンスの基礎からAI活用まで、実務レベルの知識&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;主宰者プロフィール&lt;/h2&gt;
+&lt;p&gt;鈴木孝昌（WEBCRAFTS代表 / エンジニア歴30年）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google公認AIプロフェッショナル認定取得（2026年5月）&lt;/li&gt;
+&lt;li&gt;米Google本社・Meta本社に自治体SNS専門家として招待&lt;/li&gt;
+&lt;li&gt;沖縄県内全41市町村のDX・AI活用状況を独自調査&lt;/li&gt;
+&lt;li&gt;官公庁・自治体向けWebシステム構築・DX支援の現役PM&lt;/li&gt;
+&lt;li&gt;第7回マイクラカップ 沖縄代表チーム指導・TBS賞受賞&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「技術は、優しさと誠実さを実装するためにある」——この信念のもと、沖縄のAIリテラシーを底上げするために毎週開催しています。&lt;/p&gt;
+&lt;p&gt;AI導入支援・GEO対応サービス：&lt;a href="https://webcrafts.jp/ai/" rel="nofollow"&gt;https://webcrafts.jp/ai/&lt;/a&gt;
+&lt;a href="https://weva.jp/" rel="nofollow"&gt;https://weva.jp/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;LINEオフィシャルアカウントからお申し込みください：
+&lt;a href="https://lin.ee/YSnN0oC" rel="nofollow"&gt;https://lin.ee/YSnN0oC&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;準備いただくもの&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートパソコン（必須）&lt;/li&gt;
+&lt;li&gt;インターネット接続環境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;開催日時&lt;/h2&gt;
+&lt;p&gt;毎週金曜日 19:30〜（所要時間：約90分）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;開催場所&lt;/h2&gt;
+&lt;p&gt;沖縄マイクラ部 プログラミングスクール「クロスウェーブ」
+沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F
+&lt;a href="https://maps.app.goo.gl/dU8XP5icZPvPxqJd6" rel="nofollow"&gt;https://maps.app.goo.gl/dU8XP5icZPvPxqJd6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主催：沖縄ホームページ制作工房WEBCRAFTS
+&lt;a href="https://webcrafts.jp/" rel="nofollow"&gt;https://webcrafts.jp/&lt;/a&gt;
+&lt;a href="https://minecraft-okinawa.com/" rel="nofollow"&gt;https://minecraft-okinawa.com/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;LINE（推奨）：&lt;a href="https://lin.ee/YSnN0oC" rel="nofollow"&gt;https://lin.ee/YSnN0oC&lt;/a&gt;
+メール：webcrafts098@gmail.com
+X（Twitter）：&lt;a href="https://twitter.com/8131ok" rel="nofollow"&gt;https://twitter.com/8131ok&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;沖縄でAIを学ぶなら、毎週続けられる少人数の実践勉強会から始めてみませんか。
+初心者の方も、すでにAIを使っている方も、どなたでも歓迎しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/395748/</guid><enclosure url="https://media.connpass.com/thumbs/50/8f/508f13573452feefdace07897ef9e29e.png" length="0" type="image/png"/><pubDate>Thu, 04 Jun 2026 17:53:06 +0900</pubDate></item><item><title>ChatGPT部 #90 〜 LT &amp; ディスカッション 〜</title><link>https://chatgptclub.connpass.com/event/394866/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ChatGPT部&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ChatGPT部 Connpass&lt;/h1&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPTについて、あれこれディスカッションする会です&lt;/li&gt;
+&lt;li&gt;2024年からは月に２回のペースで開催中&lt;/li&gt;
+&lt;li&gt;５分間のライトニングトーク(LT)や通常の発表枠、議論ネタ(技術でも、アイディアでも、未来の話でもOK)募集中です・・！&lt;/li&gt;
+&lt;li&gt;皆でワイワイやりましょう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;10:00-10:15&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;勉強会の主旨説明・個人的に気になるニュースなど&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://twitter.com/doradora09" rel="nofollow"&gt;@doradora09&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;10:15-10:55&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT枠(10分以内、質疑応答込み) &amp;amp; ディスカッション&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;10:55-11:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング・次回予定&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;@doradora09&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;参加条件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPTに興味がある方ならどなたでもOKです・・！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;参加方法&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Connpassにて参加申し込み&lt;/li&gt;
+&lt;li&gt;オンラインミーティングのURL等は、connpassの参加者向け情報にてお知らせいたします。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ご参加をお待ちしております！&lt;/p&gt;
+&lt;h2&gt;参加にあたっての遵守事項&lt;/h2&gt;
+&lt;p&gt;・敬意を持ってコミュニケーションしましょう。他のメンバーを攻撃したり、差別的な言葉を使わないでください。&lt;/p&gt;
+&lt;p&gt;・コミュニティの活性化のために、他のメンバーの発言や発表には感謝を表明しましょう。&lt;/p&gt;
+&lt;p&gt;・完全招待性のため、会議URLの転送等はお控えください。&lt;/p&gt;
+&lt;p&gt;・録画/録音は禁止されております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://chatgptclub.connpass.com/event/394866/</guid><enclosure url="https://media.connpass.com/thumbs/18/88/1888c4470d25726592aba7f20a0903f2.png" length="0" type="image/png"/><pubDate>Sat, 23 May 2026 11:08:47 +0900</pubDate></item><item><title>Railsを体験してみよう！</title><link>https://rails-beginners-okinawa.connpass.com/event/392412/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 琉球大学 工学部棟 1-321教室&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県中頭郡西原町字千原1番地&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Railsを触ってみよう！はじめてのWebアプリ開発体験会&lt;/h1&gt;
+&lt;p&gt;RailsBeginners沖縄の第2回イベントとして、&lt;br&gt;
+今回は &lt;strong&gt;Ruby on Rails（Rails）を使ったWebアプリ開発の体験会&lt;/strong&gt; を開催します！&lt;/p&gt;
+&lt;p&gt;前回は、Railsの土台となるプログラミング言語 &lt;strong&gt;Ruby&lt;/strong&gt; に触れてみる体験会を行いました。&lt;br&gt;
+今回はその次のステップとして、Rubyで作られているWebアプリケーションフレームワーク &lt;strong&gt;Ruby on Rails&lt;/strong&gt; に触れていきます。&lt;/p&gt;
+&lt;p&gt;今回作るのは、短い投稿を作成・表示できる &lt;strong&gt;micropostアプリ&lt;/strong&gt; です。&lt;br&gt;
+実際に手を動かしながら、投稿の作成・一覧表示・編集・削除など、Webアプリの基本的な流れを体験していきます。&lt;/p&gt;
+&lt;p&gt;「Railsって聞いたことはあるけど、何ができるのかわからない」&lt;br&gt;
+「Webアプリを作ってみたいけど、何から始めたらいいかわからない」&lt;br&gt;
+「Rubyを少し触ったので、次はRailsにも挑戦してみたい」  &lt;/p&gt;
+&lt;p&gt;そんな方に向けた、&lt;strong&gt;はじめての方向けのRails勉強会&lt;/strong&gt;です！&lt;/p&gt;
+&lt;h2&gt;このイベントについて&lt;/h2&gt;
+&lt;p&gt;このイベントでは、あらかじめ用意したRails環境を使いながら、&lt;br&gt;
+簡単な &lt;strong&gt;micropostアプリ&lt;/strong&gt; を一緒に作っていきます。&lt;/p&gt;
+&lt;p&gt;Railsの便利な機能である &lt;code&gt;scaffold&lt;/code&gt; を使って、投稿機能を作成し、&lt;br&gt;
+その後、生成されたファイルを見ながらRailsの仕組みを少しずつ確認していきます。&lt;/p&gt;
+&lt;p&gt;具体的には、以下のような内容を扱う予定です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Railsとは何か&lt;/li&gt;
+&lt;li&gt;Webアプリケーションとは何か&lt;/li&gt;
+&lt;li&gt;Railsでアプリを作る流れ&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;scaffold&lt;/code&gt; を使った投稿機能の作成&lt;/li&gt;
+&lt;li&gt;投稿の作成・一覧表示・編集・削除の体験&lt;/li&gt;
+&lt;li&gt;RailsのMVCの考え方&lt;/li&gt;
+&lt;li&gt;画像アップロード機能の追加&lt;/li&gt;
+&lt;li&gt;時間が余った方向けのチャレンジ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「全部を完璧に理解する」ことよりも、&lt;br&gt;
+&lt;strong&gt;RailsでWebアプリが動く流れを実際に体験してみること&lt;/strong&gt; を大切にしたイベントです。&lt;/p&gt;
+&lt;p&gt;※内容は参加者の様子や進行に合わせて調整する可能性があります。&lt;/p&gt;
+&lt;h2&gt;当日使うリポジトリ&lt;/h2&gt;
+&lt;p&gt;当日は以下のリポジトリを使用する予定です。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/Hugkun/rails-micropost" rel="nofollow"&gt;https://github.com/Hugkun/rails-micropost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;事前準備や当日の手順については、リポジトリ内のREADMEも参考にしてください。&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プログラミングに興味がある方&lt;/li&gt;
+&lt;li&gt;Rubyを少し触って、次にRailsを学んでみたい方&lt;/li&gt;
+&lt;li&gt;Webアプリケーションを作ってみたい方&lt;/li&gt;
+&lt;li&gt;Railsに興味はあるけど、まだ触ったことがない方&lt;/li&gt;
+&lt;li&gt;Railsで何ができるのか体験してみたい方&lt;/li&gt;
+&lt;li&gt;勉強会に参加してみたい初心者の方&lt;/li&gt;
+&lt;li&gt;大学生・高専生&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;プログラミング経験が少ない方も歓迎です！&lt;br&gt;
+「まだ全然わからないけど参加してみたい」という方も、ぜひ気軽に参加してください。&lt;/p&gt;
+&lt;h2&gt;開催場所&lt;/h2&gt;
+&lt;p&gt;琉球大学 工学部1号館 1-321教室&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.tec.u-ryukyu.ac.jp/access/" rel="nofollow"&gt;キャンパスマップ&lt;/a&gt; の赤丸の場所です！&lt;/p&gt;
+&lt;h2&gt;当日の内容&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00 - 16:10&lt;/td&gt;
+&lt;td&gt;オープニング・自己紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10 - 16:25&lt;/td&gt;
+&lt;td&gt;Railsとは？Webアプリとは？かんたんな説明&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:25 - 17:20&lt;/td&gt;
+&lt;td&gt;micropostアプリ作成ハンズオン&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:20 - 17:30&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:30 - 17:50&lt;/td&gt;
+&lt;td&gt;画像アップロード追加・チャレンジ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:50 - 18:00&lt;/td&gt;
+&lt;td&gt;まとめ・次回案内&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※時間配分は目安です。進行状況に応じて変更する場合があります。&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当日はPCを使ってRailsアプリを動かします。&lt;br&gt;
+可能であれば、事前準備をしたうえでご参加ください。&lt;/p&gt;
+&lt;h2&gt;事前準備&lt;/h2&gt;
+&lt;p&gt;スムーズに進めるため、可能であれば事前に以下の準備をお願いします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PCの空き容量が &lt;strong&gt;20GB以上&lt;/strong&gt; あるか確認する&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Docker Desktop をインストールしておく&lt;br&gt;
+  &lt;a href="https://www.docker.com/products/docker-desktop/" rel="nofollow"&gt;https://www.docker.com/products/docker-desktop/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visual Studio Code をインストールしておく&lt;br&gt;
+  &lt;a href="https://code.visualstudio.com/download" rel="nofollow"&gt;https://code.visualstudio.com/download&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Docker Desktopは、Railsを動かすための環境を簡単にそろえるために使います。&lt;br&gt;
+Visual Studio Codeは、コードを書くためのエディタとして使います。&lt;/p&gt;
+&lt;p&gt;PCの空き容量は、Docker DesktopやRails環境のデータを入れる前に、&lt;br&gt;
+&lt;strong&gt;20GB以上の空きがあること&lt;/strong&gt; を目安に確認しておいてください。&lt;/p&gt;
+&lt;p&gt;Docker Desktopの初回起動や、Rails環境に必要なデータのダウンロードには時間がかかる場合があります。&lt;br&gt;
+当日スムーズに進めるためにも、事前にインストールしておくことをおすすめします。&lt;/p&gt;
+&lt;p&gt;インストールや設定が不安な方も大丈夫です。&lt;br&gt;
+当日サポートしながら進めますので、わからないところがあれば気軽に聞いてください。&lt;/p&gt;
+&lt;h2&gt;RailsBeginners沖縄について&lt;/h2&gt;
+&lt;p&gt;RailsBeginners沖縄は、&lt;br&gt;
+&lt;strong&gt;RubyやRuby on Railsを初心者でも楽しく学べる場を作ること&lt;/strong&gt; を目的とした勉強会です。&lt;/p&gt;
+&lt;p&gt;「プログラミングを始めてみたい」&lt;br&gt;
+「Railsを使ってWebアプリを作れるようになりたい」&lt;br&gt;
+「一緒に学ぶ仲間がほしい」  &lt;/p&gt;
+&lt;p&gt;そんな方が気軽に参加できるコミュニティを目指しています。&lt;/p&gt;
+&lt;p&gt;初心者の方も、少し経験がある方も大歓迎です！&lt;br&gt;
+一緒に楽しくRailsを学んでいきましょう！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;懇親会のご案内&lt;/h2&gt;
+&lt;p&gt;勉強会終了後、Hugkun琉大北オフィスにてHACK.BAR OKINAWAを開催します！
+プログラミング言語をモチーフにしたオリジナルカクテルを片手に、技術トークで盛り上がりましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ノンアルコールカクテルもあります！ 未成年でも参加OK！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Python" height="100px" src="https://hackbar.jp/img/home/menu/06.png" width="100px"&gt;
+&lt;img alt="TypeScript" height="100px" src="https://hackbar.jp/img/home/menu/11.png" width="100px"&gt;
+&lt;img alt="Ruby" height="100px" src="https://hackbar.jp/img/home/menu/10.png" width="100px"&gt;
+&lt;img alt="C\#" height="100px" src="https://hackbar.jp/img/home/menu/03.png" width="100px"&gt;
+&lt;img alt="Rust" height="100px" src="https://hackbar.jp/img/home/menu/08.png" width="100px"&gt;&lt;/p&gt;
+&lt;h3&gt;日程・会場&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;th&gt;開催時間&lt;/th&gt;
+    &lt;td&gt;18:30 - 20:30&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt;会場&lt;/th&gt;
+    &lt;td&gt;Hugkun琉大北オフィス&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th&gt;詳細・申込&lt;/th&gt;
+    &lt;td&gt;&lt;a href="https://hackbar-okinawa.connpass.com/event/395293/" rel="nofollow"&gt;https://hackbar-okinawa.connpass.com/event/395293/&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;※ 勉強会とは別に、上記URLからの申し込みが必要です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GwaveWaiwai" height="50%" src="https://hugkun.com/img/collaboration/HACK.BAR/202508_gwave_waiwai.webp" width="50%"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://rails-beginners-okinawa.connpass.com/event/392412/</guid><enclosure url="https://media.connpass.com/thumbs/a8/87/a88737792aeba2cf3040f2ec232027cc.png" length="0" type="image/png"/><pubDate>Tue, 02 Jun 2026 08:01:03 +0900</pubDate></item><item><title>HACK.BAR OKINAWA 定期イベント</title><link>https://hackbar-okinawa.connpass.com/event/395293/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 琉大北オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市宜野湾2丁目1-11 3F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;あつまれ沖縄エンジニア。オリジナルカクテルとともに気軽に交流しませんか？&lt;/p&gt;&lt;div&gt;&lt;h1&gt;HACK.BAR OKINAWAとは？&lt;/h1&gt;
+&lt;p&gt;「沖縄の学生応援企業」Hugkunが、沖縄のITエンジニアと学生が気軽に交流できる場をつくりたいという想いから、HACK.BARとコラボして開催しているイベントです！&lt;/p&gt;
+&lt;p&gt;HACK.BARオリジナルカクテルを楽しみながら、エンジニア同士・学生同士・学生と社会人でゆるく交流しましょう！
+ノンアルコールも一部ご用意しています。&lt;/p&gt;
+&lt;p&gt;今回は、前回に続きRailsBeginners沖縄とのコラボ企画として開催します。
+RubyやRailsを勉強している方はもちろん、IT業界に興味がある学生、エンジニアと話してみたい方、技術の話をしながら交流したい社会人の方も歓迎です。&lt;/p&gt;
+&lt;p&gt;ピザとおつまみもご用意しています。
+一人での参加でも入りやすい雰囲気を目指していますので、ぜひお気軽にご参加ください！&lt;/p&gt;
+&lt;h1&gt;RailsBeginners沖縄との2回目のコラボ！&lt;/h1&gt;
+&lt;p&gt;今回のHACK.BAR OKINAWAは、前回に続き、&lt;a href="https://rails-beginners-okinawa.connpass.com/event/392412/" rel="nofollow"&gt;RailsBeginners沖縄&lt;/a&gt;とのコラボ企画として開催します。&lt;/p&gt;
+&lt;p&gt;イベント本編とは別の交流会ではありますが、RubyやRailsを学んでいる方、これから学びたい方、学習中の人とつながりたい方が気軽に話せる場にしたいと考えています。&lt;/p&gt;
+&lt;p&gt;RubyやRailsの学習方法、開発で使っている技術の話はもちろん、「これから何を勉強すればよいか」「実際の開発ではどんなふうに使われているのか」といった初歩的な話題も歓迎です。&lt;/p&gt;
+&lt;p&gt;RailsBeginners沖縄のイベント参加後の延長としても、HACK.BARだけの参加でも、お気軽にお越しください！&lt;/p&gt;
+&lt;h2&gt;Hugkunとは&lt;/h2&gt;
+&lt;p&gt;Hugkunはエンジニアになりたい学生の最初のステップを目指し、実践的な経験を積みたい学生に、チャレンジできる場所を提供します。学生たちと企業との間に立ち、両方の間に入ることで様々な不安を解消し、学生が社会の中で活躍していける環境を構築していくことを目指しています。&lt;/p&gt;
+&lt;p&gt;Hugkunのホームページは&lt;a href="https://hugkun.com/" rel="nofollow"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;HACK.BARとは&lt;/h2&gt;
+&lt;p&gt;HACK.BARは日本に限らず世界でも珍しいエンジニアが集まるバーです。スタッフはもちろん、ご来店くださるお客様もエンジニアの方が多く、技術の話や仕事の話をお酒を嗜みながら楽しむことができます。また、技術者との交流が豊富であり、プログラミング言語をテーマにしたオリジナルカクテルなどエンジニアのサードプレイスを提供する場所です。&lt;/p&gt;
+&lt;p&gt;HACK.BARのホームページは&lt;a href="https://hackbar.jp/" rel="nofollow"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;X(twitter)アカウントは&lt;a href="https://x.com/HackBarOkinawa" rel="nofollow"&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;h2&gt;日程・会場&lt;/h2&gt;
+&lt;table&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;th&gt;開催日&lt;/th&gt;
+    &lt;td&gt;2026年6月13日（土）18:30 - 20:30&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt;会場&lt;/th&gt;
+    &lt;td&gt;Hugkun琉大北オフィス&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th&gt;住所&lt;/th&gt;
+    &lt;td&gt;沖縄県宜野湾市宜野湾2丁目1-11 3F&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;h2&gt;料金について&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;対象参加枠&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th style="text-align: right;"&gt;料金&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;一般参加枠(学生)&lt;/td&gt;
+&lt;td&gt;カクテル3杯・ピザ付き&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;1,000円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;一般参加枠(社会人)&lt;/td&gt;
+&lt;td&gt;カクテル3杯・ピザ付き&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;3,000円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;一般参加枠(社会人)&lt;br&gt;(追加ドリンク付き)&lt;/td&gt;
+&lt;td&gt;カクテル4杯・ピザ付き&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;4,000円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;追加ドリンクチケット&lt;br&gt;(学生・社会人共通)&lt;/td&gt;
+&lt;td&gt;カクテル2杯&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;1,000円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;おつまみスポンサー枠&lt;/td&gt;
+&lt;td&gt;イベント支援用スポンサー枠&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;5,000円&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学生ボランティアスタッフ&lt;/td&gt;
+&lt;td&gt;当日の運営補助スタッフ参加&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;無料&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;「一般参加枠(社会人)」でお申し込みいただいた方は、追加料金をお支払いいただくことで、「追加ドリンク付きプラン」をご利用いただけます。&lt;/p&gt;
+&lt;p&gt;※領収書を発行できます&lt;/p&gt;
+&lt;h2&gt;オリジナルカクテルについて&lt;/h2&gt;
+&lt;p&gt;以下の種類をご用意しております。&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+  &lt;th&gt;
+    アルコール
+  &lt;/th&gt;
+  &lt;td&gt;
+   Python, TypeScript, Ruby, C#, Rust
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;th&gt;
+    ノンアルコール
+  &lt;/th&gt;
+  &lt;td&gt;
+     Python, TypeScript, Ruby
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;img alt="Python" height="150px" src="https://hackbar.jp/img/home/menu/06.png" width="150px"&gt;
+&lt;img alt="TypeScript" height="150px" src="https://hackbar.jp/img/home/menu/11.png" width="150px"&gt;
+&lt;img alt="Ruby" height="150px" src="https://hackbar.jp/img/home/menu/10.png" width="150px"&gt;
+&lt;img alt="C\#" height="150px" src="https://hackbar.jp/img/home/menu/03.png" width="150px"&gt;
+&lt;img alt="Rust" height="150px" src="https://hackbar.jp/img/home/menu/08.png" width="150px"&gt;&lt;/p&gt;
+&lt;p&gt;その他オリジナルカクテル以外のお酒、ソフトドリンクも用意しています。&lt;/p&gt;
+&lt;h2&gt;おつまみスポンサー枠について&lt;/h2&gt;
+&lt;p&gt;HACK.BARでは、イベントを一緒に盛り上げてくださる「おつまみスポンサー」を募集しています。
+本制度は、企業の皆様に軽食やおつまみ類のサポートをいただくことで、参加者の皆様により豊かな交流の場を提供することを目的としています。&lt;/p&gt;
+&lt;h3&gt;スポンサー特典&lt;/h3&gt;
+&lt;p&gt;スポンサーとなっていただいた方には、以下のPRの機会を提供させていただきます&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;企業紹介LT：イベント中に企業紹介のライトニングトーク(LT)を行うことができます。
+※LTの持ち時間は、質疑応答を含め合計30分以内を目安としていただくようお願いいたします。&lt;/li&gt;
+&lt;li&gt;42インチディスプレイで広告放映：会場に設置されたディスプレイを使用し、企業広告を流すことが可能です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;スポンサー費用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;費用：5000円&lt;/li&gt;
+&lt;li&gt;一般参加枠の会費に上乗せされる形でお支払いいただけます。&lt;/li&gt;
+&lt;li&gt;別途領収書を用意することが可能です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;スポンサー様へのお願い&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;当日のスムーズな進行のため、LT資料や広告資料につきましては、下記アドレスまで事前にお送りいただけますと幸いです。&lt;/li&gt;
+&lt;li&gt;share-hack.bar@hugkun.com&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※おつまみスポンサーは駐車場をご利用いただけます。&lt;a href="https://maps.app.goo.gl/wTXfTR7UwGssii156" rel="nofollow"&gt;ハイライフニーナ駐車場&lt;/a&gt;の17番をご利用ください。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30 - 18:35&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:35 - 20:25&lt;/td&gt;
+&lt;td&gt;交流会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:25 - 20:30&lt;/td&gt;
+&lt;td&gt;エンディング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;駐車場について&lt;/h2&gt;
+&lt;p&gt;駐車場つきのチケットで申し込みされた方は&lt;a href="https://maps.app.goo.gl/wTXfTR7UwGssii156" rel="nofollow"&gt;ハイライフニーナ駐車場&lt;/a&gt;の1番、2番、12番をご利用ください。&lt;/p&gt;
+&lt;p&gt;一般参加枠のみで申し込みをされた方は公共交通機関のご利用をよろしくお願いします。&lt;/p&gt;
+&lt;h2&gt;ボランティアスタッフ枠について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HACK.BAR 開催時、一部お手伝い頂くことでドリンク代無料で参加できる制度です。&lt;/li&gt;
+&lt;li&gt;学生支援の目的もあるため、対象は学生のみとなります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ボランティアスタッフにお願いしたいこと&lt;/h3&gt;
+&lt;p&gt;以下の３種から、お手伝い頂く内容を選んで下さい　&lt;br&gt;
+- 専任でバーテンダー（5種全部作れる方のみ）&lt;br&gt;
+- 会場設営/洗い場(イベント開始時および終了時)/写真撮影/バーテンダー（１種以上作れる方）&lt;br&gt;
+- 会場設営/洗い場(イベント開始時および終了時)/写真撮影&lt;br&gt;
+※詳しくは運営までお問い合わせください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hackbar-okinawa.connpass.com/event/395293/</guid><enclosure url="https://media.connpass.com/thumbs/95/dc/95dc481748c4702c73f61b4f8625d435.png" length="0" type="image/png"/><pubDate>Mon, 01 Jun 2026 15:47:37 +0900</pubDate></item><item><title>【第15回】沖縄ノーコード・ローコード勉強会 6月定例会</title><link>https://itc-okinawa.connpass.com/event/394414/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館 ビジネスルーム&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1丁目20番1号（カフーナ旭橋A街区の3階から5階）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜『Microsoft Power BI入門 第2版』で学ぶハンズオン（第5回）〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【第15回】沖縄ノーコード・ローコード勉強会 6月定例会&lt;/h1&gt;
+&lt;h2&gt;～『Microsoft Power BI入門 第2版』で学ぶハンズオン（第5回）～&lt;/h2&gt;
+&lt;p&gt;沖縄ノーコード・ローコード勉強会、6月の定例会を開催します！&lt;/p&gt;
+&lt;p&gt;今回は、定番の入門書『&lt;strong&gt;Microsoft Power BI入門 第2版&lt;/strong&gt;』を教科書としたハンズオン研修の第5回です。&lt;/p&gt;
+&lt;p&gt;前回（第5章：データモデリングをやってみよう）に引き続き、今回は「&lt;strong&gt;第6章：ビジュアライズをやってみよう&lt;/strong&gt;P317～」をテーマに実践的に学びます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;各章でテーマが分かれていますので、今回からのご参加も大歓迎です！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「これからデータ活用を始めたい」「Power BIの基礎をしっかり固めたい」という方は、ぜひこの機会にご参加ください。皆様と一緒に学べるのを楽しみにしています！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;また、前回好評であった、Power BIとAIの連携デモも勉強会後半に実施予定です。お楽しみに！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;📆 開催概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2026年6月20日 (土) 10:00 - 12:00 (9:45 開場)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;沖縄県立図書館 4階 ビジネスルーム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;住所&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;那覇市泉崎1-20-1 カフーナ旭橋A街区 (&lt;a href="https://www.library.pref.okinawa.jp/guide/cat10/index.html" rel="nofollow"&gt;アクセス&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;無料&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;💻 参加条件・持ち物（重要）&lt;/h2&gt;
+&lt;p&gt;本定例会はハンズオン形式のため、以下のご準備をお願いいたします。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Windowsノートパソコン&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;重要:&lt;/strong&gt; Power BI Desktopは&lt;strong&gt;Windows OSのみ&lt;/strong&gt;対応しています。Mac等の他OSではご参加いただけませんのでご注意ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Power BI Desktopの事前インストール&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;会場のWi-Fi負荷軽減とスムーズな進行のため、&lt;strong&gt;事前のインストール&lt;/strong&gt;にご協力をお願いいたします。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://powerbi.microsoft.com/ja-jp/desktop/" rel="nofollow"&gt;ダウンロードはこちら (Microsoft公式)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;テキスト『Microsoft Power BI入門 第2版』&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当日会場での販売はありません。書店やAmazon等で事前にご購入の上、&lt;strong&gt;各自ご持参&lt;/strong&gt;ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;📝 会場に関する注意事項&lt;/h2&gt;
+&lt;p&gt;沖縄県立図書館のビジネスルームを使用します。公共施設のため、以下のマナー遵守をお願いいたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;飲食:&lt;/strong&gt; 蓋付きのお飲み物（ペットボトル・水筒等）のみ持ち込み可能です。お食事はご遠慮ください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;騒音:&lt;/strong&gt; 図書館内となりますので、大声での会話はお控えください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;片付け:&lt;/strong&gt; 退室時は、机・椅子の原状復帰とゴミの持ち帰りにご協力をお願いいたします。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🤝 運営・お問い合わせ&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;主催:&lt;/strong&gt; 沖縄ノーコード・ローコード勉強会（特定非営利活動法人ITコーディネータ沖縄）&lt;/p&gt;
+&lt;p&gt;ご不明な点がございましたら、下記までお気軽にお問い合わせください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;担当: 砂辺&lt;/li&gt;
+&lt;li&gt;Mail: nocode@itc-okinawa.jp&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://itc-okinawa.connpass.com/event/394414/</guid><enclosure url="https://media.connpass.com/thumbs/a4/7b/a47b66971057914374b0d13c1d1bf3fa.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 07:48:55 +0900</pubDate></item><item><title>【ieLT】新入生歓迎LT大会 2026</title><link>https://connpass.com/event/393918/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 琉球大学地域創生総合研究棟 5F 508教室&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県中頭郡西原町千原１−番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #新歓LT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;🚀 新入生歓迎LT大会 2026 の季節だよ！！！ 🎉🎉&lt;/h1&gt;
+&lt;p&gt;知能情報コースの恒例行事、「新入生歓迎LT大会」の季節がやってきました！&lt;/p&gt;
+&lt;p&gt;このイベントは、先輩たちが新入生の皆さんに「知能情報コースってこんなところだよ！」「この講義は面白い（あるいは大変…）だよ！」といった&lt;strong&gt;履修に役立つアドバイス&lt;/strong&gt;から、個人的な趣味、サークル勧誘まで、熱量たっぷりに（&lt;em&gt;でも、ゆる〜く&lt;/em&gt;）紹介する場です。&lt;/p&gt;
+&lt;p&gt;「知能情報コースってどんな雰囲気？」「先輩たちは普段何してるの？」そんな疑問も、このイベントに来れば一気に解決するはず！上級生もたくさん参加するので、&lt;strong&gt;コースのリアルな裏話を聞いたり、顔見知りを増やしたりする絶好のチャンス&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;もちろん、&lt;strong&gt;新入生の皆さんの飛び入り発表も大歓迎！&lt;/strong&gt; 「自己紹介」や「最近ハマっていること」など、5分間自由に語ってみませんか？&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;⚡ そもそも「LT（ライトニングトーク）」って？&lt;/h3&gt;
+&lt;p&gt;LTとは、&lt;strong&gt;5分間の短いプレゼンテーション&lt;/strong&gt;のこと。
+短い時間なので、準備も気負わず、聞く側もサクッと楽しめます。「人前で話す練習をしてみたい」という方にもピッタリの形式です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;📆 開催概要（ハイブリッド開催！）&lt;/h3&gt;
+&lt;p&gt;今年も「現地会場（地創棟5F 508教室）」と「Youtube Live」のハイブリッド開催です‼️
+登壇者も、教室とオンラインどちらからでも参加可能です。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;【重要】配信・登壇時の「顔出し」は不要です！&lt;/strong&gt;
+本イベントのYouTube配信および会場スクリーンでは、基本的に「発表スライド」と「音声」のみを流します。
+「部屋を見せたくない」「顔を出すのは恥ずかしい」という方もご安心ください。カメラOFFのまま、リラックスして参加・登壇していただけます！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3&gt;📺 視聴方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;知能情報コースの方&lt;/strong&gt;: Mattermostの &lt;code&gt;Off Topic&lt;/code&gt; チャンネルでYoutube Live URLを共有します。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;コース以外・一般の方&lt;/strong&gt;: connpassで「聞き専」枠に登録いただくか、当日&lt;a href="https://x.com/ki_mutaku" rel="nofollow" title="ki_mutaku"&gt;X&lt;/a&gt;に掲載されるリンクをご確認ください。&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;お昼ごはんを食べながら、ラジオ感覚での視聴も大歓迎です！&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;🎤 発表したい！という方へ&lt;/h3&gt;
+&lt;p&gt;発表希望者は、connpassページ上部のからエントリーをお願いします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;発表時間&lt;/strong&gt;: 1人5分（＋質疑応答3分 ＋ 入れ替え2分）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内容&lt;/strong&gt;: 公序良俗に反しない範囲ならば、技術ネタから趣味の話まで何でもOK！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;オンライン登壇&lt;/strong&gt;: Discordの画面共有を使用します。カメラはOFFのままで大丈夫です。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;飛び入り&lt;/strong&gt;: 当日、進行に余裕があれば受け付けます！運営者のDMまでタイトルを連絡してくださいね！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;⏰ スケジュール&lt;/h3&gt;
+&lt;p&gt;※内容や順番は当日変更になる可能性があります。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;順序&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;予定時刻&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;発表タイトル&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;--&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;13:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;1&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;13:10&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;（例）知能情報の歩き方&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;先輩A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;2&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;13:20&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;（例）最近ハマっていること&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;新入生B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;--&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;--&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3&gt;🔗 関連リンク・お問い合わせ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;過去の様子&lt;/strong&gt;: &lt;a href="https://scrapbox.io/ie-ryukyu/ieLT" rel="nofollow" title="ieLT"&gt;ieLT (Scrapbox)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不具合・質問&lt;/strong&gt;: Mattermost または 運営メールアドレスまでお気軽にどうぞ！   &lt;/li&gt;
+&lt;li&gt;問い合わせ:  &lt;ul&gt;
+&lt;li&gt;Mattermost: ctaku&lt;/li&gt;
+&lt;li&gt;Mail: e245745@ie.u-ryukyu.ac.jp&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/ki_mutaku" rel="nofollow" title="ki_mutaku"&gt;X&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;皆さんのご参加、お待ちしています！一緒に盛り上がりましょう！&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/393918/</guid><enclosure url="https://media.connpass.com/thumbs/14/7f/147faa35dd77f819fa83ec1f810e9b7e.png" length="0" type="image/png"/><pubDate>Mon, 25 May 2026 09:24:29 +0900</pubDate></item><item><title>tech美られでぃ #30 祝7周年</title><link>https://tech-chura-lady.connpass.com/event/387813/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: CODE BASE OKINAWA&lt;/li&gt;&lt;li&gt;🏢 住所: 〒901 - 2223 沖縄県宜野湾市大山7-10-14 プロト宜野湾沖縄本社第2ビル 2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tech_chura_lady&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;お祝いだ～～！！！！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎂 tech美られでぃ #30 祝7周年 🎂&lt;/h1&gt;
+&lt;p&gt;なんとなんと～、てくちゅら7周年です！&lt;br&gt;
+みんなでお祝いしましょ～🙌✨&lt;br&gt;
+はじめましての人も、お久しぶりの人も、いつも来てくださっている人も&lt;br&gt;
+いつも通りゆるく開催しているので、お気軽にご参加ください🌺  &lt;/p&gt;
+&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;LT内容はいつも通りなどなんでもOKです⭐&lt;br&gt;
+- 最近興味のある技術・愛用ツール（おすすめの技術書、記事、開発ツールなど）&lt;br&gt;
+- キャリアの支え・マインドセット（参考になった本、記事、大切にしている考え方など）&lt;br&gt;
+- おすすめライフハック・リフレッシュ法  &lt;/p&gt;
+&lt;p&gt;などなど&lt;br&gt;
+また今回は"周年祭"なので「 本コミュニティに参加してみて印象的だったこと、助けられたこと、面白かったこと」も大歓迎です🎂&lt;br&gt;
+みなさんのお話をぜひ聞かせてください😊  &lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;発表者(敬称省略)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;開場&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:00-16:05&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;挨拶&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オーガナイザー&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:05-16:15&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;「tech美られでぃ」について-本コミュニティの成り立ち-&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;オーガナイザー&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:15-16:25&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT1&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:25-16:35&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT2&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:35-16:45&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT3&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:45-16:55&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT4&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:55-17:05&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT5&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;17:05-18:20&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;交流会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:20-18:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;クロージング・完全撤収&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:30~&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;懇親会🍚&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;希望者&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※参加人数を見てタイムテーブルが変更になる場合があります。  ご了承ください。 &lt;/p&gt;
+&lt;h2&gt;参加料について&lt;/h2&gt;
+&lt;p&gt;7周年を皆さんとお祝いしたいため、甘いものや飲み物を用意する予定です。&lt;br&gt;
+すみませんが、ご協力よろしくお願いいたします🍀🙏  &lt;/p&gt;
+&lt;h2&gt;駐車場について&lt;/h2&gt;
+&lt;p&gt;建物正面より入って左側の専用駐車場をご利用ください。&lt;/p&gt;
+&lt;h2&gt;懇親会について&lt;/h2&gt;
+&lt;p&gt;しゃべり足りない！って人、参加をご希望の方は、以下のリンクからお申し込みください。&lt;br&gt;
+&lt;a href="https://connpass.com/event/395719/" rel="nofollow"&gt;懇親会 #30&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;懇親会はイベント終了後に希望者のみで実施予定です。&lt;br&gt;
+お店は当日決まる可能性もありますが、ぜひお気軽にご参加ください😊  &lt;/p&gt;
+&lt;h1&gt;tech美られでぃ とは？&lt;/h1&gt;
+&lt;p&gt;ITの分野で活躍している女性達のステップアップを応援し、仲間を見つける女性限定コミュニティです。&lt;br&gt;
+女性特有の悩み（キャリア・働き方・育児など）から技術的な話まで&lt;br&gt;
+幅広い話題を扱い、皆で共有し、相談することで女性のステップアップを目的としています。&lt;/p&gt;
+&lt;p&gt;以下のURLから過去のイベントログを見ることができます&lt;br&gt;
+&lt;a href="https://delicious-eustoma-e2f.notion.site/tech-6b64bbe2304d4fa79a090c3764dc495d" rel="nofollow"&gt;イベントログ&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;イベント対象者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IT業界で働いている女性の方&lt;/li&gt;
+&lt;li&gt;プログラミング初心者〜現役エンジニアまで&lt;/li&gt;
+&lt;li&gt;学生・社会人問わず、ITに興味がある女性の方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※男性の方は参加をご遠慮頂いておりますが、イベント情報をシェアしていただくことは大歓迎です！  &lt;/p&gt;
+&lt;h2&gt;もっとお話したい方へ&lt;/h2&gt;
+&lt;p&gt;slackというコミュニケーションツールを使って&lt;br&gt;
+他イベント情報の共有や参加者同士の交流に活用しています。&lt;/p&gt;
+&lt;p&gt;ご興味のある方はぜひご参加ください👇&lt;br&gt;
+&lt;a href="https://join.slack.com/t/okinawaitgirls/shared_invite/zt-348g2a0md-wfmAxwrlZD8vs100af56Lg" rel="nofollow"&gt;Slack紹介用リンク&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;p&gt;このイベントは&lt;span style="color: red;"&gt;女性限定&lt;/span&gt;です。&lt;br&gt;
+沖縄の女性ITコミュニティとして、女性が安心して参加できる場を目指し開催しています。&lt;br&gt;
+&lt;span style="color: red;"&gt;採用・就職の目的で開催していない&lt;/span&gt;ため参加者に対して採用活動はご遠慮くださいませ。 よろしくお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tech-chura-lady.connpass.com/event/387813/</guid><enclosure url="https://media.connpass.com/thumbs/d1/8c/d18ca334ba659e592284068f2cc97eb0.png" length="0" type="image/png"/><pubDate>Tue, 02 Jun 2026 21:25:01 +0900</pubDate></item><item><title>【off-line event】jinjer沖縄オフィス移転記念！CEOとCPOと語る夜 @宜野湾</title><link>https://jinjer.connpass.com/event/396145/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月26日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月26日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: jinjer沖縄オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒901-2227沖縄県宜野湾市宇地泊3丁目7-1 宜野湾ベイサイド情報センター1F Gwave Cafe&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #オフラインイベント&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～CEO・CPOと語る、AI時代のプロダクト開発とエンジニアリング～&lt;/p&gt;&lt;div&gt;&lt;h2&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;CEOとCPOと直接ざっくばらんに話せる機会って、なかなかないですよね。&lt;/p&gt;
+&lt;p&gt;今回は、jinjer株式会社が2026年5月に移転した「沖縄の新オフィス」のお披露目を兼ねて、
+代表取締役社長CEO・冨永 健とCPO・松山 雄一郎が直接みなさんとお話しする夜を企画しました。
+経営トップがリアルに場に立って、プロダクトのこと、組織のこと、開発文化のことを語り合う。そんなちょっと贅沢な時間です。&lt;/p&gt;
+&lt;p&gt;jinjerは今、「AI Company」として、人と組織の可能性を最大解放する未来へと歩みを進めています。
+プロダクト面では、独自の統合型人事データベースだから実現可能なAI機能「ジンジャー HR Signals」や定型業務の自動化や離職リスク検知などを担う「ジンジャー AIエージェント」などAI機能を積極的に追加しています。
+さらに、それらを生み出す開発組織も「AI駆動開発」へと完全にシフトしました。要件定義からテストまで全フェーズにAIを組み込み、エンジニアはAIと共に最適解を「決める」発明家として、圧倒的なスピードで新たな価値を創出しています。&lt;/p&gt;
+&lt;p&gt;ぶっちゃけ、jinjerってどんな会社なの？ティール型組織ってどういうこと？エンジニアやデザイナーはどんな環境で働いているの？……そんなリアルな疑問を、資料ではなく生の言葉でお伝えできればと思っています。&lt;/p&gt;
+&lt;p&gt;難しい話はそこそこに、宜野湾の夜風を感じながら、軽食とドリンク片手にワイワイ話せる時間にできればと思っています。もちろんjinjerの沖縄メンバーも参加します！
+仕事帰りにふらっと立ち寄るくらいの気持ちで、ぜひ遊びに来てください！途中参加も大歓迎です！
+二次会参加枠もご用意しておりますので、ぜひお待ちしております！&lt;/p&gt;
+&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;項目&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;日時&lt;/td&gt;
+&lt;td&gt;2026年6月26日（金）19:00〜21:00（18:30開場）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;場所&lt;/td&gt;
+&lt;td&gt;jinjer沖縄オフィス（〒901-2227 沖縄県宜野湾市宇地泊3丁目7-1 宜野湾ベイサイド情報センター1F Gwave Cafe）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;参加費&lt;/td&gt;
+&lt;td&gt;無料&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;主催&lt;/td&gt;
+&lt;td&gt;jinjer株式会社&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※オンライン配信はございません。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.gbic.jp/common/uploads/cafe-img01.webp" width="250"&gt;
+&lt;img src="https://www.gbic.jp/common/uploads/cafe-gallery04.webp" width="250"&gt;&lt;/p&gt;
+&lt;h2&gt;タイムスケジュール（予定）&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30&lt;/td&gt;
+&lt;td&gt;開場・受付&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;開会・新オフィス紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:15&lt;/td&gt;
+&lt;td&gt;(仮)jinjer開発組織・プロダクト紹介（CEO・CPOによるトーク）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:45&lt;/td&gt;
+&lt;td&gt;(仮)沖縄拠点エンジニアによるLT&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:00&lt;/td&gt;
+&lt;td&gt;懇親会（軽食・ドリンクあり　※アルコールあり/ソフトドリンクあり※）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:45&lt;/td&gt;
+&lt;td&gt;クロージング・片付け&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;終了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;お仕事帰りにお気軽にお立ち寄りください！途中参加も大歓迎です！&lt;/p&gt;
+&lt;h2&gt;クラウド型人事労務システム「ジンジャー」について&lt;/h2&gt;
+&lt;p&gt;jinjerが開発・提供している&lt;strong&gt;クラウド型人事労務システム「ジンジャー」&lt;/strong&gt;は、人事・労務に関わるあらゆる業務をひとつのプラットフォームで完結できる統合型の人事システムです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人事労務管理&lt;/li&gt;
+&lt;li&gt;勤怠管理&lt;/li&gt;
+&lt;li&gt;給与計算&lt;/li&gt;
+&lt;li&gt;人事評価&lt;/li&gt;
+&lt;li&gt;サーベイ（従業員アンケート）&lt;/li&gt;
+&lt;li&gt;データ分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;人事データをシームレスにつなぐことで、企業の「人事DX」を推進。現在は&lt;strong&gt;「人事データ×AI」&lt;/strong&gt;の領域にも力を入れており、プロダクトの進化をさらに加速させています。&lt;/p&gt;
+&lt;p&gt;詳しくはサービスサイトをご覧ください：&lt;a href="https://hcm-jinjer.com/" rel="nofollow"&gt;https://hcm-jinjer.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;jinjer株式会社&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コーポレートサイト：&lt;a href="https://jinjer.co.jp/" rel="nofollow"&gt;https://jinjer.co.jp/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Philosophy：「世界で最もお客様を大切にする」&lt;/li&gt;
+&lt;li&gt;Mission：「人事の「これからの当たり前」をつくり、お客様とともに進化する」&lt;/li&gt;
+&lt;li&gt;開発カルチャー：ティール型組織で、メンバーが自律的に動く文化を大切にしています&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;エンジニア・デザイナー・PMがプロダクトに真剣に向き合いながら、のびのびと働ける環境を目指しています。。&lt;/p&gt;
+&lt;h2&gt;登壇者紹介&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://jinjer.co.jp/wp/wp-content/uploads/2025/04/IMG_1931_RE_Ken-san.jpg" width="250"&gt;&lt;/p&gt;
+&lt;h3&gt;冨永 健｜代表取締役社長 CEO&lt;/h3&gt;
+&lt;p&gt;1998年、シスコシステムズ合同会社に入社し、大手企業向け営業と組織マネジメントを担う。&lt;/p&gt;
+&lt;p&gt;2013年、アマゾンウェブサービス株式会社にて大手企業のクラウドマイグレーションを推進。&lt;/p&gt;
+&lt;p&gt;2017年、デル・テクノロジーズ株式会社 Virtustream事業本部長として日本市場での事業立ち上げをリード。&lt;/p&gt;
+&lt;p&gt;2021年、株式会社Zendesk社長に就任し、日本市場全体のビジネス統括を担う。&lt;/p&gt;
+&lt;p&gt;2025年5月、jinjer株式会社の代表取締役社長CEOに就任。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src="https://jinjer.co.jp/wp/wp-content/uploads/2026/03/Mastuyama-san.png" width="250"&gt;&lt;/p&gt;
+&lt;h3&gt;松山 雄一郎｜CPO（最高製品責任者）&lt;/h3&gt;
+&lt;p&gt;2002年、伊藤忠テクノサイエンス株式会社（現 伊藤忠テクノソリューションズ）に入社。
+システムエンジニアとしてインターネットインフラ導入・ID管理基盤構築に従事し、プロダクト視点での事業づくりを経験。&lt;/p&gt;
+&lt;p&gt;その後、AWSジャパンにてエンタープライズ領域の事業開発・組織づくりを担い、
+パイオニア モビリティサービスカンパニーにてCOOとして事業変革をリード。&lt;/p&gt;
+&lt;p&gt;2026年4月、jinjer株式会社にCPOとして参画。プロダクト戦略および「人事データ×AI」によるプロダクトの成長と価値創出を統括。&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ！&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;エンジニアの方（バックエンド・フロントエンド・インフラ・モバイルなど、分野は問いません）&lt;/li&gt;
+&lt;li&gt;UI/UXデザイナー・プロダクトデザイナーの方&lt;/li&gt;
+&lt;li&gt;プロダクトマネージャー（PM）の方&lt;/li&gt;
+&lt;li&gt;プロダクト開発に携わっている方、興味がある方&lt;/li&gt;
+&lt;li&gt;jinjerのサービスや開発組織に興味がある方&lt;/li&gt;
+&lt;li&gt;ティール型組織・自律的な働き方に関心がある方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;会場の定員がございますので、お席が埋まり次第、受付を締め切る場合があります。参加を予定されている方はお早めにお申し込みください。&lt;/li&gt;
+&lt;li&gt;当日のコンテンツ・タイムスケジュールは変更となる見込みがあります。あらかじめご了承ください。&lt;/li&gt;
+&lt;li&gt;途中参加・途中退席はもちろん大歓迎です！&lt;/li&gt;
+&lt;li&gt;イベントの様子を撮影・SNS投稿する可能性があります。写り込みが気になる方はスタッフまでお知らせください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jinjer.connpass.com/event/396145/</guid><enclosure url="https://media.connpass.com/thumbs/ac/34/ac340f2748869f31be5c6d92cb1b65e6.png" length="0" type="image/png"/><pubDate>Thu, 04 Jun 2026 13:27:44 +0900</pubDate></item><item><title>Shima Tech Hub #19</title><link>https://shima-tech-hub.connpass.com/event/391761/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月26日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月26日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社シーエー・アドバンス（4F_リラクゼーションルーム）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒900-0006 沖縄県那覇市おもろまち1−1−12　那覇新都心センタービル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #しまてく&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Shima Tech Hub とは&lt;/h1&gt;
+&lt;p&gt;沖縄県内でエンジニアの価値をもっと見出して、県外に負けないエンジニアの強いつながりを作りたい！という思いで発足した 「Shima Tech Hub」（＃しまてく） 沖縄在住のエンジニアの満足度を底上げしたい！そして、多くのエンジニア同士交流の場が生まれ、沖縄のエンジニア界隈を盛り上げたい！という想いを持ったメンバーが集まっています。&lt;/p&gt;
+&lt;p&gt;今回は、那覇市にある（株）シーエー・アドバンスにて開催いたします！&lt;/p&gt;
+&lt;h1&gt;「Shima Tech Hub#19」のテーマは現在 検討中です！&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;※飛び込みLTも大歓迎です！ ※持ち時間は5分でお願いします！！&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;参加対象者&lt;/h1&gt;
+&lt;p&gt;どなたでも大丈夫です！みんなでワイワイしましょう！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ITテクノロジ・エンジニアに興味ある方&lt;/li&gt;
+&lt;li&gt;交流を増やしたい方&lt;/li&gt;
+&lt;li&gt;色々な会社のことを知りたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;無料です&lt;/li&gt;
+&lt;li&gt;懇親会に関しては、各自割り勘となります&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;min&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;セッション&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;スピーカー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:00-19:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;受付・入場&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:30-19:35&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;5&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;オープニング&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:35-19:50&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;アールスリー 西島&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;19:50-20:05&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;シーエー・アドバンス --&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:05-20:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;CBcloud --&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:20-20:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;休憩&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:30-20:45&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;LT飛び込み枠（1人5分×3人）&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;20:45-21:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;クロージング&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;21:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;終了 解散！希望者で懇親会へ🍺&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;登壇者紹介&lt;/h1&gt;
+&lt;h2&gt;** TBD **&lt;br&gt;  （アールスリーインスティテュート 西島）&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://assets.r3it.com/profile/shima-tech-hub/r3_nishijima_profileicon.png" width="500"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;沖縄の自宅からリモートワークで大阪の会社で働く根っからのクラウド・コミュニティ大好き人間。オープンソースとクラフトビールをこよなく愛する。琉球ゴールデンキングス ブースター初心者。ハッカーズチャンプルー・JAWS-UG沖縄の中の人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;br&gt;（株式会社シーエー・アドバンス ---）&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;hr&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt;TBD &lt;/strong&gt;&lt;br&gt;（CBcloud株式会社 ---）&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;hr&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;駐車場について&lt;/h1&gt;
+&lt;p&gt;近くのコインパーキングの利用をお願いいたします。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://times-info.net/P47-okinawa/C201/park-detail-BUK0027975/" rel="nofollow"&gt;https://times-info.net/P47-okinawa/C201/park-detail-BUK0027975/&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;会場について&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;新都心センタービルのエレベーターで4階へお進みください&lt;/li&gt;
+&lt;li&gt;イベント関係者が4階入口付近でご案内いたします&lt;/li&gt;
+&lt;li&gt;開始時間を過ぎて参加される方は、入口付近に掲示された電話番号にお電話いただければ、スタッフがお迎えに上がります&lt;/li&gt;
+&lt;li&gt;20時を過ぎると正面玄関が閉まるため、裏の通用口からエレベーターホールに向かい、4階へお越しください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;主催について&lt;/h1&gt;
+&lt;p&gt;以下の各社（五十音順）の共催です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.r3it.com/" rel="nofollow"&gt;アールスリーインスティテュート&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ca-adv.co.jp/" rel="nofollow"&gt;株式会社シーエー・アドバンス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cb-cloud.com/" rel="nofollow"&gt;CBcloud株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;次回開催予定&lt;/h1&gt;
+&lt;p&gt;次回は7月後半を予定しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shima-tech-hub.connpass.com/event/391761/</guid><enclosure url="https://media.connpass.com/thumbs/60/8c/608c69b7d8261001abd79ebb68b9ca4d.png" length="0" type="image/png"/><pubDate>Wed, 13 May 2026 11:42:12 +0900</pubDate></item><item><title>懇親会 - アクセシビリティカンファレンス沖縄 Pre Meetup</title><link>https://connpass.com/event/394780/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 20:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 東洋飯店 那覇店&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市銘苅２丁目１１−２４&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;懇親会 - アクセシビリティカンファレンス沖縄 Pre Meetup&lt;/h1&gt;
+&lt;p&gt;「&lt;a href="https://connpass.com/event/393173/" rel="nofollow"&gt;アクセシビリティカンファレンス沖縄 Pre Meetup&lt;/a&gt;」の終了後、参加者の皆様で親睦を深めるための懇親会を開催いたします！
+登壇者の方々や、参加者のみなさま同士でぜひ活発に交流しましょう。&lt;br&gt;
+※こちらはアクセシビリティカンファレンス沖縄 Pre Meetup 懇親会のページです。本編は以下のリンクよりお申し込みください。&lt;br&gt;
+&lt;a href="https://connpass.com/event/393173/" rel="nofollow"&gt;アクセシビリティカンファレンス沖縄 Pre Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;項目&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;2026/06/27(土) 20:00 〜 22:00&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;東洋飯店 那覇店&lt;/strong&gt;（トウヨウハンテン）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;3,000円&lt;/strong&gt;（当日会場払い）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;定員&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;35名&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;申込み締切&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2026/06/25(木)&lt;/strong&gt;
+※お店への予約の都合上、イベント前々日で締め切らせていただきます。お早めのお申し込みをお願いいたします。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;会場情報&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.toyohanten-okinawa.com/pages/44/" rel="nofollow"&gt;東洋飯店 那覇店&lt;/a&gt;&lt;/strong&gt;
+* &lt;strong&gt;アクセシビリティ：&lt;/strong&gt; バリアフリー対応店です。車椅子をご利用の方も安心してご参加いただけます。
+* &lt;strong&gt;駐車場：&lt;/strong&gt; 80台完備しております。&lt;/p&gt;
+&lt;h2&gt;メッセージ&lt;/h2&gt;
+&lt;p&gt;登壇者やご参加いただいたみなさま同士での活発な交流の場になれば良いと考えております。
+アットホームな雰囲気で、本編の感想などを語り合いましょう！
+皆様のご参加を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/394780/</guid><enclosure url="https://media.connpass.com/thumbs/1e/c1/1ec14005008ec1d9e8d9911efced8fd4.png" length="0" type="image/png"/><pubDate>Mon, 01 Jun 2026 11:09:13 +0900</pubDate></item><item><title>JAWS-UG 沖縄 AWS BuilderCards 体験会</title><link>https://jawsug-okinawa.connpass.com/event/395620/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館 4 階ビジネスルーム&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1-20-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugokinawa&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS のサービスやアーキテクチャを楽しみながら学べます！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AWS BuilderCards とは&lt;/h2&gt;
+&lt;p&gt;AWS BuilderCards は、Amazon Web Services が提供するクラウドサービスや、サービスを組み合わせたアーキテクチャを学べるカードゲームです。&lt;/p&gt;
+&lt;p&gt;サービスを組み合わせてアーキテクチャを構成する思想は、ビルディングブロックと呼ばれます。AWS BuilderCards を通じて AWS が提供している数多くのサービスを組み合わせて「可用性が高く」、「柔軟性があり」、「拡張性のある」、「セキュリティが適用された」システムを作り上げる Well-Architected なアーキテクチャを学ぶことができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AWS BuilderCards は運営側で用意します。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;事前準備&lt;/h2&gt;
+&lt;p&gt;PCなどは必要ありません。&lt;/p&gt;
+&lt;p&gt;あらかじめ&lt;a href="https://aws.amazon.com/jp/builders-flash/202509/builder-cards-2nd-edition/" rel="nofollow"&gt;こちらのページ&lt;/a&gt;を確認されるとより楽しめると思います！&lt;/p&gt;
+&lt;p&gt;※5/31 リンク先を差し替えました&lt;/p&gt;
+&lt;h2&gt;開催場所&lt;/h2&gt;
+&lt;p&gt;沖縄県立図書館 4 階ビジネスルーム&lt;/p&gt;
+&lt;h2&gt;駐車場について&lt;/h2&gt;
+&lt;p&gt;「カフーナ旭橋Aパーキング」（有料）の約270台分が利用可能です。
+詳しくは&lt;a href="https://www.library.pref.okinawa.jp/guide/cat10/index.html" rel="nofollow"&gt;公式サイト&lt;/a&gt;を確認してください。&lt;/p&gt;
+&lt;h2&gt;注意事項など&lt;/h2&gt;
+&lt;p&gt;リクルーティング、勧誘、採用活動、人の話を聞かないなど、目的に沿わない行為につきまして、主催者が相応しくないと判断した場合は退出頂き、初心者支部を含む他の JAWS-UG の勉強会やイベントへのご参加を禁止する場合があります。参加者全員が気持ちよく過ごすことが出来るよう、ご協力をお願い致します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-okinawa.connpass.com/event/395620/</guid><enclosure url="https://media.connpass.com/thumbs/42/8c/428c2311b18ab52faabb28173bddff60.png" length="0" type="image/png"/><pubDate>Sun, 31 May 2026 10:19:20 +0900</pubDate></item><item><title>CoderDojo Onna@OIST (Conference Center)</title><link>https://coderdojo-nago.connpass.com/event/390932/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月26日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月26日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１&lt;/li&gt;&lt;li&gt;🏢 住所: 恩納村字谷茶1919-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hands-on Programming Session&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Target&lt;/h1&gt;
+&lt;p&gt;7 to 17 years old&lt;/p&gt;
+&lt;p&gt;It is a place for self-study and learning together to create and express themselves through technology.&lt;/p&gt;
+&lt;p&gt;Elementary school participants must be accompanied by a parent or guardian.&lt;/p&gt;
+&lt;p&gt;Parents and guardians attending the event and those who register for the event are requested to read the description of this event.&lt;/p&gt;
+&lt;h1&gt;Self-organized sessions&lt;/h1&gt;
+&lt;p&gt;We are looking for self-organized sessions.&lt;/p&gt;
+&lt;p&gt;If you have something you would like to present, please let us know the content and required time.&lt;/p&gt;
+&lt;p&gt;The presentation language may be Japanese, English, or both.&lt;/p&gt;
+&lt;h1&gt;What you can do, for example&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Create stories, games, and animations to share with everyone around the world.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;a Scratch studio&lt;/a&gt; for adding projects from everyone participating in CoderDojo Nago. If you would like to add your work, please let us know in the comments, and we will invite you as a curator.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3 is a modified version of Scratch that allows you to use self-made extensions. There are various extensions that can be used, such as voice recognition (Speech to Scratch), pose recognition (Pose Net to Scratch), machine learning that can learn images and sounds (ML to Scratch), and ChatGPT (Chat GPT to Scratch). there is.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;Kids code recipe&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kids Code Recipe is a programming recipe site that introduces how to create games and animations using various programming materials for children and beginners.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A mysterious robot toy that leads children to various creative endeavors.&lt;/p&gt;
+&lt;p&gt;There is also an app &lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt; that allows even elementary school students to easily create robot games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Challenge yourself with a one-hour tutorial for all ages in over 45 languages. millions of students and teachers in over 180 countries have started their Hour of Code.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;HackforPlay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay is a web service that lets you learn programming while creating games. You can read and write JavaScript code to realize your own ideas in games or create your own original games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The micro:bit has many input and output features such as LED display, buttons, and sensors, allowing you to interact with yourself and your surroundings through programming.&lt;/p&gt;
+&lt;p&gt;In CoderDojo Nago, in addition to the micro:bit itself, there are modules to expand its functionality such as the micro:bit Workshop Module and REKA:BIT.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It is an open source integrated software for 3DCG and 2D animation production.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tinkercad is a free web app for 3D design, electronics, and coding.&lt;/p&gt;
+&lt;p&gt;At CoderDojo Nago, you can convert 3D designs created in Tinkercad into sliced data using FlashPrint 5, and then print them using the Adventurer3 Lite 3D printer.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Get a taste of programming with Progate's free, illustration-driven slides.&lt;/p&gt;
+&lt;p&gt;Please register as a free Progate member in advance to participate.&lt;/p&gt;
+&lt;p&gt;Children who have completed the lessons of the free plan and wish to continue learning can also receive a free corporate plan through "Progate, a programming learning service, in partnership with CoderDojo Japan".&lt;/p&gt;
+&lt;h1&gt;How to apply (connpass)&lt;/h1&gt;
+&lt;p&gt;If you are applying for more than one person, please apply for separate accounts.&lt;/p&gt;
+&lt;p&gt;One account can be set up for each e-mail address on connpass.&lt;/p&gt;
+&lt;h1&gt;Participation Fee&lt;/h1&gt;
+&lt;p&gt;Free of charge&lt;/p&gt;
+&lt;h1&gt;Donations to CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;CoderDojo Nago is supported by your donations.&lt;/p&gt;
+&lt;p&gt;We need your support to continue our activities.&lt;/p&gt;
+&lt;p&gt;In order to continue our activities, CoerDojo Nago accepts donations.&lt;/p&gt;
+&lt;h1&gt;About video/photography&lt;/h1&gt;
+&lt;p&gt;When taking videos or photos, please be careful not to include participants other than your child in the photo.&lt;/p&gt;
+&lt;h1&gt;Publicity&lt;/h1&gt;
+&lt;p&gt;We may post photos and videos of our events on the CoderDojo Nago website, SNS, YouTube, and other media.&lt;/p&gt;
+&lt;p&gt;Please be aware of this when participating in the event.&lt;/p&gt;
+&lt;h1&gt;Please help us prevent the spread of the new coronavirus!&lt;/h1&gt;
+&lt;p&gt;Even after vaccination, please continue to "wear a mask," "wash your hands," and "avoid the 3 densities (close, dense, and enclosed).&lt;/p&gt;
+&lt;h1&gt;Inquiries&lt;/h1&gt;
+&lt;p&gt;Please contact us through the &lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;inquiry form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Inquiries to the venue will not be handled.&lt;/p&gt;
+&lt;h1&gt;Volunteer Participation&lt;/h1&gt;
+&lt;p&gt;We are looking for volunteers to participate.&lt;/p&gt;
+&lt;p&gt;Technical skills are not required. Would you like to be present as children inspire ideas and demonstrate their creativity?&lt;/p&gt;
+&lt;h1&gt;Hosted by CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo Nago&lt;/a&gt;  is a non-profit programming club established to spread the principles of CoderDojo and support the community in the northern region of Okinawa Prefecture.&lt;/p&gt;
+&lt;p&gt;CoderDojo Nago adheres to the following principles outlined in the CoderDojo Charter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We commit to inspiring and supporting young people to learn how to create technology
+&lt;/li&gt;&lt;li&gt;We commit to the highest possible standards of child protection in our jurisdiction
+&lt;/li&gt;&lt;li&gt;We commit to not charging children attending nor their parents
+&lt;/li&gt;&lt;li&gt;We commit to encourage parent participation within our Dojo
+&lt;/li&gt;&lt;li&gt;We commit to sharing our knowledge for free (libre and open)
+&lt;/li&gt;&lt;li&gt;We commit to share our knowledge within our Dojo and to other Dojos
+&lt;/li&gt;&lt;li&gt;We commit to take care and uphold the good name of the global CoderDojo community
+&lt;/li&gt;&lt;li&gt;We commit to encouraging collaboration, peer to peer mentoring and project work between the attendees
+&lt;/li&gt;&lt;li&gt;We commit to welcoming volunteers and children regardless of gender, race, sexual orientation, creed, religion or ability.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;Cooperation&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;Okinawa Institute of Science and Technology Graduate University (OIST)&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;対象&lt;/h1&gt;
+&lt;p&gt;7歳から17歳まで&lt;/p&gt;
+&lt;p&gt;テクノロジーで作ったり、表現するため、自学自習をしたり、学び合う場です。&lt;/p&gt;
+&lt;p&gt;小学生の参加者は保護者の同伴が必要です。&lt;/p&gt;
+&lt;p&gt;イベントに参加する保護者の方及び申し込みをする方は本イベントの説明をご確認ください。&lt;/p&gt;
+&lt;h1&gt;セルフオーガナイズドセッション&lt;/h1&gt;
+&lt;p&gt;セルフオーガナイズドセッションを募集しています。&lt;/p&gt;
+&lt;p&gt;発表をしたいことがありましたら、内容や必要な時間などお知らせください。&lt;/p&gt;
+&lt;p&gt;発表する際の言語は、日本語、英語、または両方でもOKです。&lt;/p&gt;
+&lt;h1&gt;新規ボランティアの受け入れについて&lt;/h1&gt;
+&lt;p&gt;ボランティアの参加を募集しています。技術スキルは必須ではありません。子どもたちがアイデアをひらめかせたり、創造性を発揮する場に立ち会いませんか？&lt;/p&gt;
+&lt;p&gt;ボランティアで参加される方は事前に&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/3" rel="nofollow"&gt;行動規範&lt;/a&gt;を必ずご確認ください。&lt;/p&gt;
+&lt;p&gt;初めてボランティアに申し込まれた際は、イベント参加前にGoogle Meetで面接を行います。&lt;/p&gt;
+&lt;h1&gt;できること、例えば・・・&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;物語や、ゲーム、アニメーションを作ろう世界中のみんなと共有しよう。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;Scratchスタジオ&lt;/a&gt;もあります。CoderDojo名護に参加するみなさんのプロジェクトを追加するスタジオです。作品を追加したい場合は、キュレーターに招待しますのでコメントでお知らせください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3(ストレッチスリー)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3は自作の拡張機能を使えるように改造したScratchです。音声認識、ポーズの認識、画像や音声を学習させることができる機械学習、ChatGPTなどが使えるいろいろな拡張機能があります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;キッズコードレシピ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;キッズコードレシピは色々なプログラミング教材を使ったゲームやアニメーションなどのつくり方を子ども・初心者向けに紹介しているプログラミングのレシピサイトです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;子どもたちを様々な創意工夫へと導く不思議なロボットトイです。&lt;/p&gt;
+&lt;p&gt;小学生からでもカンタンにロボットゲームが作れるアプリ&lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt;もあります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;45ヶ国語以上の全世代を対象とした1時間のチュートリアルに挑戦してみて下さい。180以上の国で数百万人の生徒と先生がHour of Codeを始めています。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;ハックフォープレイ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay はゲームを作りながらプログラミングが学べる Web サービスで、 JavaScript で書かれたコードの読み書きを行って、自ら考えたアイデアをゲーム上で実現したり、オリジナルのゲームを作ることができます。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;LEDディスプレイやセンサーなど多くの入出力機能を持ち、プログラムで操作できます。&lt;/p&gt;
+&lt;p&gt;遊び方はいろいろです。&lt;a href="https://note.com/coderdojonago/n/nc2cd835f3235" rel="nofollow"&gt;「ラジコンカー」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/n2c9f6acf9c77" rel="nofollow"&gt;「ろくろアート」や「ターンテーブル」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/nac9f73e5d824" rel="nofollow"&gt;「micro:bit、micro:bit用ワークショップモジュール、 GeekServo、Legoを使って遊ぶ」&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;オープンソースの統合型3DCG製作、2Dアニメーション製作のソフトウェアです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;3Dデザイン、電子工作、コーディングのための無料Webアプリです。&lt;/p&gt;
+&lt;p&gt;3Dプリンターで印刷する方法は&lt;a href="https://note.com/coderdojonago/n/n87d0f67ee3f5" rel="nofollow"&gt;3Dプリントのあんちょこ&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;イラスト中心のスライドで学ぶことができるProgateの無料プランでプログラミングに触れてみよう。&lt;/p&gt;
+&lt;p&gt;無料プランのレッスンを終え、引き続き学びたい子どもたちには&lt;a href="https://prog-8.com/about/news/71" rel="nofollow"&gt;「プログラミング学習のProgate、CoderDojo Japanと提携」&lt;/a&gt;により法人プランの無料提供を受けることもできます。&lt;/p&gt;
+&lt;h1&gt;申込方法（connpass）について&lt;/h1&gt;
+&lt;p&gt;複数名、申し込む場合は、アカウントを分けて申し込み下さい。&lt;/p&gt;
+&lt;p&gt;connpassは１メールアドレスにつき１アカウント設定できます。&lt;/p&gt;
+&lt;p&gt;メールアドレスをお持ちでない場合は&lt;a href="https://gmail.com/" rel="nofollow"&gt;Gmai&lt;/a&gt;lなどで作成ください。&lt;/p&gt;
+&lt;p&gt;connpassの機能については&lt;a href="http://help.connpass.com/participants/event-join" rel="nofollow"&gt;connpass ご利用ガイド&lt;/a&gt;をご確認ください。&lt;/p&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h1&gt;ご寄附によるご支援のお願い&lt;/h1&gt;
+&lt;p&gt;CoderDojo名護はみなさまのご支援により運営されています。&lt;/p&gt;
+&lt;p&gt;継続して活動を続けるため、CoerDojo名護は寄付を受け付けています。&lt;/p&gt;
+&lt;h1&gt;ビデオ・写真撮影について&lt;/h1&gt;
+&lt;p&gt;ビデオ・写真撮影をされる場合は、ご自身のお子様以外の参加者が写り込まないよう配慮をお願いします。&lt;/p&gt;
+&lt;h1&gt;広報について&lt;/h1&gt;
+&lt;p&gt;イベントの様子などを&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護のウェブサイト&lt;/a&gt;、SNS、YouTubeなどに掲載することがあります。&lt;/p&gt;
+&lt;p&gt;参加する際はご了承ください。&lt;/p&gt;
+&lt;h1&gt;お問い合わせについて&lt;/h1&gt;
+&lt;p&gt;「&lt;a href="./inquiry/" rel="nofollow"&gt;イベントへのお問い合わせ&lt;/a&gt;」または&lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;問い合わせフォーム&lt;/a&gt;からお願いします。&lt;/p&gt;
+&lt;p&gt;会場へ問い合わせをしても対応致しかねます。&lt;/p&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、沖縄県北部地域でCoderDojo の理念を広め、コミュニティをサポートするために設立された非営利のプログラミングクラブです。&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、以下にある&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo憲章&lt;/a&gt;の理念を保持します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;若者が技術を作り上げていくための支援を行い、ひらめきを与えることに尽力します
+&lt;/li&gt;&lt;li&gt;できうる範囲で、高い水準の児童保護を優先します
+&lt;/li&gt;&lt;li&gt;道場に参加する子ども達や、その保護者から料金を徴収しません
+&lt;/li&gt;&lt;li&gt;保護者が道場に参加することを推奨します
+&lt;/li&gt;&lt;li&gt;持っている知識を自由かつオープンに共有します
+&lt;/li&gt;&lt;li&gt;自分たちの道場内だけでなく、他の道場とも知識を共有します
+&lt;/li&gt;&lt;li&gt;CoderDojo コミュニティの国際的なブランドを維持し、大切にします
+&lt;/li&gt;&lt;li&gt;参加者間の協力を促進し、同世代間のメンタリングや参加者同士のプロジェクトを推奨します
+&lt;/li&gt;&lt;li&gt;性別、人種、性的指向、信念、宗教、能力 (障がい等) に関係なく、ボランティアや子ども達を歓迎します
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;協力&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;学校法人沖縄科学技術大学院大学学園&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nago.connpass.com/event/390932/</guid><enclosure url="https://media.connpass.com/thumbs/82/be/82bef8b21d425d7c1e29592dce8e2be0.png" length="0" type="image/png"/><pubDate>Tue, 14 Apr 2026 07:47:27 +0900</pubDate></item><item><title>第8回マイクラカップに参加しよう！「Road To マイクラカップ」参加者募集</title><link>https://minecraft098.connpass.com/event/396274/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月28日(火) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月28日(火) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;2026年の夏を迎えるにあたり、沖縄マイクラ部プログラミングスクール「クロスウェーブ」から、子どもたちの未来に関わる重要なお知らせがあります。全国大会出場を目指す全4回の特別ワークショップ「Road to マイクラカップ」の参加メンバーを、私は宜野湾の教室で募集します。&lt;/p&gt;
+&lt;p&gt;私は、三十年ほど官公庁や自治体のWeb・システムを現場で担当してきた現役のエンジニアです。マイクラ 沖縄 プログラミング教室 として、ゲームの好きを、一生ものの実力へつなげる夏です。&lt;/p&gt;
+&lt;p&gt;私たちの教室は、第6回・第7回マイクラカップに沖縄代表として連続出場し、第7回では全国大会でTBS賞を受賞したチームを指導してきました。だからこそ私は、全国大会で求められるのは、建築の華やかさだけではないと知っています。何を課題と捉えたか、なぜその解決策を選んだか、チームでどう作り上げたか——この説明力こそが、Road to マイクラカップで鍛える中心です。&lt;/p&gt;
+&lt;p&gt;この夏、宜野湾で始まる挑戦の舞台
+Road to マイクラカップは、小学生から高校生までを対象に、教育版マインクラフト（MakeCode連携の教育向けマインクラフト）でチーム作品を作り、マイクラカップ全国大会出場を目指すワークショップです。沖縄県宜野湾市内にお住まいのお子さんが対象です。詳しいコース背景は MakeCodeコース詳細 もご覧ください。&lt;/p&gt;
+&lt;p&gt;単なるゲーム大会ではない、将来に残る参加メリット
+楽しさの先に、子どもの生涯の財産になる価値があります。私は、保護者の方に次の四点を、いつも現場の言葉でお伝えしています。&lt;/p&gt;
+&lt;p&gt;夏休みの自由研究として、説得力のある成果物にまとめやすい
+制作の過程、工夫、完成作品を記録できるため、学校提出にもつなげやすいです。完成画像だけでなく、「なぜこの設計にしたか」を言語化できることが、自由研究の説得力を上げます。&lt;/p&gt;
+&lt;p&gt;受験時に、探究活動の実績として説明しやすい
+総合型選抜や学校推薦型選抜などで、チーム制作の経験として語れる可能性があります。合格を保証するものではありません。ただ、説明可能な過程が残ると、志望理由書や面接の材料になります。&lt;/p&gt;
+&lt;p&gt;論理的思考力と情報設計が、自然に身につく
+何を作るか、誰にどう伝えるか、役割をどう分けるか——プログラミングスクール 沖縄 でも最重要視される力が、作品づくりを通じて鍛えられます。&lt;/p&gt;
+&lt;p&gt;デジタルポートフォリオの強固な土台になる
+担当パート、改善の歴史、チーム内の役割を残すことで、本人が成長を説明できるポートフォリオになります。将来、特色選抜や総合型選抜の説明材料として、作品と過程の両方を示せる状態を目指します。&lt;/p&gt;
+&lt;p&gt;私は、上手な作品を作る子より、なぜその設計にしたかを自分の言葉で説明できる子を目指してほしいと考えています。派手さより、向き合い方。ここが、十年後も効いてくる差になります。&lt;/p&gt;
+&lt;p&gt;建築の美しさだけを競わない、実社会のプロジェクトを模したカリキュラム
+Road to マイクラカップが提供するのは、ブロックの組み立て作業だけではありません。テーマの読み解き、地域の課題調査、チーム内の役割分担、仮説検証のワールド構築、発表と改善のループ——私がプロジェクトマネージャーとして三十年、自治体案件の現場で回してきたプロセスと、構造は同じです。&lt;/p&gt;
+&lt;p&gt;調べる、比べる、設計する、作る、伝える。この循環が、子どもたちの中で静かに回り始める瞬間があります。話し合いで意見がぶつかったときに根拠を添えて調整する姿。締切前に「今日やること」を自分で整理する姿。論理的思考力は、テスト問題だけの話ではありません。編集台でも、ワールド制作でも、同じ筋道で育ちます。&lt;/p&gt;
+&lt;p&gt;初回は、いきなり建築の上手さを競いません。テーマ理解とチーム対話から入ります。2回目以降で企画と制作を進め、最終回では全国大会を見据えた提出形式を意識しながら、作品と説明資料の仕上げに入ります。各回の終わりに、次回までの改善点を一人ずつ言語化し、制作記録に残します。この記録がある子ほど、次の挑戦での伸び方が違います。私は、完成作品そのもの以上に、記録が残っているかを現場で見ています。&lt;/p&gt;
+&lt;p&gt;開催概要と夏のスケジュール
+イベント名
+Road to マイクラカップ&lt;/p&gt;
+&lt;p&gt;対象
+沖縄県宜野湾市内の小学生から高校生まで
+小学生は保護者同伴が必須
+全4回に参加し、マイクラカップ参加を希望する方&lt;/p&gt;
+&lt;p&gt;会場
+クロスウェーブ
+沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F&lt;/p&gt;
+&lt;p&gt;定員
+先着20名&lt;/p&gt;
+&lt;p&gt;参加費
+全4回 2,000円
+教育版マインクラフトライセンス費用は別途必要です&lt;/p&gt;
+&lt;p&gt;持ち物
+ノートPC&lt;/p&gt;
+&lt;p&gt;日程
+いずれも14:30〜16:30&lt;/p&gt;
+&lt;p&gt;2026年7月28日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月4日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月11日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月18日（火）&lt;/p&gt;
+&lt;p&gt;申込締切は2026年7月20日（月）です。
+全日程への連続参加が原則です。チームで制作を進める設計のため、子どもたちの本気を守る条件として、私はここをはっきりお伝えしています。&lt;/p&gt;
+&lt;p&gt;「全4回、日程的に厳しいかもしれない」と相談されることもあります。私は、途中参加が増えるほどチームの学びが浅くなる経験を、現場で何度も見てきました。だからこそ、最初から全日程参加を前提にした募集にしています。ご家庭の予定と照らし合わせたうえで、無理のない判断をしていただければと思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/396274/</guid><enclosure url="https://media.connpass.com/thumbs/73/42/73429273d609322af5c9b210dad2691f.png" length="0" type="image/png"/><pubDate>Thu, 04 Jun 2026 21:03:15 +0900</pubDate></item><item><title>第8回マイクラカップに参加しよう！「Road To マイクラカップ」参加者募集</title><link>https://minecraft098.connpass.com/event/396321/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月4日(火) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月4日(火) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;2026年の夏を迎えるにあたり、沖縄マイクラ部プログラミングスクール「クロスウェーブ」から、子どもたちの未来に関わる重要なお知らせがあります。全国大会出場を目指す全4回の特別ワークショップ「Road to マイクラカップ」の参加メンバーを、私は宜野湾の教室で募集します。&lt;/p&gt;
+&lt;p&gt;私は、三十年ほど官公庁や自治体のWeb・システムを現場で担当してきた現役のエンジニアです。マイクラ 沖縄 プログラミング教室 として、ゲームの好きを、一生ものの実力へつなげる夏です。&lt;/p&gt;
+&lt;p&gt;私たちの教室は、第6回・第7回マイクラカップに沖縄代表として連続出場し、第7回では全国大会でTBS賞を受賞したチームを指導してきました。だからこそ私は、全国大会で求められるのは、建築の華やかさだけではないと知っています。何を課題と捉えたか、なぜその解決策を選んだか、チームでどう作り上げたか——この説明力こそが、Road to マイクラカップで鍛える中心です。&lt;/p&gt;
+&lt;p&gt;この夏、宜野湾で始まる挑戦の舞台
+Road to マイクラカップは、小学生から高校生までを対象に、教育版マインクラフト（MakeCode連携の教育向けマインクラフト）でチーム作品を作り、マイクラカップ全国大会出場を目指すワークショップです。沖縄県宜野湾市内にお住まいのお子さんが対象です。詳しいコース背景は MakeCodeコース詳細 もご覧ください。&lt;/p&gt;
+&lt;p&gt;単なるゲーム大会ではない、将来に残る参加メリット
+楽しさの先に、子どもの生涯の財産になる価値があります。私は、保護者の方に次の四点を、いつも現場の言葉でお伝えしています。&lt;/p&gt;
+&lt;p&gt;夏休みの自由研究として、説得力のある成果物にまとめやすい
+制作の過程、工夫、完成作品を記録できるため、学校提出にもつなげやすいです。完成画像だけでなく、「なぜこの設計にしたか」を言語化できることが、自由研究の説得力を上げます。&lt;/p&gt;
+&lt;p&gt;受験時に、探究活動の実績として説明しやすい
+総合型選抜や学校推薦型選抜などで、チーム制作の経験として語れる可能性があります。合格を保証するものではありません。ただ、説明可能な過程が残ると、志望理由書や面接の材料になります。&lt;/p&gt;
+&lt;p&gt;論理的思考力と情報設計が、自然に身につく
+何を作るか、誰にどう伝えるか、役割をどう分けるか——プログラミングスクール 沖縄 でも最重要視される力が、作品づくりを通じて鍛えられます。&lt;/p&gt;
+&lt;p&gt;デジタルポートフォリオの強固な土台になる
+担当パート、改善の歴史、チーム内の役割を残すことで、本人が成長を説明できるポートフォリオになります。将来、特色選抜や総合型選抜の説明材料として、作品と過程の両方を示せる状態を目指します。&lt;/p&gt;
+&lt;p&gt;私は、上手な作品を作る子より、なぜその設計にしたかを自分の言葉で説明できる子を目指してほしいと考えています。派手さより、向き合い方。ここが、十年後も効いてくる差になります。&lt;/p&gt;
+&lt;p&gt;建築の美しさだけを競わない、実社会のプロジェクトを模したカリキュラム
+Road to マイクラカップが提供するのは、ブロックの組み立て作業だけではありません。テーマの読み解き、地域の課題調査、チーム内の役割分担、仮説検証のワールド構築、発表と改善のループ——私がプロジェクトマネージャーとして三十年、自治体案件の現場で回してきたプロセスと、構造は同じです。&lt;/p&gt;
+&lt;p&gt;調べる、比べる、設計する、作る、伝える。この循環が、子どもたちの中で静かに回り始める瞬間があります。話し合いで意見がぶつかったときに根拠を添えて調整する姿。締切前に「今日やること」を自分で整理する姿。論理的思考力は、テスト問題だけの話ではありません。編集台でも、ワールド制作でも、同じ筋道で育ちます。&lt;/p&gt;
+&lt;p&gt;初回は、いきなり建築の上手さを競いません。テーマ理解とチーム対話から入ります。2回目以降で企画と制作を進め、最終回では全国大会を見据えた提出形式を意識しながら、作品と説明資料の仕上げに入ります。各回の終わりに、次回までの改善点を一人ずつ言語化し、制作記録に残します。この記録がある子ほど、次の挑戦での伸び方が違います。私は、完成作品そのもの以上に、記録が残っているかを現場で見ています。&lt;/p&gt;
+&lt;p&gt;開催概要と夏のスケジュール
+イベント名
+Road to マイクラカップ&lt;/p&gt;
+&lt;p&gt;対象
+沖縄県宜野湾市内の小学生から高校生まで
+小学生は保護者同伴が必須
+全4回に参加し、マイクラカップ参加を希望する方&lt;/p&gt;
+&lt;p&gt;会場
+クロスウェーブ
+沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F&lt;/p&gt;
+&lt;p&gt;定員
+先着20名&lt;/p&gt;
+&lt;p&gt;参加費
+全4回 2,000円
+教育版マインクラフトライセンス費用は別途必要です&lt;/p&gt;
+&lt;p&gt;持ち物
+ノートPC&lt;/p&gt;
+&lt;p&gt;日程
+いずれも14:30〜16:30&lt;/p&gt;
+&lt;p&gt;2026年7月28日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月4日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月11日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月18日（火）&lt;/p&gt;
+&lt;p&gt;申込締切は2026年7月20日（月）です。
+全日程への連続参加が原則です。チームで制作を進める設計のため、子どもたちの本気を守る条件として、私はここをはっきりお伝えしています。&lt;/p&gt;
+&lt;p&gt;「全4回、日程的に厳しいかもしれない」と相談されることもあります。私は、途中参加が増えるほどチームの学びが浅くなる経験を、現場で何度も見てきました。だからこそ、最初から全日程参加を前提にした募集にしています。ご家庭の予定と照らし合わせたうえで、無理のない判断をしていただければと思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/396321/</guid><enclosure url="https://media.connpass.com/thumbs/73/42/73429273d609322af5c9b210dad2691f.png" length="0" type="image/png"/><pubDate>Thu, 04 Jun 2026 21:03:56 +0900</pubDate></item><item><title>第8回マイクラカップに参加しよう！「Road To マイクラカップ」参加者募集</title><link>https://minecraft098.connpass.com/event/396322/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月11日(火) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月11日(火) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;2026年の夏を迎えるにあたり、沖縄マイクラ部プログラミングスクール「クロスウェーブ」から、子どもたちの未来に関わる重要なお知らせがあります。全国大会出場を目指す全4回の特別ワークショップ「Road to マイクラカップ」の参加メンバーを、私は宜野湾の教室で募集します。&lt;/p&gt;
+&lt;p&gt;私は、三十年ほど官公庁や自治体のWeb・システムを現場で担当してきた現役のエンジニアです。マイクラ 沖縄 プログラミング教室 として、ゲームの好きを、一生ものの実力へつなげる夏です。&lt;/p&gt;
+&lt;p&gt;私たちの教室は、第6回・第7回マイクラカップに沖縄代表として連続出場し、第7回では全国大会でTBS賞を受賞したチームを指導してきました。だからこそ私は、全国大会で求められるのは、建築の華やかさだけではないと知っています。何を課題と捉えたか、なぜその解決策を選んだか、チームでどう作り上げたか——この説明力こそが、Road to マイクラカップで鍛える中心です。&lt;/p&gt;
+&lt;p&gt;この夏、宜野湾で始まる挑戦の舞台
+Road to マイクラカップは、小学生から高校生までを対象に、教育版マインクラフト（MakeCode連携の教育向けマインクラフト）でチーム作品を作り、マイクラカップ全国大会出場を目指すワークショップです。沖縄県宜野湾市内にお住まいのお子さんが対象です。詳しいコース背景は MakeCodeコース詳細 もご覧ください。&lt;/p&gt;
+&lt;p&gt;単なるゲーム大会ではない、将来に残る参加メリット
+楽しさの先に、子どもの生涯の財産になる価値があります。私は、保護者の方に次の四点を、いつも現場の言葉でお伝えしています。&lt;/p&gt;
+&lt;p&gt;夏休みの自由研究として、説得力のある成果物にまとめやすい
+制作の過程、工夫、完成作品を記録できるため、学校提出にもつなげやすいです。完成画像だけでなく、「なぜこの設計にしたか」を言語化できることが、自由研究の説得力を上げます。&lt;/p&gt;
+&lt;p&gt;受験時に、探究活動の実績として説明しやすい
+総合型選抜や学校推薦型選抜などで、チーム制作の経験として語れる可能性があります。合格を保証するものではありません。ただ、説明可能な過程が残ると、志望理由書や面接の材料になります。&lt;/p&gt;
+&lt;p&gt;論理的思考力と情報設計が、自然に身につく
+何を作るか、誰にどう伝えるか、役割をどう分けるか——プログラミングスクール 沖縄 でも最重要視される力が、作品づくりを通じて鍛えられます。&lt;/p&gt;
+&lt;p&gt;デジタルポートフォリオの強固な土台になる
+担当パート、改善の歴史、チーム内の役割を残すことで、本人が成長を説明できるポートフォリオになります。将来、特色選抜や総合型選抜の説明材料として、作品と過程の両方を示せる状態を目指します。&lt;/p&gt;
+&lt;p&gt;私は、上手な作品を作る子より、なぜその設計にしたかを自分の言葉で説明できる子を目指してほしいと考えています。派手さより、向き合い方。ここが、十年後も効いてくる差になります。&lt;/p&gt;
+&lt;p&gt;建築の美しさだけを競わない、実社会のプロジェクトを模したカリキュラム
+Road to マイクラカップが提供するのは、ブロックの組み立て作業だけではありません。テーマの読み解き、地域の課題調査、チーム内の役割分担、仮説検証のワールド構築、発表と改善のループ——私がプロジェクトマネージャーとして三十年、自治体案件の現場で回してきたプロセスと、構造は同じです。&lt;/p&gt;
+&lt;p&gt;調べる、比べる、設計する、作る、伝える。この循環が、子どもたちの中で静かに回り始める瞬間があります。話し合いで意見がぶつかったときに根拠を添えて調整する姿。締切前に「今日やること」を自分で整理する姿。論理的思考力は、テスト問題だけの話ではありません。編集台でも、ワールド制作でも、同じ筋道で育ちます。&lt;/p&gt;
+&lt;p&gt;初回は、いきなり建築の上手さを競いません。テーマ理解とチーム対話から入ります。2回目以降で企画と制作を進め、最終回では全国大会を見据えた提出形式を意識しながら、作品と説明資料の仕上げに入ります。各回の終わりに、次回までの改善点を一人ずつ言語化し、制作記録に残します。この記録がある子ほど、次の挑戦での伸び方が違います。私は、完成作品そのもの以上に、記録が残っているかを現場で見ています。&lt;/p&gt;
+&lt;p&gt;開催概要と夏のスケジュール
+イベント名
+Road to マイクラカップ&lt;/p&gt;
+&lt;p&gt;対象
+沖縄県宜野湾市内の小学生から高校生まで
+小学生は保護者同伴が必須
+全4回に参加し、マイクラカップ参加を希望する方&lt;/p&gt;
+&lt;p&gt;会場
+クロスウェーブ
+沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F&lt;/p&gt;
+&lt;p&gt;定員
+先着20名&lt;/p&gt;
+&lt;p&gt;参加費
+全4回 2,000円
+教育版マインクラフトライセンス費用は別途必要です&lt;/p&gt;
+&lt;p&gt;持ち物
+ノートPC&lt;/p&gt;
+&lt;p&gt;日程
+いずれも14:30〜16:30&lt;/p&gt;
+&lt;p&gt;2026年7月28日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月4日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月11日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月18日（火）&lt;/p&gt;
+&lt;p&gt;申込締切は2026年7月20日（月）です。
+全日程への連続参加が原則です。チームで制作を進める設計のため、子どもたちの本気を守る条件として、私はここをはっきりお伝えしています。&lt;/p&gt;
+&lt;p&gt;「全4回、日程的に厳しいかもしれない」と相談されることもあります。私は、途中参加が増えるほどチームの学びが浅くなる経験を、現場で何度も見てきました。だからこそ、最初から全日程参加を前提にした募集にしています。ご家庭の予定と照らし合わせたうえで、無理のない判断をしていただければと思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/396322/</guid><enclosure url="https://media.connpass.com/thumbs/73/42/73429273d609322af5c9b210dad2691f.png" length="0" type="image/png"/><pubDate>Thu, 04 Jun 2026 21:04:20 +0900</pubDate></item><item><title>第8回マイクラカップに参加しよう！「Road To マイクラカップ」参加者募集</title><link>https://minecraft098.connpass.com/event/396323/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月18日(火) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月18日(火) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;2026年の夏を迎えるにあたり、沖縄マイクラ部プログラミングスクール「クロスウェーブ」から、子どもたちの未来に関わる重要なお知らせがあります。全国大会出場を目指す全4回の特別ワークショップ「Road to マイクラカップ」の参加メンバーを、私は宜野湾の教室で募集します。&lt;/p&gt;
+&lt;p&gt;私は、三十年ほど官公庁や自治体のWeb・システムを現場で担当してきた現役のエンジニアです。マイクラ 沖縄 プログラミング教室 として、ゲームの好きを、一生ものの実力へつなげる夏です。&lt;/p&gt;
+&lt;p&gt;私たちの教室は、第6回・第7回マイクラカップに沖縄代表として連続出場し、第7回では全国大会でTBS賞を受賞したチームを指導してきました。だからこそ私は、全国大会で求められるのは、建築の華やかさだけではないと知っています。何を課題と捉えたか、なぜその解決策を選んだか、チームでどう作り上げたか——この説明力こそが、Road to マイクラカップで鍛える中心です。&lt;/p&gt;
+&lt;p&gt;この夏、宜野湾で始まる挑戦の舞台
+Road to マイクラカップは、小学生から高校生までを対象に、教育版マインクラフト（MakeCode連携の教育向けマインクラフト）でチーム作品を作り、マイクラカップ全国大会出場を目指すワークショップです。沖縄県宜野湾市内にお住まいのお子さんが対象です。詳しいコース背景は MakeCodeコース詳細 もご覧ください。&lt;/p&gt;
+&lt;p&gt;単なるゲーム大会ではない、将来に残る参加メリット
+楽しさの先に、子どもの生涯の財産になる価値があります。私は、保護者の方に次の四点を、いつも現場の言葉でお伝えしています。&lt;/p&gt;
+&lt;p&gt;夏休みの自由研究として、説得力のある成果物にまとめやすい
+制作の過程、工夫、完成作品を記録できるため、学校提出にもつなげやすいです。完成画像だけでなく、「なぜこの設計にしたか」を言語化できることが、自由研究の説得力を上げます。&lt;/p&gt;
+&lt;p&gt;受験時に、探究活動の実績として説明しやすい
+総合型選抜や学校推薦型選抜などで、チーム制作の経験として語れる可能性があります。合格を保証するものではありません。ただ、説明可能な過程が残ると、志望理由書や面接の材料になります。&lt;/p&gt;
+&lt;p&gt;論理的思考力と情報設計が、自然に身につく
+何を作るか、誰にどう伝えるか、役割をどう分けるか——プログラミングスクール 沖縄 でも最重要視される力が、作品づくりを通じて鍛えられます。&lt;/p&gt;
+&lt;p&gt;デジタルポートフォリオの強固な土台になる
+担当パート、改善の歴史、チーム内の役割を残すことで、本人が成長を説明できるポートフォリオになります。将来、特色選抜や総合型選抜の説明材料として、作品と過程の両方を示せる状態を目指します。&lt;/p&gt;
+&lt;p&gt;私は、上手な作品を作る子より、なぜその設計にしたかを自分の言葉で説明できる子を目指してほしいと考えています。派手さより、向き合い方。ここが、十年後も効いてくる差になります。&lt;/p&gt;
+&lt;p&gt;建築の美しさだけを競わない、実社会のプロジェクトを模したカリキュラム
+Road to マイクラカップが提供するのは、ブロックの組み立て作業だけではありません。テーマの読み解き、地域の課題調査、チーム内の役割分担、仮説検証のワールド構築、発表と改善のループ——私がプロジェクトマネージャーとして三十年、自治体案件の現場で回してきたプロセスと、構造は同じです。&lt;/p&gt;
+&lt;p&gt;調べる、比べる、設計する、作る、伝える。この循環が、子どもたちの中で静かに回り始める瞬間があります。話し合いで意見がぶつかったときに根拠を添えて調整する姿。締切前に「今日やること」を自分で整理する姿。論理的思考力は、テスト問題だけの話ではありません。編集台でも、ワールド制作でも、同じ筋道で育ちます。&lt;/p&gt;
+&lt;p&gt;初回は、いきなり建築の上手さを競いません。テーマ理解とチーム対話から入ります。2回目以降で企画と制作を進め、最終回では全国大会を見据えた提出形式を意識しながら、作品と説明資料の仕上げに入ります。各回の終わりに、次回までの改善点を一人ずつ言語化し、制作記録に残します。この記録がある子ほど、次の挑戦での伸び方が違います。私は、完成作品そのもの以上に、記録が残っているかを現場で見ています。&lt;/p&gt;
+&lt;p&gt;開催概要と夏のスケジュール
+イベント名
+Road to マイクラカップ&lt;/p&gt;
+&lt;p&gt;対象
+沖縄県宜野湾市内の小学生から高校生まで
+小学生は保護者同伴が必須
+全4回に参加し、マイクラカップ参加を希望する方&lt;/p&gt;
+&lt;p&gt;会場
+クロスウェーブ
+沖縄県宜野湾市伊佐2-20-15 伊佐ビル2F&lt;/p&gt;
+&lt;p&gt;定員
+先着20名&lt;/p&gt;
+&lt;p&gt;参加費
+全4回 2,000円
+教育版マインクラフトライセンス費用は別途必要です&lt;/p&gt;
+&lt;p&gt;持ち物
+ノートPC&lt;/p&gt;
+&lt;p&gt;日程
+いずれも14:30〜16:30&lt;/p&gt;
+&lt;p&gt;2026年7月28日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月4日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月11日（火）&lt;/p&gt;
+&lt;p&gt;2026年8月18日（火）&lt;/p&gt;
+&lt;p&gt;申込締切は2026年7月20日（月）です。
+全日程への連続参加が原則です。チームで制作を進める設計のため、子どもたちの本気を守る条件として、私はここをはっきりお伝えしています。&lt;/p&gt;
+&lt;p&gt;「全4回、日程的に厳しいかもしれない」と相談されることもあります。私は、途中参加が増えるほどチームの学びが浅くなる経験を、現場で何度も見てきました。だからこそ、最初から全日程参加を前提にした募集にしています。ご家庭の予定と照らし合わせたうえで、無理のない判断をしていただければと思います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/396323/</guid><enclosure url="https://media.connpass.com/thumbs/73/42/73429273d609322af5c9b210dad2691f.png" length="0" type="image/png"/><pubDate>Thu, 04 Jun 2026 21:04:42 +0900</pubDate></item><item><title>CoderDojo Onna@OIST (Conference Center)</title><link>https://coderdojo-nago.connpass.com/event/393428/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月23日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月23日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１&lt;/li&gt;&lt;li&gt;🏢 住所: 恩納村字谷茶1919-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hands-on Programming Session&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Target&lt;/h1&gt;
+&lt;p&gt;7 to 17 years old&lt;/p&gt;
+&lt;p&gt;It is a place for self-study and learning together to create and express themselves through technology.&lt;/p&gt;
+&lt;p&gt;Elementary school participants must be accompanied by a parent or guardian.&lt;/p&gt;
+&lt;p&gt;Parents and guardians attending the event and those who register for the event are requested to read the description of this event.&lt;/p&gt;
+&lt;h1&gt;Self-organized sessions&lt;/h1&gt;
+&lt;p&gt;We are looking for self-organized sessions.&lt;/p&gt;
+&lt;p&gt;If you have something you would like to present, please let us know the content and required time.&lt;/p&gt;
+&lt;p&gt;The presentation language may be Japanese, English, or both.&lt;/p&gt;
+&lt;h1&gt;What you can do, for example&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Create stories, games, and animations to share with everyone around the world.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;a Scratch studio&lt;/a&gt; for adding projects from everyone participating in CoderDojo Nago. If you would like to add your work, please let us know in the comments, and we will invite you as a curator.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3 is a modified version of Scratch that allows you to use self-made extensions. There are various extensions that can be used, such as voice recognition (Speech to Scratch), pose recognition (Pose Net to Scratch), machine learning that can learn images and sounds (ML to Scratch), and ChatGPT (Chat GPT to Scratch). there is.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;Kids code recipe&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kids Code Recipe is a programming recipe site that introduces how to create games and animations using various programming materials for children and beginners.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A mysterious robot toy that leads children to various creative endeavors.&lt;/p&gt;
+&lt;p&gt;There is also an app &lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt; that allows even elementary school students to easily create robot games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Challenge yourself with a one-hour tutorial for all ages in over 45 languages. millions of students and teachers in over 180 countries have started their Hour of Code.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;HackforPlay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay is a web service that lets you learn programming while creating games. You can read and write JavaScript code to realize your own ideas in games or create your own original games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The micro:bit has many input and output features such as LED display, buttons, and sensors, allowing you to interact with yourself and your surroundings through programming.&lt;/p&gt;
+&lt;p&gt;In CoderDojo Nago, in addition to the micro:bit itself, there are modules to expand its functionality such as the micro:bit Workshop Module and REKA:BIT.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It is an open source integrated software for 3DCG and 2D animation production.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tinkercad is a free web app for 3D design, electronics, and coding.&lt;/p&gt;
+&lt;p&gt;At CoderDojo Nago, you can convert 3D designs created in Tinkercad into sliced data using FlashPrint 5, and then print them using the Adventurer3 Lite 3D printer.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Get a taste of programming with Progate's free, illustration-driven slides.&lt;/p&gt;
+&lt;p&gt;Please register as a free Progate member in advance to participate.&lt;/p&gt;
+&lt;p&gt;Children who have completed the lessons of the free plan and wish to continue learning can also receive a free corporate plan through "Progate, a programming learning service, in partnership with CoderDojo Japan".&lt;/p&gt;
+&lt;h1&gt;How to apply (connpass)&lt;/h1&gt;
+&lt;p&gt;If you are applying for more than one person, please apply for separate accounts.&lt;/p&gt;
+&lt;p&gt;One account can be set up for each e-mail address on connpass.&lt;/p&gt;
+&lt;h1&gt;Participation Fee&lt;/h1&gt;
+&lt;p&gt;Free of charge&lt;/p&gt;
+&lt;h1&gt;Donations to CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;CoderDojo Nago is supported by your donations.&lt;/p&gt;
+&lt;p&gt;We need your support to continue our activities.&lt;/p&gt;
+&lt;p&gt;In order to continue our activities, CoerDojo Nago accepts donations.&lt;/p&gt;
+&lt;h1&gt;About video/photography&lt;/h1&gt;
+&lt;p&gt;When taking videos or photos, please be careful not to include participants other than your child in the photo.&lt;/p&gt;
+&lt;h1&gt;Publicity&lt;/h1&gt;
+&lt;p&gt;We may post photos and videos of our events on the CoderDojo Nago website, SNS, YouTube, and other media.&lt;/p&gt;
+&lt;p&gt;Please be aware of this when participating in the event.&lt;/p&gt;
+&lt;h1&gt;Please help us prevent the spread of the new coronavirus!&lt;/h1&gt;
+&lt;p&gt;Even after vaccination, please continue to "wear a mask," "wash your hands," and "avoid the 3 densities (close, dense, and enclosed).&lt;/p&gt;
+&lt;h1&gt;Inquiries&lt;/h1&gt;
+&lt;p&gt;Please contact us through the &lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;inquiry form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Inquiries to the venue will not be handled.&lt;/p&gt;
+&lt;h1&gt;Volunteer Participation&lt;/h1&gt;
+&lt;p&gt;We are looking for volunteers to participate.&lt;/p&gt;
+&lt;p&gt;Technical skills are not required. Would you like to be present as children inspire ideas and demonstrate their creativity?&lt;/p&gt;
+&lt;h1&gt;Hosted by CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo Nago&lt;/a&gt;  is a non-profit programming club established to spread the principles of CoderDojo and support the community in the northern region of Okinawa Prefecture.&lt;/p&gt;
+&lt;p&gt;CoderDojo Nago adheres to the following principles outlined in the CoderDojo Charter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We commit to inspiring and supporting young people to learn how to create technology
+&lt;/li&gt;&lt;li&gt;We commit to the highest possible standards of child protection in our jurisdiction
+&lt;/li&gt;&lt;li&gt;We commit to not charging children attending nor their parents
+&lt;/li&gt;&lt;li&gt;We commit to encourage parent participation within our Dojo
+&lt;/li&gt;&lt;li&gt;We commit to sharing our knowledge for free (libre and open)
+&lt;/li&gt;&lt;li&gt;We commit to share our knowledge within our Dojo and to other Dojos
+&lt;/li&gt;&lt;li&gt;We commit to take care and uphold the good name of the global CoderDojo community
+&lt;/li&gt;&lt;li&gt;We commit to encouraging collaboration, peer to peer mentoring and project work between the attendees
+&lt;/li&gt;&lt;li&gt;We commit to welcoming volunteers and children regardless of gender, race, sexual orientation, creed, religion or ability.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;Cooperation&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;Okinawa Institute of Science and Technology Graduate University (OIST)&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;対象&lt;/h1&gt;
+&lt;p&gt;7歳から17歳まで&lt;/p&gt;
+&lt;p&gt;テクノロジーで作ったり、表現するため、自学自習をしたり、学び合う場です。&lt;/p&gt;
+&lt;p&gt;小学生の参加者は保護者の同伴が必要です。&lt;/p&gt;
+&lt;p&gt;イベントに参加する保護者の方及び申し込みをする方は本イベントの説明をご確認ください。&lt;/p&gt;
+&lt;h1&gt;セルフオーガナイズドセッション&lt;/h1&gt;
+&lt;p&gt;セルフオーガナイズドセッションを募集しています。&lt;/p&gt;
+&lt;p&gt;発表をしたいことがありましたら、内容や必要な時間などお知らせください。&lt;/p&gt;
+&lt;p&gt;発表する際の言語は、日本語、英語、または両方でもOKです。&lt;/p&gt;
+&lt;h1&gt;新規ボランティアの受け入れについて&lt;/h1&gt;
+&lt;p&gt;ボランティアの参加を募集しています。技術スキルは必須ではありません。子どもたちがアイデアをひらめかせたり、創造性を発揮する場に立ち会いませんか？&lt;/p&gt;
+&lt;p&gt;ボランティアで参加される方は事前に&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/3" rel="nofollow"&gt;行動規範&lt;/a&gt;を必ずご確認ください。&lt;/p&gt;
+&lt;p&gt;初めてボランティアに申し込まれた際は、イベント参加前にGoogle Meetで面接を行います。&lt;/p&gt;
+&lt;h1&gt;できること、例えば・・・&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;物語や、ゲーム、アニメーションを作ろう世界中のみんなと共有しよう。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;Scratchスタジオ&lt;/a&gt;もあります。CoderDojo名護に参加するみなさんのプロジェクトを追加するスタジオです。作品を追加したい場合は、キュレーターに招待しますのでコメントでお知らせください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3(ストレッチスリー)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3は自作の拡張機能を使えるように改造したScratchです。音声認識、ポーズの認識、画像や音声を学習させることができる機械学習、ChatGPTなどが使えるいろいろな拡張機能があります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;キッズコードレシピ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;キッズコードレシピは色々なプログラミング教材を使ったゲームやアニメーションなどのつくり方を子ども・初心者向けに紹介しているプログラミングのレシピサイトです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;子どもたちを様々な創意工夫へと導く不思議なロボットトイです。&lt;/p&gt;
+&lt;p&gt;小学生からでもカンタンにロボットゲームが作れるアプリ&lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt;もあります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;45ヶ国語以上の全世代を対象とした1時間のチュートリアルに挑戦してみて下さい。180以上の国で数百万人の生徒と先生がHour of Codeを始めています。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;ハックフォープレイ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay はゲームを作りながらプログラミングが学べる Web サービスで、 JavaScript で書かれたコードの読み書きを行って、自ら考えたアイデアをゲーム上で実現したり、オリジナルのゲームを作ることができます。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;LEDディスプレイやセンサーなど多くの入出力機能を持ち、プログラムで操作できます。&lt;/p&gt;
+&lt;p&gt;遊び方はいろいろです。&lt;a href="https://note.com/coderdojonago/n/nc2cd835f3235" rel="nofollow"&gt;「ラジコンカー」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/n2c9f6acf9c77" rel="nofollow"&gt;「ろくろアート」や「ターンテーブル」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/nac9f73e5d824" rel="nofollow"&gt;「micro:bit、micro:bit用ワークショップモジュール、 GeekServo、Legoを使って遊ぶ」&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;オープンソースの統合型3DCG製作、2Dアニメーション製作のソフトウェアです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;3Dデザイン、電子工作、コーディングのための無料Webアプリです。&lt;/p&gt;
+&lt;p&gt;3Dプリンターで印刷する方法は&lt;a href="https://note.com/coderdojonago/n/n87d0f67ee3f5" rel="nofollow"&gt;3Dプリントのあんちょこ&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;イラスト中心のスライドで学ぶことができるProgateの無料プランでプログラミングに触れてみよう。&lt;/p&gt;
+&lt;p&gt;無料プランのレッスンを終え、引き続き学びたい子どもたちには&lt;a href="https://prog-8.com/about/news/71" rel="nofollow"&gt;「プログラミング学習のProgate、CoderDojo Japanと提携」&lt;/a&gt;により法人プランの無料提供を受けることもできます。&lt;/p&gt;
+&lt;h1&gt;申込方法（connpass）について&lt;/h1&gt;
+&lt;p&gt;複数名、申し込む場合は、アカウントを分けて申し込み下さい。&lt;/p&gt;
+&lt;p&gt;connpassは１メールアドレスにつき１アカウント設定できます。&lt;/p&gt;
+&lt;p&gt;メールアドレスをお持ちでない場合は&lt;a href="https://gmail.com/" rel="nofollow"&gt;Gmai&lt;/a&gt;lなどで作成ください。&lt;/p&gt;
+&lt;p&gt;connpassの機能については&lt;a href="http://help.connpass.com/participants/event-join" rel="nofollow"&gt;connpass ご利用ガイド&lt;/a&gt;をご確認ください。&lt;/p&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h1&gt;ご寄附によるご支援のお願い&lt;/h1&gt;
+&lt;p&gt;CoderDojo名護はみなさまのご支援により運営されています。&lt;/p&gt;
+&lt;p&gt;継続して活動を続けるため、CoerDojo名護は寄付を受け付けています。&lt;/p&gt;
+&lt;h1&gt;ビデオ・写真撮影について&lt;/h1&gt;
+&lt;p&gt;ビデオ・写真撮影をされる場合は、ご自身のお子様以外の参加者が写り込まないよう配慮をお願いします。&lt;/p&gt;
+&lt;h1&gt;広報について&lt;/h1&gt;
+&lt;p&gt;イベントの様子などを&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護のウェブサイト&lt;/a&gt;、SNS、YouTubeなどに掲載することがあります。&lt;/p&gt;
+&lt;p&gt;参加する際はご了承ください。&lt;/p&gt;
+&lt;h1&gt;お問い合わせについて&lt;/h1&gt;
+&lt;p&gt;「&lt;a href="./inquiry/" rel="nofollow"&gt;イベントへのお問い合わせ&lt;/a&gt;」または&lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;問い合わせフォーム&lt;/a&gt;からお願いします。&lt;/p&gt;
+&lt;p&gt;会場へ問い合わせをしても対応致しかねます。&lt;/p&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、沖縄県北部地域でCoderDojo の理念を広め、コミュニティをサポートするために設立された非営利のプログラミングクラブです。&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、以下にある&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo憲章&lt;/a&gt;の理念を保持します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;若者が技術を作り上げていくための支援を行い、ひらめきを与えることに尽力します
+&lt;/li&gt;&lt;li&gt;できうる範囲で、高い水準の児童保護を優先します
+&lt;/li&gt;&lt;li&gt;道場に参加する子ども達や、その保護者から料金を徴収しません
+&lt;/li&gt;&lt;li&gt;保護者が道場に参加することを推奨します
+&lt;/li&gt;&lt;li&gt;持っている知識を自由かつオープンに共有します
+&lt;/li&gt;&lt;li&gt;自分たちの道場内だけでなく、他の道場とも知識を共有します
+&lt;/li&gt;&lt;li&gt;CoderDojo コミュニティの国際的なブランドを維持し、大切にします
+&lt;/li&gt;&lt;li&gt;参加者間の協力を促進し、同世代間のメンタリングや参加者同士のプロジェクトを推奨します
+&lt;/li&gt;&lt;li&gt;性別、人種、性的指向、信念、宗教、能力 (障がい等) に関係なく、ボランティアや子ども達を歓迎します
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;協力&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;学校法人沖縄科学技術大学院大学学園&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nago.connpass.com/event/393428/</guid><enclosure url="https://media.connpass.com/thumbs/42/42/4242a81cb48f3c4cbfafa5e0aaa96f6f.png" length="0" type="image/png"/><pubDate>Sun, 10 May 2026 16:20:57 +0900</pubDate></item><item><title>CoderDojo Onna@OIST (Conference Center)</title><link>https://coderdojo-nago.connpass.com/event/393429/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１&lt;/li&gt;&lt;li&gt;🏢 住所: 恩納村字谷茶1919-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hands-on Programming Session&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Target&lt;/h1&gt;
+&lt;p&gt;7 to 17 years old&lt;/p&gt;
+&lt;p&gt;It is a place for self-study and learning together to create and express themselves through technology.&lt;/p&gt;
+&lt;p&gt;Elementary school participants must be accompanied by a parent or guardian.&lt;/p&gt;
+&lt;p&gt;Parents and guardians attending the event and those who register for the event are requested to read the description of this event.&lt;/p&gt;
+&lt;h1&gt;Self-organized sessions&lt;/h1&gt;
+&lt;p&gt;We are looking for self-organized sessions.&lt;/p&gt;
+&lt;p&gt;If you have something you would like to present, please let us know the content and required time.&lt;/p&gt;
+&lt;p&gt;The presentation language may be Japanese, English, or both.&lt;/p&gt;
+&lt;h1&gt;What you can do, for example&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Create stories, games, and animations to share with everyone around the world.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;a Scratch studio&lt;/a&gt; for adding projects from everyone participating in CoderDojo Nago. If you would like to add your work, please let us know in the comments, and we will invite you as a curator.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3 is a modified version of Scratch that allows you to use self-made extensions. There are various extensions that can be used, such as voice recognition (Speech to Scratch), pose recognition (Pose Net to Scratch), machine learning that can learn images and sounds (ML to Scratch), and ChatGPT (Chat GPT to Scratch). there is.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;Kids code recipe&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kids Code Recipe is a programming recipe site that introduces how to create games and animations using various programming materials for children and beginners.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A mysterious robot toy that leads children to various creative endeavors.&lt;/p&gt;
+&lt;p&gt;There is also an app &lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt; that allows even elementary school students to easily create robot games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Challenge yourself with a one-hour tutorial for all ages in over 45 languages. millions of students and teachers in over 180 countries have started their Hour of Code.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;HackforPlay&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay is a web service that lets you learn programming while creating games. You can read and write JavaScript code to realize your own ideas in games or create your own original games.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The micro:bit has many input and output features such as LED display, buttons, and sensors, allowing you to interact with yourself and your surroundings through programming.&lt;/p&gt;
+&lt;p&gt;In CoderDojo Nago, in addition to the micro:bit itself, there are modules to expand its functionality such as the micro:bit Workshop Module and REKA:BIT.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It is an open source integrated software for 3DCG and 2D animation production.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tinkercad is a free web app for 3D design, electronics, and coding.&lt;/p&gt;
+&lt;p&gt;At CoderDojo Nago, you can convert 3D designs created in Tinkercad into sliced data using FlashPrint 5, and then print them using the Adventurer3 Lite 3D printer.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Get a taste of programming with Progate's free, illustration-driven slides.&lt;/p&gt;
+&lt;p&gt;Please register as a free Progate member in advance to participate.&lt;/p&gt;
+&lt;p&gt;Children who have completed the lessons of the free plan and wish to continue learning can also receive a free corporate plan through "Progate, a programming learning service, in partnership with CoderDojo Japan".&lt;/p&gt;
+&lt;h1&gt;How to apply (connpass)&lt;/h1&gt;
+&lt;p&gt;If you are applying for more than one person, please apply for separate accounts.&lt;/p&gt;
+&lt;p&gt;One account can be set up for each e-mail address on connpass.&lt;/p&gt;
+&lt;h1&gt;Participation Fee&lt;/h1&gt;
+&lt;p&gt;Free of charge&lt;/p&gt;
+&lt;h1&gt;Donations to CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;CoderDojo Nago is supported by your donations.&lt;/p&gt;
+&lt;p&gt;We need your support to continue our activities.&lt;/p&gt;
+&lt;p&gt;In order to continue our activities, CoerDojo Nago accepts donations.&lt;/p&gt;
+&lt;h1&gt;About video/photography&lt;/h1&gt;
+&lt;p&gt;When taking videos or photos, please be careful not to include participants other than your child in the photo.&lt;/p&gt;
+&lt;h1&gt;Publicity&lt;/h1&gt;
+&lt;p&gt;We may post photos and videos of our events on the CoderDojo Nago website, SNS, YouTube, and other media.&lt;/p&gt;
+&lt;p&gt;Please be aware of this when participating in the event.&lt;/p&gt;
+&lt;h1&gt;Please help us prevent the spread of the new coronavirus!&lt;/h1&gt;
+&lt;p&gt;Even after vaccination, please continue to "wear a mask," "wash your hands," and "avoid the 3 densities (close, dense, and enclosed).&lt;/p&gt;
+&lt;h1&gt;Inquiries&lt;/h1&gt;
+&lt;p&gt;Please contact us through the &lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;inquiry form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Inquiries to the venue will not be handled.&lt;/p&gt;
+&lt;h1&gt;Volunteer Participation&lt;/h1&gt;
+&lt;p&gt;We are looking for volunteers to participate.&lt;/p&gt;
+&lt;p&gt;Technical skills are not required. Would you like to be present as children inspire ideas and demonstrate their creativity?&lt;/p&gt;
+&lt;h1&gt;Hosted by CoderDojo Nago&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo Nago&lt;/a&gt;  is a non-profit programming club established to spread the principles of CoderDojo and support the community in the northern region of Okinawa Prefecture.&lt;/p&gt;
+&lt;p&gt;CoderDojo Nago adheres to the following principles outlined in the CoderDojo Charter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We commit to inspiring and supporting young people to learn how to create technology
+&lt;/li&gt;&lt;li&gt;We commit to the highest possible standards of child protection in our jurisdiction
+&lt;/li&gt;&lt;li&gt;We commit to not charging children attending nor their parents
+&lt;/li&gt;&lt;li&gt;We commit to encourage parent participation within our Dojo
+&lt;/li&gt;&lt;li&gt;We commit to sharing our knowledge for free (libre and open)
+&lt;/li&gt;&lt;li&gt;We commit to share our knowledge within our Dojo and to other Dojos
+&lt;/li&gt;&lt;li&gt;We commit to take care and uphold the good name of the global CoderDojo community
+&lt;/li&gt;&lt;li&gt;We commit to encouraging collaboration, peer to peer mentoring and project work between the attendees
+&lt;/li&gt;&lt;li&gt;We commit to welcoming volunteers and children regardless of gender, race, sexual orientation, creed, religion or ability.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;Cooperation&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;Okinawa Institute of Science and Technology Graduate University (OIST)&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;対象&lt;/h1&gt;
+&lt;p&gt;7歳から17歳まで&lt;/p&gt;
+&lt;p&gt;テクノロジーで作ったり、表現するため、自学自習をしたり、学び合う場です。&lt;/p&gt;
+&lt;p&gt;小学生の参加者は保護者の同伴が必要です。&lt;/p&gt;
+&lt;p&gt;イベントに参加する保護者の方及び申し込みをする方は本イベントの説明をご確認ください。&lt;/p&gt;
+&lt;h1&gt;セルフオーガナイズドセッション&lt;/h1&gt;
+&lt;p&gt;セルフオーガナイズドセッションを募集しています。&lt;/p&gt;
+&lt;p&gt;発表をしたいことがありましたら、内容や必要な時間などお知らせください。&lt;/p&gt;
+&lt;p&gt;発表する際の言語は、日本語、英語、または両方でもOKです。&lt;/p&gt;
+&lt;h1&gt;新規ボランティアの受け入れについて&lt;/h1&gt;
+&lt;p&gt;ボランティアの参加を募集しています。技術スキルは必須ではありません。子どもたちがアイデアをひらめかせたり、創造性を発揮する場に立ち会いませんか？&lt;/p&gt;
+&lt;p&gt;ボランティアで参加される方は事前に&lt;a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/3" rel="nofollow"&gt;行動規範&lt;/a&gt;を必ずご確認ください。&lt;/p&gt;
+&lt;p&gt;初めてボランティアに申し込まれた際は、イベント参加前にGoogle Meetで面接を行います。&lt;/p&gt;
+&lt;h1&gt;できること、例えば・・・&lt;/h1&gt;
+&lt;h2&gt;&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;物語や、ゲーム、アニメーションを作ろう世界中のみんなと共有しよう。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scratch.mit.edu/studios/34036943" rel="nofollow"&gt;Scratchスタジオ&lt;/a&gt;もあります。CoderDojo名護に参加するみなさんのプロジェクトを追加するスタジオです。作品を追加したい場合は、キュレーターに招待しますのでコメントでお知らせください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://stretch3.github.io/" rel="nofollow"&gt;Stretch3(ストレッチスリー)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stretch3は自作の拡張機能を使えるように改造したScratchです。音声認識、ポーズの認識、画像や音声を学習させることができる機械学習、ChatGPTなどが使えるいろいろな拡張機能があります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://kidsc2.org/" rel="nofollow"&gt;キッズコードレシピ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;キッズコードレシピは色々なプログラミング教材を使ったゲームやアニメーションなどのつくり方を子ども・初心者向けに紹介しているプログラミングのレシピサイトです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://toio.io/" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;子どもたちを様々な創意工夫へと導く不思議なロボットトイです。&lt;/p&gt;
+&lt;p&gt;小学生からでもカンタンにロボットゲームが作れるアプリ&lt;a href="https://toio.io/do/" rel="nofollow"&gt;toio Do&lt;/a&gt;もあります。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://hourofcode.com/" rel="nofollow"&gt;Hour of code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;45ヶ国語以上の全世代を対象とした1時間のチュートリアルに挑戦してみて下さい。180以上の国で数百万人の生徒と先生がHour of Codeを始めています。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.hackforplay.xyz/" rel="nofollow"&gt;ハックフォープレイ&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;HackforPlay はゲームを作りながらプログラミングが学べる Web サービスで、 JavaScript で書かれたコードの読み書きを行って、自ら考えたアイデアをゲーム上で実現したり、オリジナルのゲームを作ることができます。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://microbit.org/" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;LEDディスプレイやセンサーなど多くの入出力機能を持ち、プログラムで操作できます。&lt;/p&gt;
+&lt;p&gt;遊び方はいろいろです。&lt;a href="https://note.com/coderdojonago/n/nc2cd835f3235" rel="nofollow"&gt;「ラジコンカー」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/n2c9f6acf9c77" rel="nofollow"&gt;「ろくろアート」や「ターンテーブル」&lt;/a&gt;、&lt;a href="https://note.com/coderdojonago/n/nac9f73e5d824" rel="nofollow"&gt;「micro:bit、micro:bit用ワークショップモジュール、 GeekServo、Legoを使って遊ぶ」&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.blender.org/" rel="nofollow"&gt;Blender&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;オープンソースの統合型3DCG製作、2Dアニメーション製作のソフトウェアです。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.tinkercad.com/" rel="nofollow"&gt;Tinkercad&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;3Dデザイン、電子工作、コーディングのための無料Webアプリです。&lt;/p&gt;
+&lt;p&gt;3Dプリンターで印刷する方法は&lt;a href="https://note.com/coderdojonago/n/n87d0f67ee3f5" rel="nofollow"&gt;3Dプリントのあんちょこ&lt;/a&gt;を参照ください。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://prog-8.com/" rel="nofollow"&gt;Progate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;イラスト中心のスライドで学ぶことができるProgateの無料プランでプログラミングに触れてみよう。&lt;/p&gt;
+&lt;p&gt;無料プランのレッスンを終え、引き続き学びたい子どもたちには&lt;a href="https://prog-8.com/about/news/71" rel="nofollow"&gt;「プログラミング学習のProgate、CoderDojo Japanと提携」&lt;/a&gt;により法人プランの無料提供を受けることもできます。&lt;/p&gt;
+&lt;h1&gt;申込方法（connpass）について&lt;/h1&gt;
+&lt;p&gt;複数名、申し込む場合は、アカウントを分けて申し込み下さい。&lt;/p&gt;
+&lt;p&gt;connpassは１メールアドレスにつき１アカウント設定できます。&lt;/p&gt;
+&lt;p&gt;メールアドレスをお持ちでない場合は&lt;a href="https://gmail.com/" rel="nofollow"&gt;Gmai&lt;/a&gt;lなどで作成ください。&lt;/p&gt;
+&lt;p&gt;connpassの機能については&lt;a href="http://help.connpass.com/participants/event-join" rel="nofollow"&gt;connpass ご利用ガイド&lt;/a&gt;をご確認ください。&lt;/p&gt;
+&lt;h1&gt;参加費&lt;/h1&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h1&gt;ご寄附によるご支援のお願い&lt;/h1&gt;
+&lt;p&gt;CoderDojo名護はみなさまのご支援により運営されています。&lt;/p&gt;
+&lt;p&gt;継続して活動を続けるため、CoerDojo名護は寄付を受け付けています。&lt;/p&gt;
+&lt;h1&gt;ビデオ・写真撮影について&lt;/h1&gt;
+&lt;p&gt;ビデオ・写真撮影をされる場合は、ご自身のお子様以外の参加者が写り込まないよう配慮をお願いします。&lt;/p&gt;
+&lt;h1&gt;広報について&lt;/h1&gt;
+&lt;p&gt;イベントの様子などを&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護のウェブサイト&lt;/a&gt;、SNS、YouTubeなどに掲載することがあります。&lt;/p&gt;
+&lt;p&gt;参加する際はご了承ください。&lt;/p&gt;
+&lt;h1&gt;お問い合わせについて&lt;/h1&gt;
+&lt;p&gt;「&lt;a href="./inquiry/" rel="nofollow"&gt;イベントへのお問い合わせ&lt;/a&gt;」または&lt;a href="https://forms.gle/9ygmX5SJcBTTErUa6" rel="nofollow"&gt;問い合わせフォーム&lt;/a&gt;からお願いします。&lt;/p&gt;
+&lt;p&gt;会場へ問い合わせをしても対応致しかねます。&lt;/p&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://coderdojo-nago.com/" rel="nofollow"&gt;CoderDojo名護&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、沖縄県北部地域でCoderDojo の理念を広め、コミュニティをサポートするために設立された非営利のプログラミングクラブです。&lt;/p&gt;
+&lt;p&gt;CoderDojo名護は、以下にある&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo憲章&lt;/a&gt;の理念を保持します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;若者が技術を作り上げていくための支援を行い、ひらめきを与えることに尽力します
+&lt;/li&gt;&lt;li&gt;できうる範囲で、高い水準の児童保護を優先します
+&lt;/li&gt;&lt;li&gt;道場に参加する子ども達や、その保護者から料金を徴収しません
+&lt;/li&gt;&lt;li&gt;保護者が道場に参加することを推奨します
+&lt;/li&gt;&lt;li&gt;持っている知識を自由かつオープンに共有します
+&lt;/li&gt;&lt;li&gt;自分たちの道場内だけでなく、他の道場とも知識を共有します
+&lt;/li&gt;&lt;li&gt;CoderDojo コミュニティの国際的なブランドを維持し、大切にします
+&lt;/li&gt;&lt;li&gt;参加者間の協力を促進し、同世代間のメンタリングや参加者同士のプロジェクトを推奨します
+&lt;/li&gt;&lt;li&gt;性別、人種、性的指向、信念、宗教、能力 (障がい等) に関係なく、ボランティアや子ども達を歓迎します
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h1&gt;協力&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.oist.jp/" rel="nofollow"&gt;学校法人沖縄科学技術大学院大学学園&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nago.connpass.com/event/393429/</guid><enclosure url="https://media.connpass.com/thumbs/80/8f/808f42d263c359337a97130aedd430d5.png" length="0" type="image/png"/><pubDate>Sun, 10 May 2026 16:24:00 +0900</pubDate></item></channel></rss>
