@@ -1,255 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 05 Jun 2026 17:08:00 +0000</lastBuildDate><item><title>AIなんでもLightning Talk交流会（初心者〜上級者歓迎）</title><link>https://craftstage.connpass.com/event/391496/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月6日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月6日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 富士通uis&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県川崎市幸区大宮町1-5　JR川崎タワー26階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #生成AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者から上級者まで誰でも歓迎！川崎駅直結・AI関連のなんでも発表できるLT会です&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
-&lt;p&gt;AIに関わる知見や体験、日々の試行錯誤を共有する&lt;strong&gt;「LT（ライトニングトーク）」と、参加者同士の「ミートアップ（交流）」&lt;/strong&gt;を組み合わせたイベントです。
-一方的に話を聞くだけでなく、LTでの発表やその後の交流を通じて、AIという共通言語でフラットに繋がれる場を目指しています。&lt;/p&gt;
-&lt;h2&gt;🎤 LT（ライトニングトーク）登壇者募集中！&lt;/h2&gt;
-&lt;p&gt;本イベントのメインコンテンツです。AIに関する5〜10分程度のショートプレゼンを募集しています。
-テーマ: AIに関することなら何でもOK！
-業務効率化、プログラミング、画像・動画生成、AI秘書、趣味の活用、あるいは「ここで行き詰まった」という失敗談も大歓迎です。
-初心者〜上級者まで: 専門的な技術解説だけでなく、等身大の体験談を募集しています。&lt;/p&gt;
-&lt;h2&gt;🚀 このイベントのポイント&lt;/h2&gt;
-&lt;p&gt;LTを通じたアウトプット: 公募枠による多様な事例や知見に触れることができます。
-交流タイム: LTの内容を深掘りしたり、参加者同士で情報交換ができる時間を設けています。
-最大100名収容の会場: 川崎駅直結の広々とした会場「富士通uis」にて開催。参加人数にかかわらず、ゆったりとした環境で交流いただけます。&lt;/p&gt;
-&lt;h2&gt;👥 こんな方におすすめ&lt;/h2&gt;
-&lt;p&gt;AIの活用事例を直接聞きたい、または自分の知見を共有したい方
-エンジニアやAIユーザーと、フラットに情報交換をしたい方
-川崎近辺で、AIに興味のある繋がりを作りたい方&lt;/p&gt;
-&lt;h3&gt;【公募LT（ライトニングトーク）】&lt;/h3&gt;
-&lt;p&gt;AIに関する5分程度のショートプレゼンを募集しています。
-* &lt;strong&gt;テーマ:&lt;/strong&gt; AIに関することなら何でもOK！
-  * 業務効率化、プログラミング、画像・動画生成、AI秘書、趣味の活用、失敗談など。
-* &lt;strong&gt;初心者〜上級者まで:&lt;/strong&gt; 専門的な技術解説だけでなく、等身大の体験談を募集しています。&lt;/p&gt;
-&lt;h2&gt;⏰ タイムテーブル（予定）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;12:30〜13:00&lt;/strong&gt; 受付&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;13:00〜13:10&lt;/strong&gt; オープニング（趣旨説明・注意事項など）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;13:10〜14:10&lt;/strong&gt; 1人5分程度でのLT（MAX12名）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;14:10〜14:50&lt;/strong&gt; &lt;strong&gt;ミートアップ（交流タイム）&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;14:50〜15:00&lt;/strong&gt; クロージング（次回予告・撤収案内）
-※途中退出可能です。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎤 LT枠&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;順番&lt;/th&gt;
-&lt;th&gt;タイトル&lt;/th&gt;
-&lt;th&gt;登壇者&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;①&lt;/td&gt;
-&lt;td&gt;常駐できるAI秘書をつくってみた&lt;/td&gt;
-&lt;td&gt;増子&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;②&lt;/td&gt;
-&lt;td&gt;AIで効率化できた業務・日常&lt;/td&gt;
-&lt;td&gt;たけださん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;③&lt;/td&gt;
-&lt;td&gt;未定&lt;/td&gt;
-&lt;td&gt;かしまさん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;④&lt;/td&gt;
-&lt;td&gt;未定&lt;/td&gt;
-&lt;td&gt;よしださん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑤&lt;/td&gt;
-&lt;td&gt;未定&lt;/td&gt;
-&lt;td&gt;m4rcyさん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑥&lt;/td&gt;
-&lt;td&gt;未定&lt;/td&gt;
-&lt;td&gt;DaisNarさん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑦&lt;/td&gt;
-&lt;td&gt;LLMを使った個人wikiの作成と活用&lt;/td&gt;
-&lt;td&gt;takahiro1ae さん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑧&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑨&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑩&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑪&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;⑫&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;📍 開催情報・アクセス&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日時：&lt;/strong&gt; 2026年6月6日（土） 13:00～15:00（受付12:30～）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;会場：&lt;/strong&gt; 川崎駅直結・徒歩1分
-  &lt;strong&gt;富士通uis（Uvance Innovation Studio）&lt;/strong&gt;
-  神奈川県川崎市幸区大宮町1-5 JR川崎タワー26階&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参加費：&lt;/strong&gt; 無料&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;定員：&lt;/strong&gt; 最大100名&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;入館方法：&lt;/strong&gt; 会場の二階にて入場のQRコードをお配りさせていただきます。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;備考：&lt;/strong&gt; ※会場にはゲスト用Wi-Fi・電源の用意がございます&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;⚠️ 注意事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;勧誘目的の禁止:&lt;/strong&gt; 採用活動、リクルーティング、商材の営業・勧誘目的での参加は固くお断りいたします。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;一斉退室:&lt;/strong&gt; 会場のセキュリティ管理上、閉館時刻に合わせて全員で一斉退室となります。スムーズな撤収へのご協力をお願いします。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;キャンセル:&lt;/strong&gt; 欠席される場合は、必ずconnpass上で早めのキャンセル処理をお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://craftstage.connpass.com/event/391496/</guid><enclosure url="https://media.connpass.com/thumbs/3f/2e/3f2ed3812fcd6c454c3a319491f22dbb.png" length="0" type="image/png"/><pubDate>Fri, 05 Jun 2026 16:30:53 +0900</pubDate></item><item><title>第71回 CoderDojo武蔵小杉 ※初めての方歓迎</title><link>https://coderdojo-musashikosugi.connpass.com/event/392851/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月6日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月6日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: かわさき市民活動センター　会議室A/B&lt;/li&gt;&lt;li&gt;🏢 住所: 〒211-0004　川崎市中原区新丸子東3-1100-12　1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2026年のテーマ：ロボットプログラミングをやってみよう！※初回の方向け説明を含みます&lt;/p&gt;&lt;div&gt;&lt;p&gt;※今回は13:15開場・13:30開始です！時間にご注意ください。&lt;/p&gt;
-&lt;h1&gt;CoderDojoって？&lt;/h1&gt;
-&lt;p&gt;CoderDojo とは、7〜17歳の子どもを対象にした非営利のプログラミング道場です。
-CoderDojo の活動は2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本では全国に200以上の道場があります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CoderDojo &lt;a href="https://coderdojo.com" rel="nofollow"&gt;https://coderdojo.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CoderDojo Japan &lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;「CoderDojo武蔵小杉」は、活動内容が公益的であることの確認を経て、（公財）かわさき市民活動センターに登録を承認されている市民活動（ボランティア）団体です。
-武蔵小杉に縁のある小中学生を対象に非営利でプログラミング道場（クラブ）活動やロボット・工作・発明・STEAMに関する活動・イベントを開催する目的で、2022年4月より有志・ボランティアにより運営し、「ゆるく・楽しく」活動しています。&lt;/p&gt;
-&lt;p&gt;LINE公式アカウント：CoderDojo武蔵小杉 @dojo-musashikosugi&lt;/p&gt;
-&lt;p&gt;Facebookページ：&lt;a href="https://www.facebook.com/coderdojo.musashikosugi" rel="nofollow"&gt;https://www.facebook.com/coderdojo.musashikosugi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;※2023年より大人を中心としたチームで「つくばチャレンジ」に参加しており、その開発メンバーも一緒にプログラミングしたり開発に関連する活動で参加します。興味のある方は当日ご参加の上ご質問下さい。定員オーバーの場合はキャンセル待ち登録してください。&lt;/p&gt;
-&lt;h1&gt;開催日時&lt;/h1&gt;
-&lt;p&gt;2026年6月6日(土) 13:15開場　13:30〜15:55開催 ※16:00終了 (16:10閉室)
-※遅刻・途中退出もOKです！&lt;/p&gt;
-&lt;h1&gt;タイムテーブル（当日変更になる場合があります）&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;(13:00 運営準備開始）&lt;/li&gt;
-&lt;li&gt;13:15　開場 会場にて受付開始、ニックネーム・やりたいこと記入、パソコンやWiFi準備・タイピング練習など&lt;/li&gt;
-&lt;li&gt;13:30～13:40ごろ開始　&lt;/li&gt;
-&lt;li&gt;CoderDojo武蔵小杉とは？&lt;/li&gt;
-&lt;li&gt;自己紹介&lt;/li&gt;
-&lt;li&gt;14:00-14:30レクチャー&amp;amp;ワークショップ&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ロボットプログラミングをやってみよう！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;14:30～15:40 自由時間（Scratch、toio、micro:bit、マインクラフト、Unity、ロボット工作など）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;発表タイム&lt;/li&gt;
-&lt;li&gt;15:55ごろから片付け&lt;/li&gt;
-&lt;li&gt;16:00退室 (16:10までに閉室)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;開催場所&lt;/h1&gt;
-&lt;p&gt;かわさき市民活動センター 会議室A/B&lt;/p&gt;
-&lt;p&gt;〒211-0004 神奈川県川崎市中原区新丸子東3-1100-12
-川崎市中原市民館1階奥&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www2.kawasaki-shiminkatsudo.or.jp/volunt/shisetsu/map/#target_access" rel="nofollow"&gt;アクセス情報はこちら&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;無料駐輪場あり&lt;/li&gt;
-&lt;li&gt;無料駐車場あり（機械式駐車場・駐車券をセンター受付で精算する必要があります）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※状況によって事前通知の上オンライン（Zoom等のWeb会議形式）での開催となる場合があります&lt;/p&gt;
-&lt;h1&gt;参加対象&lt;/h1&gt;
-&lt;p&gt;下記すべてを満たす方：&lt;/p&gt;
-&lt;h2&gt;参加者（CoderDojo名称：ニンジャ）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;みんなで楽しく活動できる方&lt;/li&gt;
-&lt;li&gt;川崎市中原区や武蔵小杉に"自称"縁のある（非在住・非在勤でもOK）小中学生のお子さまと保護者の方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※小学校4年生以上の方：初参加～2回目までは必ず保護者同伴にてご参加ください&lt;/p&gt;
-&lt;p&gt;※小学校3年生までの方：保護者の方は常時同伴にてご参加ください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;できればご自分でパソコンやタブレットなどプログラミングができる端末を持ち込める方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※難しい場合は数に限りがありますが貸し出しを検討しますのでご相談ください&lt;/p&gt;
-&lt;p&gt;※ロボットトイtoioの「トイオ・プレイグラウンド」などパソコンを使わないプログラミングおもちゃも準備予定です&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;グループワーク、準備・片付けや安全管理に協力いただける方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CoderDojo武蔵小杉の活動報告（各種イベントやプレゼンテーション）や情報発信（SNS・Webサイト・YouTube等）にお顔や活動内容が掲載されても問題ないと事前に保護者の方に同意いただける方
-　※イベント中はニックネームを使用し、本名が出ないように配慮いたします&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;メンター（指導・アドバイスのボランティア）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;みんなで楽しく活動できる方&lt;/li&gt;
-&lt;li&gt;ボランティアでプログラミングや工作・発明などに関してアドバイスにご協力いただける方&lt;/li&gt;
-&lt;li&gt;プログラミングの基礎知識がありScratch等の子ども向けプログラミング環境を使ったことがある方&lt;/li&gt;
-&lt;li&gt;お子さんとの交流や地域活動の活性化に興味のある方&lt;/li&gt;
-&lt;li&gt;グループワーク、準備・片付けや個人情報管理・安全管理に協力いただける方&lt;/li&gt;
-&lt;li&gt;CoderDojo武蔵小杉の活動報告（各種イベントやプレゼンテーション）や情報発信（SNS・Webサイト・YouTube等）にお顔や活動内容が掲載されても問題ないと事前に同意いただける方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;参加申し込みについて&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;本Connpassの各回のイベントページよりお申し込みください。&lt;/li&gt;
-&lt;li&gt;小学生のお子様は保護者の方がお申し込みください。&lt;/li&gt;
-&lt;li&gt;参加費：無料
- ※任意：会場の運営費補助を目的とした募金箱を設置しています（小銭のみ投入可・PayPayでもOK）ので可能な方はご協力ください&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;必要なもの・持ち物&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;WiFi接続可能なノートパソコンやタブレット（iPad/Chromebook推奨）などの端末・キーボード付き推奨
-　※端末が無い方は2、3台貸出可能なPCを用意できる場合がありますのでご相談ください。
-　※会場にフリーWifiもありますが、ポケットWifiをお持ちの方はご持参頂けると嬉しいです&lt;/li&gt;
-&lt;li&gt;筆記用具（ノート、鉛筆等）&lt;/li&gt;
-&lt;li&gt;水分補給用の水など&lt;/li&gt;
-&lt;li&gt;（任意）工作などを楽しみたい方は必要な素材や道具（危険な素材や工具はご遠慮ください）&lt;/li&gt;
-&lt;li&gt;過去参加したことがある方は「CoderDojo武蔵小杉参加カード」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;感染症対策について&lt;/h1&gt;
-&lt;p&gt;感染状況や自治体・政府要請状況により、現地開催をキャンセルしてオンライン開催になる場合があります。
-開催時間1時間前までに開催可否の連絡を Connpass を通じてメールでご連絡致します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加される方は、必要な感染症対策を実施の上、無理ない形でご参加ください。&lt;/li&gt;
-&lt;li&gt;以下に該当する場合は参加をご遠慮ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;・体温が37.5℃以上の方&lt;/p&gt;
-&lt;p&gt;・感染症罹患者・濃厚接触者、またはご家族で体調がすぐれない方がいる場合&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加時は会場入口に備え付けの検温計での体温測定とアルコール消毒にご協力ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;会場内での注意について&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;参加者同士の円滑で楽しい交流にご協力ください。&lt;/li&gt;
-&lt;li&gt;広報活動のため様子を写真・動画で撮影させていただきますのであらかじめご了承ください。&lt;/li&gt;
-&lt;li&gt;会場内での飲み物は水分補給目的のみとし、食べ物はご遠慮ください（会議室外のロビー等でお願いします）。&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;電子機器の損傷を防ぐため、水分補給は機器から離れてお願いします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;貴重品や機器の管理は自己管理にてお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;紛失・破損に対して運営や団体としての責任は一切負いかねますのでご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;トラブルや不測の事態などにより運営側で必要と判断した場合は、回を途中で終了したり、個別に退出をお願いする場合があります。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;その他、かわさき市民活動センター（または当日の会場）の利用規約・ルールに沿った利用をお願いします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;運営について&lt;/h1&gt;
-&lt;p&gt;全国のDojoはボランティアの方のご協力と、寄付で運営を行なっています。
-CoderDojo武蔵小杉でも以下ご協力頂けると嬉しいです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;子どもたちのプログラミングをサポートして頂ける方（教えるというよりは一緒に考えて楽しんで頂ける方）&lt;/li&gt;
-&lt;li&gt;子どもたちに色々なサンプルやでデモを見せて頂ける方&lt;/li&gt;
-&lt;li&gt;カンパ・寄付いただける方（会場に募金箱を置き、消耗品代・場所代（3,200円/回）に充当させて頂きます）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;代表者（CoderDojo名称：チャンピオン）：&lt;a href="https://www.facebook.com/akichika.tanaka" rel="nofollow"&gt;田中章愛&lt;/a&gt;、&lt;a href="https://www.facebook.com/happy.happy.children/" rel="nofollow"&gt;村瀬キノコ&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-musashikosugi.connpass.com/event/392851/</guid><enclosure url="https://media.connpass.com/thumbs/9a/9a/9a9a62f50cedc23346b481feca8a6f42.png" length="0" type="image/png"/><pubDate>Sat, 02 May 2026 15:33:44 +0900</pubDate></item><item><title>CoderDojo横浜師岡（第44回）</title><link>https://coderdojo-morooka.connpass.com/event/394147/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月7日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月7日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 横浜市師岡コミュニティハウス&lt;/li&gt;&lt;li&gt;🏢 住所: 横浜市港北区師岡町700番地 トレッサ横浜 南棟3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;横浜市港北区師岡（モロオカ）で活動するボラインティアによるプログラミングクラブ。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojoについて&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 06 Jun 2026 16:01:32 +0000</lastBuildDate><item><title>CoderDojo横浜師岡（第44回）</title><link>https://coderdojo-morooka.connpass.com/event/394147/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月7日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月7日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 横浜市師岡コミュニティハウス&lt;/li&gt;&lt;li&gt;🏢 住所: 横浜市港北区師岡町700番地 トレッサ横浜 南棟3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;横浜市港北区師岡（モロオカ）で活動するボラインティアによるプログラミングクラブ。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojoについて&lt;/h1&gt;
 &lt;p&gt;CoderDojo（コーダー道場）は7~17歳を対象とした非営利のプログラミングクラブです。2011年にアイルランドで始まり、世界では112カ国・2,200以上の道場、日本には200以上の道場があります。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://coderdojo.com" rel="nofollow"&gt;CoderDojo&lt;/a&gt;&lt;/li&gt;
@@ -692,9 +442,9 @@ CoderDojo武蔵小杉でも以下ご協力頂けると嬉しいです。&lt;/p&g
 &lt;li&gt;14:15 開場&lt;/li&gt;
 &lt;li&gt;14:30 自己紹介・アイスブレイク&lt;/li&gt;
 &lt;li&gt;14:45 近況報告LT / 三浦半島.rb グッズの作戦会議&lt;/li&gt;
-&lt;li&gt;15:45 技術書をみんなで持ち寄って話す会&lt;/li&gt;
-&lt;li&gt;16:45 撤収準備開始  &lt;/li&gt;
-&lt;li&gt;17:00 完全撤収&lt;/li&gt;
+&lt;li&gt;16:00 技術書をみんなで持ち寄って話す会&lt;/li&gt;
+&lt;li&gt;17:45 撤収準備開始  &lt;/li&gt;
+&lt;li&gt;18:00 完全撤収&lt;/li&gt;
 &lt;li&gt;(自由参加) 本編終了後、会場近くのお店で懇親会を行う予定です。&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;サブイベント形式での参加方式としています！懇親会に参加予定の方は 本イベント内のサブイベント(ページ下部)にご登録ください！&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -723,7 +473,7 @@ CoderDojo武蔵小杉でも以下ご協力頂けると嬉しいです。&lt;/p&g
 &lt;ul&gt;
 &lt;li&gt;質問・疑問などは主催者へのDM、もしくは ハッシュタグ #miurahantorb を付けて tweetでご連絡ください。&lt;/li&gt;
 &lt;li&gt;三浦半島.rbはRubyや技術を軸にしたコミュニティです。知識の共有および、参加者同士の交流を目的としない参加はお断りしています。 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルする場合があります。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://miurahantorb.connpass.com/event/392828/</guid><enclosure url="https://media.connpass.com/thumbs/f9/43/f9435400fddddc32f6f834148fc87de6.png" length="0" type="image/png"/><pubDate>Thu, 07 May 2026 10:22:53 +0900</pubDate></item><item><title>メタデータとAIが支える次世代モデリング</title><link>https://benkyoenkai.connpass.com/event/394833/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 加瀬の会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 横浜市港北区新横浜3-19-11 加瀬ビル88 2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(第107回IT勉強宴会in新横浜）意味からビジネスを読み解く&lt;/p&gt;&lt;div&gt;&lt;p&gt;★連絡のため、勉強宴会の&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfxesLCTXf9Ae4sHXPKkTHedK243TpZ0rwJE_CsWy35c6dpCA/viewform" rel="nofollow"&gt;メーリングリストに登録&lt;/a&gt;していただけると助かります★&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://miurahantorb.connpass.com/event/392828/</guid><enclosure url="https://media.connpass.com/thumbs/f9/43/f9435400fddddc32f6f834148fc87de6.png" length="0" type="image/png"/><pubDate>Sat, 06 Jun 2026 17:21:36 +0900</pubDate></item><item><title>メタデータとAIが支える次世代モデリング</title><link>https://benkyoenkai.connpass.com/event/394833/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月13日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月13日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 加瀬の会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 横浜市港北区新横浜3-19-11 加瀬ビル88 2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(第107回IT勉強宴会in新横浜）意味からビジネスを読み解く&lt;/p&gt;&lt;div&gt;&lt;p&gt;★連絡のため、勉強宴会の&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfxesLCTXf9Ae4sHXPKkTHedK243TpZ0rwJE_CsWy35c6dpCA/viewform" rel="nofollow"&gt;メーリングリストに登録&lt;/a&gt;していただけると助かります★&lt;/p&gt;
 &lt;h1&gt;メタデータとAIが支える次世代モデリング&lt;/h1&gt;
 &lt;h2&gt;意味からビジネスを読み解く&lt;/h2&gt;
 &lt;p&gt;AIの台頭により、データモデルは単なるテーブル定義から、ビジネスの「意味」を記述する言語へと進化しています。どれほど高度な技術や美しいデータモデルであっても、現場のビジネスに即していなければ真の価値を発揮しません。本セッションでは、メタデータやAIという先進技術を、いかに「現場で本当に使えるモデル」へと着地させるか、その実践的なアプローチを紐解きます。&lt;br&gt;
@@ -2710,7 +2460,71 @@ LT大会の話を聞いた後でサウナに入るのも、皆様ご自由にお
 ※ 終了後、近隣のお店に移動して有志で懇親会を行います&lt;/p&gt;
 &lt;h1&gt;懇親会&lt;/h1&gt;
 &lt;p&gt;懇親会の詳細については調整中です。18時〜20時を目安に開催予定です。
-別途メールにてご案内します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shonanka.connpass.com/event/394970/</guid><pubDate>Sun, 24 May 2026 11:32:49 +0900</pubDate></item><item><title>ぶらかな 横須賀編</title><link>https://kintonecafe-kanagawa.connpass.com/event/395611/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 13:30&lt;/li&gt;&lt;li&gt;📍 会場: YOKOSUKA軍港めぐり&lt;/li&gt;&lt;li&gt;🏢 住所: 横須賀市本町2-1-12&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;YOKOSUKA軍港めぐり&lt;/p&gt;&lt;div&gt;&lt;h2&gt;ぶらかな&lt;/h2&gt;
+別途メールにてご案内します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shonanka.connpass.com/event/394970/</guid><pubDate>Sun, 24 May 2026 11:32:49 +0900</pubDate></item><item><title>AI駆動開発ゆるもく会@横浜</title><link>https://solo-dev-guild.connpass.com/event/396489/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: Brenz横浜&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市西区高島2丁目11−2 スカイメナ横浜308号室&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;AIを活用しながら個人開発を進めるエンジニア向けの、ゆるいもくもく作業会です。
+Cursor / Claude Code / GitHub Copilot / ChatGPT / Gemini / Devin など、AI開発ツールを使っている方、これから試してみたい方、個人開発を進めたい方が集まって、それぞれ作業したり、詰まっていることを相談したり、便利だった使い方を共有したりする場です。&lt;/p&gt;
+&lt;h2&gt;こんな人におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AIを使って個人開発を進めているエンジニア&lt;/li&gt;
+&lt;li&gt;AI駆動開発に興味がある人&lt;/li&gt;
+&lt;li&gt;作業時間を確保したい人&lt;/li&gt;
+&lt;li&gt;他のエンジニアとゆるく交流したい人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日やること&lt;/h2&gt;
+&lt;p&gt;基本的には各自でもくもく作業します。&lt;/p&gt;
+&lt;p&gt;作業内容は自由です。&lt;/p&gt;
+&lt;p&gt;最後に、希望者ベースで軽く今日やったことを共有します。
+発表は必須ではありません。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 - 10:10&lt;/td&gt;
+&lt;td&gt;受付&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 - 10:20&lt;/td&gt;
+&lt;td&gt;趣旨説明・自己紹介・今日やること共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20 - 11:40&lt;/td&gt;
+&lt;td&gt;もくもく作業&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:40 - 11:55&lt;/td&gt;
+&lt;td&gt;今日やったことの共有・相談&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:55 - 12:00&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 途中参加・途中退出OKです。&lt;/p&gt;
+&lt;h2&gt;参加にあたって&lt;/h2&gt;
+&lt;p&gt;初参加歓迎です。&lt;/p&gt;
+&lt;p&gt;AI駆動開発に詳しくなくても問題ありません。
+すでにAIツールを使い込んでいる方はもちろん、これから試してみたい方、個人開発を始めたい方も歓迎です。
+「まだ作りたいものが固まっていない」
+「何を相談すればいいかわからない」
+「とりあえず雰囲気を見たい」
+という方も気軽に参加してください。&lt;/p&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;営業・採用・勧誘のみを目的とした参加はご遠慮ください。&lt;/li&gt;
+&lt;li&gt;他の参加者が安心して作業・相談できるよう、過度な宣伝や一方的な勧誘はお控えください。&lt;/li&gt;
+&lt;li&gt;会場や参加者への迷惑行為があった場合、退出をお願いすることがあります。&lt;/li&gt;
+&lt;li&gt;イベント内容は変更になる場合があります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;主催者より&lt;/h2&gt;
+&lt;p&gt;堅い勉強会ではなく、ゆるく作業しながら少し交流できる場にしたいです。
+AI駆動開発に興味がある方は、ぜひお気軽にご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://solo-dev-guild.connpass.com/event/396489/</guid><enclosure url="https://media.connpass.com/thumbs/60/d1/60d130c4a5e71cab3ea4aaab345ef3ab.png" length="0" type="image/png"/><pubDate>Sat, 06 Jun 2026 11:00:51 +0900</pubDate></item><item><title>ぶらかな 横須賀編</title><link>https://kintonecafe-kanagawa.connpass.com/event/395611/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 13:30&lt;/li&gt;&lt;li&gt;📍 会場: YOKOSUKA軍港めぐり&lt;/li&gt;&lt;li&gt;🏢 住所: 横須賀市本町2-1-12&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;YOKOSUKA軍港めぐり&lt;/p&gt;&lt;div&gt;&lt;h2&gt;ぶらかな&lt;/h2&gt;
 &lt;p&gt;kintone Café 神奈川は、神奈川県全市区町村開催を目指しています。&lt;br&gt;
 神奈川県民も、そうでない方も、&lt;br&gt;
 みなさんに神奈川県のいいところを知ってもらいたい、&lt;br&gt;
