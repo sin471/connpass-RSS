@@ -1,82 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 08 Jun 2026 17:43:49 +0000</lastBuildDate><item><title>第7回それいけ。AI ～仙台のLT会(2026年6月8日)</title><link>https://soreike-ai.connpass.com/event/394312/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月8日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月8日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目4-19アーバンネット仙台中央ビル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;https://note.com/yui_nos/n/n53c2fd54d255&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;a href="https://note.com/yui_nos/n/n53c2fd54d255" rel="nofollow"&gt;過去のイベントレポートはこちら&lt;/a&gt;&lt;/h2&gt;
-&lt;h2&gt;本イベントについて&lt;/h2&gt;
-&lt;p&gt;NTTアーバンソリューションズ(YUI NOS)とNECソリューションイノベータが共同開催するAIをテーマにしたLT会です。&lt;/p&gt;
-&lt;p&gt;「会社を超えた交流の場」「新しい技術・知識に触れる場」「仙台を盛り上げる」という3つの目標を掲げ、両社が持つ知見と情熱を知恵の交流に活かすために開催します。
-この場が単なる技術紹介以上に、参加者同士のネットワーク形成や、仙台という地域の発展へのヒントを得られるようにしてきたいです。&lt;/p&gt;
-&lt;h2&gt;当日タイムテーブル&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開場&lt;/span&gt;
-&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開始&lt;/span&gt;
-&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;35&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;&lt;span class="n"&gt;分&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;質問1分&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;1&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;2&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;3&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;4&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;6&lt;/span&gt;
-&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;集合写真撮影&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
-&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;交流会&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2&gt;その他&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;◇会場：YUI NOS  2Fコワーキングスペース
-◇注意
-・写真撮影 OK  (映り込みなど配慮してください。運営も使います)
-・SNS投稿  OK  (写真は本人の了承得てください)
-◇会場
-・2Fで受付をしてください。  入退出はスタッフに声掛けください。
-◇ルール
-・連続の発表はご遠慮ください。間隔を2回程度空けてください。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h1&gt;YUI NOS 施設利用 プライバシーポリシー&lt;/h1&gt;
-&lt;p&gt;プライバシーポリシーに従ってください。
-https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
-&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
-&lt;p&gt;イベントに参加するみなさんは以下のポリシーを遵守するように心がけてください。
-(TokyoGirls.rb アンチハラスメントポリシーを参考にさせていただきました。ありがとうございます。）&lt;/p&gt;
-&lt;h2&gt;当ポリシーの目的と適用範囲&lt;/h2&gt;
-&lt;p&gt;当ポリシーは、イベントの参加者全員が楽しく、安全に集える場を維持するために策定されました。&lt;/p&gt;
-&lt;p&gt;「参加者全員が楽しく、安全に集える場を維持する」という目的には、「将来開催されるイベントについてもみなさんが不安や心配を感じることなく、気軽に参加できること」も含まれています。&lt;/p&gt;
-&lt;p&gt;よって、当ポリシーはイベント会場内の発言や行動だけでなく、イベント終了後に発生した参加者同士のコミュニケーションや、SNS・ブログ等での情報発信（このイベントに関するもの）に対しても適用されます。&lt;/p&gt;
-&lt;h2&gt;対象者&lt;/h2&gt;
-&lt;p&gt;イベントに関わる人たちは誰もが対等です。よって、当ポリシーはイベントに関わる、以下の全員が対象になります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加者&lt;/li&gt;
-&lt;li&gt;登壇者&lt;/li&gt;
-&lt;li&gt;スポンサー&lt;/li&gt;
-&lt;li&gt;運営スタッフ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当ポリシーでは、上記全員をまとめて「参加者」と表現します。ですので、「参加者」の中には登壇者やスポンサー、運営スタッフも含まれる点にご注意ください。&lt;/p&gt;
-&lt;h2&gt;ハラスメントの観点&lt;/h2&gt;
-&lt;p&gt;ハラスメント（他人を困らせる行為や嫌がらせ）の観点には、以下のような例があります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ジェンダー、性自認やジェンダー表現、性的指向&lt;/li&gt;
-&lt;li&gt;障がい&lt;/li&gt;
-&lt;li&gt;外見、身体的特徴&lt;/li&gt;
-&lt;li&gt;人種、民族、国籍&lt;/li&gt;
-&lt;li&gt;年齢&lt;/li&gt;
-&lt;li&gt;宗教&lt;/li&gt;
-&lt;li&gt;特定のツールや技術、プログラミング言語と、その愛好者またはコミュニティ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ただし、上記の観点はあくまで一例です。上記以外の観点であっても、参加者が不快、不安に感じる発言や行動はハラスメントとみなされます。&lt;/p&gt;
-&lt;h2&gt;禁止行為&lt;/h2&gt;
-&lt;p&gt;上記の観点に対する、以下のような行為を禁止します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;攻撃的、非建設的、過剰に批判的な発言や揶揄（やゆ）&lt;/li&gt;
-&lt;li&gt;脅迫、ストーキング、つきまとい&lt;/li&gt;
-&lt;li&gt;不適切な身体的接触&lt;/li&gt;
-&lt;li&gt;性的な関心を引く行為（性的な画像の掲示や、性的なコスチュームの着用等）&lt;/li&gt;
-&lt;li&gt;ジェンダーを強く意識させるコンテキストで、特定の個人をほめたたえる行為&lt;/li&gt;
-&lt;li&gt;その他、スタッフがハラスメントであると判断した行為&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;言うまでもありませんが、性的なハラスメントについては男性から女性に対してだけではなく、女性から男性に対するハラスメントも禁止です。&lt;/p&gt;
-&lt;h2&gt;ハラスメントを受けたら、判断に迷ったら&lt;/h2&gt;
-&lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
-&lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
-&lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/394312/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Mon, 18 May 2026 21:50:33 +0900</pubDate></item><item><title>第53回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/393841/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月10日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月10日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace 5A1&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 09 Jun 2026 17:18:33 +0000</lastBuildDate><item><title>第53回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/393841/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月10日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月10日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace 5A1&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
 &lt;p&gt;仙台周辺のGo言語のコミュニティです。&lt;/p&gt;
 &lt;p&gt;プログラミング言語 Go に関するテックトークなどのイベントをやっています。 &lt;/p&gt;
 &lt;p&gt;技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるgopher達の拠り所を目指しています。&lt;/p&gt;
@@ -367,7 +290,7 @@ LTやOSTのテーマはアジャイルやスクラムに関する話なら何で
 &lt;/ul&gt;
 &lt;p&gt;4階に下りられましたら、北側にお進みください。&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://lh3.googleusercontent.com/pw/AP1GczO3W5yQA6m76nl1KRA0Rw2DJHYSnn92d8g3rjR22VjhKdDfyfas0MMEJ6onnn9t_9_s_9Tt_NEZNyYs5xTY9reFrM3_P4fMthJwwTxHqjNbAc0bIyWOvRHfUSEsEQMPSizNK63206Lht_HxO7P290owDw=w1301-h911-s-no-gm" width="400"&gt;  &lt;br&gt;
-※ X (旧 Twitter)でのイベントに関する投稿も大歓迎です！ ハッシュタグ：[#ZUNDA-IT]&lt;br&gt;
+※ X (旧 Twitter)でのイベントに関する投稿も大歓迎です！ ハッシュタグ：[#ZUNDAIT]&lt;br&gt;
 ※ 参加は無料です  &lt;/p&gt;
 &lt;h1&gt;タイムテーブル&lt;/h1&gt;
 &lt;table&gt;
@@ -401,7 +324,7 @@ LTやOSTのテーマはアジャイルやスクラムに関する話なら何で
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:30 - 19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;「仙台ITエンジニア下請けマニュアル2026 春」or&lt;br&gt;「てらだよしお氏の勉強会振り返り ～githubリポジトリを覗いてみよう～」or&lt;br&gt;「Androidアプリ「きんたいさん」の終活を考える &lt;br&gt;     ～AI台頭による開発モチベ低下に抗えるのか～」&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;てらだよしお氏の勉強会振り返り ～githubリポジトリを覗いてみよう～&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;みかみん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -446,14 +369,9 @@ LTやOSTのテーマはアジャイルやスクラムに関する話なら何で
 &lt;p&gt;記号論理とプログラミングの関係性の話です&lt;/p&gt;
 &lt;h2&gt;復活のVAIO Type-P セカンドシーズン&lt;/h2&gt;
 &lt;h4&gt;発表者 ヒズミ&lt;/h4&gt;
-&lt;h2&gt;優柔不断なので決められていません。3つのうちのどれか。&lt;/h2&gt;
+&lt;h2&gt;てらだよしお氏の勉強会振り返り ～githubリポジトリを覗いてみよう～&lt;/h2&gt;
 &lt;h4&gt;発表者 みかみん&lt;/h4&gt;
-&lt;h5&gt;仙台ITエンジニア下請けマニュアル2026 春&lt;/h5&gt;
-&lt;p&gt;仙台のITエンジニアとして強く逞しく生き抜く術を授けます&lt;/p&gt;
-&lt;h5&gt;てらだよしお氏の勉強会振り返り ～githubリポジトリを覗いてみよう～&lt;/h5&gt;
 &lt;p&gt;1月に弊社で開催した勉強会の振り返りを行います&lt;/p&gt;
-&lt;h5&gt;Androidアプリ「きんたいさん」の終活を考える ～AI台頭による開発モチベ低下に抗えるのか～&lt;/h5&gt;
-&lt;p&gt;AIの台頭により、「もうみんな各々自由にアプリを作ればいいじゃん。俺が作る必要はないよ」と開発モチベーションの落ちたエンジニアが、アプリの今後とどう向き合っていくのかを語ります。&lt;/p&gt;
 &lt;h1&gt;登壇者情報（順次更新）&lt;/h1&gt;
 &lt;h2&gt;quintia&lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/b5/44/b544a57733cbc1d0c32a84f2f92d2bb7.png"&gt;  &lt;/p&gt;
@@ -486,7 +404,7 @@ LTやOSTのテーマはアジャイルやスクラムに関する話なら何で
 セミナーやワークショップに適した設備を備え、企業・自治体・学生など幅広い参加者が集う “DX の学びと実践の場” として利用されています。&lt;/p&gt;
 &lt;h1&gt;ZUNDA-IT コミュニティガイドライン&lt;/h1&gt;
 &lt;p&gt;皆様が安心してイベントにご参加いただけるよう、事前にご一読をお願いいたします。&lt;br&gt;
-&lt;a href="https://zunda-it.github.io/" rel="nofollow"&gt;https://zunda-it.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/392558/</guid><enclosure url="https://media.connpass.com/thumbs/71/32/71324b627490cfb552c30a4c580fa51e.png" length="0" type="image/png"/><pubDate>Fri, 05 Jun 2026 17:38:40 +0900</pubDate></item><item><title>Sendai Frontend Meetup #22</title><link>https://sfeug.connpass.com/event/394290/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;a href="https://zunda-it.github.io/" rel="nofollow"&gt;https://zunda-it.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/392558/</guid><enclosure url="https://media.connpass.com/thumbs/71/32/71324b627490cfb552c30a4c580fa51e.png" length="0" type="image/png"/><pubDate>Tue, 09 Jun 2026 21:47:31 +0900</pubDate></item><item><title>Sendai Frontend Meetup #22</title><link>https://sfeug.connpass.com/event/394290/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sfeug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;フロントエンドの話題で盛り上がりましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;仙台で行うWebフロントエンド全般の勉強会です。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;オンライン配信の予定はありません。&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;技術だけでなくUXやデザインの話もしていければと考えています！&lt;/p&gt;
