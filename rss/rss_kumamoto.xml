@@ -1,5 +1,179 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 10 Jun 2026 17:52:55 +0000</lastBuildDate><item><title>第2回ハンズオン勉強会 Claude Code 深掘り（Pro以上契約必須）</title><link>https://cdle-kumamoto.connpass.com/event/394625/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: xoss point.&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1　くまもと森都心プラザ2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CLAUDE.md / Hooks / Permission / などによる業務組み込み実践&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第2回ハンズオン勉強会 Claude Code 深掘り（Pro以上契約必須）&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 11 Jun 2026 18:08:22 +0000</lastBuildDate><item><title>【ハンズオン】自分の声を真似させる音声合成AI Irodori-TTSでLINE Botに喋らせよう</title><link>https://linedevelopercommunity.connpass.com/event/396931/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月17日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月17日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: アルサーガパートナーズ 新市街オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区新市街8番7 (TERRACE87ビル2F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LINEDC&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;無料・商用利用可のローカルAI「Irodori-TTS v3」とLINEでBot構築&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;「好きな人の声でLINE Botに喋らせたい」&lt;br&gt;
+「ローカルで動く音声合成AIを試してみたい」&lt;br&gt;
+「クラウドAPIに頼らず、無料で音声生成し放題の環境がほしい」&lt;/p&gt;
+&lt;p&gt;そんな要望に応えるのが、2026年に登場した日本語特化のローカル音声合成AI &lt;strong&gt;&lt;a href="https://gigazine.net/news/20260607-irodori-tts-v3/" rel="nofollow"&gt;Irodori-TTS v3&lt;/a&gt;&lt;/strong&gt; です。&lt;/p&gt;
+&lt;p&gt;Aratako氏が個人で開発した、&lt;strong&gt;500Mパラメータの軽量モデル&lt;/strong&gt;ながら、日本語の自然な発話を生成できる驚異のローカルAI。
+v3では、&lt;strong&gt;絵文字での感情制御&lt;/strong&gt;、&lt;strong&gt;音声長の指定&lt;/strong&gt;、そして&lt;strong&gt;参考音声を渡すだけで声色をコピー&lt;/strong&gt;できる機能が加わりました。&lt;/p&gt;
+&lt;p&gt;しかも、ライセンスは&lt;strong&gt;MIT(商用利用OK・ロイヤリティフリー)&lt;/strong&gt;。
+他の音声合成AIが「学術研究のみ」と縛られる中で、Irodori-TTSは作品制作からビジネス利用まで自由に使えます。&lt;/p&gt;
+&lt;p&gt;本ハンズオンでは、このIrodori-TTS v3を &lt;strong&gt;LINE Messaging API&lt;/strong&gt; と組み合わせ、
+「&lt;strong&gt;テキストを送ると、好きな声で音声メッセージが返ってくるLINE Bot&lt;/strong&gt;」を作ります。&lt;/p&gt;
+&lt;h1&gt;注意:「時間がかかる」という体験について&lt;/h1&gt;
+&lt;p&gt;Irodori-TTS v3は、GPUがあれば数秒で音声を生成できます。
+ですが今回はあえて、&lt;strong&gt;GitHub Codespaces(CPU環境)&lt;/strong&gt;で動かします。理由は、&lt;strong&gt;誰もが自分のPCに何も入れずブラウザだけで参加できる&lt;/strong&gt;ようにするためです。&lt;/p&gt;
+&lt;p&gt;その結果、1音声の生成に &lt;strong&gt;約2分&lt;/strong&gt; かかります。&lt;/p&gt;
+&lt;p&gt;「ハンズオン中に2分待つ?」と思うかもしれませんが、これはこれで体験の一部です。
+&lt;strong&gt;音声がじわじわ生成されていく時間を、参加者みんなで雑談しながら待つ。&lt;/strong&gt;
+生成された音声を聴いて「おお〜!」と盛り上がる。そんな&lt;strong&gt;ローカルAI黎明期ならではの体験&lt;/strong&gt;を楽しむ回として企画しました。&lt;/p&gt;
+&lt;p&gt;待ち時間も含めて、ローカル生成AIの「重さ」と「自由さ」を体感してください。&lt;/p&gt;
+&lt;h1&gt;このハンズオンで作るもの&lt;/h1&gt;
+&lt;p&gt;LINE Bot に「こんにちは」とメッセージを送ると…&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Codespaces上のIrodori-TTSがテキストを受信&lt;/li&gt;
+&lt;li&gt;参考音声(誰の声でもOK!)を元に、その声色で「こんにちは」の音声を生成&lt;/li&gt;
+&lt;li&gt;LINE Botから音声メッセージとして返信&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;絵文字で感情をつけることもできるので、「こんにちは😊」と送ると明るめの声に、「こんにちは😢」と送ると沈んだ声に、といった調整も。&lt;/p&gt;
+&lt;h1&gt;こんな方におすすめ&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ローカルで動く音声合成AIを試してみたい方&lt;/li&gt;
+&lt;li&gt;LINE Botに音声機能を組み込んでみたい方&lt;/li&gt;
+&lt;li&gt;商用利用OKの音声合成ツールを探していた方&lt;/li&gt;
+&lt;li&gt;「自分の声」「好きな声」をAIに喋らせる体験をしてみたい方&lt;/li&gt;
+&lt;li&gt;GPU環境がなくてもAI実験をしたい方&lt;/li&gt;
+&lt;li&gt;生成AIの「待ち時間」も含めて楽しめる方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;事前準備&lt;/h1&gt;
+&lt;p&gt;①LINEのセットアップ&lt;/p&gt;
+&lt;p&gt;https://zenn.dev/protoout/articles/16-line-bot-setup&lt;/p&gt;
+&lt;p&gt;②GitHub Codespacesのセットアップ&lt;/p&gt;
+&lt;p&gt;https://zenn.dev/protoout/books/16-github-codespaces-manual&lt;/p&gt;
+&lt;p&gt;③(任意)参考音声用のwavファイル
+当日はサンプル音声を用意していますが、自分で用意した音声ファイル(数秒〜10秒程度のwav)があると、より楽しめます。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注: 他人の声を無断で使うのはトラブルの元です。&lt;strong&gt;自分の声&lt;/strong&gt;または&lt;strong&gt;著作権上問題のない音声&lt;/strong&gt;を使ってください。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;① GitHub Codespacesのセットアップ
+   ブラウザ上のクラウド開発環境を立ち上げる(インストール不要)
+
+② Irodori-TTS v3の環境構築
+   uv + Hugging Face からモデルダウンロード
+
+③ コマンドラインで音声生成を試す
+   参考音声を渡して、声色コピーの体験
+   絵文字感情制御を体験
+
+④ LINE Botと接続
+   Webhook → Irodori-TTS → 音声生成 → LINEに返信、のフロー構築
+
+⑤ 自由実験タイム
+   みんなで色んなセリフ・色んな声を試す
+   ※生成待ち時間中は雑談しながら楽しみましょう
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;タイムライン&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;担当&lt;/th&gt;
+&lt;th&gt;目安&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00〜&lt;/td&gt;
+&lt;td&gt;オープニング・自己紹介&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;10分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10〜19:20&lt;/td&gt;
+&lt;td&gt;Irodori-TTSとは・v3の新機能紹介&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;td&gt;20分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:20〜19:50&lt;/td&gt;
+&lt;td&gt;Codespaces &amp;amp; Irodori-TTS 環境構築&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;td&gt;30分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:50〜20:10&lt;/td&gt;
+&lt;td&gt;コマンドラインで音声生成体験(声色・絵文字)&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;td&gt;30分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:10〜20:40&lt;/td&gt;
+&lt;td&gt;LINE Bot連携の構築&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;td&gt;40分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:40〜20:55&lt;/td&gt;
+&lt;td&gt;自由実験・成果共有&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;15分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:55〜21:00&lt;/td&gt;
+&lt;td&gt;クロージング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;5分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※音声生成に時間がかかるため、待ち時間は雑談・質疑応答タイムとして活用します。&lt;/p&gt;
+&lt;h2&gt;費用について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;参加費: 無料。ツール利用費も無料を目指します。&lt;/li&gt;
+&lt;li&gt;Irodori-TTS は&lt;strong&gt;MITライセンス&lt;/strong&gt;で商用利用OK。&lt;/li&gt;
+&lt;li&gt;GitHub Codespacesの個人無料枠で動かせます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;他人の声を無断で参考音声として使うのは、肖像権・パブリシティ権の観点から問題になり得ます。&lt;strong&gt;自分の声&lt;/strong&gt;または&lt;strong&gt;著作権上問題のない音声&lt;/strong&gt;を使ってください。&lt;/li&gt;
+&lt;li&gt;生成された音声を公開・販売する場合は、Irodori-TTS v3のライセンス(&lt;a href="https://huggingface.co/Aratako/Irodori-TTS-500M-v3" rel="nofollow"&gt;MIT&lt;/a&gt;)を確認してください(商用利用OKですが、表記等のお作法はあります)。&lt;/li&gt;
+&lt;li&gt;Codespacesの無料枠を使い切らないよう、ハンズオン中以外はインスタンスを止めることをおすすめします。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;企画運営・講師紹介&lt;/h1&gt;
+&lt;h3&gt;菅原 のびすけ(すがわら・のびすけ) Twitter : &lt;a href="https://x.com/n0bisuke" rel="nofollow"&gt;https://x.com/n0bisuke&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://gs.dhw.ac.jp/hubfs/images/faculty/faculty_nobisuke_img02.jpg" width="300px"&gt;&lt;/p&gt;
+&lt;p&gt;プロトタイピング専門スクール「プロトアウトスタジオ」プロデューサー。
+1989年生まれ。岩手県立大学在籍時にITベンチャー企業の役員を務める。同大学院を卒業後、株式会社LIGにWebエンジニアとして入社し、Web制作に携わる。2016年7月よりdotstudio株式会社を立ち上げ、IoT・モノづくり領域を中心とした研修や教育業に携わっている。2019年4月にプロトタイピング専門スクール「プロトアウトスタジオ」を立ち上げる。2018年4月よりデジタルハリウッド大学大学院の非常勤講師も務めている。
+日本最大規模のIoTコミュニティであるIoTLTの主催、Microsoft MVP Visual Studio and Development Technologies (Node.js)、IBM Champion、世界で22名の第1期LINE API Expertsの一人。&lt;/p&gt;
+&lt;h1&gt;イベント詳細&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時: 2026/06/17(火) 19:00〜21:00&lt;/li&gt;
+&lt;li&gt;定員: 現地10〜15名(先着順)/ オンライン無制限&lt;/li&gt;
+&lt;li&gt;参加費: ハンズオン無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;現地会場参加方法&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;アルサーガパートナーズ 新市街オフィス&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;住所: 熊本県熊本市中央区新市街8番7 TERRACE87ビル2F&lt;/li&gt;
+&lt;li&gt;熊本市電 辛島町駅より徒歩約2分&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.arsaga.jp/news/pressrelease-new-office-in-kumamoto/" rel="nofollow"&gt;https://www.arsaga.jp/news/pressrelease-new-office-in-kumamoto/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;オンライン参加方法&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpassにお申し込みいただくと、参加者欄にURLが表示されます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主催: &lt;a href="https://linedevelopercommunity.connpass.com/" rel="nofollow"&gt;LINE Developer Community&lt;/a&gt;
+協力: アルサーガパートナーズ(会場提供)&lt;/p&gt;
+&lt;h2&gt;Youtube チャンネルへの登録よろしくおねがいします!&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1" rel="nofollow"&gt;http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;コミュニティ行動規範(Code of Conduct)について&lt;/h2&gt;
+&lt;p&gt;本コミュニティは参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
+そのために、以下のような行為は禁止されております。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ヘイトスピーチ&lt;/li&gt;
+&lt;li&gt;性的な言葉や画像、性別に言及したり、性別により受け取り方の変わる言葉や画像の使用&lt;/li&gt;
+&lt;li&gt;侮辱や軽蔑的、中傷や他者を貶めるような発言&lt;/li&gt;
+&lt;li&gt;他者のプライバシーや私的な情報の無許可での公開&lt;/li&gt;
+&lt;li&gt;その他多様性への配慮を著しく欠く発言や行動&lt;/li&gt;
+&lt;li&gt;食事のみを目的とした参加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
+&lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。
+X @linedc_jp
+E-mail: linedevcom@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/396931/</guid><enclosure url="https://media.connpass.com/thumbs/7e/fa/7efa1ad5278e1fd3959ee0b8f10fd6a6.png" length="0" type="image/png"/><pubDate>Thu, 11 Jun 2026 20:40:12 +0900</pubDate></item><item><title>第2回ハンズオン勉強会 Claude Code 深掘り（Pro以上契約必須）</title><link>https://cdle-kumamoto.connpass.com/event/394625/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: xoss point.&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1　くまもと森都心プラザ2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CLAUDE.md / Hooks / Permission / などによる業務組み込み実践&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第2回ハンズオン勉強会 Claude Code 深掘り（Pro以上契約必須）&lt;/h1&gt;
 &lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;第1回で &lt;strong&gt;AIエージェントの全体地図&lt;/strong&gt;（Claude Code / Codex CLI / Gemini CLI / NotebookLM）をご覧いただきました。&lt;br&gt;
 第2回は &lt;strong&gt;Claude Code を深く触る回&lt;/strong&gt; です。「触ったことはあるが業務利用は怖い」段階を越え、&lt;strong&gt;自分のリポジトリで安全に Claude Code を運用できる装備一式&lt;/strong&gt; を持ち帰っていただきます。&lt;br&gt;
