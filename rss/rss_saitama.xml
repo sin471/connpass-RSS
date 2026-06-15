@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 14 Jun 2026 16:16:07 +0000</lastBuildDate><item><title>OWASP Saitama MTG #32</title><link>https://owaspsaitama.connpass.com/event/391727/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月15日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月15日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 活樹ふれあいキューブ マツナガ 6F 会議室5&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県春日部市南1丁目1-7&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OWASP_Saitama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サイバーセキュリティに関する勉強会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;OWASP Saitama MTGとは&lt;/h2&gt;
-&lt;p&gt;セキュリティ向上に貢献しようという地元有志がさいたま市あるいは春日部市に集まって開く、 OWASP Saitama チャプターの定例勉強会です。セキュリティに携わる幅広い分野の方をスピーカーとしてお呼びして開催します。職種・経験・年齢・性別・国籍などは一切問いません。どなたでもご参加ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加費は無料です。Skytalksについても無料です。&lt;/li&gt;
-&lt;li&gt;懇親会について: 3000円（※学生半額、スピーカー無料）となります。&lt;/li&gt;
-&lt;li&gt;お仕事のご都合等にあわせて自由に参加できるよう入退室自由です&lt;/li&gt;
-&lt;li&gt;お飲み物は忘れずにお持ちください（オンライン参加の方）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※注1: 当チャプターではスピーカーが明示的に許可した場合を除き、トークセッションの録音・録画・内容公開は原則禁止とさせていただいております（チャタムハウスルールを適用しています）。ご参加の際にはご注意のほどどうぞよろしくお願いいたします。&lt;br&gt;
-※注2: 2026年から &lt;strong&gt;偶数月第3月曜日&lt;/strong&gt; 開催となっています。日程にご注意ください。&lt;/p&gt;
-&lt;h2&gt;ハイブリッド開催 (オフライン＋オンライン) です&lt;/h2&gt;
-&lt;p&gt;当面の間ハイブリッド開催といたします。&lt;br&gt;
-※1 終了後、現地組のみ完全オフレコのSkytalksおよび懇親会へと移行します。&lt;br&gt;
-※2 オフラインで参加された方にはチャプターステッカーをお配りしています。&lt;/p&gt;
-&lt;p&gt;今回は春日部市開催回です; 現地会場として活樹ふれあいキューブ マツナガ &lt;strong&gt;6F会議室5&lt;/strong&gt; を使用します。 (各線春日部駅下車、西口徒歩5分ほどです) &lt;/p&gt;
-&lt;p&gt;※会議室内での水分補給は可能なようですがゴミは各自でお持ち帰りください。&lt;/p&gt;
-&lt;h2&gt;懇親会参加予定の方へ&lt;/h2&gt;
-&lt;p&gt;懇親会参加/不参加で枠が分かれております。イベント参加登録の際には枠にご注意のほどよろしくお願いいたします。&lt;/p&gt;
-&lt;h2&gt;スケジュール (予定)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;19:00: 開始 / トーク #1: "Irresistible Dance" by @alterakey (LLMに対するサイドチャネル攻撃耐性評価)&lt;/li&gt;
-&lt;li&gt;19:30: LT (あれば)&lt;/li&gt;
-&lt;li&gt;19:45: チャプター紹介 / 次回告知&lt;/li&gt;
-&lt;li&gt;20:00: 終了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;チャプター協賛&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://monolithworks.co.jp/" rel="nofollow"&gt;&lt;img alt="Monolith Works Inc." height="100" src="https://owasp.org/www-chapter-saitama/assets/images/monolithworks.png"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;OWASP Saitama チャプターについて&lt;/h2&gt;
-&lt;p&gt;サイバーセキュリティの向上を目指す非営利組織であるOWASP (The Open Worldwide Application Security Project) のさいたま支部です。&lt;/p&gt;
-&lt;p&gt;イベント開催等のアナウンスはチャプターページで行ないます。
-またSNSへも配信しますのでアカウントのフォローをいただけますと幸いです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;チャプターページ: &lt;a href="https://owasp.org/www-chapter-saitama/" rel="nofollow"&gt;https://owasp.org/www-chapter-saitama/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bluesky: https://bsky.app/profile/owaspsaitama.bsky.social&lt;/li&gt;
-&lt;li&gt;X: &lt;a href="https://x.com/OWASP_Saitama" rel="nofollow"&gt;https://x.com/OWASP_Saitama&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://owaspsaitama.connpass.com/event/391727/</guid><enclosure url="https://media.connpass.com/thumbs/e8/98/e898c9f25f73202501e4525ca7571006.png" length="0" type="image/png"/><pubDate>Fri, 12 Jun 2026 20:26:42 +0900</pubDate></item><item><title>Saitama.rb #47</title><link>https://saitamarb.connpass.com/event/396401/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 貸会議室6F (銀座ビル8F)&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区宮町1-5 銀座ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #saitamarb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;**Saitama.rbは埼玉県さいたま市を拠点に活動している地域Rubyコミュニティです。 ** 大宮駅東口徒歩1分の貸会議室6Fで毎月第3土曜日にゆるく集まってRubyとその周辺技術について情報交換をしたり、もくもく会をしたりしています。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 15 Jun 2026 19:00:18 +0000</lastBuildDate><item><title>Saitama.rb #47</title><link>https://saitamarb.connpass.com/event/396401/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 貸会議室6F (銀座ビル8F)&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区宮町1-5 銀座ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #saitamarb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;**Saitama.rbは埼玉県さいたま市を拠点に活動している地域Rubyコミュニティです。 ** 大宮駅東口徒歩1分の貸会議室6Fで毎月第3土曜日にゆるく集まってRubyとその周辺技術について情報交換をしたり、もくもく会をしたりしています。&lt;/p&gt;
 &lt;p&gt;Ruby使っている人も、これから勉強したい人も、みんなで集まってがんばりましょう。
 はじめてのかたもどうぞお気軽にご参加ください！&lt;/p&gt;
 &lt;p&gt;※もくもく会とは
@@ -274,7 +239,75 @@ Google MeetのURLは前日にconnpassからのメールでお知らせします�
 &lt;ul&gt;
 &lt;li&gt;営業・勧誘・採用・宗教・政治活動など、イベントの趣旨に反する行為&lt;/li&gt;
 &lt;li&gt;迷惑行為・脅迫、暴力・差別・ハラスメント・ストーキングなど、不適切な言動&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://bonsai-dev.connpass.com/event/393826/</guid><enclosure url="https://media.connpass.com/thumbs/bf/c4/bfc4cb3df7e393938e55b9dc2bd82c00.png" length="0" type="image/png"/><pubDate>Sat, 13 Jun 2026 02:07:16 +0900</pubDate></item><item><title>てっぱくで朝活！鉄道博物館 見学会（JAWS-UG 北陸新幹線 #6 サブイベント）</title><link>https://jawsug-sainokuni-saitama.connpass.com/event/395674/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 鉄道博物館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒330-0852　埼玉県さいたま市大宮区大成町3丁目47番&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sainokuni&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JAWS-UG 北陸新幹線 #6 上越新幹線直通 in 大宮 サブイベント&lt;/p&gt;&lt;div&gt;&lt;h2&gt;🚂 サブイベント：鉄道博物館（てっぱく）見学会&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://bonsai-dev.connpass.com/event/393826/</guid><enclosure url="https://media.connpass.com/thumbs/bf/c4/bfc4cb3df7e393938e55b9dc2bd82c00.png" length="0" type="image/png"/><pubDate>Mon, 15 Jun 2026 23:54:11 +0900</pubDate></item><item><title>【CDLE埼玉】製造現場で使えるAI② －画像で不良を見つけよう－</title><link>https://cdle-saitama.connpass.com/event/396507/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 渋沢MIX&lt;/li&gt;&lt;li&gt;🏢 住所: 〒330-0843 埼玉県さいたま市大宮区吉敷町４丁目２６２−１８ 5階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE埼玉&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;画像認識AI・しきい値調整・Geminiプロンプトで、外観検査AIを実践体験&lt;/p&gt;&lt;div&gt;&lt;h1&gt;全体テーマ&lt;/h1&gt;
+&lt;p&gt;製造現場で使える実用AI：画像で不良を見つける
+── 実例から学ぶAI外観検査と、しきい値調整・生成AI活用&lt;/p&gt;
+&lt;h1&gt;開催趣旨&lt;/h1&gt;
+&lt;p&gt;製造業の現場では、外観検査や目視確認のばらつき、検査員の負担、人手不足、熟練者依存といった課題が、生産性や品質保証に大きく影響します。&lt;/p&gt;
+&lt;p&gt;近年、AIを用いた画像認識や異常検知は、部品画像からキズ・欠陥・異常の兆候を捉える技術として成熟しつつあり、中小規模の製造現場でも手の届くユースケースになってきました。&lt;/p&gt;
+&lt;p&gt;一方で、AI外観検査と聞くと「大規模な設備投資が必要」「専門家がいないと難しい」「自社の現場でどう始めればよいか分からない」と感じる方も少なくありません。&lt;/p&gt;
+&lt;p&gt;本イベントでは、製造現場に直結したユースケースである「画像による不良検出」を軸に、AI外観検査の基本、導入時の考え方、しきい値調整、生成AI活用を学びます。&lt;/p&gt;
+&lt;p&gt;後半では、参加者自身がGoogle Colabを使って、画像分類AIを実際に動かすハンズオンを行います。プログラミング不要。事前に準備したプログラムを当日「動かすだけ」で、入力画像 → AIモデル → 判定結果 → 混同行列 → しきい値調整、という基本構造を体感できる設計です。&lt;/p&gt;
+&lt;p&gt;「自社でも試せそうだ」という実感を持ち帰っていただくことが最大のゴールです。&lt;/p&gt;
+&lt;h1&gt;イベントの特徴&lt;/h1&gt;
+&lt;h2&gt;製造現場に特化したテーマ設定&lt;/h2&gt;
+&lt;p&gt;汎用的なAI活用話ではなく、外観検査・目視検査・品質確認・不良検出という製造業の現場課題に絞り込みます。&lt;/p&gt;
+&lt;h2&gt;AI外観検査の導入イメージを学ぶ講義&lt;/h2&gt;
+&lt;p&gt;目視検査の限界、AI導入による効果、撮影条件、AIモデルの選び方、導入ロードマップなど、現場導入を見据えた考え方を扱います。&lt;/p&gt;
+&lt;h2&gt;「3分クッキング方式」のハンズオン&lt;/h2&gt;
+&lt;p&gt;事前に準備したプログラムを当日「動かすだけ」。プログラミング経験は不要です。公開データセットを使い、水中ポンプ用インペラー画像の良品・不良品判定を体験します。&lt;/p&gt;
+&lt;p&gt;※ハンズオンのため、Googleアカウントが必要となります。&lt;/p&gt;
+&lt;h2&gt;しきい値調整でAIの“さじ加減”を体験&lt;/h2&gt;
+&lt;p&gt;AIの判定結果は、しきい値によって変わります。
+「見逃しを減らすのか」「誤検出を減らすのか」という現場判断を、混同行列を見ながら体験します。&lt;/p&gt;
+&lt;h2&gt;Geminiを使った現場向けプロンプト作成&lt;/h2&gt;
+&lt;p&gt;外観検査、5S診断、設備・機械の状態確認などに使えるプロンプトを生成し、生成AIを現場で試すための第一歩を体験します。&lt;/p&gt;
+&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;p&gt;日時：2026年6月27日（土）&lt;br&gt;
+開場：15:00〜&lt;br&gt;
+セミナー：15:00〜17:00&lt;br&gt;
+会場：オンラインまたは会場開催&lt;br&gt;
+主催：CDLE埼玉&lt;br&gt;
+参加費：無料（事前申込制）&lt;br&gt;
+定員：30名&lt;br&gt;
+対象：製造業の経営者・役員、現場担当者・品質管理担当、DX推進担当、生成AIや機械学習に関心のあるCDLEメンバー  &lt;/p&gt;
+&lt;h1&gt;議事次第&lt;/h1&gt;
+&lt;h2&gt;第1部　講義：AI外観検査の基本と導入の考え方（約40分）&lt;/h2&gt;
+&lt;p&gt;「なぜ今、目視検査の自動化が必要なのか」を起点に、AI外観検査の全体像を解説します。&lt;/p&gt;
+&lt;p&gt;目視検査では、判定基準のばらつき、疲労による見落とし、熟練者依存、人手不足、ライン速度への対応といった課題があります。AI外観検査は、これらの課題に対して、判定の一貫性、処理速度、トレーサビリティ、品質保証の面で有効な選択肢となります。&lt;/p&gt;
+&lt;h2&gt;第2部　ハンズオン：画像で不良を見つけるAIを動かしてみよう（約40分）&lt;/h2&gt;
+&lt;p&gt;参加者が実際にAIモデルを動かす体験型セッションです。&lt;/p&gt;
+&lt;p&gt;Google Colabを使い、水中ポンプ用インペラーの公開画像データセットを題材に、良品・不良品を判定するAIを動かします。コードは基本的に実行するだけで進められる構成です。&lt;/p&gt;
+&lt;p&gt;※Googleアカウントをご準備ください。
+※社外秘情報・機密情報・個人情報を含む画像は使用しないでください。
+※当日はサンプル画像でも参加可能です。&lt;/p&gt;
+&lt;p&gt;登壇者：東北よっしー（製造系エンジニア / CDLE埼玉）&lt;/p&gt;
+&lt;h2&gt;第3部　Q&amp;amp;A・まとめ（約15分）&lt;/h2&gt;
+&lt;p&gt;講義・ハンズオンの内容に関する質疑応答を行います。&lt;/p&gt;
+&lt;p&gt;最後に、AI外観検査を自社現場で試すための次のステップを整理します。&lt;/p&gt;
+&lt;h1&gt;参加前の準備&lt;/h1&gt;
+&lt;h2&gt;必須&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;インターネット接続可能なPC&lt;/li&gt;
+&lt;li&gt;Googleアカウント&lt;/li&gt;
+&lt;li&gt;Chromeブラウザ推奨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;推奨&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スマートフォン&lt;/li&gt;
+&lt;li&gt;撮影対象となる身近な物
+　例：文房具、小さな工具、サンプル部品、机上の整理状態など&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;こんな方におすすめ&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;製造業でAI活用を始めたい方&lt;/li&gt;
+&lt;li&gt;外観検査や目視検査に課題を感じている方&lt;/li&gt;
+&lt;li&gt;品質管理・工程管理・DX推進に関わっている方&lt;/li&gt;
+&lt;li&gt;画像認識AIを実務目線で学びたい方&lt;/li&gt;
+&lt;li&gt;しきい値、混同行列、見逃し、誤検出の考え方を体験したい方&lt;/li&gt;
+&lt;li&gt;生成AIを現場改善に使ってみたい方&lt;/li&gt;
+&lt;li&gt;CDLEメンバーとして、実践的なAI活用を学びたい方&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-saitama.connpass.com/event/396507/</guid><enclosure url="https://media.connpass.com/thumbs/6d/c2/6dc24593009196e38ed1a3bc6f7f3119.png" length="0" type="image/png"/><pubDate>Mon, 15 Jun 2026 21:45:49 +0900</pubDate></item><item><title>てっぱくで朝活！鉄道博物館 見学会（JAWS-UG 北陸新幹線 #6 サブイベント）</title><link>https://jawsug-sainokuni-saitama.connpass.com/event/395674/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 鉄道博物館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒330-0852　埼玉県さいたま市大宮区大成町3丁目47番&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sainokuni&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JAWS-UG 北陸新幹線 #6 上越新幹線直通 in 大宮 サブイベント&lt;/p&gt;&lt;div&gt;&lt;h2&gt;🚂 サブイベント：鉄道博物館（てっぱく）見学会&lt;/h2&gt;
 &lt;p&gt;JAWS-UG 北陸新幹線 #6 上越新幹線直通 in 大宮（本編 13:30〜）の前に、鉄道の聖地・大宮を全力で満喫するサブイベントです！&lt;/p&gt;
 &lt;p&gt;鉄道博物館（通称：てっぱく）の開館時間に合わせて集合し、2時間たっぷり見学します。
 せっかく大宮まで来たなら、JR東日本最大の博物館を楽しんでから勉強会に臨みましょう！&lt;/p&gt;
