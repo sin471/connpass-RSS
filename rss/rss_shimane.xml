@@ -1,92 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>島根のイベント</title><link>https://connpass.com/explore/</link><description>島根のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>島根のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 15 Jun 2026 19:01:06 +0000</lastBuildDate><item><title>出雲駆動開発Vol.7 - ゆるAI LT会</title><link>https://izumo-driven-development.connpass.com/event/396247/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月16日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月16日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ありがとうぷらざ扇町&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県出雲市今市町764&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントの説明&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;出雲駆動開発第7弾は、カジュアルにAIを語る「ゆるAI LT会」を開催します！
-&lt;br&gt;「こんな風にAIを使ってみたよ」という身近な活用法やおすすめツール、さらにはクスッと笑えるAIの失敗談まで、語るLT会です。
-&lt;br&gt;現役のエンジニアの方はもちろん、プログラミング未経験の学生さん、これからITに触れてみたい方など、
-&lt;br&gt;経験・年齢に関係なく、気軽にご参加ください。
-&lt;br&gt;AIに関わることなら、どんな話題でもお待ちしています！
-&lt;br&gt;（例：AIに課題や業務を手伝ってもらった話、変な画像が生成された話、私の推しAIツール紹介...etc）
-&lt;br&gt;LTの後は、参加者同士の交流タイムを設けています！
-&lt;br&gt;出雲でITに興味がある仲間と、ざっくばらんに情報交換や雑談を楽しみましょう。
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;開催概要&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;【日　程】　2026年6月16日(火)19:00（18:45 開場） ～ 20:30 （会場次第では多少前後を想定してます）
-&lt;br&gt;【対　象】　IT業界に関わる方・IT業界に転職したいと考えている方・学生の方・今勉強中の方など、職種問わず参加OKです。
-&lt;br&gt;会場の都合上、小学生以下のお子さまの参加が不可となっております。
-&lt;br&gt;【持ち物】　PC（原則PC持参をお願いしていますが、PCがなくても参加は可能です。）　　　　　
-&lt;br&gt;【参加費】　無料
-&lt;br&gt;【場　所】ありがとうぷらざ扇町
-&lt;br&gt;島根県出雲市今市町７６４
-&lt;br&gt;【主　催】　HappyLifeCreators株式会社
-&lt;br&gt;エンジニアの方はもちろん、学生の皆さんもぜひぜひ参加お待ちしております。
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;LT発表者を大募集！&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;LT枠応募者によるLTの発表、質問・意見交換を行います。
-&lt;br&gt;ITにまつわるLTを一人5分程度で発表してくださる方を募集しています。
-&lt;br&gt;テーマ・発表方式は自由です。
-&lt;br&gt;飛び込み参加者も募集しています。
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;当日スケジュール&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:45〜&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:00〜19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;自己紹介 &amp;amp; 勉強会趣旨説明&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:10〜19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:40〜20:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;雑談&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;20:30〜&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;終わりの儀 + あと片付け&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br&gt;途中退出、途中参加も可能です。
-&lt;br&gt;※事前にお問い合わせから一報いただだけると助かります。&lt;/p&gt;
-&lt;h1&gt;「出雲駆動開発」とは？&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;主催しているHappyLifeCreaotrs株式会社は、2024年に出雲市にサテライトオフィスを構えました。
-&lt;br&gt;「島根県・出雲市のIT業界・勉強会を盛り上げたい！」という思い出立ち上げたグループです。
-&lt;br&gt;経験年数・技術の枠を超えて、エンジニア同士が切磋琢磨できるような勉強会を目指しています！&lt;/p&gt;
-&lt;h1&gt;運営会社&lt;/h1&gt;
-&lt;p&gt;HappylifeCreators株式会社　＠creators_happy
-&lt;br&gt;
-&lt;br&gt;「Create your happy with technology」をモットーに
-&lt;br&gt;新大阪にオフィスを構えるソフトウェア開発会社です。
-&lt;br&gt;「ウェアラブルのアプリケーション」、「絶賛バズり中SNS」
-&lt;br&gt;「AR/VRソリューション」「AIと連携したシステム」「遠隔支援や遠隔操作」など
-&lt;br&gt;技術好きなエンジニアが多種多様な案件、オモシロい開発をやってます
-&lt;br&gt;⭐⭐出雲市にサテライトオフィスを構えました！！⭐⭐
-&lt;br&gt;HP：​​&lt;a href="https://www.happylifecreators.com/" rel="nofollow"&gt;https://www.happylifecreators.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;キャンセルポリシー&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;・予定をご確認の上、申し込みをお願いします。
-&lt;br&gt;・キャンセルが決まった時点で
-　早めにキャンセルの手続きをしていただけると助かります。（無断欠席はおやめください）
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;注意・禁止事項&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;参加していただいた方にとって居心地の良い、健全なコミュニティを目指しています。
-&lt;br&gt;よって、下記の行為をされる方は以後の参加をご遠慮してもらうことがございます。
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;・他の参加者への誹謗、中傷
-&lt;br&gt;・ハラスメント、ストーカーなどの他参加者の方への迷惑行為
-&lt;br&gt;・ネットワークビジネス、宗教活動、営業目的等
-&lt;br&gt;・その他、他の参加者の方が不快に思われる行為&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://izumo-driven-development.connpass.com/event/396247/</guid><enclosure url="https://media.connpass.com/thumbs/ee/b2/eeb270ab7fb816cd5e1249844b556548.png" length="0" type="image/png"/><pubDate>Thu, 11 Jun 2026 10:40:51 +0900</pubDate></item><item><title>第157回オープンソースサロン</title><link>https://shimane-oss.connpass.com/event/395081/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 松江オープンソースラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 松江市朝日町478番地18松江テルサ別館2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;『RubyKaigi 2026参加レポート』&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;第157回オープンソースサロン『RubyKaigi 2026参加レポート』を開催します。&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>島根のイベント</title><link>https://connpass.com/explore/</link><description>島根のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>島根のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 16 Jun 2026 18:52:50 +0000</lastBuildDate><item><title>第157回オープンソースサロン</title><link>https://shimane-oss.connpass.com/event/395081/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 松江オープンソースラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 松江市朝日町478番地18松江テルサ別館2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;『RubyKaigi 2026参加レポート』&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;第157回オープンソースサロン『RubyKaigi 2026参加レポート』を開催します。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;プログラミング言語「Ruby」のカンファレンス「RubyKaigi 2026」が、2026年4月22日〜24日の3日間にわたり函館で開催されました。今回のオープンソースサロンでは、「RubyKaigi 2026」に参加された方々による参加レポートをお届けします！&lt;/p&gt;
 &lt;p&gt;最新のRubyの動向や、現地で話題になった技術トピック、会場の様子など、お話いただけるものと思います。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;また、発表の最後にまつもとゆきひろ 氏（一般財団法人Rubyアソシエーション 理事長）によるごあいさつも予定しています！&lt;/strong&gt;&lt;/p&gt;
@@ -117,7 +30,43 @@
 &lt;p&gt;会場：海鮮鉄板　やまおか食堂（松江市伊勢宮町500-11）0852-27-0808&lt;br&gt;
 時間：20時〜（サロン終了後）&lt;br&gt;
 会費：6,000円程度&lt;br&gt;
-&lt;a href="https://yamaoka.sub.jp/yamaokasyokudou.html" rel="nofollow"&gt;https://yamaoka.sub.jp/yamaokasyokudou.html&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shimane-oss.connpass.com/event/395081/</guid><pubDate>Thu, 11 Jun 2026 19:36:47 +0900</pubDate></item><item><title>engineer unite meetup vol.11</title><link>https://enun.connpass.com/event/395886/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enun&lt;/li&gt;&lt;li&gt;🏢 住所: 〒690-0845 島根県松江市西茶町40-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enun&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;個人開発自慢LT大会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;a href="https://yamaoka.sub.jp/yamaokasyokudou.html" rel="nofollow"&gt;https://yamaoka.sub.jp/yamaokasyokudou.html&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shimane-oss.connpass.com/event/395081/</guid><pubDate>Thu, 11 Jun 2026 19:36:47 +0900</pubDate></item><item><title>Izumo Developers' Guild 第15回 meetup</title><link>https://izumo-developers-guild.connpass.com/event/397558/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Izumonomad&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県出雲市今市町2065番地 1F パルメイト出雲&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #izumo_developers_guild&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Izumo Developers' Guild について&lt;/h2&gt;
+&lt;p&gt;Izumo Developers' Guild は、主に出雲で活動している
+Ruby大好き、その他技術が好きなエンジニアが集まるコミュニティです。&lt;/p&gt;
+&lt;p&gt;第15回ミートアップは、2026/06/20(土) 13:00～ Izumonomadで開催します。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;td&gt;自己紹介・今日やることを発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:30&lt;/td&gt;
+&lt;td&gt;今日の成果発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;退場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;行動規範&lt;/h2&gt;
+&lt;p&gt;RubyKaigi のアンチハラスメントポリシーを採用します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubykaigi.org/2026/policies/" rel="nofollow"&gt;https://rubykaigi.org/2026/policies/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Slack&lt;/h2&gt;
+&lt;p&gt;参加URL: &lt;a href="https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw" rel="nofollow"&gt;https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;次回の開催内容など、Slack で話しています。&lt;/p&gt;
+&lt;p&gt;興味がある方はどなたでも参加可能です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://izumo-developers-guild.connpass.com/event/397558/</guid><enclosure url="https://media.connpass.com/thumbs/2e/c4/2ec408da3d4672005f3bbe5ce7d8ca24.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 19:16:56 +0900</pubDate></item><item><title>engineer unite meetup vol.11</title><link>https://enun.connpass.com/event/395886/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enun&lt;/li&gt;&lt;li&gt;🏢 住所: 〒690-0845 島根県松江市西茶町40-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enun&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;個人開発自慢LT大会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;エンジニアの交流と情報交換を目的としたノンジャンル勉強会です&lt;/li&gt;
 &lt;li&gt;島根県松江市にあるコワーキングスペースenunを会場として、原則オフラインで開催します&lt;/li&gt;
