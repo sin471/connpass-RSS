@@ -1,127 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 17 Jun 2026 17:46:33 +0000</lastBuildDate><item><title>Findy AI Meetup in Fukuoka #6</title><link>https://findy-inc.connpass.com/event/390196/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月17日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月17日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: The Companyミーナ天神店&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神4丁目3-8ミーナ天神 8階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ai_fukuoka_findy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI×レビュー  AIと共に変わるレビューの形&lt;/p&gt;&lt;div&gt;&lt;h2&gt;📝イベント概要&lt;/h2&gt;
-&lt;p&gt;生成AI時代の開発に関心を持つエンジニアのためのオフラインイベント「Findy AI Meetup in Fukuoka #6」を開催します！&lt;br&gt;
-&lt;br&gt;
-ファインディでは、生成AIやAIエージェントの活用を通じて開発生産性の向上を目指す取り組みを行っています。本イベントでは、ファインディのエンジニアが社内での実践事例を紹介するとともに、福岡を拠点とするエンジニア同士がつながり、アイデアを共有できる場を提供します。&lt;br&gt;
-&lt;br&gt;
-生成AI時代における開発のあり方や、実際に直面した課題とその乗り越え方など、現場のリアルな知見をお届けします。&lt;br&gt;
-&lt;br&gt;
-TVCM公開記念ノベルティや、イベント後半には懇親タイムもご用意していますので、ぜひカジュアルにご参加ください！&lt;/p&gt;
-&lt;h3&gt;🧑‍💻こんな方におすすめ&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ファインディのエンジニア組織に興味がある方&lt;/li&gt;
-&lt;li&gt;生成AIやAIエージェントの開発・活用に興味がある方&lt;/li&gt;
-&lt;li&gt;チームや組織でのAI活用を模索している方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;☑️イベントのゴール&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ファインディのエンジニア組織のことを知ることができた&lt;/li&gt;
-&lt;li&gt;生成AIを活用した開発のヒントを得て、業務に活かすことができた&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎈開催概要&lt;/h2&gt;
-&lt;p&gt;&lt;span style="font-size: 130%; color: black;"&gt;📆開催日時：2026年6月17日（水）19:00-21:30&lt;/span&gt;&lt;br&gt;
-&lt;span style="font-size: 130%; color: black;"&gt; 📍開催場所：Zero-Ten Parkミーナ天神 イベントスペース - HALL 1&lt;/span&gt;&lt;br&gt;
-&lt;span style="font-size: 130%; color: black;"&gt; 💰参加費：無料 &lt;/span&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;👨‍💻参加方法&lt;/h2&gt;
-&lt;p&gt;本connpassページより申し込み&lt;br&gt;
-&lt;strong&gt;※昨今のオフラインイベントの状況を踏まえ、お申込み時に参加者の情報をお伺いしています。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;📝 当日のコンテンツ&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;詳細&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;企業名&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;スピーカー&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:30-&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;開場&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:00-&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:05-19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;「会社紹介」&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ファインディ株式会社&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;戸田千隼&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:15-19:20&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;「未定」&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT枠 s-nakao さん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:25-19:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;「未定」&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT枠 ksu さん&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:30-19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;「生成AI時代のレビューを再設計する」&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ファインディ株式会社&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;戸田千隼&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:40-21:20&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;懇親会&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;21:20-21:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;クロージング&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;⚠️諸注意&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;エージェントの方や営業目的でのイベントの参加はご遠慮ください&lt;/li&gt;
-&lt;li&gt;飲食を目的でのイベントの参加は固く禁止しております。&lt;/li&gt;
-&lt;li&gt;申込・登録のない方、または申込画面の提示のなく方のご参加は、お断りしております。&lt;/li&gt;
-&lt;li&gt;20時以降のご参加はお断りしております。&lt;/li&gt;
-&lt;li&gt;悪天候等により、運営事務局の判断にてイベントを中止する場合があります。&lt;/li&gt;
-&lt;li&gt;運営の状況によりスケジュール、内容は変更となる場合があります。&lt;/li&gt;
-&lt;li&gt;会場内では、写真や動画撮影が行われる予定のため会場内の参加者の皆様が映り込む場合があります。 それらは、弊社媒体やSNSなどで掲載される場合がありますので、あらかじめご了承ください。&lt;/li&gt;
-&lt;li&gt;性別/性的指向/障碍の有無/人種/宗教/年齢/容姿/体格/技術の選択に関わりなく、 誰もが気持ちよく参加できるようにご協力ください&lt;/li&gt;
-&lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt;
-&lt;li&gt;イベント参加時に入力いただいた情報は、以下に基づき扱います。&lt;br&gt;
-&lt;a href="https://findy.co.jp/privacy/" rel="nofollow"&gt;ファインディ株式会社 プライバシーポリシー&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📣主催・運営&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://i.gyazo.com/ea6f27c53eba05680c99e08a9b317466.jpg" width=""&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://findy.co.jp/" rel="nofollow"&gt;ファインディ株式会社&lt;/a&gt;   &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://findy-code.io/?fr=event_20250804" rel="nofollow"&gt;IT/Webエンジニアの転職サービス「Findy」&lt;/a&gt; :&lt;br&gt;
-独自のアルゴリズムを用いてエンジニアのスキルを可視化し、ハイスキルなエンジニアと企業をマッチングする転職サービスです。登録エンジニアは12万人を突破、登録企業数は約1,100社、スタートアップ企業を中心にDXを推進したい大手企業まで幅広い企業に導入していただいております。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://freelance.findy-code.io/?fr=event_20250804" rel="nofollow"&gt;ハイスキルなフリーランスエンジニア紹介サービス「Findy Freelance」&lt;/a&gt;   :&lt;br&gt;
-ハイスキルなフリーランスエンジニアと企業の業務委託案件のマッチングサービスです。「Findy」同様にGitHubを解析した独自アルゴリズムを用いたスキル評価をもとに、単価保証の案件を紹介しています。登録エンジニア数は5万人を突破し、スタートアップ企業を中心にDXを推進したい大手企業まで1,500社以上に導入いただいております。 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://findy-teams.com/" rel="nofollow"&gt;エンジニア組織の開発生産性可視化・向上SaaS 「Findy Team+」&lt;/a&gt;  :&lt;br&gt;
-特許取得の独自技術を用いて、GitHub、GitLab、Bitbucket、Backlog、Jiraなどを解析し「Four Keys」や「SPACE」といった指標やフレームワークに基づき、開発のアクティビティ・効率・クオリティやエンゲージメントなどを多面的に可視化することで、開発生産性・開発者体験向上をサポートしています。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://findy-tools.io/" rel="nofollow"&gt;開発ツールのレビューサイト「Findy Tools」&lt;/a&gt;：&lt;br&gt;
-開発ツールに特化したレビューサイトです。第三者の視点で実際にツールの選定を行った企業の生の声を集めることで、ツール選定に関する不安を解消し、導入検討に必要な情報を提供します。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://findy-inc.connpass.com/event/390196/</guid><enclosure url="https://media.connpass.com/thumbs/67/22/67226eae8f7b38d0fd306caba94823d6.png" length="0" type="image/png"/><pubDate>Thu, 21 May 2026 17:11:24 +0900</pubDate></item><item><title>GenAIge Cafe #8</title><link>https://genaige.connpass.com/event/396761/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月18日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月18日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: cafe&amp;bar saino（福岡市赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ローカルLLMって何？手元でAIを動かしてみませんか？&lt;/p&gt;&lt;div&gt;&lt;h1&gt;GenAIge Cafe #8 at cafe &amp;amp; bar saino&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福岡のイベント</title><link>https://connpass.com/explore/</link><description>福岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 18 Jun 2026 17:56:28 +0000</lastBuildDate><item><title>GenAIge Cafe #8</title><link>https://genaige.connpass.com/event/396761/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月18日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月18日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: cafe&amp;bar saino（福岡市赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ローカルLLMって何？手元でAIを動かしてみませんか？&lt;/p&gt;&lt;div&gt;&lt;h1&gt;GenAIge Cafe #8 at cafe &amp;amp; bar saino&lt;/h1&gt;
 &lt;h2&gt;ローカルLLMって何？手元でAIを動かしてみる時間&lt;/h2&gt;
 &lt;p&gt;みなさん、こんにちは。&lt;br&gt;
 生成AIコミュニティ &lt;strong&gt;GenAIge（ジェネイジ／ジェナイジ）&lt;/strong&gt; です。
@@ -328,7 +206,7 @@ LT練習、プレゼン練習、アウトプット練習などなど練習の場
 &lt;td style="text-align: left;"&gt;-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/393846/</guid><enclosure url="https://media.connpass.com/thumbs/47/68/47688546deff65cff3af2af80060e6bc.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 01:01:42 +0900</pubDate></item><item><title>福岡商工会議所　AI勉強会　中小企業のAI活用と今　6/19日　PM6：30-　商工会議所3F</title><link>https://aiart.connpass.com/event/396157/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 福岡商工会議所&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市博多区博多駅前２丁目９−２８&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;人手不足でも仕事を回す、AI活用の最初の一歩&lt;/p&gt;&lt;div&gt;&lt;p&gt;中小企業のAI導入は、難しいシステムから始める必要はありません。まず効果が出やすいのは、毎日の事務作業です。たとえば、メール文面の作成、議事録や報告書の整理、提案書の下書き、問い合わせ対応の定型文、そしてSNSや求人文の作成。これらはAIを使うことで、ゼロから考える時間を大きく減らせます。大切なのは、AIにすべて任せることではなく、人が確認しながら、たたき台を早く作ることです。6月19日金曜日、福岡商工会議所で中小企業向けAI導入セミナーを開催します。自社のどの業務から始めるべきか、一緒に整理しましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aiart.connpass.com/event/396157/</guid><enclosure url="https://media.connpass.com/thumbs/9d/de/9ddef72125610b3962fa14b16c52853f.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 21:31:06 +0900</pubDate></item><item><title>コーディングのためのローカルLLM勉強会 in 福岡</title><link>https://connpass.com/event/395614/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: LINEヤフー博多深見オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市博多区博多駅前4-14-1 3F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/393846/</guid><enclosure url="https://media.connpass.com/thumbs/47/68/47688546deff65cff3af2af80060e6bc.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 19:04:40 +0900</pubDate></item><item><title>福岡商工会議所　AI勉強会　中小企業のAI活用と今　6/19日　PM6：30-　商工会議所3F</title><link>https://aiart.connpass.com/event/396157/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 福岡商工会議所&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市博多区博多駅前２丁目９−２８&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;人手不足でも仕事を回す、AI活用の最初の一歩&lt;/p&gt;&lt;div&gt;&lt;p&gt;中小企業のAI導入は、難しいシステムから始める必要はありません。まず効果が出やすいのは、毎日の事務作業です。たとえば、メール文面の作成、議事録や報告書の整理、提案書の下書き、問い合わせ対応の定型文、そしてSNSや求人文の作成。これらはAIを使うことで、ゼロから考える時間を大きく減らせます。大切なのは、AIにすべて任せることではなく、人が確認しながら、たたき台を早く作ることです。6月19日金曜日、福岡商工会議所で中小企業向けAI導入セミナーを開催します。自社のどの業務から始めるべきか、一緒に整理しましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aiart.connpass.com/event/396157/</guid><enclosure url="https://media.connpass.com/thumbs/9d/de/9ddef72125610b3962fa14b16c52853f.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 21:31:06 +0900</pubDate></item><item><title>コーディングのためのローカルLLM勉強会 in 福岡</title><link>https://connpass.com/event/395614/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: LINEヤフー博多深見オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市博多区博多駅前4-14-1 3F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;最近、にわかにローカルLLMへの注目度が高まってきています。&lt;br&gt;
 そこで今回は、エンジニアが手元のデバイスでローカルLLMを使ってコーディングを行うことを考えたときの、必要なハードウェアや使えるモデル、実際の限界やそれを踏まえた開発手法についてを考えていきます。&lt;/p&gt;
 
@@ -423,8 +301,8 @@ Fukuokai.sreは福岡および九州で活躍するSREやクラウドネイテ�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:35 ~ 19:55&lt;/td&gt;
-&lt;td&gt;スポンサーセッション:&lt;/td&gt;
-&lt;td&gt;株式会社Fusic様&lt;/td&gt;
+&lt;td&gt;スポンサーセッション: SLOから始めるSRE&lt;/td&gt;
+&lt;td&gt;株式会社Fusic様  &lt;a href="https://connpass.com/user/shise460/" rel="nofollow"&gt;seike460&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:55 ~ 20:00&lt;/td&gt;
@@ -438,7 +316,7 @@ Fukuokai.sreは福岡および九州で活躍するSREやクラウドネイテ�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:05 ~ 20:10&lt;/td&gt;
-&lt;td&gt;LT2:&lt;/td&gt;
+&lt;td&gt;LT2: しんどい仕事こそAIに任せたい - DevOps Agentが凄いという話&lt;/td&gt;
 &lt;td&gt;&lt;a href="https://connpass.com/user/jirtosterone/" rel="nofollow"&gt;jirtosterone&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -481,9 +359,9 @@ Fukuokai.sreは福岡および九州で活躍するSREやクラウドネイテ�
 &lt;h2&gt;発表内容&lt;/h2&gt;
 &lt;h3&gt;スポンサーセッション&lt;/h3&gt;
 &lt;h2&gt;発表概要&lt;/h2&gt;
-&lt;p&gt;タイトル：TBD&lt;/p&gt;
+&lt;p&gt;タイトル：SLOから始めるSRE&lt;/p&gt;
 &lt;p&gt;概要：TBD&lt;/p&gt;
-&lt;p&gt;登壇者：TBD&lt;/p&gt;
+&lt;p&gt;登壇者：&lt;a href="https://connpass.com/user/shise460/" rel="nofollow"&gt;seike460&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;LT1&lt;/h3&gt;
 &lt;h2&gt;発表概要&lt;/h2&gt;
 &lt;p&gt;タイトル：1B+ / day規模のログを管理する技術&lt;/p&gt;
@@ -493,9 +371,9 @@ Fukuokai.sreは福岡および九州で活躍するSREやクラウドネイテ�
 &lt;p&gt;登壇者：&lt;a href="https://connpass.com/user/HirokiSakonju/" rel="nofollow"&gt;HirokiSakonju&lt;/a&gt; &lt;/p&gt;
 &lt;h3&gt;LT2&lt;/h3&gt;
 &lt;h2&gt;発表概要&lt;/h2&gt;
-&lt;p&gt;タイトル：TBD&lt;/p&gt;
-&lt;p&gt;概要：TBD&lt;/p&gt;
-&lt;p&gt;登壇者：TBD&lt;/p&gt;
+&lt;p&gt;タイトル：しんどい仕事こそAIに任せたい - DevOps Agentが凄いという話&lt;/p&gt;
+&lt;p&gt;概要：私が担当しているセキュリティ・情シス、SRE領域ではアラート、インシデント、問い合わせなど日々様々なイベントへの対応が発生します。また、即対応が求められるものも少なくありません。それらの対応を少しでも楽にしてしんどさから皆を解放したい、人が足りなくてもスケールできる組織にしたい、という想いからAWS DevOps Agentを導入しました。本LTではその概要をご紹介します。&lt;/p&gt;
+&lt;p&gt;登壇者：&lt;a href="https://connpass.com/user/jirtosterone/" rel="nofollow"&gt;jirtosterone&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;LT3&lt;/h3&gt;
 &lt;h2&gt;発表概要&lt;/h2&gt;
 &lt;p&gt;タイトル：TBD&lt;/p&gt;
@@ -522,7 +400,7 @@ SRE Kaigi 2026で見知ったSanSan 鷹箸氏による『Embedded SREの終わ�
 &lt;h2&gt;イベント参加について&lt;/h2&gt;
 &lt;p&gt;参加される方はconnpassよりイベントへの参加申込を行ってください。&lt;br&gt;
 急遽参加できなくなった場合は、速やかにconnpass上でキャンセル処理を行ってください。&lt;br&gt;
-当日、受付にてconnpassの参加者アカウント情報を確認させていただきます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fukuoka-sre.connpass.com/event/388097/</guid><enclosure url="https://media.connpass.com/thumbs/c3/8c/c38cee1049999e603ad43201761ac8c2.png" length="0" type="image/png"/><pubDate>Thu, 11 Jun 2026 14:10:14 +0900</pubDate></item><item><title>[現地開催] JAWS-UG福岡 #26 JAWS DAYS2026 re:Cap!!</title><link>https://jawsug-fukuoka.connpass.com/event/394528/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社Fusic&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神4-1-1 第7明星ビル1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugfuk&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;おつかれせいけしろー&lt;/p&gt;&lt;div&gt;&lt;h2&gt;お知らせ&lt;/h2&gt;
+当日、受付にてconnpassの参加者アカウント情報を確認させていただきます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fukuoka-sre.connpass.com/event/388097/</guid><enclosure url="https://media.connpass.com/thumbs/c3/8c/c38cee1049999e603ad43201761ac8c2.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 21:13:54 +0900</pubDate></item><item><title>[現地開催] JAWS-UG福岡 #26 JAWS DAYS2026 re:Cap!!</title><link>https://jawsug-fukuoka.connpass.com/event/394528/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社Fusic&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神4-1-1 第7明星ビル1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugfuk&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;おつかれせいけしろー&lt;/p&gt;&lt;div&gt;&lt;h2&gt;お知らせ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;登壇者と説明（タイトル）を随時更新してます ♪&lt;/li&gt;
 &lt;/ul&gt;
@@ -1262,7 +1140,7 @@ blog：きしたのHatena
 「プロになるJava」というJavaの本を書いてます&lt;/p&gt;
 &lt;h4&gt;浦田 大貴氏 ＜Fusic＞&lt;/h4&gt;
 &lt;p&gt;Fusicで社内のAIコーディング推進・組織のAI活用基盤づくりに取り組むエンジニア。Claude Code や Devin などさまざまなAIエージェントを開発の現場で活用しており、最近はローカルLLMの社内検証も始めたところ。&lt;/p&gt;
-&lt;h4&gt;村上純志氏 ＜サイノウ＞&lt;/h4&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/396774/</guid><enclosure url="https://media.connpass.com/thumbs/64/72/6472b690a910e43b72ae1877065224e2.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 10:10:17 +0900</pubDate></item><item><title>福岡テクニカル・アウトプット同好会  もくもく作業会 #1</title><link>https://fukuoka-tech-output.connpass.com/event/395285/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月23日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月23日(火) 21:15&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ B1F ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #福岡テクどこ_もくもく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テックブログ・登壇資料・OSS活動などなどの個人的アウトプットの作業場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
+&lt;h4&gt;村上純志氏 ＜サイノウ＞&lt;/h4&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://engineercafe.connpass.com/event/396774/</guid><enclosure url="https://media.connpass.com/thumbs/64/72/6472b690a910e43b72ae1877065224e2.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 17:22:51 +0900</pubDate></item><item><title>福岡テクニカル・アウトプット同好会  もくもく作業会 #1</title><link>https://fukuoka-tech-output.connpass.com/event/395285/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月23日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月23日(火) 21:15&lt;/li&gt;&lt;li&gt;📍 会場: エンジニアカフェ B1F ミーティングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #福岡テクどこ_もくもく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テックブログ・登壇資料・OSS活動などなどの個人的アウトプットの作業場&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント内容&lt;/h1&gt;
 &lt;p&gt;技術的なアウトプット作業を行うためのもくもく会です。&lt;br&gt;
 開催時間中であれば入退室自由です。お気軽にお立ち寄りください。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
@@ -2739,7 +2617,7 @@ Datadogを触ったことがない人からプロの方まで楽しめるもの�
 &lt;h2&gt;[QUNOG slack への招待リンク(新)]&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://join.slack.com/t/nog-crew/shared_invite/zt-2pvi3uzsk-vSQq8yDz0I5SO5KjRsptNQ" rel="nofollow"&gt;https://join.slack.com/t/nog-crew/shared_invite/zt-2pvi3uzsk-vSQq8yDz0I5SO5KjRsptNQ&lt;/a&gt;
 &lt;br&gt;
-どなたでも参加できます！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://qunog.connpass.com/event/388510/</guid><enclosure url="https://media.connpass.com/thumbs/71/3e/713e2b552e8c3bdc86e54ec3e56744e2.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 12:33:57 +0900</pubDate></item><item><title>Kitakyushu Hardware Meetup #1</title><link>https://kitakyushu-hardware-meetup.connpass.com/event/394012/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月3日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月3日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: COMPASS小倉 イベントスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県北九州市小倉北区浅野3丁目8番1号 AIMビル 6階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #KitakyushuHardwareMeetup&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Kitakyushu Hardware Meetup #1&lt;/h1&gt;
+どなたでも参加できます！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://qunog.connpass.com/event/388510/</guid><enclosure url="https://media.connpass.com/thumbs/71/3e/713e2b552e8c3bdc86e54ec3e56744e2.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 17:16:01 +0900</pubDate></item><item><title>Kitakyushu Hardware Meetup #1</title><link>https://kitakyushu-hardware-meetup.connpass.com/event/394012/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月3日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月3日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: COMPASS小倉 イベントスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県北九州市小倉北区浅野3丁目8番1号 AIMビル 6階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #KitakyushuHardwareMeetup&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Kitakyushu Hardware Meetup #1&lt;/h1&gt;
 &lt;p&gt;北九州を拠点に、&lt;strong&gt;ハードウェア・ロボット・IoT・製造業DX&lt;/strong&gt; を作る人たち、&lt;strong&gt;ハードに興味がある人たち&lt;/strong&gt;が、職種・立場・所属を越えて出会う、ゆるい横断コミュニティの第1回ミートアップです。&lt;/p&gt;
 &lt;p&gt;「鉄の街・モノづくりの街」北九州には、組み込み・FA・ロボティクス・センサー・試作・量産にかかわるエンジニアやスタートアップ、そして高専・大学で実装に手を動かす学生が点在しています。一方で、Web/AI 系コミュニティに比べると、ハードウェアに軸足を置いた人どうしが出会える定期的な場は多くありません。そういった人たちが気軽に集まれ、交流ができるコミュニティを目指しています。&lt;/p&gt;
 &lt;hr&gt;
@@ -2974,7 +2852,31 @@ Datadogを触ったことがない人からプロの方まで楽しめるもの�
 &lt;p&gt;17:00- 懇親会&lt;/p&gt;
 
 &lt;h3&gt;演習の概要&lt;/h3&gt;
-&lt;p&gt;インシデント対応ゲームを作りました。このゲーム、形式としてはECサイト経営シミュレーションゲームなんですが、なんと毎月まぁまぁエグいサイバーなインシデントが起きてしまいます。本ワークショップではチームでこのゲームをプレイしながら、襲いかかる苦難を乗り越えてクールなセキュリティ経営を実現していくことを目指します。めざせ売り上げトップ！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minsec.connpass.com/event/392385/</guid><enclosure url="https://media.connpass.com/thumbs/cd/aa/cdaa866bdc487b94009fb765bb2617c3.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 19:23:37 +0900</pubDate></item><item><title>LEDキューブを作ろう！はんだ付け×Arduino #1</title><link>https://connpass.com/event/394185/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;64個のLEDを基板にはんだ付けしてキューブを完成させよう！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;インシデント対応ゲームを作りました。このゲーム、形式としてはECサイト経営シミュレーションゲームなんですが、なんと毎月まぁまぁエグいサイバーなインシデントが起きてしまいます。本ワークショップではチームでこのゲームをプレイしながら、襲いかかる苦難を乗り越えてクールなセキュリティ経営を実現していくことを目指します。めざせ売り上げトップ！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minsec.connpass.com/event/392385/</guid><enclosure url="https://media.connpass.com/thumbs/cd/aa/cdaa866bdc487b94009fb765bb2617c3.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 19:23:37 +0900</pubDate></item><item><title>乾杯hack#1</title><link>https://kanpai-hack.connpass.com/event/397807/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: SYUN@ROOM / リンド天神&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区渡辺通５丁目24-30東カン第一福岡ビル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kanpai_hack&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;チームAIハッカソン！酒飲みながらAIで何かを作ろう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;「AIを使って何か作ってみたい」
+「でも、ひとりで黙々とやるより、誰かとワイワイ試したい」
+「どうせなら、お酒でも飲みながら楽しく開発したい」&lt;/p&gt;
+&lt;p&gt;そんなノリで始める、ゆるめのAIハッカソンです。&lt;/p&gt;
+&lt;p&gt;複数人で集まって、AIを使いながらアイデアを出し、試し、作ってみる。
+完成度よりも、あーでもないこーでもないと話しながら、遊び感覚で開発することを大事にします。&lt;/p&gt;
+&lt;p&gt;最初のお酒数本ずつと、ピザ・お菓子などの軽食はこちらで用意します。
+もちろん足りない分は買いに行っても構いません！
+気軽に飲みながら、AIで何かを作って遊びましょう！&lt;/p&gt;
+&lt;h2&gt;やること&lt;/h2&gt;
+&lt;p&gt;当日は、参加人数に応じてチームに分かれて開発します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2人 × 3チーム&lt;/li&gt;
+&lt;li&gt;3人 × 2チーム&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;くらいの規模感を想定しています。&lt;/p&gt;
+&lt;p&gt;1日で形にできそうなお題を決めて、AIを使いながらサクッと開発します。
+アプリでも、ツールでも、Webサービスでも、業務改善ネタでも、ネタ系でもOKです。&lt;/p&gt;
+&lt;h2&gt;目的&lt;/h2&gt;
+&lt;p&gt;この会の目的は、すごいプロダクトを完成させることではありません。&lt;/p&gt;
+&lt;p&gt;AIを使って開発する仲間を見つけたり、
+普段ひとりでは試さないアイデアに触れたり、
+飲みながら楽しく手を動かしてみることが目的です。&lt;/p&gt;
+&lt;p&gt;「AIで何か作ってみたい」くらいの気持ちで大歓迎です。
+一緒に乾杯しながら、ゆるく楽しく開発しましょう！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanpai-hack.connpass.com/event/397807/</guid><enclosure url="https://media.connpass.com/thumbs/68/c8/68c80896e594aa917d5ba65f008e9b52.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 19:39:54 +0900</pubDate></item><item><title>LEDキューブを作ろう！はんだ付け×Arduino #1</title><link>https://connpass.com/event/394185/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;64個のLEDを基板にはんだ付けしてキューブを完成させよう！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;4×4×4のLEDキューブを、&lt;strong&gt;はんだ付けからアニメーション作成まで&lt;/strong&gt;、2週連続で一緒に作り上げるワークショップです！ &lt;/p&gt;
 &lt;p&gt;🔧 1週目は、64個のLEDを基板にはんだ付けしてキューブを完成させます！&lt;/p&gt;
 &lt;p&gt;💻 2週目は、Arduinoでオリジナルアニメーションを作成します！&lt;/p&gt;
@@ -3281,44 +3183,50 @@ Datadogを触ったことがない人からプロの方まで楽しめるもの�
 &lt;h2&gt; 福岡未踏とは？&lt;/h2&gt;
 &lt;p&gt;「福岡未踏（福岡未踏的人材発掘・育成プロジェクト）」は、独立行政法人情報処理推進機構（IPA）が実施する国家事業「未踏IT人材発掘・育成事業」の地方版モデルとして、福岡県内の優れた若手ITクリエイター（30歳未満）を発掘・育成するプログラムです。&lt;/p&gt;
 
-&lt;p&gt;今回のイベントでは、2026年9月からスタートする&lt;strong&gt;「Growコース（自由課題）」&lt;/strong&gt;および&lt;strong&gt;「Solveコース（課題解決）」&lt;/strong&gt;の公募説明会と、Solveコースのテーマとなる&lt;strong&gt;「協賛企業・自治体からの提供課題（企業課題）の発表ピッチ」&lt;/strong&gt;を合同で開催いたします。&lt;/p&gt;
+&lt;p&gt;今回のイベントでは、2026年度Pro採択課題の発表と、2026年9月からスタートする&lt;strong&gt;「Growコース（自由課題）」&lt;/strong&gt;および&lt;strong&gt;「Solveコース（課題解決）」&lt;/strong&gt;の公募説明会と、Solveコースのテーマとなる&lt;strong&gt;「協賛企業からのSolve課題の発表」&lt;/strong&gt;を行いますいたします。&lt;/p&gt;
 
 &lt;p&gt;「自分のアイデアを形にしたい」「企業や社会のリアルな課題をITの力で解決したい」「プロのPM・メンターから指導を受けながら圧倒的に成長したい」という学生や若手エンジニアの皆様、ぜひお気軽にご参加ください！&lt;/p&gt;
 
 &lt;h2&gt; 開催概要&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;： 2026年7月12日（日）13:00 〜 17:00 （受付開始 12:30〜）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt;： 2026年7月12日（日）13:00 〜 18:00 （受付開始 12:30〜）&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;場所&lt;/strong&gt;： &lt;strong&gt;FGN福岡（Fukuoka Growth Next）&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;住所&lt;/strong&gt;： 〒810-0041 福岡県福岡市中央区大名2丁目6-11&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;アクセス&lt;/strong&gt;： 地下鉄空港線「天神駅」より徒歩約5分 / 「赤坂駅」より徒歩約6分&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt;： &lt;strong&gt;無料&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt; タイムスケジュール（現在調整中）&lt;/h2&gt;
-&lt;p&gt;現在、詳細なタイムテーブルは調整中です。確定次第、本ページにて随時アップデートいたします。&lt;br&gt;当日は、以下のプログラムを中心に、福岡未踏の熱量を感じられる1日を予定しています。&lt;/p&gt;
+&lt;h2&gt; プログラム&lt;/h2&gt;
+&lt;p&gt;現在、詳細なタイムテーブルは調整中です。登壇者など確定次第、本ページにて随時アップデートいたします。&lt;br&gt;当日は、以下のプログラムを中心に、福岡未踏の熱量を感じられる1日を予定しています。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;【当日の主な予定プログラム】&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;【タイムスケジュール】&lt;/strong&gt;&lt;/p&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;第1部：福岡未踏2026全体概要 ＆ Growコース公募説明&lt;/strong&gt;&lt;br&gt;福岡未踏の強力なサポート体制や、Growコースへの応募方法について詳しく解説します。&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;第2部：Solveコース 企業課題発表会（課題ピッチ）&lt;/strong&gt;&lt;br&gt;スポンサー企業や自治体の担当者が登壇し、解決してほしいリアルな課題や「作ってほしいプロダクト」について熱くプレゼンします。&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;第3部：個別相談会 ＆ 自由交流会&lt;/strong&gt;&lt;br&gt;未踏のPM（大学教授や現役エンジニア）や、課題を提供した企業担当者と直接話し、アイデアの相談や質問ができます。&lt;/li&gt;
 
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+  &lt;li&gt;&lt;strong&gt;12:30 - ：開場/受付&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+  &lt;li&gt;&lt;strong&gt;13:00 - 13:15 ：オープニング&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+  &lt;li&gt;&lt;strong&gt;13:15 - 15:45 ：ブースト会議（1期PROコース採択クリエータによる発表）&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+  &lt;li&gt;&lt;strong&gt;14:55 - 15:15 ：休憩&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+  &lt;li&gt;&lt;strong&gt;15:15 - 15:30 ：2期募集内容（Solve、Grow）の発表&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+  &lt;li&gt;&lt;strong&gt;15:40 - 16:40 ：スポンサー企業よりSolve課題内容発表（オンライン配信はここまで）&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+  &lt;li&gt;&lt;strong&gt;16:40 - 18:00 ：相談会・意見交換会&lt;/strong&gt;&lt;/li&gt;&lt;strong&gt;
+
+
+  &lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/ul&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/blockquote&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;
 
 &lt;h2&gt; 募集コースの紹介（第2期：9月〜1月）&lt;/h2&gt;
 &lt;h3&gt;■ Growコース（自由課題コース）&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;開発期間&lt;/strong&gt;： 5ヶ月（2026年9月1日〜2027年1月31日）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;支援金額&lt;/strong&gt;： 上限50万円（税抜）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;支援金額&lt;/strong&gt;： 上限50万円&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;内容&lt;/strong&gt;： 自身の独創的なアイデアをもとに、自由にソフトウェアやシステムを開発するコースです。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3&gt;■ Solveコース（課題解決コース）&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;開発期間&lt;/strong&gt;： 5ヶ月（2026年9月1日〜2027年1月31日）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;支援金額&lt;/strong&gt;： 上限50万円（税抜）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;支援金額&lt;/strong&gt;： 上限50万円&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;内容&lt;/strong&gt;： 本説明会で発表される、スポンサー企業や自治体が設定したリアルな課題に対して、解決アイデアを提案・開発するコースです。企業メンターが強力に伴走します。&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -3334,18 +3242,24 @@ Datadogを触ったことがない人からプロの方まで楽しめるもの�
 &lt;h2&gt; 今後の選考スケジュール（予定）&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;7月12日（日）&lt;/strong&gt;： 公募説明会（本イベント） ＆ 事前エントリー受付開始&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;8月7日（金）&lt;/strong&gt;： 事前エントリー締め切り（24:00まで）&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;8月8日（土）&lt;/strong&gt;： 本エントリー（提案書提出）締め切り（24:00まで）&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;8月7日（金）&lt;/strong&gt;： 事前エントリー締め切り&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;8月8日（土）&lt;/strong&gt;： 本エントリー（提案書提出）締め切り&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;8月23日（日）&lt;/strong&gt;： 2次審査（面接審査・最終審査会）&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;9月1日（火）&lt;/strong&gt;： 採択・開発期間スタート（〜2027年1月31日まで）&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h2&gt;アンチハラスメントポリシー&lt;/h2&gt;
+&lt;p&gt;福岡未踏的人材発掘・育成プロジェクトが開催するイベントではアンチハラスメントポリシーを定めております。参加者は以下の内容をご確認、ご同意の上でご参加をお願いします。&lt;/p&gt;
+&lt;p&gt;ハラスメントとは、性差、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、脅迫、ストーカー、暴言、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動が含まれます。&lt;/p&gt;
+&lt;p&gt;参加者がこれらの行為に加担した場合、運営側は当該参加者に対し必要な処分を行うことができます。この処分には、当該参加者への勧告、今後のイベントに聴講者・登壇者として関わることの禁止などを含みます。&lt;/p&gt;
+&lt;p&gt;これらのハラスメント行為を目撃したり耳にした場合は主催者までご連絡ください。私たちはすべての人が気持ちよく参加できるよう、尽力します。&lt;/p&gt;
+&lt;p&gt;皆様のご協力をお願いします。&lt;/p&gt;
 &lt;h2&gt;主催・お問い合わせ&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;主催&lt;/strong&gt;： 一般社団法人 雷（IKAZUCHI） / 福岡未踏的人材発掘・育成プロジェクト&lt;br&gt;（経済産業省「地方の若手人材発掘育成支援事業（AKATSUKIプロジェクト）」採択事業）&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;公式ウェブサイト&lt;/strong&gt;： &lt;a href="https://mitou-fukuoka.org" rel="nofollow"&gt;福岡未踏 公式サイト&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;お問い合わせ&lt;/strong&gt;： 福岡未踏事務局（担当：澤田）&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/397411/</guid><enclosure url="https://media.connpass.com/thumbs/36/91/369144d45ae481ce2b26e20647c538c0.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 10:01:22 +0900</pubDate></item><item><title>LEDキューブを作ろう！はんだ付け×Arduino #2</title><link>https://connpass.com/event/394186/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月12日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月12日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Arduinoでオリジナルアニメーションを作成しよう！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;/ul&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/397411/</guid><enclosure url="https://media.connpass.com/thumbs/a7/ec/a7ecdde9bff648b607ddce55ac509702.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 22:52:58 +0900</pubDate></item><item><title>LEDキューブを作ろう！はんだ付け×Arduino #2</title><link>https://connpass.com/event/394186/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月12日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月12日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 福岡市エンジニアカフェ（赤煉瓦文化館内）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡市中央区天神1丁目15番30号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Arduinoでオリジナルアニメーションを作成しよう！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;4×4×4のLEDキューブを、&lt;strong&gt;はんだ付けからアニメーション作成まで&lt;/strong&gt;、2週連続で一緒に作り上げるワークショップです！ &lt;/p&gt;
 &lt;p&gt;🔧 1週目は、64個のLEDを基板にはんだ付けしてキューブを完成させます！&lt;/p&gt;
 &lt;p&gt;💻 2週目は、Arduinoでオリジナルアニメーションを作成します！&lt;/p&gt;
@@ -3418,7 +3332,60 @@ Datadogを触ったことがない人からプロの方まで楽しめるもの�
 &lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt;
 &lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt;
 &lt;h2&gt;Engineer Cafe&lt;/h2&gt;
-&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/394186/</guid><enclosure url="https://media.connpass.com/thumbs/ca/3a/ca3a53ae08d163732f85cd56b21dd98f.png" length="0" type="image/png"/><pubDate>Sun, 31 May 2026 16:28:34 +0900</pubDate></item><item><title>GMOイエラエ Pentest Meetup Night in 福岡</title><link>https://ierae.connpass.com/event/396268/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月15日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月15日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: GMO Yours（GMO 天神 オフィス）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神二丁目８番35号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gmoierae_meetup&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;侵入テストの最新現場実務&lt;/p&gt;&lt;div&gt;&lt;h1&gt;GMOイエラエ Pentest Meetup Night in 福岡 ― 侵入テストの最新現場実務&lt;/h1&gt;
+&lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/394186/</guid><enclosure url="https://media.connpass.com/thumbs/ca/3a/ca3a53ae08d163732f85cd56b21dd98f.png" length="0" type="image/png"/><pubDate>Sun, 31 May 2026 16:28:34 +0900</pubDate></item><item><title>※日曜日です 第106回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）</title><link>https://coderdojo-fukuoka.connpass.com/event/397731/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月12日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月12日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン + Fukuoka Growth Next&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区大名2-6-11&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You only live once, so get coding!&lt;/p&gt;&lt;div&gt;&lt;h1&gt;！日曜日です！！ （7/12（日） 14:00〜）&lt;/h1&gt;
+&lt;h1&gt;会場は2階の予定です&lt;/h1&gt;
+&lt;p&gt;第106回 CoderDojo 福岡を開催します&lt;/p&gt;
+&lt;p&gt;日時：7/12（日） 14:00 - 16:00&lt;br&gt;
+場所：オンライン（Jitsi Meet）&lt;br&gt;
+　　　 Fukuoka Growth Next （大名小跡地）（パソコン貸出OK）&lt;br&gt;
+参加費：無料&lt;/p&gt;
+&lt;p&gt;子どもたちが自分がやりたいプログラミングやテクノロジーの探求を自由に行い、ボランティアのメンターがそれをサポートします。未経験でも大丈夫です。始め方をガイドします。&lt;/p&gt;
+&lt;p&gt;※facebookページでも申し込みを受け付けているため、このページで定員に達していなくても申し込みを締め切る場合があります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;オンライン開催について&lt;/h3&gt;
+&lt;p&gt;オンラインでもいままでどおり、自由にプログラミングを楽しむ場、としたいと考えています。&lt;br&gt;
+オンラインでも画面共有してメンターに質問や相談できます（他のニンジャがいっしょに考えてくれることも）。&lt;/p&gt;
+&lt;h3&gt;Jitsi Meetについて&lt;/h3&gt;
+&lt;p&gt;１．オープンソースのビデオ会議システム「Jitsi Meet」を使用します。&lt;br&gt;
+２．パソコンからはプラウザ（Chrome推奨）、スマホやタブレットからはアプリを使用します。&lt;br&gt;
+　　&lt;a href="https://meet.jit.si/" rel="nofollow"&gt;https://meet.jit.si/&lt;/a&gt; &lt;br&gt;
+３．操作は、Zoomなどを使ったことがあればすぐにわかると思います。&lt;/p&gt;
+&lt;p&gt;※当日は30分前くらいからオンライン会議室をオープンします。Dojoスタート前に、カメラやマイク、チャットなど試すことができます。&lt;br&gt;
+※前日の21:00には接続先を送信します。@connpass.com からメールが届きます。届いていない場合は迷惑フォルダーなどを確認ください。&lt;/p&gt;
+&lt;h3&gt;会場（パソコン貸出可能）について&lt;/h3&gt;
+&lt;p&gt;会場（Fukuoka Growth Next）ではパソコン貸出可能です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;マイクロビットもあります。Arduino、ラズベリーパイ、LEGO EV3などを使いたい場合は事前に連絡いただくとスムーズです。&lt;/p&gt;
+&lt;p&gt;【会場】&lt;br&gt;
+Fukuoka Growth Next&lt;br&gt;
+福岡市中央区大名2-6-11&lt;br&gt;
+&lt;a href="https://growth-next.com" rel="nofollow"&gt;https://growth-next.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;申し込み方法&lt;/h3&gt;
+&lt;p&gt;当ページで「このイベントに申し込む」を押してください。&lt;br&gt;
+メンターは経験、事前準備不要です。お気軽にお申込みください。&lt;/p&gt;
+&lt;p&gt;※ キャンセルは「申し込みキャンセル」ボタンを押してください。&lt;/p&gt;
+&lt;h3&gt;CoderDojoとは&lt;/h3&gt;
+&lt;p&gt;CoderDojo は子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本では全国に200以上の道場があります。&lt;br&gt;
+&lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;CoderDojo福岡&lt;/h3&gt;
+&lt;p&gt;CoderDojo福岡は、福岡市中央区天神で毎月1回開催中です。&lt;br&gt;
+&lt;a href="https://www.facebook.com/CoderDojoFukuoka/" rel="nofollow"&gt;https://www.facebook.com/CoderDojoFukuoka/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;参加費：無料&lt;br&gt;
+対象年齢：小学生、中学生、高校生&lt;br&gt;
+(小学校低学年１、２年のお子さまには保護者さまが横についていただくようお願いします。）&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;内容：Scratch, micro:bit, Webページ制作, 機械学習, JavaScript, Python, OCaml他&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo 福岡はボランティアで運営されている無料で自由なプログラミングクラブです。それぞれのお子さんが自分のやりたいことに取り組み、大人（メンター）がそれをサポートします。未経験のお子さまでも始めかたをガイドしますので大丈夫です。
+（どの回から参加されてもその回から始められます）&lt;/p&gt;
+&lt;p&gt;みんなでプログラミングはじめてみよう、たのしもう！&lt;/p&gt;
+&lt;h3&gt;CoderDojoガイダンス&lt;/h3&gt;
+&lt;p&gt;初めて参加される場合は事前に一読をお願いします。&lt;br&gt;
+&lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt;
+にある「CoderDojoへようこそ」というスライド&lt;/p&gt;
+&lt;h3&gt;知っておきたい!CoderDojo用語&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dojo(道場) - プログラミングしにくる場所&lt;/li&gt;
+&lt;li&gt;Ninja(ニンジャ) - 参加している子ども達&lt;/li&gt;
+&lt;li&gt;Mentor(メンター) - ニンジャの相談役&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-fukuoka.connpass.com/event/397731/</guid><enclosure url="https://media.connpass.com/thumbs/c6/08/c6086d860324ac5f7a861d3cee87643c.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 07:56:44 +0900</pubDate></item><item><title>GMOイエラエ Pentest Meetup Night in 福岡</title><link>https://ierae.connpass.com/event/396268/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月15日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月15日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: GMO Yours（GMO 天神 オフィス）&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市中央区天神二丁目８番35号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #gmoierae_meetup&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;侵入テストの最新現場実務&lt;/p&gt;&lt;div&gt;&lt;h1&gt;GMOイエラエ Pentest Meetup Night in 福岡 ― 侵入テストの最新現場実務&lt;/h1&gt;
 &lt;p&gt;攻撃者の視点で守る。現場のプロとざっくばらん話しませんか？&lt;/p&gt;
 &lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;GMOサイバーセキュリティ byイエラエ株式会社が、2026年4月に開設したばかりのGMO天神オフィスで、初の福岡リアルMeet Upを開催します。&lt;br&gt;&lt;/p&gt;
@@ -4214,9 +4181,9 @@ AWSを触り始めたばかりの方から、ガッツリ運用している方�
 TVCM公開記念ノベルティや、イベント後半には懇親タイムもご用意していますので、ぜひカジュアルにご参加ください！&lt;/p&gt;
 &lt;h3&gt;🧑‍💻こんな方におすすめ&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;ファインディのエンジニア組織に興味がある方&lt;/li&gt;
-&lt;li&gt;生成AIやAIエージェントの開発・活用に興味がある方&lt;/li&gt;
-&lt;li&gt;チームや組織でのAI活用を模索している方&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ファインディのエンジニア組織に興味があるエンジニア&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日々の業務でAIエージェントを活用している&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;開発チームや組織でのAI活用を模索している&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;☑️イベントのゴール&lt;/h3&gt;
 &lt;ul&gt;
@@ -4326,7 +4293,7 @@ TVCM公開記念ノベルティや、イベント後半には懇親タイムも�
 &lt;p&gt;&lt;a href="https://findy-tools.io/" rel="nofollow"&gt;開発ツールのレビューサイト「Findy Tools」&lt;/a&gt;：&lt;br&gt;
 開発ツールに特化したレビューサイトです。第三者の視点で実際にツールの選定を行った企業の生の声を集めることで、ツール選定に関する不安を解消し、導入検討に必要な情報を提供します。&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://findy-inc.connpass.com/event/395307/</guid><enclosure url="https://media.connpass.com/thumbs/aa/3f/aa3f47d9961443ab3b3a6cd6b39cdc38.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 09:14:27 +0900</pubDate></item><item><title>早良.dev #14</title><link>https://sawara-dev.connpass.com/event/396453/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月9日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月9日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 早良市民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市早良区百道２丁目２−１ ２Ｆ&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sawara_dev&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;早良.devについて&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://findy-inc.connpass.com/event/395307/</guid><enclosure url="https://media.connpass.com/thumbs/aa/3f/aa3f47d9961443ab3b3a6cd6b39cdc38.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 16:37:11 +0900</pubDate></item><item><title>早良.dev #14</title><link>https://sawara-dev.connpass.com/event/396453/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月9日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月9日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 早良市民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 福岡県福岡市早良区百道２丁目２−１ ２Ｆ&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sawara_dev&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;早良.devについて&lt;/h2&gt;
 &lt;p&gt;福岡市早良区周辺のソフトウェアエンジニアによるIT勉強会コミュニティです。&lt;br&gt;
 プログラミングなどの技術を楽しみつつ、参加者同士でゆるくつながることを目的としています。&lt;br&gt;
 もちろん他地域の方の参加も大歓迎です！初心者・学生、どなたでもお気軽にご参加ください。&lt;/p&gt;

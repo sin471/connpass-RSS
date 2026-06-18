@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長崎のイベント</title><link>https://connpass.com/explore/</link><description>長崎のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長崎のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 17 Jun 2026 17:46:38 +0000</lastBuildDate><item><title>JAWS-UG長崎 BuilderCards Night #1</title><link>https://jawsug-nagasaki.connpass.com/event/396634/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月17日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月17日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: bar tuath&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎市船大工町6-13 (紳士堂ビル1階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_nagasaki&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～遊びながらAWSを学ぶ夜～&lt;/p&gt;&lt;div&gt;&lt;p&gt;AWSに興味はあるけれど、勉強会は少しハードルが高い。&lt;/p&gt;
-&lt;p&gt;そんな方でも気軽に参加できる場として、JAWS-UG長崎では毎月第3水曜日に「BuilderCards Night」を開催します。&lt;/p&gt;
-&lt;p&gt;AWS公式カードゲーム「AWS BuilderCards」をプレイしながら、AWSのサービスや構成について楽しく学び、参加者同士で交流するイベントです。&lt;/p&gt;
-&lt;p&gt;また、カードゲームだけでなく、参加者それぞれが最近気になったAWSサービスやニュース、実際に触ってみたことなどをひとつ持ち寄り、ゆるく共有する時間も設けます。&lt;/p&gt;
-&lt;p&gt;AWSをこれから触ってみたい方、業務で利用している方、個人開発で活用している方まで、レベルを問わず歓迎します。&lt;/p&gt;
-&lt;p&gt;長崎でAWSについて気軽に話せる仲間を増やしながら、一緒に学んでいきましょう。&lt;/p&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AWSに興味がある&lt;/li&gt;
-&lt;li&gt;AWSアカウントは作ったが何をすればいいかわからない&lt;/li&gt;
-&lt;li&gt;他のAWS利用者と交流したい&lt;/li&gt;
-&lt;li&gt;勉強会より気軽な雰囲気で学びたい&lt;/li&gt;
-&lt;li&gt;BuilderCardsをやってみたい&lt;/li&gt;
-&lt;li&gt;長崎のエンジニアコミュニティとつながりたい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;当日の流れ（予定）&lt;/h2&gt;
-&lt;h3&gt;18:30 開場・自己紹介&lt;/h3&gt;
-&lt;p&gt;参加者同士で簡単に自己紹介を行います。&lt;/p&gt;
-&lt;h3&gt;最近気になったAWSを共有&lt;/h3&gt;
-&lt;p&gt;最近触ったAWSサービス、気になったニュース、便利だった機能などを一人ひとつ持ち寄って紹介します。&lt;/p&gt;
-&lt;p&gt;発表というほど堅いものではありません。1〜2分程度の紹介で大丈夫です。&lt;/p&gt;
-&lt;h3&gt;BuilderCardsプレイ&lt;/h3&gt;
-&lt;p&gt;AWS BuilderCardsを使って遊びながらAWSの考え方やサービス構成を学びます。&lt;/p&gt;
-&lt;p&gt;初心者の方もフォローしますので安心してご参加ください。&lt;/p&gt;
-&lt;h3&gt;振り返り・交流タイム&lt;/h3&gt;
-&lt;p&gt;ゲームで出てきたサービスの話や、日頃のAWS活用について自由に交流します。&lt;/p&gt;
-&lt;h2&gt;飲食について&lt;/h2&gt;
-&lt;p&gt;会場はバーをお借りして開催します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ワンドリンクの注文をお願いします&lt;/li&gt;
-&lt;li&gt;参加人数によっては簡単な軽食を用意いただける場合があります&lt;/li&gt;
-&lt;li&gt;アルコールの有無は問いません。ノンアルコールもご用意があります。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;お酒を飲む会ではなく、「AWSを話題に交流する場」として開催しますので、お気軽にご参加ください。&lt;/p&gt;
-&lt;h2&gt;JAWS-UG長崎について&lt;/h2&gt;
-&lt;p&gt;JAWS-UG長崎は、AWSをきっかけに学び、実践し、つながるコミュニティです。&lt;/p&gt;
-&lt;p&gt;初心者から経験者まで、地域や所属を問わず参加できます。&lt;/p&gt;
-&lt;p&gt;まずは気軽に遊びに来てください。AWSの話ができる仲間を増やしていきましょう。&lt;/p&gt;
-&lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;p&gt;開催最小人数は3人です。
-これを下回った場合、中止とさせていただきますので、ご了承ください。
-申し込み締め切りの前日に判断いたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagasaki.connpass.com/event/396634/</guid><enclosure url="https://media.connpass.com/thumbs/ee/9b/ee9b13a5e40d45cbf6c60bc9f28d22c6.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 13:24:33 +0900</pubDate></item><item><title>ITキャンプ in 南島原2026</title><link>https://minasapo.connpass.com/event/391927/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ミナサポ&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県南島原市西有家町長野1776&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;南島原の大自然の中でITスキルを学ぼう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;南島原の自然の中でITについて学ぼう！！&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長崎のイベント</title><link>https://connpass.com/explore/</link><description>長崎のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長崎のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 18 Jun 2026 17:56:33 +0000</lastBuildDate><item><title>ITキャンプ in 南島原2026</title><link>https://minasapo.connpass.com/event/391927/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月21日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ミナサポ&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県南島原市西有家町長野1776&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;南島原の大自然の中でITスキルを学ぼう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;南島原の自然の中でITについて学ぼう！！&lt;/h1&gt;
 &lt;p&gt;今年で11回目を迎える「ITキャンプ in 南島原2026」は、小学生から大人までがITに関する技術を学ぶ事ができ、また南島原の豊かな自然の中に作られたキャンプ場「エコパーク論所原」に宿泊して、最新のIT技術やIT業界のお仕事について知ることができるイベントです。&lt;/p&gt;
 &lt;p&gt;今回のイベントのテーマは「&lt;b&gt;生成AIを育てる！&lt;/b&gt;」。ハンズオン形式で実践的にIT技術を学ぶことができるワークショップを用意しています。&lt;/p&gt;
 &lt;h2&gt;参加して欲しい人&lt;/h2&gt;
@@ -64,7 +23,7 @@ wifiやネットへの接続する環境はミナサポのゲストwifiを使用
 昨今登場した音楽生成AIに対し、「著作権や剽窃への懸念」や「誰でも作れてしまうことへの抵抗感」を抱くクリエイターは少なくありません。これらを新たな創造の手段として捉え直し、自分らしいクリエイティブに活用することは可能なのでしょうか？  &lt;br&gt;
 本ワークショップでは音楽生成AI「Suno」の無料枠をメインに使い、「AI任せのガチャ」ではなく、高品質で独自性のある楽曲を狙い通りに生成するプロセスを模索します。&lt;br&gt;
 生成AIから自分の中の美意識を引き出し、「作品」へ昇華させることが可能なのか、新たな表現の可能性を探ります。&lt;br&gt;
-&lt;b&gt;資料URL:&lt;/b&gt; 準備中&lt;br&gt;
+&lt;b&gt;資料URL:&lt;/b&gt; https://canva.link/2gdli0qvhb2zxof&lt;br&gt;
 &lt;b&gt;ハンズオンしたい方へ&lt;/b&gt;&lt;br&gt;
 　・お手持ちの端末（PC推奨・スマホも可）とイヤフォン・ヘッドフォンの用意をお願いします。&lt;br&gt;
 　・音楽生成AIはSUNO(無課金)を利用して解説する予定です。事前にアカウント登録をお願いします。&lt;br&gt;
@@ -212,7 +171,7 @@ ITに関連することなら、シェル芸でもなんでもOK。希望の場�
 ※申込みの際に前夜祭参加希望の旨コメントに記載してください。追って連絡をいたします。&lt;/p&gt;
 &lt;h1&gt;問い合わせ&lt;/h1&gt;
 &lt;p&gt;オープンキャンプへの参加、内容についてのお問い合わせはメールでお願いします。&lt;/p&gt;
-&lt;p&gt;all at &lt;a href="http://minasapo.jp" rel="nofollow"&gt;minasapo.jp&lt;/a&gt;　※atを@に変換願います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minasapo.connpass.com/event/391927/</guid><enclosure url="https://media.connpass.com/thumbs/79/68/79683ea7766743a7c51451e5aac216b5.png" length="0" type="image/png"/><pubDate>Mon, 15 Jun 2026 17:49:52 +0900</pubDate></item><item><title>AIガジェット&amp;開発</title><link>https://engineer-plus.connpass.com/event/397554/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: CO-DEJIMA&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県長崎市出島町2-11号出島交流会館2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜 控えめな自慢と共有、気になるガジェット 〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;＜今回のエンジニアプラスのイベント内容は？＞&lt;/h2&gt;
+&lt;p&gt;all at &lt;a href="http://minasapo.jp" rel="nofollow"&gt;minasapo.jp&lt;/a&gt;　※atを@に変換願います。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minasapo.connpass.com/event/391927/</guid><enclosure url="https://media.connpass.com/thumbs/79/68/79683ea7766743a7c51451e5aac216b5.png" length="0" type="image/png"/><pubDate>Thu, 18 Jun 2026 08:43:46 +0900</pubDate></item><item><title>AIガジェット&amp;開発</title><link>https://engineer-plus.connpass.com/event/397554/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: CO-DEJIMA&lt;/li&gt;&lt;li&gt;🏢 住所: 長崎県長崎市出島町2-11号出島交流会館2F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜 控えめな自慢と共有、気になるガジェット 〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;＜今回のエンジニアプラスのイベント内容は？＞&lt;/h2&gt;
 &lt;p&gt;AI時代のガジェットについて話せる、聞ける交流会！&lt;/p&gt;
 &lt;p&gt;このイベントは、参加者同士で気軽に交流するイベントです。&lt;/p&gt;
 &lt;p&gt;エンジニアでも、エンジニアじゃなくても参加OK！&lt;/p&gt;
