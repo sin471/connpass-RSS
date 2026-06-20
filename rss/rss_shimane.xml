@@ -1,72 +1,159 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>島根のイベント</title><link>https://connpass.com/explore/</link><description>島根のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>島根のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 19 Jun 2026 17:12:31 +0000</lastBuildDate><item><title>第157回オープンソースサロン</title><link>https://shimane-oss.connpass.com/event/395081/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月19日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月19日(金) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 松江オープンソースラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 松江市朝日町478番地18松江テルサ別館2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;『RubyKaigi 2026参加レポート』&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;第157回オープンソースサロン『RubyKaigi 2026参加レポート』を開催します。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;プログラミング言語「Ruby」のカンファレンス「RubyKaigi 2026」が、2026年4月22日〜24日の3日間にわたり函館で開催されました。今回のオープンソースサロンでは、「RubyKaigi 2026」に参加された方々による参加レポートをお届けします！&lt;/p&gt;
-&lt;p&gt;最新のRubyの動向や、現地で話題になった技術トピック、会場の様子など、お話いただけるものと思います。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;また、発表の最後にまつもとゆきひろ 氏（一般財団法人Rubyアソシエーション 理事長）によるごあいさつも予定しています！&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>島根のイベント</title><link>https://connpass.com/explore/</link><description>島根のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>島根のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 20 Jun 2026 16:12:21 +0000</lastBuildDate><item><title>【超初心者OK】LINEで動くAI秘書を、自分の手で作ってみる夜~1番初心者向けのハンズオン~</title><link>https://linedevelopercommunity.connpass.com/event/397941/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月23日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月23日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: LID飯南事務所&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県飯石郡飯南町下赤名830&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LINEDC&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ノーコードで作る!オリジナルAI秘書LINE Bot&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;「AIを使ってみたい。でもプログラミングは分からない…」
+「LINE Botって作れるの?難しそう…」&lt;/p&gt;
+&lt;p&gt;そんな方のための、&lt;strong&gt;プログラミング経験ゼロの完全初心者向け&lt;/strong&gt;ハンズオンです。&lt;/p&gt;
+&lt;p&gt;ノーコードAI構築サービス &lt;strong&gt;&lt;a href="https://miibo.ai/" rel="nofollow"&gt;miibo(ミーボ)&lt;/a&gt;&lt;/strong&gt; を使って、自分専用のAI秘書をLINE Botとして動かします。
+コードは一行も書きません。&lt;strong&gt;miiboのアカウントとLINEアカウントさえあれば&lt;/strong&gt;、誰でも今日から自分のAI秘書を持てます。&lt;/p&gt;
+&lt;h1&gt;こんなAI秘書が作れます(例)&lt;/h1&gt;
+&lt;p&gt;ハンズオンでは、まず&lt;strong&gt;「汎用的なAI秘書」のベース&lt;/strong&gt;を全員で一緒に作ります。その後、自分の好きな用途にカスタマイズする流れです。&lt;/p&gt;
+&lt;p&gt;例えば、こんなAI秘書を作ってみてください:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;「RubyKaigiに行きたかったけれど、今回は都合がつかなかった」&lt;/li&gt;
-&lt;li&gt;「最新の技術トレンドやコミュニティの雰囲気を知りたい」&lt;/li&gt;
-&lt;li&gt;「次回のRubyKaigiへの参加を迷っている」&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;英語学習秘書&lt;/strong&gt;: 話しかけると英語で会話を返してくれる練習相手&lt;/li&gt;
+&lt;li&gt;💡 &lt;strong&gt;おせっかい先生&lt;/strong&gt;: 質問1つに対して、おせっかいなくらい色々な角度で答えてくれる&lt;/li&gt;
+&lt;li&gt;🌱 &lt;strong&gt;やさい雑学Bot&lt;/strong&gt;: 毎日、農業や野菜の雑学を届けてくれるBot&lt;/li&gt;
+&lt;li&gt;🎂 &lt;strong&gt;誕生日お知らせBot&lt;/strong&gt;: 有名人や偉人の今日の誕生日を毎日教えてくれる&lt;/li&gt;
+&lt;li&gt;☕ &lt;strong&gt;その他、自分の生活に合わせた何でも&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;そんな方はぜひお気軽にご参加ください。次回参加へのヒントにしていただければ幸いです。&lt;/p&gt;
-&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。 &lt;/p&gt;
-&lt;p&gt;サロン終了後は懇親会を開催します。（会場準備中）&lt;br&gt;
-皆様のご参加を心よりお待ちしております。&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;2026年6月19日(金) &lt;/p&gt;
-&lt;p&gt;講　演 18:30〜20:00&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;発表者&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;「自分の毎日にこんなBotがいたら便利」というアイデアがあれば、ハンズオンの後半でカスタマイズして実際に作れます。&lt;/p&gt;
+&lt;h1&gt;このハンズオンの特徴&lt;/h1&gt;
+&lt;p&gt;✅ &lt;strong&gt;プログラミング不要&lt;/strong&gt;: コードを書く場面はゼロ。すべてノーコードのGUI操作&lt;br&gt;
+✅ &lt;strong&gt;無料で完結&lt;/strong&gt;: miiboの無料プラン + LINEの個人アカウントで動きます&lt;br&gt;
+✅ &lt;strong&gt;持ち帰り可能&lt;/strong&gt;: ハンズオンで作ったAI秘書は、その日から使い続けられます&lt;br&gt;
+✅ &lt;strong&gt;2時間でカタチに&lt;/strong&gt;: 概念説明〜実装〜カスタマイズまで一通り体験&lt;br&gt;
+✅ &lt;strong&gt;質問しやすい雰囲気&lt;/strong&gt;: 後半は質疑応答・デバッグタイムをたっぷり確保&lt;/p&gt;
+&lt;h1&gt;こんな方におすすめ&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;井上 浩 氏（しまねOSS協議会 会長）&lt;/li&gt;
-&lt;li&gt;羽角 均 氏（株式会社アンドパッド）&lt;/li&gt;
-&lt;li&gt;高尾 宏治 氏（株式会社ネットワーク応用通信研究所）&lt;/li&gt;
-&lt;li&gt;加納 寛之 氏（株式会社ネットワーク応用通信研究所）&lt;/li&gt;
-&lt;li&gt;船越 雄太 氏（島根県）&lt;/li&gt;
-&lt;li&gt;まつもとゆきひろ 氏（一般財団法人Rubyアソシエーション 理事長）&lt;/li&gt;
+&lt;li&gt;AIに興味はあるけど、プログラミングは未経験の方&lt;/li&gt;
+&lt;li&gt;LINE Botを自分で作ってみたかった方&lt;/li&gt;
+&lt;li&gt;仕事や生活を便利にするツールを自作したい方&lt;/li&gt;
+&lt;li&gt;ノーコードでAIを使う、最新のスキルを身につけたい方&lt;/li&gt;
+&lt;li&gt;「やってみたい」という気持ちがある方(技術的な前提知識は不要です!)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;懇親会&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;会場：海鮮鉄板　やまおか食堂（松江市伊勢宮町500-11）0852-27-0808&lt;br&gt;
-時間：20時〜（サロン終了後）&lt;br&gt;
-会費：6,000円程度&lt;br&gt;
-&lt;a href="https://yamaoka.sub.jp/yamaokasyokudou.html" rel="nofollow"&gt;https://yamaoka.sub.jp/yamaokasyokudou.html&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shimane-oss.connpass.com/event/395081/</guid><pubDate>Thu, 11 Jun 2026 19:36:47 +0900</pubDate></item><item><title>Izumo Developers' Guild 第15回 meetup</title><link>https://izumo-developers-guild.connpass.com/event/397558/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月20日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月20日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Izumonomad&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県出雲市今市町2065番地 1F パルメイト出雲&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #izumo_developers_guild&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Izumo Developers' Guild について&lt;/h2&gt;
-&lt;p&gt;Izumo Developers' Guild は、主に出雲で活動している
-Ruby大好き、その他技術が好きなエンジニアが集まるコミュニティです。&lt;/p&gt;
-&lt;p&gt;第15回ミートアップは、2026/06/20(土) 13:00～ Izumonomadで開催します。&lt;/p&gt;
+&lt;h1&gt;事前準備&lt;/h1&gt;
+&lt;p&gt;当日をスムーズに進めるため、以下のアカウントを事前に作成しておいてください。&lt;/p&gt;
+&lt;p&gt;①&lt;strong&gt;miiboのアカウント作成(無料プラン)&lt;/strong&gt;
+&lt;a href="https://miibo.ai/" rel="nofollow"&gt;https://miibo.ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;② &lt;strong&gt;LINE公式アカウントの作成&lt;/strong&gt;
+普段使いのLINEアカウントとは別に、Bot用のLINE公式アカウントを作成します。&lt;/p&gt;
+&lt;p&gt;作成の流れ&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zenn.dev/protoout/articles/16-line-bot-setup" rel="nofollow"&gt;https://zenn.dev/protoout/articles/16-line-bot-setup&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;【第1部:全員で「汎用AI秘書」を作る】
+
+① miiboとLINE Botの世界をのぞいてみる
+   ノーコードAIってどんな仕組み?
+
+② miiboで「汎用AI秘書」のベースを作る
+   性格・口調・できることを設定
+
+③ LINEと接続する
+   作ったAIをLINE Botとして動かす
+
+【第2部:自分専用にカスタマイズ】
+
+④ 自分の好きな用途にカスタマイズ
+   英語学習?雑学?おしゃべり相手?自由に変えてみる
+
+⑤ みんなで触ってフィードバック
+   隣の人のBotと話してみる、感想を共有
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;タイムライン&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;時間&lt;/th&gt;
 &lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;担当&lt;/th&gt;
+&lt;th&gt;目安&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;13:00&lt;/td&gt;
-&lt;td&gt;開場&lt;/td&gt;
+&lt;td&gt;19:00〜19:10&lt;/td&gt;
+&lt;td&gt;オープニング・自己紹介&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;10分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;13:15&lt;/td&gt;
-&lt;td&gt;自己紹介・今日やることを発表&lt;/td&gt;
+&lt;td&gt;19:10〜19:25&lt;/td&gt;
+&lt;td&gt;ノーコードAI/miibo/LINE Botの基本&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;td&gt;15分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;17:30&lt;/td&gt;
-&lt;td&gt;今日の成果発表&lt;/td&gt;
+&lt;td&gt;19:25〜20:00&lt;/td&gt;
+&lt;td&gt;全員で「汎用AI秘書」を作る&lt;/td&gt;
+&lt;td&gt;のびすけ&lt;/td&gt;
+&lt;td&gt;35分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;18:00&lt;/td&gt;
-&lt;td&gt;退場&lt;/td&gt;
+&lt;td&gt;20:00〜20:30&lt;/td&gt;
+&lt;td&gt;自分用にカスタマイズ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;30分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:30〜21:00&lt;/td&gt;
+&lt;td&gt;質疑応答・デバッグ・成果共有&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;30分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2&gt;行動規範&lt;/h2&gt;
-&lt;p&gt;RubyKaigi のアンチハラスメントポリシーを採用します。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://rubykaigi.org/2026/policies/" rel="nofollow"&gt;https://rubykaigi.org/2026/policies/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Slack&lt;/h2&gt;
-&lt;p&gt;参加URL: &lt;a href="https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw" rel="nofollow"&gt;https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;次回の開催内容など、Slack で話しています。&lt;/p&gt;
-&lt;p&gt;興味がある方はどなたでも参加可能です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://izumo-developers-guild.connpass.com/event/397558/</guid><enclosure url="https://media.connpass.com/thumbs/2e/c4/2ec408da3d4672005f3bbe5ce7d8ca24.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 19:16:56 +0900</pubDate></item><item><title>engineer unite meetup vol.11</title><link>https://enun.connpass.com/event/395886/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enun&lt;/li&gt;&lt;li&gt;🏢 住所: 〒690-0845 島根県松江市西茶町40-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enun&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;個人開発自慢LT大会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;※質疑応答の時間をたっぷり取っているので、安心して参加してください。&lt;/p&gt;
+&lt;h2&gt;費用について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;参加費: &lt;strong&gt;無料&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ツール利用費: &lt;strong&gt;無料&lt;/strong&gt;(miiboの無料プラン+LINE個人アカウントの範囲で動きます)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;現地参加の方は、&lt;strong&gt;ノートPCをご持参ください&lt;/strong&gt;(タブレットだと一部操作しづらいかも)。&lt;/li&gt;
+&lt;li&gt;配信の録画・スクリーンショットが公開される場合があります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;企画運営・講師紹介&lt;/h1&gt;
+&lt;h3&gt;菅原 のびすけ(すがわら・のびすけ) Twitter : &lt;a href="https://x.com/n0bisuke" rel="nofollow"&gt;https://x.com/n0bisuke&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://gs.dhw.ac.jp/hubfs/images/faculty/faculty_nobisuke_img02.jpg" width="300px"&gt;&lt;/p&gt;
+&lt;p&gt;プロトタイピング専門スクール「プロトアウトスタジオ」プロデューサー。
+1989年生まれ。岩手県立大学在籍時にITベンチャー企業の役員を務める。同大学院を卒業後、株式会社LIGにWebエンジニアとして入社し、Web制作に携わる。2016年7月よりdotstudio株式会社を立ち上げ、IoT・モノづくり領域を中心とした研修や教育業に携わっている。2019年4月にプロトタイピング専門スクール「プロトアウトスタジオ」を立ち上げる。2018年4月よりデジタルハリウッド大学大学院の非常勤講師も務めている。
+日本最大規模のIoTコミュニティであるIoTLTの主催、Microsoft MVP Visual Studio and Development Technologies (Node.js)、IBM Champion、世界で22名の第1期LINE API Expertsの一人。&lt;/p&gt;
+&lt;h1&gt;イベント詳細&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時: 2026/06/23(月) 19:00〜21:00&lt;/li&gt;
+&lt;li&gt;定員: 現地10名(先着順)/ オンライン無制限&lt;/li&gt;
+&lt;li&gt;参加費: 無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;現地会場参加方法&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;LID飯南事務所&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;住所:  島根県飯石郡飯南町下赤名830&lt;/li&gt;
+&lt;li&gt;Googleマップ: &lt;a href="https://maps.app.goo.gl/f2WrUDSx8F2rkSAH7" rel="nofollow"&gt;https://maps.app.goo.gl/f2WrUDSx8F2rkSAH7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[アクセス・駐車場情報を記入]&lt;/p&gt;
+&lt;h1&gt;オンライン参加方法&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Connpassにお申し込みいただくと、参加者欄にURLが表示されます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主催: &lt;a href="https://linedevelopercommunity.connpass.com/" rel="nofollow"&gt;LINE Developer Community&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Youtube チャンネルへの登録よろしくおねがいします!&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1" rel="nofollow"&gt;http://www.youtube.com/channel/UCZkYYwmvSA6y7WWLxM5x9IA?sub_confirmation=1&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;コミュニティ行動規範(Code of Conduct)について&lt;/h2&gt;
+&lt;p&gt;本コミュニティは参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
+そのために、以下のような行為は禁止されております。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ヘイトスピーチ&lt;/li&gt;
+&lt;li&gt;性的な言葉や画像、性別に言及したり、性別により受け取り方の変わる言葉や画像の使用&lt;/li&gt;
+&lt;li&gt;侮辱や軽蔑的、中傷や他者を貶めるような発言&lt;/li&gt;
+&lt;li&gt;他者のプライバシーや私的な情報の無許可での公開&lt;/li&gt;
+&lt;li&gt;その他多様性への配慮を著しく欠く発言や行動&lt;/li&gt;
+&lt;li&gt;食事のみを目的とした参加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
+&lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。
+X @linedc_jp
+E-mail: linedevcom@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/397941/</guid><enclosure url="https://media.connpass.com/thumbs/bc/4f/bc4fffa417f56676f403642058732422.png" length="0" type="image/png"/><pubDate>Sat, 20 Jun 2026 18:12:58 +0900</pubDate></item><item><title>engineer unite meetup vol.11</title><link>https://enun.connpass.com/event/395886/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enun&lt;/li&gt;&lt;li&gt;🏢 住所: 〒690-0845 島根県松江市西茶町40-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #enun&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;個人開発自慢LT大会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;エンジニアの交流と情報交換を目的としたノンジャンル勉強会です&lt;/li&gt;
 &lt;li&gt;島根県松江市にあるコワーキングスペースenunを会場として、原則オフラインで開催します&lt;/li&gt;
@@ -246,4 +333,40 @@ Ruby大好き、その他技術が好きなエンジニアが集まるコミュ�
 &lt;h2&gt;過去の様子&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="第3回" src="https://cacoo.com/diagrams/CiGwGioBCtbngKMr-64E37.png" width="800"&gt;
 &lt;img alt="第5回" src="https://cacoo.com/diagrams/CiGwGioBCtbngKMr-0FA93.png" width="800"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iwami-tech-commons.connpass.com/event/395298/</guid><enclosure url="https://media.connpass.com/thumbs/c0/93/c0936386aa5426d66ad26359d747a34b.png" length="0" type="image/png"/><pubDate>Mon, 08 Jun 2026 16:03:25 +0900</pubDate></item><item><title>OSC 2026 Shimane 当日スタッフ</title><link>https://shimane-oss.connpass.com/event/391639/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月11日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月11日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 松江テルサ&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県松江市朝日町478-18&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://shimane-oss.connpass.com/event/391639/</guid><pubDate>Fri, 08 May 2026 07:57:14 +0900</pubDate></item><item><title>懇親会（OSC 2026 Shimane）</title><link>https://shimane-oss.connpass.com/event/396836/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月11日(土) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月11日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 炉端かば 松江駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県松江市御手船場町564-2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;オープンソースカンファレンス 2026 Shimane の懇親会です&lt;/p&gt;&lt;div&gt;&lt;p&gt;「&lt;a href="https://event.ospn.jp/osc2026-shimane/" rel="nofollow"&gt;オープンソースカンファレンス 2026 Shimane&lt;/a&gt;」の懇親会です！&lt;br&gt;
-オープンソースカンファレンス終了後に、19時から懇親会を開催します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shimane-oss.connpass.com/event/396836/</guid><enclosure url="https://media.connpass.com/thumbs/f2/bc/f2bc3c352e60ca5f83d1334d5373b37e.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 17:52:28 +0900</pubDate></item></channel></rss>
+オープンソースカンファレンス終了後に、19時から懇親会を開催します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shimane-oss.connpass.com/event/396836/</guid><enclosure url="https://media.connpass.com/thumbs/f2/bc/f2bc3c352e60ca5f83d1334d5373b37e.png" length="0" type="image/png"/><pubDate>Wed, 17 Jun 2026 17:52:28 +0900</pubDate></item><item><title>Izumo Developers' Guild 第16回 meetup</title><link>https://izumo-developers-guild.connpass.com/event/398008/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Izumonomad&lt;/li&gt;&lt;li&gt;🏢 住所: 島根県出雲市今市町2065番地 1F パルメイト出雲&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #izumo_developers_guild&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Izumo Developers' Guild について&lt;/h2&gt;
+&lt;p&gt;Izumo Developers' Guild は、主に出雲で活動している
+Ruby大好き、その他技術が好きなエンジニアが集まるコミュニティです。&lt;/p&gt;
+&lt;p&gt;第16回ミートアップは、2026/07/25(土) 13:00～ Izumonomadで開催します。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;td&gt;自己紹介・今日やることを発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:30&lt;/td&gt;
+&lt;td&gt;今日の成果発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;退場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;行動規範&lt;/h2&gt;
+&lt;p&gt;RubyKaigi のアンチハラスメントポリシーを採用します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubykaigi.org/2026/policies/" rel="nofollow"&gt;https://rubykaigi.org/2026/policies/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Slack&lt;/h2&gt;
+&lt;p&gt;参加URL: &lt;a href="https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw" rel="nofollow"&gt;https://join.slack.com/t/izumodevelopersguild/shared_invite/zt-2yaa94dzb-T8DOsLJTQYBCsqzfT82TSw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;次回の開催内容など、Slack で話しています。&lt;/p&gt;
+&lt;p&gt;興味がある方はどなたでも参加可能です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://izumo-developers-guild.connpass.com/event/398008/</guid><enclosure url="https://media.connpass.com/thumbs/2e/c4/2ec408da3d4672005f3bbe5ce7d8ca24.png" length="0" type="image/png"/><pubDate>Sat, 20 Jun 2026 13:41:46 +0900</pubDate></item></channel></rss>
