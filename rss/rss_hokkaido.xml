@@ -1,92 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 24 Jun 2026 16:59:09 +0000</lastBuildDate><item><title>Vue Sapporo #3</title><link>https://vue-sapporo.connpass.com/event/395977/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月24日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月24日(水) 20:50&lt;/li&gt;&lt;li&gt;📍 会場: ふれあい貸し会議室 札幌中屋&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北九条西4-10-1 N9中屋ビル2階 202&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #vuesapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vue.jsと周辺技術を遊び尽くす！初心者も上級者も、知見と悩みを語り合う交流型勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;VueSapporo #3&lt;/h1&gt;
-&lt;h2&gt;～札幌のVue.jsエンジニアLT会～&lt;/h2&gt;
-&lt;p&gt;#3を開催します。
-Vue.jsや関連技術についていろいろお話ししましょう！&lt;/p&gt;
-&lt;p&gt;テーマはVue.jsに関連している or 関連していそうな内容であれば何でも構いません。&lt;br&gt;
-LTは10分+質疑(わいわい)5分です。&lt;/p&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;スピーカー&lt;/th&gt;
-&lt;th&gt;セッションタイトル&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00-19:15&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:15-19:20&lt;/td&gt;
-&lt;td&gt;kouki.miura&lt;/td&gt;
-&lt;td&gt;VueSapporoについて&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:20-19:35&lt;/td&gt;
-&lt;td&gt;kouki.miura&lt;/td&gt;
-&lt;td&gt;LT1 「ReactとVueは仲良くできるのか？」&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:35-19:50&lt;/td&gt;
-&lt;td&gt;RyuziOohashiさん&lt;/td&gt;
-&lt;td&gt;LT2 「vuex-orm から TanStack Query へ」&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:50-20:00&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;休憩&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:00-20:15&lt;/td&gt;
-&lt;td&gt;iwami_rさん&lt;/td&gt;
-&lt;td&gt;LT3 「Vue.jsで利用できるUIライブラリを知る」&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15-20:30&lt;/td&gt;
-&lt;td&gt;かげろんさん&lt;/td&gt;
-&lt;td&gt;LT4 「Vue SFC slottedの黒魔術を理解する」&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:30-20:35&lt;/td&gt;
-&lt;td&gt;kouki.miura&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:35-20:50&lt;/td&gt;
-&lt;td&gt;全員&lt;/td&gt;
-&lt;td&gt;片付けしながらワイワイ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2&gt;VueSapporoについて&lt;/h2&gt;
-&lt;p&gt;VueSapporoは、札幌周辺のVue.jsエンジニアが集まる勉強会です。&lt;br&gt;
-Vue.jsの使い方や内部仕様、実務での事例や気付きの共有をはじめ、&lt;br&gt;
-Nuxt / Nuxt UI / Vuetify などのエコシステム、&lt;br&gt;
-React・Svelte など他フレームワークとの比較について、&lt;br&gt;
-LT（ライトニングトーク）を中心に情報共有することを目的としています。  &lt;/p&gt;
-&lt;p&gt;Vue.jsをこれから学びたい方から、実務で利用している方まで、&lt;br&gt;
-レベルを問わず気軽に参加できるコミュニティを目指します。&lt;br&gt;
-発表未経験の方のLTも歓迎です。もちろん、聞くだけ参加もOKです。  &lt;/p&gt;
-&lt;p&gt;📍 札幌周辺で開催（Meetup形式）&lt;br&gt;
-📆 初回(#1)開催：2026年2月28日&lt;br&gt;
-🔁 偶数月開催予定（2・4・6・8・10・12月）  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;行動規範&lt;/h2&gt;
-&lt;p&gt;本勉強会は、参加者全員が安心して学び・発表・交流できる場を目指しています。  &lt;/p&gt;
-&lt;p&gt;以下の行動を尊重してください。&lt;br&gt;
-・他者の知識レベルや経験、立場を尊重する&lt;br&gt;
-・発表内容や質問に対して、人格を否定するような発言をしない&lt;br&gt;
-・過度なマウンティングや攻撃的な発言を行わない&lt;br&gt;
-・ハラスメントや差別的な表現は控える&lt;br&gt;
-・本勉強会の趣旨から外れる過度な勧誘・営業行為はしない&lt;br&gt;
-　（所属会社の簡単な紹介や、関わっているプロダクトの概要説明は問題ありません）  &lt;/p&gt;
-&lt;p&gt;運営が不適切と判断した行為があった場合、&lt;br&gt;
-注意・退出のお願いを行うことがあります。あらかじめご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://vue-sapporo.connpass.com/event/395977/</guid><enclosure url="https://media.connpass.com/thumbs/89/98/899826a4161ee604faa323d4cb14e5f8.png" length="0" type="image/png"/><pubDate>Wed, 24 Jun 2026 12:36:13 +0900</pubDate></item><item><title>#03 札幌開催：はじめてのIT勉強会 in 札幌(2026)【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/395590/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月25日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月25日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌デザイン&amp;テクノロジー専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区北1条西8丁目2-75&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hajimete_it&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;はじめての方のためのIT勉強会！6月はネットワークを学ぶ会！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめに&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 25 Jun 2026 17:03:26 +0000</lastBuildDate><item><title>#03 札幌開催：はじめてのIT勉強会 in 札幌(2026)【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/395590/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月25日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月25日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌デザイン&amp;テクノロジー専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区北1条西8丁目2-75&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hajimete_it&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;はじめての方のためのIT勉強会！6月はネットワークを学ぶ会！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめに&lt;/h1&gt;
 &lt;p&gt;はじめてのIT勉強会は、 いろいろな不安があって勉強会への参加を躊躇っている方が 気軽に参加し、「一歩目」を体験しつつ、明日から役立つ知見を獲得するための勉強会です。 参加回数に関わらずご活用いただける内容を提供します&lt;/p&gt;
 &lt;p&gt;勉強会ってなにするの？どんな雰囲気なの？&lt;/p&gt;
 &lt;p&gt;勉強会に行ってみたいけど怖い...&lt;/p&gt;
@@ -244,6 +157,11 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 &lt;td&gt;@misoji_engineer&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;16:30&lt;/td&gt;
+&lt;td&gt;FPC(フレキシブル)基板にZephyr実装してみた&lt;/td&gt;
+&lt;td&gt;@misoji_engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;16:40&lt;/td&gt;
 &lt;td&gt;Zephyr Safetyを追いかけてみた：WG参加とRequirement貢献&lt;/td&gt;
 &lt;td&gt;@Kurokawa&lt;/td&gt;
@@ -385,6 +303,11 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 &lt;td&gt;@misoji_engineer&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;16:30&lt;/td&gt;
+&lt;td&gt;Trying Zephyr on a Flexible PCB&lt;/td&gt;
+&lt;td&gt;@misoji_engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;16:40&lt;/td&gt;
 &lt;td&gt;Following Zephyr Safety: Joining the WG and Contributing Requirements&lt;/td&gt;
 &lt;td&gt;@Kurokawa&lt;/td&gt;
@@ -431,7 +354,7 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 &lt;p&gt;Please review: &lt;a href="https://www.linuxfoundation.org/legal/antitrust-policy" rel="nofollow"&gt;https://www.linuxfoundation.org/legal/antitrust-policy&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;🍺 Social Gathering&lt;/h1&gt;
 &lt;p&gt;We are planning a social gathering in the evening.&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zephyr-rtos.connpass.com/event/386410/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49b3f3d64bef22c30a37261e1d1999c.png" length="0" type="image/png"/><pubDate>Wed, 24 Jun 2026 10:42:38 +0900</pubDate></item><item><title>北海道AIxIoTビジネス共創ラボ 「AIエージェント時代の到来。現場を変える、ビジネスを変える」</title><link>https://iotbizlabo.connpass.com/event/387919/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月26日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月26日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 価値創造空間Space360&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南1条西6丁目20番地1 ジョブキタビル8階(受付) 9階(ラボ)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;【6/26 札幌開催】Microsoft Build 2026 最新レポート！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;北海道AIxIoTビジネス共創ラボ 「AIエージェント時代の到来。現場を変える、ビジネスを変える」&lt;/h1&gt;
+&lt;p&gt;-&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zephyr-rtos.connpass.com/event/386410/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49b3f3d64bef22c30a37261e1d1999c.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 12:18:53 +0900</pubDate></item><item><title>北海道AIxIoTビジネス共創ラボ 「AIエージェント時代の到来。現場を変える、ビジネスを変える」</title><link>https://iotbizlabo.connpass.com/event/387919/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月26日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月26日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 価値創造空間Space360&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南1条西6丁目20番地1 ジョブキタビル8階(受付) 9階(ラボ)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;【6/26 札幌開催】Microsoft Build 2026 最新レポート！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;北海道AIxIoTビジネス共創ラボ 「AIエージェント時代の到来。現場を変える、ビジネスを変える」&lt;/h1&gt;
 &lt;p&gt;【6/26 夜・札幌開催】Microsoft Build 2026 最新レポート！&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;🗓️ イベント概要&lt;/h2&gt;
@@ -441,18 +364,18 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 セッションカタログでは &lt;strong&gt;AIエージェント&lt;/strong&gt; が最大規模のトラックとして独立し、
 マルチエージェント設計・MCPによるLLM連携・本番デプロイが深掘りされます。&lt;/p&gt;
 &lt;p&gt;今回は &lt;strong&gt;2本のキーノート&lt;/strong&gt; でお届けします。&lt;/p&gt;
-&lt;div style="border: 1px solid #cccccc; padding: 16px; margin: 8px 0;"&gt;
+&lt;div style="border:1px solid #cccccc; padding:16px; margin:8px 0;"&gt;
 &lt;strong&gt;🎤 KEYNOTE 1｜日本マイクロソフト株式会社&lt;/strong&gt;&lt;br&gt;
 エバンジェリスト　大川 高志 氏&lt;br&gt;
-&lt;span style="color: gray;"&gt;Microsoft Build 2026 最新レポート&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+&lt;span style="color:gray;"&gt;Microsoft Build 2026 最新レポート&lt;/span&gt;&lt;br&gt;&lt;br&gt;
 LLMオーケストレーション・RAG・エージェント間連携など、
 実運用を見据えた最新アーキテクチャのアップデートを最速で解説！
 &lt;/div&gt;
 
-&lt;div style="border: 1px solid #cccccc; padding: 16px; margin: 8px 0;"&gt;
+&lt;div style="border:1px solid #cccccc; padding:16px; margin:8px 0;"&gt;
 &lt;strong&gt;🎤 KEYNOTE 2｜東京エレクトロンデバイス株式会社&lt;/strong&gt;&lt;br&gt;
 クラウドソリューションアーキテクト　茂出木 裕也 氏&lt;br&gt;
-&lt;span style="color: gray;"&gt;なぜうまくいかない？AIエージェントとデータ活用の勘違い ─ 実際に直面した課題とその解決策&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+&lt;span style="color:gray;"&gt;なぜうまくいかない？AIエージェントとデータ活用の勘違い ─ 実際に直面した課題とその解決策&lt;/span&gt;&lt;br&gt;&lt;br&gt;
 製造業の現場で実際に直面してきた「よくある勘違い」と解決策をリアルな事例とともに語ります。
 Microsoft Top Partner Engineer Award を3年連続受賞した実務家ならではの現場目線のセッションです。
 &lt;/div&gt;
@@ -475,7 +398,7 @@ Microsoft Top Partner Engineer Award を3年連続受賞した実務家ならで
 &lt;p&gt;本勉強会が、こうした課題解決のヒントを提供します。&lt;br&gt;
 &lt;strong&gt;「まだ情報収集の段階」という方も大歓迎です。&lt;/strong&gt;
 前回参加者の約4割が情報収集フェーズからのご参加でした。&lt;/p&gt;
-&lt;div style="background-color: #f0f7ff; border-left: 4px solid #0078d4; padding: 16px; margin: 16px 0;"&gt;
+&lt;div style="background-color:#f0f7ff; border-left:4px solid #0078d4; padding:16px; margin:16px 0;"&gt;
 &lt;strong&gt;▶️ 参加申し込みはこちら（先着順）&lt;/strong&gt;&lt;br&gt;
 &lt;a href="https://iotbizlabo.connpass.com/event/387919/join/" rel="nofollow"&gt;https://iotbizlabo.connpass.com/event/387919/join/&lt;/a&gt;
 &lt;/div&gt;
@@ -599,7 +522,7 @@ ITの専門家がいない企業の立場に寄り添い、現場視点での課
 ボタンをクリックすることで、参加申し込みと、参加コメントの投稿を行うことができます。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="ロゴ画像" src="https://help.connpass.com/_images/event-join_01.png"&gt;&lt;/p&gt;
-&lt;div style="background-color: #f0f7ff; border-left: 4px solid #0078d4; padding: 16px; margin: 16px 0;"&gt;
+&lt;div style="background-color:#f0f7ff; border-left:4px solid #0078d4; padding:16px; margin:16px 0;"&gt;
 &lt;strong&gt;▶️ 参加申し込みはこちら（先着順）&lt;/strong&gt;&lt;br&gt;
 &lt;a href="https://iotbizlabo.connpass.com/event/387919/join/" rel="nofollow"&gt;https://iotbizlabo.connpass.com/event/387919/join/&lt;/a&gt;
 &lt;/div&gt;
@@ -639,7 +562,7 @@ ITの専門家がいない企業の立場に寄り添い、現場視点での課
 &lt;li&gt;ブログ/SNSでの発信は公序良俗に反する内容は避けてください。参加者の個人情報にも十分ご留意ください。&lt;/li&gt;
 &lt;li&gt;入力いただいた情報は以下のプライバシーポリシーに基づき扱います。&lt;br&gt;
 &lt;a href="https://www.ecomott.co.jp/privacy.html" rel="nofollow"&gt;エコモット株式会社 プライバシーポリシー&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iotbizlabo.connpass.com/event/387919/</guid><enclosure url="https://media.connpass.com/thumbs/70/e7/70e7559a50daabee19da87cdd7169d84.png" length="0" type="image/png"/><pubDate>Fri, 19 Jun 2026 16:17:00 +0900</pubDate></item><item><title>[After party]: Zephyr Project Meetup: Sapporo 2026</title><link>https://zephyr-rtos.connpass.com/event/396884/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月26日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月26日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道海鮮と鮨酒場 白冨&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南6条西4丁目2-1 野口ビル 1F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;懇親会のご案内&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;Zephyr Project Meetup: Sapporo, Japan 2026 の懇親会ページです。&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://iotbizlabo.connpass.com/event/387919/</guid><enclosure url="https://media.connpass.com/thumbs/70/e7/70e7559a50daabee19da87cdd7169d84.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 16:54:35 +0900</pubDate></item><item><title>[After party]: Zephyr Project Meetup: Sapporo 2026</title><link>https://zephyr-rtos.connpass.com/event/396884/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月26日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月26日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道海鮮と鮨酒場 白冨&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南6条西4丁目2-1 野口ビル 1F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;懇親会のご案内&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;Zephyr Project Meetup: Sapporo, Japan 2026 の懇親会ページです。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本編（ &lt;a href="https://zephyr-rtos.connpass.com/event/386410/" rel="nofollow"&gt;https://zephyr-rtos.connpass.com/event/386410/&lt;/a&gt; ）にご参加の方で、懇親会への出席を希望される方は、人数把握のため&lt;strong&gt;本ページからの事前登録&lt;/strong&gt;をお願いいたします。懇親会だけ参加の場合は、お手数ですがご連絡ください。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;開催概要&lt;/h3&gt;
@@ -712,7 +635,9 @@ OSC北海道2026（6/27）が公開されましたが、今年は札幌の東横
 &lt;p&gt;皆さんのご参加をお待ちしております。&lt;/p&gt;
 
 
-
+&lt;h2&gt;来場者アンケート&lt;/h2&gt;
+&lt;p&gt;OSC北海道ご参加のご感想やメッセージをお寄せください！&lt;br&gt;
+&lt;a href="https://forms.gle/Bq9bSZUy44nPYGcV8" rel="nofollow"&gt;→アンケートの回答はこちらから←&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;日時&lt;/b&gt;&lt;br&gt;
 6月27日(土) 10:00-18:00（展示は16:00まで）&lt;br&gt;&lt;/p&gt;
@@ -739,7 +664,7 @@ OSC北海道2026（6/27）が公開されましたが、今年は札幌の東横
 ご参加には以下のページでお申し込みが必要です。&lt;br&gt;
 →&lt;a href="https://ospn.connpass.com/event/392762/" rel="nofollow"&gt;懇親会の申込ページ(connpass)&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;属性アンケートご協力のお願い&lt;/h1&gt;
-&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/388639/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Tue, 09 Jun 2026 17:30:59 +0900</pubDate></item><item><title>ゆるい勉強会＠26初夏</title><link>https://asahikawa.connpass.com/event/395286/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: 旭川市北彩都子ども活動センター　あそび～ば　和室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒070-0030 北海道旭川市宮下通14丁目（北彩都市営住宅敷地内）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゆるあさ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ここ(日付)しかなかっんだ…&lt;/p&gt;&lt;div&gt;&lt;h1&gt;** ゆるい勉強会＠26初夏 **&lt;/h1&gt;
+&lt;p&gt;connpassご登録時に、年代、職種、お住まいの地域、OSC参加歴、参加目的、参加コメントなど簡単なアンケートへのご入力をお願いしています。集計結果はイベント開催後にスポンサー、出展者にし提供するとともに、イベントの運営に役立てています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/388639/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 11:44:33 +0900</pubDate></item><item><title>ゆるい勉強会＠26初夏</title><link>https://asahikawa.connpass.com/event/395286/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: 旭川市北彩都子ども活動センター　あそび～ば　和室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒070-0030 北海道旭川市宮下通14丁目（北彩都市営住宅敷地内）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゆるあさ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ここ(日付)しかなかっんだ…&lt;/p&gt;&lt;div&gt;&lt;h1&gt;** ゆるい勉強会＠26初夏 **&lt;/h1&gt;
 &lt;p&gt;色々各地で大きなイベントがありますが、地元でゆるくやります。&lt;/p&gt;
 &lt;h2&gt;勉強会詳細&lt;/h2&gt;
 &lt;ul&gt;
@@ -893,7 +818,7 @@ yuruistudy @ &lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt;
 &lt;p&gt;キャンセル待ちは、connpassからお申し込みいただいた順に自動で繰り上げとなります。
 補欠者から参加者への繰り上げ状況はご自身でご確認いただき、受付で参加費のお支払いをお願いします。&lt;/p&gt;
 &lt;p&gt;&lt;span style="color: #d32f2f; font-weight: bold;"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;必ずconnpassからのお申し込みをお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/392762/</guid><enclosure url="https://media.connpass.com/thumbs/8d/48/8d483f899b2e2f0e170c4e507e1d4987.png" length="0" type="image/png"/><pubDate>Wed, 24 Jun 2026 19:31:16 +0900</pubDate></item><item><title>CoderDojo恵庭 第128回(Re.)</title><link>https://connpass.com/event/381151/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月28日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月28日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 多目的スペース JUNCTION 2階（ノバス様事業所）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道恵庭市島松寿町1-28-10&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 恵庭 開催のお知らせ&lt;/h1&gt;
+&lt;p&gt;必ずconnpassからのお申し込みをお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/392762/</guid><enclosure url="https://media.connpass.com/thumbs/8d/48/8d483f899b2e2f0e170c4e507e1d4987.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 09:37:19 +0900</pubDate></item><item><title>CoderDojo恵庭 第128回(Re.)</title><link>https://connpass.com/event/381151/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月28日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月28日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 多目的スペース JUNCTION 2階（ノバス様事業所）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道恵庭市島松寿町1-28-10&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 恵庭 開催のお知らせ&lt;/h1&gt;
 &lt;p&gt;CoderDojo恵庭を開催します。 ぜひみなさん、ふるってご参加ください。&lt;/p&gt;
 &lt;h2&gt;詳細&lt;/h2&gt;
 &lt;ul&gt;
@@ -1149,7 +1074,7 @@ yuruistudy @ &lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt;
 &lt;p&gt;今後の活動方針としては、他分野の人たちを巻き込んで半導体（ASIC/LSI/IC）分野に革命を起こすという方針で、他分野向けの超初心者向けハンズオンセミナーや専門家向けの濃い内容の勉強会などのイベントを開催したり、チームを作ってOpenMPWシャトルや世界のChipathonに挑戦したり、Maker Faireなどのイベントへの参加をしていきたいと思いますので、よろしくお願いいたします。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;p&gt;イベントもオンライン化に伴って参加者を含め行動規範の精神に基づいた行動を要請します。困りごとがありましたら主催者にご連絡ください。荒らしなどのAbuse行為、悪意が無くともお願いに対し改善がないと判断される場合はケースバイケースで対応させていただくことがございます。 &lt;a href="https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/" rel="nofollow"&gt;https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;謝辞&lt;/h1&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ishikai.connpass.com/event/388722/</guid><enclosure url="https://media.connpass.com/thumbs/ab/52/ab52f12958aedaeb552f53be077a9bb5.png" length="0" type="image/png"/><pubDate>Wed, 24 Jun 2026 21:12:06 +0900</pubDate></item><item><title>FuraIT. fuel #82ハイブリッドもくもく会。観光シーズン突入の富良野でもくもくする。</title><link>https://furait.connpass.com/event/396546/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月29日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月29日(月) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FuraIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;じっくりゆっくりもくもくしよう♫&lt;/p&gt;&lt;div&gt;&lt;p&gt;82回目❗&lt;/p&gt;
+&lt;h1&gt;謝辞&lt;/h1&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ishikai.connpass.com/event/388722/</guid><enclosure url="https://media.connpass.com/thumbs/ab/52/ab52f12958aedaeb552f53be077a9bb5.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 03:18:01 +0900</pubDate></item><item><title>FuraIT. fuel #82ハイブリッドもくもく会。観光シーズン突入の富良野でもくもくする。</title><link>https://furait.connpass.com/event/396546/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月29日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月29日(月) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FuraIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;じっくりゆっくりもくもくしよう♫&lt;/p&gt;&lt;div&gt;&lt;p&gt;82回目❗&lt;/p&gt;
 &lt;h1&gt;&lt;strong&gt;FuraIT.fuel 爆誕そして継続&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;「fuel = 燃料」  &lt;br&gt;
 自分と技術と真摯に向き合って給油する機会を強制的に作ることができます．&lt;br&gt;
@@ -2623,7 +2548,7 @@ connpass の申し込みアンケートから、お申し込みください。�
 &lt;p&gt;Micro Hardeningのゲームは&lt;b&gt;45分を1セットとし、複数セット(最低3回以上)繰り返す&lt;/b&gt;ことを想定しています。毎回、同じタイミングで同じ攻撃が発生するように設定しています。Micro Hardeningは報告書作成や、攻撃手法や防御方法の解説の時間を組み込まない代わりに、毎回少しずつ攻撃の状況を観測し、対処する方法を試すことで、エンジニアとしての能力向上が実現できることを目指しています。理想的にはシューティングゲームのように、敵の攻撃のパターンを覚えることで高得点を稼ぐことができるシステムにしたいと願っています。&lt;/p&gt;
 &lt;p&gt;これまでたくさんの参加者に体験してもらいました。エンジニアだけではなく、高校生や公務員など非エンジニアにも楽しんでもらえる体験型演習になっています。4人1組で取り組む演習なので、同じグループのメンバーと相談しながら進めてもらうことでお互いの知識の共有を行うことができます。「難しいかも」「できないかも」と心配している高校生ですら楽しむことができたのでお気軽にご参加ください。&lt;/p&gt;
 &lt;p&gt;4人を1チームとして、チームを作る予定です。他の人の取り組みからも学んで帰ってください。複数人で申し込みされる場合もお一人ずつconnpassから参加申し込みをお願いします。&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;自分のスコアが少しずつ上がっていく達成感を味わいながら、サイバー攻撃に対応する経験を積んでもらえたらなと思っています。戦う相手は過去の自分。&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sc4y.connpass.com/event/397788/</guid><enclosure url="https://media.connpass.com/thumbs/3e/3a/3e3a23a1c842cffeb6d5348053084fd2.png" length="0" type="image/png"/><pubDate>Sun, 21 Jun 2026 16:08:46 +0900</pubDate></item><item><title>Japan Datadog User Group Meetup#20@札幌</title><link>https://datadog-jp.connpass.com/event/389998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月10日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月10日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌ビアガーデンに併せて開催します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JDDUGについて&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;自分のスコアが少しずつ上がっていく達成感を味わいながら、サイバー攻撃に対応する経験を積んでもらえたらなと思っています。戦う相手は過去の自分。&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sc4y.connpass.com/event/397788/</guid><enclosure url="https://media.connpass.com/thumbs/3e/3a/3e3a23a1c842cffeb6d5348053084fd2.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 14:34:02 +0900</pubDate></item><item><title>Japan Datadog User Group Meetup#20@札幌</title><link>https://datadog-jp.connpass.com/event/389998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月10日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月10日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌ビアガーデンに併せて開催します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JDDUGについて&lt;/h1&gt;
 &lt;p&gt;日本で Datadog を利用しているユーザコミュニティのイベントです。&lt;br&gt;
 今回はさっぽろ大通ビアガーデンにあわせてクラスメソッド株式会社 札幌オフィス にて開催します。&lt;/p&gt;
 &lt;p&gt;誰でも参加可能なコミュニティ &lt;a href="https://t.co/dpBETMaosn" rel="nofollow"&gt;Slack Workspace&lt;/a&gt; も是非。&lt;/p&gt;
