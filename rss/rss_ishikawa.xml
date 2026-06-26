@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>石川のイベント</title><link>https://connpass.com/explore/</link><description>石川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>石川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 25 Jun 2026 17:04:02 +0000</lastBuildDate><item><title>PyLadies Caravan in 石川</title><link>https://pyladies-tokyo.connpass.com/event/395809/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 金沢大学自然系図書館オープンスタジオ&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市角間町自然科学系図書館&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #pylcaravan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;のどくろ、カニ、金沢おでん！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;PyLadies Caravan in 石川 開催します！&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>石川のイベント</title><link>https://connpass.com/explore/</link><description>石川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>石川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 26 Jun 2026 16:55:53 +0000</lastBuildDate><item><title>PyLadies Caravan in 石川</title><link>https://pyladies-tokyo.connpass.com/event/395809/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 金沢大学自然系図書館オープンスタジオ&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市角間町自然科学系図書館&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #pylcaravan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;のどくろ、カニ、金沢おでん！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;PyLadies Caravan in 石川 開催します！&lt;/h1&gt;
 &lt;p&gt;こんにちは! PyLadies Caravan です！
 今回は石川県にてPyLadies Caravan開催です。金沢大学さんからの会場支援いただき開催です～！&lt;/p&gt;
 &lt;p&gt;北陸エリアの女性エンジニア、エンジニアを目指す学生のみなさま、Pythonはお好きですか？&lt;br&gt;
@@ -127,9 +127,16 @@ Numpyという計算ライブラリを使用して、かんたんな強化学習
 Visual Studio Code ※無料&lt;br&gt;
 &lt;a href="https://code.visualstudio.com/" rel="nofollow"&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;③Pythonの外部ライブラリのインストール    &lt;/p&gt;
-&lt;p&gt;近日公開&lt;/p&gt;
-&lt;p&gt;④ハンズオンコードのダウンロード  &lt;/p&gt;
-&lt;p&gt;近日公開&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;numpy&lt;/li&gt;
+&lt;li&gt;jupyter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;④ハンズオンコードのダウンロード&lt;br&gt;
+下記にアクセスして、ハンズオンコードをダウンロードしてください。&lt;br&gt;
+&lt;a href="https://github.com/mahya8585/caravan-basic/blob/main/PyLadiesCaravanIshikawa/python_beginner_learning.ipynb" rel="nofollow"&gt;Python基本文法大全 (ハンズオン)&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;ちなみにダウンロードボタンはここ！
+&lt;img alt="ここ" src="https://github.com/mahya8585/caravan-basic/blob/main/PyLadiesCaravanIshikawa/download.png?raw=true"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1PcOxDGM9viyLPiY3eTjf17Jg48MD_UVV?usp=sharing" rel="nofollow"&gt;強化学習って何？Numpyで実装してみよう！（ハンズオン）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;わからないことなどありましたら PyLadies JapanのSlackもしくは Twitter @PyLadiesTokyo もしくは本イベントのお問い合わせページからご質問いただければスタッフが対応いたします。おきがるにどうぞ。    &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://bit.ly/1fqJkNu" rel="nofollow"&gt;PyLadies Japan Slack参加申請はこちら&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;会場について&lt;/h1&gt;
@@ -148,7 +155,12 @@ ACCESS    &lt;/p&gt;
 初心者／熟練者問いません。Pythonでコードを書いたことがない・・・という方でもPythonに興味があればお気軽にご参加下さい。なお、&lt;strong&gt;男性は参加出来ません。&lt;/strong&gt;あらかじめご了承下さい。&lt;/p&gt;
 &lt;h1&gt;行動規範&lt;/h1&gt;
 &lt;p&gt;PyLaides のイベントに参加する、発表する、スタッフとしてイベントを運営するなどPyLadiesにかかわる全ての人は以下のCode Of Conduct (行動規範) を守る必要があります。参加者がお互いに敬意を払って楽しい時間を過ごせるよう、ご理解ご協力をお願いいたします。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://pyladiestokyo.github.io/handbook/member/coc.html" rel="nofollow"&gt;https://pyladiestokyo.github.io/handbook/member/coc.html&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pyladies-tokyo.connpass.com/event/395809/</guid><enclosure url="https://media.connpass.com/thumbs/47/b3/47b314f1ed113aa10254768c693a1c19.png" length="0" type="image/png"/><pubDate>Wed, 03 Jun 2026 22:51:39 +0900</pubDate></item><item><title>NT金沢2026 *非公式* 1日目夜お弁当</title><link>https://connpass.com/event/393274/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: NT金沢2025会場&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市木ノ新保町１－１ もてなしドーム地下広場&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NT金沢夜弁当&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;髭鬚張魯肉飯弁当が食べられるのは石川だけ？&lt;/p&gt;&lt;div&gt;&lt;p&gt;今年も &lt;a href="https://wiki.nicotech.jp/nico_tech/?NT%E9%87%91%E6%B2%A22026#n6c4aada" rel="nofollow"&gt;夜のNT金沢&lt;/a&gt; が開催されるということで、お弁当と飲み物を代わりに買ってくることにしました！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pyladiestokyo.github.io/handbook/member/coc.html" rel="nofollow"&gt;https://pyladiestokyo.github.io/handbook/member/coc.html&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://pyladies-tokyo.connpass.com/event/395809/</guid><enclosure url="https://media.connpass.com/thumbs/47/b3/47b314f1ed113aa10254768c693a1c19.png" length="0" type="image/png"/><pubDate>Fri, 26 Jun 2026 22:32:28 +0900</pubDate></item><item><title>NT金沢2026 *非公式* 1日目夜お弁当</title><link>https://connpass.com/event/393274/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月27日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月27日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: NT金沢2025会場&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市木ノ新保町１－１ もてなしドーム地下広場&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NT金沢夜弁当&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;髭鬚張魯肉飯弁当が食べられるのは石川だけ？&lt;/p&gt;&lt;div&gt;&lt;h1&gt;2026-06-26 朝 追記&lt;/h1&gt;
+&lt;p&gt;いったん締め切りました、ジーローハンが少しあるので受付は続行しています。
+お弁当やっぱり食べたいなんとかならん？って方は、お店と交渉しますので、抽選待ちしておいてください！
+結果は会場でお知らせします。&lt;/p&gt;
+&lt;h1&gt;何か&lt;/h1&gt;
+&lt;p&gt;今年も &lt;a href="https://wiki.nicotech.jp/nico_tech/?NT%E9%87%91%E6%B2%A22026#n6c4aada" rel="nofollow"&gt;夜のNT金沢&lt;/a&gt; が開催されるということで、お弁当と飲み物を代わりに買ってくることにしました！&lt;/p&gt;
 &lt;p&gt;「イベントに参加」とありますが、実際はイベントではありません。日本に唯一ある &lt;a href="https://www.higecho-ishikawa.jp/index.shtml" rel="nofollow"&gt;髭鬚張魯肉飯 工大店さん&lt;/a&gt; からお弁当をこちらが代理で注文し、夜18時ごろにお届けします。&lt;/p&gt;
 &lt;p&gt;会場レギュレーションでお酒は提供できませんので、お弁当に加えてお茶を提供します。&lt;/p&gt;
 &lt;p&gt;流れとしては以下です。&lt;/p&gt;
@@ -166,7 +178,7 @@ ACCESS    &lt;/p&gt;
 &lt;h2&gt;髭鬚張弁当 - 魯肉飯&lt;/h2&gt;
 &lt;p&gt;台湾唐揚🐔 + 魯肉飯 🐷🍚  のお弁当です。&lt;/p&gt;
 &lt;h2&gt;髭鬚張弁当 - 鶏肉飯&lt;/h2&gt;
-&lt;p&gt;皇帝肉(ホホ肉)🐷 + 鶏肉飯 🐔🍚 のお弁当です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/393274/</guid><enclosure url="https://media.connpass.com/thumbs/f5/7f/f57f0908b8887f9cf0ce07de423e1b60.png" length="0" type="image/png"/><pubDate>Thu, 25 Jun 2026 08:13:40 +0900</pubDate></item><item><title>NICT北陸連携サロン　第17回　2026/7/6(月)</title><link>https://nict-hokuriku-renkei-salon.connpass.com/event/397368/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月6日(月) 18:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月6日(月) 19:50&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスクエア金沢香林坊&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市香林坊2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;地域の学生や社会人の交流の場（企業や大学の取組み紹介、後半のフリートークにて参加者と意見交換）&lt;/p&gt;&lt;div&gt;&lt;p&gt;国立研究開発法人情報通信研究機構（NICT ）北陸連携研究センターでは、地域連携の活性化と地域課題の解決に向け、「NICT 北陸連携サロン」を定期的に開催しています。&lt;/p&gt;
+&lt;p&gt;皇帝肉(ホホ肉)🐷 + 鶏肉飯 🐔🍚 のお弁当です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/393274/</guid><enclosure url="https://media.connpass.com/thumbs/f5/7f/f57f0908b8887f9cf0ce07de423e1b60.png" length="0" type="image/png"/><pubDate>Sat, 27 Jun 2026 01:01:22 +0900</pubDate></item><item><title>NICT北陸連携サロン　第17回　2026/7/6(月)</title><link>https://nict-hokuriku-renkei-salon.connpass.com/event/397368/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月6日(月) 18:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月6日(月) 19:50&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスクエア金沢香林坊&lt;/li&gt;&lt;li&gt;🏢 住所: 石川県金沢市香林坊2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;地域の学生や社会人の交流の場（企業や大学の取組み紹介、後半のフリートークにて参加者と意見交換）&lt;/p&gt;&lt;div&gt;&lt;p&gt;国立研究開発法人情報通信研究機構（NICT ）北陸連携研究センターでは、地域連携の活性化と地域課題の解決に向け、「NICT 北陸連携サロン」を定期的に開催しています。&lt;/p&gt;
 &lt;p&gt;NICT の研究開発技術の紹介をはじめ、講演やピッチ（社会人・学生による日頃の活動紹介）などを通じ、「地域連携コミュニティ」として交流の場を提供しています。&lt;/p&gt;
 &lt;p&gt;もちろん参加者同士のアイデアの交換のためのフリートーク時間も用意しています。&lt;/p&gt;
 &lt;p&gt;社会人、学生を問わずどなたでも無料で参加いただけますのでお気軽にお申込みください。&lt;/p&gt;
