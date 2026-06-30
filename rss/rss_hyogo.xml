@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 29 Jun 2026 17:28:53 +0000</lastBuildDate><item><title>月末開発会 #0</title><link>https://gdgoc-kobe-univ.connpass.com/event/398359/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年6月30日(火) 16:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年6月30日(火) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
-&lt;p&gt;月末開発会は、GDGoC Kobe Univ. が毎月開催する、ゆるい作業・交流イベントです！
-名前は「開発会」ですが、内容は自由です。コードを書いても、勉強しても、課題をしても、資料を作っても、ただ人と話しに来ても大丈夫です！&lt;/p&gt;
-&lt;p&gt;一番の目的は、何かを一緒に作ることそのものよりも、&lt;strong&gt;人とつながること&lt;/strong&gt;です。
-同じ空間に集まって作業することで、自然に相談や雑談が生まれたり、新しい興味や活動につながったりする場を目指しています！&lt;/p&gt;
-&lt;p&gt;初参加の方、初心者の方、学外の方、社会人の方も大歓迎です！
-月末にゆるく集まって、それぞれのやりたいことを少し前に進めましょう！&lt;/p&gt;
-&lt;h2&gt;📆 日時・場所&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;日時: 2026/06/30 (火) 16:30-19:30&lt;/li&gt;
-&lt;li&gt;場所: &lt;a href="https://www.optim.co.jp/optim-club-kobe/" rel="nofollow"&gt;OPTiM Club KOBE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;途中参加・退出可&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;💰 参加費&lt;/h2&gt;
-&lt;p&gt;無料&lt;/p&gt;
-&lt;h2&gt;👝 持ち物&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;💻ノートPC&lt;/li&gt;
-&lt;li&gt;🔌充電器&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;主催&lt;/h2&gt;
-&lt;h3&gt;GDGoC Kobe University&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://x.com/gdgoc_kobe_univ" rel="nofollow"&gt;X: @gdgoc_kobe_univ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://gdg.community.dev/gdg-on-campus-kobe-university-kobe-japan/" rel="nofollow"&gt;GDGoC Kobe University - Kobe, Japan&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;GDGoC Kobe University は、神戸大学を中心に活動するエンジニア・クリエイターコミュニティです。
-「技術」をキーワードに、学部や学年を超えて学生と社会人が共に学び、繋がる場所を目指しています。AI、Cloud Computing、Web技術などに興味がある人は誰でも歓迎です！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;&lt;strong&gt;アンチハラスメントポリシー&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;ハラスメントとは、性差、性同一性と表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、脅迫、ストーカ、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動が含まれます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GDG では全ての参加者がナレッジ共有に集中できるよう、これらのハラスメント行為を許容しません。&lt;/li&gt;
-&lt;li&gt;ナレッジの共有、参加者同士の交流を目的としない参加はお断りしております。&lt;/li&gt;
-&lt;li&gt;参加目的が不適切だと判断される場合、運営側で参加をキャンセルさせていただきます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;会場または配信コンテンツ上だけでなく、本イベントの内容や状況についてブログや SNS などで公開、コメントなどいただく際にも、これらハラスメント行為がないようご留意ください。 万が一、ハラスメント行為を見聞きした参加者は、お手数ですが主催グループまでご一報ください。&lt;/p&gt;
-&lt;h2&gt;Code of Conduct&lt;/h2&gt;
-&lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;/p&gt;
-&lt;p&gt;イベントに参加される方はご一読ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgoc-kobe-univ.connpass.com/event/398359/</guid><pubDate>Sat, 27 Jun 2026 21:01:03 +0900</pubDate></item><item><title>[新規メンター募集]第35&amp;36回CoderDojo明石</title><link>https://coderdojo-akashi.connpass.com/event/397503/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: ペイントワークハウスKNOT（ノット）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo明石&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 30 Jun 2026 17:01:23 +0000</lastBuildDate><item><title>[新規メンター募集]第35&amp;36回CoderDojo明石</title><link>https://coderdojo-akashi.connpass.com/event/397503/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月5日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月5日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: ペイントワークハウスKNOT（ノット）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo明石&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;CoderDojo明石では、子供達（忍者達）にプログラミングを学習する場を提供しており、様々な知的好奇心を与える場を目指しております。&lt;/p&gt;
 &lt;p&gt;忍者達にプログラミングを教えてみたいという方は以下の記述をご確認の上、気軽にご参加ください！&lt;/p&gt;
 &lt;p&gt;開催会場は西明石にあるペイントワークハウスKNOT（ノット）様のスペースです。&lt;/p&gt;
