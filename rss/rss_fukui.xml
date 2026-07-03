@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 02 Jul 2026 16:45:04 +0000</lastBuildDate><item><title>JAWS-UG 福井 #3 AWS Summit のおみやげ話LT大会</title><link>https://jawsug-fukui.connpass.com/event/391807/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月4日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月4日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 永和システムマネジメント　Agile Studio&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央1丁目3番5号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_fukui&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS Summit ネタを熱いうちに共有しよっさ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福井のイベント</title><link>https://connpass.com/explore/</link><description>福井のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福井のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 03 Jul 2026 16:19:35 +0000</lastBuildDate><item><title>JAWS-UG 福井 #3 AWS Summit のおみやげ話LT大会</title><link>https://jawsug-fukui.connpass.com/event/391807/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月4日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月4日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 永和システムマネジメント　Agile Studio&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市中央1丁目3番5号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_fukui&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWS Summit ネタを熱いうちに共有しよっさ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
 &lt;p&gt;JAWS-UG (AWS Users Group – Japan) は AWS を多くの方に知っていただき、活用を推進するために非営利目的で活動をしているユーザーグループです。&lt;/p&gt;
 &lt;p&gt;なかでも JAWS-UG 福井支部は 2012年に設立され、その後、休眠状態となっていたところ、2026年にリブートしたという、地味に歴史のある地方支部です。&lt;/p&gt;
 &lt;p&gt;3回目となる今回は、 AWS Summit の re:Cap 的に、おみやげ（物理）を囲みながら、おみやげ話をみんなでわいわいしたいと思います。&lt;/p&gt;
@@ -46,7 +46,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;14:15〜14:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 1 : AWS Summit 2026 全体レポート＆福井からの参加案内&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT 1 : AWS Summit 2026 全体レポート&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;運営メンバーより&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -96,7 +96,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;16:45〜16:55&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 9&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;AWS Blocks を触ってみた&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;MURAKAMI Masahiko さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -145,7 +145,7 @@ AWS Samurai 2017・AWS Community Builders ( Serverless)
 &lt;blockquote&gt;
 &lt;p&gt;福井出身千葉在住のSE。関東圏のSIerに勤務しています。&lt;/p&gt;
 &lt;p&gt;I/F基盤開発でAWSに初めて携わって興味を持ち、資格全冠取得達成。JAWS FESTA 2025 in KANAZAWAの実行委員もやっていました。&lt;/p&gt;
-&lt;p&gt;AWS Community Builder（Serverless） since 2024/2024 Japan AWS Top Engineer/2023,2024,2025 Japan AWS All Certifications Engineers&lt;/p&gt;
+&lt;p&gt;AWS Community Builder（Serverless） since 2024/2024 Japan AWS Top Engineer/2023～2026 Japan AWS All Certifications Engineers&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;りちゃ&lt;/h3&gt;
 &lt;h3&gt;washida&lt;/h3&gt;
@@ -179,7 +179,54 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 &lt;p&gt;あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。
 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。
-AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/391807/</guid><enclosure url="https://media.connpass.com/thumbs/ab/31/ab315513337210238f94c76c9ac48286.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 23:02:24 +0900</pubDate></item><item><title>Fukui Tech LT #2</title><link>https://connpass.com/event/393711/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月8日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月8日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社jig.jp 開発センター&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県鯖江市横越町10-34-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FukuiTechLT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💻 Fukui Tech LTとは&lt;/h1&gt;
+AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-fukui.connpass.com/event/391807/</guid><enclosure url="https://media.connpass.com/thumbs/ab/31/ab315513337210238f94c76c9ac48286.png" length="0" type="image/png"/><pubDate>Fri, 03 Jul 2026 23:51:33 +0900</pubDate></item><item><title>ふくもく会 その138 〜ぽこ あ モクモク〜</title><link>https://fukumoku.connpass.com/event/398141/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: AOSSA 6F 研修室&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県福井市手寄1丁目4-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ふくもく会&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ふくもく会とは？&lt;/h1&gt;
+&lt;p&gt;ふくもく会とは、ものづくりが好きなエンジニアやらデザイナーやらで福井周辺に集まって、何かしら勉強したり、作ったりする会です。&lt;br&gt;
+基本的な活動スタイルはもくもく会です。各自がやりたい事をもくもくやったり、話しあったりしています。&lt;br&gt;
+いつものふくもく会の様子や、やっていることはコチラを参考に！→&lt;a href="http://kotobuking.net/kotoblog/2017/07/fukumoku/" rel="nofollow"&gt;【Blog】ふくもく会という場。&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;会場について&lt;/h1&gt;
+&lt;p&gt;今回の会場は、AOSSA 6F の &lt;strong&gt;研修室608&lt;/strong&gt; です。&lt;br&gt;
+会場費500円は目安です。割り勘なので調整します。&lt;/p&gt;
+
+
+&lt;h1&gt;スケジュール&lt;/h1&gt;
+&lt;p&gt;途中退出などは自由です。&lt;br&gt;
+&lt;b&gt;※少しでも参加される方は、必ず参加登録をするか連絡をお願いします。&lt;/b&gt; &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;やること&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00〜&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30〜&lt;/td&gt;
+&lt;td&gt;ふくもく会スタート、やること共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30〜&lt;/td&gt;
+&lt;td&gt;今日やったことの共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:00&lt;/td&gt;
+&lt;td&gt;完全撤収&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;やることを考えたら &lt;a href="https://www.figma.com/file/k1itK44WZ9PX5RoqFA9Gjx/%E3%81%B5%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A?type=whiteboard&amp;amp;node-id=0-1&amp;amp;t=vDrrLMhaEqIWxSZk-0" rel="nofollow"&gt;FigJam&lt;/a&gt; に付箋で書いてシェアしましょう。&lt;/p&gt;
+&lt;h1&gt;勧誘・宣伝について&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;宣伝だけの参加は基本、ご遠慮願います。&lt;/li&gt;
+&lt;li&gt;会と全く関係のない勧誘はしないでください。&lt;/li&gt;
+&lt;li&gt;勧誘・宣伝については運営を必ず通してください。&lt;/li&gt;
+&lt;li&gt;宣伝の時間は、最後に3分お時間を設けます。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fukumoku.connpass.com/event/398141/</guid><enclosure url="https://media.connpass.com/thumbs/d0/97/d097b19fb49ce2773df34736aa9553b2.png" length="0" type="image/png"/><pubDate>Fri, 03 Jul 2026 19:02:16 +0900</pubDate></item><item><title>Fukui Tech LT #2</title><link>https://connpass.com/event/393711/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月8日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月8日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社jig.jp 開発センター&lt;/li&gt;&lt;li&gt;🏢 住所: 福井県鯖江市横越町10-34-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FukuiTechLT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💻 Fukui Tech LTとは&lt;/h1&gt;
 &lt;p&gt;福井県のエンジニア同士で &lt;strong&gt;ライトニングトーク(LT)&lt;/strong&gt; 形式の交流イベントです。&lt;br&gt;
 今回で第2回目の開催となります！&lt;br&gt;
 &lt;a href="https://www.agile-studio.jp/post/fukui-tech-lt-1" rel="nofollow"&gt;#1 開催レポート&lt;/a&gt;&lt;/p&gt;
