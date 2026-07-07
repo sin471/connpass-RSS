@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 06 Jul 2026 17:34:54 +0000</lastBuildDate><item><title>第54回 Sendai.go LT＆GopherCon SG報告会（オフライン）</title><link>https://sendaigo.connpass.com/event/397571/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月8日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月8日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: クラウドスミス 開発サテライト&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町１丁目１−８ 青葉パークビル６F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 07 Jul 2026 17:06:01 +0000</lastBuildDate><item><title>第54回 Sendai.go LT＆GopherCon SG報告会（オフライン）</title><link>https://sendaigo.connpass.com/event/397571/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月8日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月8日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: クラウドスミス 開発サテライト&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町１丁目１−８ 青葉パークビル６F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
 &lt;p&gt;仙台周辺のGo言語のコミュニティです。&lt;/p&gt;
 &lt;p&gt;プログラミング言語 Go に関するテックトークなどのイベントをやっています。 &lt;/p&gt;
 &lt;p&gt;技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるgopher達の拠り所を目指しています。&lt;/p&gt;
@@ -170,11 +170,21 @@ PHP勉強会仙台では、はやくもスピーカー枯渇問題に直面し�
 &lt;br&gt;
 &lt;br&gt;お店は日本酒をはじめとしたお酒のラインナップが豪華お店&lt;a href="https://tabelog.com/miyagi/A0401/A040101/4029322/" rel="nofollow"&gt;「居酒屋にご」&lt;/a&gt;になります。&lt;/p&gt;
 &lt;h2&gt;会費&lt;/h2&gt;
-&lt;p&gt;目安：5,000円 ~ 6,000円
-&lt;br&gt;料理はコース固定。飲み物は自由に注文となります。
-&lt;br&gt;料理代金＋当日飲んだ料金を参加者で割り勘した金額が会費となります。
-&lt;br&gt;
-&lt;br&gt;※料理の詳細は追って更新予定です。&lt;/p&gt;
+&lt;p&gt;目安：6,000円 程度
+&lt;br&gt;料理のみコース固定(4,500円)　＋　飲み物（注文金額を割り勘」）
+&lt;br&gt;※最終的な金額は当日飲んだ量によって決まります。&lt;/p&gt;
+&lt;h2&gt;料理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;鴨生ハムと白和えのマカロン仕立て&lt;/li&gt;
+&lt;li&gt;ごま豆腐&lt;/li&gt;
+&lt;li&gt;あごだしで仕上げたおでんじゃがいものポテサラ&lt;/li&gt;
+&lt;li&gt;刺身盛り合わせ&lt;/li&gt;
+&lt;li&gt;生アジフライ&lt;/li&gt;
+&lt;li&gt;湯葉と蛤の茶碗蒸し&lt;/li&gt;
+&lt;li&gt;牛タンと和牛のしぐれ煮土鍋ご飯&lt;/li&gt;
+&lt;li&gt;カスティラ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※内容は食材の仕入れにより変更になる可能性があり〼。&lt;/p&gt;
 &lt;h2&gt;タイムスケジュール&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -204,7 +214,7 @@ PHP勉強会仙台では、はやくもスピーカー枯渇問題に直面し�
 &lt;li&gt;2026/07/05 以降のキャンセルはキャンセル料が発生する恐れがあります。あらかじめご容赦ください。&lt;/li&gt;
 &lt;li&gt;当コミュニティは &lt;a href="https://2025.scrumgatheringtokyo.org/conference_coc_ja.html" rel="nofollow"&gt;RSGTの行動規範&lt;/a&gt;  に準じた行動規範を適用します。&lt;/li&gt;
 &lt;li&gt;営業目的とする名刺交換は禁止とさせていただきます。（合意の上やSNSの交換はOK）&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nomi-agile.connpass.com/event/398246/</guid><enclosure url="https://media.connpass.com/thumbs/8c/b4/8cb4a2f52e9e621acedb0bd2d78d541c.png" length="0" type="image/png"/><pubDate>Mon, 06 Jul 2026 12:38:02 +0900</pubDate></item><item><title>冷やしLTはじめました。〜ZUNDA-IT 7月の陣〜</title><link>https://zunda-it.connpass.com/event/399689/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月16日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月16日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Microsoft Base Sendai&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町1丁目1番30号 新仙台ビルディング4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZUNDAIT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nomi-agile.connpass.com/event/398246/</guid><enclosure url="https://media.connpass.com/thumbs/8c/b4/8cb4a2f52e9e621acedb0bd2d78d541c.png" length="0" type="image/png"/><pubDate>Tue, 07 Jul 2026 21:18:59 +0900</pubDate></item><item><title>冷やしLTはじめました。〜ZUNDA-IT 7月の陣〜</title><link>https://zunda-it.connpass.com/event/399689/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月16日(木) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月16日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Microsoft Base Sendai&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町1丁目1番30号 新仙台ビルディング4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZUNDAIT&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;仙台発のITコミュニティ「ZUNDA-IT」が主催する、LT（ライトニングトーク）イベントを開催します！&lt;br&gt;
 日頃の業務で得た知見、個人的に気になっている最新技術、あるいは盛大な開発の失敗談まで、ITに関わることならテーマはなんでもOK。&lt;br&gt;
 美味しいものを食べるように、みんなで気軽に技術の話題をシェアして盛り上がりましょう！  &lt;/p&gt;
