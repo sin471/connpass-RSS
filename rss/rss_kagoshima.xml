@@ -1,5 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link><description>鹿児島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 07 Jul 2026 17:07:24 +0000</lastBuildDate><item><title>鹿児島.mk 7周年LT大大会</title><link>https://kagoshima-mk.connpass.com/event/396113/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月7日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月7日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: GMOペパボ 鹿児島オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島県鹿児島市上荒田町3−1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #鹿児島mk&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎年恒例の周年LT大大会やります&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link><description>鹿児島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 08 Jul 2026 16:25:59 +0000</lastBuildDate><item><title>かごもく #102 ローカルLLMをためす</title><link>https://kagoben.connpass.com/event/399744/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: codeArts 株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島県鹿児島市東谷山2丁目13-7&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;かごもく #102 ローカルLLMをためす&lt;/h1&gt;
+&lt;p&gt;かごもくは毎月テーマに沿ってみんなで勉強する勉強会です。
+今回は、&lt;strong&gt;ローカルLLM&lt;/strong&gt;について、実際に手元のPCで動かしながら試していきます。&lt;/p&gt;
+&lt;p&gt;ChatGPTなどのクラウドサービスを使う機会は増えていますが、最近は自分のPCやローカル環境でもLLMを動かせるようになってきました。
+Ollama、LM Studio、llama.cpp などを使うと、モデルをダウンロードして手元で文章生成やコード補助を試すことができます。&lt;/p&gt;
+&lt;p&gt;では、ローカルLLMを実際に使うと、どんなことが分かるのでしょうか。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自分のPCでどのくらい快適に動くのか&lt;/li&gt;
+&lt;li&gt;モデルによって回答の質や速度はどれくらい違うのか&lt;/li&gt;
+&lt;li&gt;日本語でどのくらい使えるのか&lt;/li&gt;
+&lt;li&gt;コード生成や要約、調査の補助に使えるのか&lt;/li&gt;
+&lt;li&gt;クラウドのLLMとローカルLLMをどう使い分けるとよいのか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎯 今回やること&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ローカルLLMを動かすためのツールを試す&lt;/li&gt;
+&lt;li&gt;気になるモデルをダウンロードして動かしてみる&lt;/li&gt;
+&lt;li&gt;日本語で質問したり、コードを書かせたりしてみる&lt;/li&gt;
+&lt;li&gt;モデルや設定による速度・回答の違いを見てみる&lt;/li&gt;
+&lt;li&gt;試して分かったことや困ったことを参加者同士で共有する&lt;/li&gt;
+&lt;li&gt;普段の開発や調査に使えそうか考える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🤔 こんなことに興味がある人向け&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ローカルLLMを試してみたい&lt;/li&gt;
+&lt;li&gt;Ollama、LM Studio、llama.cpp などが気になっている&lt;/li&gt;
+&lt;li&gt;生成AIを自分のPCで動かしてみたい&lt;/li&gt;
+&lt;li&gt;PCのスペックによってどれくらい差が出るのか知りたい&lt;/li&gt;
+&lt;li&gt;LLMを開発、調査、文章作成、コード補助に活用してみたい&lt;/li&gt;
+&lt;li&gt;クラウドの生成AIとローカルLLMの違いを体験してみたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📝 持ち物・準備&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートPC&lt;/li&gt;
+&lt;li&gt;電源アダプタ&lt;/li&gt;
+&lt;li&gt;試してみたいローカルLLMツール&lt;/li&gt;
+&lt;li&gt;空き容量のあるストレージ&lt;/li&gt;
+&lt;li&gt;普段使っているエディタや開発環境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;事前に詳しく調べておく必要はありません。
+当日に調べたいテーマを決めるところから参加できます。&lt;/p&gt;
+&lt;p&gt;モデルのダウンロードには時間がかかる場合があります。
+可能な方は、事前に Ollama や LM Studio などをインストールしておくとスムーズです。&lt;/p&gt;
+&lt;h2&gt;⏰ タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時刻&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 - 13:10&lt;/td&gt;
+&lt;td&gt;👋 ごあいさつ・テーマ説明&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:10 - 13:30&lt;/td&gt;
+&lt;td&gt;💬 試したいこと・気になることを出してみる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30 - 14:30&lt;/td&gt;
+&lt;td&gt;🔍 ローカルLLMのツールやモデルについて調べる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:30 - 15:30&lt;/td&gt;
+&lt;td&gt;💻 実際にローカルLLMを動かしてみる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30 - 16:30&lt;/td&gt;
+&lt;td&gt;🤔 結果をもとに使いどころを考える&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 - 17:00&lt;/td&gt;
+&lt;td&gt;✨ 分かったこと・次に試したいことを共有する&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※ 途中参加・退出でも問題ありません。
+※ 見学だけでも歓迎です。&lt;/p&gt;
+&lt;h2&gt;🏢 会場について&lt;/h2&gt;
+&lt;p&gt;会場は &lt;strong&gt;codeArts 株式会社&lt;/strong&gt;をお借りしています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚲 自転車の場合は台数に限りがございますが、会場の駐輪場が利用可能です。&lt;/li&gt;
+&lt;li&gt;🚗 車・バイクの場合はお近くのコインパーキングをご利用してください。
+  管理者または、connpassのフィードにてご連絡ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🚃 最寄りの公共交通機関&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🚋 市電(路面電車) 谷山電停から徒歩圏内&lt;/li&gt;
+&lt;li&gt;🚋 JR谷山駅から徒歩圏内&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;📞 連絡方法&lt;/h3&gt;
+&lt;p&gt;車の利用や会場場所が分からない場合には、以下の方法でご連絡ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📱 Connpassのページ内のフィード&lt;/li&gt;
+&lt;li&gt;💬 Slackの&lt;a href="https://kagoshima-engineer.slack.com/join/shared_invite/zt-86q3fs39-aYFcFLSXEJsFJgRRHB2c2Q#/shared-invite/email" rel="nofollow"&gt;かごえん&lt;/a&gt; の &lt;code&gt;kagomoku&lt;/code&gt; チャンネル&lt;/li&gt;
+&lt;li&gt;📨 管理者のSNSに直接DM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🌟 かごもく&lt;/h2&gt;
+&lt;p&gt;かごもくでは、勉強会のネタを募集しております。　　
+プログラミングだけでなく、サーバー運用やデザインなど、テーマは問いません。　　&lt;/p&gt;
+&lt;p&gt;すぐに悩みが解決するとは限りませんが、似たようなことを考えている人と話すことで、次に試すことが見えてくるかもしれません。&lt;/p&gt;
+&lt;p&gt;興味がある方は &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSefYenHL-UKOgNywb9EzRDxH21sj_n1tLOFqKAaWUUAjp4nkw/viewform" rel="nofollow"&gt;テーマ申し込みフォーム&lt;/a&gt; からお申し込みください。&lt;/p&gt;
+&lt;p&gt;わからないことの相談や仲間探しのための、エンジニア向けSlackワークスペース &lt;a href="https://kagoshima-engineer.slack.com/join/shared_invite/zt-86q3fs39-aYFcFLSXEJsFJgRRHB2c2Q#/shared-invite/email" rel="nofollow"&gt;かごえん&lt;/a&gt; もあります。
+かごもくとは無関係な話題や、勉強会の告知にも利用できます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kagoben.connpass.com/event/399744/</guid><pubDate>Wed, 08 Jul 2026 22:37:18 +0900</pubDate></item><item><title>鹿児島.mk 7周年LT大大会</title><link>https://kagoshima-mk.connpass.com/event/396113/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月7日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月7日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: GMOペパボ 鹿児島オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島県鹿児島市上荒田町3−1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #鹿児島mk&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎年恒例の周年LT大大会やります&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;鹿児島最大級のエンジニアコミュニティ&lt;/strong&gt;である &lt;a href="http://鹿児島.mk" rel="nofollow"&gt;鹿児島.mk&lt;/a&gt; は2026年7月で設立7周年となりました。
 そこで今回も毎年恒例のLT大大会を開催して、久々にみんなの近況を聞けるといいなと思います！   &lt;/p&gt;
 &lt;p&gt;ご不明な点があれば、 X または Instagram にてお知らせください。&lt;/p&gt;
