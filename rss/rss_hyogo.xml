@@ -1,138 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 11 Jul 2026 15:45:17 +0000</lastBuildDate><item><title>#12 AI駆動凡人</title><link>https://ai-driven-bonjin.connpass.com/event/400203/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月11日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月11日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;凡人の、凡人による、凡人のための、AI駆動。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
-&lt;h2&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h2&gt;
-&lt;h2&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2&gt;今回のマイテーマ&lt;/h2&gt;
-&lt;h3&gt;「ついに揃った！ 次世代フロンティアモデルを使って作ってみる（みた）」&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;gpt 5.6 sol, terra, luna&lt;/li&gt;
-&lt;li&gt;fable5 &lt;/li&gt;
-&lt;li&gt;そろそろやるか、ループエンジニアリング loop engineering&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;指定書とは&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;目標設定は自分がで行うことが行えることが基本です。分からない人は読むことをおすすめします。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;「イシューからはじめよ」 &lt;a href="https://amzn.asia/d/02kzvdQU" rel="nofollow"&gt;https://amzn.asia/d/02kzvdQU&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;著者の主張雑感&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G" rel="nofollow"&gt;https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5" rel="nofollow"&gt;https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HEZW_GbY0Ig" rel="nofollow"&gt;https://www.youtube.com/watch?v=HEZW_GbY0Ig&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E" rel="nofollow"&gt;https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;参加条件&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;何かしらの自然言語が喋れる（英語、日本語、中国語...）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;del&gt;* Google アカウントを持っている＆共有できる&lt;/del&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;ノートパソコンを持参できる（iapd + keyboard でもいいかも...）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://chatgpt.com/codex?app-landing-page=true" rel="nofollow"&gt;https://chatgpt.com/codex?app-landing-page=true&lt;/a&gt; を事前インストールしていると好ましい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;del&gt;https://antigravity.google/ を事前インストールしていると好ましい&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;antigravity が難しいと判断した人は &lt;a href="https://aistudio.google.com/" rel="nofollow"&gt;https://aistudio.google.com/&lt;/a&gt; を使ってバイブコーディングにトライしましょう&lt;/del&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;なんとなく作ってみたいアプリ・ツール・サービス...etc がある&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;新しく作ることはハードルが高いので、今あなたの目の前（頭の中）の課題を潰す＝余裕時間を作るということも大切です&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;仕事などで繰り返し発生する退屈な作業潰しでもよいかも&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;全体として Google系サービスを中心に使用しますが、他のツールやサービスもおおよそ使っているので、各個人お好みのものをお使いください&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
-&lt;p&gt;17:30 開場(セットアップ)&lt;/p&gt;
-&lt;p&gt;18:00 はじめに&lt;/p&gt;
-&lt;p&gt;18:15 実装開始 &lt;/p&gt;
-&lt;p&gt;20:15 実装終了・生成物で雑談&lt;/p&gt;
-&lt;p&gt;20:30 おわりに&lt;/p&gt;
-&lt;p&gt;20:45 撤収&lt;/p&gt;
-&lt;h1&gt;最近のAI界隈の情報など・予備知識動画&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;https://labs.google/flow/tv/channel/listen-closely/QpjaV7vriVb25FoypAZd?random=true  &lt;/li&gt;
-&lt;li&gt;https://labs.google/fx/ja/tools/whisk/[...catchAll]  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.com/YamayaT/status/2024001469934895481" rel="nofollow"&gt;https://x.com/YamayaT/status/2024001469934895481&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF" rel="nofollow"&gt;https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.com/Algomatic_AILab/status/2023685630405103627" rel="nofollow"&gt;https://x.com/Algomatic_AILab/status/2023685630405103627&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.com/tkzwgrs/status/2014163608121585807" rel="nofollow"&gt;https://x.com/tkzwgrs/status/2014163608121585807&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;キーワード&lt;/h1&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google Gemini App / Live
-Google Stitch
-Google Jules
-Google Antigravity
-Google AI Studio
-Firebase Studio
-Gemini CLI
----
-Google Workspace Studio
-Google Vids
-NotebookLM
-Project Opal
-Flow
-Whisk
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2&gt;codex app server&lt;/h2&gt;
-&lt;p&gt;openclaw
-nemoclaw
-moltbook
-rentahuman&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;superpowers
-conductor
-sisyphus
-everything-claude-code&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;symphony&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/ml-explore/mlx-swift/" rel="nofollow"&gt;https://github.com/ml-explore/mlx-swift/&lt;/a&gt;
-&lt;a href="https://github.com/raullenchai/Rapid-MLX" rel="nofollow"&gt;https://github.com/raullenchai/Rapid-MLX&lt;/a&gt;
-&lt;a href="https://github.com/jundot/omlx/" rel="nofollow"&gt;https://github.com/jundot/omlx/&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;codex goal &lt;/li&gt;
-&lt;li&gt;claude goal&lt;/li&gt;
-&lt;li&gt;hermes goal&lt;/li&gt;
-&lt;li&gt;ラルフループとの違いとは。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developers.openai.com/codex/use-cases/follow-goals" rel="nofollow"&gt;https://developers.openai.com/codex/use-cases/follow-goals&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;#仕様駆動開発 #gemma4 #dflash #mlx #omlx #gemini3.5 #fable5 #codex5.6&lt;/p&gt;
-&lt;h1&gt;架空のお題&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;SEOツールを作ろう -&amp;gt; キーワード取得やランキング変動やら&lt;/li&gt;
-&lt;li&gt;体育館空き状況 確認便利ツールを作ろう&lt;/li&gt;
-&lt;li&gt;自動予約もできるようにしよう&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-driven-bonjin.connpass.com/event/400203/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 16:06:07 +0900</pubDate></item><item><title>量子×AI テクノロジー実践ナイト in 神戸・三宮</title><link>https://jqca2023.connpass.com/event/394947/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月15日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月15日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 神戸国際会館セミナーハウス 802号会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区御幸通8丁目1番6号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;量子×AIでひらく、計算社会と仕事の未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟 JQCA関西支部 × JGAIA 共催&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 12 Jul 2026 15:51:13 +0000</lastBuildDate><item><title>量子×AI テクノロジー実践ナイト in 神戸・三宮</title><link>https://jqca2023.connpass.com/event/394947/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月15日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月15日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 神戸国際会館セミナーハウス 802号会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区御幸通8丁目1番6号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;量子×AIでひらく、計算社会と仕事の未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟 JQCA関西支部 × JGAIA 共催&lt;/h1&gt;
 &lt;h1&gt;量子×AIテクノロジー実践ナイト in 神戸・三宮&lt;/h1&gt;
 &lt;p&gt;こんにちは！&lt;/p&gt;
 &lt;p&gt;この度、&lt;strong&gt;一般社団法人日本量子コンピューティング協会（JQCA）関西支部&lt;/strong&gt;と、&lt;strong&gt;一般社団法人日本生成AI協会（JGAIA）&lt;/strong&gt;の共催により、関西で「量子コンピューティング」と「生成AI」をテーマに、基礎から実践活用までを学べるイベントを開催します。&lt;/p&gt;
@@ -1008,7 +875,61 @@ AWSのユーザーグループは日本中、世界中に存在し、あなた�
 &lt;td&gt;完全撤収&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kazamori.connpass.com/event/397231/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49bb76fb0224c6d0b324c6fd1899f2b.png" length="0" type="image/png"/><pubDate>Sat, 13 Jun 2026 12:51:03 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #14】AWS BuilderCards 体験会</title><link>https://jawsug-kobe.connpass.com/event/399415/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月11日(火) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月11日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター　会議室１００２&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本語版開発者のお一人でもある @coosukeさん が直々に教えてくれるよ！みんなでやろうぜ！の会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kazamori.connpass.com/event/397231/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49bb76fb0224c6d0b324c6fd1899f2b.png" length="0" type="image/png"/><pubDate>Sat, 13 Jun 2026 12:51:03 +0900</pubDate></item><item><title>CoderDojo @藤江駅前オアシス26/8/8</title><link>https://coderdojofujie.connpass.com/event/400281/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月8日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月8日(土) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: 藤江駅前オアシス&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県明石市藤江1701-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;子供向けのプログラミングを楽しむ場を無料で提供します。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo @藤江駅前オアシス の参加者を募集します&lt;/h1&gt;
+&lt;p&gt;下記の内容をよくお読みになってからお申込みはこちらのページから保護者の方がおこなってください。&lt;/p&gt;
+&lt;p&gt;CoderDojoでは小中学生を対象にプログラミングを中心とした創作の場を提供します。 子供自身が作りたいものをメンターと呼ばれる大人がサポートしながら進めていきます。もちろんサポートなしでもどんどん進めることができます。&lt;/p&gt;
+&lt;p&gt;プログラミング教室のようにおしえてもらうのではなく自分で考えて作っていきます。また一人でなかなか進まない時でも同じ目標のみんなと楽しく過ごすことができます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scratchでゲームを作成していけどもう少し面白くしたい&lt;/li&gt;
+&lt;li&gt;周りにプログラミングのことを相談できる人がいない&lt;/li&gt;
+&lt;li&gt;作成したScratchのゲームを自慢したい&lt;/li&gt;
+&lt;li&gt;プログラミングを一緒にできる友達が欲しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;などみんなの「やってみたい！」をサポートしていきます。&lt;/p&gt;
+&lt;p&gt;※CoderDojoは2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には200以上の道場があります。&lt;/p&gt;
+&lt;p&gt;CoderDojo &lt;a href="https://coderdojo.com" rel="nofollow"&gt;https://coderdojo.com&lt;/a&gt;
+CoderDojo Japan &lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;対象　：小学生、中学生 (※小学生以下の参加は必ず保護者送迎をお願いします。)&lt;/li&gt;
+&lt;li&gt;持ち物：Wi-Fi接続可能なノートパソコン&lt;/li&gt;
+&lt;li&gt;※マウス&amp;amp;マウスパッド等お持ちいただけると良いです。&lt;/li&gt;
+&lt;li&gt;※念のため、Scratchオフラインエディターのインストールをあらかじめしておいていただけるようお願いします。
+　&lt;a href="https://scratch.mit.edu/download" rel="nofollow"&gt;https://scratch.mit.edu/download&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;開催日時、場所&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;日時：2026/8/8(土)13:30-15:30(13:15受付開始)&lt;/li&gt;
+&lt;li&gt;場所：藤江駅前オアシス(兵庫県明石市藤江1701-3：山陽電車藤江駅)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;申し込み手順&lt;/h1&gt;
+&lt;p&gt;当ページで「このイベントに申し込む」を押してください。（募集期間中のメール・電話・メッセージでの申し込み不可）
+簡単なアンケートにお答えいただければ登録完了です。
+ご不明な点は「イベントへの問い合わせ」又はこのページの下部の問い合わせフォーム(リンク設置)からお願いします。&lt;/p&gt;
+&lt;p&gt;※ やむを得ずキャンセルする場合は必ず当ページにで「申し込みキャンセル」ボタンを押してください。 他の参加者が参加できなくなってしまいます。&lt;/p&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;13:15　受付開始&lt;/li&gt;
+&lt;li&gt;13:30　はじめ&lt;/li&gt;
+&lt;li&gt;15:00　発表（みんなの作品に触れてみよう）&lt;/li&gt;
+&lt;li&gt;15:30　おしまい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;p&gt;最初のプログラミングはブロックプログラミングであるScratch(スクラッチ)」をおすすめしています。 初めての方には使い方などをお話ししてからのスタートとしています(アカウントを作成していただくと保存などが簡単にできるようになります)。&lt;/p&gt;
+&lt;p&gt;Scratch  &lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;既にScratchで作品作りをしている方は、どんなことをやりたいか何となくでも考えて、当日はどんどん進めて行きましょう。
+本格的なプログラミングを始めたい人もOK。&lt;/p&gt;
+&lt;h1&gt;Scratchって？&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://scratch.mit.edu/" rel="nofollow"&gt;http://scratch.mit.edu/&lt;/a&gt;
+Scratchとは、MITメディアラボが開発したプログラミング言語学習環境です。 命令のブロックを組み合わせるだけで、インタラクティブなアニメーションやゲームなどを作りながらプログラミングのロジックを学習できます。&lt;/p&gt;
+&lt;h1&gt;撮影について&lt;/h1&gt;
+&lt;p&gt;会場内では写真を撮影します。Twitterやブログ、SNSなどで利用し、インターネットで公開する場合があります。あらかじめご了承ください。&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;p&gt;持参されるPCをプロジェクタに投影するためのコネクタやケーブル(HDMI, USB-C to HDMI)をお持ちでしたら持参願います。
+保護者の方は、慣れるまでは子どもをフォロー頂きつつ、一緒に取り組まれることをオススメしています。
+あまり保護者のフォローがいらないお子さまについては、是非子ども同士で座って欲しいため、保護者の方は後ろで見守っていただくか、自由に退室され発表の時間か終了までには戻ってきて頂きますよう宜しくお願い致します。&lt;/p&gt;
+&lt;p&gt;問い合わせフォーム。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdQaG_AVHtU9f16Njvcmky1dJGLZkA9ZHJr2VVXGMidiqhD1Q/viewform?usp=sf_link" rel="nofollow"&gt;https://docs.google.com/forms/d/e/1FAIpQLSdQaG_AVHtU9f16Njvcmky1dJGLZkA9ZHJr2VVXGMidiqhD1Q/viewform?usp=sf_link&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojofujie.connpass.com/event/400281/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9a/b49aaa6181e59ce2848562df3ffca09d.png" length="0" type="image/png"/><pubDate>Sun, 12 Jul 2026 06:03:47 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #14】AWS BuilderCards 体験会</title><link>https://jawsug-kobe.connpass.com/event/399415/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月11日(火) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月11日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター　会議室１００２&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本語版開発者のお一人でもある @coosukeさん が直々に教えてくれるよ！みんなでやろうぜ！の会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;AWS のサービスやアーキテクチャを遊びながら学べるカードゲーム AWS BuilderCards を遊んでみたいけど難しそうやな？&lt;/p&gt;
 &lt;p&gt;そう思っている方向けに、もともと英語版だった AWS BuilderCards を日本語翻訳した有志のお一人でもある JAWS-UG 千葉支部の @coosuke さんがルール説明＆ゲームマスターとして神戸に来てくれます。&lt;/p&gt;
 &lt;p&gt;JAWS DAYS などでなんか楽しそうやけどむずそうやな、と思っていた方、遊んだことあるよっていう方、お盆休み前半にわいわい楽しみましょう！&lt;/p&gt;
@@ -1282,7 +1203,92 @@ CoderDojo西神では、例えば以下のような内容をサポートして�
 　本イベントの目的は,現役高専生が互いに刺激し合うことで成長し、各個人が一人のエンジニアとしての高いモチベーションを獲得することです。高専は日本全国に 58 校 62 キャンパス存在していますが、各キャンパス毎に閉鎖的なコミュニティが形成されているという問題点があります。
 　そこで、本イベントの実施によって、各高専のコミュニティの壁を越えた交流の機会を提供できることが期待されます。また、学生にとって各高専のコミュニティ内では経験できない新たな知見や、複眼的で柔軟な発想力の取得ができる機会になることを目指します。&lt;/p&gt;
 &lt;h1&gt;高専歴史カンファレンスin淡路島について&lt;/h1&gt;
-&lt;p&gt;高専カンファレンス淡路島ではテーマを　「日本のはじまりの地で歴史を叫べ！」　とし、高専生の視点による歴史についてのさまざまなご意見をプレゼンテーション形式で発表しあい、新たな視点や発見などと結びつけることによって参加者の知見を増やし、また新たな行動への原動力となるようなイベントです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kosenconfawaji.connpass.com/event/380350/</guid><enclosure url="https://media.connpass.com/thumbs/5c/d7/5cd7b07cadd1d41ad38cf239544a6dc0.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 01:27:35 +0900</pubDate></item><item><title>kintone Café HYOGO Vol.8【懇親会】 暑いのでスーパー銭湯へ行きましょう！</title><link>https://cafehyogo.connpass.com/event/400284/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: SPA専 太平のゆ&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市垂水区海岸通2166-2&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;会場：SPA専 太平のゆ&lt;/h1&gt;
+&lt;p&gt;高専カンファレンス淡路島ではテーマを　「日本のはじまりの地で歴史を叫べ！」　とし、高専生の視点による歴史についてのさまざまなご意見をプレゼンテーション形式で発表しあい、新たな視点や発見などと結びつけることによって参加者の知見を増やし、また新たな行動への原動力となるようなイベントです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kosenconfawaji.connpass.com/event/380350/</guid><enclosure url="https://media.connpass.com/thumbs/5c/d7/5cd7b07cadd1d41ad38cf239544a6dc0.png" length="0" type="image/png"/><pubDate>Sat, 21 Mar 2026 01:27:35 +0900</pubDate></item><item><title>推せ！技術書・TechBlogビブリオバトル</title><link>https://kobe-sannomiya-dev.connpass.com/event/400007/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室1108&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区東町115番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;推せ！推せ！推せ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+
+&lt;p&gt;おすすめの技術書、TechBlogを語ってくれ！&lt;br&gt;
+三宮.devの&lt;a href="https://proposal.sannomiya.dev/#e93e7c61-0cdb-43af-916c-486951901469" rel="nofollow"&gt;イベント提案・投票サイトで提案された企画&lt;/a&gt;を開催します！&lt;/p&gt;
+&lt;p&gt;「バイブルになった」「何かのきっかけになった」「キャリア形成に役立った」「自分のブログの自信作」などなど...あなたにとって &lt;strong&gt;大事な or 印象的な or 好きな or お薦めしたい or 自慢の&lt;/strong&gt; 書籍やTechBlog（Techに限らなくてもOK）を語ってください！&lt;/p&gt;
+&lt;p&gt;発表方法（スライドなど）は各自にお任せしますが、持ち時間は一人 &lt;strong&gt;10分程度&lt;/strong&gt; で収まるようにご協力のほどお願いします&lt;/p&gt;
+&lt;h1&gt;対象者&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;誰でも可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;開催場所&lt;/h1&gt;
+&lt;p&gt;中央区文化センター 会議室1108&lt;/p&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00 〜 14:10&lt;/td&gt;
+&lt;td&gt;自己紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:10 〜&lt;/td&gt;
+&lt;td&gt;イベント開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;発表者&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;#&lt;/th&gt;
+&lt;th&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;T.B.D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;T.B.D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;T.B.D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;T.B.D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;T.B.D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;三宮.devとは&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/tessai9/sannomiya.dev-logos/main/img/logo_color.svg" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;br&gt;
+もくもく会やLT会、その他にweb技術を中心として幅広い技術をテーマにしたイベント・勉強会を毎月開催しています！&lt;br&gt;
+ベテランから初学者までどんな方でも大歓迎ですので気軽にご参加ください！&lt;/p&gt;
+&lt;h3&gt;三宮.devではイベント企画を常時募集しています&lt;/h3&gt;
+&lt;p&gt;「この技術に触れる機会が欲しい！」だったり「アウトプットの場が欲しい！」などがあれば、&lt;a href="https://proposal.sannomiya.dev" rel="nofollow"&gt;イベント提案・投票サイト&lt;/a&gt;へ気軽に投稿ください！&lt;/p&gt;
+&lt;h3&gt;Slackあります&lt;/h3&gt;
+&lt;p&gt;毎月のイベントに関する情報などは&lt;a href="https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA" rel="nofollow"&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt;
+&lt;h3&gt;Cosense使ってます&lt;/h3&gt;
+&lt;p&gt;メンバーの方が勉強会中に得た学び、ハンズオンで用いた資料などは&lt;a href="https://scrapbox.io/sannomiya-dev" rel="nofollow"&gt;三宮.devのCosense&lt;/a&gt; へ自由にアップロード可能としています&lt;/p&gt;
+&lt;h1&gt;主催者プロフィール&lt;/h1&gt;
+&lt;h3&gt;てさお &lt;a href="https://twitter.com/tettyanman" rel="nofollow"&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="me" src="https://avatars.githubusercontent.com/tessai9?s=200"&gt;&lt;/p&gt;
+&lt;p&gt;神戸に住みながら東京のIT会社で働いている一般エンジニアです&lt;br&gt;
+主にRubyとCrystalが好きですが、技術的なことは大体なんでも好きなので色々教えてください&lt;/p&gt;
+&lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt;
+&lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;勧誘や告知目的での参加&lt;/li&gt;
+&lt;li&gt;荒らし行為&lt;/li&gt;
+&lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kobe-sannomiya-dev.connpass.com/event/400007/</guid><enclosure url="https://media.connpass.com/thumbs/bc/31/bc3112a8f80cd49a87bceb7e0cb1c596.png" length="0" type="image/png"/><pubDate>Sun, 12 Jul 2026 12:01:53 +0900</pubDate></item><item><title>kintone Café HYOGO Vol.8【懇親会】 暑いのでスーパー銭湯へ行きましょう！</title><link>https://cafehyogo.connpass.com/event/400284/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: SPA専 太平のゆ&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市垂水区海岸通2166-2&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;会場：SPA専 太平のゆ&lt;/h1&gt;
 &lt;p&gt;kintone Café HYOGO Vol.8 の懇親会として，スーパー銭湯に行く会を企画してみました．&lt;br&gt;
 お風呂，サウナ，明石海峡大橋が見える景色を楽しみましょう！&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.sentou.co.jp/" rel="nofollow"&gt;https://www.sentou.co.jp/&lt;/a&gt;&lt;/p&gt;
