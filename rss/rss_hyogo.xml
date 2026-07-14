@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 13 Jul 2026 17:07:34 +0000</lastBuildDate><item><title>量子×AI テクノロジー実践ナイト in 神戸・三宮</title><link>https://jqca2023.connpass.com/event/394947/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月15日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月15日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 神戸国際会館セミナーハウス 802号会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区御幸通8丁目1番6号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;量子×AIでひらく、計算社会と仕事の未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟 JQCA関西支部 × JGAIA 共催&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 14 Jul 2026 16:08:34 +0000</lastBuildDate><item><title>量子×AI テクノロジー実践ナイト in 神戸・三宮</title><link>https://jqca2023.connpass.com/event/394947/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月15日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月15日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 神戸国際会館セミナーハウス 802号会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区御幸通8丁目1番6号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;量子×AIでひらく、計算社会と仕事の未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🌟 JQCA関西支部 × JGAIA 共催&lt;/h1&gt;
 &lt;h1&gt;量子×AIテクノロジー実践ナイト in 神戸・三宮&lt;/h1&gt;
 &lt;p&gt;こんにちは！&lt;/p&gt;
 &lt;p&gt;この度、&lt;strong&gt;一般社団法人日本量子コンピューティング協会（JQCA）関西支部&lt;/strong&gt;と、&lt;strong&gt;一般社団法人日本生成AI協会（JGAIA）&lt;/strong&gt;の共催により、関西で「量子コンピューティング」と「生成AI」をテーマに、基礎から実践活用までを学べるイベントを開催します。&lt;/p&gt;
@@ -730,23 +730,22 @@ AWSのユーザーグループは日本中、世界中に存在し、あなた�
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;ここ最近で良いと思ったコーディングエージェントのSkillと設定&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;C# + Azureの領域でClaude Codeを使って開発をしています。AGENTS.mdやSkills、Hooksなどの初心者向けの説明と、「これはよかったな」と思うSkillや設定をいくつかご紹介します&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;img src="https://avatars.githubusercontent.com/u/857798?v=4" width="100px"&gt; &lt;br&gt;栂井良太 (@garicchi)&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;img src="https://avatars.githubusercontent.com/u/857798?v=4" width="100px"&gt; &lt;br&gt;栂井良太 (@garicchi) &lt;br&gt; COPLI次世代委員会&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;セッション2&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;未定&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;未定&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Claude Code スキルの育て方 — 小さく始めて、失敗を資産に変える&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Claude Code のスキルは「育てる」ものです。小さく始めたスキルが失敗を重ねるほど強くなっていく過程を、実際の記録とともに紹介します。&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;西川 慶 (にしかわ けい) 様 &lt;br&gt;株式会社オプティム 26新卒&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;セッション3&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;未定&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;未定&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;0→1 で開発する場面で有用な agent skill の構築 (仮)&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;以下の記事をもう少し易しめにまとめたものになります。&lt;br&gt; &lt;a href="https://zenn.dev/tingtt/articles/fc05c73f8265e4" rel="nofollow"&gt;https://zenn.dev/tingtt/articles/fc05c73f8265e4&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;藤島 拓大 (たくてぃん) 様 &lt;br&gt;株式会社オプティム アルバイトスタッフ&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※ セッション内容と数は調整が入る可能性があります&lt;/p&gt;
+&lt;p&gt;※ セッション内容は調整が入る可能性があります&lt;/p&gt;
 &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;p&gt;※内訳は調整中です&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -817,7 +816,7 @@ AWSのユーザーグループは日本中、世界中に存在し、あなた�
 &lt;/li&gt;
 &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://copli-next.connpass.com/event/398527/</guid><enclosure url="https://media.connpass.com/thumbs/f1/75/f17576d546af86f9bf1c76ed1153bc1c.png" length="0" type="image/png"/><pubDate>Mon, 06 Jul 2026 20:48:31 +0900</pubDate></item><item><title>【文化センター1005】KOBE.rb #173</title><link>https://koberb.connpass.com/event/399910/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月4日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月4日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区東町115番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #koberb&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://copli-next.connpass.com/event/398527/</guid><enclosure url="https://media.connpass.com/thumbs/f1/75/f17576d546af86f9bf1c76ed1153bc1c.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 15:09:17 +0900</pubDate></item><item><title>【文化センター1005】KOBE.rb #173</title><link>https://koberb.connpass.com/event/399910/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月4日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月4日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区東町115番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #koberb&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;神戸やその周辺のRubyistが集まる会です。もちろん他地域からの交流も大歓迎です。Rubyの話、Railsの話、React、フロントエンドの話、機械学習、勉強の仕方とか、最近の流行話とか、色々雑多にやっています。&lt;/p&gt;
 &lt;p&gt;Ruby, Railsなどで困ってる事を相談しあったりしたい人。他のRubyistと情報交換したい人。Ruby初級者で勉強したい人などなど。Rubyコミュニティに貢献したい人。Rubyをきっかけにして繋がってる場なので、最近Ruby使ってないなーって方でも大丈夫です。ぜひこの場を活用してください。&lt;/p&gt;
 &lt;h2&gt;何をするんですか？&lt;/h2&gt;
@@ -1115,7 +1114,8 @@ CoderDojo西神では、例えば以下のような内容をサポートして�
 &lt;p&gt;新しい運営メンバーで Café HYOGO を再開します！ 一年越しの Vol.8です！&lt;br&gt;
 真夏で暑いですが，明石海峡大橋を臨む景色のいい場所で楽しくお話しましょう！&lt;/p&gt;
 &lt;h2&gt;kintone Café とは：&lt;/h2&gt;
-&lt;p&gt;kintone Caféは、まだkintoneに触れたことの無い方から、より高度なカスタマイズを行いたいと考えているプロフェッショナルの方まで幅広い層を対象に、楽しく学び・教え合うことでkintoneの魅力や活用法をみんなで共有するための 勉強会コミュニティ です。 （公式HPより抜粋）&lt;/p&gt;
+&lt;p&gt;kintone Caféは、まだkintoneに触れたことの無い方から、より高度なカスタマイズを行いたいと考えているプロフェッショナルの方まで幅広い層を対象に、楽しく学び・教え合うことでkintoneの魅力や活用法をみんなで共有するための 勉強会コミュニティ です。 （公式HPより抜粋）
+※kintone 並びに kintone Café はサイボウズの登録商標です．&lt;/p&gt;
 &lt;h2&gt;今回のテーマ：&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;新体制スタート！　新しい運営メンバーの自己紹介&lt;/li&gt;
@@ -1212,7 +1212,7 @@ CoderDojo西神では、例えば以下のような内容をサポートして�
 &lt;p&gt;会場レンタルの費用を参加者で割り勘させていただきます．参加人数が読めないので何とも言えませんが，500〜1000円前後かと．&lt;/p&gt;
 &lt;h2&gt;Caféのあと：&lt;/h2&gt;
 &lt;p&gt;16:30撤収の会場ですので，時間に余裕があります．&lt;br&gt;
-近所のスーパー銭湯に行きましょう！（詳細はサブイベントからご確認ください）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cafehyogo.connpass.com/event/399780/</guid><enclosure url="https://media.connpass.com/thumbs/0a/ac/0aac7feb9c30e16801d9dfabc0d30315.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 20:39:19 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
+近所のスーパー銭湯に行きましょう！（詳細はサブイベントからご確認ください）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cafehyogo.connpass.com/event/399780/</guid><enclosure url="https://media.connpass.com/thumbs/0a/ac/0aac7feb9c30e16801d9dfabc0d30315.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 12:29:51 +0900</pubDate></item><item><title>高専歴史カンファレンスin淡路島</title><link>https://kosenconfawaji.connpass.com/event/380350/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 洲本市文化体育館　会議室２C&lt;/li&gt;&lt;li&gt;🏢 住所: 〒656-0021 兵庫県洲本市塩屋１丁目１−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kosenconf206awaji&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;日本のはじまりの地で歴史を叫べ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;高専カンファレンスとは&lt;/h1&gt;
 &lt;p&gt;高専カンファレンスとは、全国の高等専門学校の学生・卒業生が一つの会場に集結し、プレゼンによる発表形式を主とした勉強会形式のイベントです。有志の現役学生や卒業生が実行委員会を設立し、企画から広報、運営まで行います。2008年に第1回高専カンファレンスが開催され、今回で第189回目の開催となります。
 　本イベントの目的は,現役高専生が互いに刺激し合うことで成長し、各個人が一人のエンジニアとしての高いモチベーションを獲得することです。高専は日本全国に 58 校 62 キャンパス存在していますが、各キャンパス毎に閉鎖的なコミュニティが形成されているという問題点があります。
 　そこで、本イベントの実施によって、各高専のコミュニティの壁を越えた交流の機会を提供できることが期待されます。また、学生にとって各高専のコミュニティ内では経験できない新たな知見や、複眼的で柔軟な発想力の取得ができる機会になることを目指します。&lt;/p&gt;
