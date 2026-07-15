@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福島のイベント</title><link>https://connpass.com/explore/</link><description>福島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 14 Jul 2026 16:07:47 +0000</lastBuildDate><item><title>東北IT物産展2026 in 会津若松</title><link>https://tohoku-it-bussanten.connpass.com/event/396437/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月1日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月1日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: AiCT（アイクト）&lt;/li&gt;&lt;li&gt;🏢 住所: 福島県会津若松市東栄町1-77 スマートシティーAiCT 交流棟&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #東北IT物産展&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;主催 : 東北IT物産展実行委員会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;東北IT物産展について&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>福島のイベント</title><link>https://connpass.com/explore/</link><description>福島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>福島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 15 Jul 2026 16:13:02 +0000</lastBuildDate><item><title>東北IT物産展2026 in 会津若松</title><link>https://tohoku-it-bussanten.connpass.com/event/396437/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月1日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月1日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: AiCT（アイクト）&lt;/li&gt;&lt;li&gt;🏢 住所: 福島県会津若松市東栄町1-77 スマートシティーAiCT 交流棟&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #東北IT物産展&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;主催 : 東北IT物産展実行委員会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;東北IT物産展について&lt;/h1&gt;
 &lt;p&gt;東北IT物産展は、2014年に仙台で開催されたJAWS festa（AWSユーザーグループのイベント）のサブタイトルがスタートです。&lt;/p&gt;
 &lt;p&gt;その後、「東北のITコミュニティの祭典的な形にして今後も継続していきたい」との思いから、JAWSUG（AWSユーザーグループ）から離れ、青森と秋田、岩手と過去4回、開催されています。&lt;/p&gt;
 &lt;p&gt;東北のITコミュニティや東北にゆかりのある方、各業界の先端で活躍している方たちに登壇していただくITの勉強会を開催し、コロナ禍以降の東北の変化や、東北をはじめとする各地でチャレンジされている方々の講演から、今後のチャレンジのきっかけに繋がることも願ったイベントを開催しています。&lt;/p&gt;
@@ -107,7 +107,7 @@
 &lt;h1&gt;Speaker&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2&gt;Tably株式会社 代表取締役 及川卓也&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://jalphant.net/Profile5.png" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://2026.tohoku-it-bussanten.com/assets/speakers/oikawa.png" width="200"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;我々のWebはどこに行く ── AIが書き、AIが読む時代に&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;誰も支配しない、より良い社会のために。そんな夢とともに広がったWebは、いま再中央集権化とAIがばらまく粗悪な情報にさらされ、AIが書き、AIが読む空間へと姿を変えつつあります。&lt;br&gt;
@@ -115,7 +115,7 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2&gt;KDDIアジャイル開発センター株式会社 みのるん&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://2025.tohoku-it-bussanten.com/img/speakers/reimen01_minorun.jpg" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://2026.tohoku-it-bussanten.com/assets/speakers/minorun.jpg" width="200"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;AWSの最新機能でRAG &amp;amp; AIエージェント構築に入門しよう！特盛編&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AWSの最新機能AgentCoreを使って、あなたの業務を自動化するAIアプリをフルサーバーレスで開発する方法をやさしく学びましょう！&lt;br&gt;
@@ -123,10 +123,34 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2&gt;常磐アジャイル 原田頌久（はらでぃ）&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://2026.tohoku-it-bussanten.com/assets/speakers/hara.png" width="200"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;ITコミュニティが紡ぐ関係人口〜アジャイルコミュニティいわきで立ち上がった話〜&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;岩手県出身、東京都在住/クレジットカード会社でPO/アジャイルコミュニティ"no me inagile"を主催/JUAS組織力強化研究会2026年度研究会メンバー&lt;br&gt;
 福島とのご縁：従兄弟が福島市在住/元カノがいわきに住んでいた/兄が福島民報に掲載!!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;JaSST東北 大平祐介&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://2026.tohoku-it-bussanten.com/assets/speakers/ohira.png" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「私たちはなんでテストするんだっけ？」〜あらためてテストの意味を考える〜&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;業務システムの開発に従事して､かれこれ20年。 スクラムチームのQAメンバーとして日々精進中。
+プライベートでは、ただのテスター。
+･好きな本は、闘うプログラマー / 好きなスクラムイベントは、スプリントレビュー / 好きなプロトコルは、LDAP&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;株式会社エスツー 武田一成&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://2026.tohoku-it-bussanten.com/assets/speakers/takeda.jpg" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;東北IT物産展、12年目の続き&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;東北IT物産展の歴史や今後についてお伝えします。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;株式会社Cloudii 大森信哉&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://2026.tohoku-it-bussanten.com/assets/speakers/shinya.jpg" width="200"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;OCIを軸に考えるマルチクラウドアーキテクチャ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OCI（Oracle Cloud Infrastructure）の概要を押さえつつ、OCIをハブとして他社クラウドと連携するマルチクラウドアーキテクチャパターンを紹介します。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h1&gt;懇親会&lt;/h1&gt;
@@ -154,7 +178,7 @@ JR会津若松駅から：徒歩30分。 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;・&lt;a href="https://www.city.aizuwakamatsu.fukushima.jp/" rel="noopener noreferrer nofollow"&gt;会津若松市&lt;/a&gt;&lt;br&gt;
 ・&lt;a href="https://efsta.com/" rel="noopener noreferrer nofollow"&gt;ITコミュニティ「エフスタ!!」&lt;/a&gt;&lt;br&gt;
 ・&lt;a href="https://www.npo-solaris.or.jp/" rel="noopener noreferrer nofollow"&gt;特定非営利活動法人 Solaris&lt;/a&gt;&lt;br&gt;
-・&lt;a href="https://www.aict.or.jp/" rel="noopener noreferrer nofollow"&gt;一般社団法人AiCTコンソーシアム&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tohoku-it-bussanten.connpass.com/event/396437/</guid><enclosure url="https://media.connpass.com/thumbs/be/28/be289129f9ce4e89c7cbdbabd31e3e32.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 23:41:15 +0900</pubDate></item><item><title>東北IT物産展2026 懇親会</title><link>https://connpass.com/event/396442/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月1日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月1日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: AiCT（アイクト）&lt;/li&gt;&lt;li&gt;🏢 住所: 福島県会津若松市東栄町1-77 スマートシティーAiCT 交流棟&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #東北IT物産展&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+・&lt;a href="https://www.aict.or.jp/" rel="noopener noreferrer nofollow"&gt;一般社団法人AiCTコンソーシアム&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tohoku-it-bussanten.connpass.com/event/396437/</guid><enclosure url="https://media.connpass.com/thumbs/be/28/be289129f9ce4e89c7cbdbabd31e3e32.png" length="0" type="image/png"/><pubDate>Wed, 15 Jul 2026 14:36:45 +0900</pubDate></item><item><title>東北IT物産展2026 懇親会</title><link>https://connpass.com/event/396442/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月1日(土) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月1日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: AiCT（アイクト）&lt;/li&gt;&lt;li&gt;🏢 住所: 福島県会津若松市東栄町1-77 スマートシティーAiCT 交流棟&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #東北IT物産展&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;現地（同会場）にて立食形式懇親会を開催します。&lt;/p&gt;
 &lt;p&gt;※「あゆむCafe」&lt;a href="https://tabelog.com/fukushima/A0705/A070501/7016336/" rel="nofollow"&gt;https://tabelog.com/fukushima/A0705/A070501/7016336/&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;※日本酒持ち込みます！！&lt;/p&gt;

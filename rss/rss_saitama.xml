@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 14 Jul 2026 16:07:56 +0000</lastBuildDate><item><title>川越インディーゲーム + イラスト・まんが もくもく会　第29回</title><link>https://kawagoemokumoku.connpass.com/event/400144/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: ウエスタ川越&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県川越市新宿町1-17-17&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #川越もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第29回&lt;/p&gt;&lt;div&gt;&lt;h1&gt;川越インディーゲーム + イラスト・まんが もくもく会&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 15 Jul 2026 16:13:09 +0000</lastBuildDate><item><title>川越インディーゲーム + イラスト・まんが もくもく会　第29回</title><link>https://kawagoemokumoku.connpass.com/event/400144/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: ウエスタ川越&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県川越市新宿町1-17-17&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #川越もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第29回&lt;/p&gt;&lt;div&gt;&lt;h1&gt;川越インディーゲーム + イラスト・まんが もくもく会&lt;/h1&gt;
 &lt;h2&gt;会場&lt;/h2&gt;
 &lt;p&gt;ウエスタ川越　活動室５&lt;/p&gt;
 &lt;h2&gt;会の内容&lt;/h2&gt;
@@ -160,23 +160,30 @@ Saitama.rbはRubyに詳しい人たちもいるので、質問や情報交換、
 &lt;li&gt;発起人 &lt;a href="https://takeyuweb.co.jp" rel="nofollow"&gt;タケユー・ウェブ株式会社&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;会場提供 貸会議室6F様&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://saitamarb.connpass.com/event/399704/</guid><pubDate>Mon, 06 Jul 2026 08:51:06 +0900</pubDate></item><item><title>【第1回】犬型ロボット「XGO」が動く！フィジカルAIのハンズオン勉強会</title><link>https://connpass.com/event/400574/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: KYLA株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市浦和区高砂３－１０－４　 埼玉建設会館4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #フィジカルAI&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;【勉強会の内容】&lt;/h2&gt;
-&lt;p&gt;犬型ロボット「XGO」を実際に動かしながら、フィジカルAIの基礎を学ぶハンズオン勉強会です。Pythonを用いたロボット制御の基本や、カメラ・センサーを活用した認識技術、AIによる動作制御の仕組みを体験的に学びます。&lt;/p&gt;
+&lt;p&gt;犬型ロボット「XGO」を実際に動かしながら、フィジカルAIの基礎を学ぶハンズオン勉強会です。&lt;/p&gt;
+&lt;p&gt;Pythonを用いたロボット制御の基本や、カメラ・センサーを活用した認識技術、AIによる動作制御の仕組みを体験的に学びます。&lt;/p&gt;
 &lt;p&gt;また、Vision-Language-Action（VLA）など最新のフィジカルAIの考え方や、生成AIとロボットを組み合わせた活用事例も紹介し、実世界で動くAIシステムの開発に必要な基礎知識を身につけます。&lt;/p&gt;
 &lt;h2&gt;【こんな方におすすめ！】&lt;/h2&gt;
-&lt;p&gt;・ ロボットや最新AIにワクワクする方（知識ゼロでも大歓迎
-・ 話題の四足歩行ロボット「XGO」が動くところを生で見たい方
-・ 「フィジカルAIって最近よく聞くけど何？」と気になっている方！
-・ 休日の土曜日に、新しいテクノロジーの刺激を受けたい方&lt;/p&gt;
+&lt;p&gt;・ ロボットや最新AIにワクワクする方（知識ゼロでも大歓迎&lt;/p&gt;
+&lt;p&gt;・ 話題の四足歩行ロボット「XGO」が動くところを生で見たい方&lt;/p&gt;
+&lt;p&gt;・ 「フィジカルAIって最近よく聞くけど何？」と気になっている方！&lt;/p&gt;
+&lt;p&gt;・ 休日の土曜日に、新しいテクノロジーの刺激を受けたい方&lt;/p&gt;
 &lt;h2&gt;【開催詳細】&lt;/h2&gt;
-&lt;p&gt;・開催概要日時： 7月18日（土）16:00〜18:00（その後任意参加で懇親会）
-・場所 ：KYLA株式会社
-（住所 ：埼玉県さいたま市浦和区高砂3ｰ10ｰ4 埼玉建設会館4F）
-・参加費 ： 無料（※懇親会にご参加される方のみ、ご自身の飲食代（実費）をご負担いただきます）
-・持ち物： ノートPC&lt;/p&gt;
+&lt;p&gt;・開催概要日時： 7月18日（土）16:00〜18:00（その後任意参加で懇親会）&lt;/p&gt;
+&lt;p&gt;・場所 ：KYLA株式会社&lt;/p&gt;
+&lt;p&gt;（住所 ：埼玉県さいたま市浦和区高砂3ｰ10ｰ4 埼玉建設会館4F）&lt;/p&gt;
+&lt;p&gt;・参加費 ： 無料（※懇親会にご参加される方のみ、ご自身の飲食代（実費）をご負担いただきます）&lt;/p&gt;
+&lt;p&gt;・持ち物： ノートPC&lt;/p&gt;
 &lt;h2&gt;【主催者より一言】&lt;/h2&gt;
 &lt;p&gt;「AIが身体を持ったら、僕たちの生活や仕事はどう変わるんだろう？」そんな疑問を、難しい理論ではなく『実際に動くロボット（XGO）を見る楽しさ』を通して一緒に体感したいと思い、この勉強会を企画しました！テクノロジーに詳しくない方でも、犬型ロボットが愛らしく動く姿を見るだけで絶対楽しめます。
-ぜひお気軽にご参加ください！&lt;/p&gt;
-&lt;p&gt;※KYLA株式会社はフィジカルAIに強い会社です&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/400574/</guid><enclosure url="https://media.connpass.com/thumbs/51/11/5111eb2266629c576f03bd1ba5964313.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 19:03:54 +0900</pubDate></item><item><title>川口でもくもく会(初心者歓迎)</title><link>https://odekake-tech.connpass.com/event/398025/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: みらいスペース川口&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県川口市栄町3-9-11&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #おでかけテック&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+ぜひお気軽にご参加ください。&lt;/p&gt;
+&lt;h2&gt;【主催者のプロフィール】&lt;/h2&gt;
+&lt;p&gt;35歳。
+慶應義塾大学卒。学生時代からプログラミングを始め、ERPパッケージベンダーのワークスアプリケーションズに入社。世界初人工知能搭載のERPパッケージの製品開発に従事した後、独立。
+扱えるプログラミング言語は10言語ほど。
+ITコンサルティング、フィジカルAI、機械学習、フロントエンド、バックエンド、インフラまでフルスタックに対応が可能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="社長写真" src="https://lh3.googleusercontent.com/d/1YTTWmpJ0kwQ41MmfV2aod_jRhha3mBhY"&gt;&lt;/p&gt;
+&lt;p&gt;※KYLA株式会社はフィジカルAIに強い会社です&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/400574/</guid><enclosure url="https://media.connpass.com/thumbs/5d/a9/5da93fc8aff9d29348b307b0c7c09163.png" length="0" type="image/png"/><pubDate>Wed, 15 Jul 2026 17:01:24 +0900</pubDate></item><item><title>川口でもくもく会(初心者歓迎)</title><link>https://odekake-tech.connpass.com/event/398025/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: みらいスペース川口&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県川口市栄町3-9-11&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #おでかけテック&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;ITに興味のある方が集まり、それぞれ自由に作業や勉強を進める「もくもく会」です。
 集中して作業したい方も、たまには誰かと同じ空間で頑張りたい方も、お気軽にご参加ください。&lt;/p&gt;
 &lt;p&gt;プログラミング、資格勉強、個人開発、生成AIの活用、読書など、取り組む内容は自由です。&lt;/p&gt;
