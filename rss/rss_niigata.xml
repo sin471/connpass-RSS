@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>新潟のイベント</title><link>https://connpass.com/explore/</link><description>新潟のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>新潟のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 16 Jul 2026 16:09:50 +0000</lastBuildDate><item><title>braInterview（ブレインタビュー）vol.12</title><link>https://ddd-ng.connpass.com/event/393858/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: CROSS YARD 2F シェアスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟市東区上王瀬町1-40&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #swiing&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Swiingが主催する新潟ゆかりのクリエイターとつながる情報交換会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Swiingイベント｜braInterview（ブレインタビュー）とは？&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>新潟のイベント</title><link>https://connpass.com/explore/</link><description>新潟のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>新潟のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 17 Jul 2026 16:08:03 +0000</lastBuildDate><item><title>braInterview（ブレインタビュー）vol.12</title><link>https://ddd-ng.connpass.com/event/393858/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月18日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月18日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: CROSS YARD 2F シェアスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟市東区上王瀬町1-40&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #swiing&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Swiingが主催する新潟ゆかりのクリエイターとつながる情報交換会&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Swiingイベント｜braInterview（ブレインタビュー）とは？&lt;/h2&gt;
 &lt;p&gt;新潟県のクリエイターを集めたプラットフォーム「Swiing」では、クリエイター同士の交流や企業・自治体とのマッチングを促進し、クリエイティブの力で地域の課題を解決するコミュニティを目指しています。その一環として定期開催している「braInterview（ブレインタビュー）」は、「クリエイターの脳内を探る」をコンセプトに、登壇者のキャリアや思考プロセスを紐解くトークセッションです。&lt;br&gt;&lt;br&gt;
 本イベントは、これからを担う若手はもちろん、次の一歩を模索するキャリア5〜10年目の中堅層にとっても、仕事の枠組みを広げるための大きな気づきが得られる場となるはずです。セッション後の交流会も含め、クリエイター同士の相互理解をさらに深め、新たな協業やコラボレーションが生まれるきっかけになることを願っております。新潟をクリエイティブで盛り上げたい皆様の参加を心よりお待ちしています。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;イベント概要&lt;/h2&gt;
@@ -175,13 +175,15 @@ event@swiing.jp&lt;/p&gt;
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2&gt;ハンズオン内容&lt;/h2&gt;
-&lt;p&gt;決まり次第掲載します。&lt;/p&gt;
+&lt;p&gt;今回は、AWS Builder Center が提供している無料のサンドボックス環境を利用します！
+Builder IDがあれば誰でも使用可能です。
+その中で用意されているワークショップを実施します！&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;持ち物&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;ノートPC&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;電源アダプター&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AWSアカウント&lt;/strong&gt;（ハンズオンで利用できる状態にしておいてください）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Builder ID&lt;/strong&gt;（AWSアカウントは不要になりました）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;参加枠について&lt;/h2&gt;
 &lt;p&gt;一般参加枠のほかに、運営スタッフ枠を設けております。
@@ -230,7 +232,20 @@ AWSに関する情報交換や、地域のエンジニア同士の交流の場�
 &lt;h2&gt;JAWS-UG 上越妙高支部について&lt;/h2&gt;
 &lt;p&gt;JAWS-UG 上越妙高支部では、新潟県上越地域にてクラウドに興味のあるエンジニア・ユーザーに向けた事例紹介や活用方法の紹介など、活発な情報交換が行える場になることを目指して活動しています。&lt;/p&gt;
 &lt;p&gt;代表：植木 和樹&lt;/p&gt;
-&lt;p&gt;メンバー：栁澤 一貴　立神 皓基&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-joetsumyoko.connpass.com/event/392732/</guid><enclosure url="https://media.connpass.com/thumbs/6a/3a/6a3aee845052e25e23f1caa57047b769.png" length="0" type="image/png"/><pubDate>Sun, 03 May 2026 09:01:32 +0900</pubDate></item><item><title>Niigata5分Tech #26</title><link>https://niigata-5min-tech.connpass.com/event/400261/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月24日(金) 20:50&lt;/li&gt;&lt;li&gt;📍 会場: NINNO3　コワーキングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 950-0917 新潟県新潟市中央区天神１丁目１−３ プラーカ３　B1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #niigata_5min_tech&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初参加・見るだけ大歓迎！新潟でゆる〜く技術を語る夜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Niigata5分Techとは？&lt;/h1&gt;
+&lt;p&gt;メンバー：栁澤 一貴　立神 皓基&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-joetsumyoko.connpass.com/event/392732/</guid><enclosure url="https://media.connpass.com/thumbs/6a/3a/6a3aee845052e25e23f1caa57047b769.png" length="0" type="image/png"/><pubDate>Fri, 17 Jul 2026 14:17:44 +0900</pubDate></item><item><title>【前夜祭】JAWS-UG 新潟 in 佐渡 - Lightning Sado 2026</title><link>https://jawsug-niigata.connpass.com/event/399549/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: うんめぇ日本海　鯛家&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県新潟市中央区東大通１-3-20 木村ビル1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_niigata&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【前夜祭】JAWS-UG 新潟 in 佐渡 - Lightning Sado 2026&lt;/h1&gt;
+&lt;p&gt;こちらは、懇親会参加申込みページです。 勉強会本編への申込みは &lt;a href="https://jawsug-niigata.connpass.com/event/387865/" rel="nofollow"&gt;こちら&lt;/a&gt; からお願いします。&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.hotpepper.jp/strJ000331585/" rel="nofollow"&gt;うんめぇ日本海　鯛家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;新潟県新潟市中央区東大通１-3-20 木村ビル1F&lt;/li&gt;
+&lt;li&gt;新潟駅前　徒歩３分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時: 2026/07/04 (金) 19:00 - 21:00 (予定)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.hotpepper.jp/strJ000331585/" rel="nofollow"&gt;うんめぇ日本海　鯛家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;参加費: 5,000円前後 (席のみ予約なので前後することご了承ください。)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-niigata.connpass.com/event/399549/</guid><enclosure url="https://media.connpass.com/thumbs/2e/70/2e703441da6fe0d24bd22d1e27cfd8c1.png" length="0" type="image/png"/><pubDate>Sat, 04 Jul 2026 10:20:17 +0900</pubDate></item><item><title>Niigata5分Tech #26</title><link>https://niigata-5min-tech.connpass.com/event/400261/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月24日(金) 20:50&lt;/li&gt;&lt;li&gt;📍 会場: NINNO3　コワーキングスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 950-0917 新潟県新潟市中央区天神１丁目１−３ プラーカ３　B1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #niigata_5min_tech&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初参加・見るだけ大歓迎！新潟でゆる〜く技術を語る夜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Niigata5分Techとは？&lt;/h1&gt;
 &lt;p&gt;新潟にいるエンジニアや学生、教員など様々な技術に興味がある方の交流とアウトプットをすることを目的とした勉強会です。&lt;/p&gt;
 &lt;p&gt;「IT系の勉強会に初めて参加する」「まだ知識に自信がない」という方も大歓迎です！&lt;br&gt;
 発表をせず、&lt;strong&gt;「まずは話を聞いてみたい」「雰囲気を見てみたい」という聴講のみの参加や「初めて登壇してみたい！」という方も歓迎&lt;/strong&gt;ですので、どうぞお気軽にお越しください！  &lt;/p&gt;
@@ -316,20 +331,7 @@ AWSに関する情報交換や、地域のエンジニア同士の交流の場�
 @Niigata5minTechにDMをお願いします！&lt;br&gt;
 是非ゆる～いTechコミュニティの運営にご協力お願いします！  &lt;/p&gt;
 &lt;h1&gt;開催の様子&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="和気藹々とやってます" src="https://i.gyazo.com/00d05fae09e5181d678ce7c2098d116b.jpg"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://niigata-5min-tech.connpass.com/event/400261/</guid><enclosure url="https://media.connpass.com/thumbs/3c/52/3c52b3d3fb484b30de67eb37663c69e7.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 13:30:02 +0900</pubDate></item><item><title>【前夜祭】JAWS-UG 新潟 in 佐渡 - Lightning Sado 2026</title><link>https://jawsug-niigata.connpass.com/event/399549/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月24日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月24日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: うんめぇ日本海　鯛家&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県新潟市中央区東大通１-3-20 木村ビル1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_niigata&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【前夜祭】JAWS-UG 新潟 in 佐渡 - Lightning Sado 2026&lt;/h1&gt;
-&lt;p&gt;こちらは、懇親会参加申込みページです。 勉強会本編への申込みは &lt;a href="https://jawsug-niigata.connpass.com/event/387865/" rel="nofollow"&gt;こちら&lt;/a&gt; からお願いします。&lt;/p&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.hotpepper.jp/strJ000331585/" rel="nofollow"&gt;うんめぇ日本海　鯛家&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;新潟県新潟市中央区東大通１-3-20 木村ビル1F&lt;/li&gt;
-&lt;li&gt;新潟駅前　徒歩３分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;日時: 2026/07/04 (金) 19:00 - 21:00 (予定)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.hotpepper.jp/strJ000331585/" rel="nofollow"&gt;うんめぇ日本海　鯛家&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;参加費: 5,000円前後 (席のみ予約なので前後することご了承ください。)&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-niigata.connpass.com/event/399549/</guid><enclosure url="https://media.connpass.com/thumbs/2e/70/2e703441da6fe0d24bd22d1e27cfd8c1.png" length="0" type="image/png"/><pubDate>Sat, 04 Jul 2026 10:20:17 +0900</pubDate></item><item><title>JAWS-UG 新潟 in 佐渡 - Lightning Sado 2026</title><link>https://jawsug-niigata.connpass.com/event/387865/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: HOSTEL Perch&lt;/li&gt;&lt;li&gt;🏢 住所: 〒952-1315新潟県佐渡市河原田諏訪町4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_niigata&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初めての佐渡ヶ島開催！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;7月のJAWS-UG新潟は佐渡ヶ島！&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="和気藹々とやってます" src="https://i.gyazo.com/00d05fae09e5181d678ce7c2098d116b.jpg"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://niigata-5min-tech.connpass.com/event/400261/</guid><enclosure url="https://media.connpass.com/thumbs/3c/52/3c52b3d3fb484b30de67eb37663c69e7.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 13:30:02 +0900</pubDate></item><item><title>JAWS-UG 新潟 in 佐渡 - Lightning Sado 2026</title><link>https://jawsug-niigata.connpass.com/event/387865/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: HOSTEL Perch&lt;/li&gt;&lt;li&gt;🏢 住所: 〒952-1315新潟県佐渡市河原田諏訪町4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_niigata&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初めての佐渡ヶ島開催！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;7月のJAWS-UG新潟は佐渡ヶ島！&lt;/h1&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;新潟支部が佐渡で開催するLT+BBQなイベントです！&lt;/p&gt;
 &lt;p&gt;まずはコワーキングスペースを貸し切ってわいわいLT会、そのあとはHOSTEL Perchの裏庭でBBQ🍖
@@ -715,7 +717,7 @@ AWSに関する情報交換や、地域のエンジニア同士の交流の場�
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;運営メンバー募集中です！&lt;/h2&gt;
-&lt;p&gt;運営メンバーも随時募集しています。新潟にゆかりのある方はぜひお声がけください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-niigata.connpass.com/event/387865/</guid><enclosure url="https://media.connpass.com/thumbs/ff/2d/ff2d7f4d6c354144a5c8dafd71da70fb.png" length="0" type="image/png"/><pubDate>Tue, 14 Jul 2026 00:10:42 +0900</pubDate></item><item><title>DERTA Jam Φ（ファイ） vol.7</title><link>https://ddd-ng.connpass.com/event/399763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Work With 本町 2F&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県新潟市中央区本町通７番町1098‐1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #dertajam&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デザイン・社会・これからを、フラットに話す土曜日。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;❓DERTA Jam Φ（ファイ） とは？&lt;/h2&gt;
+&lt;p&gt;運営メンバーも随時募集しています。新潟にゆかりのある方はぜひお声がけください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-niigata.connpass.com/event/387865/</guid><enclosure url="https://media.connpass.com/thumbs/ff/2d/ff2d7f4d6c354144a5c8dafd71da70fb.png" length="0" type="image/png"/><pubDate>Fri, 17 Jul 2026 05:44:33 +0900</pubDate></item><item><title>DERTA Jam Φ（ファイ） vol.7</title><link>https://ddd-ng.connpass.com/event/399763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Work With 本町 2F&lt;/li&gt;&lt;li&gt;🏢 住所: 新潟県新潟市中央区本町通７番町1098‐1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #dertajam&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デザイン・社会・これからを、フラットに話す土曜日。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;❓DERTA Jam Φ（ファイ） とは？&lt;/h2&gt;
 &lt;p&gt;これまで共創コミュニティのメインイベントだった「DERTA Jam」が、少し形を変えて帰ってきます。&lt;br&gt;
 その名も&lt;strong&gt;「DERTA Jam Φ（ファイ）&lt;/strong&gt;」。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;「誰かの発表を一方的に聞く」のではなく、「その場にいるみんなで、思考をジャムらせる」。そんな、より距離の近いコミュニティイベントとしてリスタートします。&lt;br&gt;&lt;/p&gt;
