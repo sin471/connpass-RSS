@@ -1,73 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 18 Jul 2026 15:45:16 +0000</lastBuildDate><item><title>CoderDojo長野 第15回  7/19(日) 14:00</title><link>https://coderdojo-nagano.connpass.com/event/398285/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月19日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月19日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野県立図書館3F&lt;/li&gt;&lt;li&gt;🏢 住所: 長野市若里1-1-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;CoderDojo長野は、長野市で開催している子ども向け参加費無料のプログラミングクラブです。
-隔月日曜日の午後に開催する予定です。&lt;/p&gt;
-&lt;p&gt;プログラミングに興味を持っている子どもたちが集まり、Scratchでゲームを作ったり、micro:bitやRaspberry Piで電子工作をしたり、それぞれ自分のやりたいことを行い交流するための場所です。最近は、ScratchやPythonでゲーム作成、Robloxをしている方が多いです。
-途中参加、退席でも大丈夫です。&lt;/p&gt;
-&lt;p&gt;興味があるけど何をしたら良いか分からない人には、&lt;a href="https://www.amazon.co.jp/dp/4873118999" rel="nofollow"&gt;作って学ぶScratchドリル&lt;/a&gt;を用意していますので、チャレンジしてみてください。&lt;/p&gt;
-&lt;h3&gt;開催内容&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;日　時 　: 2026年7月19日（日）　14:00～16:00ごろ&lt;/li&gt;
-&lt;li&gt;場　所　：長野県立図書館3階 階段出て左奥のワークショップスペース （〒380-0928 長野県長野市若里1-1-4）&lt;ul&gt;
-&lt;li&gt;（駐車場が混み合うことが多いので、早めにお越しになることをおすすめします）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;参加費 　: 無料&lt;/li&gt;
-&lt;li&gt;参加条件 : 7歳から17歳ぐらい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;タイムテーブル&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00&lt;/td&gt;
-&lt;td&gt;主催者挨拶、参加者から簡単な自己紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:15&lt;/td&gt;
-&lt;td&gt;プログラミングの時間&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30&lt;/td&gt;
-&lt;td&gt;発表できそうな人は今日やったことの発表&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:00&lt;/td&gt;
-&lt;td&gt;解散&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;定員&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ニンジャ（参加してくれる子どもたち）　10名ぐらい&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;小学生以下の方は保護者の付き添いが必要です&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;メンター（支援者）　5名ぐらい&lt;/li&gt;
-&lt;li&gt;見学者　5名ぐらい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;準備するもの&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;好奇心&lt;/li&gt;
-&lt;li&gt;パソコンやタブレット&lt;ul&gt;
-&lt;li&gt;少ないですが貸出パソコンの用意があります。希望者は&lt;code&gt;ニンジャ（PC貸与希望者）&lt;/code&gt; からお申し込みください。&lt;/li&gt;
-&lt;li&gt;貸出パソコンはBox Japan様からCoderDojo Japanを通じ寄付いただいています。(&lt;a href="https://news.coderdojo.jp/2024/12/25/box-japan-to-coderdojo/" rel="nofollow"&gt;参考&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;CoderDojo 長野は、子ども向けの「参加費無料のプログラミングクラブ」です。&lt;/p&gt;
-&lt;p&gt;プログラミングでわからない事があったら、周りの友達や、メンターと呼ばれるプログラミングが得意な参加者に教えてもらえますので、どなたでも楽しくプログラミングに触れることができます。&lt;/p&gt;
-&lt;p&gt;CoderDojo 長野は、&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo 憲章&lt;/a&gt;に則り開催します。
-どなたでも無料で参加できますので、お気軽にご参加ご申込みください。
-飛び込みでのご参加も歓迎しますが、見学のご希望の方もできるだけ事前にご登録をお願いします。
-メンターは事前の登録が必須です。&lt;/p&gt;
-&lt;p&gt;活動の様子を今後掲載するために、写真を撮影することがあります。掲載する場合顔を隠すなどの加工をしますし、付き添いの方へ事前に了承を取ります。&lt;/p&gt;
-&lt;p&gt;質問や気になる点がございましたら、Connpassの[イベントへのお問い合わせ]か、 coderdojonagano@gmail.com へご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagano.connpass.com/event/398285/</guid><enclosure url="https://media.connpass.com/thumbs/6b/b0/6bb05f7b87d65979077585446d114c5e.png" length="0" type="image/png"/><pubDate>Sat, 18 Jul 2026 13:22:39 +0900</pubDate></item><item><title>CoderDojo飯田#47</title><link>https://coderdojoiida.connpass.com/event/398187/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月20日(月) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月20日(月) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第四十七回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#47&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>長野のイベント</title><link>https://connpass.com/explore/</link><description>長野のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>長野のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 19 Jul 2026 15:47:49 +0000</lastBuildDate><item><title>CoderDojo飯田#47</title><link>https://coderdojoiida.connpass.com/event/398187/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月20日(月) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月20日(月) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ロジカランド株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 飯田市上郷別府２６８９−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第四十七回コーダードージョー飯田開催です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo飯田#47&lt;/h1&gt;
 &lt;p&gt;飯田市での開催47回目のCoderDojoです。&lt;/p&gt;
 &lt;h2&gt;CoderDojoとは？&lt;/h2&gt;
 &lt;p&gt;CoderDojo は7〜17歳(小学校一年生〜高校生まで)を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本には211以上の道場があります。&lt;/p&gt;
@@ -143,7 +75,75 @@
 &lt;h2&gt;facebookページ　ここでブログのように情報を書いてます。&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.facebook.com/coderdojoiida/" rel="nofollow"&gt;https://www.facebook.com/coderdojoiida/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;twitter　こちらでもたまに呟いてます&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://twitter.com/coderdojoiid7" rel="nofollow"&gt;https://twitter.com/coderdojoiid7&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoiida.connpass.com/event/398187/</guid><enclosure url="https://media.connpass.com/thumbs/c6/88/c68872c6dc40f2ebc8439cdc2f845972.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 10:10:59 +0900</pubDate></item><item><title>Laboratory Automation月例勉強会 / 2026.08</title><link>https://laboratoryautomation.connpass.com/event/397196/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月21日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月21日(金) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: セイコーエプソン株式会社 豊科事業所&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県安曇野市豊科田沢6925&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LA_Study&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2026年8月開催分です。長野とオンラインのハイブリッド開催です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;おしらせ&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/coderdojoiid7" rel="nofollow"&gt;https://twitter.com/coderdojoiid7&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoiida.connpass.com/event/398187/</guid><enclosure url="https://media.connpass.com/thumbs/c6/88/c68872c6dc40f2ebc8439cdc2f845972.png" length="0" type="image/png"/><pubDate>Thu, 02 Jul 2026 10:10:59 +0900</pubDate></item><item><title>CoderDojo長野 第16回  8/16(日) 14:00</title><link>https://coderdojo-nagano.connpass.com/event/401133/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月16日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月16日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 長野県立図書館3F&lt;/li&gt;&lt;li&gt;🏢 住所: 長野市若里1-1-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;CoderDojo長野は、長野市で開催している子ども向け参加費無料のプログラミングクラブです。
+隔月日曜日の午後に開催する予定です。&lt;/p&gt;
+&lt;p&gt;プログラミングに興味を持っている子どもたちが集まり、Scratchでゲームを作ったり、micro:bitやRaspberry Piで電子工作をしたり、それぞれ自分のやりたいことを行い交流するための場所です。最近は、ScratchやPythonでゲーム作成、Robloxをしている方が多いです。
+途中参加、退席でも大丈夫です。&lt;/p&gt;
+&lt;p&gt;興味があるけど何をしたら良いか分からない人には、&lt;a href="https://www.amazon.co.jp/dp/4873118999" rel="nofollow"&gt;作って学ぶScratchドリル&lt;/a&gt;を用意していますので、チャレンジしてみてください。&lt;/p&gt;
+&lt;h3&gt;開催内容&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;日　時 　: 2026年8月16日（日）　14:00～16:00ごろ（主催者の都合で送り盆です🙇‍♂️）&lt;/li&gt;
+&lt;li&gt;場　所　：長野県立図書館3階 階段出て左奥のワークショップスペース （〒380-0928 長野県長野市若里1-1-4）&lt;ul&gt;
+&lt;li&gt;（駐車場が混み合うことが多いので、早めにお越しになることをおすすめします）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;参加費 　: 無料&lt;/li&gt;
+&lt;li&gt;参加条件 : 7歳から17歳ぐらい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;タイムテーブル&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;主催者挨拶、参加者から簡単な自己紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:15&lt;/td&gt;
+&lt;td&gt;プログラミングの時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;発表できそうな人は今日やったことの発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;解散&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;定員&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ニンジャ（参加してくれる子どもたち）　10名ぐらい&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;小学生以下の方は保護者の付き添いが必要です&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;メンター（支援者）　5名ぐらい&lt;/li&gt;
+&lt;li&gt;見学者　5名ぐらい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;準備するもの&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;好奇心&lt;/li&gt;
+&lt;li&gt;パソコンやタブレット&lt;ul&gt;
+&lt;li&gt;少ないですが貸出パソコンの用意があります。希望者は&lt;code&gt;ニンジャ（PC貸与希望者）&lt;/code&gt; からお申し込みください。&lt;/li&gt;
+&lt;li&gt;貸出パソコンはBox Japan様からCoderDojo Japanを通じ寄付いただいています。(&lt;a href="https://news.coderdojo.jp/2024/12/25/box-japan-to-coderdojo/" rel="nofollow"&gt;参考&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;CoderDojo 長野は、子ども向けの「参加費無料のプログラミングクラブ」です。&lt;/p&gt;
+&lt;p&gt;プログラミングでわからない事があったら、周りの友達や、メンターと呼ばれるプログラミングが得意な参加者に教えてもらえますので、どなたでも楽しくプログラミングに触れることができます。&lt;/p&gt;
+&lt;p&gt;CoderDojo 長野は、&lt;a href="https://coderdojo.jp/charter" rel="nofollow"&gt;CoderDojo 憲章&lt;/a&gt;に則り開催します。
+どなたでも無料で参加できますので、お気軽にご参加ご申込みください。
+飛び込みでのご参加も歓迎しますが、見学のご希望の方もできるだけ事前にご登録をお願いします。
+メンターは事前の登録が必須です。&lt;/p&gt;
+&lt;p&gt;活動の様子を今後掲載するために、写真を撮影することがあります。掲載する場合顔を隠すなどの加工をしますし、付き添いの方へ事前に了承を取ります。&lt;/p&gt;
+&lt;p&gt;質問や気になる点がございましたら、Connpassの[イベントへのお問い合わせ]か、 coderdojonagano@gmail.com へご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nagano.connpass.com/event/401133/</guid><enclosure url="https://media.connpass.com/thumbs/6b/b0/6bb05f7b87d65979077585446d114c5e.png" length="0" type="image/png"/><pubDate>Sun, 19 Jul 2026 14:19:47 +0900</pubDate></item><item><title>Laboratory Automation月例勉強会 / 2026.08</title><link>https://laboratoryautomation.connpass.com/event/397196/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月21日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月21日(金) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: セイコーエプソン株式会社 豊科事業所&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県安曇野市豊科田沢6925&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LA_Study&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2026年8月開催分です。長野とオンラインのハイブリッド開催です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;おしらせ&lt;/h2&gt;
 &lt;p&gt;現地参加の方へ：&lt;font color="#CC3300"&gt;顔写真付きの身分証明書を持参してください。&lt;/font&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;[2026-06-16 10:00] connpassを公開しました。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;Laboratory Automation月例勉強会について&lt;/h2&gt;
@@ -184,7 +184,11 @@
 &lt;/ul&gt;
 &lt;h2&gt;プログラム&lt;/h2&gt;
 &lt;h4&gt;13:00-15:00 第1部　トークセッション（招待・LT）&lt;/h4&gt;
-&lt;p&gt;後日公開します。&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;溶液結晶合成のためのAI/ロボティクス統合実験システム構築への挑戦（山田哲也・手嶋勝弥／信州大学）&lt;/li&gt;
+&lt;li&gt;LT最大2件&lt;br&gt;
+ほか&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4&gt;15:00-17:00 第2部　施設見学・フリーディスカッション・交流&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;font color="#CC3300"&gt;現地会場のみの開催です&lt;/font&gt;&lt;/li&gt;
@@ -198,7 +202,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;お問い合せ&lt;/h2&gt;
 &lt;p&gt;ご質問等ありましたら下記までお気軽にご連絡ください&lt;br&gt;
-core [at] lasa [dot] or [dot] jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://laboratoryautomation.connpass.com/event/397196/</guid><enclosure url="https://media.connpass.com/thumbs/2b/2c/2b2c26e6944d491fc0772ba88d361e81.png" length="0" type="image/png"/><pubDate>Tue, 16 Jun 2026 10:01:09 +0900</pubDate></item><item><title>NSEG 勉強会 #113 「IT 技術者とカネ そして伝説へ」</title><link>https://nseg.connpass.com/event/399609/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ケイケンシステム 3F 研修室&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県長野市南千歳 1-17-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nseg&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;NSEG (Nagano Software Engineer Group)は、長野近隣のソフトウェアエンジニアが集まるグループです。初めての方も、顔馴染みの方も、ぜひお気軽に参加してくださいね。&lt;/p&gt;
+core [at] lasa [dot] or [dot] jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://laboratoryautomation.connpass.com/event/397196/</guid><enclosure url="https://media.connpass.com/thumbs/2b/2c/2b2c26e6944d491fc0772ba88d361e81.png" length="0" type="image/png"/><pubDate>Sun, 19 Jul 2026 15:06:53 +0900</pubDate></item><item><title>NSEG 勉強会 #113 「IT 技術者とカネ そして伝説へ」</title><link>https://nseg.connpass.com/event/399609/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ケイケンシステム 3F 研修室&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県長野市南千歳 1-17-4&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nseg&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;NSEG (Nagano Software Engineer Group)は、長野近隣のソフトウェアエンジニアが集まるグループです。初めての方も、顔馴染みの方も、ぜひお気軽に参加してくださいね。&lt;/p&gt;
 &lt;p&gt;2024 年 8 月に「&lt;a href="https://nseg.connpass.com/event/325204/" rel="nofollow"&gt;IT 技術者とカネ&lt;/a&gt;」、2025 年 8 月には「&lt;a href="https://nseg.connpass.com/event/365559/" rel="nofollow"&gt;IT 技術者とカネ リターンズ&lt;/a&gt;」というテーマで、よそではなかなか聞けない話をお送りしました。
 今年もやります、3 回目! 伝説級の門外不出の話が今回も聞けるのか? 配信はありません。ぜひみなさん、オフラインでのご参加を!&lt;/p&gt;
 &lt;p&gt;勉強会のあとの懇親会は、MIDORI 屋上の星空ビアガーデンでパーッとやりましょう!!&lt;/p&gt;
@@ -254,15 +258,7 @@ core [at] lasa [dot] or [dot] jp&lt;/p&gt;&lt;/div&gt;</description><guid isPerm
 &lt;h2&gt;参加費など&lt;/h2&gt;
 &lt;p&gt;お茶菓子代としてお一人 100 円ずつのご負担をお願いしています。ご協力、よろしくお願いします。&lt;/p&gt;
 &lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;長野駅ビル MIDORI 屋上の「&lt;a href="https://hoshizorabeergarden.owst.jp" rel="nofollow"&gt;星空ビアガーデン&lt;/a&gt;」に行きましょう!&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nseg.connpass.com/event/399609/</guid><enclosure url="https://media.connpass.com/thumbs/a4/e1/a4e1131f6aff367acb4481dda825ad6d.png" length="0" type="image/png"/><pubDate>Sat, 04 Jul 2026 22:29:01 +0900</pubDate></item><item><title>【LT登壇】第15回サイバーセキュリティ勉強会2026年夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/384736/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;LI(ライトニングトーク)登壇に関する応募事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;本イベントの16:15-16:45 (30分)に実施される１枠5分程度の短時間のLT(ライトニングトーク)です。&lt;/li&gt;
-&lt;li&gt;サイバーセキュリティに関するテーマについて講演が出来ます。&lt;/li&gt;
-&lt;li&gt;応募者多数の場合は抽選になります。&lt;/li&gt;
-&lt;li&gt;また希望される方には懇親会への参加特別枠&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;本イベントの抽選に外れても懇親会にてLTを行うことも可能です。&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;登壇参加者へconnpassメッセージで案内メールをします。connpassアカウントでメール設定を確認して下さい。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shiojiri-cyber.connpass.com/event/384736/</guid><enclosure url="https://media.connpass.com/thumbs/85/01/8501c355113c17b1cc5e74c001fee5da.png" length="0" type="image/png"/><pubDate>Tue, 26 May 2026 09:11:31 +0900</pubDate></item><item><title>【第15回】サイバーセキュリティ勉強会2026夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/383826/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;最新のサイバーセキュリティ事情を学ぼう！&lt;/p&gt;&lt;div&gt;&lt;h4&gt;最新のサイバーセキュリティ事情を学ぼう！&lt;/h4&gt;
+&lt;p&gt;長野駅ビル MIDORI 屋上の「&lt;a href="https://hoshizorabeergarden.owst.jp" rel="nofollow"&gt;星空ビアガーデン&lt;/a&gt;」に行きましょう!&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nseg.connpass.com/event/399609/</guid><enclosure url="https://media.connpass.com/thumbs/a4/e1/a4e1131f6aff367acb4481dda825ad6d.png" length="0" type="image/png"/><pubDate>Sat, 04 Jul 2026 22:29:01 +0900</pubDate></item><item><title>【第15回】サイバーセキュリティ勉強会2026夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/383826/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;最新のサイバーセキュリティ事情を学ぼう！&lt;/p&gt;&lt;div&gt;&lt;h4&gt;最新のサイバーセキュリティ事情を学ぼう！&lt;/h4&gt;
 &lt;h1&gt;今年も２回目の夏のイベントを開催予定！&lt;/h1&gt;
 &lt;p&gt;毎年冬の「サイバーセキュリティ月間」期間中に開催している当イベントですが、それだけでは足りないと参加者やスタッフからも多くの要望を受けて今年の夏も開催します。
 今回もサイバーセキュリティに関する専門の先生方を塩尻に講師としてお招きすることが出来ました。いち地方の塩尻で直に講演が聴けるとても貴重な機会です。
@@ -439,7 +435,15 @@ KICHIは、塩尻インキュベーションプラザから徒歩1分・塩尻�
 &lt;li&gt;塩尻市振興公社&lt;/li&gt;
 &lt;li&gt;トラストネットワークス&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;(あいうえお順)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shiojiri-cyber.connpass.com/event/383826/</guid><enclosure url="https://media.connpass.com/thumbs/f5/4b/f54b92a1d5c5293721c35f7892eb9140.png" length="0" type="image/png"/><pubDate>Fri, 10 Jul 2026 09:54:23 +0900</pubDate></item><item><title>【懇親会】第15回サイバーセキュリティ勉強会2026夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/394756/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;講師の方々も交えて参加者の皆で語り合いましょう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HAiqbBuacAc_BkW.jpg:medium" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;(あいうえお順)&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shiojiri-cyber.connpass.com/event/383826/</guid><enclosure url="https://media.connpass.com/thumbs/f5/4b/f54b92a1d5c5293721c35f7892eb9140.png" length="0" type="image/png"/><pubDate>Fri, 10 Jul 2026 09:54:23 +0900</pubDate></item><item><title>【LT登壇】第15回サイバーセキュリティ勉強会2026年夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/384736/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;LI(ライトニングトーク)登壇に関する応募事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本イベントの16:15-16:45 (30分)に実施される１枠5分程度の短時間のLT(ライトニングトーク)です。&lt;/li&gt;
+&lt;li&gt;サイバーセキュリティに関するテーマについて講演が出来ます。&lt;/li&gt;
+&lt;li&gt;応募者多数の場合は抽選になります。&lt;/li&gt;
+&lt;li&gt;また希望される方には懇親会への参加特別枠&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;本イベントの抽選に外れても懇親会にてLTを行うことも可能です。&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;登壇参加者へconnpassメッセージで案内メールをします。connpassアカウントでメール設定を確認して下さい。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://shiojiri-cyber.connpass.com/event/384736/</guid><enclosure url="https://media.connpass.com/thumbs/85/01/8501c355113c17b1cc5e74c001fee5da.png" length="0" type="image/png"/><pubDate>Tue, 26 May 2026 09:11:31 +0900</pubDate></item><item><title>【懇親会】第15回サイバーセキュリティ勉強会2026夏 in 塩尻</title><link>https://shiojiri-cyber.connpass.com/event/394756/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 塩尻インキュベーションプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 長野県塩尻市大門八番町1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shiojiri_cyber&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;講師の方々も交えて参加者の皆で語り合いましょう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HAiqbBuacAc_BkW.jpg:medium" width="500"&gt;&lt;/p&gt;
 &lt;h1&gt;懇親会の受付専用ページです。&lt;/h1&gt;
 &lt;p&gt;イベント終了後、懇親会を開催します。
 講演者、参加者との交流を深めるため、ぜひご参加ください！
