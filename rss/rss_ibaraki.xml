@@ -1,51 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茨城のイベント</title><link>https://connpass.com/explore/</link><description>茨城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>茨城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 19 Jul 2026 15:47:29 +0000</lastBuildDate><item><title>第100回 CoderDojo Hitachinaka</title><link>https://coderdojo-hitachinaka.connpass.com/event/399206/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月20日(月) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月20日(月) 15:30&lt;/li&gt;&lt;li&gt;📍 会場: ふぁみりこらぼ&lt;/li&gt;&lt;li&gt;🏢 住所: ひたちなか市石川町11-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小中学生向けプログラミング体験会&lt;/p&gt;&lt;div&gt;&lt;p&gt;第100回　コーダー道場ひたちなか　開催のお知らせ♪&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;日程：2026年7月20日（月・祝）
-　　　※2017年4月の第1回開催から今回で100回を迎えます。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;◆今年3月からマシンの寄付があり、機器が充実してきました。&lt;/p&gt;
-&lt;p&gt;○パソコン初めてのニンジャには、マウスを使わないタッチパネルのマシンあります。○Scratchがサクサク動くマシンあります。○プロが使うレベルのUnityマシンあります。Scratchで十分製作したニンジャ、次はUnityで本格ゲームを作ってみませんか？　　※タッチパネルマシンとUnityマシンは1台づつのため、先着順となります。&lt;/p&gt;
-&lt;p&gt;貸出可能マシン&lt;/p&gt;
-&lt;p&gt;・Unity用のPC…1台&lt;/p&gt;
-&lt;p&gt;・mac…4台&lt;/p&gt;
-&lt;p&gt;・Windows11…6台&lt;/p&gt;
-&lt;p&gt;・タッチパネルのWindowsマシン…1台&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;●募集期間　情報公開日～開催日前日&lt;/p&gt;
-&lt;p&gt;・参加者（お子様）氏名&lt;/p&gt;
-&lt;p&gt;・参加者（お子様）学年&lt;/p&gt;
-&lt;p&gt;・参加希望メニュー（「AI」or「Scratch」or「ロボット」or「オリジナル」）&lt;/p&gt;
-&lt;p&gt;・パソコン「持込」 or 「貸出希望」　　　　　&lt;/p&gt;
-&lt;p&gt;・緊急連絡先（保護者携帯番号）&lt;/p&gt;
-&lt;p&gt;●メニュー　　（申込状況に応じて開催しないメニューもあります）&lt;/p&gt;
-&lt;p&gt;・micro:bitを使ってのロボットプログラミング【Scratch経験者のみ】&lt;/p&gt;
-&lt;p&gt;・AIプログラミング【Scratch経験者のみ】&lt;/p&gt;
-&lt;p&gt;・Scratch　ゲームプログラミング（ポケモン他）【初心者ＯＫ】&lt;/p&gt;
-&lt;p&gt;・自作オリジナル作品発表&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1&gt;イベント終了時のアンケートにご協力をお願いします。&lt;/h1&gt;
-&lt;h1&gt;イベントの準備片付けのご協力をお願いします。&lt;/h1&gt;
-&lt;p&gt;なお、諸般の事情により、急遽開催を中止する場合もあります。 その際はこちらでお知らせいたしますので開催前にご確認をお願いいたします。 &lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;■日　程：2026年7月20日（月・祝）開始時間：午後1時30分　終了予定時間：午後3時30分&lt;/p&gt;
-&lt;p&gt;※開場：午後1時15分～　開始時間までにお越しくださいね。&lt;/p&gt;
-&lt;p&gt;■場　所：ふぁみりこらぼ　&lt;strong&gt;101&lt;/strong&gt;研修室　&lt;/p&gt;
-&lt;p&gt;■参加費：不要&lt;/p&gt;
-&lt;p&gt;■持ち物：なし　※パソコン貸出可能です&lt;/p&gt;
-&lt;p&gt;■対　象：ひたちなか市内の7歳～17歳　（保護者お一人の付き添いをお願いします）&lt;/p&gt;
-&lt;p&gt;■定　員：ロボットプログラミング、スクラッチ（ポケモン他）,AIプログラミング　あわせて　計5名程度&lt;/p&gt;
-&lt;p&gt;■お申込み メール または　Line&lt;/p&gt;
-&lt;p&gt;■お問い合わせ&lt;/p&gt;
-&lt;p&gt;電話：080-9568-7068 (ほとんど出ることができません。公式LINEをご利用ください)&lt;/p&gt;
-&lt;p&gt;メール：coderdojo.hitachinaka@gmail.com&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;CoderDojo Hitachinaka（コーダー道場 ひたちなか）は、誰でも気軽に参加できる「無料のプログラミングクラブ」です。 ひたちなかDojoでは、Scratch というプログラミング言語を利用してゲームなど楽しいプログラムを作っていきます。&lt;/p&gt;
-&lt;p&gt;主な活動内容としては、初心者の方には「体験コーナー」で講師の説明を聞きながら簡単なゲームを作ってもらいます。 慣れてきたら、それぞれ自分たちの作りたいプログラムを作るなど、いろいろな体験ができるようになっています。 プログラミングで分からない事があったら、周りの友達や、メンター（助言者）と呼ばれるプログラミングが得意な参加者に相談する事が出来ますので、どなたでも楽しくプログラミングに触れていただけます。&lt;/p&gt;
-&lt;p&gt;なお、「micro:bitを使ってのロボットプログラミング」と「AIプログラミング」はScratchの経験をされていないと難しいと思います。まずはScratchでプログラミングを体験してみてくださいね。&lt;/p&gt;
-&lt;p&gt;その日の活動の最後には、成果発表の時間が設けられており、他の参加者の成果を見る事で発想の広がりや更なる学びへと繋げます。 ひたちなかDojoでは、「体験し、学び、互いに教え合う」プログラミングを好きになれる場所を目指しています。&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;CoderDojo Hitachinakaは、ボランティアと寄付、スポンサーからの支援で運営されています&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-hitachinaka.connpass.com/event/399206/</guid><enclosure url="https://media.connpass.com/thumbs/0a/1c/0a1c29dea5397ff2cac7dfa080a0d718.png" length="0" type="image/png"/><pubDate>Wed, 01 Jul 2026 14:36:10 +0900</pubDate></item><item><title>7/25 茨城県年次大会</title><link>https://ibarakiwakate.connpass.com/event/400150/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: ワークプラザ勝田&lt;/li&gt;&lt;li&gt;🏢 住所: 茨城県ひたちなか市東石川1279番地&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;2026年度_年次大会・講演・交流会のご案内
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>茨城のイベント</title><link>https://connpass.com/explore/</link><description>茨城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>茨城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 20 Jul 2026 16:19:19 +0000</lastBuildDate><item><title>7/25 茨城県年次大会</title><link>https://ibarakiwakate.connpass.com/event/400150/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: ワークプラザ勝田&lt;/li&gt;&lt;li&gt;🏢 住所: 茨城県ひたちなか市東石川1279番地&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;2026年度_年次大会・講演・交流会のご案内
 　　　　　　　2026年度_年次大会・講演・交流会のご案内
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 公益社団法人日本技術士会
 　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　 茨城県支部支部長　高橋 正衛&lt;/p&gt;

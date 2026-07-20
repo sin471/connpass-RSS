@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 19 Jul 2026 15:48:29 +0000</lastBuildDate><item><title>第3回ハンズオン勉強会 Codex CLI 深掘り①（ChatGPT 有料プラン契約必須）</title><link>https://cdle-kumamoto.connpass.com/event/397343/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本 XOSS POINT&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サンドボックス／承認ポリシー／AGENTS.md／モデル切替 などによる安全な業務組み込み実践&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第3回ハンズオン勉強会 Codex CLI 深掘り①（ChatGPT 有料プラン契約必須）&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 20 Jul 2026 16:20:18 +0000</lastBuildDate><item><title>第3回ハンズオン勉強会 Codex CLI 深掘り①（ChatGPT 有料プラン契約必須）</title><link>https://cdle-kumamoto.connpass.com/event/397343/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本 XOSS POINT&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サンドボックス／承認ポリシー／AGENTS.md／モデル切替 などによる安全な業務組み込み実践&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第3回ハンズオン勉強会 Codex CLI 深掘り①（ChatGPT 有料プラン契約必須）&lt;/h1&gt;
 &lt;p&gt;第1回で &lt;strong&gt;AIエージェントの全体地図&lt;/strong&gt;（Claude Code / Codex CLI / Gemini CLI / NotebookLM）をご覧いただき、第2回で &lt;strong&gt;Claude Code&lt;/strong&gt; を業務利用できる状態まで深掘りしました。&lt;br&gt;
 第3回は &lt;strong&gt;Codex CLI を深く触る回&lt;/strong&gt; です。「ChatGPT のサブスクで使えると聞いたが、ターミナルでAIにPCを触らせるのは怖い」——この不安を、Codex の &lt;strong&gt;2 つの安全装置&lt;/strong&gt;（サンドボックスと承認ポリシー）を実際に動かして解消します。&lt;br&gt;
 当日は &lt;strong&gt;インストール／サンドボックス（3段階）／承認ポリシー（3段階）／&lt;a href="http://AGENTS.md" rel="nofollow"&gt;AGENTS.md&lt;/a&gt; とモデル切替&lt;/strong&gt; の4本柱をハンズオンで順に体験。「ChatGPT の課金枠で使えるのは知っていたが、安全な動かし方が分からない」段階を越え、&lt;strong&gt;自分の PC で安心して動かせる型&lt;/strong&gt; を持ち帰っていただきます。&lt;br&gt;
@@ -16,13 +16,6 @@
 &lt;p&gt;CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会 (JDLA) が実施するG検定やE資格の合格者が参加する日本最大のAIコミュニティです。&lt;/p&gt;
 &lt;h4&gt;CDLE熊本とは&lt;/h4&gt;
 &lt;p&gt;CDLE熊本は、歴史と自然に恵まれ、近年は世界的な半導体産業の集積地としても注目を集める熊本地域において、CDLEメンバーおよびAI（人工知能）技術に興味をお持ちのすべての方々との情報交換、meetup、リスキリング、地場企業との連携・協業などを楽しく行いながら、地域の発展に貢献することを目的としたコミュニティです。&lt;/p&gt;
-&lt;h2&gt;本日のゴール（4つ）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href="http://CLAUDE.md" rel="nofollow"&gt;CLAUDE.md&lt;/a&gt; を1つ書ける状態&lt;/strong&gt;：自分のリポジトリ用に最低限の指示書を設計できる&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Permission modes を3つ以上使い分けられる&lt;/strong&gt;：default / acceptEdits / plan を体感で覚える&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hooks を1つ動かせる&lt;/strong&gt;：PreToolUse でガードレールを1つ仕込む&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Subagents の概念と用途を理解&lt;/strong&gt;：いつ並列化すべきかの判断軸を持つ&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2&gt;本日のゴール（3つ）&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;動く Codex&lt;/strong&gt;：自分の PC で &lt;code&gt;codex&lt;/code&gt; が起動・認証でき、簡単な1タスクを完走できる&lt;/li&gt;
@@ -117,20 +110,20 @@
 &lt;h2&gt;協力&lt;/h2&gt;
 &lt;p&gt;CDLE大阪、九州テレコム振興センター (KIAI）&lt;/p&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;p&gt;※ イベント内容・タイムテーブルは予告なく変更になる場合があります。
-※ 会の進行によっては時間が前後する場合があります。
-※ このイベントはどなたでも参加出来ます。
-※ 皆さまが気持ちよく学べる場づくりのため、勉強会の進行や他の参加者の学びへのご配慮をお願いいたします。
-※ &lt;strong&gt;本回は ChatGPT 有料プラン（Plus / Pro / Business / Edu / Enterprise いずれか）または OpenAI API キー必須&lt;/strong&gt;。Free / Go プランでは Codex 利用権がないため、未契約の方は「観覧モード（隣の人の画面を見る）」での参加可、または事前準備ガイドの「API キー利用での代替手順」を別途共有します。
-※ API キー利用の場合、&lt;strong&gt;タスクのトークン量に応じた API 課金が発生&lt;/strong&gt; します。事前に OpenAI 公式 &lt;a href="https://platform.openai.com/" rel="nofollow"&gt;platform.openai.com&lt;/a&gt; の Settings → Limits で &lt;strong&gt;利用上限（usage limit）を設定&lt;/strong&gt; することを強く推奨します（想定外の課金を防ぐため）。
-※ 本勉強会で扱う料金・モデル・プラン情報は &lt;strong&gt;2026年7月時点&lt;/strong&gt; のものです。AIツールの仕様は変動が早いため、実際の利用前には OpenAI 公式情報をご確認ください。
-※ Codex CLI の &lt;code&gt;danger-full-access&lt;/code&gt;（サンドボックス）× &lt;code&gt;never&lt;/code&gt;（承認ポリシー）の組み合わせは安全上、本日は使用しません（講師デモのみ・業務非推奨と明言）。
-※ 起動ディレクトリの選択ミスは事故につながります。当日は &lt;strong&gt;専用フォルダで起動&lt;/strong&gt; する原則を冒頭で徹底します（第1/2回と同じ）。
-※ サンドボックスの実装は OS によって異なります（macOS は seatbelt、Linux は bubblewrap、Windows は OS 機能経由）。挙動の細部に違いが出ることがあるため、当日は &lt;strong&gt;講師 PC（Windows）の挙動を基準&lt;/strong&gt; に進行し、他 OS の方には適宜補足します。&lt;/p&gt;
+&lt;p&gt;※ イベント内容・タイムテーブルは予告なく変更になる場合があります。  &lt;br&gt;
+※ 会の進行によっては時間が前後する場合があります。   &lt;br&gt;
+※ このイベントはどなたでも参加出来ます。  &lt;br&gt;
+※ 皆さまが気持ちよく学べる場づくりのため、勉強会の進行や他の参加者の学びへのご配慮をお願いいたします。  &lt;br&gt;
+※ &lt;strong&gt;本回は ChatGPT 有料プラン（Plus / Pro / Business / Edu / Enterprise いずれか）または OpenAI API キー必須&lt;/strong&gt;。Free / Go プランでは Codex 利用権がないため、未契約の方は「観覧モード（隣の人の画面を見る）」での参加可、または事前準備ガイドの「API キー利用での代替手順」を別途共有します。   &lt;br&gt;
+※ API キー利用の場合、&lt;strong&gt;タスクのトークン量に応じた API 課金が発生&lt;/strong&gt; します。事前に OpenAI 公式 &lt;a href="https://platform.openai.com/" rel="nofollow"&gt;platform.openai.com&lt;/a&gt; の Settings → Limits で &lt;strong&gt;利用上限（usage limit）を設定&lt;/strong&gt; することを強く推奨します（想定外の課金を防ぐため）。   &lt;br&gt;
+※ 本勉強会で扱う料金・モデル・プラン情報は &lt;strong&gt;2026年7月時点&lt;/strong&gt; のものです。AIツールの仕様は変動が早いため、実際の利用前には OpenAI 公式情報をご確認ください。  &lt;br&gt;
+※ Codex CLI の &lt;code&gt;danger-full-access&lt;/code&gt;（サンドボックス）× &lt;code&gt;never&lt;/code&gt;（承認ポリシー）の組み合わせは安全上、本日は使用しません（講師デモのみ・業務非推奨と明言）。   &lt;br&gt;
+※ 起動ディレクトリの選択ミスは事故につながります。当日は &lt;strong&gt;専用フォルダで起動&lt;/strong&gt; する原則を冒頭で徹底します（第1/2回と同じ）。   &lt;br&gt;
+※ サンドボックスの実装は OS によって異なります（macOS は seatbelt、Linux は bubblewrap、Windows は OS 機能経由）。挙動の細部に違いが出ることがあるため、当日は &lt;strong&gt;講師 PC（Windows）の挙動を基準&lt;/strong&gt; に進行し、他 OS の方には適宜補足します。    &lt;/p&gt;
 &lt;h2&gt;懇親会について&lt;/h2&gt;
 &lt;p&gt;勉強会終了後、参加者の中で懇親会を希望される方がおられる場合は、熊本駅周辺で懇親会を開催する予定です。
 参加は任意であり、当日の参加希望状況を確認したうえで実施を判断いたします。&lt;br&gt;
-会場や会費等の詳細は、希望者に当日ご案内いたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/397343/</guid><enclosure url="https://media.connpass.com/thumbs/b8/d5/b8d59a026fa0eaaaae368942ac92f754.png" length="0" type="image/png"/><pubDate>Sat, 20 Jun 2026 09:02:03 +0900</pubDate></item><item><title>品質ってなんだ？ワークショップ (Testing Journey #4)</title><link>https://testing-journey.connpass.com/event/395266/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 熊本&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区城東町&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #QA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ソフトウェア品質についてワークショップ&lt;/p&gt;&lt;div&gt;&lt;p&gt;「品質」という言葉は、仕事や生活の中で当たり前のように使われています。&lt;br&gt;
+会場や会費等の詳細は、希望者に当日ご案内いたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/397343/</guid><enclosure url="https://media.connpass.com/thumbs/b8/d5/b8d59a026fa0eaaaae368942ac92f754.png" length="0" type="image/png"/><pubDate>Mon, 20 Jul 2026 23:24:55 +0900</pubDate></item><item><title>品質ってなんだ？ワークショップ (Testing Journey #4)</title><link>https://testing-journey.connpass.com/event/395266/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月25日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月25日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 熊本&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区城東町&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #QA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ソフトウェア品質についてワークショップ&lt;/p&gt;&lt;div&gt;&lt;p&gt;「品質」という言葉は、仕事や生活の中で当たり前のように使われています。&lt;br&gt;
 しかし、エンジニア、QA、デザイナー、PdM、そしてユーザー――立場が変わると、見えている“品質”も少しずつ変わります。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;バグがないこと？&lt;/li&gt;
