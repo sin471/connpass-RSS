@@ -1,157 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 22 Jul 2026 16:14:19 +0000</lastBuildDate><item><title>AIワークショップ仙台 Vol.1</title><link>https://connpass.com/event/399328/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月22日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月22日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: WeWork JR 仙台イーストゲートビル&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市宮城野区榴岡1-1-1 JR仙台イーストゲートビル 2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AIワークショップ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;AIワークショップ仙台 Vol.1&lt;/h2&gt;
-&lt;p&gt;「AIを使いたいけど、何から始めればいいかわからない」&lt;/p&gt;
-&lt;p&gt;そんな方のための、管理業務・マネジメント業務・バックオフィス業務に特化したハンズオン型ワークショップです。&lt;/p&gt;
-&lt;p&gt;インプット → ワーク → ディスカッションのサイクルで、
-&lt;strong&gt;自分の管理業務・バックオフィス業務をAIでワークフロー化する第一歩&lt;/strong&gt;を、この場で実際に体験しましょう。&lt;/p&gt;
-&lt;p&gt;※本イベントはデザイン・スライド作成などクリエイティブ業務のAI活用は対象外です。管理業務・マネジメント業務・バックオフィス業務（人事、労務、経理、進捗管理、報告業務など）のワークフロー化に焦点を当てた内容です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;管理業務・マネジメント業務・バックオフィス業務にAIを活かしたいが、何から始めればいいか迷っている方&lt;/li&gt;
-&lt;li&gt;人事・労務・経理・進捗管理・報告業務などの定型業務をAIに任せてみたい方&lt;/li&gt;
-&lt;li&gt;業務のワークフロー化・自動化に興味がある方&lt;/li&gt;
-&lt;li&gt;同じ課題を持つマネージャー・経営者・バックオフィス担当者とつながりたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;参加することで得られること&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;管理業務・バックオフィス業務にAIを活用する実践的な知見&lt;/li&gt;
-&lt;li&gt;自分の業務を棚卸しし、ワークフロー化する具体的な手法&lt;/li&gt;
-&lt;li&gt;ワークショップ内で実際に自分の管理業務をAIで組んだワークフローとして構築する体験&lt;/li&gt;
-&lt;li&gt;同じ課題意識を持つマネージャー・バックオフィス担当者とのネットワーク&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:00&lt;/td&gt;
-&lt;td&gt;開場・受付スタート&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:15&lt;/td&gt;
-&lt;td&gt;イベント開始・運営側挨拶&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:20&lt;/td&gt;
-&lt;td&gt;インプット①　AIワークフローの基礎（10分）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30&lt;/td&gt;
-&lt;td&gt;ワーク①　自分の業務を特定する（10分）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:40&lt;/td&gt;
-&lt;td&gt;インプット②　ワークフロー設計の考え方（10分）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:50&lt;/td&gt;
-&lt;td&gt;ワーク②　業務をフェーズ分けし、AIを組み込んだワークフローを設計（20分）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:10&lt;/td&gt;
-&lt;td&gt;ディスカッション　参加者同士で情報共有（20分）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:30&lt;/td&gt;
-&lt;td&gt;まとめ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:45&lt;/td&gt;
-&lt;td&gt;懇親会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15&lt;/td&gt;
-&lt;td&gt;終了&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2&gt;当日の運営&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;藤本 翔太&lt;/strong&gt;（株式会社ナチュラル）&lt;br&gt;
-&lt;img src="https://natural.static.jp/fujimoto.jpg" width="200"&gt;&lt;br&gt;
-トーホク地方のAIオーケストレーター&lt;br&gt;
-&lt;a href="https://www.facebook.com/fujimotoshota0129/" rel="nofollow"&gt;Profile: https://www.facebook.com/fujimotoshota0129/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;兒島 祐輔&lt;/strong&gt;（サイバーコム株式会社）&lt;br&gt;
-&lt;img src="https://natural.static.jp/kojima.jpg" width="200"&gt;&lt;br&gt;
-トーホク地方のクラウドエンジニア&lt;br&gt;
-&lt;a href="https://my.prairie.cards/u/_kojikojisan" rel="nofollow"&gt;Profile: https://my.prairie.cards/u/_kojikojisan&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;WeWork JR 仙台イーストゲートビル
-宮城県仙台市宮城野区榴岡1-1-1 JR仙台イーストゲートビル 2F&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/399328/</guid><enclosure url="https://media.connpass.com/thumbs/43/81/4381d797f0f1ab46fa9f20771915570f.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 08:15:21 +0900</pubDate></item><item><title>＃04 はじめてのIT勉強会 in 仙台(2026) 【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/398489/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月22日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月22日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町１丁目４−９&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIと戯れよう！！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;コロナ対策について&lt;/h1&gt;
-&lt;p&gt;現地開催（オフライン開催）にあたり、開催会場である enspace さまの指示にしたがい、コロナ禍におけるイベント運営に係るガイドラインに則り開催をいたします 当日現地参加されるみなさまにおきましては、アルコール消毒、検温ならびにマスク着用などのご協力をお願いいたします&lt;/p&gt;
-&lt;h1&gt;はじめに&lt;/h1&gt;
-&lt;p&gt;はじめてのIT勉強会は、 いろいろな不安があって勉強会への参加を躊躇っている方が 気軽に参加し、「一歩目」を体験しつつ、明日から役立つ知見を獲得するための勉強会です。 参加回数に関わらずご活用いただける内容を提供します&lt;/p&gt;
-&lt;p&gt;勉強会ってなにするの？どんな雰囲気なの？&lt;/p&gt;
-&lt;p&gt;勉強会に行ってみたいけど怖い...&lt;/p&gt;
-&lt;p&gt;本当になにもわからない、知り合いもいない、行っていいかわからない&lt;/p&gt;
-&lt;p&gt;「みんな自分より詳しいんでしょ？」と感じる&lt;/p&gt;
-&lt;p&gt;「みんな仲良しなんでしょ？」と感じる&lt;/p&gt;
-&lt;p&gt;↑のような不安を感じたことのある人にも、ぜひ一歩目としてご参加ください！&lt;/p&gt;
-&lt;h1&gt;今回のタイトル「AIと戯れよう！！」&lt;/h1&gt;
-&lt;p&gt;今回のテーマは
-「AIと人間、それぞれの発想力を持ち寄って“遊びながら学ぶ”」&lt;br&gt;
-そんな会です。&lt;/p&gt;
-&lt;p&gt;・AIに変な質問をしてみる&lt;/p&gt;
-&lt;p&gt;・同じお題をAIに投げて“回答の違い”を楽しむ&lt;/p&gt;
-&lt;p&gt;・画像生成やストーリー生成で遊ぶ&lt;/p&gt;
-&lt;p&gt;・プロンプトの工夫を共有する&lt;/p&gt;
-&lt;p&gt;・AIを仕事でどう使っているか、ちょっとだけ話す&lt;/p&gt;
-&lt;p&gt;IT初心者ならではの驚きと、
-AIを実務で使っている人の工夫が混ざることで、
-世代も経験も超えた“発想の交換”が生まれます。&lt;/p&gt;
-&lt;p&gt;「AI触ったことない…」という方も歓迎！
-スマホひとつあればOK。
-他の人の使い方を見るだけで、明日からのAIとの付き合い方が変わります。&lt;/p&gt;
-&lt;p&gt;スケジュール&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;開始&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;終了&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;19:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;準備＆開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;オープニングトーク&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT（5分×5）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;20:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;AIを使ってみよう！！&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;20:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;21:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;交流＆解散&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;主催スタッフプロフィール&lt;/h1&gt;
-&lt;p&gt;岩屋 璃香（いわや りか）
-2026年4月、はじめてのIT勉強会 6代目代表に就任。
-教育学部に通う大学2年生で、ITとコミュニティ運営を学ぶために本コミュニティに参加。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://lets-go-study-meeting.connpass.com/event/398489/</guid><enclosure url="https://media.connpass.com/thumbs/85/54/855494b0ff3d0745d95ccda7a43a52d7.png" length="0" type="image/png"/><pubDate>Wed, 24 Jun 2026 20:28:41 +0900</pubDate></item><item><title>SendAI Meetup #7</title><link>https://sendai-ai-lab.connpass.com/event/398305/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月23日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月23日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社 Biz Freak 仙台本社&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町3丁目3-20 京阪仙台一番町ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SendAI Meetup（センドエーアイ ミートアップ）&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 23 Jul 2026 16:19:36 +0000</lastBuildDate><item><title>SendAI Meetup #7</title><link>https://sendai-ai-lab.connpass.com/event/398305/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月23日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月23日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社 Biz Freak 仙台本社&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町3丁目3-20 京阪仙台一番町ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SendAI Meetup（センドエーアイ ミートアップ）&lt;/h1&gt;
 &lt;h2&gt;当イベントについて&lt;/h2&gt;
 &lt;p&gt;SendAI Meetup（センドエーアイ ミートアップ）は、仙台でAI・生成AIについて学び、知見を共有するコミュニティです。&lt;/p&gt;
 &lt;p&gt;エンジニア、ビジネスパーソン、学生など、立場を問わずご参加いただけます。LT（ライトニングトーク）や交流を通して、「AIをどう使うか」「どう活かすか」を参加者同士で共有します。&lt;/p&gt;
@@ -316,7 +164,7 @@ AIの知識や経験は問いません。
 &lt;td&gt;クロージング&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-ai-lab.connpass.com/event/398305/</guid><enclosure url="https://media.connpass.com/thumbs/3f/06/3f060922ea3fc39512dc97626c6cb96d.png" length="0" type="image/png"/><pubDate>Thu, 16 Jul 2026 16:24:24 +0900</pubDate></item><item><title>TinyGo Radio Vol.1</title><link>https://tinygo-keeb.connpass.com/event/398263/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月26日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月26日(日) 12:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tinygo_radio&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;with GopherCon Singapore / 初の海外ツアー 報告&lt;/p&gt;&lt;div&gt;&lt;h1&gt;TinyGo Radio Vol.1&lt;/h1&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-ai-lab.connpass.com/event/398305/</guid><enclosure url="https://media.connpass.com/thumbs/3f/06/3f060922ea3fc39512dc97626c6cb96d.png" length="0" type="image/png"/><pubDate>Thu, 23 Jul 2026 17:22:56 +0900</pubDate></item><item><title>TinyGo Radio Vol.1</title><link>https://tinygo-keeb.connpass.com/event/398263/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月26日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月26日(日) 12:30&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tinygo_radio&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;with GopherCon Singapore / 初の海外ツアー 報告&lt;/p&gt;&lt;div&gt;&lt;h1&gt;TinyGo Radio Vol.1&lt;/h1&gt;
 &lt;p&gt;TinyGo Radio とは、TinyGo Keeb の活動を楽しく、ゆるやかにラジオ形式でお伝えするコンテンツです。&lt;br&gt;
 YouTube での配信をメインに、音声ラジオのようなゆるやかなスタイルでお届けします。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;Contents&lt;/h2&gt;
@@ -406,7 +254,157 @@ YouTube での配信をメインに、音声ラジオのようなゆるやかな
 &lt;li&gt;飲食可能です。疲れたら、おやつを食べたり少し休んでスッキリしましょう。&lt;/li&gt;
 &lt;li&gt;電源、無線LANが利用できます。&lt;/li&gt;
 &lt;li&gt;※施設使用料・電灯電気使用料に充てるための募金を募ることがあります。ご協力は任意です。領収証の発行はありません。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-dev-garage.connpass.com/event/400855/</guid><pubDate>Fri, 17 Jul 2026 22:54:00 +0900</pubDate></item><item><title>【YANS2026】8/18(火)12:00~フューチャー株式会社 ランチ懇親会（学生・社会人歓迎）</title><link>https://connpass.com/event/401022/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月18日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月18日(火) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: TKP仙台青葉通カンファレンスセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県 仙台市青葉区 一番町2-4-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;■ 本イベントについて&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-dev-garage.connpass.com/event/400855/</guid><pubDate>Fri, 17 Jul 2026 22:54:00 +0900</pubDate></item><item><title>東北Tech道場 第23期 8月 石巻道場</title><link>https://gdgishinomaki.connpass.com/event/401517/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月1日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月1日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 一般社団法人イトナブ石巻&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県石巻市門脇字元浦屋敷30-25&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今回の道場はオフラインとオンラインで開催しています。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;&lt;a href="http://www.tohokutechdojo.org/" rel="nofollow"&gt;東北Tech道場&lt;/a&gt;とは？&lt;/h1&gt;
+&lt;p&gt;Googleなどの協力のもと、2012年10月に 仙台、石巻、滝沢の3会場でスタートしました。 &lt;/p&gt;
+&lt;p&gt;東北の発展のために精力的に活動を行っている方たちを、テクノロジーを使ってそれらの活動を支援したり、&lt;/p&gt;
+&lt;p&gt;またテクノロジーを使って頑張っている開発者の皆さんを支援するためにスタートしたアプリ開発の講座です。 &lt;/p&gt;
+&lt;p&gt;各地のエンジニアが集まって東北各地に道場を開設。&lt;/p&gt;
+&lt;p&gt;これまでに、石巻、釜石、北上、盛岡、仙台、会津、いわき、郡山、青森、八戸、秋田、南相馬、山形の13箇所で開催。&lt;/p&gt;
+&lt;p&gt;最終回は全道場を中継でつなぎ、お互いの成果を発表します。&lt;/p&gt;
+&lt;h2&gt;東北TECH道場は初心者の参加大歓迎！&lt;/h2&gt;
+&lt;p&gt;先輩、道場主、講師がモバイルアプリケーションやWebアプリケーションなどの開発、そして公開までサポートします。
+発表会で自分が作ったアプリを発表できるよう一緒に頑張りましょう！&lt;/p&gt;
+&lt;h1&gt;&lt;a href="https://sites.google.com/view/ishinomakidojo/%E3%83%9B%E3%83%BC%E3%83%A0" rel="nofollow"&gt;石巻道場&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;石巻道場は第0期からスタートをし、現在まで開催を続けており、石巻道場からも多数のアプリがリリースされました。
+最近の石巻道場は、Unityを使ったゲーム開発、Webプログラミング、モバイルアプリ開発などをする道場生が増えています。
+現役エンジニアから丁寧にアプリ開発やリリースまでの指導を受けられるので、初心者の方も安心して参加することができます。
+また、今年からjasmineTeaなどWeb上でできるプログラミング学習も予定しておりますので、　こどもからおとなまで幅広く楽しんでいただける環境をご用意しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;期の最後にある発表会に向け、講師陣のサポートのもと道場生が各自のアプリを制作していきます&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:00 ~ 13:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;受付&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:30 ~ 13:45&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;13:45 ~ 16:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;開発開始！&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:30 ~ 16:45&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;成果報告&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;16:45 ~ 17:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;17:00 ~ 17:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;自由時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;参加要項&lt;/h2&gt;
+&lt;h3&gt;参加費&lt;/h3&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h3&gt;募集人数&lt;/h3&gt;
+&lt;p&gt;20名程度（本ページの定員数をご確認ください）&lt;/p&gt;
+&lt;h3&gt;参加方法&lt;/h3&gt;
+&lt;p&gt;本イベントページよりお申し込みをお願い致します&lt;/p&gt;
+&lt;p&gt;オンラインでの参加希望者は参加登録後に表示されるURLから当日参加してください。&lt;/p&gt;
+&lt;p&gt;対面での参加希望者は当日開始時間前までに会場にお越しください。&lt;/p&gt;
+&lt;h3&gt;準備するもの&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC(MacまたはWindows)※&lt;/li&gt;
+&lt;li&gt;タブレット（JasmineTea,Scratchを使用する方）※&lt;/li&gt;
+&lt;li&gt;スマートフォン(モバイルアプリ開発の方)※&lt;/li&gt;
+&lt;li&gt;USBケーブル(モバイルアプリ開発の方)※&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;事前準備&lt;/h3&gt;
+&lt;p&gt;必須ではありませんが、モバイルアプリ等を開発する場合はソフトの事前インストールを済ませておくと当日の開発時間を有効に使うことができます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Androidアプリを開発する予定の方は、&lt;a href="https://developer.android.com/studio/index.html?hl=ja" rel="nofollow"&gt;AndroidStudio&lt;/a&gt;のインストールとセットアップが完了していると、開発がスムーズになります。
+インストール方法は&lt;a href="https://developer.android.com/studio/install?hl=ja" rel="nofollow"&gt;こちら&lt;/a&gt;を参考にしてください。
+インストールやセットアップ方法が分からない場合はサポート致します。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unityを使う予定の方は、&lt;a href="https://unity3d.com/jp/get-unity/download" rel="nofollow"&gt;Unity&lt;/a&gt;のインストールとセットアップが完了していると、開発がスムーズになります。
+インストールやセットアップ方法がわからない場合はサポート致します。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;過去の開催内容&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://ishinomakidojo.blogspot.jp/" rel="nofollow"&gt;石巻道場のブログ&lt;/a&gt;にて、過去の開催をまとめています！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgishinomaki.connpass.com/event/401517/</guid><enclosure url="https://media.connpass.com/thumbs/14/bd/14bd3605b491a37e367800830ca5a13b.png" length="0" type="image/png"/><pubDate>Thu, 23 Jul 2026 15:22:18 +0900</pubDate></item><item><title>【YANS2026】8/18(火)12:00~フューチャー株式会社 ランチ懇親会（学生・社会人歓迎）</title><link>https://future.connpass.com/event/401523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月18日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月18日(火) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: TKP仙台青葉通カンファレンスセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県 仙台市青葉区 一番町2-4-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;■ 本イベントについて&lt;/h1&gt;
+&lt;p&gt;YANS2026にご参加される学生・社会人の皆様に向けて、学会のお昼休みに合わせた&lt;strong&gt;「ランチ懇親会」&lt;/strong&gt;を開催いたします。 
+当日はお弁当をご用意しておりますので、学会の合間の息抜きや、参加者同士の交流の場としてぜひお気軽にご参加ください。&lt;/p&gt;
+&lt;h2&gt;■ 概要&lt;/h2&gt;
+&lt;p&gt;本イベントでは、フューチャー株式会社のAI専門組織「AIXG」のメンバーが登壇し、ライトニングトーク（LT）形式で以下のようなお話を予定しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;最先端のLLMや自然言語処理技術を、どのように実際のプロジェクトや社会実装に組み込んでいるのか&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;研究か社会実装か、二者択一ではないキャリアパスの描き方&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;また、ランチを食べながらの座談会・交流会では、登壇したAIコンサルタント・エンジニアと直接お話しいただけます。&lt;/p&gt;
+&lt;p&gt;学生の方にはキャリア形成のヒントを、社会人の方には実務における技術的なディスカッションやネットワーキングの場として、ぜひお気軽にご活用ください。&lt;/p&gt;
+&lt;h2&gt;■ こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;YANS2026に参加されている学生および社会人の方&lt;/li&gt;
+&lt;li&gt;学術的な研究成果を実社会へ展開するキャリアに興味をお持ちの方&lt;/li&gt;
+&lt;li&gt;NLP、AIエージェント開発に興味関心が高い方&lt;/li&gt;
+&lt;li&gt;フューチャーのAI専門組織「AIXG」の環境や取り組みに関心がある方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;■ 開催概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時: 2026年8月18日（火） 12:00〜13:00（※学会のお昼休みに合わせて調整予定）&lt;/li&gt;
+&lt;li&gt;会場: TKP仙台青葉通カンファレンスセンター（国際センター駅から公共交通機関を活用して7分程度）&lt;/li&gt;
+&lt;li&gt;参加費: 無料（お弁当・お飲み物をご用意しております）&lt;/li&gt;
+&lt;li&gt;対象: 本イベントはYANS2026に参加されている方を対象としております。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;■ タイムテーブル&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;12:00 - 12:05 ：オープニング&lt;/li&gt;
+&lt;li&gt;12:05 - 12:25 ：AIXGによるライトニングトーク（会社紹介・技術事例）&lt;/li&gt;
+&lt;li&gt;12:25 - 12:50 ：ランチ交流会・座談会&lt;/li&gt;
+&lt;li&gt;12:50 - 13:00 ：クロージング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;※LT中も食事をお楽しみください。&lt;/strong&gt;
+&lt;strong&gt;※ タイムテーブルは目安であり、予告なく変更となる場合があります。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;■ 登壇者&lt;/h2&gt;
+&lt;h3&gt;①実用化へ繋がったコンテンツ編集特化LLMの研究開発プロジェクトについて〜企業で研究と社会実装の両輪を回す働き方のリアル〜&lt;/h3&gt;
+&lt;p&gt;フューチャーのAI専門組織「AIXG」では、様々な業界に精通した事業部と協業しながら、AIの研究開発や社会実装を推進しています。
+本発表では、メディア業界におけるコンテンツ編集業務に特化したLLMの研究開発プロジェクトを例に、自然言語処理の技術がどのように組み込まれているのか、初期検討から論文化、実用化に至るまでの軌跡をご紹介します。
+実際のプロジェクトならではの難しさや、そこから学術的価値まで生み出す面白さを交えながら、企業で研究と社会実装の両輪を回す働き方のリアルをお伝えします。&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;岸波　フューチャー株式会社　シニアリサーチエンジニア&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;2023年フューチャー株式会社新卒入社。シニアリサーチエンジニア。
+入社後はメディア業界における自然言語処理の社会実装に向けた研究開発プロジェクトを中心に、モデル開発、学会発表、プロジェクトリードなど幅広く経験。
+2026年度から東北大学情報科学研究科の博士後期課程に入学し、研究と社会実装を両輪で推進。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://assets.st-note.com/img/1784283030-HCORZKlow0jTkaEgAqPBz347.jpg" width="500"&gt;&lt;/p&gt;
+&lt;h3&gt;②研究と社会実装のあいだ：ITコンサルタントが歩むグラデーション・キャリア（仮）&lt;/h3&gt;
+&lt;p&gt;進学か就職か、研究かビジネスか。
+これらは二元論で語られがちですが、どちらかを選んだらもう一方は諦めなければいけない、ということはありません。
+本発表では、「選択肢を残すための選択」を選んだ私が、ビジネスの前線で多種多様な顧客課題に向き合う中で、どのような心境の変化を経て社会人博士という新たな挑戦に至ったのかをお話しします。
+一度NLPから離れたからこそ気づいた自身の気持ちと、迷いながら進む「グラデーション」キャリアのススメをお伝えできればと思います。&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;藤井　フューチャー株式会社　リードリサーチエンジニア&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;2021年フューチャー株式会社新卒入社。リードリサーチエンジニア。
+大手小売企業の需要予測プロジェクト、公的機関のWebアプリケーション開発プロジェクト等を経験後、2023年よりNLPチームに所属。
+現在は複数の顧客案件や、社内外の研究開発業務を技術アドバイザとして推進。
+2025年より東北大学情報科学研究科 博士後期課程に在学。専門領域は機械翻訳、ソフトウェア開発領域におけるモデル評価。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://assets.st-note.com/img/1784283328-nPOcbV8wUgh1GIMpEKFA0SrY.jpg" width="500"&gt;&lt;/p&gt;
+&lt;h2&gt;参加申込時のアンケートご協力のお願い&lt;/h2&gt;
+&lt;p&gt;本イベントはランチの手配および座席数の関係上、【抽選制】としております。当日はお一人おひとりのご関心やご状況に合わせた情報提供を行いたいため、事前アンケートへのご回答をお願いしております。いただいた内容は、当日の座談会をより有益なものにするために活用させていただきます。&lt;/p&gt;
+&lt;h2&gt;免責事項&lt;/h2&gt;
+&lt;p&gt;本イベント内において発生した一切の事故や怪我・病気などの責任を負いかねますことをあらかじめご了承ください。&lt;/p&gt;
+&lt;p&gt;貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;/p&gt;
+&lt;p&gt;本イベントから得られた情報により、何らかの損害を負った場合であっても、発表者並びに主催者は一切の責任を負いません。予めご了承ください。&lt;/p&gt;
+&lt;h2&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;質問・相談等ございましたら以下メールアドレスまでご連絡ください。
+フューチャー株式会社　田中
+gr-careersaiyo@future.co.jp&lt;/p&gt;
+&lt;h2&gt;個人情報のお取り扱いについて&lt;/h2&gt;
+&lt;p&gt;主催：フューチャー株式会社&lt;/p&gt;
+&lt;p&gt;お申し込み時にいただいた個人情報（以下「個人情報」といいます）は、当社が個人情報保護法に基づき適正に管理し、本イベントの実施またはご連絡、お問合わせにお答えすること、その他イベント等のご案内、その他これらの業務上必要な範囲でのみ利用いたします。 なお当日の写真・動画などは、当社のWEBサイト等で使用させていただく場合がございます。&lt;/p&gt;
+&lt;p&gt;当社の個人情報保護方針は、プライバシーポリシー・ 個人情報の取り扱いについて をご参照ください。 なお、個人情報の開示、訂正、追加、削除等を希望される場合には、gr-careersaiyo@future.co.jpまでご連絡ください。&lt;/p&gt;
+&lt;p&gt;フューチャー株式会社　プライバシーポリシー：&lt;a href="https://www.future.co.jp/investor_relations/privacy_policy/" rel="nofollow"&gt;https://www.future.co.jp/investor_relations/privacy_policy/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://future.connpass.com/event/401523/</guid><enclosure url="https://media.connpass.com/thumbs/0f/0f/0f0fec91caeafea705009c60ed7f85a8.png" length="0" type="image/png"/><pubDate>Thu, 23 Jul 2026 17:41:06 +0900</pubDate></item><item><title>【YANS2026】8/18(火)12:00~フューチャー株式会社 ランチ懇親会（学生・社会人歓迎）</title><link>https://connpass.com/event/401022/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月18日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月18日(火) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: TKP仙台青葉通カンファレンスセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県 仙台市青葉区 一番町2-4-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;■ 本イベントについて&lt;/h1&gt;
 &lt;p&gt;YANS2026にご参加される学生・社会人の皆様に向けて、学会のお昼休みに合わせた&lt;strong&gt;「ランチ懇親会」&lt;/strong&gt;を開催いたします。 
 当日はお弁当をご用意しておりますので、学会の合間の息抜きや、参加者同士の交流の場としてぜひお気軽にご参加ください。&lt;/p&gt;
 &lt;h2&gt;■ 概要&lt;/h2&gt;
@@ -474,7 +472,7 @@ t.tanaka.rv@future.co.jp&lt;/p&gt;
 &lt;h2&gt;個人情報のお取り扱いについて&lt;/h2&gt;
 &lt;p&gt;主催：フューチャー株式会社&lt;/p&gt;
 &lt;p&gt;事前・事後アンケート、その他、当イベントを通じて取得した個人情報等の取扱いは、プライバシーポリシーに従って取り扱います。またイベント受付管理や各種ご案内（サービス・イベント・採用等）に利用させていただく場合があります。ご同意の上、ご参加ください。&lt;/p&gt;
-&lt;p&gt;フューチャー株式会社　プライバシーポリシー：&lt;a href="https://www.future.co.jp/investor_relations/privacy_policy/" rel="nofollow"&gt;https://www.future.co.jp/investor_relations/privacy_policy/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401022/</guid><enclosure url="https://media.connpass.com/thumbs/87/b0/87b0f8eb4e26110446ddd388ec6b2d80.png" length="0" type="image/png"/><pubDate>Fri, 17 Jul 2026 19:55:57 +0900</pubDate></item><item><title>第55回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/400116/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月19日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月19日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace 5A1&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
+&lt;p&gt;フューチャー株式会社　プライバシーポリシー：&lt;a href="https://www.future.co.jp/investor_relations/privacy_policy/" rel="nofollow"&gt;https://www.future.co.jp/investor_relations/privacy_policy/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401022/</guid><enclosure url="https://media.connpass.com/thumbs/87/b0/87b0f8eb4e26110446ddd388ec6b2d80.png" length="0" type="image/png"/><pubDate>Thu, 23 Jul 2026 11:59:16 +0900</pubDate></item><item><title>第55回Goの標準ライブラリのコードを見てみよう</title><link>https://sendaigo.connpass.com/event/400116/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月19日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月19日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace 5A1&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiGo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;Sendai.goとは&lt;/h2&gt;
 &lt;p&gt;仙台周辺のGo言語のコミュニティです。&lt;/p&gt;
 &lt;p&gt;プログラミング言語 Go に関するテックトークなどのイベントをやっています。 &lt;/p&gt;
 &lt;p&gt;技術レベル・知識を問わず、Goを学びたい人が気軽に相談できるgopher達の拠り所を目指しています。&lt;/p&gt;
