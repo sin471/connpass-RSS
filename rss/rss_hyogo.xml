@@ -1,47 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 26 Jul 2026 15:55:49 +0000</lastBuildDate><item><title>月末作業会 #1</title><link>https://gdgoc-kobe-univ.connpass.com/event/401561/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月27日(月) 16:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月27日(月) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 〒651-0088 兵庫県神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎月恒例の oC Kobe 作業会&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;「1人だと集中が続かない…」&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;「誰かと話しながら、楽しく作業を進めたい！」&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;「大学や学年を超えて、新しいつながりが欲しい」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そんなあなたのための、オープンでゆるやかな作業＆交流スペースです！&lt;/p&gt;
-&lt;p&gt;GDGoC Kobe Univ. が毎月末に開催する「月末作業会」。&lt;/p&gt;
-&lt;p&gt;名前は「作業会」ですが、過ごし方は&lt;strong&gt;完全に自由&lt;/strong&gt;です。もくもくと自分の課題や開発・資料作成に没頭するも良し、作業の合間に雑談や相談を楽しむも良し。あなたのペースで自由に過ごせる時間を提供します！&lt;/p&gt;
-&lt;p&gt;特に神大生はちょうど&lt;strong&gt;テスト前！&lt;/strong&gt;「家だと誘惑に負けて集中できない…」という方は、ぜひ仲間と一緒にテスト勉強に活用してください！もちろん「テストなんて関係ない！」という方の個人開発や技術学習も大歓迎です。&lt;/p&gt;
-&lt;p&gt;一番の目的は、何かを一緒に作ることそのものよりも、&lt;strong&gt;人とつながる&lt;/strong&gt;ことです。 同じ空間に集まって作業することで、自然に相談や雑談が生まれたり、新しい興味や活動につながったりする場を目指しています！&lt;/p&gt;
-&lt;p&gt;初参加の方、初心者の方、学外の方、社会人の方も大歓迎です！ 月末にゆるく集まって、それぞれのやりたいことを少し前に進めましょう！&lt;/p&gt;
-&lt;h2&gt;📆 日時・場所&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 27 Jul 2026 16:52:57 +0000</lastBuildDate><item><title>#13 AI駆動凡人 - 挽回</title><link>https://ai-driven-bonjin.connpass.com/event/401869/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月29日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月29日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;凡人の、凡人による、凡人のための、AI駆動。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
+&lt;h2&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h2&gt;
+&lt;h2&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;今回のマイテーマ&lt;/h2&gt;
+&lt;h3&gt;「 Fable 亡き後の Opus5. その特徴と使い方。」&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;日時: 2026/07/27 (月) 16:30-19:30&lt;/li&gt;
-&lt;li&gt;場所: &lt;a href="https://www.optim.co.jp/optim-club-kobe/" rel="nofollow"&gt;OPTiM Club KOBE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;途中参加・退出可&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-opus-5" rel="nofollow"&gt;https://www.anthropic.com/news/claude-opus-5&lt;/a&gt; を読んでみる&lt;/li&gt;
+&lt;li&gt;そろそろやるか、ループエンジニアリング loop engineering&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;💰 参加費&lt;/h2&gt;
-&lt;p&gt;無料&lt;/p&gt;
-&lt;h2&gt;👝 持ち物&lt;/h2&gt;
+&lt;h1&gt;指定書とは&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;💻ノートPC&lt;/li&gt;
-&lt;li&gt;🔌充電器&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;主催&lt;/h2&gt;
-&lt;h3&gt;GDGoC Kobe University&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://x.com/gdgoc_kobe_univ" rel="nofollow"&gt;X: @gdgoc_kobe_univ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://gdg.community.dev/gdg-on-campus-kobe-university-kobe-japan/" rel="nofollow"&gt;GDGoC Kobe University - Kobe, Japan&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;GDGoC Kobe University は、神戸大学を中心に活動するエンジニア・クリエイターコミュニティです。
-「技術」をキーワードに、学部や学年を超えて学生と社会人が共に学び、繋がる場所を目指しています。AI、Cloud Computing、Web技術などに興味がある人は誰でも歓迎です！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;&lt;strong&gt;アンチハラスメントポリシー&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;ハラスメントとは、性差、性同一性と表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、脅迫、ストーカ、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動が含まれます。&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;目標設定は自分がで行うことが行えることが基本です。分からない人は読むことをおすすめします。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;GDG では全ての参加者がナレッジ共有に集中できるよう、これらのハラスメント行為を許容しません。&lt;/li&gt;
-&lt;li&gt;ナレッジの共有、参加者同士の交流を目的としない参加はお断りしております。&lt;/li&gt;
-&lt;li&gt;参加目的が不適切だと判断される場合、運営側で参加をキャンセルさせていただきます。&lt;/li&gt;
+&lt;li&gt;「イシューからはじめよ」 &lt;a href="https://amzn.asia/d/02kzvdQU" rel="nofollow"&gt;https://amzn.asia/d/02kzvdQU&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;会場または配信コンテンツ上だけでなく、本イベントの内容や状況についてブログや SNS などで公開、コメントなどいただく際にも、これらハラスメント行為がないようご留意ください。 万が一、ハラスメント行為を見聞きした参加者は、お手数ですが主催グループまでご一報ください。&lt;/p&gt;
-&lt;h2&gt;Code of Conduct&lt;/h2&gt;
-&lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;/p&gt;
-&lt;p&gt;イベントに参加される方はご一読ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit#heading=h.ngpe4rl9dyyb" rel="nofollow"&gt;English&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgoc-kobe-univ.connpass.com/event/401561/</guid><enclosure url="https://media.connpass.com/thumbs/dc/af/dcaff631585924ecb0da934e869393c1.png" length="0" type="image/png"/><pubDate>Thu, 23 Jul 2026 22:57:09 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #13】夏を乗り切る！LT会</title><link>https://jawsug-kobe.connpass.com/event/399445/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1112）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;著者の主張雑感&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G" rel="nofollow"&gt;https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5" rel="nofollow"&gt;https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HEZW_GbY0Ig" rel="nofollow"&gt;https://www.youtube.com/watch?v=HEZW_GbY0Ig&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E" rel="nofollow"&gt;https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;何かしらの自然言語が喋れる（英語、日本語、中国語...）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;* Google アカウントを持っている＆共有できる&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ノートパソコンを持参できる（iapd + keyboard でもいいかも...）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://chatgpt.com/codex?app-landing-page=true" rel="nofollow"&gt;https://chatgpt.com/codex?app-landing-page=true&lt;/a&gt; を事前インストールしていると好ましい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;https://antigravity.google/ を事前インストールしていると好ましい&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;antigravity が難しいと判断した人は &lt;a href="https://aistudio.google.com/" rel="nofollow"&gt;https://aistudio.google.com/&lt;/a&gt; を使ってバイブコーディングにトライしましょう&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;なんとなく作ってみたいアプリ・ツール・サービス...etc がある&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新しく作ることはハードルが高いので、今あなたの目の前（頭の中）の課題を潰す＝余裕時間を作るということも大切です&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仕事などで繰り返し発生する退屈な作業潰しでもよいかも&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全体として Google系サービスを中心に使用しますが、他のツールやサービスもおおよそ使っているので、各個人お好みのものをお使いください&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;p&gt;17:30 開場(セットアップ)&lt;/p&gt;
+&lt;p&gt;18:00 はじめに&lt;/p&gt;
+&lt;p&gt;18:15 実装開始 &lt;/p&gt;
+&lt;p&gt;20:15 実装終了・生成物で雑談&lt;/p&gt;
+&lt;p&gt;20:30 おわりに&lt;/p&gt;
+&lt;p&gt;20:45 撤収&lt;/p&gt;
+&lt;h1&gt;最近のAI界隈の情報など・予備知識動画&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;https://labs.google/flow/tv/channel/listen-closely/QpjaV7vriVb25FoypAZd?random=true  &lt;/li&gt;
+&lt;li&gt;https://labs.google/fx/ja/tools/whisk/[...catchAll]  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/YamayaT/status/2024001469934895481" rel="nofollow"&gt;https://x.com/YamayaT/status/2024001469934895481&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF" rel="nofollow"&gt;https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/Algomatic_AILab/status/2023685630405103627" rel="nofollow"&gt;https://x.com/Algomatic_AILab/status/2023685630405103627&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tkzwgrs/status/2014163608121585807" rel="nofollow"&gt;https://x.com/tkzwgrs/status/2014163608121585807&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;キーワード&lt;/h1&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google Gemini App / Live
+Google Stitch
+Google Jules
+Google Antigravity
+Google AI Studio
+Firebase Studio
+Gemini CLI
+---
+Google Workspace Studio
+Google Vids
+NotebookLM
+Project Opal
+Flow
+Whisk
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;codex app server&lt;/h2&gt;
+&lt;p&gt;openclaw
+nemoclaw
+moltbook
+rentahuman&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;superpowers
+conductor
+sisyphus
+everything-claude-code&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;symphony&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/ml-explore/mlx-swift/" rel="nofollow"&gt;https://github.com/ml-explore/mlx-swift/&lt;/a&gt;
+&lt;a href="https://github.com/raullenchai/Rapid-MLX" rel="nofollow"&gt;https://github.com/raullenchai/Rapid-MLX&lt;/a&gt;
+&lt;a href="https://github.com/jundot/omlx/" rel="nofollow"&gt;https://github.com/jundot/omlx/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;codex goal &lt;/li&gt;
+&lt;li&gt;claude goal&lt;/li&gt;
+&lt;li&gt;hermes goal&lt;/li&gt;
+&lt;li&gt;ラルフループとの違いとは。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developers.openai.com/codex/use-cases/follow-goals" rel="nofollow"&gt;https://developers.openai.com/codex/use-cases/follow-goals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#仕様駆動開発 #gemma4 #dflash #mlx #omlx #gemini3.5 #fable5 #codex5.6 #gpt5.6 sol, terra, luna  #fable5 #mythos&lt;/p&gt;
+&lt;h1&gt;架空のお題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;SEOツールを作ろう -&amp;gt; キーワード取得やランキング変動やら&lt;/li&gt;
+&lt;li&gt;体育館空き状況 確認便利ツールを作ろう&lt;/li&gt;
+&lt;li&gt;自動予約もできるようにしよう&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-driven-bonjin.connpass.com/event/401869/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Mon, 27 Jul 2026 14:34:19 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #13】夏を乗り切る！LT会</title><link>https://jawsug-kobe.connpass.com/event/399445/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1112）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;今は涼しいですが、もうすぐ暑い夏がやってきます。&lt;br&gt;
 今回はそんな夏を乗り切れるようなLT会を開催します！&lt;br&gt;
 （いつも通りのAWSのことならなんでもOKのLT会です）&lt;br&gt;
@@ -126,7 +216,7 @@
 &lt;p&gt;Webアプリエンジニアです。AWS認定資格取得に励んでいます。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;鈴木　佑佳&lt;/h3&gt;
-&lt;p&gt;&lt;img src="https://connpass.com/static/img/common/user_no_image_180.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/45/0a/450af5f0ef66376b0485ba1955879191.png"&gt;&lt;/p&gt;
 &lt;h3&gt;Shuma&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/31/84/3184a84c33f552aedb71d5f3c8137b2f.png"&gt;&lt;/p&gt;
 &lt;h3&gt;藤田花音&lt;/h3&gt;
@@ -150,7 +240,7 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。 
 お気付きの点があればぜひご協力をお願いいたします。 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。&lt;br&gt;
 AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。&lt;br&gt;
-是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/399445/</guid><enclosure url="https://media.connpass.com/thumbs/cd/cd/cdcdb5c253f96d3e8ef8ca00a9725c21.png" length="0" type="image/png"/><pubDate>Sat, 25 Jul 2026 11:16:29 +0900</pubDate></item><item><title>【三宮】コーディングエージェントを使った開発テクニック Meet UP</title><link>https://copli-next.connpass.com/event/398527/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月31日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月31日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/399445/</guid><enclosure url="https://media.connpass.com/thumbs/cd/cd/cdcdb5c253f96d3e8ef8ca00a9725c21.png" length="0" type="image/png"/><pubDate>Mon, 27 Jul 2026 14:18:45 +0900</pubDate></item><item><title>【三宮】コーディングエージェントを使った開発テクニック Meet UP</title><link>https://copli-next.connpass.com/event/398527/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月31日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月31日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: OPTiM Club KOBE&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区​小野柄通７丁目１番１号​ 日本生命三宮駅前ビル11F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;Claude CodeやCodexなどのAIコーディングエージェントが普及し、多くの企業で導入が進んでいるかと思います&lt;/p&gt;
 &lt;p&gt;コーディングエージェントはAGENTS.mdやSkillsなどをカスタマイズすることによって、優れた性能を出す事ができます&lt;/p&gt;
 &lt;p&gt;しかし、どのようなAGENTS.mdを書いているか、どのようなSkillsを書いているか、どのようにコーディングエージェントを使って開発しているかについて、なかなか情報共有をする場は少ないのではないかと感じています&lt;/p&gt;
@@ -578,7 +668,33 @@ JAWS-UG は No sell, No Job です。イベントの趣旨と関係のない宣�
 全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。 
 お気付きの点があればぜひご協力をお願いいたします。 私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。&lt;br&gt;
 AWSのユーザーグループは日本中、世界中に存在し、あなたの参加を待っています。&lt;br&gt;
-是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/399415/</guid><enclosure url="https://media.connpass.com/thumbs/5b/bf/5bbf88289d23b50daa692b444e29f95e.png" length="0" type="image/png"/><pubDate>Fri, 10 Jul 2026 17:31:05 +0900</pubDate></item><item><title>【神戸・三宮】AIナイトラボ 第6回｜経営者・企業向け 生成AI実践勉強会＆交流会</title><link>https://ai-night-lab.connpass.com/event/401098/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月20日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月20日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 中華会館&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区下山手通2丁目13-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AIナイトラボ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎月開催｜神戸・三宮で学ぶ生成AI実践コミュニティ｜18時から最新AIセミナー・19時から交流会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIナイトラボとは&lt;/h1&gt;
+是非コミュニティを通じて世界中の仲間と繋がりましょう。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-kobe.connpass.com/event/399415/</guid><enclosure url="https://media.connpass.com/thumbs/5b/bf/5bbf88289d23b50daa692b444e29f95e.png" length="0" type="image/png"/><pubDate>Fri, 10 Jul 2026 17:31:05 +0900</pubDate></item><item><title>【神戸開催】AI勉強会「スナックAI」 in 神戸</title><link>https://kansai-ai-co.connpass.com/event/401880/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月19日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月19日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: エムトーン会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神戸市中央区京町７９番地（日本ビルヂング７０７）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
+&lt;p&gt;生成AIを使えば業務効率やアイデア創出のスピードは驚くほど加速します。
+それでも「みんなどう使ってるの？」「うちでどう使えばいいの？」「専門用語が難しくて…」と足踏みしている方は少なくありません。
+そこで誕生したのが、肩書も年齢も関係なく“スナック感覚”で集まれるゆるい勉強会 「スナックAI」です。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;【スナックAIが選ばれる 3 つの理由 】&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. ゆるく学べるのに実戦的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ドレスコードも議事録もありません。&lt;/p&gt;
+&lt;p&gt;気軽なトークの中で、実際に生成AIを導入している経営者・個人事業主が具体的な成功・失敗事例を披露します。&lt;/p&gt;
+&lt;p&gt;机上の空論ではない“生きたノウハウ”をご自身のビジネスにそのまま持ち帰れます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 質問し放題・売り込みゼロ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「社内の抵抗をどう乗り越えた？」「費用対効果は？」など、気になることは何でもぶつけてください。&lt;/p&gt;
+&lt;p&gt;モデレーターがファシリテートしながら、その場でリアルな答えを共有します。&lt;/p&gt;
+&lt;p&gt;プレゼンもセールスピッチもないので、安心して疑問を解消できます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. お酒片手にインスピレーション&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルコールOK、会場でもビールやハイボールを少量ですがご用意しています（早い者勝ちです）。&lt;/p&gt;
+&lt;p&gt;持ち込みも可。ほろ酔いの解放感が、アイデアの化学反応をさらに加速。&lt;/p&gt;
+&lt;p&gt;もちろんソフトドリンク派の方も大歓迎です。&lt;/p&gt;
+&lt;p&gt;飲み物はご自身でご準備してください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【こんな方におすすめです 】&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;・ 生成AIを導入したいが、具体的な第一歩が分からない経営者・個人事業主&lt;/p&gt;
+&lt;p&gt;・ 他社の事例を聞き、自社の活用イメージを膨らませたい方&lt;/p&gt;
+&lt;p&gt;・ リラックスしながら専門家や同じ立場の仲間と交流したい方&lt;/p&gt;
+&lt;h2&gt;** 開催情報 **&lt;/h2&gt;
+&lt;p&gt;日時：2026年08月19日（水）18:30–20:30&lt;/p&gt;
+&lt;p&gt;場所：エムトーン会議室（最寄り駅：各線三宮駅）&lt;/p&gt;
+&lt;p&gt;住所：神戸市中央区京町７９番地 日本ビルヂング７０７&lt;/p&gt;
+&lt;p&gt;参加費：無料（会場でのアルコール・ソフトドリンクは持参してください）&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansai-ai-co.connpass.com/event/401880/</guid><enclosure url="https://media.connpass.com/thumbs/b6/66/b666a94fc9228747d562543bcf0e1910.png" length="0" type="image/png"/><pubDate>Mon, 27 Jul 2026 15:50:49 +0900</pubDate></item><item><title>【神戸・三宮】AIナイトラボ 第6回｜経営者・企業向け 生成AI実践勉強会＆交流会</title><link>https://ai-night-lab.connpass.com/event/401098/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月20日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月20日(木) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 中華会館&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区下山手通2丁目13-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AIナイトラボ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;毎月開催｜神戸・三宮で学ぶ生成AI実践コミュニティ｜18時から最新AIセミナー・19時から交流会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIナイトラボとは&lt;/h1&gt;
 &lt;p&gt;AIナイトラボは、毎月神戸・三宮で開催している少人数制の生成AIコミュニティです。&lt;/p&gt;
 &lt;p&gt;「AIに興味はあるけれど、何から始めればよいか分からない」
 「ChatGPTを使っているが、実際の仕事にどう活かせばよいか知りたい」
@@ -628,16 +744,13 @@ AWSのユーザーグループは日本中、世界中に存在し、あなた�
 &lt;p&gt;なお、AI事業者向けの交流コミュニティ・サロンは別途準備を進めております。&lt;/p&gt;
 &lt;p&gt;営業活動のみを目的とした参加や、他の参加者への過度な勧誘はご遠慮ください。&lt;/p&gt;
 &lt;p&gt;少人数開催のため、キャンセルされる場合は可能な限り事前にご連絡をお願いいたします。&lt;/p&gt;
-&lt;p&gt;神戸・三宮で、生成AIを学び、実践し、つながる場として、皆さまのご参加を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-night-lab.connpass.com/event/401098/</guid><enclosure url="https://media.connpass.com/thumbs/99/ac/99ac315cb86a968792c6d675d3050cbe.png" length="0" type="image/png"/><pubDate>Sat, 18 Jul 2026 21:35:44 +0900</pubDate></item><item><title>AI駆動開発神戸支部 アプリ作成ハンズオン@武庫女</title><link>https://aid.connpass.com/event/401314/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 武庫川女子大学&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県西宮市池開町６−４６&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでアプリドリームつかんじゃうぞ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;神戸・三宮で、生成AIを学び、実践し、つながる場として、皆さまのご参加を心よりお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-night-lab.connpass.com/event/401098/</guid><enclosure url="https://media.connpass.com/thumbs/99/ac/99ac315cb86a968792c6d675d3050cbe.png" length="0" type="image/png"/><pubDate>Sat, 18 Jul 2026 21:35:44 +0900</pubDate></item><item><title>AI駆動開発神戸支部 アプリ作成ハンズオン@武庫女</title><link>https://aid.connpass.com/event/401314/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: 武庫川女子大学&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県西宮市池開町６−４６&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動開発神戸&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでアプリドリームつかんじゃうぞ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;GASG × AI駆動開発勉強会 神戸支部&lt;/strong&gt; 共催オンサイト企画、第8回は「&lt;strong&gt;AI駆動開発ハンズオン &amp;amp; ショーケース&lt;/strong&gt;」を開催します！&lt;/p&gt;
 &lt;p&gt;午前は実際に手を動かす&lt;strong&gt;ハンズオン&lt;/strong&gt;、午後はその成果や個人開発を披露する&lt;strong&gt;ショーケース（Vibe DIY ShowCase）&lt;/strong&gt;という二部構成でお届けします。&lt;/p&gt;
-&lt;p&gt;作るのが好きな人も、見て刺激をもらいたい人も、ぜひ武庫川女子大学（仮）にお集まりください！&lt;/p&gt;
-&lt;p&gt;※本ページの内容は現時点ではすべて&lt;strong&gt;仮&lt;/strong&gt;です。確定次第、随時更新します。&lt;/p&gt;
+&lt;p&gt;作るのが好きな人も、見て刺激をもらいたい人も、ぜひ武庫川女子大学にお集まりください！&lt;/p&gt;
 &lt;h2&gt;AI 駆動開発勉強会とは？&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;生成AI・LLMの登場により、コードの自動生成・自動補完などアプリケーション・プログラミングの開発スタイルは大きく変わりつつあります。またコーディングのみならず、仕様整理、デザイン、設計、テスト、ドキュメント作成においても、AIを利用した開発ツールが多数出てきており、開発スタイルそのものが大きく変わっていくと予想されます。
-AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開発に興味を持つ方々向けに、ChatGPTやGitHub CopilotなどのAIツールを使った開発のノウハウや、AIによる開発プロセスの最適化、生成AI・LLMを最大限に活用した新たな開発方法・開発スタイルやテクニックや今後の新しい開発スタイルについて共有・議論していきます！
-(&lt;a href="https://aid.connpass.com/" rel="nofollow"&gt;https://aid.connpass.com/&lt;/a&gt; より)&lt;/p&gt;
+&lt;p&gt;生成AI・LLMの登場により、コードの自動生成・自動補完などアプリケーション・プログラミングの開発スタイルは大きく変わりつつあります。またコーディングのみならず、仕様整理、デザイン、設計、テスト、ドキュメント作成においても、AIを利用した開発ツールが多数出てきており、開発スタイルそのものが大きく変わっていくと予想されます。 AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開発に興味を持つ方々向けに、ChatGPTやGitHub CopilotなどのAIツールを使った開発のノウハウや、AIによる開発プロセスの最適化、生成AI・LLMを最大限に活用した新たな開発方法・開発スタイルやテクニックや今後の新しい開発スタイルについて共有・議論していきます！ (&lt;a href="https://aid.connpass.com/" rel="nofollow"&gt;https://aid.connpass.com/&lt;/a&gt; より)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
@@ -651,23 +764,23 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;日時&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026年8月22日（土）　時間詳細は検討中（仮）&lt;/td&gt;
+&lt;td&gt;2026年8月22日（土）11:00 〜 17:00&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;場所&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;武庫川女子大学（仮）／神戸&lt;/td&gt;
+&lt;td&gt;武庫川女子大学 + 配信（ハイブリッド開催）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;定員&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;検討中（仮）&lt;/td&gt;
+&lt;td&gt;60名（現地参加枠）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;検討中（仮）&lt;/td&gt;
+&lt;td&gt;無料（予定）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;持ち物&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;PC（ハンズオン・ショーケース参加者は必須・仮）&lt;/td&gt;
+&lt;td&gt;PC（ハンズオン・ショーケース参加者は必須）、電源タップ（推奨）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;共催&lt;/strong&gt;&lt;/td&gt;
@@ -677,7 +790,6 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2&gt;タイムライン&lt;/h2&gt;
-&lt;p&gt;二部構成で開催予定です（時間・内容は仮）。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -687,25 +799,31 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left;"&gt;午前&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;strong&gt;ハンズオン&lt;/strong&gt;（2〜3時間想定）&lt;br&gt;Replit など AIツールを使った開発体験&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;11:00 〜 13:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;アプリ開発 ハンズオン&lt;/strong&gt;&lt;br&gt;・Shipaton 2026 のご紹介&lt;br&gt;・ストアへのデプロイ、プロモーションについて&lt;br&gt;・アプリ企画（AI を活用した壁打ち）、Replit を利用したアプリ開発の実践&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left;"&gt;午後&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;strong&gt;ショーケース（Vibe DIY ShowCase）&lt;/strong&gt;&lt;br&gt;黙々回（もくもく作業） → アウトプットお披露目・LT&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;13:00 〜 14:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;もくもく会 ＆ 休憩&lt;/strong&gt;&lt;br&gt;ハンズオンパートの続き枠です。&lt;br&gt;前半で構築したアプリに磨きをかけるもよし、ショーケースでの披露に向けた LT の準備もよし。&lt;br&gt;もちろん少し昼食に出るもよし、です&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;14:30 〜 16:30&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;ショーケース（Vibe DIY ShowCase）&lt;/strong&gt; &lt;br&gt;アプリ開発 ハンズオン、もくもく会パートで仕上げたアプリをぜひご紹介ください&lt;br&gt;もちろんこれまでに AI を用いて個人開発されたオレオレアプリのご自慢も可です&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;17:00&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;完全撤収&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;※詳細なタイムテーブルは検討中のため、決まり次第更新します。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;午前の部：ハンズオン内容（仮）&lt;/h2&gt;
+&lt;h2&gt;午前の部：ハンズオン内容&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Replit などのAIツールを使い、実際に手を動かしてアプリ開発を体験します。&lt;/li&gt;
+&lt;li&gt;AI ツール Replit を使い、実際に手を動かしてアプリ開発を体験します。&lt;/li&gt;
 &lt;li&gt;午前の成果はそのまま午後のショーケースで発表できます。&lt;/li&gt;
-&lt;li&gt;詳細なセッション内容・使用ツールは検討中です。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;午後の部：ショーケース内容（Vibe DIY ShowCase）（仮）&lt;/h2&gt;
+&lt;h2&gt;午後の部：ショーケース内容（Vibe DIY ShowCase）&lt;/h2&gt;
 &lt;p&gt;午前の開発成果、または個人開発の事例を発表する &lt;strong&gt;LT（ライトニングトーク）大会&lt;/strong&gt; です。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -717,15 +835,11 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;形式&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;1人15分 × 10名 = 合計150分想定&lt;/td&gt;
+&lt;td&gt;1人10分 × 10名前後を想定しています&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;発表内容&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;午前ハンズオンの成果 or 個人開発（オレオレアプリ）自慢&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;前半（黙々回）&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;発表準備・仕上げのもくもく作業時間&lt;/td&gt;
+&lt;td&gt;午前のハンズオンの成果やこれまでに AI を用いて個人開発したオレオレアプリ自慢&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -733,18 +847,21 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;hr&gt;
 &lt;h2&gt;共催コミュニティのご紹介&lt;/h2&gt;
 &lt;h3&gt;GASG&lt;/h3&gt;
-&lt;p&gt;国立研究開発法人 産業技術総合研究所 人工知能技術コンソーシアム
-Generative AI Study Group
-生成系AIに興味を持つ方々と共に最新動向やビジネス活用方法を学び、情報共有やアイディア検討を行い、人々の生活や社会を豊かにするための活動を行っています。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.gasg.server-on.net/" rel="nofollow"&gt;https://www.gasg.server-on.net/&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;国立研究開発法人 産業技術総合研究所 人工知能技術コンソーシアム Generative AI Study Group 生成系AIに興味を持つ方々と共に最新動向やビジネス活用方法を学び、情報共有やアイディア検討を行い、人々の生活や社会を豊かにするための活動を行っています。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gasg.server-on.net/" rel="nofollow"&gt;https://www.gasg.server-on.net/&lt;/a&gt;
 &lt;a href="https://www.ai-tech-c.jp/generative-ai-study-group-gasg/" rel="nofollow"&gt;https://www.ai-tech-c.jp/generative-ai-study-group-gasg/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;地域ICT推進協議会（COPLI）&lt;/h3&gt;
+&lt;p&gt;地域ICT推進協議会（COPLI）は、産官学民連携によるコンソーシアムであり、交流を通じた地域経済の活性化、また多彩な活動を通じた地域及びそこに住む人たちへの貢献を目指します。平成19年4月、情報通信技術の利活用を通じて地域の活性化を図ることを目的として活動していた「神戸マルチメディア・インターネット協議会」と「阪神・淡路マルチメディア産業交流会」が統合することで発足しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://copli.jp/" rel="nofollow"&gt;https://copli.jp/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;本ページの内容（日時詳細、定員、参加費、会場名など）はすべて&lt;strong&gt;仮&lt;/strong&gt;であり、今後変更される可能性があります。&lt;/li&gt;
-&lt;li&gt;ハンズオン・ショーケースへの参加にはPCのご持参が必須となる見込みです（詳細は確定次第ご案内します）。&lt;/li&gt;
+&lt;li&gt;会場となる武庫川女子大学周辺は夏休み期間となるため学食の利用ができません。&lt;br&gt;
+  &lt;b style="color:#D11C1C;"&gt;大学周辺には飲食店が少なく距離もあるため、ご不安な方は来場前にご購入の上ご持参ください。&lt;/b&gt;&lt;br&gt;
+  「もくもく会 ＆ 休憩」に入るタイミングで、飲食可能なスペースのご案内をします。&lt;/li&gt;
+&lt;li&gt;ハンズオン・ショーケースへの参加には PC のご持参が必須です。&lt;/li&gt;
 &lt;li&gt;ハラスメント行為は固くお断りします。安心・安全な学びの場づくりにご協力ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/401314/</guid><pubDate>Fri, 24 Jul 2026 16:32:10 +0900</pubDate></item><item><title>第34回 CoderDojo西神・コベカツ体験会</title><link>https://coderdojoseishin.connpass.com/event/398801/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月23日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月23日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CoderDojo西神はコベカツ登録クラブです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/401314/</guid><pubDate>Mon, 27 Jul 2026 21:07:25 +0900</pubDate></item><item><title>第34回 CoderDojo西神・コベカツ体験会</title><link>https://coderdojoseishin.connpass.com/event/398801/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月23日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月23日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: ユニバープラザビル2F&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市西区学園西町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo西神&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CoderDojo西神はコベカツ登録クラブです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;プログラミング初心者も大歓迎です&lt;/h1&gt;
 &lt;p&gt;こどものための無料のプログラミング道場「CoderDojo」を神戸市西区の学園都市で開催します。
 6歳から18歳までの小学生〜高校生・高専生が対象となります。参加費は無料です。
 貸し出し用のパソコンもありますので、パソコンをお持ちでない方も遠慮なくご参加下さい。&lt;/p&gt;
