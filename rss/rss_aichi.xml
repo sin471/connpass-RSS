@@ -1,100 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 27 Jul 2026 16:52:49 +0000</lastBuildDate><item><title>なごやクラメソゆる勉強会 #4  AWS Summit Japan 2026振り返り</title><link>https://classmethod.connpass.com/event/399709/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月27日(月) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月27日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド株式会社 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区錦1-17-26（ラウンドテラス伏見8階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nagoya_cm_yuru&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;クラスメソッド名古屋オフィス発、とにかくゆるくをモットーにした勉強会です！&lt;/h2&gt;
-&lt;p&gt;第4回のテーマは「&lt;strong&gt;AWS Summit Japan 2026 振り返り&lt;/strong&gt;」です。&lt;/p&gt;
-&lt;p&gt;今年も幕張メッセで、AWS最大級のイベント「AWS Summit Japan 2026」が開催されました！&lt;/p&gt;
-&lt;p&gt;2日間で260を超えるセッション、そして数えきれないほどのブース展示…全部を回りきるのは至難の業ですよね。
-そこで今回は、現地に行ったクラスメソッドのメンバーが、各種事例から見えた現在のトレンドや、印象に残ったセッション・ブースの様子を、独断と偏見も交えつつゆる〜く振り返ります。&lt;/p&gt;
-&lt;p&gt;「行けなかったから雰囲気だけでも知りたい」「どんなテーマが盛り上がってたのか気になる」そんな方にぴったりの内容です。&lt;/p&gt;
-&lt;p&gt;アットホームな雰囲気の、気軽な勉強会です。
-現地で気になったセッションや、面白かったブースの話を、ぜひ気軽にシェアしにきてください。&lt;/p&gt;
-&lt;p&gt;皆様のご参加お待ちしております。&lt;/p&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS Summit Japan 2026に行けなかったけど、現地の雰囲気やトレンドを知りたい方&lt;/li&gt;
-&lt;li&gt;現地には行ったけど、他の人がどのセッション・ブースに注目したのか気になる方&lt;/li&gt;
-&lt;li&gt;AWS界隈の今のトレンドをゆるく掴んでおきたい方&lt;/li&gt;
-&lt;li&gt;クラスメソッドのエンジニアに直接、Summitの感想や質問をぶつけてみたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;h3&gt;日時&lt;/h3&gt;
-&lt;p&gt;2026年7月27日（月）19:30〜21:00（開場 19:00）&lt;/p&gt;
-&lt;h3&gt;場所&lt;/h3&gt;
-&lt;p&gt;クラスメソッド株式会社 名古屋オフィス
-〒460-0003 愛知県名古屋市中区錦1-17-26 ラウンドテラス伏見8階&lt;/p&gt;
-&lt;h3&gt;アクセス&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;地下鉄東山線・鶴舞線「伏見」駅より徒歩5分&lt;/li&gt;
-&lt;li&gt;地下鉄桜通線「丸の内」駅より徒歩7分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;参加費&lt;/h3&gt;
-&lt;p&gt;無料&lt;/p&gt;
-&lt;h3&gt;定員&lt;/h3&gt;
-&lt;p&gt;一般参加 15名（先着順）&lt;/p&gt;
-&lt;h3&gt;開催形式&lt;/h3&gt;
-&lt;p&gt;オフラインによる開催 ※オンライン配信は予定しておりません。&lt;/p&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;登壇者&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00 - 19:30&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;開場・受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:30 - 19:35&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:35 - 19:45&lt;/td&gt;
-&lt;td&gt;鈴木 奏大&lt;/td&gt;
-&lt;td&gt;AWS Summit Japan 2026 現地レポート&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:45 - 19:55&lt;/td&gt;
-&lt;td&gt;入井 啓太&lt;/td&gt;
-&lt;td&gt;IVRからAI会話へ ― カスタマーサポートセッション横断レポート&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:55 - 20:05&lt;/td&gt;
-&lt;td&gt;とーかみ&lt;/td&gt;
-&lt;td&gt;注目セッション紹介：データ基盤編&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:05 - 20:15&lt;/td&gt;
-&lt;td&gt;さば&lt;/td&gt;
-&lt;td&gt;注目セッション紹介：パルグループのインシデント対応&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15 - 20:55&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;相談会・交流タイム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:55 - 21:00&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;h3&gt;電源・Wi-Fi&lt;/h3&gt;
-&lt;p&gt;会場にて提供いたします。電源につきましては限りがあります。&lt;/p&gt;
-&lt;h3&gt;その他&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;セッションの内容は変更となる可能性がありますので、予めご了承ください。&lt;/li&gt;
-&lt;li&gt;ご来場にあたり、37.5度以上の発熱が見られる場合、参加をお控えください。&lt;/li&gt;
-&lt;li&gt;入館確認のため、受付にて氏名・ご連絡先情報を確認させていただく場合がございます。（セキュリティ上の入館処理以外に利用いたしません）&lt;/li&gt;
-&lt;li&gt;本イベントの参加お申し込み時にいただく情報は、クラスメソッド株式会社の『&lt;a href="https://classmethod.jp/privacy/" rel="nofollow"&gt;個人情報保護方針&lt;/a&gt;』 および『&lt;a href="https://classmethod.jp/wp-content/themes/classmethod/pdf/privacy_purpose.pdf" rel="nofollow"&gt;クラスメソッドが取得する個人情報と利用目的&lt;/a&gt;』の『当社ビジネスに関するイベント・セミナー参加者情報』に基づき取り扱います。&lt;/li&gt;
-&lt;li&gt;イベントの様子は、写真撮影や録画される可能性がございます。撮影内容は、クラスメソッドグループの広報活動等に利用いたします。あらかじめご了承ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/399709/</guid><enclosure url="https://media.connpass.com/thumbs/06/ee/06ee7cc311b70122bae98ba0e59f7be2.png" length="0" type="image/png"/><pubDate>Sun, 26 Jul 2026 16:12:06 +0900</pubDate></item><item><title>製造業でも生成AI活用したい！名古屋LLM MeetUp#13</title><link>https://kinto-technologies.connpass.com/event/396249/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: なごのキャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区那古野２丁目１４−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #名古屋LLMMeetUp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 28 Jul 2026 16:28:30 +0000</lastBuildDate><item><title>製造業でも生成AI活用したい！名古屋LLM MeetUp#13</title><link>https://kinto-technologies.connpass.com/event/396249/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: なごのキャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区那古野２丁目１４−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #名古屋LLMMeetUp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
 &lt;b&gt;夏到来！キーノート+LT構成でお届けします🏄‍♂️&lt;/b&gt;&lt;br&gt;
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;/p&gt;
 &lt;h1&gt;🔰 はじめに&lt;/h1&gt;
@@ -255,7 +160,7 @@ KINTOテクノロジーズはトヨタグループ内でも唯一の「BtoC・Dt
 &lt;li&gt;コミュニティ開催会場の入館申請手続き&lt;/li&gt;
 &lt;li&gt;勉強会の申し込み者の入館時のご本人確認&lt;/li&gt;
 &lt;li&gt;セミナー、イベント等に関する情報提供&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/396249/</guid><enclosure url="https://media.connpass.com/thumbs/40/60/406001bd60e743c4b2938ef19434b3d9.png" length="0" type="image/png"/><pubDate>Mon, 27 Jul 2026 22:11:08 +0900</pubDate></item><item><title>Nagoya Device Club #1</title><link>https://delanagoya.connpass.com/event/399529/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ブライトン会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒4530014 愛知県 名古屋市中村区 則武 1-13-9 407号室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;趣味でデバイスやガジェットを作る人のもくもく会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Nagoya Device Club #1&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kinto-technologies.connpass.com/event/396249/</guid><enclosure url="https://media.connpass.com/thumbs/d8/7d/d87d5d388e5efef2be3d8e49af33d4ea.png" length="0" type="image/png"/><pubDate>Tue, 28 Jul 2026 09:56:42 +0900</pubDate></item><item><title>Nagoya Device Club #1</title><link>https://delanagoya.connpass.com/event/399529/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ブライトン会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒4530014 愛知県 名古屋市中村区 則武 1-13-9 407号室&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;趣味でデバイスやガジェットを作る人のもくもく会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Nagoya Device Club #1&lt;/h1&gt;
 &lt;h2&gt;イベントの説明&lt;/h2&gt;
 &lt;p&gt;Nagoya Device Club は、趣味でデバイスやガジェットを作る人たちのコミュニティです。&lt;/p&gt;
 &lt;p&gt;Raspberry Pi、ESP32、nRF52、自作キーボード、自作マウス、電子工作など、それぞれが好きなものを持ち寄って、もくもくと作業します。&lt;/p&gt;
@@ -550,7 +455,7 @@ kintoneやサイボウズを感じるプチイベントを毎月定期的に開�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;19:10-19:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;【公共LT枠】「ガバメントクラウドでのDR、ランサムウェア対策あたりの予定」&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;【公共LT枠】「ガバメントクラウドでのランサムウェア対策」&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;高橋広和（名古屋市）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -639,7 +544,7 @@ kintoneやサイボウズを感じるプチイベントを毎月定期的に開�
 &lt;li&gt;本人の生命の保護などのために必要な場合であって、緊急を要するなど、ご本人の同意を得ることが困難である場合&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;スタッフ募集中です！&lt;/h1&gt;
-&lt;p&gt;一緒にコミュニティーを盛り上げていただけるスタッフも随時募集しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/396664/</guid><enclosure url="https://media.connpass.com/thumbs/4c/46/4c46ceb54fddd9775deeac2f6c08cd9a.png" length="0" type="image/png"/><pubDate>Tue, 21 Jul 2026 18:54:03 +0900</pubDate></item><item><title>手羽先プロンプト #1 〜名古屋のAI勉強会〜</title><link>https://tebasaki-prompt.connpass.com/event/388357/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月31日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月31日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スタメン 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒450-0006 愛知県名古屋市中村区 下広井町１丁目１４－８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tebapro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名古屋のAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;手羽先プロンプトとは？&lt;/h1&gt;
+&lt;p&gt;一緒にコミュニティーを盛り上げていただけるスタッフも随時募集しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/396664/</guid><enclosure url="https://media.connpass.com/thumbs/4c/46/4c46ceb54fddd9775deeac2f6c08cd9a.png" length="0" type="image/png"/><pubDate>Tue, 28 Jul 2026 15:57:26 +0900</pubDate></item><item><title>手羽先プロンプト #1 〜名古屋のAI勉強会〜</title><link>https://tebasaki-prompt.connpass.com/event/388357/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月31日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月31日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スタメン 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒450-0006 愛知県名古屋市中村区 下広井町１丁目１４－８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tebapro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名古屋のAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;手羽先プロンプトとは？&lt;/h1&gt;
 &lt;p&gt;名古屋でAI勉強会を開き、名古屋を盛り上げていこうという意気込みのグループです。
 「AIが気になるけど何から始めれば？」「他の方々はどんなAIの活用をしているのだろう？」「名古屋でAI仲間がほしい」
 そんな方のためのゆるく学べるAI活用コミュニティ、記念すべき第1回です！&lt;/p&gt;
@@ -732,7 +637,14 @@ kintoneやサイボウズを感じるプチイベントを毎月定期的に開�
 &lt;h2&gt;注意点&lt;/h2&gt;
 &lt;p&gt;懇親会費は本編の受付にてお預かりしお店側へ支払います。
 領収書はお店との調整を行いますが発行できないケースがあるかもしれません。希望者は名刺をお預かりし領収書と一緒にお返し致します。
-23:15終了予定ですが、電車の都合で早く帰宅されても構いません&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/397829/</guid><enclosure url="https://media.connpass.com/thumbs/9b/0f/9b0fbb51988a1f6398ca9b81b2a1a577.png" length="0" type="image/png"/><pubDate>Fri, 19 Jun 2026 10:28:13 +0900</pubDate></item><item><title>満足度96.3%！Claude Code勉強会 @STATION Ai 名古屋</title><link>https://connpass.com/event/400828/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: STATION Ai １階テックラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市昭和区鶴舞1丁目2番32号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cClaudeCode&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+23:15終了予定ですが、電車の都合で早く帰宅されても構いません&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/397829/</guid><enclosure url="https://media.connpass.com/thumbs/9b/0f/9b0fbb51988a1f6398ca9b81b2a1a577.png" length="0" type="image/png"/><pubDate>Fri, 19 Jun 2026 10:28:13 +0900</pubDate></item><item><title>第183回 なごや個人開発者の集い</title><link>https://758indies.connpass.com/event/402063/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #758indies&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;「なごや個人開発者の集い」の定例オフライン開発会です。 出席者はこのイベントで参加表明をしてください。&lt;/p&gt;
+&lt;p&gt;場所は、&lt;a href="https://www.n-vnpo.city.nagoya.jp/" rel="nofollow"&gt;名古屋市市民活動推進センター&lt;/a&gt;のフリースペースです。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加無料です。&lt;/li&gt;
+&lt;li&gt;時間内は出入り自由です。遅刻・早退問題ありません。&lt;/li&gt;
+&lt;li&gt;会場は、電源、フリーWiFiがあります。&lt;/li&gt;
+&lt;li&gt;体調のすぐれない方は、自重ください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://758indies.connpass.com/event/402063/</guid><enclosure url="https://media.connpass.com/thumbs/22/cf/22cf3c0aee4baea605c248d55f335137.png" length="0" type="image/png"/><pubDate>Tue, 28 Jul 2026 23:09:39 +0900</pubDate></item><item><title>満足度96.3%！Claude Code勉強会 @STATION Ai 名古屋</title><link>https://connpass.com/event/400828/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: STATION Ai １階テックラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市昭和区鶴舞1丁目2番32号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #cClaudeCode&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;「使ってみたいけれど、何から始めればいい？」「他の人とユースケースを情報交換したい！」&lt;/p&gt;
 &lt;p&gt;そんな初心者から上級者の方にピッタリの勉強会を開催します。&lt;/p&gt;
 &lt;p&gt;勉強会は、それぞれテーマを決め、グループに分かれて実際に手を動かし、最後に成果を発表するワークショップ形式で行います。&lt;/p&gt;
@@ -989,66 +901,7 @@ HPやチラシでも、惹きつけるような画像が生成したくて、&lt
 &lt;h2&gt;＜注意事項＞&lt;/h2&gt;
 &lt;p&gt;※注意①：参加者が集まらない場合は、日程を延期します。&lt;br&gt;
 （参加希望の方は、早めにお申し込みください）&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/400282/</guid><enclosure url="https://media.connpass.com/thumbs/5b/7f/5b7ffff3730646d6cdc0d1fd923262c8.png" length="0" type="image/png"/><pubDate>Sat, 25 Jul 2026 07:55:53 +0900</pubDate></item><item><title>【参加無料】 Pitch Lab 45 － AIで加速する事業開発リサーチ</title><link>https://connpass.com/event/401674/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月6日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月6日(木) 20:15&lt;/li&gt;&lt;li&gt;📍 会場: Palette 久屋大通店（栄駅徒歩圏内）&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区丸の内3-7-9　チサンマンション丸の内第2&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;リサーチから企画書まで。通常1〜2日かかる市場調査とピッチ作成を、45分の体験セッションで一気に圧縮する生産性革命の夜。&lt;/p&gt;
-&lt;p&gt;​「AIって難しそう」。そんな人のための体験型ワークショップです。当日は事務局から当日使用分のGensparkクレジット(3,000pt)を配布し、そのクレジットを使ってGensparkの機能を実際に手を動かしながら使い、その場で「投資家向けピッチレポート」を完成させます。プログラミング経験は不要。ChatGPTを少し使ったことがある方も、AIをほぼ初めて触る方も大歓迎です。&lt;/p&gt;
-&lt;p&gt;​🎯 45分×20名が体験する「当日プレゼン制作」
-​Gensparkから配布されるGensparkクレジット 3,000ptを活用し、参加者一人ひとりが自分のビジネスアイデアを持ち込んで、45分間で投資家向けピッチレポートを完成させます。当日作った資料は、そのままお持ち帰りいただけます。&lt;/p&gt;
-&lt;p&gt;​完成までの流れ：&lt;/p&gt;
-&lt;p&gt;​課題定義 — あなたのビジネスアイデアを整理&lt;/p&gt;
-&lt;p&gt;​解決策 — Genspark Deep Researchで根拠を集め、提案を具体化&lt;/p&gt;
-&lt;p&gt;​市場規模推定 — 数字の裏付けを短時間で獲得&lt;/p&gt;
-&lt;p&gt;​ピッチレポート完成 — そのまま保存、翌日からの実務に直結&lt;/p&gt;
-&lt;p&gt;​事前リサーチ不要。アイデアが固まっていなくても大丈夫です。&lt;/p&gt;
-&lt;p&gt;​🎤 オープニング：ライブデモ（19:00〜19:15）
-​イベントの幕開けは、15分のライブデモ。 普段1〜2日かかるリサーチからピッチ作成までが、なぜGensparkなら45分に圧縮できるのか。そしてGoogle検索とGensparkの違いは何なのか。事業開発の最前線を感じていただく、静かな導入部としてお送りします。&lt;/p&gt;
-&lt;p&gt;​🎁 参加者特典
-​特典内容
-🎯 当日使用分のGensparkクレジット 3,000ptを配布19:15開始時に、参加者お一人につき3,000ptを配布。当日45分のピッチワークでプレゼン資料を作るためにお使いいただくものです
-🥤 ドリンク提供ソフトドリンク・コーヒー類をご用意（軽食のご提供はありません）
-📄 完成ピッチレポートお持ち帰り45分で作成した投資家向けピッチレポートは、そのままご自身のパソコンに保存して持ち帰れます&lt;/p&gt;
-&lt;p&gt;​💡 3,000ptはイベント終了後に付与されるものではございません。当日中のピッチ作成体験で使い切っていただく運用です。&lt;/p&gt;
-&lt;p&gt;​👥 こんな人におすすめ
-​✅ 企画書・提案資料を作るのに時間がかかっていると感じている方&lt;/p&gt;
-&lt;p&gt;​✅ 市場調査のリサーチ業務を効率化したい方&lt;/p&gt;
-&lt;p&gt;​✅ 事業開発・企画・DX推進担当の方&lt;/p&gt;
-&lt;p&gt;​✅ 経営者、フリーランス、副業チャレンジャー&lt;/p&gt;
-&lt;p&gt;​✅ ChatGPT以外の生成AIツールを実戦で試したい方&lt;/p&gt;
-&lt;p&gt;​✅ 名古屋・東海エリアでAI活用の仲間を見つけたい方&lt;/p&gt;
-&lt;p&gt;​✨ このイベントで得られること
-​✨ リサーチから企画書までを45分に短縮する具体的なメソッドが手に入る&lt;/p&gt;
-&lt;p&gt;​✨ 企画書・スライドの「初稿」が数分で完成する感動を体感できる&lt;/p&gt;
-&lt;p&gt;​✨ 生成AIの業務適用に対する「最初の一歩」が踏み出せる&lt;/p&gt;
-&lt;p&gt;​✨ 当日配布の3,000ptクレジットで、その場で完結するプレゼン制作を体感できる&lt;/p&gt;
-&lt;p&gt;​✨ 名古屋でAIを実践活用する仲間・コミュニティに出会える&lt;/p&gt;
-&lt;p&gt;​📆 開催概要
-​項目内容
-🎪 イベント名AIで45分ビジネスピッチを作る — Genspark名古屋キックオフ
-📆 開催日時2026年8月6日（木）19:00〜20:15（75分）
-📍 会場貸し会議室 Palette 久屋大通店（栄駅徒歩圏内）
-👥 定員20名（事前承認制・先着順）
-🎯 対象事業開発・企画・DX推進担当、経営者、フリーランス💴 参加費無料🈶 言語日本語&lt;/p&gt;
-&lt;p&gt;​⚠️ 飲食について：今回は軽食のご提供はありません。ドリンクのみのご用意となります。軽食が必要な方は栄エリアで済ませてからのご参加をご検討ください。&lt;/p&gt;
-&lt;p&gt;​🕐 当日のスケジュール（75分）
-​時間セッション内容・ゴール
-🎤 19:00〜19:15 オープニングライブデモ（小沢 一仁氏／Genspark Genius）Genspark概要＋Google検索との違いを視覚的に実感。事業開発の最前線を感じる15分
-🎯 19:15 3,000ptクレジット配布参加者お一人につき当日使用分のクレジットを配布
-🚀 19:15〜20:00 ⭐ 45分ビジネスピッチ作成ワーク（本編）配布された3,000ptを利用 → 課題定義 → 解決策 → 市場規模推定 → 投資家向けピッチレポートを45分で完成
-🤝 20:00〜20:15 ネットワーキング・総括ピッチのシェア、名古屋チャプターの今後の活動案内&lt;/p&gt;
-&lt;p&gt;​🎒 持ち物：Wi-Fiに繋がるノートPC（電源アダプター推奨）・あなたのビジネスアイデア（固まっていなくてもOK）
-💳 クレジットについて：19:15に配布する3,000ptは当日中のピッチ作成体験にご利用いただくものです。イベント終了後に別途付与するものではございません。&lt;/p&gt;
-&lt;p&gt;お知らせ
-OzawaKazuhito
-7月17日 16:13
-​⚠️ ご参加にあたっての注意事項
-​💻 PCについて 当日はご自身のノートPCをご持参ください。会場規模（定員20名）のため、電源タップには限りがあります。事前充電を満タンにしてのご来場をお願いします。&lt;/p&gt;
-&lt;p&gt;​🎯 クレジット利用について 19:15に配布するGensparkクレジット（3,000pt）は、当日45分のピッチ作成ワークでプレゼン資料を作るためにご利用いただくものです。イベント終了後に別途付与するものではございませんので、あらかじめご了承ください。&lt;/p&gt;
-&lt;p&gt;​📋 事前承認制について 定員20名の少数イベントです。申し込み後、運営より参加確定の承認ご連絡をもって受付完了となります。事業開発でのGenspark活用に興味のある方を優先させていただきます。&lt;/p&gt;
-&lt;p&gt;​📸 撮影・配信について 当日は記録用に写真撮影および一部配信を行う予定です。カメラに映りたくない方は当日受付スタッフまでお申し出ください。&lt;/p&gt;
-&lt;p&gt;​🥤 飲食について 今回は軽食のご提供はありません（ドリンクのみご提供）。軽食が必要な方は栄エリアで済ませてからのご参加をご検討ください。&lt;/p&gt;
-&lt;p&gt;​📍当日、Gensparkアカウント作成に協力いただきます。&lt;/p&gt;
-&lt;p&gt;場所
-Palette 久屋大通店（愛知県名古屋市中区丸の内3-7-9）&lt;/p&gt;
-&lt;p&gt;申し込みページ：&lt;a href="https://luma.com/6zoei24k" rel="nofollow"&gt;https://luma.com/6zoei24k&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401674/</guid><enclosure url="https://media.connpass.com/thumbs/e8/84/e8847a0e45e057d0e01c6e411190dca5.png" length="0" type="image/png"/><pubDate>Fri, 24 Jul 2026 21:10:04 +0900</pubDate></item><item><title>【参加無料】企業内DXセミナー｜職場の困りごとを“最適化”で解決！ ムリ・ムダ・ムラを減らす方法</title><link>https://nagoya-boost.connpass.com/event/400179/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月6日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月6日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ナゴヤ イノベーターズ ガレージ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1 (ナディアパーク4F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NAGOYABOOST&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;オンライン参加OK！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;本イベントはハイブリッドイベントです。全国どこからでも参加OKです！ &lt;br&gt;&lt;/h1&gt;
+&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/400282/</guid><enclosure url="https://media.connpass.com/thumbs/5b/7f/5b7ffff3730646d6cdc0d1fd923262c8.png" length="0" type="image/png"/><pubDate>Sat, 25 Jul 2026 07:55:53 +0900</pubDate></item><item><title>【参加無料】企業内DXセミナー｜職場の困りごとを“最適化”で解決！ ムリ・ムダ・ムラを減らす方法</title><link>https://nagoya-boost.connpass.com/event/400179/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月6日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月6日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ナゴヤ イノベーターズ ガレージ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1 (ナディアパーク4F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NAGOYABOOST&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;オンライン参加OK！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;本イベントはハイブリッドイベントです。全国どこからでも参加OKです！ &lt;br&gt;&lt;/h1&gt;
 &lt;p&gt;Excel業務、シフト作成、人員配置、在庫管理、配送計画…。&lt;/p&gt;
 &lt;p&gt;現場で起きている"困りごと"を、数理最適化でどう改善するのか。&lt;/p&gt;
 &lt;p&gt;実際の事例を交えながら、初心者にもわかりやすく解説します。&lt;/p&gt;
@@ -1156,7 +1009,66 @@ Palette 久屋大通店（愛知県名古屋市中区丸の内3-7-9）&lt;/p&gt;
 &lt;img src="https://jellyware.jp/images/connpass/200527_rgb-logo-o.png" width="200"&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[お問い合わせ先]&lt;br&gt;
-info@jellyware.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nagoya-boost.connpass.com/event/400179/</guid><enclosure url="https://media.connpass.com/thumbs/64/2e/642e71cf3c7519e02b461b9090a429f0.png" length="0" type="image/png"/><pubDate>Tue, 21 Jul 2026 11:38:48 +0900</pubDate></item><item><title>【名古屋開催】第10回 ウェブアクセシビリティ勉強会</title><link>https://a11y-discord.connpass.com/event/399771/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月7日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月7日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社エスケイワード 名古屋本社&lt;/li&gt;&lt;li&gt;🏢 住所: 〒461-0001 名古屋市東区泉一丁目21番27号 泉ファーストスクエア9階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #a11y_discord&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ウェブアクセシビリティについて学びたい・交流したい人が集まる勉強会&lt;/p&gt;&lt;div&gt;&lt;p&gt;Discordコミュニティで毎週金曜日19時から開催していたのを月一回、第1金曜日は名古屋でオフライン開催します！&lt;/p&gt;
+info@jellyware.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nagoya-boost.connpass.com/event/400179/</guid><enclosure url="https://media.connpass.com/thumbs/64/2e/642e71cf3c7519e02b461b9090a429f0.png" length="0" type="image/png"/><pubDate>Tue, 21 Jul 2026 11:38:48 +0900</pubDate></item><item><title>【参加無料】 Pitch Lab 45 － AIで加速する事業開発リサーチ</title><link>https://connpass.com/event/401674/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月6日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月6日(木) 20:15&lt;/li&gt;&lt;li&gt;📍 会場: Palette 久屋大通店（栄駅徒歩圏内）&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区丸の内3-7-9　チサンマンション丸の内第2&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;リサーチから企画書まで。通常1〜2日かかる市場調査とピッチ作成を、45分の体験セッションで一気に圧縮する生産性革命の夜。&lt;/p&gt;
+&lt;p&gt;​「AIって難しそう」。そんな人のための体験型ワークショップです。当日は事務局から当日使用分のGensparkクレジット(3,000pt)を配布し、そのクレジットを使ってGensparkの機能を実際に手を動かしながら使い、その場で「投資家向けピッチレポート」を完成させます。プログラミング経験は不要。ChatGPTを少し使ったことがある方も、AIをほぼ初めて触る方も大歓迎です。&lt;/p&gt;
+&lt;p&gt;​🎯 45分×20名が体験する「当日プレゼン制作」
+​Gensparkから配布されるGensparkクレジット 3,000ptを活用し、参加者一人ひとりが自分のビジネスアイデアを持ち込んで、45分間で投資家向けピッチレポートを完成させます。当日作った資料は、そのままお持ち帰りいただけます。&lt;/p&gt;
+&lt;p&gt;​完成までの流れ：&lt;/p&gt;
+&lt;p&gt;​課題定義 — あなたのビジネスアイデアを整理&lt;/p&gt;
+&lt;p&gt;​解決策 — Genspark Deep Researchで根拠を集め、提案を具体化&lt;/p&gt;
+&lt;p&gt;​市場規模推定 — 数字の裏付けを短時間で獲得&lt;/p&gt;
+&lt;p&gt;​ピッチレポート完成 — そのまま保存、翌日からの実務に直結&lt;/p&gt;
+&lt;p&gt;​事前リサーチ不要。アイデアが固まっていなくても大丈夫です。&lt;/p&gt;
+&lt;p&gt;​🎤 オープニング：ライブデモ（19:00〜19:15）
+​イベントの幕開けは、15分のライブデモ。 普段1〜2日かかるリサーチからピッチ作成までが、なぜGensparkなら45分に圧縮できるのか。そしてGoogle検索とGensparkの違いは何なのか。事業開発の最前線を感じていただく、静かな導入部としてお送りします。&lt;/p&gt;
+&lt;p&gt;​🎁 参加者特典
+​特典内容
+🎯 当日使用分のGensparkクレジット 3,000ptを配布19:15開始時に、参加者お一人につき3,000ptを配布。当日45分のピッチワークでプレゼン資料を作るためにお使いいただくものです
+🥤 ドリンク提供ソフトドリンク・コーヒー類をご用意（軽食のご提供はありません）
+📄 完成ピッチレポートお持ち帰り45分で作成した投資家向けピッチレポートは、そのままご自身のパソコンに保存して持ち帰れます&lt;/p&gt;
+&lt;p&gt;​💡 3,000ptはイベント終了後に付与されるものではございません。当日中のピッチ作成体験で使い切っていただく運用です。&lt;/p&gt;
+&lt;p&gt;​👥 こんな人におすすめ
+​✅ 企画書・提案資料を作るのに時間がかかっていると感じている方&lt;/p&gt;
+&lt;p&gt;​✅ 市場調査のリサーチ業務を効率化したい方&lt;/p&gt;
+&lt;p&gt;​✅ 事業開発・企画・DX推進担当の方&lt;/p&gt;
+&lt;p&gt;​✅ 経営者、フリーランス、副業チャレンジャー&lt;/p&gt;
+&lt;p&gt;​✅ ChatGPT以外の生成AIツールを実戦で試したい方&lt;/p&gt;
+&lt;p&gt;​✅ 名古屋・東海エリアでAI活用の仲間を見つけたい方&lt;/p&gt;
+&lt;p&gt;​✨ このイベントで得られること
+​✨ リサーチから企画書までを45分に短縮する具体的なメソッドが手に入る&lt;/p&gt;
+&lt;p&gt;​✨ 企画書・スライドの「初稿」が数分で完成する感動を体感できる&lt;/p&gt;
+&lt;p&gt;​✨ 生成AIの業務適用に対する「最初の一歩」が踏み出せる&lt;/p&gt;
+&lt;p&gt;​✨ 当日配布の3,000ptクレジットで、その場で完結するプレゼン制作を体感できる&lt;/p&gt;
+&lt;p&gt;​✨ 名古屋でAIを実践活用する仲間・コミュニティに出会える&lt;/p&gt;
+&lt;p&gt;​📆 開催概要
+​項目内容
+🎪 イベント名AIで45分ビジネスピッチを作る — Genspark名古屋キックオフ
+📆 開催日時2026年8月6日（木）19:00〜20:15（75分）
+📍 会場貸し会議室 Palette 久屋大通店（栄駅徒歩圏内）
+👥 定員20名（事前承認制・先着順）
+🎯 対象事業開発・企画・DX推進担当、経営者、フリーランス💴 参加費無料🈶 言語日本語&lt;/p&gt;
+&lt;p&gt;​⚠️ 飲食について：今回は軽食のご提供はありません。ドリンクのみのご用意となります。軽食が必要な方は栄エリアで済ませてからのご参加をご検討ください。&lt;/p&gt;
+&lt;p&gt;​🕐 当日のスケジュール（75分）
+​時間セッション内容・ゴール
+🎤 19:00〜19:15 オープニングライブデモ（小沢 一仁氏／Genspark Genius）Genspark概要＋Google検索との違いを視覚的に実感。事業開発の最前線を感じる15分
+🎯 19:15 3,000ptクレジット配布参加者お一人につき当日使用分のクレジットを配布
+🚀 19:15〜20:00 ⭐ 45分ビジネスピッチ作成ワーク（本編）配布された3,000ptを利用 → 課題定義 → 解決策 → 市場規模推定 → 投資家向けピッチレポートを45分で完成
+🤝 20:00〜20:15 ネットワーキング・総括ピッチのシェア、名古屋チャプターの今後の活動案内&lt;/p&gt;
+&lt;p&gt;​🎒 持ち物：Wi-Fiに繋がるノートPC（電源アダプター推奨）・あなたのビジネスアイデア（固まっていなくてもOK）
+💳 クレジットについて：19:15に配布する3,000ptは当日中のピッチ作成体験にご利用いただくものです。イベント終了後に別途付与するものではございません。&lt;/p&gt;
+&lt;p&gt;お知らせ
+OzawaKazuhito
+7月17日 16:13
+​⚠️ ご参加にあたっての注意事項
+​💻 PCについて 当日はご自身のノートPCをご持参ください。会場規模（定員20名）のため、電源タップには限りがあります。事前充電を満タンにしてのご来場をお願いします。&lt;/p&gt;
+&lt;p&gt;​🎯 クレジット利用について 19:15に配布するGensparkクレジット（3,000pt）は、当日45分のピッチ作成ワークでプレゼン資料を作るためにご利用いただくものです。イベント終了後に別途付与するものではございませんので、あらかじめご了承ください。&lt;/p&gt;
+&lt;p&gt;​📋 事前承認制について 定員20名の少数イベントです。申し込み後、運営より参加確定の承認ご連絡をもって受付完了となります。事業開発でのGenspark活用に興味のある方を優先させていただきます。&lt;/p&gt;
+&lt;p&gt;​📸 撮影・配信について 当日は記録用に写真撮影および一部配信を行う予定です。カメラに映りたくない方は当日受付スタッフまでお申し出ください。&lt;/p&gt;
+&lt;p&gt;​🥤 飲食について 今回は軽食のご提供はありません（ドリンクのみご提供）。軽食が必要な方は栄エリアで済ませてからのご参加をご検討ください。&lt;/p&gt;
+&lt;p&gt;​📍当日、Gensparkアカウント作成に協力いただきます。&lt;/p&gt;
+&lt;p&gt;場所
+Palette 久屋大通店（愛知県名古屋市中区丸の内3-7-9）&lt;/p&gt;
+&lt;p&gt;申し込みページ：&lt;a href="https://luma.com/6zoei24k" rel="nofollow"&gt;https://luma.com/6zoei24k&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401674/</guid><enclosure url="https://media.connpass.com/thumbs/e8/84/e8847a0e45e057d0e01c6e411190dca5.png" length="0" type="image/png"/><pubDate>Fri, 24 Jul 2026 21:10:04 +0900</pubDate></item><item><title>【名古屋開催】第10回 ウェブアクセシビリティ勉強会</title><link>https://a11y-discord.connpass.com/event/399771/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月7日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月7日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社エスケイワード 名古屋本社&lt;/li&gt;&lt;li&gt;🏢 住所: 〒461-0001 名古屋市東区泉一丁目21番27号 泉ファーストスクエア9階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #a11y_discord&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ウェブアクセシビリティについて学びたい・交流したい人が集まる勉強会&lt;/p&gt;&lt;div&gt;&lt;p&gt;Discordコミュニティで毎週金曜日19時から開催していたのを月一回、第1金曜日は名古屋でオフライン開催します！&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;「アクセシビリティって大切そうだけど、何から始めればいい？」
 「他の人はどうやってチェックしているの？」
@@ -2594,6 +2506,7 @@ Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライ
 &lt;li&gt;匂いのつく食べ物は持ち込まないようお願いします&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;p&gt;※ トーク順は仮のもので、変更になる可能性があります。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2615,28 +2528,28 @@ Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライ
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 1&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;(TBD)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;分割40%キーボードにスムーズに入門するには&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/hoto17296" rel="nofollow"&gt;@hoto17296&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 2&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;(TBD)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;親指どう使ってる？&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/kotmyn" rel="nofollow"&gt;@kotmyn&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 3&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;(TBD)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;KeyballとAMLに求めた操作感&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/jun3010me" rel="nofollow"&gt;@jun3010me&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:55&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 4&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;(TBD)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ぼくのかんがえたさいきょうのCAD対応薄型キーボードを作った話&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/tftfktkt" rel="nofollow"&gt;@tftfktkt&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;20:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT 5&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;(TBD)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;CludeCodeで0からキーボードを作る&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/asashin227" rel="nofollow"&gt;@asashin227&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;20:25&lt;/td&gt;
@@ -2659,7 +2572,7 @@ Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライ
 &lt;li&gt;破損・紛失・盗難といったトラブルに関して運営は責任を負いかねます&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://keyboard-meetup-nagoya.connpass.com/event/399234/</guid><enclosure url="https://media.connpass.com/thumbs/30/f3/30f3798a2676b9f729de4e962ec73029.png" length="0" type="image/png"/><pubDate>Thu, 09 Jul 2026 17:42:25 +0900</pubDate></item><item><title>No.174 CoderDojo瑞穂 / Mizuho 現地</title><link>https://coderdojo-mizuho.connpass.com/event/398724/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月30日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 瑞穂区社会福祉協議会ボランティアセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市瑞穂区佐渡町３丁目18番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoMizuho&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 瑞穂&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://keyboard-meetup-nagoya.connpass.com/event/399234/</guid><enclosure url="https://media.connpass.com/thumbs/30/f3/30f3798a2676b9f729de4e962ec73029.png" length="0" type="image/png"/><pubDate>Tue, 28 Jul 2026 21:52:10 +0900</pubDate></item><item><title>No.174 CoderDojo瑞穂 / Mizuho 現地</title><link>https://coderdojo-mizuho.connpass.com/event/398724/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月30日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 11:30&lt;/li&gt;&lt;li&gt;📍 会場: 瑞穂区社会福祉協議会ボランティアセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市瑞穂区佐渡町３丁目18番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojoMizuho&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo 瑞穂&lt;/h1&gt;
 &lt;p&gt;愛知県名古屋市瑞穂区で小・中学生を対象にプログラミング道場を定期的に開催します。 子供達の自主性を育むことを目的とし、学校のような授業やカリキュラムなどは用意せず、自分がやりたいこと、作りたいものをメンター（指導者）や仲間と一緒に考えてプログラミングを行います。&lt;/p&gt;
 &lt;h1&gt;持参するもの&lt;/h1&gt;
 &lt;p&gt;ノートパソコン（Wi-Fi接続可能なもの）あるいはタブレット、電源ケーブル、マウス、テキストなど。&lt;/p&gt;
@@ -3410,7 +3323,106 @@ NTTデータで技術開発に従事後、アールスリーインスティテ�
 &lt;p&gt;サポーター参加希望者で、今まで一度も CoderDojo に参加したことがない方は、一度お問合わせください。&lt;/p&gt;
 &lt;p&gt;詳しくは、お問合わせください。&lt;/p&gt;
 &lt;h2&gt;お問い合わせ先&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://coderdojoowari.org/contact" rel="nofollow"&gt;https://coderdojoowari.org/contact&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoowari.connpass.com/event/396620/</guid><enclosure url="https://media.connpass.com/thumbs/e5/52/e552dde54fcf04876bc2b6102d8a8bda.png" length="0" type="image/png"/><pubDate>Sun, 14 Jun 2026 20:01:16 +0900</pubDate></item><item><title>第35回なごやインディゲームもくもく会</title><link>https://indiewarehuman.connpass.com/event/400557/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月20日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月20日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Code Base Nagoya&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディーゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;インディゲームを作っている人のための会&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://coderdojoowari.org/contact" rel="nofollow"&gt;https://coderdojoowari.org/contact&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojoowari.connpass.com/event/396620/</guid><enclosure url="https://media.connpass.com/thumbs/e5/52/e552dde54fcf04876bc2b6102d8a8bda.png" length="0" type="image/png"/><pubDate>Sun, 14 Jun 2026 20:01:16 +0900</pubDate></item><item><title>JOGI HACK 2026</title><link>https://jogiken.connpass.com/event/401694/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 名城大学 天白キャンパス 研究実験棟3 301 Innovation-hub&lt;/li&gt;&lt;li&gt;🏢 住所: 〒468-0073 愛知県名古屋市天白区塩釜口１丁目５０１ (名城大学 研究実験棟3 301)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JOGIHACK&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;中・上級者向けの本格的なハッカソン&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🔥 JOGI HACK 2026 🔥&lt;/h1&gt;
+&lt;h2&gt;なんか最近のハッカソン、モヤモヤしない？&lt;/h2&gt;
+&lt;p&gt;生成AIでちゃちゃっとプロトタイプ作って、見た目だけ整えて発表——それで賞獲れちゃう時代。&lt;/p&gt;
+&lt;p&gt;アイデアは良いけど、それってもう「アイデアソン」じゃない？&lt;/p&gt;
+&lt;p&gt;技術を積み上げてきた人ほど、正当に評価されない。&lt;/p&gt;
+&lt;p&gt;そんな空気を変えたくて、このハッカソンを立ち上げました。&lt;/p&gt;
+&lt;p&gt;生成AIで誰でも簡単にアプリ作れる時代、だからこそ技術を&lt;strong&gt;HACK&lt;/strong&gt;しよう！&lt;/p&gt;
+&lt;h2&gt;そんなあなたに！！！ JOGI HACK！！！&lt;/h2&gt;
+&lt;h5&gt;🏆 複数賞金あり&lt;/h5&gt;
+&lt;h5&gt;👀 審査員はソースコード・アーキテクチャまで確認。フィードバックあり！&lt;/h5&gt;
+&lt;p&gt;見た目だけじゃなく、技術選定・設計・挑戦度・完成度・面白さを総合評価&lt;/p&gt;
+&lt;h5&gt;🎯 参加条件ありの中・上級者向けイベント（詳細は下記参加条件を確認）&lt;/h5&gt;
+&lt;h5&gt;🥐 軽食ありの懇親会&lt;/h5&gt;
+&lt;h2&gt;こんな人におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「アイデア」だけでなく「技術力」で評価されたい&lt;/li&gt;
+&lt;li&gt;自分の技術力の本気を出したい&lt;/li&gt;
+&lt;li&gt;審査員からちゃんとフィードバックが欲しい&lt;/li&gt;
+&lt;li&gt;企業の担当者と直接話せる場が欲しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;見た目だけじゃない、中身で殴り合うハッカソン。
+ぜひみなさんの挑戦をお待ちしています。&lt;/p&gt;
+&lt;h1&gt;協賛企業様（順不同）&lt;/h1&gt;
+&lt;p&gt;Coming soon....&lt;/p&gt;
+&lt;h1&gt;賞&lt;/h1&gt;
+&lt;p&gt;複数賞金あり（詳細は追ってお知らせします）&lt;/p&gt;
+&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;h4&gt;⚠️ 審査の特性上、開発分野は&lt;strong&gt;Webアプリケーションのみ&lt;/strong&gt;とさせていただきます。&lt;/h4&gt;
+&lt;h2&gt;開催スケジュール&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2026/9/19(土)　13:00~14:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;キックオフ（オンライン）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2026/9/19(土) 〜 10/12(月・祝)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;開発期間（終了と同時にコードフリーズ）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2026/10/13(火) 〜 10/16(金)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;企業様による事前評価・発表準備期間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2026/10/17(土)　13:00~20:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;発表会・懇親会（現地）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;コードフリーズ後はソースコード・事前資料の編集は一切禁止&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;コードフリーズ後は、発表資料などを仕上げましょう！&lt;/p&gt;
+&lt;h2&gt;審査基準&lt;/h2&gt;
+&lt;p&gt;以下の観点を総合的に評価します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;技術の相当性&lt;/strong&gt;：実現しようとしたプロダクトに対して、適切な技術選定・実装がなされているか&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;アーキテクチャ・設計の妥当性&lt;/strong&gt;：システム構成・設計の判断が合理的であるか&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技術的な挑戦の度合い&lt;/strong&gt;：難易度の高い技術課題に取り組んでいるか&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;プロダクトの完成度&lt;/strong&gt;：動作・品質・UXとして仕上がっているか&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技術的な面白さ&lt;/strong&gt;：着目点・実装・発想において面白みを感じるか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;コードフリーズ時に、&lt;strong&gt;ソースコード・デプロイURL・評価シート（工夫点や努力した点、注目してほしい点をまとめた資料）&lt;/strong&gt; を提出していただきます。&lt;/p&gt;
+&lt;p&gt;企業様はこれをもとに事前評価を行い、発表会での審査に反映します。&lt;/p&gt;
+&lt;h2&gt;参加条件&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;学生であること&lt;/li&gt;
+&lt;li&gt;規定人数内であること
+(&lt;strong&gt;個人参加可能。&lt;/strong&gt;チームの場合は、1チーム当たり&lt;strong&gt;2~5人&lt;/strong&gt;とします。)&lt;/li&gt;
+&lt;li&gt;メンバーは全員中級者以上。また&lt;strong&gt;上級者1名以上必要&lt;/strong&gt;（詳細は以下を参照）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;中級者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;ハッカソンへの出場経験あり&lt;/li&gt;
+&lt;li&gt;5days 以上のインターン参加経験あり&lt;/li&gt;
+&lt;li&gt;個人開発経験あり&lt;/li&gt;
+&lt;li&gt;その他それに準ずる実績を持つもの（運営による個別審査）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;の&lt;strong&gt;いずれか&lt;/strong&gt;を満たす必要があります。&lt;/p&gt;
+&lt;h4&gt;上級者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;ハッカソン最優秀賞経験あり&lt;/li&gt;
+&lt;li&gt;賞金付きのハッカソン入賞経験あり&lt;/li&gt;
+&lt;li&gt;1ヶ月以上のインターン参加経験あり&lt;/li&gt;
+&lt;li&gt;その他それに準ずる実績を持つもの（運営による個別審査）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;の&lt;strong&gt;いずれか&lt;/strong&gt;を満たす必要があります。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;お問い合わせ&lt;/h1&gt;
+&lt;p&gt;ご質問・ご連絡は下記よりお願いします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;情報技術研究会 公式X(Twitter): &lt;a href="https://x.com/meijo_jogiken" rel="nofollow"&gt;@meijo_jogiken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JOGI HACK運営Eメール: &lt;a href="mailto:jogihack@jogiken.com"&gt;jogihack@jogiken.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jogiken.connpass.com/event/401694/</guid><enclosure url="https://media.connpass.com/thumbs/20/3c/203ce32e2b7d8cc28db80c10609214f1.png" length="0" type="image/png"/><pubDate>Tue, 28 Jul 2026 15:04:51 +0900</pubDate></item><item><title>第35回なごやインディゲームもくもく会</title><link>https://indiewarehuman.connpass.com/event/400557/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月20日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月20日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Code Base Nagoya&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディーゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;インディゲームを作っている人のための会&lt;/h1&gt;
 &lt;p&gt;ゲームエンジンの縛りなし！Unity、Unreal Engine、Godot Engine、その他なんでもOK！&lt;/p&gt;
 &lt;p&gt;本会では各々が目標に向かってもくもく作業します。&lt;/p&gt;
 &lt;p&gt;詰まったら質問やテストプレイなどで協力しあいましょう。&lt;/p&gt;
