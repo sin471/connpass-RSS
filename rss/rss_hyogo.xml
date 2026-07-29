@@ -1,137 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 28 Jul 2026 16:28:37 +0000</lastBuildDate><item><title>#13 AI駆動凡人 - 挽回</title><link>https://ai-driven-bonjin.connpass.com/event/401869/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月29日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月29日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;凡人の、凡人による、凡人のための、AI駆動。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;趣旨&lt;/h1&gt;
-&lt;h2&gt;受動的になにかを聞いて知るというより「毎回2時間ちょっとでそれぞれが作ってみたいものを作ってみる」（あったらいいなを叶える・近づく）という会です。&lt;/h2&gt;
-&lt;h2&gt;もし「作りたいものがない」「なにをしたらいいか分からない」という方は、まずは初回の2時間で「何をしたいのか？」を具体的に言語化するのでもよいです。&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;- それすらも何をしたら良いか分からない場合は claude 101 (https://anthropic.skilljar.com/) や 仕様駆動開発入門(https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7) をすすめていきます
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2&gt;今回のマイテーマ&lt;/h2&gt;
-&lt;h3&gt;「 Fable 亡き後の Opus5. その特徴と使い方。」&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 29 Jul 2026 16:15:49 +0000</lastBuildDate><item><title>【神戸・三宮／初参加歓迎】生成AIで「やってみたい」を形にする実践会｜#13 AI駆動凡人</title><link>https://ai-driven-bonjin.connpass.com/event/401869/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月29日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月29日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区東町115番地1･9･10･11階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動凡人&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;作りたいものが決まっていなくても大丈夫。AIと一緒に「何をしたいか」から始めます。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIに詳しくなくても、作りたいものが決まっていなくても参加できます&lt;/h1&gt;
+&lt;p&gt;この会は、AIについての講義を受ける勉強会ではありません。&lt;/p&gt;
+&lt;p&gt;一人ひとりの「こんなものがあったらいいな」「この面倒を減らしたい」「何か始めたい」を、生成AIと対話しながら2時間ちょっとで一歩前へ進める、各枠4名の小さな実践会です。&lt;/p&gt;
+&lt;p&gt;アプリやツールを作ってもよし、仕事の繰り返し作業を減らしてもよし。まだ何をしたいか分からない方は、最初の2時間を使って「自分は何をしてみたいのか」を言葉にするところから始めても構いません。&lt;/p&gt;
+&lt;p&gt;完成させることより、昨日まで動かなかったことを少し動かすことを大切にしています。エンジニア限定ではありません。一人での初参加も歓迎します。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;今回は先週末の開催をスキップしたことによる平日の挽回編です。通常回と趣旨・内容は変わりません。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;こんな方に向いています&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-opus-5" rel="nofollow"&gt;https://www.anthropic.com/news/claude-opus-5&lt;/a&gt; を読んでみる&lt;/li&gt;
-&lt;li&gt;そろそろやるか、ループエンジニアリング loop engineering&lt;/li&gt;
+&lt;li&gt;AIやLLMがこれから社会の土台になりそうだと感じている&lt;/li&gt;
+&lt;li&gt;何か新しいことを始めたいが、何をすればよいか分からない&lt;/li&gt;
+&lt;li&gt;作ってみたいアプリ、ツール、サービスがある&lt;/li&gt;
+&lt;li&gt;仕事や日常で繰り返している面倒な作業を減らしたい&lt;/li&gt;
+&lt;li&gt;AIを触ってみたものの、実際の使い道がまだ見つかっていない&lt;/li&gt;
+&lt;li&gt;説明を聞くだけでなく、自分で手を動かしながら学びたい&lt;/li&gt;
+&lt;li&gt;エンジニアではないが、AIを使ったものづくりに興味がある&lt;/li&gt;
+&lt;li&gt;一人では止まりがちなことを、誰かと同じ場所で進めたい&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;指定書とは&lt;/h1&gt;
+&lt;p&gt;上手な成果物を発表する会ではありません。途中まででも、うまくいかなくても、その過程を次の一歩につなげられれば十分です。&lt;/p&gt;
+&lt;h2&gt;2つの参加スタイル&lt;/h2&gt;
+&lt;h3&gt;一緒にテーマを整理する｜1,500円・会場払い・先着4名&lt;/h3&gt;
+&lt;p&gt;「課題が何か分からない」「作りたいものがまだ決まっていない」という方向けです。&lt;/p&gt;
+&lt;p&gt;今困っていること、気になっていること、やってみたいことを一緒に整理し、最初の一歩を決めながら進めます。必要に応じて、&lt;a href="https://anthropic.skilljar.com/" rel="nofollow"&gt;Claude 101&lt;/a&gt;や&lt;a href="https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7" rel="nofollow"&gt;仕様駆動開発入門&lt;/a&gt;など、現在地に合った入口も案内します。&lt;/p&gt;
+&lt;p&gt;個別の制作代行や完成保証をする枠ではありません。自分のテーマを見つけ、自分で進められる状態に近づくための相談・伴走枠です。&lt;/p&gt;
+&lt;h3&gt;自分のテーマでもくもく進める｜500円・会場払い・先着4名&lt;/h3&gt;
+&lt;p&gt;すでに取り組みたい課題や作りたいものがある方向けです。&lt;/p&gt;
+&lt;p&gt;各自のテーマを自分のペースで進めます。基本は自走形式ですが、同じ場所で作業し、必要に応じて軽く相談したり、最後に途中経過を共有したりできます。&lt;/p&gt;
+&lt;p&gt;「完成させる」必要はありません。調査、設計、試作、既存作業の改善など、その日に進めたいところから始めてください。&lt;/p&gt;
+&lt;h2&gt;たとえば、こんなことに取り組めます&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;目標設定は自分がで行うことが行えることが基本です。分からない人は読むことをおすすめします。&lt;/p&gt;
+&lt;li&gt;仕事で繰り返している退屈な作業を減らす&lt;/li&gt;
+&lt;li&gt;自分用の小さなアプリや便利ツールを試作する&lt;/li&gt;
+&lt;li&gt;SEOのキーワード取得や順位変動を見るツールを考える&lt;/li&gt;
+&lt;li&gt;体育館の空き状況を確認しやすくする&lt;/li&gt;
+&lt;li&gt;空き状況の確認から予約までを便利にする&lt;/li&gt;
+&lt;li&gt;まだ形になっていない「何かしたい」を具体的な言葉にする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;「イシューからはじめよ」 &lt;a href="https://amzn.asia/d/02kzvdQU" rel="nofollow"&gt;https://amzn.asia/d/02kzvdQU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17:30　開場・PCなどのセットアップ&lt;/li&gt;
+&lt;li&gt;18:00　はじめに・今日取り組むことを共有&lt;/li&gt;
+&lt;li&gt;18:15　実践開始&lt;/li&gt;
+&lt;li&gt;20:15　実践終了・できたものや途中経過を見ながら雑談&lt;/li&gt;
+&lt;li&gt;20:30　おわりに&lt;/li&gt;
+&lt;li&gt;20:45　撤収&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;著者の主張雑感&lt;/p&gt;
+&lt;p&gt;実践時間は、参加者それぞれが別のテーマに取り組みます。全員で同じ教材を進める講義形式ではありません。&lt;/p&gt;
+&lt;h2&gt;参加に必要なもの&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G" rel="nofollow"&gt;https://youtu.be/Vf6nD3KL3T0?si=nKak73lfzSB47k4G&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5" rel="nofollow"&gt;https://youtu.be/lO3J-jrc1ro?si=FJ2Vl27zJ1b5-Rv5&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HEZW_GbY0Ig" rel="nofollow"&gt;https://www.youtube.com/watch?v=HEZW_GbY0Ig&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E" rel="nofollow"&gt;https://youtu.be/G6ypXVO_Fm0?si=ExRCrEErW0tq4R0E&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;日本語、英語、中国語など、何らかの自然言語でAIと対話できること&lt;/li&gt;
+&lt;li&gt;ノートパソコンと電源アダプター&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;参加条件&lt;/h1&gt;
+&lt;p&gt;iPadとキーボードでも取り組める可能性はありますが、ノートパソコンを推奨します。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://chatgpt.com/codex?app-landing-page=true" rel="nofollow"&gt;Codex App&lt;/a&gt;を事前にインストールしておくとスムーズです。Google系サービスを中心に扱いますが、使い慣れた別のAIツールやサービスを使用しても構いません。&lt;/p&gt;
+&lt;p&gt;機密情報、個人情報、社外秘データは使用しないでください。必要な場合は、内容を架空のものに置き換えて取り組んでください。&lt;/p&gt;
+&lt;h2&gt;今回の主催者テーマ&lt;/h2&gt;
+&lt;h3&gt;Fable亡き後のOpus 5およびKimi K3、その特徴と使い方&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;何かしらの自然言語が喋れる（英語、日本語、中国語...）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-opus-5" rel="nofollow"&gt;Claude Opus 5の情報を読んでみる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ループエンジニアリング（loop engineering）に取り組む&lt;/li&gt;
+&lt;li&gt;指示や仕様をどう言語化し、目標を設定するかを考える&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;del&gt;* Google アカウントを持っている＆共有できる&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;目標設定やイシューの考え方に興味がある方には「イシューからはじめよ」なども参考になります。&lt;/p&gt;
+&lt;h2&gt;FAQ&lt;/h2&gt;
+&lt;h3&gt;AIやプログラミングの初心者でも参加できますか？&lt;/h3&gt;
+&lt;p&gt;はい。プログラミング経験は必須ではありません。AIと自然言語で対話しながら進めます。何から始めればよいか分からない場合は「一緒にテーマを整理する」枠を選んでください。&lt;/p&gt;
+&lt;h3&gt;作りたいものがまったく決まっていません&lt;/h3&gt;
+&lt;p&gt;問題ありません。最初の2時間を使って、日常や仕事の中にある不便、興味、やってみたいことを整理するだけでも十分です。&lt;/p&gt;
+&lt;h3&gt;講義やセミナーはありますか？&lt;/h3&gt;
+&lt;p&gt;全員で同じ内容を聞く長い講義はありません。必要な説明を行った後、各自のテーマに取り組む実践中心の会です。&lt;/p&gt;
+&lt;h3&gt;2時間で完成させる必要がありますか？&lt;/h3&gt;
+&lt;p&gt;ありません。完成ではなく、課題を言葉にする、調べる、試作品を作る、次にやることを決めるなど、一歩進めることを目指します。&lt;/p&gt;
+&lt;h3&gt;どちらの枠を選べばよいですか？&lt;/h3&gt;
+&lt;p&gt;テーマが決まっていない、進め方から相談したい場合は「一緒にテーマを整理する」。すでに課題やテーマがあり、自分で進めたい場合は「自分のテーマでもくもく進める」がおすすめです。&lt;/p&gt;
+&lt;h3&gt;一人で参加しても大丈夫ですか？&lt;/h3&gt;
+&lt;p&gt;はい。一人での初参加を歓迎します。各枠4名の少人数制なので、大人数の交流会が苦手な方も自分の作業に集中できます。&lt;/p&gt;
+&lt;h3&gt;料金はいつ支払いますか？&lt;/h3&gt;
+&lt;p&gt;当日の会場払いです。&lt;/p&gt;
+&lt;h2&gt;参考情報（事前学習は必須ではありません）&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;ノートパソコンを持参できる（iapd + keyboard でもいいかも...）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://chatgpt.com/codex?app-landing-page=true" rel="nofollow"&gt;https://chatgpt.com/codex?app-landing-page=true&lt;/a&gt; を事前インストールしていると好ましい&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://codelabs.developers.google.com/codelabs/getting-started-with-spec-driven-development-in-antigravity?hl=ja#7" rel="nofollow"&gt;仕様駆動開発入門&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developers.openai.com/codex/use-cases/follow-goals" rel="nofollow"&gt;Codex Goals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ml-explore/mlx-swift/" rel="nofollow"&gt;mlx-swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/raullenchai/Rapid-MLX" rel="nofollow"&gt;Rapid-MLX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jundot/omlx/" rel="nofollow"&gt;oMLX&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;del&gt;https://antigravity.google/ を事前インストールしていると好ましい&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;antigravity が難しいと判断した人は &lt;a href="https://aistudio.google.com/" rel="nofollow"&gt;https://aistudio.google.com/&lt;/a&gt; を使ってバイブコーディングにトライしましょう&lt;/del&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;なんとなく作ってみたいアプリ・ツール・サービス...etc がある&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;新しく作ることはハードルが高いので、今あなたの目の前（頭の中）の課題を潰す＝余裕時間を作るということも大切です&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;仕事などで繰り返し発生する退屈な作業潰しでもよいかも&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;全体として Google系サービスを中心に使用しますが、他のツールやサービスもおおよそ使っているので、各個人お好みのものをお使いください&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
-&lt;p&gt;17:30 開場(セットアップ)&lt;/p&gt;
-&lt;p&gt;18:00 はじめに&lt;/p&gt;
-&lt;p&gt;18:15 実装開始 &lt;/p&gt;
-&lt;p&gt;20:15 実装終了・生成物で雑談&lt;/p&gt;
-&lt;p&gt;20:30 おわりに&lt;/p&gt;
-&lt;p&gt;20:45 撤収&lt;/p&gt;
-&lt;h1&gt;最近のAI界隈の情報など・予備知識動画&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;https://labs.google/flow/tv/channel/listen-closely/QpjaV7vriVb25FoypAZd?random=true  &lt;/li&gt;
-&lt;li&gt;https://labs.google/fx/ja/tools/whisk/[...catchAll]  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.com/YamayaT/status/2024001469934895481" rel="nofollow"&gt;https://x.com/YamayaT/status/2024001469934895481&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF" rel="nofollow"&gt;https://youtu.be/Rp4zJr2c_tc?si=DL8uUp7w_d6qlZCF&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.com/Algomatic_AILab/status/2023685630405103627" rel="nofollow"&gt;https://x.com/Algomatic_AILab/status/2023685630405103627&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://x.com/tkzwgrs/status/2014163608121585807" rel="nofollow"&gt;https://x.com/tkzwgrs/status/2014163608121585807&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;キーワード&lt;/h1&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google Gemini App / Live
-Google Stitch
-Google Jules
-Google Antigravity
-Google AI Studio
-Firebase Studio
-Gemini CLI
----
-Google Workspace Studio
-Google Vids
-NotebookLM
-Project Opal
-Flow
-Whisk
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2&gt;codex app server&lt;/h2&gt;
-&lt;p&gt;openclaw
-nemoclaw
-moltbook
-rentahuman&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;superpowers
-conductor
-sisyphus
-everything-claude-code&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;symphony&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/ml-explore/mlx-swift/" rel="nofollow"&gt;https://github.com/ml-explore/mlx-swift/&lt;/a&gt;
-&lt;a href="https://github.com/raullenchai/Rapid-MLX" rel="nofollow"&gt;https://github.com/raullenchai/Rapid-MLX&lt;/a&gt;
-&lt;a href="https://github.com/jundot/omlx/" rel="nofollow"&gt;https://github.com/jundot/omlx/&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;codex goal &lt;/li&gt;
-&lt;li&gt;claude goal&lt;/li&gt;
-&lt;li&gt;hermes goal&lt;/li&gt;
-&lt;li&gt;ラルフループとの違いとは。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developers.openai.com/codex/use-cases/follow-goals" rel="nofollow"&gt;https://developers.openai.com/codex/use-cases/follow-goals&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;#仕様駆動開発 #gemma4 #dflash #mlx #omlx #gemini3.5 #fable5 #codex5.6 #gpt5.6 sol, terra, luna  #fable5 #mythos&lt;/p&gt;
-&lt;h1&gt;架空のお題&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;SEOツールを作ろう -&amp;gt; キーワード取得やランキング変動やら&lt;/li&gt;
-&lt;li&gt;体育館空き状況 確認便利ツールを作ろう&lt;/li&gt;
-&lt;li&gt;自動予約もできるようにしよう&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-driven-bonjin.connpass.com/event/401869/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Mon, 27 Jul 2026 14:34:19 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #13】夏を乗り切る！LT会</title><link>https://jawsug-kobe.connpass.com/event/399445/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1112）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;キーワード：Google Gemini、Google AI Studio、Firebase Studio、Gemini CLI、NotebookLM、Project Opal、Flow、Whisk、Codex、仕様駆動開発、MLX、oMLX、ループエンジニアリング&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ai-driven-bonjin.connpass.com/event/401869/</guid><enclosure url="https://media.connpass.com/thumbs/9f/9d/9f9d7fdb43bffc5620308706a1aac408.png" length="0" type="image/png"/><pubDate>Wed, 29 Jul 2026 23:21:01 +0900</pubDate></item><item><title>【JAWS-UG 神戸 #13】夏を乗り切る！LT会</title><link>https://jawsug-kobe.connpass.com/event/399445/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年7月30日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年7月30日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1112）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;今は涼しいですが、もうすぐ暑い夏がやってきます。&lt;br&gt;
 今回はそんな夏を乗り切れるようなLT会を開催します！&lt;br&gt;
 （いつも通りのAWSのことならなんでもOKのLT会です）&lt;br&gt;
@@ -1385,7 +1340,30 @@ AIを活用したイノベーションを推進するハブ&lt;/strong&gt;とし
 &lt;td&gt;完全撤収&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kazamori.connpass.com/event/400323/</guid><enclosure url="https://media.connpass.com/thumbs/ab/c8/abc8755374ef6f236cbdffeff01b9e5d.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 16:46:58 +0900</pubDate></item><item><title>CoderDojo姫路 メンター募集！</title><link>https://coderdojo-himeji.connpass.com/event/395394/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2099年1月1日(木) 0:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2099年1月1日(木) 0:00&lt;/li&gt;&lt;li&gt;📍 会場: 姫路市市民会館&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県姫路市総社本町１１２&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo姫路&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;開催日時・募集期間はダミーです。メンターは随時募集しています。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;☯️ CoderDojo とは?&lt;/h2&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kazamori.connpass.com/event/400323/</guid><enclosure url="https://media.connpass.com/thumbs/ab/c8/abc8755374ef6f236cbdffeff01b9e5d.png" length="0" type="image/png"/><pubDate>Sat, 11 Jul 2026 16:46:58 +0900</pubDate></item><item><title>日曜もくもく自習の会</title><link>https://math-coding.connpass.com/event/402080/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月27日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月27日(日) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: DEP.(三星ビル4階南室)&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市中央区三宮町3-1-16(三星ビル４F南室)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#16&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;日曜もくもく自習の会とは？&lt;/strong&gt;&lt;br&gt;
+みなが自習したいことをもちより自習をする会です。静かに集中して自習をします。  &lt;br&gt;
+初めての方、歓迎します。      &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;こんな方におすすめ&lt;/strong&gt;  &lt;br&gt;
+もくもく自習したいのと一緒に学ぶ仲間がほしい。少し情報交換したい。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ホスト&lt;/strong&gt;&lt;br&gt;
+Kitamura Tomokazu&lt;br&gt;
+Math &amp;amp; Codingの主催をしています。&lt;br&gt;
+皆で集まったほうが集中できるので、イベントを立ち上げてみました。 &lt;br&gt;
+有意義な時間になればよいなと思います。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;もちもの&lt;/strong&gt;&lt;br&gt;
+本やPCやノートなど、もくもくに必要なもの  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;飲食&lt;/strong&gt;&lt;br&gt;
+飲食物は持ち込みOKです（アルコール不可)。    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;■設備&lt;/strong&gt;&lt;br&gt;
+電源,Wi-Fi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;タイムテーブル&lt;/strong&gt;&lt;br&gt;
+時間 内容&lt;br&gt;
+13:30 - 16:30 もくもく作業  &lt;br&gt;
+最初に自己紹介、最後に今日やったことを分かち合う時間をもちます。   &lt;/p&gt;
+&lt;p&gt;■諸注意&lt;br&gt;
+会場は禁煙です。&lt;br&gt;
+キャンセルされる場合は、必ずConnpass上でキャンセル処理をお願いいたします。  &lt;/p&gt;
+&lt;p&gt;どうぞお気軽にご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://math-coding.connpass.com/event/402080/</guid><enclosure url="https://media.connpass.com/thumbs/47/9d/479d02cda3d580eedcc800a90ffa2c3e.png" length="0" type="image/png"/><pubDate>Wed, 29 Jul 2026 08:05:28 +0900</pubDate></item><item><title>CoderDojo姫路 メンター募集！</title><link>https://coderdojo-himeji.connpass.com/event/395394/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2099年1月1日(木) 0:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2099年1月1日(木) 0:00&lt;/li&gt;&lt;li&gt;📍 会場: 姫路市市民会館&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県姫路市総社本町１１２&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo姫路&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;開催日時・募集期間はダミーです。メンターは随時募集しています。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;☯️ CoderDojo とは?&lt;/h2&gt;
 &lt;p&gt;CoderDojoは、子どものためのプログラミング道場です。2011年にアイルランドから始まった国際的な非営利活動で、日本には207以上の道場があります。全国各地で毎年1,200回以上開催され、年間7,000人以上の子ども達が楽しみながら様々な作品を創っています。&lt;/p&gt;
 &lt;p&gt;各 Dojo は、チャンピオンやメンターと呼ばれる協力者によって自主的に運営されています。プログラマーやデザイナーだけでなく、学生や教員、アーティストやフリーランス、起業家や投資家などの方々が分野横断的に協力しあって、それぞれの Dojo が継続的に運営されています。もちろん、参加者自身や参加者の親が運営に協力する事例も多いです。&lt;/p&gt;
 &lt;h2&gt;CoderDojo姫路について&lt;/h2&gt;

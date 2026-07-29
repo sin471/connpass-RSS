@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 28 Jul 2026 16:28:27 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十八回 2026/8/16</title><link>https://connpass.com/event/392700/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月16日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月16日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岐阜のイベント</title><link>https://connpass.com/explore/</link><description>岐阜のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岐阜のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 29 Jul 2026 16:15:38 +0000</lastBuildDate><item><title>岐阜AI勉強会 第十八回 2026/8/16</title><link>https://connpass.com/event/392700/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月16日(日) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月16日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23 （ＪＲ岐阜駅東）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;下記の日程でAI、プログラミング、IT技術に関する勉強会を開催する予定です。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日時：2026/8/16(日) 14:30 - 16:00&lt;/li&gt;
 &lt;li&gt;場所：岐阜生涯学習センター（ハートフルスクエアG）小研修室2&lt;/li&gt;
@@ -18,8 +18,14 @@
 &lt;p&gt;ローカル環境での Coding Agent の利用をテーマにした下記の記事を追う予定です。(こちらは私のほうで準備する内容で、参加される方のほうで用意される場合は、テーマはどのようなテーマでも構いません。)&lt;/p&gt;
 &lt;h3&gt;ローカル環境での Coding Agent の利用について&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Using Local Coding Agents&lt;br&gt;
-&lt;a href="https://magazine.sebastianraschka.com/p/using-local-coding-agents" rel="nofollow"&gt;https://magazine.sebastianraschka.com/p/using-local-coding-agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using Local Coding Agents&lt;br&gt;
+&lt;a href="https://magazine.sebastianraschka.com/p/using-local-coding-agents" rel="nofollow"&gt;https://magazine.sebastianraschka.com/p/using-local-coding-agents&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上記の記事を参考に私のほうでも Qwen-Code をローカル環境で実行できるようにし、下記のブログに環境構築手順をまとめました。上記の記事と異なり、Docker を使用しました。また、4GB の VRAM しか持たない GPU (NVIDIA GeForce GTX 1650) で動作させました。&lt;br&gt;
+&lt;a href="https://www.leafwindow.com/run-qwen-code-locally/" rel="nofollow"&gt;https://www.leafwindow.com/run-qwen-code-locally/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;これまでに扱ったテーマ等&lt;/h3&gt;
 &lt;h4&gt;Reasoning LLMs について&lt;/h4&gt;
@@ -112,7 +118,7 @@
 &lt;br&gt;
 &lt;a href="https://connpass.com/event/395865/" rel="nofollow"&gt;https://connpass.com/event/395865/&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="https://connpass.com/event/399184/" rel="nofollow"&gt;https://connpass.com/event/399184/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/392700/</guid><enclosure url="https://media.connpass.com/thumbs/ca/33/ca330650fab6be7eb23e54e4420cb94c.png" length="0" type="image/png"/><pubDate>Mon, 27 Jul 2026 11:51:22 +0900</pubDate></item><item><title>第８７回オープンＣＡＥ勉強会岐阜</title><link>https://ocbgifu.connpass.com/event/393484/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜市生涯学習センター：小研修室２&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;復活後１５回目です！【小研修室１２名です】&lt;/p&gt;</description><guid isPermaLink="false">https://ocbgifu.connpass.com/event/393484/</guid><enclosure url="https://media.connpass.com/thumbs/d0/9b/d09b49869d818c5dfb58245d2768c8d1.png" length="0" type="image/png"/><pubDate>Mon, 11 May 2026 07:26:51 +0900</pubDate></item><item><title>第6回NeTS in 高山 supported by ChuNOG#8</title><link>https://u29.connpass.com/event/397114/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月26日(水) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月26日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 高山市民文化会館 2階 2-3&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜県高山市昭和町1-188-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;U29 × NeTS イベント案内&lt;/h1&gt;
+&lt;a href="https://connpass.com/event/399184/" rel="nofollow"&gt;https://connpass.com/event/399184/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/392700/</guid><enclosure url="https://media.connpass.com/thumbs/ca/33/ca330650fab6be7eb23e54e4420cb94c.png" length="0" type="image/png"/><pubDate>Wed, 29 Jul 2026 17:47:45 +0900</pubDate></item><item><title>第８７回オープンＣＡＥ勉強会岐阜</title><link>https://ocbgifu.connpass.com/event/393484/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岐阜市生涯学習センター：小研修室２&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜市橋本町1丁目10番地23&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;復活後１５回目です！【小研修室１２名です】&lt;/p&gt;</description><guid isPermaLink="false">https://ocbgifu.connpass.com/event/393484/</guid><enclosure url="https://media.connpass.com/thumbs/d0/9b/d09b49869d818c5dfb58245d2768c8d1.png" length="0" type="image/png"/><pubDate>Mon, 11 May 2026 07:26:51 +0900</pubDate></item><item><title>第6回NeTS in 高山 supported by ChuNOG#8</title><link>https://u29.connpass.com/event/397114/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月26日(水) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月26日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 高山市民文化会館 2階 2-3&lt;/li&gt;&lt;li&gt;🏢 住所: 岐阜県高山市昭和町1-188-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;U29 × NeTS イベント案内&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h1&gt;U29とは&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;U29&lt;/strong&gt;（読み方：ユニーク）は、ネットワークが&lt;/p&gt;
