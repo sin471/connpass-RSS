@@ -1,71 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 01 Aug 2026 15:53:04 +0000</lastBuildDate><item><title>CoderDojo仙台若林#67</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/401773/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月2日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月2日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 若林区中央市民センター（別棟）&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市若林区保春院前丁3番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;項目&lt;/th&gt;
-&lt;th&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;日付&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;時間&lt;/td&gt;
-&lt;td&gt;(受付開始 1５分前より)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;会場&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;住所&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;アクセス&lt;/td&gt;
-&lt;td&gt;若林区中央市民センター、七郷市民センター：駐車場あり。荒町市民センター：2台のみ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;参加方法&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Connpassから参加登録してください。（先着順）&lt;/li&gt;
-&lt;li&gt;前日夜までに申し込んでください。&lt;/li&gt;
-&lt;li&gt;※兄弟姉妹で参加の場合は２回参加登録してください。&lt;/li&gt;
-&lt;li&gt;※小学生は原則保護者の方同伴でご参加ください。&lt;/li&gt;
-&lt;li&gt;参加できない場合は、キャンセルをして枠を開放してください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;持ち物&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;書籍（試してみたいもの、CoderDojo開始前の図書館がおすすめ）&lt;/li&gt;
-&lt;li&gt;Scratchが動作するノートパソコン&lt;/li&gt;
-&lt;li&gt;マイクラの場合は、Education版が動作するノートパソコン&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;CoderDojo仙台若林&lt;/h3&gt;
-&lt;p&gt;CoderDojo仙台若林は 2024年3月から活動を開始しました。
-マインクラフトカップの参加などしています。&lt;/p&gt;
-&lt;h3&gt;CoderDojo仙台若林で学べること&lt;/h3&gt;
-&lt;p&gt;CoderDojo仙台若林では7〜17歳の子どもを対象に下記の内容を行います。
-※小１，小２の方は事前にお問い合わせよりご相談ください。&lt;/p&gt;
-&lt;p&gt;Minecraft：マイクラでプログラミング技術を強化しよう！
-Scratch: 初めて参加の方には、一緒に学ぶチュートリアルを行います。その後自由にプログラミングできます。
-もくもく：仲間と一緒に好きなプログラミングをすることができます。（マイクラでも）
-発表：その日作ったことやできたことをみんなに紹介します。&lt;/p&gt;
-&lt;h3&gt;ガジェット分科会について&lt;/h3&gt;
-&lt;p&gt;電子工作でガジェットを仕上げていく、ガジェット分科会です。
-ご自身がお持ちのパーツやチップの素材の性能を引き出して、ものを作って自慢します。&lt;/p&gt;
-&lt;h2&gt;ボランティア、メンターを募集しています。&lt;/h2&gt;
-&lt;p&gt;メンターは、疑問点を一緒に解決したり、プログラミングによるものづくりの進め方などをアドバイスしてくれるボランティアの人たちです。
-メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）PCをご持参ください。&lt;/p&gt;
-&lt;h2&gt;寄付のお願いについて&lt;/h2&gt;
-&lt;p&gt;施設利用料、通信費、サーバ代などの費用について保護者の皆様からの寄付を募っております。
-  賛同いただける方は、部屋に設置の募金箱にこっそり入れてください。&lt;/p&gt;
-&lt;h2&gt;免責事項&lt;/h2&gt;
-&lt;p&gt;CoderDojo仙台若林の活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、
-CoderDojo仙台若林は一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-sendai-wakabayashi.connpass.com/event/401773/</guid><enclosure url="https://media.connpass.com/thumbs/46/2e/462ef1b48c7c5678dd14c9796ce7c226.png" length="0" type="image/png"/><pubDate>Sun, 26 Jul 2026 11:14:25 +0900</pubDate></item><item><title>【YANS2026】8/18(火)12:00~フューチャー株式会社 ランチ懇親会（学生・社会人歓迎）</title><link>https://future.connpass.com/event/401523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月18日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月18日(火) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: TKP仙台青葉通カンファレンスセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県 仙台市青葉区 一番町2-4-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;■ 本イベントについて&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 02 Aug 2026 15:53:39 +0000</lastBuildDate><item><title>【YANS2026】8/18(火)12:00~フューチャー株式会社 ランチ懇親会（学生・社会人歓迎）</title><link>https://future.connpass.com/event/401523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月18日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月18日(火) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: TKP仙台青葉通カンファレンスセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県 仙台市青葉区 一番町2-4-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;■ 本イベントについて&lt;/h1&gt;
 &lt;p&gt;YANS2026にご参加される学生・社会人の皆様に向けて、学会のお昼休みに合わせた&lt;strong&gt;「ランチ懇親会」&lt;/strong&gt;を開催いたします。 
 当日はお弁当をご用意しておりますので、学会の合間の息抜きや、参加者同士の交流の場としてぜひお気軽にご参加ください。&lt;/p&gt;
 &lt;h2&gt;■ 概要&lt;/h2&gt;
@@ -274,7 +208,35 @@ t.tanaka.rv@future.co.jp&lt;/p&gt;
 &lt;p&gt;Go公式サイトの&lt;a href="https://golang.org/conduct" rel="nofollow"&gt;Code of Conduct&lt;/a&gt;に準拠します。&lt;/p&gt;
 &lt;h2&gt;その他&lt;/h2&gt;
 &lt;p&gt;オリジナルのGopherはRenée Frenchによってデザインされ、&lt;a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="nofollow"&gt;CC BY 3.0ライセンス&lt;/a&gt;が適用されています。&lt;/p&gt;
-&lt;p&gt;ヘッダに使用しているGopherは、Takuya Ueda (&lt;a href="https://twitter.com/tenntenn" rel="nofollow"&gt;https://twitter.com/tenntenn&lt;/a&gt;) さんにデザインいただき、&lt;a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="nofollow"&gt;CC BY 3.0ライセンス&lt;/a&gt;が適用されています&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendaigo.connpass.com/event/400116/</guid><enclosure url="https://media.connpass.com/thumbs/cf/fd/cffdc2f737a72177da4c2751f53f4d4a.png" length="0" type="image/png"/><pubDate>Mon, 13 Jul 2026 16:32:25 +0900</pubDate></item><item><title>サルでもわかるプランクトンのキモチ Revenge</title><link>https://minamimachi.connpass.com/event/400699/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月21日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月21日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町２丁目２−８ IKIビル10F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;講師都合で延期になったイベントのリベンジです&lt;/h1&gt;
+&lt;p&gt;ヘッダに使用しているGopherは、Takuya Ueda (&lt;a href="https://twitter.com/tenntenn" rel="nofollow"&gt;https://twitter.com/tenntenn&lt;/a&gt;) さんにデザインいただき、&lt;a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="nofollow"&gt;CC BY 3.0ライセンス&lt;/a&gt;が適用されています&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendaigo.connpass.com/event/400116/</guid><enclosure url="https://media.connpass.com/thumbs/cf/fd/cffdc2f737a72177da4c2751f53f4d4a.png" length="0" type="image/png"/><pubDate>Mon, 13 Jul 2026 16:32:25 +0900</pubDate></item><item><title>ZUNDA-ITプレゼンツ ITニュース クイズ大会！</title><link>https://zunda-it.connpass.com/event/402143/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月20日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月20日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Microsoft Base Sendai&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区大町1丁目1番30号 新仙台ビルディング4階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ITニュース クイズ大会&lt;/h1&gt;
+&lt;p&gt;生成AIで作られたニュース画像を見て、「どのニュースのことだろう？」をみんなで当てるクイズ大会です！&lt;/p&gt;
+&lt;p&gt;最近（おおむね1年以内）のITニュースを題材に、参加者それぞれが1問ずつクイズを考えます。もちろん、問題を考えずに参加するだけでも大歓迎です。&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時：8月20日 19:00〜&lt;/li&gt;
+&lt;li&gt;会場：Sendai Microsoft Base&lt;/li&gt;
+&lt;li&gt;参加費：500円（軽食代）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;生成AIにITニュースをもとにした画像を作ってもらい、その画像だけをヒントにニュースの内容を当てます。&lt;/p&gt;
+&lt;p&gt;「この画像は、あの発表のこと？」「最近そんなニュースあったな……」と、参加者同士でわいわい考えながら楽しむ会です。生成AI、クラウド、スマホ、セキュリティ、ゲーム、宇宙、プログラミングなど、題材は自由です。&lt;/p&gt;
+&lt;h2&gt;例&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HOYZh10aYAADHzJ?format=jpg&amp;amp;name=large" width="500"&gt;&lt;br&gt;
+ヒント１：2026年7月の記事です &lt;br&gt;
+ヒント２：キオクシア  &lt;br&gt;
+正解：「キオクシア株、1カ月で7割弱下落　半導体スーパーサイクル論が後退」&lt;br&gt;
+&lt;a href="https://www.nikkei.com/article/DGXZQOUB28ASK0Y6A720C2000000/" rel="nofollow"&gt;https://www.nikkei.com/article/DGXZQOUB28ASK0Y6A720C2000000/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;問題を作る方へ&lt;/h2&gt;
+&lt;p&gt;クイズの申請・連絡は、ZUNDA-IT Discordからお願いします。&lt;br&gt;
+&lt;a href="https://discord.gg/ABQ3Xk4kNZ" rel="nofollow"&gt;Discordに参加する&lt;/a&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;最近およそ1年以内のITニュースを1つ選んでください&lt;/li&gt;
+&lt;li&gt;そのニュースを連想できる画像を生成AIで作ってください&lt;/li&gt;
+&lt;li&gt;当日は画像を見せて、参加者にニュースを当ててもらいます&lt;/li&gt;
+&lt;li&gt;正解やニュースの背景を簡単に紹介してもらえると盛り上がります&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;問題作成は任意です。「クイズに答えるだけ」「ほかの人の問題を楽しむだけ」の参加も歓迎です！&lt;/p&gt;
+&lt;p&gt;ITニュースを追っている方も、普段はあまり見ない方も、気軽にご参加ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/402143/</guid><enclosure url="https://media.connpass.com/thumbs/d6/f1/d6f164576ebf412a88526a7df3e17728.png" length="0" type="image/png"/><pubDate>Sun, 02 Aug 2026 23:09:05 +0900</pubDate></item><item><title>サルでもわかるプランクトンのキモチ Revenge</title><link>https://minamimachi.connpass.com/event/400699/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月21日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月21日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町２丁目２−８ IKIビル10F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;講師都合で延期になったイベントのリベンジです&lt;/h1&gt;
 &lt;h3&gt;イベント概要&lt;/h3&gt;
 &lt;p&gt;あの「中性子のキモチ」から続く、大好評（？）シリーズ第2弾！&lt;/p&gt;
 &lt;p&gt;南町通りイカ研究所デベロッパー部がお送りする今回のテーマは、なんと「プランクトンのキモチ」です。&lt;/p&gt;
