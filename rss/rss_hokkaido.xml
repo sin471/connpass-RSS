@@ -1,42 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 08 Aug 2026 15:20:05 +0000</lastBuildDate><item><title>AlibabaMeetupSapporo</title><link>https://aiau.connpass.com/event/400273/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月8日(土) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月8日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド㈱ 札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒060-0003 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AlibabaMeetupSapporo&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベントの趣旨・目的&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://www.alibabacloud.com/ja" rel="nofollow"&gt;AlibabaCloud&lt;/a&gt;は、強力な言語モデル「Qwen」やクラウド基盤の提供にとどまらず、テキスト・画像・動画・音声に至るまで、あらゆる表現を可能にする最先端の生成AIエコシステムを展開しています。&lt;/p&gt;
-&lt;p&gt;現在、これらの技術はシステム開発の枠を超え、高精度な動画生成（HappyHorse、Wan）、画像生成（Qwen-Image）、さらに最新の音声認識や音声合成・変換（FunASR、Qwen-TTS/VC）など、クリエイティブ制作やビジネス企画の現場でも次々と新しいユースケースを生み出しています。&lt;/p&gt;
-&lt;p&gt;本イベントでは、多岐にわたるAlibabaの多彩なAIモデルのポテンシャルと、実践的な活用事例をご紹介します。エンジニアによる技術的な深掘りはもちろん、クリエイター、デザイナー、マーケター、新規事業担当の方まで、明日からの業務や創作活動にすぐ取り入れたくなるようなインスピレーションをお届けします。&lt;/p&gt;
-&lt;p&gt;懇親会では、職種や分野の垣根を越えて、テクノロジーと未来の可能性について参加者同士でワイワイ情報交換できる場をご用意しています。ぜひお気軽にご参加ください！&lt;/p&gt;
-&lt;h1&gt;タイムテーブル&lt;/h1&gt;
-&lt;p&gt;​16:00 開始・開始の挨拶&lt;/p&gt;
-&lt;p&gt;​16:15 LT1 &lt;/p&gt;
-&lt;p&gt;​16:25 LT2&lt;/p&gt;
-&lt;p&gt;​16:35 LT3&lt;/p&gt;
-&lt;p&gt;​16:45 LT4&lt;/p&gt;
-&lt;p&gt;​16:55 LT5&lt;/p&gt;
-&lt;p&gt;​17:05 休憩&lt;/p&gt;
-&lt;p&gt;​17:20 Alibabaセッション&lt;/p&gt;
-&lt;p&gt;​17:50 Q&amp;amp;A 交流&lt;/p&gt;
-&lt;p&gt;​18:20 クロージング&lt;/p&gt;
-&lt;p&gt;​18:25 懇親会準備&lt;/p&gt;
-&lt;p&gt;​18:30 懇親会&lt;/p&gt;
-&lt;p&gt;​19:30 中締め&lt;/p&gt;
-&lt;p&gt;※プログラム・時間は変更の場合があります。予めご了承ください&lt;/p&gt;
-&lt;h2&gt;主催者情報&lt;/h2&gt;
-&lt;p&gt;主催：&lt;a href="https://discord.gg/RNaAgXZngh" rel="nofollow"&gt;AIエージェントユーザー会&lt;/a&gt;（AIAU）　&lt;br&gt;
-協力：&lt;a href="https://www.alibabacloud.com/ja" rel="nofollow"&gt;AlibabaCloud&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;⚠️ 注意事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;参加確定後のキャンセルは、なるべく早めにご連絡ください。&lt;/li&gt;
-&lt;li&gt;会場内でのプロモーション行為は、事前に主催者の許可を得てください。&lt;/li&gt;
-&lt;li&gt;イベント中の写真撮影・動画録画は参加者の方々の様子が写り込まないよう配慮をお願いします。&lt;/li&gt;
-&lt;li&gt;発表資料の公開については、各発表者の意向に従います。&lt;/li&gt;
-&lt;li&gt;受付の最終締め切りは16:15でございます。施設のセキュリティの都合上、上記時間を過ぎますとご入場いただけません。&lt;/li&gt;
-&lt;li&gt;交通機関の遅延など、やむを得ない事情で遅れる見込みがございましたら、イベント開始前までにご連絡いただきますようお願いいたします。ご連絡は、&lt;a href="https://connpass.com/event/390293/inquiry/" rel="nofollow"&gt;こちら&lt;/a&gt;からお問い合わせください（Conpassイベントページへのお問い合わせ）&lt;/li&gt;
-&lt;li&gt;当日は、運営スタッフによる記録・広報用の写真および動画撮影を行います。撮影した素材は、公式サイトやSNS、広報物等に使用させていただく場合がございます。あらかじめご了承のうえ、ご参加いただけますようお願い申し上げます。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🔒 ポリシー・行動規範について&lt;/h2&gt;
-&lt;p&gt;当イベントを通じて取得した個人情報等の取扱いは&lt;a href="https://aiau.group/privacy-policy/" rel="nofollow"&gt;プライバシーポリシー&lt;/a&gt;に従って取り扱います。&lt;br&gt;
-またイベント受付管理に利用させていただく場合があります。&lt;br&gt;
-ご同意の上、ご参加ください。&lt;br&gt;
-その他&lt;a href="https://aiau.group/guidelines/" rel="nofollow"&gt;ポリシー・行動規範&lt;/a&gt;を守ってご参加お願いします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aiau.connpass.com/event/400273/</guid><enclosure url="https://media.connpass.com/thumbs/e0/3a/e03a6e63ef18e868f4ca3b2070b92d8f.png" length="0" type="image/png"/><pubDate>Sat, 08 Aug 2026 10:27:43 +0900</pubDate></item><item><title>Japan Datadog User Group Meetup#20@札幌</title><link>https://datadog-jp.connpass.com/event/389998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月10日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月10日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌ビアガーデンに併せて開催します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JDDUGについて&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 09 Aug 2026 15:21:16 +0000</lastBuildDate><item><title>Japan Datadog User Group Meetup#20@札幌</title><link>https://datadog-jp.connpass.com/event/389998/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月10日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月10日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: クラスメソッド札幌オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北３条西１丁目１−１ 札幌ブリックキューブ 10階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;札幌ビアガーデンに併せて開催します&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JDDUGについて&lt;/h1&gt;
 &lt;p&gt;日本で Datadog を利用しているユーザコミュニティのイベントです。&lt;br&gt;
 今回はさっぽろ大通ビアガーデンにあわせてクラスメソッド株式会社 札幌オフィス にて開催します。&lt;/p&gt;
 &lt;p&gt;誰でも参加可能なコミュニティ &lt;a href="https://t.co/dpBETMaosn" rel="nofollow"&gt;Slack Workspace&lt;/a&gt; も是非。&lt;/p&gt;
@@ -134,7 +97,7 @@ OpenTelemetry を使うと、どのようなデータを Datadog に連携でき
 ひとこと: Datadog をこれからキャッチアップです。よろしくお願いします！&lt;/p&gt;
 &lt;h2&gt;発表2. DASH 2026 re:Cap ~ オレ的嬉しい機能の一挙紹介 ~&lt;/h2&gt;
 &lt;h3&gt;概要&lt;/h3&gt;
-&lt;p&gt;DASH 2026 では AI を中心に数多くの機能アップデートが紹介されました。そんな中でオブザーバビリティにおいて特に重要な機能や、SRE やソフトウェアエンジニアにとって嬉しい機能、また大々的には目立っていないな役に建つ機能を抜粋して紹介いたしたします！&lt;/p&gt;
+&lt;p&gt;DASH 2026 では AI を中心に数多くの機能アップデートが紹介されました。そんな中でオブザーバビリティにおいて特に重要な機能や、SRE やソフトウェアエンジニアにとって嬉しい機能、また大々的には目立っていないけど役立つ機能を抜粋して紹介いたしたします！&lt;/p&gt;
 &lt;h3&gt;発表者&lt;/h3&gt;
 &lt;p&gt;Datadog SE 逆井 啓佑
 ひとこと: 北海道は最高です！みんなで〆のラーメンをしましょう&lt;/p&gt;
@@ -173,7 +136,7 @@ OpenTelemetry を使うと、どのようなデータを Datadog に連携でき
 みんなもBits Chatを使いましょう！！！！&lt;/p&gt;
 &lt;h3&gt;発表者&lt;/h3&gt;
 &lt;p&gt;株式会社エス・エム・エス 加我&lt;br&gt;
-ひとこと : 最高の夏にしような&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datadog-jp.connpass.com/event/389998/</guid><enclosure url="https://media.connpass.com/thumbs/cd/ae/cdaeb0a37122ac34590e140dbaba69bf.png" length="0" type="image/png"/><pubDate>Sun, 09 Aug 2026 00:16:07 +0900</pubDate></item><item><title>[懇親会] Japan Datadog User Group Meetup#20@札幌</title><link>https://datadog-jp.connpass.com/event/389999/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月10日(月) 21:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月10日(月) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 海鮮&amp;韓国料理　食べ飲み放題　個室居酒屋　旬味はなみずき　札幌駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北４条西２－１－２５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;みんなで札幌の美味しいお食事を食べながら楽しく交流をしましょう！&lt;br&gt;
+ひとこと : 最高の夏にしような&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datadog-jp.connpass.com/event/389998/</guid><enclosure url="https://media.connpass.com/thumbs/cd/ae/cdaeb0a37122ac34590e140dbaba69bf.png" length="0" type="image/png"/><pubDate>Sun, 09 Aug 2026 12:29:04 +0900</pubDate></item><item><title>[懇親会] Japan Datadog User Group Meetup#20@札幌</title><link>https://datadog-jp.connpass.com/event/389999/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月10日(月) 21:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月10日(月) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 海鮮&amp;韓国料理　食べ飲み放題　個室居酒屋　旬味はなみずき　札幌駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北４条西２－１－２５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JDDUG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;みんなで札幌の美味しいお食事を食べながら楽しく交流をしましょう！&lt;br&gt;
 はじめての方、大歓迎です！イベント終了後の21:00~を予定しています。任意のタイミングで拔けて頂いても大丈夫です。  &lt;/p&gt;
 &lt;p&gt;参加費用は目安です。前後する可能性がありますのでご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://datadog-jp.connpass.com/event/389999/</guid><pubDate>Wed, 29 Jul 2026 21:33:42 +0900</pubDate></item><item><title>kintone Café 帯広 vol.7</title><link>https://kintonecafeobihiro.connpass.com/event/400843/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月21日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月21日(金) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 相互電業株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道帯広市東1条南5丁目2番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;登壇者ぜひおまちしてます～！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Caféとは？&lt;/h1&gt;
 &lt;p&gt;kintone Caféは、まだkintoneに触れたことの無い方から、より高度なカスタマイズを行いたいと考えているプロフェッショナルの方まで幅広い層を対象に、 楽しく学び・教え合うことで、kintoneの魅力や活用法を共有するための勉強会コミュニティです。&lt;/p&gt;
@@ -432,7 +395,58 @@ AWS初心者LT会in札幌運営&lt;br&gt;
 &lt;p&gt;&lt;strong&gt;かじはら：（&lt;a href="https://x.com/Mutsumix_dev" rel="nofollow"&gt;@ムツミックス&lt;/a&gt;）&lt;/strong&gt;&lt;br&gt;
 &lt;img src="https://pbs.twimg.com/profile_images/1905054023763558400/aKOWNtAj_400x400.jpg" width="150"&gt;&lt;br&gt;
 経歴：北海道網走市出身。大学進学を機に上京。語学教材販売会社に勤めた後、IT会社に転職。技術コミュニティ「イケブクロ電脳組」主宰。冷え性なので網走に帰省するのは夏ばかり。&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okhotsk-it.connpass.com/event/391581/</guid><enclosure url="https://media.connpass.com/thumbs/21/30/21309ecea8c5271768906aea76736392.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 10:17:33 +0900</pubDate></item><item><title>第49回 JAWS-UG札幌勉強会 in 旭川</title><link>https://jawsug-sapporo.connpass.com/event/401165/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 旭川市市民活動交流センターCoCoDe&lt;/li&gt;&lt;li&gt;🏢 住所: 旭川市宮前１条３丁目３番３０号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初めての旭川開催！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okhotsk-it.connpass.com/event/391581/</guid><enclosure url="https://media.connpass.com/thumbs/21/30/21309ecea8c5271768906aea76736392.png" length="0" type="image/png"/><pubDate>Wed, 20 May 2026 10:17:33 +0900</pubDate></item><item><title>第５４回 CoderDojo江別</title><link>https://coderdojo-ebetsu.connpass.com/event/403329/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;スクラッチやマイクラなどで、大人も一緒に遊んでみよう。マイクラ学習をやってみよう。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo江別では&lt;/h1&gt;
+&lt;p&gt;楽しく、のんびりと、想像力を膨らませましょう。自分の作品を発表しましょう。
+スクラッチで自分の考えた「何か？」を描いてみましょう。
+不明点がありましたらお問い合わせくださいご説明いたします。&lt;/p&gt;
+&lt;h2&gt;今回のDOJOは&lt;/h2&gt;
+&lt;p&gt;今回も&lt;strong&gt;マイクラをマルチプレーヤー(3人以上)で遊びたい&lt;/strong&gt;と思っております。&lt;br&gt;
+魔法が作れる「&lt;a href="https://iron.wiki/" rel="nofollow"&gt;アイアンスペルズ&lt;/a&gt;」というMODを使用しています。&lt;/p&gt;
+&lt;p&gt;ゲームはサバイバルモードでプレイいたします。敵は強い者がおります。
+洞窟の探検などは、協力体制を組まないと難しいです。&lt;/p&gt;
+&lt;p&gt;そのため、ゲームではありますが「協力してサバイバルする」体験ができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【保護者の皆さんへ】&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近は、マイクラ(Java版)のマルチプレイが多くなっております。&lt;/p&gt;
+&lt;p&gt;ただし、製品版のゲームでなく、開発環境でのゲームプレイになりますので。&lt;br&gt;
+&lt;strong&gt;いくつかの試練&lt;/strong&gt;があります。&lt;br&gt;
+これは、親子で協力してやってもらうことになるかもしれません。&lt;/p&gt;
+&lt;p&gt;具体的には以下のようなことです。ちょっと本格的なモノですが、書き写しなので簡単にできます。
+ポイントは「自分でやった」という成功体験だと思っております。
+・Webサーバーへの接続確認
+・MODファイルのインストール
+・Gradleスクリプトの実装&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【自分のPCにインストール】&lt;/strong&gt;
+ご希望であれば、手持ちのPCへマイクラの開発環境をインストールするお手伝いをいたします。
+自分のPCなので、遊んだ後のデータを保持したままにできます。&lt;/p&gt;
+&lt;p&gt;【レンタルPCについて】 &lt;br&gt;
+1. 「PCなど持っていない」、「使えるPCがない」などありましたら、ぜひ、ご相談ください。
+古いPCなどを再利用する方法を知っております。そこらへんの情報を共有できます。
+そして、レンタル用のPCを６台ほど持っております。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://coderdojo.jp/kata#learn" rel="nofollow"&gt;スクラッチの参考資料&lt;/a&gt;をダウンロードできます。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;古いPCなどありましたら、それを持参ください。
+  そのPCを「Linux」という無料のOSで&lt;a href="https://youtu.be/iR3TTHHmj1U" rel="nofollow"&gt;再度使えるようにできます&lt;/a&gt;。
+  ただし、そのPCのデータなど保存していたものが全て消えてしまうので、データの退避などしておいてください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coder Dojoの「&lt;a href="https://coderdojo.jp/kata" rel="nofollow"&gt;Kata&lt;/a&gt;」がありますので、参考になるドキュメント(資料)をやってみるのも一つです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「Greenfoot」などやってみませんか？Javaというマインクラフトを作っているプログラミング言語です。「&lt;a href="https://www.greenfoot.org/scenarios/" rel="nofollow"&gt;人の作品を見てみよう&lt;/a&gt;」で作品が見れます。そして、使用している言語がJavaになります&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;１８歳以上のみなさんへ(大人を含む)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;メンター(ボランティア)を募集&lt;/strong&gt;しています。
+是非ご参加ください。プログラミング好きな大人がいますので、見分を広げる機会にできると思います。&lt;/p&gt;
+&lt;p&gt;昨今では、どの業界でも「サーバー」や「システム利用」ということが業務でも増えております。
+Dojoでは、&lt;strong&gt;業務システムの基本となる「サーバー」と「クライアント」の関係を実体験として学ぶ事&lt;/strong&gt;ができます。&lt;/p&gt;
+&lt;p&gt;開発環境で遊べる場所(コミニティ)は、珍しいと思います。一緒にサーバーを使って遊びましょう。&lt;/p&gt;
+&lt;p&gt;そして、是非ご協力のほどをお願いいたします。&lt;/p&gt;
+&lt;p&gt;一度イベントにご参加いただき、それからやる・やらないを決めるというのもよいと思っております。&lt;br&gt;
+※&lt;strong&gt;メンターには７０代の方もいらっしゃいます。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-ebetsu.connpass.com/event/403329/</guid><enclosure url="https://media.connpass.com/thumbs/a8/f4/a8f4dbdfbfa27aee3cf0bb522b83e03c.png" length="0" type="image/png"/><pubDate>Sun, 09 Aug 2026 10:49:38 +0900</pubDate></item><item><title>第49回 JAWS-UG札幌勉強会 in 旭川</title><link>https://jawsug-sapporo.connpass.com/event/401165/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 旭川市市民活動交流センターCoCoDe&lt;/li&gt;&lt;li&gt;🏢 住所: 旭川市宮前１条３丁目３番３０号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_sapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初めての旭川開催！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;今回は、初の試みでJAWS-UG札幌を旭川で開催します！&lt;br&gt;
 旭川のみなさまのご参加をお待ちしています。みなさんで交流して楽しみましょう！&lt;/p&gt;
 &lt;p&gt;Kiro(※)ハンズオンを予定していますので、PCを持ってきていただければと思います。AWSアカウントは不要です。&lt;br&gt;
@@ -1557,7 +1571,7 @@ hag.sapporo28@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="fa
 &lt;span style="color: red;"&gt;&lt;strong&gt;決定次第、このイベントと別のイベントにおいて参加を募集させていただきます。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;備考&lt;/h2&gt;
 &lt;p&gt;オンライン配信の予定はありません。&lt;/p&gt;
-&lt;h2&gt;ご後援(随時追加)&lt;/h2&gt;
+&lt;h2&gt;ご後援&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;デジタル庁&lt;/li&gt;
 &lt;li&gt;経済産業省 北海道経済産業局&lt;/li&gt;
@@ -1566,7 +1580,7 @@ hag.sapporo28@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="fa
 &lt;li&gt;独立行政法人 情報処理推進機構(IPA)&lt;/li&gt;
 &lt;li&gt;特定非営利活動法人ITCさっぽろ&lt;/li&gt;
 &lt;li&gt;一般社団法人LOCAL&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/399693/</guid><enclosure url="https://media.connpass.com/thumbs/65/40/6540488a5222cc095da3df7658ed2c54.png" length="0" type="image/png"/><pubDate>Fri, 07 Aug 2026 20:58:19 +0900</pubDate></item><item><title>船上LT2026 in 大沼</title><link>https://mariconf.connpass.com/event/399727/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月27日(日) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月27日(日) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: ターブル・ドゥ・リバージュ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒041-1354 北海道亀田郡七飯町大沼町１４１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LTonShip26&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LT on Ship '26 in 大沼&lt;/p&gt;&lt;div&gt;&lt;h1&gt;急遽都合により、内容が変更になるか中止になる見込みです&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/399693/</guid><enclosure url="https://media.connpass.com/thumbs/65/40/6540488a5222cc095da3df7658ed2c54.png" length="0" type="image/png"/><pubDate>Sun, 09 Aug 2026 18:42:40 +0900</pubDate></item><item><title>船上LT2026 in 大沼</title><link>https://mariconf.connpass.com/event/399727/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月27日(日) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月27日(日) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: ターブル・ドゥ・リバージュ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒041-1354 北海道亀田郡七飯町大沼町１４１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LTonShip26&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;LT on Ship '26 in 大沼&lt;/p&gt;&lt;div&gt;&lt;h1&gt;急遽都合により、内容が変更になるか中止になる見込みです&lt;/h1&gt;
 &lt;h1&gt;下記の内容は大幅に変更される可能性があります&lt;/h1&gt;
 &lt;h1&gt;以下は記録として一時的に残しているものです&lt;/h1&gt;
 &lt;h2&gt;イベント・サークル情報&lt;/h2&gt;
@@ -1750,7 +1764,7 @@ Android、GCP など、Googleのテクノロジー全般について、四国4�
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit?usp=sharing" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit?usp=sharing" rel="nofollow"&gt;English&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-apk.connpass.com/event/402624/</guid><enclosure url="https://media.connpass.com/thumbs/63/d9/63d950047482dc4f727daf7dfbbf5f08.png" length="0" type="image/png"/><pubDate>Wed, 05 Aug 2026 10:28:23 +0900</pubDate></item><item><title>なんでもCopilot 出張回 #2「なんでもCopilot in 札幌」</title><link>https://nandemo.connpass.com/event/400400/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道大学 情報基盤センター南館2階&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北11条西5丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #なんでもCopilot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;北海道上陸！なんコパ民よ、大志を抱け！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;「なんでもCopilot」について&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-apk.connpass.com/event/402624/</guid><enclosure url="https://media.connpass.com/thumbs/63/d9/63d950047482dc4f727daf7dfbbf5f08.png" length="0" type="image/png"/><pubDate>Sun, 09 Aug 2026 15:28:50 +0900</pubDate></item><item><title>なんでもCopilot 出張回 #2「なんでもCopilot in 札幌」</title><link>https://nandemo.connpass.com/event/400400/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道大学 情報基盤センター南館2階&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北11条西5丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #なんでもCopilot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;北海道上陸！なんコパ民よ、大志を抱け！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;「なんでもCopilot」について&lt;/h1&gt;
 &lt;p&gt;「なんでもCopilot」とは、あらゆるマイクロソフト社製品に搭載されているCopilotについて学び合うコミュニティです。
 業務やプライベートでもいつでも頼れる存在となりつつあるCopilotについて理解を深め、みんながCopilotを使いこなすことを目指します。&lt;/p&gt;
 &lt;p&gt;Copilotを使って業務効率化したい方、生成AIに興味がある方、Copilotをこれから勉強したい方等ぜひご参加ください。&lt;/p&gt;
