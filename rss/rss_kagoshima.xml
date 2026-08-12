@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link><description>鹿児島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 11 Aug 2026 15:52:17 +0000</lastBuildDate><item><title>かごもく #103 ローカルLLMをためす</title><link>https://kagoben.connpass.com/event/402886/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月15日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月15日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 鹿児島県鹿児島市&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;かごもく #103 ローカルLLMをためす&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link><description>鹿児島のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>鹿児島のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 12 Aug 2026 15:52:12 +0000</lastBuildDate><item><title>かごもく #103 ローカルLLMをためす</title><link>https://kagoben.connpass.com/event/402886/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月15日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月15日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: GMOペパボ 鹿児島オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島県鹿児島市上荒田町3−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;かごもく #103 ローカルLLMをためす&lt;/h1&gt;
 &lt;p&gt;かごもくは毎月テーマに沿ってみんなで勉強する勉強会です。
 今回は、&lt;strong&gt;ローカルLLM&lt;/strong&gt;についてです、実際に手元のPCで動かしながら試していきます。&lt;/p&gt;
 &lt;p&gt;ChatGPTなどのクラウドサービスを使う機会は増えていますが、最近は自分のPCやローカル環境でもLLMを動かせるようになってきました。
@@ -80,7 +80,17 @@ Ollama、LM Studio、llama.cpp などを使うと、モデルをダウンロー�
 &lt;p&gt;※ 途中参加・退出でも問題ありません。
 ※ 見学だけでも歓迎です。&lt;/p&gt;
 &lt;h2&gt;🏢 会場について&lt;/h2&gt;
-&lt;p&gt;会場が決定次第連絡致します。&lt;/p&gt;
+&lt;p&gt;会場は &lt;strong&gt;GMOペパボ 鹿児島オフィス&lt;/strong&gt;をお借りしています。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚲 自転車の場合は台数に限りがございますが、台数会場の駐輪場が利用可能です。  &lt;/li&gt;
+&lt;li&gt;🚗 車・バイクの場合はお近くのコインパーキングをご利用してください。&lt;br&gt;
+  管理者または、connpassのフィードにてご連絡ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🚃 最寄りの公共交通機関&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🚋 市電(路面電車) 中洲通電停から徒歩1分&lt;/li&gt;
+&lt;li&gt;🚋 JR鹿児島中央駅 から徒歩10分&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;📞 連絡方法&lt;/h3&gt;
 &lt;p&gt;車の利用や会場場所が分からない場合には、以下の方法でご連絡ください。&lt;/p&gt;
 &lt;ul&gt;
@@ -94,7 +104,7 @@ Ollama、LM Studio、llama.cpp などを使うと、モデルをダウンロー�
 &lt;p&gt;すぐに悩みが解決するとは限りませんが、似たようなことを考えている人と話すことで、次に試すことが見えてくるかもしれません。&lt;/p&gt;
 &lt;p&gt;興味がある方は &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSefYenHL-UKOgNywb9EzRDxH21sj_n1tLOFqKAaWUUAjp4nkw/viewform" rel="nofollow"&gt;テーマ申し込みフォーム&lt;/a&gt; からお申し込みください。&lt;/p&gt;
 &lt;p&gt;わからないことの相談や仲間探しのための、エンジニア向けSlackワークスペース &lt;a href="https://kagoshima-engineer.slack.com/join/shared_invite/zt-86q3fs39-aYFcFLSXEJsFJgRRHB2c2Q#/shared-invite/email" rel="nofollow"&gt;かごえん&lt;/a&gt; もあります。
-かごもくとは無関係な話題や、勉強会の告知にも利用できます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kagoben.connpass.com/event/402886/</guid><pubDate>Wed, 05 Aug 2026 11:47:50 +0900</pubDate></item><item><title>JAWS-UG鹿児島 夏の風物詩：AWS×AI まわるLT大会</title><link>https://jaws-ug-kagoshima.connpass.com/event/401246/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社クエイル&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島市上之園町２５−４　鹿児島甲南スクエア６F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugkgsm&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWSもAIもクルクルまわして深めよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JAWS-UG鹿児島 夏の風物詩：AWS×AI まわるLT大会&lt;/h1&gt;
+かごもくとは無関係な話題や、勉強会の告知にも利用できます。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kagoben.connpass.com/event/402886/</guid><pubDate>Wed, 12 Aug 2026 22:51:53 +0900</pubDate></item><item><title>JAWS-UG鹿児島 夏の風物詩：AWS×AI まわるLT大会</title><link>https://jaws-ug-kagoshima.connpass.com/event/401246/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社クエイル&lt;/li&gt;&lt;li&gt;🏢 住所: 鹿児島市上之園町２５−４　鹿児島甲南スクエア６F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugkgsm&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AWSもAIもクルクルまわして深めよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JAWS-UG鹿児島 夏の風物詩：AWS×AI まわるLT大会&lt;/h1&gt;
 &lt;h2&gt;イベントについて&lt;/h2&gt;
 &lt;p&gt;JAWS-UG鹿児島支部の夏イベントを開催いたします。今回のテーマは「まわる」、そして「AI」です。&lt;/p&gt;
 &lt;p&gt;鹿児島の夏の風物詩であるクルクル「まわるそうめん流し」や、クルクル削る「かき氷」を楽しみながら、AWSやAIの知識もコミュニティの輪もクルクルと「まわして」深めていくイベントです！&lt;/p&gt;
