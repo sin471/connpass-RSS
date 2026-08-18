@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 17 Aug 2026 15:16:34 +0000</lastBuildDate><item><title>OWASP Saitama MTG #33</title><link>https://owaspsaitama.connpass.com/event/399285/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月17日(月) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月17日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: RaiBoC Hall (市民会館おおみや) 集会室2&lt;/li&gt;&lt;li&gt;🏢 住所: さいたま市大宮区大門町2-118 (大宮門街6F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #OWASP_Saitama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サイバーセキュリティに関する勉強会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;OWASP Saitama MTGとは&lt;/h2&gt;
-&lt;p&gt;セキュリティ向上に貢献しようという地元有志がさいたま市あるいは春日部市に集まって開く、 OWASP Saitama チャプターの定例勉強会です。セキュリティに携わる幅広い分野の方をスピーカーとしてお呼びして開催します。職種・経験・年齢・性別・国籍などは一切問いません。どなたでもご参加ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加費は無料です。Skytalksについても無料です。&lt;/li&gt;
-&lt;li&gt;懇親会について: 3000円（※学生半額、スピーカー無料）となります。&lt;/li&gt;
-&lt;li&gt;お仕事のご都合等にあわせて自由に参加できるよう入退室自由です&lt;/li&gt;
-&lt;li&gt;お飲み物は忘れずにお持ちください（オンライン参加の方）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※注1: 当チャプターではスピーカーが明示的に許可した場合を除き、トークセッションの録音・録画・内容公開は原則禁止とさせていただいております（チャタムハウスルールを適用しています）。ご参加の際にはご注意のほどどうぞよろしくお願いいたします。&lt;br&gt;
-※注2: 2026年から &lt;strong&gt;偶数月第3月曜日&lt;/strong&gt; 開催となっています。日程にご注意ください。&lt;/p&gt;
-&lt;h2&gt;ハイブリッド開催 (オフライン＋オンライン) です&lt;/h2&gt;
-&lt;p&gt;当面の間ハイブリッド開催といたします。&lt;br&gt;
-※1 終了後、現地組のみ完全オフレコのSkytalksおよび懇親会へと移行します。&lt;br&gt;
-※2 オフラインで参加された方にはチャプターステッカーをお配りしています。&lt;/p&gt;
-&lt;p&gt;今回はさいたま開催回です; 現地会場としてRaiBoC Hall (市民会館おおみや) の &lt;strong&gt;集会室2&lt;/strong&gt; を使用します。 (各線大宮駅下車、東口徒歩5分ほどです)&lt;/p&gt;
-&lt;p&gt;※会議室内での飲食は可能なようですがゴミは各自でお持ち帰りください。&lt;/p&gt;
-&lt;h2&gt;懇親会参加予定の方へ&lt;/h2&gt;
-&lt;p&gt;懇親会参加/不参加で枠が分かれております。イベント参加登録の際には枠にご注意のほどよろしくお願いいたします。&lt;/p&gt;
-&lt;h2&gt;スケジュール (予定)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;19:00 開始 / トーク #1: Beyond 'Never in JS' by @alterakey&lt;/li&gt;
-&lt;li&gt;19:30: LT (あれば)&lt;/li&gt;
-&lt;li&gt;19:45 チャプター紹介 / 次回告知&lt;/li&gt;
-&lt;li&gt;20:00 終了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;チャプター協賛&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://monolithworks.co.jp/" rel="nofollow"&gt;&lt;img alt="Monolith Works Inc." src="https://owasp.org/www-chapter-saitama/assets/images/monolithworks.png" height="100"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;OWASP Saitama チャプターについて&lt;/h2&gt;
-&lt;p&gt;サイバーセキュリティの向上を目指す非営利組織であるOWASP (The Open Worldwide Application Security Project) のさいたま支部です。&lt;/p&gt;
-&lt;p&gt;イベント開催等のアナウンスはチャプターページで行ないます。
-またSNSへも配信しますのでアカウントのフォローをいただけますと幸いです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;チャプターページ: &lt;a href="https://owasp.org/www-chapter-saitama/" rel="nofollow"&gt;https://owasp.org/www-chapter-saitama/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bluesky: https://bsky.app/profile/owaspsaitama.bsky.social&lt;/li&gt;
-&lt;li&gt;X: &lt;a href="https://x.com/OWASP_Saitama" rel="nofollow"&gt;https://x.com/OWASP_Saitama&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://owaspsaitama.connpass.com/event/399285/</guid><enclosure url="https://media.connpass.com/thumbs/e8/98/e898c9f25f73202501e4525ca7571006.png" length="0" type="image/png"/><pubDate>Thu, 13 Aug 2026 02:03:19 +0900</pubDate></item><item><title>朝霞IT勉強会 #53 〜Remote でもくもく</title><link>https://asaka-it.connpass.com/event/398097/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: Google Meet&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #asaka_it_study&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;朝霞IT勉強&lt;/p&gt;&lt;div&gt;&lt;h1&gt;朝霞IT勉強会とは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 18 Aug 2026 15:21:59 +0000</lastBuildDate><item><title>朝霞IT勉強会 #53 〜Remote でもくもく</title><link>https://asaka-it.connpass.com/event/398097/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月22日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月22日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: Google Meet&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #asaka_it_study&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;朝霞IT勉強&lt;/p&gt;&lt;div&gt;&lt;h1&gt;朝霞IT勉強会とは&lt;/h1&gt;
 &lt;p&gt;ITの勉強会を都心以外でも開きたいと思い立ち上げました！
 東武東上線朝霞台駅周辺で行う勉強会です。ふだんは市の施設をお借りして、カジュアルに&lt;/p&gt;
 &lt;ul&gt;
@@ -138,7 +103,7 @@ iPadなどのタブレットを使用する場合はタップやスワイプ、�
 プログラマやデザイナー、エンジニアなど、ソフトやハードを作ることを専門にしている人達、子どものコンピュータ教育に携わる人達などで構成されています。&lt;br&gt;
 メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）は、こちらからお気軽にお問い合わせください！&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;免責事項&lt;/h2&gt;
-&lt;p&gt;CoderDojoさいたまの活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、CoderDojoさいたまは一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-saitama.connpass.com/event/401058/</guid><enclosure url="https://media.connpass.com/thumbs/0c/97/0c978c0b6b6d43b12ffc6f4b09154499.png" length="0" type="image/png"/><pubDate>Sat, 18 Jul 2026 11:24:56 +0900</pubDate></item><item><title>【第2回  ロボットシミュレーション自律走行 勉強会＆交流会】</title><link>https://connpass.com/event/402771/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: KYLA株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市浦和区高砂３－１０－４　 埼玉建設会館4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ロボット&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【勉強会の内容】&lt;/h1&gt;
+&lt;p&gt;CoderDojoさいたまの活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、CoderDojoさいたまは一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-saitama.connpass.com/event/401058/</guid><enclosure url="https://media.connpass.com/thumbs/0c/97/0c978c0b6b6d43b12ffc6f4b09154499.png" length="0" type="image/png"/><pubDate>Sat, 18 Jul 2026 11:24:56 +0900</pubDate></item><item><title>【初心者歓迎！ ロボットシミュレーション自律走行 勉強会＆交流会】</title><link>https://connpass.com/event/402771/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: KYLA株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市浦和区高砂３－１０－４　 埼玉建設会館4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ロボット&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【勉強会の内容】&lt;/h1&gt;
 &lt;p&gt;本勉強会では、3DロボットシミュレータGazeboとROS2を使用し、仮想空間上のロボットをPythonコードで制御するハンズオンを実施します。&lt;/p&gt;
 &lt;p&gt;環境内に配置された「画像ターゲット（看板）」をロボットがカメラで認識し、ターゲットとの距離や角度に応じて自律的に移動・接近・停止するアルゴリズムの実装を体験していただきます。&lt;/p&gt;
 &lt;p&gt;ROS2の基本構造とトピック通信（geometry_msgs/Twist を用いた速度制御）&lt;/p&gt;
@@ -170,7 +135,7 @@ iPadなどのタブレットを使用する場合はタップやスワイプ、�
 &lt;p&gt;幼稚園からコンピュータを触りまくった生まれながらのエンジニア。
 大学は「コンピュータを根幹から学びたい」とあえてソフトウェアでは無く工学部に入った人。その後情報学部へ移り、やっぱりソフトウェアも学んだ。
 結果ハードもソフトも分かるようになった。&lt;/p&gt;
-&lt;p&gt;カフェオレ大好き。でかい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/402771/</guid><enclosure url="https://media.connpass.com/thumbs/45/e9/45e92dc32bf8731a1e336449ae39c840.png" length="0" type="image/png"/><pubDate>Wed, 05 Aug 2026 11:50:10 +0900</pubDate></item><item><title>武蔵野線.dev クロスコミュニティ交流会 vol.1 in 朝霞</title><link>https://musashino-line.connpass.com/event/401818/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 朝霞市産業文化センター&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県朝霞市浜崎６６９−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #musashino_line_dev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;集え！武蔵野線沿線エンジニア！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;カフェオレ大好き。でかい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/402771/</guid><enclosure url="https://media.connpass.com/thumbs/45/e9/45e92dc32bf8731a1e336449ae39c840.png" length="0" type="image/png"/><pubDate>Tue, 18 Aug 2026 11:55:51 +0900</pubDate></item><item><title>武蔵野線.dev クロスコミュニティ交流会 vol.1 in 朝霞</title><link>https://musashino-line.connpass.com/event/401818/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 朝霞市産業文化センター&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県朝霞市浜崎６６９−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #musashino_line_dev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;集え！武蔵野線沿線エンジニア！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;埼京.dev、多摩.dev、東葛.devの武蔵野線沿線（？）3コミュニティの合同イベント！&lt;br&gt;
 各コミュニティに参加したことがある人もない人も、垣根を超えて都心をぐるっと囲んだ縁で繋がりましょう！！&lt;br&gt;
 皆さんが学んだ体験したことなどについてトークしたり聴いたり、ゆる〜く交流できる場にしたいと思っています。  &lt;/p&gt;
