@@ -1,2 +1,484 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 19 Aug 2026 15:21:58 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 20 Aug 2026 15:25:19 +0000</lastBuildDate><item><title>【CDLE熊本】第2回 生成AIハンズオン勉強会「これ、何ごみ？」をAIに聞く</title><link>https://cdle-kumamoto.connpass.com/event/402716/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本市市民活動支援センター あいぽーと&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;熊本市の「生活便利ブック」をGeminiに読ませて、“自分専用の暮らしAI”をつくる&lt;/p&gt;&lt;div&gt;&lt;h2&gt;1. タイトル（コピペ用）&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;【CDLE熊本】第2回 生成AIハンズオン勉強会「これ、何ごみ？」をAIに聞く
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;2. キャッチコピー（タイトル下の1行）&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;熊本市の「生活便利ブック」をGeminiに読ませて、“自分専用の暮らしAI”をつくる
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;3. 説明文（Markdownでそのまま貼れます）&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="gu"&gt;## こんなこと、ありませんか&lt;/span&gt;
+
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;「これは燃やすごみ？」
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;「引っ越しの手続き、何を持っていけばいいの？」
+
+熊本市の冊子は手元にあるけれど、どこに書いてあるか探すのが大変。
+インターネットで調べても、熊本市の話かどうか分からない。
+
+&lt;span class="gu"&gt;## この勉強会でやること&lt;/span&gt;
+
+Gemini の &lt;span class="gs"&gt;**ノートブック**&lt;/span&gt; という機能に、熊本市の「生活便利ブック」（79ページ）を丸ごと読ませて、
+&lt;span class="gs"&gt;**“自分専用の暮らしAI”**&lt;/span&gt;をつくります。
+
+答えのところどころに、小さく「**PDF**」という印が付きます。
+&lt;span class="gs"&gt;**押すと、冊子のその場所に飛びます。**&lt;/span&gt; 確かめてから使えます。
+
+さらに、**同じ画面のまま**「Web検索を使って、近くの回収施設も調べて」とお願いできます。
+このときの答えには「PDF」の印が**付きません**。
+
+つまり ――
+**印が付いている部分は、冊子のどこに書いてあったか確認できます。
+付いていない部分は、冊子を根拠にしたとは確認できません。**
+
+&lt;span class="gs"&gt;**「どこまで確かめられる答えなのか」を見分ける手がかり**&lt;/span&gt;が持てるようになります。
+ここが今日いちばん持って帰ってほしいところです。
+
+&lt;span class="gu"&gt;## 使う道具&lt;/span&gt;
+
+&lt;span class="gs"&gt;**Googleの「Gemini」だけ**&lt;/span&gt;です。開くサイトは &lt;span class="sb"&gt;`gemini.google.com`&lt;/span&gt; の1つだけ。
+新しく契約するものも、インストールするものもありません。
+
+その中の**ノートブック機能**を使って、自分の資料をAIに持たせます。
+※ ノートブックは、以前 NotebookLM と呼ばれていた機能がGeminiに統合されたものです。
+
+&lt;span class="gu"&gt;## 持ち帰るもの&lt;/span&gt;
+
+当日つくった「**自分専用のノートブック**」は、ご自身のGoogleアカウントに残ります。
+閉じても消えません。帰ってからも、思い出したときに聞き直せます。
+
+&lt;span class="gu"&gt;## タイムテーブル&lt;/span&gt;
+
+| 時間 | 内容 |
+|---|---|
+| 12:40 | 受付開始（早めに来ていただいて大丈夫です） |
+| 13:00 | はじめに／AIに“自分の資料”を持たせるとは |
+| 13:20 | Geminiの中に自分のノートブックを作り、冊子を読み込ませる |
+| 13:40 | 冊子に聞いてみる・「PDF」の印で出典を確かめる |
+| 14:00 | &lt;span class="gs"&gt;**同じ会話のまま、Webの情報も足していく**&lt;/span&gt; |
+| 14:35 | まとめ／共有 |
+| 14:50 | アンケート |
+| 15:00 | 終了 |
+
+&lt;span class="k"&gt;&amp;amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;⏳ **13:20台に、3分ほど待ち時間があります。**&lt;/span&gt;
+&lt;span class="k"&gt;&amp;amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;冊子（13.7メガバイト・79ページ）の読み込みに時間がかかるためです。&lt;/span&gt;
+&lt;span class="k"&gt;&amp;amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;**故障ではありません。** その間に、画面の見方と質問のコツをご説明します。&lt;/span&gt;
+
+&lt;span class="gu"&gt;## 持ち物（必ずお読みください）&lt;/span&gt;
+
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**ノートパソコンをお持ちください。**&lt;/span&gt; 今回からパソコンを使います
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**参加には「個人の」Googleアカウントが必要です（当日までにご準備を）**&lt;/span&gt;
+  当日その場での作成はお時間の都合で対応できません。作り方の資料はお渡しします
+  ⚠️ &lt;span class="gs"&gt;**会社・学校のGoogleアカウントでは、今回使う機能が利用できません**&lt;/span&gt;（Googleの仕様です）。
+  お勤め先のアカウントでログインされている方は、個人のアカウントをご用意ください
+
+&lt;span class="gu"&gt;## 対象&lt;/span&gt;
+
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;どなたでも（AIの利用規約により**13歳以上**の方）
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;パソコンの操作に自信がなくても大丈夫です
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**第1回・前回に参加していない方も、今回だけのご参加で大丈夫です**&lt;/span&gt;
+
+&lt;span class="gu"&gt;## 会場&lt;/span&gt;
+
+あいぽーと（熊本市市民活動支援センター）会議・セミナー室
+ウェルパルくまもと1階
+
+&lt;span class="gu"&gt;## 参加費&lt;/span&gt;
+
+無料
+
+&lt;span class="gu"&gt;## お申し込みについて&lt;/span&gt;
+
+connpassからお申し込みください。
+&lt;span class="gs"&gt;**お申し込みなしの当日参加も歓迎します。**&lt;/span&gt; そのままお越しください。
+
+&lt;span class="gu"&gt;## お約束&lt;/span&gt;
+
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;氏名・住所・電話番号・病歴・家族構成などの**個人情報はAIに入力しません**
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**「PDF」の印が付いていない情報は、どこから来たか確かめられません。**&lt;/span&gt;
+  電話番号や住所は、かけたり出かけたりする前に必ず市のホームページか窓口でお確かめください
+&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;大事なことは、最後は市の窓口でご確認ください
+
+&lt;span class="gu"&gt;## このあとのシリーズ&lt;/span&gt;
+
+9月以降も**月1回**、Geminiのノートブックに他のサービスをつないでいくシリーズとして続けます。
+
+| 回 | テーマ |
+|---|---|
+| 第3回 | Googleドライブ・ドキュメントの資料をまとめて読ませる |
+| 第4回 | ウェブサイト・PDF・YouTubeを読ませて横断的に調べる |
+| 第5回 | Googleフォームで集めたアンケートを読ませる |
+| 第6回 | 資料を貯めておく場所をつくる（“第2の脳”） |
+
+&lt;span class="gs"&gt;**毎回それだけで完結します。**&lt;/span&gt; 途中からのご参加でも大丈夫です。
+
+&lt;span class="gu"&gt;## 主催&lt;/span&gt;
+
+CDLE熊本（担当：有馬）
+お問い合わせ：cdle.kumamoto@gmail.com ／ 090-3178-6900
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;会場・アクセス 📍&lt;/h2&gt;
+&lt;p&gt;熊本市市民活動支援センター あいぽーと 会議・セミナー室
+熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階
+当日の会場参加方法：当日会場に直接お越しいただき、受付を行ってください&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;共催&lt;/h2&gt;
+&lt;p&gt;CDLE福岡、CDLEおおいた&lt;/p&gt;
+&lt;h2&gt;協力&lt;/h2&gt;
+&lt;p&gt;CDLE大阪、九州テレコム振興センター (KIAI）&lt;/p&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;イベント内容・タイムテーブルは予告なく変更になる場合があります。&lt;/li&gt;
+&lt;li&gt;会の進行によっては時間が前後する場合があります。&lt;/li&gt;
+&lt;li&gt;駐車場には限りがあります。できるだけ公共交通機関をご利用ください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;会場レイアウトの兼ね合いもありますので、申込後に参加できなくなった方はconnpassで必ず「キャンセル」操作をお願いします！&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;当日の様子は、広報のため写真撮影を行う場合があります。写り込みを希望されない方は当日スタッフにお申し出ください。&lt;/li&gt;
+&lt;li&gt;皆さまが気持ちよく学べる場づくりのため、勉強会の進行や他の参加者の学びへのご配慮をお願いいたします。&lt;/li&gt;
+&lt;li&gt;本勉強会で扱う料金・モデル・プラン情報は &lt;strong&gt;2026年7月時点&lt;/strong&gt; のものです。AIツールの仕様は変動が早いため、実際の利用前には各社公式情報をご確認ください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/402716/</guid><enclosure url="https://media.connpass.com/thumbs/6c/cd/6ccd85fd760caa01d9677aa0488a80b9.png" length="0" type="image/png"/><pubDate>Tue, 04 Aug 2026 21:47:36 +0900</pubDate></item><item><title>施設故障で延期です→9/4サプライチェーンセキュリティ、SEMI E187,188対策セミナー</title><link>https://connpass.com/event/401166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月4日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月4日(金) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本商工会議所　会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本市中央区横紺屋町10番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;取引先から求められるセキュリティ対策 中小企業でも実践できる対応方法&lt;/p&gt;&lt;div&gt;&lt;p&gt;半導体サプライチェーンで求められるセキュリティを、実践的に学ぶ2時間&lt;/p&gt;
+&lt;p&gt;TSMCをはじめとする半導体産業の集積により、熊本県内でもサプライチェーン全体のセキュリティ強化が求められています。&lt;/p&gt;
+&lt;p&gt;本セミナーでは、&lt;/p&gt;
+&lt;p&gt;経済産業省 サプライチェーンセキュリティ評価制度（★3・★4）
+SEMI E187（半導体製造装置のサイバーセキュリティ）
+SEMI E188（マルウェアフリー保守・メンテナンス）
+今後取引先から求められるセキュリティ対応&lt;/p&gt;
+&lt;p&gt;について、株式会社セキュリティパートナーが豊富なコンサルティング経験をもとに、実務に役立つポイントを解説します。&lt;/p&gt;
+&lt;p&gt;制度の概要だけではなく、&lt;strong&gt;「自社は何を準備すればよいのか」&lt;/strong&gt;が具体的に理解できるため、これから対応を始める企業に最適な入門セミナーです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401166/</guid><enclosure url="https://media.connpass.com/thumbs/e9/bc/e9bc3efaba3a98f54e1c3ae6c2187fb7.png" length="0" type="image/png"/><pubDate>Fri, 07 Aug 2026 09:26:00 +0900</pubDate></item><item><title>第5回ハンズオン勉強会 Claude Code でつくる はじめての業務ツール</title><link>https://cdle-kumamoto.connpass.com/event/404168/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本 XOSS POINT&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;React + TypeScript でつくって、GitHub に置いて、みんなに届けるまで&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第5回ハンズオン勉強会 Claude Code でつくる はじめての業務ツール&lt;/h1&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;コードを書いた経験がない方&lt;/strong&gt;を対象に、AIと会話しながら、自分の仕事で使う業務ツールを1つ完成させます。&lt;/p&gt;
+&lt;p&gt;ゲスト講師に &lt;strong&gt;天汐香弓 氏&lt;/strong&gt;（AIコンテンツクリエイター／ライター／個人開発者）をお迎えします。&lt;/p&gt;
+&lt;p&gt;題材は「毎回Excelでやっている、あの地味な作業」。当日は&lt;strong&gt;日報テンプレートジェネレーター&lt;/strong&gt;（項目を選ぶと日報の下書きが出てくる、コピーボタン付きのツール）を一緒に作ります。&lt;/p&gt;
+&lt;p&gt;ひな形の生成 → AIとの対話で実装 → ブラウザで確認して直す → Git で記録 → GitHub に置く → 公開する。この7ステップを90分で一気に通します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;この勉強会で持ち帰るもの&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;動く業務ツール 1つ&lt;/strong&gt; — 自分の仕事で本当に使えるもの&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公開URL 1本&lt;/strong&gt; — スマホからも開ける、人に渡せるリンク&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;やりたいことを言葉にする力&lt;/strong&gt; — ここが今日いちばん大事です&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;コードを覚えることがゴールではありません。エラーが出ても手は止まりません。エラー文をそのままAIに渡せば、次の一手が返ってきます。&lt;/p&gt;
+&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;コードを書いた経験がまったくない方&lt;/strong&gt;（今回はこの層が主役です）&lt;/li&gt;
+&lt;li&gt;Claude を契約したけれど、チャットで質問するくらいしか使えていない方&lt;/li&gt;
+&lt;li&gt;「毎回Excelで同じ作業をしている」という心当たりがある方&lt;/li&gt;
+&lt;li&gt;自分の業務ツールを、自分の手で作ってみたい方&lt;/li&gt;
+&lt;li&gt;※ 過去回（Claude Code 深掘り・Codex CLI 深掘り）に参加していなくても問題ありません&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;持ち物・事前のおねがい&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ノートPC&lt;/strong&gt;（電源アダプタもお持ちください）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude Pro の契約（$20/月〜）&lt;/strong&gt; 🔴 &lt;strong&gt;必須です。無料プランでは Claude Code が動きません&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHubアカウント&lt;/strong&gt;（無料）&lt;/li&gt;
+&lt;li&gt;以下のソフトのインストール（&lt;strong&gt;所要15分程度・当日までにお願いします&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claude Code&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Node.js v22.12 以上&lt;/strong&gt;（推奨：Node.js 24 LTS）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt;（※ Windows 11 には入っていません）&lt;/li&gt;
+&lt;li&gt;※ 開催1週間前に、手順をまとめた「事前準備ガイド」をお送りします。そちらに沿って進めていただければ大丈夫です&lt;/li&gt;
+&lt;li&gt;※ 受付を13:30から開けています。準備が不安な方は早めにお越しください。会場でフォローします&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4&gt;CDLEとは&lt;/h4&gt;
+&lt;p&gt;CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会 (JDLA) が実施するG検定やE資格の合格者が参加する日本最大のAIコミュニティです。&lt;/p&gt;
+&lt;h4&gt;CDLE熊本とは&lt;/h4&gt;
+&lt;p&gt;CDLE熊本は、歴史と自然に恵まれ、近年は世界的な半導体産業の集積地としても注目を集める熊本地域において、CDLEメンバーおよびAI（人工知能）技術に興味をお持ちのすべての方々との情報交換、meetup、リスキリング、地場企業との連携・協業などを楽しく行いながら、地域の発展に貢献することを目的としたコミュニティです。&lt;/p&gt;
+&lt;h2&gt;本日のゴール（3つ）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;実務水準の &lt;code&gt;&lt;a href="http://AGENTS.md" rel="nofollow"&gt;AGENTS.md&lt;/a&gt;&lt;/code&gt;&lt;/strong&gt;：階層・override を理解し、自分のプロジェクト用の指示書を設計できる&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;codex exec&lt;/code&gt; の型&lt;/strong&gt;：非対話実行を CI／スクリプトに組み込む形（サンドボックス×承認の指定込み）を持つ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;運用・拡張の地図&lt;/strong&gt;：&lt;code&gt;resume&lt;/code&gt;／&lt;code&gt;fork&lt;/code&gt; のセッション運用、MCP 拡張、&lt;code&gt;codex cloud&lt;/code&gt; の使いどころを説明できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;アジェンダ&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;トピック&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;進行・講師&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;13:30-14:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;受付開始（事前準備のフォロー）&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;CDLE熊本&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:00-14:05&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;ごあいさつ・講師紹介・本日のゴール&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;CDLE熊本 有馬英俊&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:05-15:35&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;ハンズオン（7ステップを一気通貫）&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;天汐香弓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:35-15:55&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;できたものを見せ合う・つまずき解消・Q&amp;amp;A&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;天汐香弓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:55-16:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;まとめ・次回のご案内&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;CDLE熊本 有馬英俊&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;終了&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;司会進行：CDLE熊本 有馬英俊&lt;/p&gt;
+&lt;h2&gt;注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Claude Pro（$20/月〜）の契約が必要です。&lt;/strong&gt; 参加費は無料ですが、Claude Code は無料プランでは利用できません。当日ログインできず手が止まってしまいますので、必ず事前にご契約ください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Node.js のバージョンにご注意ください。&lt;/strong&gt; 「v20 以上」では足りません。&lt;strong&gt;v20.0〜v20.18／v21系／v22.0〜v22.11 では動きません&lt;/strong&gt;。&lt;code&gt;node -v&lt;/code&gt; で確認し、&lt;strong&gt;v22.12 以上&lt;/strong&gt;（推奨 v24 LTS）にしてください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows をお使いの方は Git のインストールが必要です。&lt;/strong&gt; Windows 11 には Git が同梱されていません。&lt;/li&gt;
+&lt;li&gt;作ったものを Vercel で公開する場合、無料の Hobby プランは&lt;strong&gt;個人利用・非商用&lt;/strong&gt;が対象です。業務での本格利用を想定される場合はご注意ください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完成しなくても大丈夫です。&lt;/strong&gt; 作り方が分かれば、続きはご自宅で進められます。&lt;/li&gt;
+&lt;li&gt;会場レイアウトの兼ね合いもありますので、申込後に参加できなくなった方はconnpassで必ず「キャンセル」操作をお願いします！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;開催会場&lt;/h2&gt;
+&lt;p&gt;会場：XOSS POINT. &lt;br&gt;
+住所：熊本県熊本市西区春日1丁目14-1 くまもと森都心プラザ2階&lt;br&gt;
+当日の会場参加方法：当日会場に直接お越しいただき、受付を行ってください&lt;br&gt;
+&lt;strong&gt;会場レイアウトの兼ね合いもありますので、申込後に参加できなくなった方はconnpassで必ず「キャンセル」操作をお願いします！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;主催&lt;/h2&gt;
+&lt;p&gt;CDLE熊本&lt;/p&gt;
+&lt;h2&gt;共催&lt;/h2&gt;
+&lt;p&gt;CDLE福岡・CDLEおおいた&lt;/p&gt;
+&lt;h2&gt;協力&lt;/h2&gt;
+&lt;p&gt;CDLE大阪、九州テレコム振興センター (KIAI）&lt;/p&gt;
+&lt;h2&gt;交流会について&lt;/h2&gt;
+&lt;p&gt;勉強会終了後、同会場にて、交流会を開催する予定です。
+参加は任意ですが、ご参加をお待ちしております。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/404168/</guid><enclosure url="https://media.connpass.com/thumbs/f4/d8/f4d82f7b730cd6daf4417eead1edeb7f.png" length="0" type="image/png"/><pubDate>Thu, 20 Aug 2026 10:18:06 +0900</pubDate></item><item><title>Zephyr Project Meetup: Kumamoto, Japan 2026</title><link>https://zephyr-rtos.connpass.com/event/404251/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本（未定）&lt;/li&gt;&lt;li&gt;🏢 住所: 1-1 Honmaru, Chuo Ward, Kumamoto, 860-0002&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZephyrRTOS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;編集中&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;em&gt;The English guide follows the Japanese version.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;編集中 / Now editing *&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;🎫 イベント概要&lt;/h1&gt;
+&lt;p&gt;Zephyr Projectでは、ユーザーや開発者の交流を目的としたMeetupを世界各地で開催しています。&lt;/p&gt;
+&lt;p&gt;今回は熊本での開催です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://zephyrproject.org/join-the-zephyr-project-meetups-learn-connect-and-share/" rel="nofollow"&gt;https://zephyrproject.org/join-the-zephyr-project-meetups-learn-connect-and-share/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zephyrproject.org/category/meetup/" rel="nofollow"&gt;https://zephyrproject.org/category/meetup/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;📆 日時&lt;/h1&gt;
+&lt;p&gt;2026年11月6日(金) 14:00～18:00&lt;/p&gt;
+&lt;h1&gt;🌐 場所&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;会場: 調整中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🏢 入館について&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;入館手続きは不要です。入口から入り、2階へお上がりください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;📹 Live Streaming&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Youtube: &lt;a href="https://youtube.com/live/LyZDHRr0la0" rel="nofollow"&gt;https://youtube.com/live/LyZDHRr0la0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Discord: &lt;a href="https://discord.gg/mZBg4p9E" rel="nofollow"&gt;https://discord.gg/mZBg4p9E&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🎯 登壇募集&lt;/h1&gt;
+&lt;p&gt;登壇いただける方を募集しています。Zephyr RTOSに関する内容であれば、何でも歓迎です。&lt;/p&gt;
+&lt;p&gt;登壇をご希望の方は、connpassで登壇枠にお申し込みのうえ、以下のGoogleフォームから発表概要をご提出ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSceo9hWT6IRr4EPrKSkMYtUumrpYmjbopivfl8bfeB24IpnAA/viewform" rel="nofollow"&gt;https://docs.google.com/forms/d/e/1FAIpQLSceo9hWT6IRr4EPrKSkMYtUumrpYmjbopivfl8bfeB24IpnAA/viewform&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;⌛ 発表時間&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;10～30分 (質疑応答込み、CFP提出時に選択してください)&lt;/li&gt;
+&lt;li&gt;時間調整が必要な場合はご相談ください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎤 発表内容&lt;/h2&gt;
+&lt;p&gt;Zephyr RTOSに関する内容であれば、何でも歓迎です。&lt;/p&gt;
+&lt;h3&gt;📜 過去の例&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/recap-zephyr-project-meetup-nagoya-japan/" rel="nofollow"&gt;https://www.zephyrproject.org/recap-zephyr-project-meetup-nagoya-japan/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/recap-zephyr-project-meetup-oct-202025-osaka-japan/" rel="nofollow"&gt;https://www.zephyrproject.org/recap-zephyr-project-meetup-oct-202025-osaka-japan/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/open-source-summit-tokyo-japan-2025-zephyr-track-and-community-meetup/" rel="nofollow"&gt;https://www.zephyrproject.org/open-source-summit-tokyo-japan-2025-zephyr-track-and-community-meetup/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/recap-blog-zephyr-project-meetup-sapporo-japan/" rel="nofollow"&gt;https://www.zephyrproject.org/recap-blog-zephyr-project-meetup-sapporo-japan/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🕛 タイムテーブル&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時刻&lt;/th&gt;
+&lt;th&gt;発表タイトル&lt;/th&gt;
+&lt;th&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;開場、ネットワーキング&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;💬 Discord&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://chat.zephyrproject.org/" rel="nofollow"&gt;Zephyr RTOS公式Discordサーバー&lt;/a&gt;には、日本語で会話できる #japanese チャンネルがあります。
+このイベントに関する質問や参加者同士の交流は、#japanese チャンネルで行っています。気軽にご参加ください。&lt;/p&gt;
+&lt;h1&gt;❓ FAQ&lt;/h1&gt;
+&lt;h2&gt;会社名を出してもよいですか？&lt;/h2&gt;
+&lt;p&gt;問題ありません。ただし、セールスやマーケティング目的の宣伝、ライセンスの明確でない技術、またはクローズドソースとなる可能性のある技術の説明はご遠慮ください。&lt;/p&gt;
+&lt;h1&gt;⚠️ 注意事項&lt;/h1&gt;
+&lt;h2&gt;参加者の皆さまへのお願い&lt;/h2&gt;
+&lt;p&gt;すべての方 (スピーカー、スポンサー、ボランティアなど) が、それぞれの職場や法令で定められたルールを尊重しつつ、互いに思いやりをもってご参加ください。&lt;/p&gt;
+&lt;h2&gt;禁止行為&lt;/h2&gt;
+&lt;p&gt;差別 (性別、性的指向、障がい、外見、人種、年齢、宗教など法令で保護された属性)、暴言、性的嫌がらせ、ストーキング、威嚇、不要な身体接触、写真・録画による嫌がらせなど、あらゆるハラスメントを禁止します。&lt;/p&gt;
+&lt;h2&gt;独占禁止法遵守ポリシー&lt;/h2&gt;
+&lt;p&gt;以下をご確認ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linuxfoundation.org/legal/antitrust-policy" rel="nofollow"&gt;https://www.linuxfoundation.org/legal/antitrust-policy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;参考日本語訳: &lt;a href="https://www.linuxfoundation.jp/antitrust-policy/" rel="nofollow"&gt;https://www.linuxfoundation.jp/antitrust-policy/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🍺 懇親会&lt;/h1&gt;
+&lt;p&gt;イベント終了後、懇親会を予定しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;懇親会についてはこちらをご覧ください。ご参加お待ちしています！&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zephyr-rtos.connpass.com/event/396884/" rel="nofollow"&gt;https://zephyr-rtos.connpass.com/event/396884/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;🎫 Event Overview&lt;/h1&gt;
+&lt;p&gt;The Zephyr Project organizes meetups around the world to foster interaction between users and developers.&lt;/p&gt;
+&lt;p&gt;This will be the 6th Zephyr Project meetup in Japan, and we are excited to return to Sapporo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://zephyrproject.org/join-the-zephyr-project-meetups-learn-connect-and-share/" rel="nofollow"&gt;https://zephyrproject.org/join-the-zephyr-project-meetups-learn-connect-and-share/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zephyrproject.org/category/meetup/" rel="nofollow"&gt;https://zephyrproject.org/category/meetup/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;📆 Date&lt;/h1&gt;
+&lt;p&gt;Friday, June 26, 2026, 14:00-18:00&lt;/p&gt;
+&lt;h1&gt;🌐 Location&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: Space Cubics / Venture Sq. 301, 1, South-3 East-2, Chuo-ku, Sapporo, Japan 060-0053&lt;/li&gt;
+&lt;li&gt;Google Map: &lt;a href="https://maps.app.goo.gl/xWXUDZ8p3Se8zG7V9" rel="nofollow"&gt;https://maps.app.goo.gl/xWXUDZ8p3Se8zG7V9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Access: &lt;a href="https://forum.spacecubics.com/t/space-cubcs-sunshine-building/103" rel="nofollow"&gt;https://forum.spacecubics.com/t/space-cubcs-sunshine-building/103&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🏢 Admission&lt;/h1&gt;
+&lt;p&gt;No check-in procedure is required. Please enter the building and go to the second floor.&lt;/p&gt;
+&lt;h1&gt;📹 Live Streaming&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;TBA&lt;/li&gt;
+&lt;li&gt;We plan to stream the event on Discord or YouTube.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🎯 Call for Speakers&lt;/h1&gt;
+&lt;p&gt;We are looking for speakers. Any topic related to Zephyr RTOS is welcome.&lt;/p&gt;
+&lt;p&gt;If you would like to present, please sign up for a speaker slot on connpass and submit your talk summary using the Google Form below.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSceo9hWT6IRr4EPrKSkMYtUumrpYmjbopivfl8bfeB24IpnAA/viewform" rel="nofollow"&gt;https://docs.google.com/forms/d/e/1FAIpQLSceo9hWT6IRr4EPrKSkMYtUumrpYmjbopivfl8bfeB24IpnAA/viewform&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;⌛ Presentation Time&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;10 to 30 minutes, including Q&amp;amp;A. Please select your preferred length when submitting your CFP.&lt;/li&gt;
+&lt;li&gt;If you need a different time slot, please contact us.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎤 Topics&lt;/h2&gt;
+&lt;p&gt;Any topic related to Zephyr RTOS is welcome.&lt;/p&gt;
+&lt;h3&gt;📜 Past Examples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/recap-zephyr-project-meetup-nagoya-japan/" rel="nofollow"&gt;https://www.zephyrproject.org/recap-zephyr-project-meetup-nagoya-japan/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/recap-zephyr-project-meetup-oct-202025-osaka-japan/" rel="nofollow"&gt;https://www.zephyrproject.org/recap-zephyr-project-meetup-oct-202025-osaka-japan/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/open-source-summit-tokyo-japan-2025-zephyr-track-and-community-meetup/" rel="nofollow"&gt;https://www.zephyrproject.org/open-source-summit-tokyo-japan-2025-zephyr-track-and-community-meetup/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zephyrproject.org/recap-blog-zephyr-project-meetup-sapporo-japan/" rel="nofollow"&gt;https://www.zephyrproject.org/recap-blog-zephyr-project-meetup-sapporo-japan/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🕛 Timetable&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Talk Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;Doors Open, Networking&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;Opening Remarks and Announcements&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:10&lt;/td&gt;
+&lt;td&gt;Several Topics on Raspberry Pi 4/5 PCIe&lt;/td&gt;
+&lt;td&gt;@crs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:40&lt;/td&gt;
+&lt;td&gt;Zenoh on Zephyr on LiteX towards Robot IoT Systems Capable of Rapid Recovery Using 3D-Stacked LSI/FPGA&lt;/td&gt;
+&lt;td&gt;@takasehideki&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:10&lt;/td&gt;
+&lt;td&gt;Debugging Zephyr: Choosing the Right Tool When Things Go Wrong&lt;/td&gt;
+&lt;td&gt;@yasushishoji&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50&lt;/td&gt;
+&lt;td&gt;Break, Networking&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10&lt;/td&gt;
+&lt;td&gt;Trying Zephyr in an FPGA Development Competition&lt;/td&gt;
+&lt;td&gt;@misoji_engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30&lt;/td&gt;
+&lt;td&gt;Trying Zephyr on a Flexible PCB&lt;/td&gt;
+&lt;td&gt;@misoji_engineer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:40&lt;/td&gt;
+&lt;td&gt;Following Zephyr Safety: Joining the WG and Contributing Requirements&lt;/td&gt;
+&lt;td&gt;@Kurokawa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:10&lt;/td&gt;
+&lt;td&gt;The Return of Live CFP Submitting&lt;/td&gt;
+&lt;td&gt;@crs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:40&lt;/td&gt;
+&lt;td&gt;LT1: Implementation of IP driver to SoC&lt;/td&gt;
+&lt;td&gt;@khayash1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:45&lt;/td&gt;
+&lt;td&gt;LT2&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;Teardown and Hotel Check-in&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;Social Gathering&lt;/td&gt;
+&lt;td&gt;----&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;💬 Discord&lt;/h1&gt;
+&lt;p&gt;A #japanese channel is available on the official Zephyr RTOS Discord server for Japanese-speaking community members.&lt;/p&gt;
+&lt;p&gt;We use the #japanese channel for questions about this event and for community discussion. Feel free to join us.&lt;/p&gt;
+&lt;h1&gt;❓ FAQ&lt;/h1&gt;
+&lt;h2&gt;Can I mention my company name?&lt;/h2&gt;
+&lt;p&gt;Yes. However, please avoid sales pitches, marketing presentations, or discussions of technologies whose licensing status is unclear or that may be closed source.&lt;/p&gt;
+&lt;h1&gt;⚠️ Important Notes / Code of Conduct&lt;/h1&gt;
+&lt;h2&gt;A Request to All Participants&lt;/h2&gt;
+&lt;p&gt;We ask all participants, including speakers, sponsors, and volunteers, to treat one another with respect while observing the rules of their respective workplaces and applicable laws.&lt;/p&gt;
+&lt;h2&gt;Prohibited Actions&lt;/h2&gt;
+&lt;p&gt;Harassment of any kind is prohibited, including discrimination based on gender, sexual orientation, disability, appearance, race, age, religion, or any other legally protected characteristic, as well as verbal abuse, sexual harassment, stalking, intimidation, unwanted physical contact, or harassment through photography or recording.&lt;/p&gt;
+&lt;h2&gt;Antitrust Policy&lt;/h2&gt;
+&lt;p&gt;Please review: &lt;a href="https://www.linuxfoundation.org/legal/antitrust-policy" rel="nofollow"&gt;https://www.linuxfoundation.org/legal/antitrust-policy&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;🍺 Social Gathering&lt;/h1&gt;
+&lt;p&gt;We are planning a social gathering in the evening.&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zephyr-rtos.connpass.com/event/404251/</guid><enclosure url="https://media.connpass.com/thumbs/b4/9b/b49b3f3d64bef22c30a37261e1d1999c.png" length="0" type="image/png"/><pubDate>Wed, 19 Aug 2026 08:21:30 +0900</pubDate></item></channel></rss>
