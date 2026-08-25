@@ -1,124 +1,129 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 24 Aug 2026 15:30:22 +0000</lastBuildDate><item><title>【CDLE熊本】第2回 生成AIハンズオン勉強会「これ、何ごみ？」をAIに聞く</title><link>https://cdle-kumamoto.connpass.com/event/402716/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本市市民活動支援センター あいぽーと&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;熊本市の「生活便利ブック」をGeminiに読ませて、“自分専用の暮らしAI”をつくる&lt;/p&gt;&lt;div&gt;&lt;h2&gt;1. タイトル（コピペ用）&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;【CDLE熊本】第2回 生成AIハンズオン勉強会「これ、何ごみ？」をAIに聞く
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2&gt;2. キャッチコピー（タイトル下の1行）&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;熊本市の「生活便利ブック」をGeminiに読ませて、“自分専用の暮らしAI”をつくる
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2&gt;3. 説明文（Markdownでそのまま貼れます）&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="gu"&gt;## こんなこと、ありませんか&lt;/span&gt;
-
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;「これは燃やすごみ？」
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;「引っ越しの手続き、何を持っていけばいいの？」
-
-熊本市の冊子は手元にあるけれど、どこに書いてあるか探すのが大変。
-インターネットで調べても、熊本市の話かどうか分からない。
-
-&lt;span class="gu"&gt;## この勉強会でやること&lt;/span&gt;
-
-Gemini の &lt;span class="gs"&gt;**ノートブック**&lt;/span&gt; という機能に、熊本市の「生活便利ブック」（79ページ）を丸ごと読ませて、
-&lt;span class="gs"&gt;**“自分専用の暮らしAI”**&lt;/span&gt;をつくります。
-
-答えのところどころに、小さく「**PDF**」という印が付きます。
-&lt;span class="gs"&gt;**押すと、冊子のその場所に飛びます。**&lt;/span&gt; 確かめてから使えます。
-
-さらに、**同じ画面のまま**「Web検索を使って、近くの回収施設も調べて」とお願いできます。
-このときの答えには「PDF」の印が**付きません**。
-
-つまり ――
-**印が付いている部分は、冊子のどこに書いてあったか確認できます。
-付いていない部分は、冊子を根拠にしたとは確認できません。**
-
-&lt;span class="gs"&gt;**「どこまで確かめられる答えなのか」を見分ける手がかり**&lt;/span&gt;が持てるようになります。
-ここが今日いちばん持って帰ってほしいところです。
-
-&lt;span class="gu"&gt;## 使う道具&lt;/span&gt;
-
-&lt;span class="gs"&gt;**Googleの「Gemini」だけ**&lt;/span&gt;です。開くサイトは &lt;span class="sb"&gt;`gemini.google.com`&lt;/span&gt; の1つだけ。
-新しく契約するものも、インストールするものもありません。
-
-その中の**ノートブック機能**を使って、自分の資料をAIに持たせます。
-※ ノートブックは、以前 NotebookLM と呼ばれていた機能がGeminiに統合されたものです。
-
-&lt;span class="gu"&gt;## 持ち帰るもの&lt;/span&gt;
-
-当日つくった「**自分専用のノートブック**」は、ご自身のGoogleアカウントに残ります。
-閉じても消えません。帰ってからも、思い出したときに聞き直せます。
-
-&lt;span class="gu"&gt;## タイムテーブル&lt;/span&gt;
-
-| 時間 | 内容 |
-|---|---|
-| 12:40 | 受付開始（早めに来ていただいて大丈夫です） |
-| 13:00 | はじめに／AIに“自分の資料”を持たせるとは |
-| 13:20 | Geminiの中に自分のノートブックを作り、冊子を読み込ませる |
-| 13:40 | 冊子に聞いてみる・「PDF」の印で出典を確かめる |
-| 14:00 | &lt;span class="gs"&gt;**同じ会話のまま、Webの情報も足していく**&lt;/span&gt; |
-| 14:35 | まとめ／共有 |
-| 14:50 | アンケート |
-| 15:00 | 終了 |
-
-&lt;span class="k"&gt;&amp;amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;⏳ **13:20台に、3分ほど待ち時間があります。**&lt;/span&gt;
-&lt;span class="k"&gt;&amp;amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;冊子（13.7メガバイト・79ページ）の読み込みに時間がかかるためです。&lt;/span&gt;
-&lt;span class="k"&gt;&amp;amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;**故障ではありません。** その間に、画面の見方と質問のコツをご説明します。&lt;/span&gt;
-
-&lt;span class="gu"&gt;## 持ち物（必ずお読みください）&lt;/span&gt;
-
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**ノートパソコンをお持ちください。**&lt;/span&gt; 今回からパソコンを使います
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**参加には「個人の」Googleアカウントが必要です（当日までにご準備を）**&lt;/span&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 25 Aug 2026 15:34:13 +0000</lastBuildDate><item><title>【CDLE熊本】第2回 生成AIハンズオン勉強会「これ、何ごみ？」をAIに聞く</title><link>https://cdle-kumamoto.connpass.com/event/402716/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本市市民活動支援センター あいぽーと&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;熊本市の「生活便利ブック」をGeminiに読ませて、“自分専用の暮らしAI”をつくる&lt;/p&gt;&lt;div&gt;&lt;h2&gt;こんなこと、ありませんか&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「これは燃やすごみ？」&lt;/li&gt;
+&lt;li&gt;「引っ越しの手続き、何を持っていけばいいの？」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;熊本市の冊子は手元にあるけれど、どこに書いてあるか探すのが大変。
+インターネットで調べても、熊本市の話かどうか分からない。&lt;/p&gt;
+&lt;h2&gt;この勉強会でやること&lt;/h2&gt;
+&lt;p&gt;Gemini の &lt;strong&gt;ノートブック&lt;/strong&gt; という機能に、熊本市の「生活便利ブック」（79ページ）を丸ごと読ませて、
+&lt;strong&gt;“自分専用の暮らしAI”&lt;/strong&gt;をつくります。&lt;/p&gt;
+&lt;p&gt;答えのところどころに、小さく「&lt;strong&gt;PDF&lt;/strong&gt;」という印が付きます。
+&lt;strong&gt;押すと、冊子のその場所に飛びます。&lt;/strong&gt; 確かめてから使えます。&lt;/p&gt;
+&lt;p&gt;さらに、&lt;strong&gt;同じ画面のまま&lt;/strong&gt;「Web検索を使って、近くの回収施設も調べて」とお願いできます。
+このときの答えには「PDF」の印が&lt;strong&gt;付きません&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;つまり ――
+&lt;strong&gt;印が付いている部分は、冊子のどこに書いてあったか確認できます。
+付いていない部分は、冊子を根拠にしたとは確認できません。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「どこまで確かめられる答えなのか」を見分ける手がかり&lt;/strong&gt;が持てるようになります。
+ここが今日いちばん持って帰ってほしいところです。&lt;/p&gt;
+&lt;h2&gt;使う道具&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Googleの「Gemini」だけ&lt;/strong&gt;です。開くサイトは &lt;code&gt;&lt;a href="http://gemini.google.com" rel="nofollow"&gt;gemini.google.com&lt;/a&gt;&lt;/code&gt; の1つだけ。
+新しく契約するものも、インストールするものもありません。&lt;/p&gt;
+&lt;p&gt;その中の&lt;strong&gt;ノートブック機能&lt;/strong&gt;を使って、自分の資料をAIに持たせます。
+※ ノートブックは、以前 NotebookLM と呼ばれていた機能がGeminiに統合されたものです。&lt;/p&gt;
+&lt;h2&gt;持ち帰るもの&lt;/h2&gt;
+&lt;p&gt;当日つくった「&lt;strong&gt;自分専用のノートブック&lt;/strong&gt;」は、ご自身のGoogleアカウントに残ります。
+閉じても消えません。帰ってからも、思い出したときに聞き直せます。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;12:40&lt;/td&gt;
+&lt;td&gt;受付開始（早めに来ていただいて大丈夫です）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;はじめに／AIに“自分の資料”を持たせるとは&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:20&lt;/td&gt;
+&lt;td&gt;Geminiの中に自分のノートブックを作り、冊子を読み込ませる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:40&lt;/td&gt;
+&lt;td&gt;冊子に聞いてみる・「PDF」の印で出典を確かめる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;同じ会話のまま、Webの情報も足していく&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:35&lt;/td&gt;
+&lt;td&gt;まとめ／共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:50&lt;/td&gt;
+&lt;td&gt;アンケート&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;終了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⏳ &lt;strong&gt;13:20台に、3分ほど待ち時間があります。&lt;/strong&gt;
+冊子（13.7メガバイト・79ページ）の読み込みに時間がかかるためです。
+&lt;strong&gt;故障ではありません。&lt;/strong&gt; その間に、画面の見方と質問のコツをご説明します。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;持ち物（必ずお読みください）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ノートパソコンをお持ちください。&lt;/strong&gt; 今回からパソコンを使います&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参加には「個人の」Googleアカウントが必要です（当日までにご準備を）&lt;/strong&gt;
   当日その場での作成はお時間の都合で対応できません。作り方の資料はお渡しします
-  ⚠️ &lt;span class="gs"&gt;**会社・学校のGoogleアカウントでは、今回使う機能が利用できません**&lt;/span&gt;（Googleの仕様です）。
-  お勤め先のアカウントでログインされている方は、個人のアカウントをご用意ください
-
-&lt;span class="gu"&gt;## 対象&lt;/span&gt;
-
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;どなたでも（AIの利用規約により**13歳以上**の方）
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;パソコンの操作に自信がなくても大丈夫です
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**第1回・前回に参加していない方も、今回だけのご参加で大丈夫です**&lt;/span&gt;
-
-&lt;span class="gu"&gt;## 会場&lt;/span&gt;
-
-あいぽーと（熊本市市民活動支援センター）会議・セミナー室
-ウェルパルくまもと1階
-
-&lt;span class="gu"&gt;## 参加費&lt;/span&gt;
-
-無料
-
-&lt;span class="gu"&gt;## お申し込みについて&lt;/span&gt;
-
-connpassからお申し込みください。
-&lt;span class="gs"&gt;**お申し込みなしの当日参加も歓迎します。**&lt;/span&gt; そのままお越しください。
-
-&lt;span class="gu"&gt;## お約束&lt;/span&gt;
-
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;氏名・住所・電話番号・病歴・家族構成などの**個人情報はAIに入力しません**
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="gs"&gt;**「PDF」の印が付いていない情報は、どこから来たか確かめられません。**&lt;/span&gt;
-  電話番号や住所は、かけたり出かけたりする前に必ず市のホームページか窓口でお確かめください
-&lt;span class="k"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;大事なことは、最後は市の窓口でご確認ください
-
-&lt;span class="gu"&gt;## このあとのシリーズ&lt;/span&gt;
-
-9月以降も**月1回**、Geminiのノートブックに他のサービスをつないでいくシリーズとして続けます。
-
-| 回 | テーマ |
-|---|---|
-| 第3回 | Googleドライブ・ドキュメントの資料をまとめて読ませる |
-| 第4回 | ウェブサイト・PDF・YouTubeを読ませて横断的に調べる |
-| 第5回 | Googleフォームで集めたアンケートを読ませる |
-| 第6回 | 資料を貯めておく場所をつくる（“第2の脳”） |
-
-&lt;span class="gs"&gt;**毎回それだけで完結します。**&lt;/span&gt; 途中からのご参加でも大丈夫です。
-
-&lt;span class="gu"&gt;## 主催&lt;/span&gt;
-
-CDLE熊本（担当：有馬）
+  ⚠️ &lt;strong&gt;会社・学校のGoogleアカウントでは、今回使う機能が利用できません&lt;/strong&gt;（Googleの仕様です）。
+  お勤め先のアカウントでログインされている方は、個人のアカウントをご用意ください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;対象&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;どなたでも（AIの利用規約により&lt;strong&gt;13歳以上&lt;/strong&gt;の方）&lt;/li&gt;
+&lt;li&gt;パソコンの操作に自信がなくても大丈夫です&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第1回・前回に参加していない方も、今回だけのご参加で大丈夫です&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;あいぽーと（熊本市市民活動支援センター）会議・セミナー室
+ウェルパルくまもと1階&lt;/p&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h2&gt;お申し込みについて&lt;/h2&gt;
+&lt;p&gt;connpassからお申し込みください。
+&lt;strong&gt;お申し込みなしの当日参加も歓迎します。&lt;/strong&gt; そのままお越しください。&lt;/p&gt;
+&lt;h2&gt;お約束&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;氏名・住所・電話番号・病歴・家族構成などの&lt;strong&gt;個人情報はAIに入力しません&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「PDF」の印が付いていない情報は、どこから来たか確かめられません。&lt;/strong&gt;
+  電話番号や住所は、かけたり出かけたりする前に必ず市のホームページか窓口でお確かめください&lt;/li&gt;
+&lt;li&gt;大事なことは、最後は市の窓口でご確認ください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;このあとのシリーズ&lt;/h2&gt;
+&lt;p&gt;9月以降も&lt;strong&gt;月1回&lt;/strong&gt;、Geminiのノートブックに他のサービスをつないでいくシリーズとして続けます。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;回&lt;/th&gt;
+&lt;th&gt;テーマ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;第3回（9/28 月 17:30〜19:30）&lt;/td&gt;
+&lt;td&gt;ノートブックの答えから“絵本”を作る（Storybook）※18歳以上&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;毎回それだけで完結します。&lt;/strong&gt; 途中からのご参加でも大丈夫です。&lt;/p&gt;
+&lt;h2&gt;主催&lt;/h2&gt;
+&lt;p&gt;CDLE熊本（担当：有馬）
 お問い合わせ：cdle.kumamoto@gmail.com ／ 090-3178-6900
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
+```&lt;/p&gt;
 &lt;h2&gt;会場・アクセス 📍&lt;/h2&gt;
 &lt;p&gt;熊本市市民活動支援センター あいぽーと 会議・セミナー室
 熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階
@@ -136,7 +141,7 @@ CDLE熊本（担当：有馬）
 &lt;li&gt;当日の様子は、広報のため写真撮影を行う場合があります。写り込みを希望されない方は当日スタッフにお申し出ください。&lt;/li&gt;
 &lt;li&gt;皆さまが気持ちよく学べる場づくりのため、勉強会の進行や他の参加者の学びへのご配慮をお願いいたします。&lt;/li&gt;
 &lt;li&gt;本勉強会で扱う料金・モデル・プラン情報は &lt;strong&gt;2026年7月時点&lt;/strong&gt; のものです。AIツールの仕様は変動が早いため、実際の利用前には各社公式情報をご確認ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/402716/</guid><enclosure url="https://media.connpass.com/thumbs/6c/cd/6ccd85fd760caa01d9677aa0488a80b9.png" length="0" type="image/png"/><pubDate>Tue, 04 Aug 2026 21:47:36 +0900</pubDate></item><item><title>AIを使ったRoblox開発</title><link>https://otona.connpass.com/event/404693/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月31日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月31日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: XOSS POINT.&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;難易度：★☆☆☆☆&lt;/p&gt;&lt;div&gt;&lt;p&gt;グラフィックデザインを専攻し、デザインや3D制作など幅広いものづくりに取り組んでいる発表者が、Roblox StudioとAIを組み合わせたゲーム制作の実践方法をやさしく解説します。&lt;/p&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/402716/</guid><enclosure url="https://media.connpass.com/thumbs/6c/cd/6ccd85fd760caa01d9677aa0488a80b9.png" length="0" type="image/png"/><pubDate>Tue, 25 Aug 2026 11:25:51 +0900</pubDate></item><item><title>AIを使ったRoblox開発</title><link>https://otona.connpass.com/event/404693/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月31日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月31日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: XOSS POINT.&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;難易度：★☆☆☆☆&lt;/p&gt;&lt;div&gt;&lt;p&gt;グラフィックデザインを専攻し、デザインや3D制作など幅広いものづくりに取り組んでいる発表者が、Roblox StudioとAIを組み合わせたゲーム制作の実践方法をやさしく解説します。&lt;/p&gt;
 &lt;p&gt;まずRoblox Studioのインストールから始め、続いてRojo・VS Codeのインストールと、両方でのRojo設定方法を丁寧に解説します。環境が整ったところで、Part・Terrainの基本操作を学び、走る機能や横視点カメラ、アイテムUI、動く足場、テレポート、チェックポイント、カメラ演出付きのパズルドアシステムなど、実際のゲームメカニクスを一つずつ構築していきます。後半では、AIだけを使ったゲーム制作テスト（木の生成・ジェットパック実装など）にも触れ、AIを活用したゲーム開発の可能性を一緒に考えたいと思います。&lt;/p&gt;
 &lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
 &lt;ul&gt;
@@ -196,7 +201,7 @@ CDLE熊本（担当：有馬）
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;皆さまのご参加をお待ちしています！&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://otona.connpass.com/event/404693/</guid><enclosure url="https://media.connpass.com/thumbs/7c/08/7c0842c62d41a1b039a8a0250589e6cb.png" length="0" type="image/png"/><pubDate>Mon, 24 Aug 2026 13:01:56 +0900</pubDate></item><item><title>施設故障で延期です→9/4サプライチェーンセキュリティ、SEMI E187,188対策セミナー</title><link>https://connpass.com/event/401166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月4日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月4日(金) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本商工会議所　会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本市中央区横紺屋町10番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;取引先から求められるセキュリティ対策 中小企業でも実践できる対応方法&lt;/p&gt;&lt;div&gt;&lt;p&gt;半導体サプライチェーンで求められるセキュリティを、実践的に学ぶ2時間&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://otona.connpass.com/event/404693/</guid><enclosure url="https://media.connpass.com/thumbs/9f/2d/9f2da4084e986af9f9fe61951797e28d.png" length="0" type="image/png"/><pubDate>Tue, 25 Aug 2026 09:00:41 +0900</pubDate></item><item><title>施設故障で延期です→9/4サプライチェーンセキュリティ、SEMI E187,188対策セミナー</title><link>https://connpass.com/event/401166/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月4日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月4日(金) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本商工会議所　会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本市中央区横紺屋町10番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;取引先から求められるセキュリティ対策 中小企業でも実践できる対応方法&lt;/p&gt;&lt;div&gt;&lt;p&gt;半導体サプライチェーンで求められるセキュリティを、実践的に学ぶ2時間&lt;/p&gt;
 &lt;p&gt;TSMCをはじめとする半導体産業の集積により、熊本県内でもサプライチェーン全体のセキュリティ強化が求められています。&lt;/p&gt;
 &lt;p&gt;本セミナーでは、&lt;/p&gt;
 &lt;p&gt;経済産業省 サプライチェーンセキュリティ評価制度（★3・★4）
@@ -204,7 +209,46 @@ SEMI E187（半導体製造装置のサイバーセキュリティ）
 SEMI E188（マルウェアフリー保守・メンテナンス）
 今後取引先から求められるセキュリティ対応&lt;/p&gt;
 &lt;p&gt;について、株式会社セキュリティパートナーが豊富なコンサルティング経験をもとに、実務に役立つポイントを解説します。&lt;/p&gt;
-&lt;p&gt;制度の概要だけではなく、&lt;strong&gt;「自社は何を準備すればよいのか」&lt;/strong&gt;が具体的に理解できるため、これから対応を始める企業に最適な入門セミナーです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401166/</guid><enclosure url="https://media.connpass.com/thumbs/e9/bc/e9bc3efaba3a98f54e1c3ae6c2187fb7.png" length="0" type="image/png"/><pubDate>Fri, 07 Aug 2026 09:26:00 +0900</pubDate></item><item><title>第5回ハンズオン勉強会 Claude Code でつくる はじめての業務ツール</title><link>https://cdle-kumamoto.connpass.com/event/404168/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本 XOSS POINT&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;React + TypeScript でつくって、GitHub に置いて、みんなに届けるまで&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第5回ハンズオン勉強会 Claude Code でつくる はじめての業務ツール&lt;/h1&gt;
+&lt;p&gt;制度の概要だけではなく、&lt;strong&gt;「自社は何を準備すればよいのか」&lt;/strong&gt;が具体的に理解できるため、これから対応を始める企業に最適な入門セミナーです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/401166/</guid><enclosure url="https://media.connpass.com/thumbs/e9/bc/e9bc3efaba3a98f54e1c3ae6c2187fb7.png" length="0" type="image/png"/><pubDate>Fri, 07 Aug 2026 09:26:00 +0900</pubDate></item><item><title>2026年9月 熊本クリエイターズギルド もくもく会</title><link>https://kumamoto-creators-guild.connpass.com/event/402972/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月9日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月9日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本市中央公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒860-0843 熊本県熊本市中央区草葉町5-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #もくもく会,熊本クリエイターズギルド&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ぜひ一緒にもくもくしましょう！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;熊本クリエイターズギルド主催のもくもく会を開催します！&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「日々の業務におわれてなかなか自分の作品を作る時間がとれない…」&lt;/li&gt;
+&lt;li&gt;「ひとりだとなかなか作品作りに集中できない…」&lt;/li&gt;
+&lt;li&gt;「誰かに相談したいけど、気軽に相談できる人がいない…」などなど&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こんな悩みをお持ちの方はいらっしゃいませんか？&lt;/p&gt;
+&lt;p&gt;「熊本クリエイターズギルド」のもくもく会は、熊本クリエイターズギルドのもくもく会はIT関連だけに絞らず、さまざまな作業・創作に当てる時間として自由にお使い頂けます。&lt;/p&gt;
+&lt;p&gt;熊本のエンターテイメント・クリエイティブの発展と成長に貢献する場として、皆さんの参加をお待ちしています。&lt;/p&gt;
+&lt;p&gt;ぜひ一緒にもくもくしましょう！&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;もくもく作業をしたい人なら誰でもOK！参加費無料！&lt;/p&gt;
+&lt;h2&gt;▼もくもく会とは&lt;/h2&gt;
+&lt;p&gt;プログラミングやIT関連の勉強をするためのあつまりです。&lt;/p&gt;
+&lt;p&gt;初心者から上級者まで幅広いレベルの方が参加でき、自由に作業を行ったり質問をしたり交流をはかったりできます。&lt;/p&gt;
+&lt;h2&gt;▼熊本クリエイターズギルドとは&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.kc-guild.net/" rel="nofollow"&gt;https://www.kc-guild.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「熊本をエンターテイメントで盛り上げる」「ワクワクする世界を創る」をコンセプトとした、熊本にゆかりのある様々なエンターテイメント・クリエイティブ・モノ作りに関わる/関わりたい/応援している人たちのコミュニティです。&lt;/p&gt;
+&lt;h3&gt;LINEグループで情報発信をしています！&lt;/h3&gt;
+&lt;p&gt;熊本クリエイターズギルドのイベント開催情報はLINEグループで発信しております！&lt;/p&gt;
+&lt;p&gt;クリエイティブには興味ないけど、イベント情報はキャッチしたい！そんな方は是非こちらもご参加ください！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://line.me/ti/g2/4zbK3bCFq3Z4Yue3pUmFFrHtqh70gq0raGR4ww?utm_source=invitation&amp;amp;utm_medium=link_copy&amp;amp;utm_campaign=default" rel="nofollow"&gt;https://line.me/ti/g2/4zbK3bCFq3Z4Yue3pUmFFrHtqh70gq0raGR4ww?utm_source=invitation&amp;amp;utm_medium=link_copy&amp;amp;utm_campaign=default&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;▼開催場所&lt;/h2&gt;
+&lt;p&gt;熊本市中央公民館　熊本中央公民館　6階小会議室&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://shirakawa-chuo-cc.com/" rel="nofollow"&gt;https://shirakawa-chuo-cc.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;▼持ち物&lt;/h2&gt;
+&lt;p&gt;各自必要なものをご持参ください。 Wifi環境有り&lt;/p&gt;
+&lt;h2&gt;▼タイムスケジュール&lt;/h2&gt;
+&lt;p&gt;18:00 - 18:10　開会・説明&lt;/p&gt;
+&lt;p&gt;18:10 - 19:55　もくもく(質問・会話OK)&lt;/p&gt;
+&lt;p&gt;19:55 - 20:00　閉会&lt;/p&gt;
+&lt;h2&gt;▼主催&lt;/h2&gt;
+&lt;p&gt;熊本クリエイターズギルド&lt;/p&gt;
+&lt;h2&gt;▼連絡手段 / 質問&lt;/h2&gt;
+&lt;p&gt;熊本クリエイターズギルドのDiscodeチャンネルでご質問をお受けしております！&lt;/p&gt;
+&lt;p&gt;「あいさつ」で自己紹介して頂き、「質問箱」で質問を投稿してください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://discord.com/invite/3BP8PEUenz" rel="nofollow"&gt;https://discord.com/invite/3BP8PEUenz&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;熊本クリエイターズギルドではギルドメンバーを募集しています！&lt;/h3&gt;
+&lt;p&gt;普段、Discode上でクリエイティブ関連の情報交換・案件紹介/募集・イベント企画などを行っています！&lt;/p&gt;
+&lt;p&gt;是非お気軽にご参加くださいませ！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kumamoto-creators-guild.connpass.com/event/402972/</guid><enclosure url="https://media.connpass.com/thumbs/9f/ef/9fefc90b91264801302268bf238bb3d6.png" length="0" type="image/png"/><pubDate>Tue, 25 Aug 2026 12:15:54 +0900</pubDate></item><item><title>第5回ハンズオン勉強会 Claude Code でつくる はじめての業務ツール</title><link>https://cdle-kumamoto.connpass.com/event/404168/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本 XOSS POINT&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;React + TypeScript でつくって、GitHub に置いて、みんなに届けるまで&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第5回ハンズオン勉強会 Claude Code でつくる はじめての業務ツール&lt;/h1&gt;
 &lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;コードを書いた経験がない方&lt;/strong&gt;を対象に、AIと会話しながら、自分の仕事で使う業務ツールを1つ完成させます。&lt;/p&gt;
 &lt;p&gt;ゲスト講師に &lt;strong&gt;天汐香弓 氏&lt;/strong&gt;（AIコンテンツクリエイター／ライター／個人開発者）をお迎えします。&lt;/p&gt;
