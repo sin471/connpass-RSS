@@ -1,235 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 26 Aug 2026 16:10:26 +0000</lastBuildDate><item><title>夏休みの過ごし方を語り合おう - (関西版) Progate BAR LT会&amp;交流会</title><link>https://progate.connpass.com/event/402831/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月27日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月27日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Progate京都ハッカソンハウス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市左京区田中門前町46 京美華ビル 3F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;🎉 イベント概要&lt;/h2&gt;
-&lt;p&gt;&lt;strong style="font-size: 1.5rem;"&gt;夏休みの過ごし方を語り合おう - (関西版) Progate BAR LT会&amp;amp;交流会&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「夏休みだけど、みんな何をしてるんだろう？」
-「バイト？サークル？資格勉強？個人開発？みんなどう時間使ってる？」
-「せっかくの長期休み、後悔しない過ごし方のヒントがほしい！」&lt;/p&gt;
-&lt;p&gt;夏休みは自由がいっぱいの特別な時間。でも、自由だからこそ「気づいたらあっという間に終わっていた…」「周りが何をしているのか気になって焦る」なんてこともありますよね。&lt;/p&gt;
-&lt;p&gt;今回のProgate BAR 京都版は、シンプルに「夏休みをどう過ごすか / どう過ごしたか」をテーマにしたざっくばらんなLT会です！&lt;/p&gt;
-&lt;p&gt;エンジニアとしての開発や学習の話はもちろん、旅行、バイト、趣味、日常の試行錯誤まで、先輩たちのリアルな体験談を大募集。肩肘張らずに「こんな夏休みもアリだな」「自分もこれやってみよう」と思えるヒントを持ち帰りましょう！🍸&lt;/p&gt;
-&lt;h2&gt;👩‍💻 こんな方にオススメ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;夏休みの計画をこれから立てたい、過ごし方に迷っている方&lt;/li&gt;
-&lt;li&gt;先輩たちが過去の夏休みをどう過ごしていたのか知りたい方&lt;/li&gt;
-&lt;li&gt;技術の勉強や個人開発、趣味やイベントなど、新しいことに挑戦したい方&lt;/li&gt;
-&lt;li&gt;「他の学生がどんな夏の過ごし方をしているか」気になる方&lt;/li&gt;
-&lt;li&gt;関西でゆるくつながれる仲間や友人を作りたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Progate BAR 参加条件&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://path.progate.com/" rel="nofollow"&gt;Progate Path&lt;/a&gt;に登録していること（所要時間約1分）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;📆 開催日時&lt;/h1&gt;
-&lt;p&gt;2026年8月27日(木) 17:30開場・受付開始、18:00開始、21:00解散予定&lt;/p&gt;
-&lt;h1&gt;📍 開催場所&lt;/h1&gt;
-&lt;p&gt;Progateハッカソンハウス京都&lt;br&gt;
-（京都府京都市左京区田中門前町46 京美華ビル 3F）&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maps.app.goo.gl/5EZ54kVXaZpQZD2p8" rel="nofollow"&gt;https://maps.app.goo.gl/5EZ54kVXaZpQZD2p8&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;🕐 タイムテーブル&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 00:10:22 +0000</lastBuildDate><item><title>DISRUPT AI Hackathon申し込みリマインド</title><link>https://connpass.com/event/405061/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 22:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 0:00&lt;/li&gt;&lt;li&gt;📍 会場: ✨申し込みページ✨&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市下京区中堂寺南町134KISTIC 2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜AIでアイデアを形にする体験型イベント〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🚀 &lt;strong&gt;DISRUPT AI Hackathon&lt;/strong&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;strong&gt;申し込みはこちらから！&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;a href="https://www.craftstadium.com/hackathon/disrupt-ai-hackathon" rel="nofollow"&gt;https://www.craftstadium.com/hackathon/disrupt-ai-hackathon&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2&gt;🎯 テーマ&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;AIで自分の短所を長所に変えろ！！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;📖 イベント概要&lt;/h2&gt;
+&lt;p&gt;本イベントは、生成AIを活用し「自分の短所を長所に変える」をテーマに、AI活用のハードルを下げることを目的とした、1日完結型の体験型イベントです。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「AIは気になるけど、何から手をつければいいか分からない」&lt;/p&gt;
+&lt;p&gt;「ハッカソンって、コードが書ける人だけの場所でしょ？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;このイベントは、その2つの思い込みを1日で壊すために立ち上げました。&lt;/p&gt;
+&lt;p&gt;関西には、AIに興味を持つ学生がたくさんいます。
+でも、実際に手を動かして何かをつくる場に飛び込んでいる人はごく一部です。
+理由はシンプル。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;▶️ 最初の一歩のハードルが高すぎるから。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;だから私たちは、そのハードルを可能な限り下げることに全力を注ぎました。
+事前準備は不要。朝集まって、夜には自分のプロダクトが動く。
+それが今回のイベントです。&lt;/p&gt;
+&lt;h3&gt;💡 お題は「あなた自身」です。&lt;/h3&gt;
+&lt;p&gt;「何かすごいアイデアを出さなきゃ」——そう身構える必要はありません。
+アラームを5個かけても起きられない朝。
+「明日からやる」って言い続けて3週間目の資格勉強。
+そんな自分の「短所」をひとつ選んで、AIの力で「長所」に変える。
+それが今回のハッカソンのテーマです。&lt;/p&gt;
+&lt;p&gt;お題が自分自身だから、リサーチはいらない。
+答えの半分は、もう自分の中にあるからです。
+考える時間を、そのまま「つくる時間」に回せます。&lt;/p&gt;
+&lt;p&gt;文系も参加しやすく、理系も物足りなさを感じない。
+どんな学生も主役になれるイベントを目指しています。&lt;/p&gt;
+&lt;p&gt;自分の「苦手なこと」、ひとつだけ持ってきてください。
+AIを使って短所を長所に変えるものを作り上げることで、それがいちばんの自慢になっているはずです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📆 開催概要&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;項目&lt;/th&gt;
 &lt;th&gt;内容&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;17:30&lt;/td&gt;
-&lt;td&gt;受付開始&lt;/td&gt;
+&lt;td&gt;📌 日時&lt;/td&gt;
+&lt;td&gt;2026年8月30日（日）10:00〜19:30（受付：9:30〜）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;18:00&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;📍 会場&lt;/td&gt;
+&lt;td&gt;京都リサーチパーク たまり場イベントスペース（京都市下京区中堂寺南町134 KISTIC 2階）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;18:10&lt;/td&gt;
-&lt;td&gt;LT会 — 夏休みの過ごし方&lt;/td&gt;
+&lt;td&gt;🏢 形式&lt;/td&gt;
+&lt;td&gt;オフライン（現地開催）／1日完結型&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;19:25&lt;/td&gt;
-&lt;td&gt;交流セッション&lt;/td&gt;
+&lt;td&gt;💰 参加費&lt;/td&gt;
+&lt;td&gt;無料&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;20:45&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
+&lt;td&gt;🍻 懇親会&lt;/td&gt;
+&lt;td&gt;18:30〜19:30（無料）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1&gt;🎤 セッション情報&lt;/h1&gt;
-&lt;h2&gt;⚡ LTセッション&lt;/h2&gt;
-&lt;h3&gt;🎓 登壇LT：「私の夏休みの過ごし方・おすすめの過ごし方」&lt;/h3&gt;
-&lt;p&gt;ガッツリ開発に没頭した夏、旅に出て見聞を広めた夏、ダラダラ過ごして後悔した夏、新しい趣味や勉強を始めた夏——。
-自分の「夏の過ごし方」や「やってよかったこと・失敗したこと」を等身大で語ります。&lt;/p&gt;
-&lt;p&gt;「こんな過ごし方も面白いよ」「これはやっておくと良いかも」という気軽なトピックで、参加者の夏休みをちょっと楽しくするきっかけを作ります。&lt;/p&gt;
-&lt;h4&gt;LTテーマ例：&lt;/h4&gt;
+&lt;h3&gt;🎈 事前プレイベント&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;8月10日 22:30〜23:30 オンライン開催(終了)&lt;/strong&gt;
+NotebookLMハンズオン～AIで秋学期の授業をハックする～
+&lt;a href="https://disrupt-ai-hack.connpass.com/event/403307/" rel="nofollow"&gt;https://disrupt-ai-hack.connpass.com/event/403307/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8月15日 15:00〜17:00 オンライン開催(終了)&lt;/strong&gt;
+AIでWebアプリ制作に挑戦！〜未経験から日常の課題を解決する体験〜
+&lt;a href="https://disrupt-ai-hack.connpass.com/event/403312/" rel="nofollow"&gt;https://disrupt-ai-hack.connpass.com/event/403312/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🙌 参加概要&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;夏休みに〇〇（Webアプリ／ゲーム／資格勉強など）に挑戦してみた話
--「ダラダラ過ごして後悔した夏」から学んだ、時間を有効に使うコツ&lt;/li&gt;
-&lt;li&gt;ハッカソンやイベントに参加してみたら世界が広がった話&lt;/li&gt;
-&lt;li&gt;勉強とバイト・趣味を両立させる、マイペースな夏休みの計画法&lt;/li&gt;
-&lt;li&gt;夏休みの間に「これだけはやっておいてよかった」こと3選&lt;/li&gt;
+&lt;li&gt;🎓 &lt;strong&gt;対象&lt;/strong&gt;：大学・専門学校・高専・高校の学生（文系・理系・学部不問）&lt;/li&gt;
+&lt;li&gt;✅ プログラミング経験、AIツールの使用経験は一切問いません&lt;/li&gt;
+&lt;li&gt;✅ １人での参加OK。個人でお申し込みの場合は運営がチーム編成します&lt;/li&gt;
+&lt;li&gt;✅ 複数人でのチーム参加も可能（1チーム4人まで）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;登壇者募集&lt;/h3&gt;
-&lt;p&gt;&lt;strong style="color:red;"&gt;学生・社会人問わず、登壇者を大募集しています！&lt;/strong&gt;&lt;/p&gt;
-&lt;p style="font-size: 1.5rem;"&gt;LTの持ち時間はひとり 7 分&lt;/p&gt;
-
-&lt;p&gt;&lt;strong style="color:red;"&gt;「ちょっとした夏休みの過ごし方」を大募集！あなたのちょっとした体験談が、誰かの夏休みのヒントになります٩( 'ω' )وﾖｯｼｬ!&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;🌀 交流セッション&lt;/h2&gt;
-&lt;p&gt;「今年の夏休み、どこか行く？」「おすすめの勉強方法教えて！」「個人開発で何作ろうか悩んでて…」&lt;/p&gt;
-&lt;p&gt;LT発表への質問はもちろん、夏休み中の予定や挑戦したいことについて、参加者同士でフランクにおしゃべりする時間です。
-「夏休みに一緒にハッカソンに出てみる仲間」や「一緒に勉強する友達」が見つかるかも！&lt;/p&gt;
-&lt;p&gt;Progateのスタッフも参加しますので、日常の学習やキャリアの雑談もお気軽にどうぞ！('ω' )&lt;/p&gt;
-&lt;h2&gt;軽食にジェイムスキッチンのハンバーグ&lt;/h2&gt;
-&lt;p&gt;京都ハッカソンハウスと同じビルの1階にあるジェイムスキッチン（洋食屋）のハンバーグを提供予定です！&lt;br&gt;
-みんなで美味しいハンバーグを食べながら、交流しましょう！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://i.gyazo.com/a9bcc839d1d1ff302a22e4d92e9449a5.jpg" alt="Image from Gyazo" width="300"&gt;&lt;/p&gt;
-&lt;h1&gt;🍹 ドリンクメニュー&lt;/h1&gt;
-&lt;p&gt;Progate BARではオリジナルのステータスコードカクテルやのみものを用意しています！&lt;/p&gt;
-&lt;p&gt;&lt;img width="400px" src="https://github.com/user-attachments/assets/c25da6d5-169b-4979-8435-57c26251d389"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong style="color: red;"&gt;オリジナルのカクテルはつぎの条件を満たしている方への限定提供となります！&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🌟 こんな体験が待っています&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Progate Pathに登録し&lt;a href="https://app.path.progate.com/career-support" rel="nofollow"&gt;プロフィールで開発経験を入力&lt;/a&gt;している&lt;/li&gt;
+&lt;li&gt;🏆 自分の手で動くプロダクトを完成させた、という成功体験&lt;/li&gt;
+&lt;li&gt;⚡ 生成AIで、アイデアを形にする一連の流れ&lt;/li&gt;
+&lt;li&gt;📝 運営メンバーによるアイデア出し、実装、プレゼンなどのサポート&lt;/li&gt;
+&lt;li&gt;🤝 審査員による直接フィードバック&lt;/li&gt;
+&lt;li&gt;🔥 文理混合チームでの共同開発経験&lt;/li&gt;
+&lt;li&gt;🔍 自分の短所と向き合って解決策を形にする1日は、それ自体が自己分析になる → ガクチカや面接でそのまま語れる&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;カクテルを頼むときにBARカウンターにて入力済みの画面をお見せください〜！&lt;/p&gt;
-&lt;p&gt;ステータスコードドリンクの感想はX（旧Twitter）の #ProgateBAR つきの投稿でぜひ教えてください！見ます！&lt;/p&gt;
-&lt;h3&gt;ボランティアバーテンダー募集(先着2名)&lt;/h3&gt;
-&lt;p&gt;バーカウンターでのドリンク提供を手伝ってくれる方を2名募集します！&lt;/p&gt;
-&lt;p&gt;※バーテンダーとして参加登録をされた方は&lt;strong&gt;簡単な事前説明のために開場15分前頃会場へお越しください&lt;/strong&gt;！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🎒 持ち物・当日の注意&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;未経験OK&lt;/li&gt;
-&lt;li&gt;基本的にはバーカウンターにいて、注文が入った際にドリンクを提供していただきます&lt;/li&gt;
-&lt;li&gt;LTもすべて視聴できます！バーテンダーをしながら色んな方とお話しする機会があります！&lt;/li&gt;
+&lt;li&gt;💻 ノートPC（必須）／電源アダプター（推奨）&lt;/li&gt;
+&lt;li&gt;🤖 生成AIツールの利用は可能です（正規のライセンス・利用規約に基づくものに限ります）&lt;/li&gt;
+&lt;li&gt;🍙 飲食可（ゴミはご自身でのお持ち帰りをお願い致します）&lt;/li&gt;
+&lt;li&gt;🍞 昼食は各自でご持参ください&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;過去担当してくださった方は「楽しかったです！」と言ってくれました！&lt;/p&gt;
-&lt;h1&gt;📷 過去の開催の様子&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="image" src="https://ddb6ltykpq547.cloudfront.net/community_mkt_images/connpass_images/kyoto-hackathon-house.png"&gt;&lt;/p&gt;
-&lt;div style=""&gt;
-&lt;img width="320px" src="https://ddb6ltykpq547.cloudfront.net/community_mkt_images/connpass_images/bar-1.png"&gt;
-&lt;img width="320px" src="https://ddb6ltykpq547.cloudfront.net/community_mkt_images/connpass_images/bar-2.png"&gt;
-&lt;img width="320px" src="https://ddb6ltykpq547.cloudfront.net/community_mkt_images/connpass_images/bar-3.png"&gt;
-&lt;img width="320px" src="https://ddb6ltykpq547.cloudfront.net/community_mkt_images/connpass_images/bar-4.png"&gt;
-
-&lt;/div&gt;
-
-&lt;h1&gt;🏢 主催企業&lt;/h1&gt;
-&lt;h3&gt;&lt;a href="https://prog-8.com/about" rel="nofollow"&gt;株式会社Progate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;株式会社 Progate は、初心者から楽しくプログラミングを学ぶことができる「Progate」や、自分のローカル環境をつかって実務に近い開発経験を積める「Progate Path」といったサービスを提供しています。&lt;/p&gt;
-&lt;p&gt;学習者の熱意とポテンシャルを見える化して企業に応募できる「Progate Prospects」も提供しており、学習から就職・転職までをProgateで行えます。&lt;/p&gt;
-&lt;p&gt;企業とつながるイベントや交流会などを順次企画しております！
-キャリアで悩んでいるかた、ぜひお話ししましょう！٩( 'ω' )وﾖｯｼｬ!&lt;/p&gt;
-&lt;p&gt;&lt;img width="240px" src="https://images.microcms-assets.io/assets/7919edd997d14a198d234596751afab9/a1085eea9a944cae980c32361639b7f6/logo-color_horizontal-composition.png"&gt;&lt;/p&gt;
-&lt;h1&gt;協力団体&lt;/h1&gt;
-&lt;h3&gt;あまてく&lt;/h3&gt;
-&lt;p&gt;京都産業大学の非公認エンジニアコミュニティです。&lt;br&gt;
-初めてのプログラミングやチーム開発などの経験をサポートすることを目的に活動しています。&lt;br&gt;
-主にサークル内外でのLT会、外部ハッカソンへの参加等を行っています。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://i.gyazo.com/1b243d3afc96aeb07c91d865c9fb8f88.png" alt="Image from Gyazo" width="200"&gt;&lt;/p&gt;
-&lt;h1&gt;注意点&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;応募多数となった場合は、先着順とさせていただきます。&lt;/li&gt;
-&lt;li&gt;参加が難しくなった場合は、お早めにキャンセルのご連絡をいただけますようよろしくお願い致します。&lt;/li&gt;
-&lt;li&gt;イベントは、止むを得ず中止させて頂く場合がございます。その場合はconnpassのメッセージにてご連絡させていただきます。&lt;/li&gt;
-&lt;li&gt;イベントの様子について、どなたでもブログやSNSなどで公開可能としています点、ご了承ください。&lt;/li&gt;
-&lt;li&gt;当日録画した内容は、後日弊社サイトやSNS等で掲載させていただくことがあります。ご了承ください。&lt;/li&gt;
-&lt;li&gt;イベントに関係のない営業や勧誘を目的としたご参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;行動規範&lt;/h1&gt;
-&lt;p&gt;本行動規範は、イベントの運営・登壇・協賛・参加をするすべてのステークホルダーに適用されるものです。
-ご一読の上、イベントを誰にとっても心地よく、優れた体験を提供できるように共に協力していきましょう。&lt;/p&gt;
-&lt;p&gt;本イベントは、技術が好きな学生エンジニアで技術交流を行うことを目的としたイベントです。私たちは、すべての参加者にとって、安全で歓迎されるような場を作ることに努めます。&lt;/p&gt;
-&lt;p&gt;本イベントに参加するすべての人は、以下の行動規範を守ることを求められます。この行動規範を当イベントに関する全てにおいて適用します。全ての人にとって安全な場所を提供するため、一般参加者、登壇者、スポンサー、運営スタッフ含めた全参加者に、ご協力をお願いします。&lt;/p&gt;
-&lt;p&gt;私たちは、以下のような事柄に関わらず、全ての人にとって安全な場を提供することに努めます。&lt;/p&gt;
-&lt;p&gt;・社会的あるいは法的な性、性自認、性表現（外見の性）、性指向
-・年齢、障がい、容姿、体格
-・人種、民族、宗教（無宗教を含む）
-・技術の選択&lt;/p&gt;
-&lt;p&gt;そして、下記のようなハラスメント行為をいかなる形であっても決して許容しません。&lt;/p&gt;
-&lt;p&gt;・脅迫、つきまとい、ストーキング
-・不適切な画像、動画、録音の再生（性的な画像など）
-・発表や他のイベントに対する妨害行為
-・不適切な身体的接触
-・これらに限らない性的嫌がらせ
-・相手の尊厳を傷つけるような言葉&lt;/p&gt;
-&lt;p&gt;スポンサーや登壇者、主催者ならびに運営スタッフもこのポリシーの対象となります。性的な言葉はもちろん、相手の尊厳を傷つけるような言葉や画像はいかなる発表やワークショップ、パーティ、X（旧Twitter）のようなオンラインメディアにおいても不適切です。&lt;/p&gt;
-&lt;p&gt;もしハラスメント行為をやめるように指示された場合、すべての参加者は直ちに従うことが求められます。ポリシーに則ることができない参加者は、主催者の判断により、退場処分や今後のイベントに一般参加者、登壇者、スポンサー、運営スタッフとして関わることを禁止します。&lt;/p&gt;
-&lt;p&gt;もしハラスメントを受けていると感じたり、他の誰かがハラスメントされていることに気がついた場合、または他に何かお困りのことがあれば、すぐにスタッフまでご連絡ください。警察への連絡などを含め、安心してイベントに参加できるようにお手伝いさせていただきます。&lt;/p&gt;
-&lt;p&gt;※本文章はKotlinFest Code of Conductとして公開された文章https://&lt;a href="http://github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md" rel="nofollow"&gt;github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md&lt;/a&gt; を元に派生しています。
-※本文章はCreative Commons Zero ライセンス( &lt;a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow"&gt;https://creativecommons.org/publicdomain/zero/1.0/&lt;/a&gt; )で公開されています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://progate.connpass.com/event/402831/</guid><enclosure url="https://media.connpass.com/thumbs/8f/3b/8f3b7386d7e44111708885cac6034a3a.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 17:06:09 +0900</pubDate></item><item><title>パフォーマンス改善 / 関ジャバ'26 8月度</title><link>https://kanjava.connpass.com/event/402536/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月27日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月27日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社はてな 京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区 烏丸通六角下ル七観音町630 読売京都ビル7F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kanjava&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;オフラインで色々な話をするイベントです。
-セッションを聞いて、気になることを話して。そんな感じ。&lt;/p&gt;
-&lt;p&gt;今回は久々に &lt;strong&gt;京都での開催&lt;/strong&gt; となります。&lt;/p&gt;
-&lt;p&gt;Java以外の話題も歓迎します。
-「初参加」大歓迎です。&lt;/p&gt;
-&lt;h1&gt;関ジャバとは&lt;/h1&gt;
-&lt;p&gt;関西のJavaエンジニアのためのコミュニティです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;初参加者、Java初心者歓迎です。&lt;/li&gt;
-&lt;li&gt;内容は1回ごとに完結しています。&lt;/li&gt;
-&lt;li&gt;業務でJavaを使っている話が多くなりますが、そうでない方でも大丈夫です。&lt;/li&gt;
-&lt;li&gt;途中参加／途中退場していただいても大丈夫です。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;内容&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時刻&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30&lt;/td&gt;
-&lt;td&gt;開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;開始&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;関ジャバや会場の案内など&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;本編&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;21:00&lt;/td&gt;
-&lt;td&gt;撤収&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;募集枠について&lt;/h1&gt;
-&lt;p&gt;以下をお読みの上、奮ってご参加ください。&lt;/p&gt;
-&lt;h2&gt;セッションリスト&lt;/h2&gt;
-&lt;h3&gt;Amazon API Gateway (WebSocket API) のパフォーマンス改善 / Shigeki Shoji&lt;/h3&gt;
-&lt;p&gt;付箋に特化したホワイトボードアプリケーションをWebSocket APIタイプのAmazon API Gatewayを使って実装しています。PoC段階では気づかないパフォーマンス上の問題が発生し、Amazon Simple Queue Service等を使用してパフォーマンス改善した事例を発表します。&lt;/p&gt;
-&lt;h3&gt;チームと個人技の両輪で続ける、Webサービスのパフォーマンス改善 / polamjag&lt;/h3&gt;
-&lt;p&gt;パフォーマンス改善をチームで「続ける」には、そもそも何かが遅いこと・改善の余地があることに気づける個人の感覚と、その知識をチームに広げる仕組みとの両方が必要である、と私は考えています。Webサービスの開発現場における実際の事例（アプリケーションそのものの高速化、DB関連、CI/テスト、…）をもとに、個人の勘所の育て方、チームでの続け方、AIに任せられる部分と人間に残る部分について話します。&lt;/p&gt;
-&lt;h2&gt;LT（5min）&lt;/h2&gt;
-&lt;p&gt;Lightning Talk、5分のショートセッションです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;テーマは関ジャバやJavaに関連しなくても構いません。&lt;/li&gt;
-&lt;li&gt;会場内はWi-Fiを用意しております。&lt;/li&gt;
-&lt;li&gt;接続はHDMIです。コネクタが必要な場合はご準備ください。&lt;/li&gt;
-&lt;li&gt;環境に不安のある方は事前にPDFやGoogleDocsなどで事前に共有いただければ、運営側で代わりに投影します。&lt;/li&gt;
-&lt;li&gt;確認したいことは「イベントへのお問い合わせ」で聞いてください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;他の人の品位を傷つけたり、差別したり、嫌がらせとなる言動や行動は絶対におやめください。&lt;/li&gt;
-&lt;li&gt;全館禁煙です。&lt;/li&gt;
-&lt;li&gt;オンライン配信は行いません。&lt;/li&gt;
-&lt;li&gt;飲食に関しては会場の制限に従ってください。&lt;/li&gt;
-&lt;li&gt;イベントとしての懇親会はありません。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;お問い合わせ&lt;/h1&gt;
-&lt;p&gt;以下のいずれかでお願いします。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://x.com/takesection" rel="nofollow"&gt;https://x.com/takesection&lt;/a&gt; or &lt;a href="https://x.com/kan_java" rel="nofollow"&gt;https://x.com/kan_java&lt;/a&gt; へのDMやメンション&lt;/li&gt;
-&lt;li&gt;Connpass のメッセージ（返信が必要な場合は本文にその旨を記述ください）&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanjava.connpass.com/event/402536/</guid><enclosure url="https://media.connpass.com/thumbs/37/77/3777e148bce0c18ba570b45d6326cd79.png" length="0" type="image/png"/><pubDate>Tue, 18 Aug 2026 16:17:47 +0900</pubDate></item><item><title>【オフライン開催】Kyoto.rb Meetup OSS Gate</title><link>https://kyotorb.connpass.com/event/401734/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotorb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりにOSS Gateやるぞ！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;主催者からのお願い&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3&gt;🏅 賞金&lt;/h3&gt;
+&lt;p&gt;1位 ＄50,000&lt;br&gt;
+2位 ＄12,000&lt;br&gt;
+3位 ＄8,000&lt;/p&gt;
+&lt;h3&gt;👨‍⚖️ 審査員&lt;/h3&gt;
+&lt;p&gt;ComingSoon...&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/405061/</guid><enclosure url="https://media.connpass.com/thumbs/87/65/87659a30bee278e0f4b155209860a1a2.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 21:43:44 +0900</pubDate></item><item><title>【オフライン開催】Kyoto.rb Meetup OSS Gate</title><link>https://kyotorb.connpass.com/event/401734/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotorb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりにOSS Gateやるぞ！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;主催者からのお願い&lt;/h2&gt;
 &lt;p&gt;参加者10〜15名で設定していますが、増枠可能なので定員を超えた場合は枠数を増やす可能性があります。&lt;br&gt;
 参加を希望される方は補欠登録してもらえると助かります。増枠した際に自動で参加者に昇格します。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;会場&lt;/h2&gt;
@@ -582,7 +454,7 @@ Go初心者から経験者まで、誰でも気軽に参加できるイベント
 &lt;p&gt;&lt;strong&gt;みやこでIT&lt;/strong&gt;はすべての参加者が何かしら素敵な思い出や経験を持ち帰れる機会を提供したく考えています。&lt;br&gt;
 相互に尊重し、他の参加者が不快に感じる行為はご遠慮ください。&lt;br&gt;
 もし、ハラスメント行為、差別行為、勧誘行為その他疑わしい行動について気になることがございましたら、&lt;br&gt;
-イベント主催者までお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mit.connpass.com/event/402270/</guid><enclosure url="https://media.connpass.com/thumbs/c8/a7/c8a70beab755d2087a79ad843317e8c0.png" length="0" type="image/png"/><pubDate>Thu, 30 Jul 2026 21:00:27 +0900</pubDate></item><item><title>みやこもくもく会#62 with Digital Nomad Kyoto @大光寺</title><link>https://mit.connpass.com/event/402238/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月5日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月5日(土) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: 大光寺&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市伏見区伯耆町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #みやこでIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるりともくもくしましょう〜！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;💁‍♂️どんなイベント？&lt;/h1&gt;
+イベント主催者までお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mit.connpass.com/event/402270/</guid><enclosure url="https://media.connpass.com/thumbs/c8/a7/c8a70beab755d2087a79ad843317e8c0.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 20:09:48 +0900</pubDate></item><item><title>みやこもくもく会#62 with Digital Nomad Kyoto @大光寺</title><link>https://mit.connpass.com/event/402238/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月5日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月5日(土) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: 大光寺&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市伏見区伯耆町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #みやこでIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるりともくもくしましょう〜！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;💁‍♂️どんなイベント？&lt;/h1&gt;
 &lt;p&gt;今回初会場！京都市伏見区にある大光寺というお寺さんに集まって、もくもく作業するイベントです。&lt;br&gt;
 京都のコミュニティコラボイベントとして、&lt;a href="https://digitalnomadkyoto.com/" rel="nofollow"&gt;Dagital Nomad Kyoto&lt;/a&gt;と共同開催します🙌 &lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;🎍大光寺とは&lt;/h1&gt;
