@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 00:09:57 +0000</lastBuildDate><item><title>【初心者歓迎！ ロボットシミュレーション自律走行 勉強会＆交流会】</title><link>https://connpass.com/event/402771/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: KYLA株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市浦和区高砂３－１０－４　 埼玉建設会館4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ロボット&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【勉強会の内容】&lt;/h1&gt;
-&lt;p&gt;本勉強会では、3DロボットシミュレータGazeboとROS2を使用し、仮想空間上のロボットをPythonコードで制御するハンズオンを実施します。&lt;/p&gt;
-&lt;p&gt;環境内に配置された「画像ターゲット（看板）」をロボットがカメラで認識し、ターゲットとの距離や角度に応じて自律的に移動・接近・停止するアルゴリズムの実装を体験していただきます。&lt;/p&gt;
-&lt;p&gt;ROS2の基本構造とトピック通信（geometry_msgs/Twist を用いた速度制御）&lt;/p&gt;
-&lt;p&gt;Gazeboシミュレータ環境の構築と活用方法&lt;/p&gt;
-&lt;p&gt;画像認識・カメラ情報（sensor_msgs/Image等）と連動したロボット制御ロジックの実装&lt;/p&gt;
-&lt;p&gt;自由な交流会（質疑応答・技術雑談）&lt;/p&gt;
-&lt;p&gt;※コードの雛形や環境構築手順（Docker/WSL等）を用意しているため、効率よく実践的な制御ロジック作成に集中できます。&lt;/p&gt;
-&lt;h1&gt;【こんな方におすすめ！】&lt;/h1&gt;
-&lt;p&gt;ROS2 / Gazeboを使ったロボット開発に興味がある方・触ってみたい方&lt;/p&gt;
-&lt;p&gt;Pythonを使ってロボットやシミュレータを動かしてみたいエンジニア・学生の方&lt;/p&gt;
-&lt;p&gt;物理ロボットを買う前に、まずはシミュレーション環境で自律走行を試したい方&lt;/p&gt;
-&lt;p&gt;ロボット制御や画像処理（AI/Vision）の連動に興味がある方&lt;/p&gt;
-&lt;p&gt;同じテーマに関心のあるエンジニア同士で情報交換や交流をしたい方&lt;/p&gt;
-&lt;h1&gt;【開催詳細】&lt;/h1&gt;
-&lt;p&gt;日時：2026年8月28日（金） 18:00 〜 20:30（開場 18:00）&lt;/p&gt;
-&lt;p&gt;会場：埼玉県さいたま市浦和区高砂3-10-4 埼玉建設会館2階会議室&lt;/p&gt;
-&lt;p&gt;参加費：無料&lt;/p&gt;
-&lt;p&gt;持ち物 / ・PC ( Windows 11 ) をお持ちください。Linux (Ubuntu) 可。
-・Docker を使用します。古すぎる端末は対応していない場合がありますのでご注意ください。
-・PC のインターネット接続は各自の負担・責任で用意をお願い致します。
-・ワクワクする気持ち&lt;/p&gt;
-&lt;h1&gt;【講師より一言】&lt;/h1&gt;
-&lt;p&gt;「ロボットがなくても、フィジカルAIは始められる！」&lt;/p&gt;
-&lt;p&gt;「フィジカルAIに興味はあるけれど、ハードウェアの知識や実機がないと難しそう…」と思っていませんか？
-実は、近年のフィジカルAI開発において最も重要なステップの一つが「シミュレーター上での開発と検証」です。本勉強会では、実機を使わずにシミュレーター上でAIを動かす一連の流れを体験していただけます。&lt;/p&gt;
-&lt;p&gt;KYLAが目指すのは「第４次産業革命で人々を幸せに」すること。最新テクノロジーで社会をどう変えていけるのか、まずはシミュレーション空間で一緒に手を動かしてみましょう！気軽なご参加をお待ちしております。&lt;/p&gt;
-&lt;h1&gt;【講師のプロフィール】&lt;/h1&gt;
-&lt;p&gt;Y. K.&lt;/p&gt;
-&lt;p&gt;幼稚園からコンピュータを触りまくった生まれながらのエンジニア。
-大学は「コンピュータを根幹から学びたい」とあえてソフトウェアでは無く工学部に入った人。その後情報学部へ移り、やっぱりソフトウェアも学んだ。
-結果ハードもソフトも分かるようになった。&lt;/p&gt;
-&lt;p&gt;カフェオレ大好き。でかい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/402771/</guid><enclosure url="https://media.connpass.com/thumbs/45/e9/45e92dc32bf8731a1e336449ae39c840.png" length="0" type="image/png"/><pubDate>Tue, 25 Aug 2026 16:33:47 +0900</pubDate></item><item><title>第115回CoderDojoさいたま</title><link>https://coderdojo-saitama.connpass.com/event/405082/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 貸会議室６F&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市大宮区宮町1-5 銀座ビル6階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小学生・中学生向けプログラミングクラブです。さいたま市の周辺からも参加もお待ちしてます。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第115回CoderDojoさいたまのイベント詳細情報&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>埼玉のイベント</title><link>https://connpass.com/explore/</link><description>埼玉のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>埼玉のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 23:46:47 +0000</lastBuildDate><item><title>第115回CoderDojoさいたま</title><link>https://coderdojo-saitama.connpass.com/event/405082/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 貸会議室６F&lt;/li&gt;&lt;li&gt;🏢 住所: 埼玉県さいたま市大宮区宮町1-5 銀座ビル6階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;小学生・中学生向けプログラミングクラブです。さいたま市の周辺からも参加もお待ちしてます。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;第115回CoderDojoさいたまのイベント詳細情報&lt;/h1&gt;
 &lt;p&gt;CoderDojo さいたまは主に埼玉県さいたま市地域及び隣接する地域の小学生・中学生を対象としたプログラミングクラブです。&lt;br&gt;
 こちらをお読みになり、CoderDojoの理念にご理解ください。&lt;br&gt;
 小学生・中学生向けプログラミングクラブ「CoderDojoさいたま」について&lt;br&gt;

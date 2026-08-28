@@ -1,107 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 00:10:22 +0000</lastBuildDate><item><title>DISRUPT AI Hackathon申し込みリマインド</title><link>https://connpass.com/event/405061/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 22:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 0:00&lt;/li&gt;&lt;li&gt;📍 会場: ✨申し込みページ✨&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市下京区中堂寺南町134KISTIC 2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜AIでアイデアを形にする体験型イベント〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🚀 &lt;strong&gt;DISRUPT AI Hackathon&lt;/strong&gt;&lt;/h1&gt;
-&lt;h3&gt;&lt;strong&gt;申し込みはこちらから！&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;a href="https://www.craftstadium.com/hackathon/disrupt-ai-hackathon" rel="nofollow"&gt;https://www.craftstadium.com/hackathon/disrupt-ai-hackathon&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
-&lt;h2&gt;🎯 テーマ&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;AIで自分の短所を長所に変えろ！！&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;📖 イベント概要&lt;/h2&gt;
-&lt;p&gt;本イベントは、生成AIを活用し「自分の短所を長所に変える」をテーマに、AI活用のハードルを下げることを目的とした、1日完結型の体験型イベントです。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;「AIは気になるけど、何から手をつければいいか分からない」&lt;/p&gt;
-&lt;p&gt;「ハッカソンって、コードが書ける人だけの場所でしょ？」&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;このイベントは、その2つの思い込みを1日で壊すために立ち上げました。&lt;/p&gt;
-&lt;p&gt;関西には、AIに興味を持つ学生がたくさんいます。
-でも、実際に手を動かして何かをつくる場に飛び込んでいる人はごく一部です。
-理由はシンプル。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;▶️ 最初の一歩のハードルが高すぎるから。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;だから私たちは、そのハードルを可能な限り下げることに全力を注ぎました。
-事前準備は不要。朝集まって、夜には自分のプロダクトが動く。
-それが今回のイベントです。&lt;/p&gt;
-&lt;h3&gt;💡 お題は「あなた自身」です。&lt;/h3&gt;
-&lt;p&gt;「何かすごいアイデアを出さなきゃ」——そう身構える必要はありません。
-アラームを5個かけても起きられない朝。
-「明日からやる」って言い続けて3週間目の資格勉強。
-そんな自分の「短所」をひとつ選んで、AIの力で「長所」に変える。
-それが今回のハッカソンのテーマです。&lt;/p&gt;
-&lt;p&gt;お題が自分自身だから、リサーチはいらない。
-答えの半分は、もう自分の中にあるからです。
-考える時間を、そのまま「つくる時間」に回せます。&lt;/p&gt;
-&lt;p&gt;文系も参加しやすく、理系も物足りなさを感じない。
-どんな学生も主役になれるイベントを目指しています。&lt;/p&gt;
-&lt;p&gt;自分の「苦手なこと」、ひとつだけ持ってきてください。
-AIを使って短所を長所に変えるものを作り上げることで、それがいちばんの自慢になっているはずです。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;📆 開催概要&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;項目&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;📌 日時&lt;/td&gt;
-&lt;td&gt;2026年8月30日（日）10:00〜19:30（受付：9:30〜）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;📍 会場&lt;/td&gt;
-&lt;td&gt;京都リサーチパーク たまり場イベントスペース（京都市下京区中堂寺南町134 KISTIC 2階）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;🏢 形式&lt;/td&gt;
-&lt;td&gt;オフライン（現地開催）／1日完結型&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;💰 参加費&lt;/td&gt;
-&lt;td&gt;無料&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;🍻 懇親会&lt;/td&gt;
-&lt;td&gt;18:30〜19:30（無料）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;🎈 事前プレイベント&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;8月10日 22:30〜23:30 オンライン開催(終了)&lt;/strong&gt;
-NotebookLMハンズオン～AIで秋学期の授業をハックする～
-&lt;a href="https://disrupt-ai-hack.connpass.com/event/403307/" rel="nofollow"&gt;https://disrupt-ai-hack.connpass.com/event/403307/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;8月15日 15:00〜17:00 オンライン開催(終了)&lt;/strong&gt;
-AIでWebアプリ制作に挑戦！〜未経験から日常の課題を解決する体験〜
-&lt;a href="https://disrupt-ai-hack.connpass.com/event/403312/" rel="nofollow"&gt;https://disrupt-ai-hack.connpass.com/event/403312/&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;🙌 参加概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;🎓 &lt;strong&gt;対象&lt;/strong&gt;：大学・専門学校・高専・高校の学生（文系・理系・学部不問）&lt;/li&gt;
-&lt;li&gt;✅ プログラミング経験、AIツールの使用経験は一切問いません&lt;/li&gt;
-&lt;li&gt;✅ １人での参加OK。個人でお申し込みの場合は運営がチーム編成します&lt;/li&gt;
-&lt;li&gt;✅ 複数人でのチーム参加も可能（1チーム4人まで）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;🌟 こんな体験が待っています&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;🏆 自分の手で動くプロダクトを完成させた、という成功体験&lt;/li&gt;
-&lt;li&gt;⚡ 生成AIで、アイデアを形にする一連の流れ&lt;/li&gt;
-&lt;li&gt;📝 運営メンバーによるアイデア出し、実装、プレゼンなどのサポート&lt;/li&gt;
-&lt;li&gt;🤝 審査員による直接フィードバック&lt;/li&gt;
-&lt;li&gt;🔥 文理混合チームでの共同開発経験&lt;/li&gt;
-&lt;li&gt;🔍 自分の短所と向き合って解決策を形にする1日は、それ自体が自己分析になる → ガクチカや面接でそのまま語れる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;🎒 持ち物・当日の注意&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;💻 ノートPC（必須）／電源アダプター（推奨）&lt;/li&gt;
-&lt;li&gt;🤖 生成AIツールの利用は可能です（正規のライセンス・利用規約に基づくものに限ります）&lt;/li&gt;
-&lt;li&gt;🍙 飲食可（ゴミはご自身でのお持ち帰りをお願い致します）&lt;/li&gt;
-&lt;li&gt;🍞 昼食は各自でご持参ください&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3&gt;🏅 賞金&lt;/h3&gt;
-&lt;p&gt;1位 ＄50,000&lt;br&gt;
-2位 ＄12,000&lt;br&gt;
-3位 ＄8,000&lt;/p&gt;
-&lt;h3&gt;👨‍⚖️ 審査員&lt;/h3&gt;
-&lt;p&gt;ComingSoon...&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/405061/</guid><enclosure url="https://media.connpass.com/thumbs/87/65/87659a30bee278e0f4b155209860a1a2.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 21:43:44 +0900</pubDate></item><item><title>【オフライン開催】Kyoto.rb Meetup OSS Gate</title><link>https://kyotorb.connpass.com/event/401734/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotorb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりにOSS Gateやるぞ！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;主催者からのお願い&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 23:47:12 +0000</lastBuildDate><item><title>【オフライン開催】Kyoto.rb Meetup OSS Gate</title><link>https://kyotorb.connpass.com/event/401734/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード京都オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78 明治屋京都ビル 4F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotorb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりにOSS Gateやるぞ！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;主催者からのお願い&lt;/h2&gt;
 &lt;p&gt;参加者10〜15名で設定していますが、増枠可能なので定員を超えた場合は枠数を増やす可能性があります。&lt;br&gt;
 参加を希望される方は補欠登録してもらえると助かります。増枠した際に自動で参加者に昇格します。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;会場&lt;/h2&gt;
@@ -454,7 +352,7 @@ Go初心者から経験者まで、誰でも気軽に参加できるイベント
 &lt;p&gt;&lt;strong&gt;みやこでIT&lt;/strong&gt;はすべての参加者が何かしら素敵な思い出や経験を持ち帰れる機会を提供したく考えています。&lt;br&gt;
 相互に尊重し、他の参加者が不快に感じる行為はご遠慮ください。&lt;br&gt;
 もし、ハラスメント行為、差別行為、勧誘行為その他疑わしい行動について気になることがございましたら、&lt;br&gt;
-イベント主催者までお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mit.connpass.com/event/402270/</guid><enclosure url="https://media.connpass.com/thumbs/c8/a7/c8a70beab755d2087a79ad843317e8c0.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 20:09:48 +0900</pubDate></item><item><title>みやこもくもく会#62 with Digital Nomad Kyoto @大光寺</title><link>https://mit.connpass.com/event/402238/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月5日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月5日(土) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: 大光寺&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市伏見区伯耆町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #みやこでIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるりともくもくしましょう〜！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;💁‍♂️どんなイベント？&lt;/h1&gt;
+イベント主催者までお知らせください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://mit.connpass.com/event/402270/</guid><enclosure url="https://media.connpass.com/thumbs/c8/a7/c8a70beab755d2087a79ad843317e8c0.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 10:00:46 +0900</pubDate></item><item><title>みやこもくもく会#62 with Digital Nomad Kyoto @大光寺</title><link>https://mit.connpass.com/event/402238/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月5日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月5日(土) 13:00&lt;/li&gt;&lt;li&gt;📍 会場: 大光寺&lt;/li&gt;&lt;li&gt;🏢 住所: 京都市伏見区伯耆町1-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #みやこでIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるりともくもくしましょう〜！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;💁‍♂️どんなイベント？&lt;/h1&gt;
 &lt;p&gt;今回初会場！京都市伏見区にある大光寺というお寺さんに集まって、もくもく作業するイベントです。&lt;br&gt;
 京都のコミュニティコラボイベントとして、&lt;a href="https://digitalnomadkyoto.com/" rel="nofollow"&gt;Dagital Nomad Kyoto&lt;/a&gt;と共同開催します🙌 &lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;🎍大光寺とは&lt;/h1&gt;
@@ -696,7 +594,7 @@ Go初心者から経験者まで、誰でも気軽に参加できるイベント
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://kc3.me/contact" rel="nofollow"&gt;公式Webサイト&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://twitter.com/kc3_official" rel="nofollow"&gt;公式X（旧Twitter）アカウント&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nxtend.connpass.com/event/397073/</guid><enclosure url="https://media.connpass.com/thumbs/2f/8d/2f8d7203231698c4beab79cfc3f59d15.png" length="0" type="image/png"/><pubDate>Wed, 29 Jul 2026 12:56:19 +0900</pubDate></item><item><title>【オフライン】luccafort 池田屋襲撃事件 farewell LT party【増枠+++】</title><link>https://luccafort.connpass.com/event/403741/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード 京都開発拠点&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78番地 明治屋京都ビル 4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #byebye_lucca&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;luccafortがマネーフォワードを退職するのでLTバトルして迎え撃つ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;主催者からのお願い&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nxtend.connpass.com/event/397073/</guid><enclosure url="https://media.connpass.com/thumbs/2f/8d/2f8d7203231698c4beab79cfc3f59d15.png" length="0" type="image/png"/><pubDate>Sat, 29 Aug 2026 01:27:45 +0900</pubDate></item><item><title>【オフライン】luccafort 池田屋襲撃事件 farewell LT party【増枠+++】</title><link>https://luccafort.connpass.com/event/403741/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社マネーフォワード 京都開発拠点&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区三条通河原町東入中島町78番地 明治屋京都ビル 4階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #byebye_lucca&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;luccafortがマネーフォワードを退職するのでLTバトルして迎え撃つ&lt;/p&gt;&lt;div&gt;&lt;h2&gt;主催者からのお願い&lt;/h2&gt;
 &lt;p&gt;すでに満枠になっている場合、参加希望の方は補欠登録するようお願いします。補欠登録されていると増枠した際に自動で参加者に昇格します。&lt;br&gt;
 当日のキャンセルは問題ありませんが、懇親会のお店を予約する可能性があるため、できるだけ早めにキャンセルをお願いします。&lt;br&gt;
 当日ノーショー（No Show）はご遠慮ください。遅れてもいいので欠席や遅刻のご一報いただけるようお願いします。&lt;br&gt;&lt;/p&gt;
@@ -1456,4 +1354,18 @@ AIを使った開発や活用を楽しんでいる方、興味がある方であ
 &lt;li&gt;発熱、あるいは咳・咽頭痛等の症状がある場合&lt;/li&gt;
 &lt;li&gt;新型コロナウイルスへの感染の疑いがある場合&lt;/li&gt;
 &lt;li&gt;その他、感染症や体調不良が懸念される場合&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanmoba.connpass.com/event/401020/</guid><enclosure url="https://media.connpass.com/thumbs/80/94/8094ef43bdc60901100965d3d444fbe1.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 11:18:12 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanmoba.connpass.com/event/401020/</guid><enclosure url="https://media.connpass.com/thumbs/80/94/8094ef43bdc60901100965d3d444fbe1.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 11:18:12 +0900</pubDate></item><item><title>第9回　おこしやす　京も京とて　キューブ会</title><link>https://connpass.com/event/405139/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月21日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月21日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 京都市下京いきいき市民活動センター　集会室(3階)&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市下京区上之町38番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;主催 : 赤城宝之丞　野村優希&lt;/p&gt;&lt;div&gt;&lt;p&gt;「おこしやす 京も京とて キューブ会」は、ルービックキューブが好きな人たちが集まり、みんなでキューブを回したり、タイムを計ったりしながら交流するオフ会です！&lt;/p&gt;
+&lt;p&gt;「キューブのオフ会に参加したことがない」という方も大歓迎。
+初心者の方から大会経験者まで、ルービックキューブが好きな方ならどなたでもご参加いただけます！&lt;/p&gt;
+&lt;p&gt;11/21(土)、約2年ぶりに「おこしやす 京も京とて キューブ会」が帰ってきます！&lt;/p&gt;
+&lt;p&gt;第9回となる今回は、10:00〜17:00で開催します。&lt;/p&gt;
+&lt;p&gt;当日は、3×3・4×4・スクエア1など、さまざまな種目の計測を予定しています。
+さらに、最近公式種目に追加されたFTOの計測会や、参加者同士で盛り上がれるトーナメント戦も開催予定！&lt;/p&gt;
+&lt;p&gt;「大会に出たことがないけど挑戦してみたい」
+「普段の練習の成果を試してみたい」
+「キューブ仲間と交流したい」&lt;/p&gt;
+&lt;p&gt;そんな方にもおすすめのキューブ会です。&lt;/p&gt;
+&lt;p&gt;9月末・10月末・11月初めに控える大会の予行演習としても、ぜひご参加ください！&lt;/p&gt;
+&lt;p&gt;約2年ぶりとなる京都キューブ会。
+みんなで回して、競って、交流して、最高の一日にしましょう！&lt;/p&gt;
+&lt;p&gt;皆さまのご参加をお待ちしています！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/405139/</guid><enclosure url="https://media.connpass.com/thumbs/77/ed/77ed1d52f06173d1fb905e914faa91cc.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 22:20:51 +0900</pubDate></item></channel></rss>

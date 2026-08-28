@@ -1,320 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 00:10:17 +0000</lastBuildDate><item><title>DNS 温泉 12</title><link>https://dnsonsen.connpass.com/event/395057/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 臨江館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒484-0081 愛知県犬山市大字犬山字西大門先8-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DNS温泉12&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DNS と酒と温泉を浸透させよう&lt;/p&gt;&lt;div&gt;&lt;h2&gt;趣旨&lt;/h2&gt;
-&lt;p&gt;天然温泉に浸かり、泊まり込みで DNS を学びましょう。 初心者歓迎。プログラムは未定です。&lt;/p&gt;
-&lt;p&gt;今回は初の試みとして DNS 版 トラブルシューティングコンテスト (あるいは CTF) を行いたいと思います。(成績はつけませんから気楽にどうぞ)&lt;/p&gt;
-&lt;p&gt;参加者からの発表、ライトニングトークも歓迎します。(X @tss_ontap_o まで打診願います)&lt;/p&gt;
-&lt;h2&gt;日程&lt;/h2&gt;
-&lt;p&gt;2026年8月28日 (金) 13:30 – 8月29日 (土) 12:00　(現地集合、現地解散)&lt;/p&gt;
-&lt;p&gt;なお前日には高山市で &lt;a href="https://chunog.connpass.com/event/394335/" title="ChuNOG 8" rel="nofollow"&gt;ChuNOG 8&lt;/a&gt; が開催されます。併せてご検討ください。&lt;/p&gt;
-&lt;h2&gt;申し込み/定員&lt;/h2&gt;
-&lt;p&gt;23名 (主宰者含む)&lt;/p&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://rinkokan.jp/" title="臨江館" rel="nofollow"&gt;臨江館&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;JR「鵜沼駅」下車 徒歩 15分&lt;/p&gt;
-&lt;p&gt;名鉄「犬山遊園駅」下車 徒歩 5 分&lt;/p&gt;
-&lt;h2&gt;参加費: 15,000円 (税込) ... (発表者 13,000円、学生 12,000円)&lt;/h2&gt;
-&lt;p&gt;夕朝食+宿泊 (相部屋) 　女性部屋も用意します&lt;/p&gt;
-&lt;p&gt;酒やおつまみはお持ち寄りください。(ビールは用意 / 飲酒の強要はありません)&lt;/p&gt;
-&lt;p&gt;会費と持ち寄りで呑み代が不足した場合は追加徴収させて頂くかもしれません。(夕朝食時に呑む分とか)&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.e-ontap.com/misc/dnsonsen6sake.png" width="70%"&gt;&lt;/p&gt;
-&lt;h2&gt;プログラム&lt;/h2&gt;
-&lt;pre&gt;一日目
-13:30-  始業式
-　　　　オリエンテーション
-　　　　自己紹介
-14:00-  昼の部
-* DNS 入門 (短縮版) ... tss
-14:30
-* 「あなたの知らないDNS権威サーバの世界」... kazu_yamamoto
-16:00 (休憩) 
-16:15-
-* 「生成AIとDNSパケット」 ...  Noel Minamino
-17:00-  休憩、温泉等
-18:00-  食事、休憩、温泉等
-19:30-  夜の部
-* 「フルサービスリゾルバーの気持ちになってみた」 ... goto_ipv6
-* 「就活に役立つOSINT情報」 ... Hi. NONOGAKI
-21:00-  LT, フリーディスカッション (with drink)
-* 日本経済新聞関係とプロテインに関する話し ... 快傑ズバット
-* CTF 例題解説 (trouble2.e-ontap.com など) ... tss
-* djbdns は不滅です ... tss
-* tinydns を Ubuntu26.04 に入れる方法 ... debiru_R
-* 脱クラウドの社会 (哲学) ... tss
- LT ネタ募集中
-23:00-  随時就寝
-
-二日目
-  8:00-  朝食 (荷物は 9:00 までに会場へ)
-  9:00-  DNS版 トラブルシューティングコンテスト (あるいは CTF)
-12:00-  解散 (その後、有志で名古屋へ移動してまた呑むのが通例)
-&lt;/pre&gt;
-
-&lt;h2&gt;教材&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.e-ontap.com/dns/onsen11/" rel="nofollow"&gt;前回 DNS 温泉 11 のテキスト&lt;/a&gt; です。予習にどうぞ #dnsonsen11&lt;/p&gt;
-&lt;p&gt;過去の教材 ... &lt;a href="http://www.e-ontap.com/dns/" rel="nofollow"&gt;DNS を学びましょう&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://sim.internot.jp/vitocha/" rel="nofollow"&gt;インターネットシミュレータ&lt;/a&gt; ... VirtualBox とともにノートパソコンにインストールして持ってきてください。&lt;/p&gt;
-&lt;h2&gt;出張者用資料&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.e-ontap.com/dns/onsen12info.html" rel="nofollow"&gt;合宿勉強会「DNS 温泉 12」ご案内&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dnsonsen.connpass.com/event/395057/</guid><enclosure url="https://media.connpass.com/thumbs/d9/9e/d99ec7cfb036561367a3a0bcf14217a7.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 16:10:03 +0900</pubDate></item><item><title>kintone Night Nagoya vol.38 教えて！井上が困っています</title><link>https://knn.connpass.com/event/402795/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintoneNightNagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～AI活用とkintone×Microsoft連携の知恵を貸してください～&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Night Nagoya！&lt;/h1&gt;
-&lt;p&gt;サイボウズ 名古屋オフィス主催 定例イベント　"kintone Night Nagoya"　です。&lt;br&gt;
-kintoneやサイボウズを感じるプチイベントを毎月定期的に開催します。お気軽にご参加ください。&lt;br&gt;
-kintoneNight Nagoya（kNN）は、kintoneに関わるすべての人が集まり&lt;br&gt;
-事例・ノウハウ・失敗談を持ち寄る名古屋発のコミュニティイベントです。&lt;br&gt;
-ユーザー・パートナー・開発者・これからkintoneを使う人、どなたでも大歓迎。&lt;br&gt;
-セッションのあとは交流の時間もありますので、ぜひお気軽にご参加ください。​&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;第38回 ：教えて！井上が困っています &lt;br&gt;&lt;/h1&gt;
-&lt;p&gt;～kintone AI活用とkintone×Microsoft連携の知恵を貸してください～&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;最近、サイボウズの井上が悩んでいます。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;お客様から&lt;br&gt;
-・AIって実際どう活用しているの？&lt;br&gt;
-・kintone AIはどんな業務で使えるの？&lt;br&gt;
-・kintoneとMicrosoft 365ってみんなどう連携しているの？&lt;br&gt;
-・もっと便利な使い方や面白い活用方法はないの？&lt;br&gt;
-と相談を受ける機会が増えているのですが、Webや生成AIで調べるだけでは、現場のリアルな知見や工夫になかなかたどり着けません。&lt;br&gt;
-&lt;br&gt;
-そこで今回は参加者のみなさんにお願いがあります。&lt;br&gt;
-皆さんの知識や経験を貸してください！&lt;br&gt;
-&lt;br&gt;&lt;br&gt;
-実際にkintoneとAIやMS365連携活用している事例、失敗談、工夫していること、これから挑戦したいこと、妄想レベルのアイデアでも大歓迎です。&lt;br&gt;
-参加者全員で知見を持ち寄り、「AI活用」と「kintone×Microsoft連携」というテーマについて、みんなで学び、語り、情報を持ち帰る回にしたいと思います。&lt;br&gt;
-※「AI活用」「MS365連携」に関するLTも募集しております！&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;井上の悩みを、みんなで解決してください！&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;場所&lt;/h1&gt;
-&lt;p&gt;愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;br&gt;
-サイボウズ 名古屋オフィス&lt;br&gt;
-&lt;a href="https://cybozu.co.jp/company/access/nagoya/" rel="nofollow"&gt;https://cybozu.co.jp/company/access/nagoya/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;いつでも自由に12階のオフィスまで上がってきていただけます！出入り自由。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;地下：栄駅13番出口横の中日ビル入口より入っていただけます&lt;br&gt;
-地上：栄駅12番出口&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt;
-18:00：開場&lt;br&gt;
-&lt;br&gt;
-18:30-18:40　オープニング&lt;br&gt;
-18:40-19:00　情報提供(kintone AI・連携コネクタ)&lt;br&gt;
-19:00-19:20　LT&lt;br&gt;
-19:20-20:20　教えて！みんなのAI活用とMicrosoft連携（グループディスカッション）&lt;br&gt;
-20:20-20:30　告知タイム&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
-21:00〜：懇親会(任意)&lt;br&gt;
-&lt;br&gt;
-※内容調整の上、コンテンツは更新いたします。&lt;/p&gt;
-&lt;h1&gt;ご案内&lt;/h1&gt;
-&lt;p&gt;本イベントは無償です。&lt;br&gt;
-学生さん、初心者さん、一見さん、大歓迎です！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://knn.connpass.com/event/402795/</guid><enclosure url="https://media.connpass.com/thumbs/a0/4a/a04a3a793c0bacad9483795a65ed62e9.png" length="0" type="image/png"/><pubDate>Tue, 04 Aug 2026 18:52:39 +0900</pubDate></item><item><title>【参加無料】企業内DXセミナー｜ものづくりの現場で使える外観検査AI入門セミナー</title><link>https://nagoya-boost.connpass.com/event/402937/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ナゴヤ イノベーターズ ガレージ&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1 (ナディアパーク4F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NAGOYABOOST&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;オンライン参加OK！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;本イベントはハイブリッドイベントです。全国どこからでも参加OKです！ &lt;br&gt;&lt;/h1&gt;
-&lt;p&gt;「目視検査」をAIに置き換える時代へ。&lt;/p&gt;
-&lt;p&gt;製造業では今、AIを活用した外観検査が急速に広がっています。&lt;/p&gt;
-&lt;p&gt;しかし、&lt;/p&gt;
-&lt;p&gt;・AI導入は難しそう
-・自社で本当に使えるの？
-・どこから始めればいいかわからない&lt;/p&gt;
-&lt;p&gt;そんな声も少なくありません。&lt;/p&gt;
-&lt;p&gt;本セミナーでは、&lt;/p&gt;
-&lt;p&gt;AIによる外観検査の基本から、実際の活用事例、導入の考え方までを初心者向けにわかりやすく解説します。&lt;/p&gt;
-&lt;p&gt;製造業だけでなく、品質管理・検査・画像認識・DX推進に携わる方にもおすすめです。&lt;/p&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;このセミナーで学べること&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;✔️ 外観検査AIの仕組み&lt;/p&gt;
-&lt;p&gt;✔️ 画像認識AIの基本&lt;/p&gt;
-&lt;p&gt;✔️ 実際の導入事例&lt;/p&gt;
-&lt;p&gt;✔️ AI導入前に考えるべきポイント&lt;/p&gt;
-&lt;p&gt;✔️ 自社へ適用できるテーマの考え方&lt;/p&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;概要&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;本セミナーでは、ものづくり企業や製造現場で活用が進むAIの中でも、特に画像認識（外観検査）にフォーカスし、基本と可能性をわかりやすく学びます。
-Google提供の Teachable Machine を用いて、ボルト・ナット等の部品画像を例に、形状や大きさの違いを判定する簡易モデルを作成し、AIを「知る」だけでなく「作って試す」体験を行います。
-さらに、作成体験を踏まえて「自社のどの工程で試せそうか」「PoCで何を確かめるべきか」を整理できるように設計し、メインプログラム参加の動機づけにつなげます。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nagoyaboost.jp/" rel="nofollow"&gt;
-&lt;img src="https://nagoyaboost.jp/connpass/DSC_5700 (2026-07-14T05_47_53.463).jpg"&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;得られること&lt;/span&gt;&lt;/h1&gt;
-&lt;div style="margin-left: 15px;"&gt;
-&lt;div&gt;⚙️ 画像認識AI（外観検査）の基本が、数式なしで直感的にわかる&lt;/div&gt;
-&lt;div&gt;⚙️ Teachable Machineで、その場で簡易モデルを作って試せる&lt;/div&gt;
-&lt;div&gt;⚙️ 「自社のどの工程に当てはまるか」を整理し、PoCの入口が見える&lt;/div&gt;
-&lt;div&gt;⚙️ メインプログラム参加後の学び・到達イメージが具体化し、次の一歩が明確になる&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;こんな方におすすめ&lt;/span&gt;&lt;/h1&gt;
-&lt;div style="margin-left: 15px;"&gt;
-&lt;div&gt;✅ 製造現場の 検査・品質・異物混入などに課題感がある&lt;/div&gt;
-&lt;div&gt;✅ AI導入に関心はあるが、まずは “体験してイメージを掴みたい”&lt;/div&gt;
-&lt;div&gt;✅ PoCを検討しているが、テーマ設定や検証の仕方に迷っている&lt;/div&gt;
-&lt;div&gt;✅ 「現場DX」を進めたいが、どの技術を当てるべきか整理したい&lt;/div&gt;
-&lt;div&gt;※上記以外の方でも興味があれば参加可能です！&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;持ち物&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;本イベントではハンズオンを実施します。現地参加の方は以下のご準備をお願い致します。&lt;/p&gt;
-&lt;p&gt;・Windows OSかMacOSのノートPC（Webカメラ内蔵、インターネット接続可能）&lt;/p&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;タイムテーブル&lt;/span&gt;&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:00 ～ 19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;オープニング&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;NAGOYA BOOST 2026の説明&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:10 ～ 19:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;講演&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ゲスト講演&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:30 ～ 20:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;メイン&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;今回のイベント内容&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;20:30 ～ 21:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ワークショップ&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;自社課題ワークショップ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;途中、入退出していただいても問題ありません。&lt;/li&gt;
-&lt;li&gt;当日の状況によって順番や終了時間が多少変動する可能性もあります。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;NAGOYA BOOST 2026 のご案内&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://nagoyaboost.jp/" rel="nofollow"&gt;
-&lt;img src="https://nagoyaboost.jp/connpass/nagoyaboost2026.png"&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NAGOYA BOOSTは、2018年に始動した、新たなビジネスを創出する人材の輩出を目指すプログラムです。最新テクノロジーの学習と、事業開発に必要なスキル・マインドセットの習得を軸に展開しています。
-このプログラムは、最新テクノロジーや企業内DXをテーマに誰でも参加できる「プレセミナー」、企業内新規事業や起業を目指す人を対象に事業創造に必要な知識・スキルを習得することを目的とした「AI人材BOOSTプログラム」、成果物をプレゼンテーションする「NAGOYA BOOST DAY」の3つで構成されています。&lt;/p&gt;
-&lt;p&gt;NAGOYA BOOSTはこれまで累計430名以上が参加しました！&lt;/p&gt;
-&lt;p&gt;✔️ 名古屋市主催&lt;/p&gt;
-&lt;p&gt;✔️ 協力企業多数&lt;/p&gt;
-&lt;p&gt;✔️ 学生・社会人が参加&lt;/p&gt;
-&lt;p&gt;✔️ 新規事業・プロダクト創出実績多数&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nagoyaboost.jp/" rel="nofollow"&gt;
-&lt;img src="https://nagoyaboost.jp/connpass/A7C08953.jpg"&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;AI人材BOOSTプログラム&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;AI人材BOOSTプログラムは、生成AIやWebアプリ開発、AIチャットボット、ハードウェアプロトタイピングなどの先端技術を学びながら、参加者自身のアイデアをサービスや事業の形へ近づけていく実践型プログラムです。&lt;/p&gt;
-&lt;div&gt;✅ 詳細は公式WEB（&lt;a href="https://nagoyaboost.jp/" rel="nofollow"&gt;https://nagoyaboost.jp/&lt;/a&gt;）を参考にしてください&lt;/div&gt;
-
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;NAGOYA BOOST day（成果発表会）&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;プログラムの集大成となる成果発表会を2027年2月21日に開催します！&lt;/p&gt;
-&lt;p&gt;社会課題を解決するプロトタイプを外部に向けて発信し、ビジネスマッチングや起業へのきっかけにもつながる場です。&lt;/p&gt;
-&lt;h1&gt;&lt;span style="color:#1e7fdd; font-weight: bold;"&gt;主催・運営・お問い合わせ&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;名古屋市経済局　次世代産業振興課&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nagoya-innovation.jp/" rel="nofollow"&gt;
-&lt;img src="https://jellyware.jp/images/connpass/250805_nagoyaboost_event_city_of_nagoya_logo_english.png" width="200"&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;JellyWare株式会社&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://jellyware.jp/" rel="nofollow"&gt;
-&lt;img src="https://jellyware.jp/images/connpass/200527_rgb-logo-o.png" width="200"&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[お問い合わせ先]&lt;br&gt;
-info@jellyware.jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nagoya-boost.connpass.com/event/402937/</guid><enclosure url="https://media.connpass.com/thumbs/bc/fa/bcfab48e1fd1e00af1f41b4e6b63581d.png" length="0" type="image/png"/><pubDate>Thu, 06 Aug 2026 08:58:36 +0900</pubDate></item><item><title>Keyboard Meetup Nagoya #1</title><link>https://keyboard-meetup-nagoya.connpass.com/event/399234/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: スタメン名古屋本社&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区下広井町1-14-8&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #名キー&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Keyboard Meetup Nagoya とは&lt;/h1&gt;
-&lt;p&gt;名古屋で「自作キーボード」について語ろうぜというイベントです！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;「市販品のキーキャップ変えてみた」から「基盤の設計から自作した」まで、レベル感は問わず&lt;/li&gt;
-&lt;li&gt;キーボードに近い入力機器 (トラックボール・トラックパッド) の話題を扱っても良さそう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ 即売会・展示会・ワークショップではないです&lt;/p&gt;
-&lt;p&gt;※ 大阪の &lt;a href="https://keyboard-meetup-osaka.connpass.com/" rel="nofollow"&gt;Keyboard Meetup Osaka&lt;/a&gt; さんと名前が似ていますが、特に関係はないイベントです&lt;/p&gt;
-&lt;p&gt;今回が初回ですが、定期的に開催したい気持ちです&lt;/p&gt;
-&lt;h2&gt;どこからが「自作キーボード」？？&lt;/h2&gt;
-&lt;p&gt;このイベントでの「自作キーボード」の定義は、遊舎工房さんの言葉をお借りしたいと思います。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://shop.yushakobo.jp/pages/diy_keyboard_towa" rel="nofollow"&gt;「自作キーボード」とは。 - 遊舎工房&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-自作キーボードとはキーボードの設計・組み立て・カスタマイズを楽しむ行為全般を指す言葉です。市販のキーボードを自分好みにカスタマイズすることや、一から設計することもすべて自作キーボードです！ &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;LT募集！&lt;/h1&gt;
-&lt;p&gt;キーボードの "こだわり" "やってみた" を話してくれる人を募集します！&lt;/p&gt;
-&lt;h2&gt;LT レギュレーション&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;上に記載したイベント趣旨に沿っていればテーマはなんでも可です&lt;/li&gt;
-&lt;li&gt;1 LT あたり10分程度としてください (最大でも15分)&lt;/li&gt;
-&lt;li&gt;時間があったら各 LT のあとに質問タイムを設ける予定です&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;例えばこんな内容でも OK&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;好きなキーボードパーツ (キーキャップ, スイッチ, etc...)&lt;/li&gt;
-&lt;li&gt;こだわりの配列&lt;/li&gt;
-&lt;li&gt;こんなものを作ってみた&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;会場&lt;/h1&gt;
-&lt;p&gt;スタメン名古屋本社 (&lt;a href="https://share.google/bEjH9Icj4Jk6qBoRT" rel="nofollow"&gt;愛知県名古屋市中村区下広井町1-14-8&lt;/a&gt;)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;車道側の銀色の自動ドアからお入りください&lt;/li&gt;
-&lt;li&gt;イベントに関する会場へのお問い合わせはご遠慮ください&lt;/li&gt;
-&lt;li&gt;匂いのつく食べ物は持ち込まないようお願いします&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;タイムテーブル&lt;/h1&gt;
-&lt;p&gt;※ トーク順は仮のもので、変更になる可能性があります。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;スピーカー&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;18:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;開場&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Opening&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;分割40%キーボードにスムーズに入門するには&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/hoto17296" rel="nofollow"&gt;@hoto17296&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;親指どう使ってる？&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/kotmyn" rel="nofollow"&gt;@kotmyn&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;KeyballとAMLに求めた操作感&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/jun3010me" rel="nofollow"&gt;@jun3010me&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:55&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ぼくのかんがえたさいきょうのCAD対応薄型キーボードを作った話&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/tftfktkt" rel="nofollow"&gt;@tftfktkt&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;20:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;CludeCodeで0からキーボードを作る&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/asashin227" rel="nofollow"&gt;@asashin227&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;20:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;フリータイム (交流会)&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;21:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;撤収&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;備考&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;咳・発熱・倦怠感など、体調が優れない方は参加を控えていただくようお願いします&lt;/li&gt;
-&lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等他人への迷惑行為を行うことは禁止します&lt;/li&gt;
-&lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただきます&lt;/li&gt;
-&lt;li&gt;「キーボードを持ち込んで他の参加者の方に見てもらう」などは大歓迎ですが、管理には十分にご注意ください&lt;ul&gt;
-&lt;li&gt;破損・紛失・盗難といったトラブルに関して運営は責任を負いかねます&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://keyboard-meetup-nagoya.connpass.com/event/399234/</guid><enclosure url="https://media.connpass.com/thumbs/30/f3/30f3798a2676b9f729de4e962ec73029.png" length="0" type="image/png"/><pubDate>Tue, 28 Jul 2026 21:52:10 +0900</pubDate></item><item><title>第185回 なごや個人開発者の集い</title><link>https://758indies.connpass.com/event/404673/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月30日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #758indies&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;「なごや個人開発者の集い」の定例オフライン開発会です。 出席者はこのイベントで参加表明をしてください。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 23:47:07 +0000</lastBuildDate><item><title>第185回 なごや個人開発者の集い</title><link>https://758indies.connpass.com/event/404673/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月30日(日) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 名古屋市市民活動センター&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区栄3-18-1(ナディアパークデザインセンタービル6階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #758indies&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;「なごや個人開発者の集い」の定例オフライン開発会です。 出席者はこのイベントで参加表明をしてください。&lt;/p&gt;
 &lt;p&gt;場所は、&lt;a href="https://www.n-vnpo.city.nagoya.jp/" rel="nofollow"&gt;名古屋市市民活動推進センター&lt;/a&gt;のフリースペースです。 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;参加無料です。&lt;/li&gt;
@@ -1545,7 +1230,7 @@ NTTデータで技術開発に従事後、アールスリーインスティテ�
 &lt;h3&gt;開催予定イベント&lt;br&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;生成AIでアプリを作る会&lt;/strong&gt;&lt;br&gt;
 開催日：9/6(日) 9:00 〜 18:00&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://connpass.com/event/404012/" rel="nofollow"&gt;https://connpass.com/event/404012/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tunagu-engineer.connpass.com/event/405086/</guid><enclosure url="https://media.connpass.com/thumbs/78/3d/783d818ebac580d893f1fa3dc1cfd851.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 18:20:23 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2026/09/12</title><link>https://coderdojo-nisshin.connpass.com/event/404338/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://connpass.com/event/404012/" rel="nofollow"&gt;https://connpass.com/event/404012/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tunagu-engineer.connpass.com/event/405086/</guid><enclosure url="https://media.connpass.com/thumbs/68/93/6893ba923e56242d6b858236132e2cdc.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 22:58:34 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2026/09/12</title><link>https://coderdojo-nisshin.connpass.com/event/404338/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
 &lt;p&gt;&lt;span style="color: red; font-size: larger;"&gt;
 ※当日PC貸出希望の方は、「参加者（子供）PC貸出」で申し込みください。
 &lt;/span&gt;&lt;/p&gt;
@@ -2009,7 +1694,35 @@ JPタワー名古屋 36階&lt;/p&gt;
 &lt;h2&gt;注意点&lt;/h2&gt;
 &lt;p&gt;懇親会費は懇親会会場で集金します。
 領収書はお店との調整を行いますが発行できないケースがあるかもしれません。希望者は名刺をお預かりし領収書と一緒にお返し致します。
-23:15終了予定ですが、電車の都合で早く帰宅されても構いません。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/403525/</guid><enclosure url="https://media.connpass.com/thumbs/96/1b/961bbebabd02d0f355e0f0c885128396.png" length="0" type="image/png"/><pubDate>Tue, 11 Aug 2026 18:15:24 +0900</pubDate></item><item><title>医療現場から問いを立てる ワークショップ</title><link>https://tokai-research.connpass.com/event/404077/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: CODE BASE NAGOYA by Voltage新栄町&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 (プロト葵ビル 6F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #トウカイリサーチ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;医療現場のリアルを聞き、「何を解くべきか」からアイディアを考える2時間。&lt;/p&gt;&lt;div&gt;
+23:15終了予定ですが、電車の都合で早く帰宅されても構いません。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-nagoya.connpass.com/event/403525/</guid><enclosure url="https://media.connpass.com/thumbs/96/1b/961bbebabd02d0f355e0f0c885128396.png" length="0" type="image/png"/><pubDate>Tue, 11 Aug 2026 18:15:24 +0900</pubDate></item><item><title>kintone Night Nagoya vol.39</title><link>https://knn.connpass.com/event/405271/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintoneNightNagoya&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テーマ未定&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Night Nagoya！&lt;/h1&gt;
+&lt;p&gt;サイボウズ 名古屋オフィス主催 定例イベント　"kintone Night Nagoya"　です。&lt;br&gt;
+kintoneやサイボウズを感じるプチイベントを毎月定期的に開催します。お気軽にご参加ください。&lt;br&gt;
+kintoneNight Nagoya（kNN）は、kintoneに関わるすべての人が集まり&lt;br&gt;
+事例・ノウハウ・失敗談を持ち寄る名古屋発のコミュニティイベントです。&lt;br&gt;
+ユーザー・パートナー・開発者・これからkintoneを使う人、どなたでも大歓迎。&lt;br&gt;
+セッションのあとは交流の時間もありますので、ぜひお気軽にご参加ください。​&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;第39回 ：テーマ未定 &lt;br&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;場所&lt;/h1&gt;
+&lt;p&gt;愛知県名古屋市中区4丁目1-1 中日ビル12階&lt;br&gt;
+サイボウズ 名古屋オフィス&lt;br&gt;
+&lt;a href="https://cybozu.co.jp/company/access/nagoya/" rel="nofollow"&gt;https://cybozu.co.jp/company/access/nagoya/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;いつでも自由に12階のオフィスまで上がってきていただけます！出入り自由。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;地下：栄駅13番出口横の中日ビル入口より入っていただけます&lt;br&gt;
+地上：栄駅12番出口&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;
+18:00：開場&lt;br&gt;
+&lt;br&gt;
+18:30-20:30　本編&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+21:00〜：懇親会(任意)&lt;br&gt;
+&lt;br&gt;
+※内容調整の上、コンテンツは更新いたします。&lt;/p&gt;
+&lt;h1&gt;ご案内&lt;/h1&gt;
+&lt;p&gt;本イベントは無償です。&lt;br&gt;
+学生さん、初心者さん、一見さん、大歓迎です！！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://knn.connpass.com/event/405271/</guid><enclosure url="https://media.connpass.com/thumbs/a0/4a/a04a3a793c0bacad9483795a65ed62e9.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 20:38:16 +0900</pubDate></item><item><title>医療現場から問いを立てる ワークショップ</title><link>https://tokai-research.connpass.com/event/404077/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: CODE BASE NAGOYA by Voltage新栄町&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 (プロト葵ビル 6F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #トウカイリサーチ&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;医療現場のリアルを聞き、「何を解くべきか」からアイディアを考える2時間。&lt;/p&gt;&lt;div&gt;
 
 &lt;h1 style="font-size:2rem; font-weight:700; padding:.5em .8em; background-color:#2045a6; color:white; text-align:center;"&gt;
   医療現場から問いを立てる ワークショップ
@@ -2352,7 +2065,42 @@ LTは希望者のみを予定しています（当日確認します）。&lt;/p
 &lt;p&gt;愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/p&gt;
 &lt;h1&gt;持ち物&lt;/h1&gt;
 &lt;p&gt;ゲーム開発環境が入ったPC
-電源タップ&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://indiewarehuman.connpass.com/event/400557/</guid><enclosure url="https://media.connpass.com/thumbs/2a/25/2a2524aed65af42c287825db1295f2f8.png" length="0" type="image/png"/><pubDate>Sun, 02 Aug 2026 09:46:08 +0900</pubDate></item><item><title>鯱.py × Unagi.py コラボイベント in 豊橋</title><link>https://shachi-py.connpass.com/event/403190/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 豊橋駅前展望会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県豊橋市駅前大通１丁目４６−１ 9F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shachi_py&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Unagi.pyとのコラボイベントを今年もやります！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+電源タップ&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://indiewarehuman.connpass.com/event/400557/</guid><enclosure url="https://media.connpass.com/thumbs/2a/25/2a2524aed65af42c287825db1295f2f8.png" length="0" type="image/png"/><pubDate>Sun, 02 Aug 2026 09:46:08 +0900</pubDate></item><item><title>Nagoya Device Club #2</title><link>https://delanagoya.connpass.com/event/405257/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月24日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月24日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 第一会議室　名古屋会議室　名古屋駅前店&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区名駅 3-23-16 タキビル 4階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nagoya Device Club はデバイスやガジェット作りを楽しむ人たちのコミュニティです。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Nagoya Device Club #2&lt;/h1&gt;
+&lt;h2&gt;イベントの説明&lt;/h2&gt;
+&lt;p&gt;Nagoya Device Club は、趣味でデバイスやガジェットを作る人たちのコミュニティです。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://delanagoya.dev/events/2026-07-30/" rel="nofollow"&gt;前回はこんなことをしていました。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Raspberry Pi、ESP32、nRF52、Stack-chan、M5Stack系のガジェット、 自作キーボード、マウスなど、それぞれが好きなものを持ち寄って、もくもくと作業します。&lt;/p&gt;
+&lt;p&gt;デバイスやガジェット作りに関することなら何でも歓迎です。具体的な制作物がなくても、調べものや設計、プログラミングなど、普段のもくもく会のような参加でもかまいません。   &lt;/p&gt;
+&lt;p&gt;作業しながら情報交換したり、困ったことを相談したり、ゆるく楽しめる場を目指しています。&lt;/p&gt;
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;18:45&lt;/strong&gt;　入室&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;19:00&lt;/strong&gt;　開始、それぞれ簡単な自己紹介と今日やることを共有&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;もくもくする&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;20:30&lt;/strong&gt;　成果発表（希望者のみ・進捗や途中経過でも歓迎）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;20:55&lt;/strong&gt;　終了&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;21:00&lt;/strong&gt;　退室&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;終了後、時間のある方は近くで食事に行きましょう！&lt;/p&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料&lt;/p&gt;
+&lt;h2&gt;SNSでの発信について&lt;/h2&gt;
+&lt;p&gt;Nagoya Device Club では、活動内容をSNSで紹介しています。&lt;/p&gt;
+&lt;p&gt;参加者のみなさんが取り組む内容や作品・作業風景の写真などを投稿する場合があります。&lt;/p&gt;
+&lt;p&gt;作品や作業内容の掲載を希望されない方は、当日お気軽にお知らせください。&lt;/p&gt;
+&lt;h2&gt;アンチハラスメントポリシー&lt;/h2&gt;
+&lt;p&gt;このコミュニティは、誰もが安心して参加できる場を目指しています。&lt;/p&gt;
+&lt;p&gt;以下のような行為は禁止します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;性的な発言や不適切な接触&lt;/li&gt;
+&lt;li&gt;差別・誹謗中傷・攻撃的な言動&lt;/li&gt;
+&lt;li&gt;他人を不快にさせる撮影・録音&lt;/li&gt;
+&lt;li&gt;参加者の活動を妨げる行為&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;問題があった場合は、主催者の判断で注意や退場などの対応を行うことがあります。
+困ったことがあれば、お気軽に主催者までお声がけください。&lt;/p&gt;
+&lt;h2&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://x.com/count0" rel="nofollow"&gt;@count0&lt;/a&gt;にDMください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://delanagoya.connpass.com/event/405257/</guid><enclosure url="https://media.connpass.com/thumbs/ea/47/ea4717b911320ec87b392a7dc717ba01.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 22:48:03 +0900</pubDate></item><item><title>鯱.py × Unagi.py コラボイベント in 豊橋</title><link>https://shachi-py.connpass.com/event/403190/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 豊橋駅前展望会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県豊橋市駅前大通１丁目４６−１ 9F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #shachi_py&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Unagi.pyとのコラボイベントを今年もやります！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;今回は昨年に引き続き&lt;a href="https://unagi-py.connpass.com" rel="nofollow"&gt;Unagi.py&lt;/a&gt;とのコラボイベントを豊橋で開催します！&lt;/p&gt;
 &lt;p&gt;内容としてはPythonにまつわるトーク、LTになります。&lt;/p&gt;
 &lt;p&gt;この機会にUnagi.pyの皆さんと交流をしていきましょう！&lt;/p&gt;

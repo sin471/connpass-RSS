@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>富山のイベント</title><link>https://connpass.com/explore/</link><description>富山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>富山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 00:10:06 +0000</lastBuildDate><item><title>2026年08月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北陸編</title><link>https://ishikai.connpass.com/event/402661/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 富山商工会議所 9階 93号室&lt;/li&gt;&lt;li&gt;🏢 住所: 富山市総曲輪2-1-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一日で環境構築～回路～レイアウト～テープアプトまでを一気にやる企画です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;2026年08月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北陸編の参加者募集の概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>富山のイベント</title><link>https://connpass.com/explore/</link><description>富山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>富山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 23:46:55 +0000</lastBuildDate><item><title>2026年08月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北陸編</title><link>https://ishikai.connpass.com/event/402661/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 富山商工会議所 9階 93号室&lt;/li&gt;&lt;li&gt;🏢 住所: 富山市総曲輪2-1-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一日で環境構築～回路～レイアウト～テープアプトまでを一気にやる企画です。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;2026年08月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北陸編の参加者募集の概要&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;初の北陸&lt;/strong&gt;での、半導体の基本用語の「EDA」や「PDK」さえ、何？そもそも「シャトル」って何？という方向けにハンズオンセミナーします。&lt;br&gt;
 具体的には、アナログ半導体のHellow WorldやLチカに相当するインバータ回路を、設計ツールのセットアップ〜回路設計〜チップ上へのレイアウトまでを1日でやっていただくハンズオンとなります。&lt;br&gt;
 半導体なんて全く知らないけど、作ってはみたい！という方は、ぜひ、ご参加ください！  &lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;p&gt;スポンサー提供のため「&lt;strong&gt;無料&lt;/strong&gt;」となります。  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;シャトル提供スポンサー&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html" rel="nofollow"&gt;九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rise-a.jp/" rel="nofollow"&gt;一般社団法人RISE-A&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -38,6 +38,11 @@
 &lt;li&gt;OpenSUSI-TR10 PDKを利用してください。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;補足資料&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/J-IMPACT/inverter_handson_toyama/blob/main/inverter_appendix_OpenSUSI-TR10.pdf" rel="nofollow"&gt;インバータハンズオン追加資料&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;この資料の冒頭「環境構築の確認」を参照し、&lt;strong&gt;環境構築が完了したことを事前に確認してください&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Siliwizを用いたインバーターの解説 with ハンズオン  &lt;ul&gt;
@@ -53,10 +58,10 @@
 &lt;p&gt;小規模ながらスポンサーのGoogle社＋コニュニティーサポートのeFables社＋製造ファブのSkywater社の構造であり、OpenMPWの構造ということとなります！&lt;br&gt;
 大風呂敷を広げれば、日本のOpenMPWはまだまだ続いています！&lt;br&gt;
 これからもこの構造でもっとシャトルを増やしていこうと思いますので、皆様のご支援、よろしくお願いいたします！  &lt;/p&gt;
-&lt;p&gt;&lt;img alt="ISHI会版OpenMPW" src="https://ishi-kai.org/assets/images/shuttle/ISHIKAI_OpenMPW_TR10_2.png"&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="ISHI会版OpenMPW" src="/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_RISE-A.png"&gt;  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;シャトル提供スポンサー&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html" rel="nofollow"&gt;九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rise-a.jp/" rel="nofollow"&gt;一般社団法人RISE-A&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;告知サイト&lt;ul&gt;
@@ -81,7 +86,7 @@
 &lt;p&gt;スポンサー提供のため「&lt;strong&gt;無料&lt;/strong&gt;」となります。  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;シャトル提供スポンサー&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html" rel="nofollow"&gt;九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rise-a.jp/" rel="nofollow"&gt;一般社団法人RISE-A&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -101,6 +106,14 @@
 &lt;li&gt;【住所】富山市総曲輪2-1-3&lt;/li&gt;
 &lt;li&gt;【参加資格】　ISHI会提供のWSLイメージをセットアップ完了した方&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;入室方法&lt;/h3&gt;
+&lt;p&gt;当日は富山商工会議所が通常営業していないので、守衛室のある裏口から入る必要があります。&lt;/p&gt;
+&lt;p&gt;富山駅からは富山城を右手に見ながら、ANAクラウンプラザホテルとセブンイレブンのある交差点「城址公園前」に向かってください。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="地図" src="https://ushitora.net/pub_img/shoko_map.png"&gt;&lt;/p&gt;
+&lt;p&gt;左手にセブンイレブンが見えるのでそれを通り過ぎ、セブンイレブン南側を左折して細い道に入ってください。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="細い道の入り口" src="https://ushitora.net/pub_img/711.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;そこにDパーキングがあるので、その中を奥まで歩いていくと富山商工会議所の裏口があります。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Dパーキング" src="https://ushitora.net/pub_img/parking_guide.jpg"&gt;&lt;/p&gt;
 &lt;h2&gt;参加費&lt;/h2&gt;
 &lt;p&gt;無料&lt;/p&gt;
 &lt;h4&gt;懇親会&lt;/h4&gt;
@@ -124,7 +137,7 @@
 &lt;h3&gt;持ち物&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;PC・・・必須です。WindowsやUbuntuやMac AppleSiliconでご用意ください。&lt;/li&gt;
-&lt;li&gt;マウス・・・タッチパッドでは厳しいです。ぜひともご用意ください。回路図エディタやレイアウトエディタを操作するには、タッチパッドではかなり厳しいです。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;マウス・・・タッチパッドでは厳しいです。ぜひともご用意ください。&lt;/strong&gt;回路図エディタやレイアウトエディタを操作するには、タッチパッドではかなり厳しいです。&lt;/li&gt;
 &lt;li&gt;めげない心・・・一番重要です。忘れないようにしっかり寝てから参戦しましょう！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;利用する資料&lt;/h3&gt;
@@ -164,7 +177,7 @@
 &lt;p&gt;専門家だけが利用可能だったOSやコンパイラ、ライブラリ、アプリ、電子基板、3D CADや3Dプリンターがオープンソースソフトウェア、オープンハードウェア、オープンモデリングなどとして誰もが利用できるようになったように、半導体（ASIC/LSI/IC）やEDA/PDKを誰もが利用できる世界を目指して活動していく所存です。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;今後の活動方針としては、他分野の人たちを巻き込んで半導体（ASIC/LSI/IC）分野に革命を起こすという方針で、他分野向けの超初心者向けハンズオンセミナーや専門家向けの濃い内容の勉強会などのイベントを開催したり、チームを作ってOpenMPWシャトルや世界のChipathonに挑戦したり、Maker Faireなどのイベントへの参加をしていきたいと思いますので、よろしくお願いいたします。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;p&gt;イベントもオンライン化に伴って参加者を含め行動規範の精神に基づいた行動を要請します。困りごとがありましたら主催者にご連絡ください。荒らしなどのAbuse行為、悪意が無くともお願いに対し改善がないと判断される場合はケースバイケースで対応させていただくことがございます。 &lt;a href="https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/" rel="nofollow"&gt;https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ishikai.connpass.com/event/402661/</guid><enclosure url="https://media.connpass.com/thumbs/ec/f4/ecf440570d707a83e1fbb831951d3d2c.png" length="0" type="image/png"/><pubDate>Tue, 25 Aug 2026 08:57:07 +0900</pubDate></item><item><title>富山デザイン勉強会＃33「ブラッシュアップデザイン仕上げで完成度をアップさせる方法#2」</title><link>https://toyama-design.connpass.com/event/402767/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 救急薬品市民交流プラザ QQPlaza 会議室2Ａ(3F)&lt;/li&gt;&lt;li&gt;🏢 住所: 富山県射水市戸破4200-11&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #toyama-design&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;富山でデザインを勉強したい方、デザイナーと交流をしたい方、デザインに興味がある方へ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;p&gt;イベントもオンライン化に伴って参加者を含め行動規範の精神に基づいた行動を要請します。困りごとがありましたら主催者にご連絡ください。荒らしなどのAbuse行為、悪意が無くともお願いに対し改善がないと判断される場合はケースバイケースで対応させていただくことがございます。 &lt;a href="https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/" rel="nofollow"&gt;https://www.contributor-covenant.org/ja/version/2/0/code_of_conduct/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ishikai.connpass.com/event/402661/</guid><enclosure url="https://media.connpass.com/thumbs/ec/f4/ecf440570d707a83e1fbb831951d3d2c.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 23:13:27 +0900</pubDate></item><item><title>富山デザイン勉強会＃33「ブラッシュアップデザイン仕上げで完成度をアップさせる方法#2」</title><link>https://toyama-design.connpass.com/event/402767/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 救急薬品市民交流プラザ QQPlaza 会議室2Ａ(3F)&lt;/li&gt;&lt;li&gt;🏢 住所: 富山県射水市戸破4200-11&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #toyama-design&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;富山でデザインを勉強したい方、デザイナーと交流をしたい方、デザインに興味がある方へ&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;名称：富山デザイン勉強会＃33「ブラッシュアップデザイン仕上げで完成度をアップさせる方法#2」&lt;/li&gt;
 &lt;li&gt;主催者：DERA-DESIGN&lt;/li&gt;
@@ -371,4 +384,54 @@
 &lt;p&gt;※ 進行状況により時間は前後する場合があります&lt;/p&gt;
 &lt;h2&gt;懇親会&lt;/h2&gt;
 &lt;p&gt;懇親会参加の方は以下のサブイベントからお申込みください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://circus-lt.connpass.com/event/401872/" rel="nofollow"&gt;https://circus-lt.connpass.com/event/401872/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://circus-lt.connpass.com/event/401871/</guid><enclosure url="https://media.connpass.com/thumbs/47/9f/479fcb75eec0defd0f8fc3e96634f52f.png" length="0" type="image/png"/><pubDate>Sat, 08 Aug 2026 16:20:04 +0900</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://circus-lt.connpass.com/event/401872/" rel="nofollow"&gt;https://circus-lt.connpass.com/event/401872/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://circus-lt.connpass.com/event/401871/</guid><enclosure url="https://media.connpass.com/thumbs/47/9f/479fcb75eec0defd0f8fc3e96634f52f.png" length="0" type="image/png"/><pubDate>Sat, 08 Aug 2026 16:20:04 +0900</pubDate></item><item><title>富山デザイン勉強会＃34「2026年最新 CANVA講座ー基礎編ー」</title><link>https://toyama-design.connpass.com/event/405183/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 救急薬品市民交流プラザ QQPlaza 会議室2Ａ(3F)&lt;/li&gt;&lt;li&gt;🏢 住所: 富山県射水市戸破4200-11&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #toyama-design&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;富山でデザインを勉強したい方、デザイナーと交流をしたい方、デザインに興味がある方へ&lt;/p&gt;&lt;div&gt;&lt;p&gt;※※開催場所が変わります※※
+【高岡市生涯学習センター研修室502】&lt;/p&gt;
+&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;名称：富山デザイン勉強会＃34「2026年最新 CANVA講座ー基礎編ー」&lt;/li&gt;
+&lt;li&gt;主催者：DERA-DESIGN&lt;/li&gt;
+&lt;li&gt;開催日時：2026/9/26（土）　14:00〜17:00（13:30受付開始）&lt;/li&gt;
+&lt;li&gt;開催場所：高岡市生涯学習センター研修室502(5F)富山県高岡市末広町1番7号（ウイング・ウイング高岡内）&lt;/li&gt;
+&lt;li&gt;参加費：500円　学生無料　入退室自由（遅刻・早退OK）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;＜＜お子様連れもOKです＞＞&lt;/p&gt;
+&lt;h1&gt;イベントスケジュール&lt;/h1&gt;
+&lt;p&gt;13：30〜　受付開始&lt;/p&gt;
+&lt;p&gt;14：00〜　イントロダクション・自己紹介（20分）&lt;/p&gt;
+&lt;p&gt;14：20〜　「2026年最新 CANVA講座ー基礎編ー」（90分）&lt;/p&gt;
+&lt;p&gt;休憩（10分）&lt;/p&gt;
+&lt;p&gt;15：50〜　アンカンファレンス&lt;/p&gt;
+&lt;p&gt;16：30　　終了&lt;/p&gt;
+&lt;h3&gt;「2026年最新 CANVA講座ー基礎編ー」油谷藍&lt;/h3&gt;
+&lt;p&gt;昨年好評をいただいたCANVA講座の2026年最新バージョン。これからCANVAを使いたい方、今使っているけどもっといろんな使い方を知りたい方向けの講座です。基礎的な使い方+アップデートされた機能について解説していただきます。講師はデザイナーの油谷藍さんです。&lt;/p&gt;
+&lt;h3&gt;アンカンファレンス&lt;/h3&gt;
+&lt;p&gt;参加者同士が自由に発言できる交流会です。自分以外のデザイナーの考え方などを知る機会にしたいと思います。というと堅苦しいと思うかもしれませんが、難しく考えずに気軽な雑談と思ってください。&lt;/p&gt;
+&lt;h1&gt;富山デザイン勉強会とは&lt;/h1&gt;
+&lt;p&gt;富山デザイン勉強会は、デザインにたずさわる人、デザインを勉強したい人など、デザインに興味のある人なら誰でも参加できる勉強会です。&lt;/p&gt;
+&lt;p&gt;デザインに関して初心者の方でも構いません。今のスキルに関係なく、「ちょっとウチのお店のチラシを自分で作りたい」というのは、デザインに興味があるということです。&lt;/p&gt;
+&lt;p&gt;また、勉強会という言っていますが、もう一つの目的としてデザイナー同士の交流の場にもしたいと考えています。なかなか自分（自社）以外のデザイナーとつながる機会は少ないので、デザインに興味のある人の意見交換の場にしたいと思います。&lt;/p&gt;
+&lt;h1&gt;こんな方にオススメ&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;デザイナーとして仕事をしている方&lt;/li&gt;
+&lt;li&gt;デザインを勉強中の方&lt;/li&gt;
+&lt;li&gt;他のデザイナーと交流したい方&lt;/li&gt;
+&lt;li&gt;デザインを勉強したいけど、何からやったらいいかわからない方&lt;/li&gt;
+&lt;li&gt;自分で会社やお店のチラシやWEBサイトを作りたい方&lt;/li&gt;
+&lt;li&gt;デザインの仕事ってどんなものか興味がある方&lt;/li&gt;
+&lt;li&gt;とにかく人と交流するのが好きな方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;などなど、デザインに興味がある方、勉強したい方、交流を広げたい方なら誰でも大歓迎です！&lt;/p&gt;
+&lt;h1&gt;デザインを勉強できる場所って少ない&lt;/h1&gt;
+&lt;p&gt;数年前、まだ私が岐阜のデザイン事務所に勤めていた時、デザイナーとしてもっとスキルアップしたいと思い、勉強会や講演会などを探しましたが、なかなかありませんでした。&lt;/p&gt;
+&lt;p&gt;Webデザインの勉強会を探すと、Wordpressやプログラムの勉強会はたくさん開催されているのに、デザイン自体を勉強する勉強する勉強会がない（少ない）のはなぜでしょうか？
+おそらく、デザインには明確な答えがないからなのではないでしょうか。デザインはそれぞれに答えがあっていいものだから、勉強会が難しくあまり勉強会などが少ないのだと思います。&lt;/p&gt;
+&lt;p&gt;それで、それならば自分で開催すればいいと考え、2019年に岐阜デザイン勉強会（&lt;a href="https://gifu-design.connpass.com/" title="岐阜デザイン勉強会" rel="nofollow"&gt;https://gifu-design.connpass.com/&lt;/a&gt;）を立ち上げ、一年間（全12回）を開催しました。
+当時の私自身、デザインを人に教えられるほど自信があるかというと、そうではありませんでした。もっと優秀なデザイナーはたくさんいるのにおこがましいと思うこともありました。それでも岐阜デザイン勉強会を立ち上げたのは、自分自身のスキルアップや、他のデザイナーの方たちとのつながりを持てるきっかけになると思ったからです。&lt;/p&gt;
+&lt;p&gt;それから時がたち、富山県砺波市に移住してデザイン制作事務所DERA-DESIGNとして独立をしました。富山県でもデザイナーの輪を広げ、デザインに携わる人を増やしたいと思っています。その為の場所として富山デザイン勉強会を作りました。&lt;/p&gt;
+&lt;h1&gt;スタッフ紹介&lt;/h1&gt;
+&lt;p&gt;富山デザイン勉強会を運営するスタッフを紹介いたします&lt;/p&gt;
+&lt;h3&gt;吉川 圭太&lt;/h3&gt;
+&lt;p&gt;デザイン制作事務所 DERA-DESIGN（&lt;a href="http://deradesign.jp/" title="DERA-design" rel="nofollow"&gt;http://deradesign.jp/&lt;/a&gt;）代表。
+デザイナー歴は14年、デザインは独学で勉強しDTPデザイン、看板デザインを経験したのち、グラフィックデザイン、Webデザインをやっています。自分で制作するだけでなく、ディレクターとして部下の指導も行っていますが、デザイナーを育成するという難しさを感じています。&lt;/p&gt;
+&lt;h3&gt;渕崎 愛&lt;/h3&gt;
+&lt;p&gt;Web・グラフィックデザイナー歴9年のデザイナーです。すでにあるスキルを伸ばしながら、新しいスキルを身に付けるために様々な方と情報交換をしたいと思っています。デザイナー仲間を増やして、一緒に大きなプロジェクトができるようになると嬉しいです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://toyama-design.connpass.com/event/405183/</guid><enclosure url="https://media.connpass.com/thumbs/be/3e/be3e19b3544ffa1b49459130ddaf9888.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 13:44:56 +0900</pubDate></item></channel></rss>

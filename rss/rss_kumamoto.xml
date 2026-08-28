@@ -1,147 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 00:10:51 +0000</lastBuildDate><item><title>【CDLE熊本】第2回 生成AIハンズオン勉強会「これ、何ごみ？」をAIに聞く</title><link>https://cdle-kumamoto.connpass.com/event/402716/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月28日(金) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月28日(金) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本市市民活動支援センター あいぽーと&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE熊本&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;熊本市の「生活便利ブック」をGeminiに読ませて、“自分専用の暮らしAI”をつくる&lt;/p&gt;&lt;div&gt;&lt;h2&gt;こんなこと、ありませんか&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「これは燃やすごみ？」&lt;/li&gt;
-&lt;li&gt;「引っ越しの手続き、何を持っていけばいいの？」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;熊本市の冊子は手元にあるけれど、どこに書いてあるか探すのが大変。
-インターネットで調べても、熊本市の話かどうか分からない。&lt;/p&gt;
-&lt;h2&gt;この勉強会でやること&lt;/h2&gt;
-&lt;p&gt;Gemini の &lt;strong&gt;ノートブック&lt;/strong&gt; という機能に、熊本市の「生活便利ブック」（79ページ）を丸ごと読ませて、
-&lt;strong&gt;“自分専用の暮らしAI”&lt;/strong&gt;をつくります。&lt;/p&gt;
-&lt;p&gt;答えのところどころに、小さく「&lt;strong&gt;PDF&lt;/strong&gt;」という印が付きます。
-&lt;strong&gt;押すと、冊子のその場所に飛びます。&lt;/strong&gt; 確かめてから使えます。&lt;/p&gt;
-&lt;p&gt;さらに、&lt;strong&gt;同じ画面のまま&lt;/strong&gt;「Web検索を使って、近くの回収施設も調べて」とお願いできます。
-このときの答えには「PDF」の印が&lt;strong&gt;付きません&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;つまり ――
-&lt;strong&gt;印が付いている部分は、冊子のどこに書いてあったか確認できます。
-付いていない部分は、冊子を根拠にしたとは確認できません。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「どこまで確かめられる答えなのか」を見分ける手がかり&lt;/strong&gt;が持てるようになります。
-ここが今日いちばん持って帰ってほしいところです。&lt;/p&gt;
-&lt;h2&gt;使う道具&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Googleの「Gemini」だけ&lt;/strong&gt;です。開くサイトは &lt;code&gt;&lt;a href="http://gemini.google.com" rel="nofollow"&gt;gemini.google.com&lt;/a&gt;&lt;/code&gt; の1つだけ。
-新しく契約するものも、インストールするものもありません。&lt;/p&gt;
-&lt;p&gt;その中の&lt;strong&gt;ノートブック機能&lt;/strong&gt;を使って、自分の資料をAIに持たせます。
-※ ノートブックは、以前 NotebookLM と呼ばれていた機能がGeminiに統合されたものです。&lt;/p&gt;
-&lt;h2&gt;持ち帰るもの&lt;/h2&gt;
-&lt;p&gt;当日つくった「&lt;strong&gt;自分専用のノートブック&lt;/strong&gt;」は、ご自身のGoogleアカウントに残ります。
-閉じても消えません。帰ってからも、思い出したときに聞き直せます。&lt;/p&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;12:40&lt;/td&gt;
-&lt;td&gt;受付開始（早めに来ていただいて大丈夫です）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:00&lt;/td&gt;
-&lt;td&gt;はじめに／AIに“自分の資料”を持たせるとは&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:20&lt;/td&gt;
-&lt;td&gt;Geminiの中に自分のノートブックを作り、冊子を読み込ませる&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:40&lt;/td&gt;
-&lt;td&gt;冊子に聞いてみる・「PDF」の印で出典を確かめる&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;同じ会話のまま、Webの情報も足していく&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:35&lt;/td&gt;
-&lt;td&gt;まとめ／共有&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:50&lt;/td&gt;
-&lt;td&gt;アンケート&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00&lt;/td&gt;
-&lt;td&gt;終了&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;⏳ &lt;strong&gt;13:20台に、3分ほど待ち時間があります。&lt;/strong&gt;
-冊子（13.7メガバイト・79ページ）の読み込みに時間がかかるためです。
-&lt;strong&gt;故障ではありません。&lt;/strong&gt; その間に、画面の見方と質問のコツをご説明します。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;持ち物（必ずお読みください）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ノートパソコンをお持ちください。&lt;/strong&gt; 今回からパソコンを使います&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参加には「個人の」Googleアカウントが必要です（当日までにご準備を）&lt;/strong&gt;
-  当日その場での作成はお時間の都合で対応できません。作り方の資料はお渡しします
-  ⚠️ &lt;strong&gt;会社・学校のGoogleアカウントでは、今回使う機能が利用できません&lt;/strong&gt;（Googleの仕様です）。
-  お勤め先のアカウントでログインされている方は、個人のアカウントをご用意ください&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;対象&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;どなたでも（AIの利用規約により&lt;strong&gt;13歳以上&lt;/strong&gt;の方）&lt;/li&gt;
-&lt;li&gt;パソコンの操作に自信がなくても大丈夫です&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;第1回・前回に参加していない方も、今回だけのご参加で大丈夫です&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;あいぽーと（熊本市市民活動支援センター）会議・セミナー室
-ウェルパルくまもと1階&lt;/p&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;無料&lt;/p&gt;
-&lt;h2&gt;お申し込みについて&lt;/h2&gt;
-&lt;p&gt;connpassからお申し込みください。
-&lt;strong&gt;お申し込みなしの当日参加も歓迎します。&lt;/strong&gt; そのままお越しください。&lt;/p&gt;
-&lt;h2&gt;お約束&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;氏名・住所・電話番号・病歴・家族構成などの&lt;strong&gt;個人情報はAIに入力しません&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;「PDF」の印が付いていない情報は、どこから来たか確かめられません。&lt;/strong&gt;
-  電話番号や住所は、かけたり出かけたりする前に必ず市のホームページか窓口でお確かめください&lt;/li&gt;
-&lt;li&gt;大事なことは、最後は市の窓口でご確認ください&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;このあとのシリーズ&lt;/h2&gt;
-&lt;p&gt;9月以降も&lt;strong&gt;月1回&lt;/strong&gt;、Geminiのノートブックに他のサービスをつないでいくシリーズとして続けます。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;回&lt;/th&gt;
-&lt;th&gt;テーマ&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;第3回（9/28 月 17:30〜19:30）&lt;/td&gt;
-&lt;td&gt;ノートブックの答えから“絵本”を作る（Storybook）※18歳以上&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;毎回それだけで完結します。&lt;/strong&gt; 途中からのご参加でも大丈夫です。&lt;/p&gt;
-&lt;h2&gt;主催&lt;/h2&gt;
-&lt;p&gt;CDLE熊本（担当：有馬）
-お問い合わせ：cdle.kumamoto@gmail.com ／ 090-3178-6900
-```&lt;/p&gt;
-&lt;h2&gt;会場・アクセス 📍&lt;/h2&gt;
-&lt;p&gt;熊本市市民活動支援センター あいぽーと 会議・セミナー室
-熊本県熊本市中央区大江5-1-1 ウェルパルくまもと1階
-当日の会場参加方法：当日会場に直接お越しいただき、受付を行ってください&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;共催&lt;/h2&gt;
-&lt;p&gt;CDLE福岡、CDLEおおいた&lt;/p&gt;
-&lt;h2&gt;協力&lt;/h2&gt;
-&lt;p&gt;CDLE大阪、九州テレコム振興センター (KIAI）&lt;/p&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;イベント内容・タイムテーブルは予告なく変更になる場合があります。&lt;/li&gt;
-&lt;li&gt;会の進行によっては時間が前後する場合があります。&lt;/li&gt;
-&lt;li&gt;駐車場には限りがあります。できるだけ公共交通機関をご利用ください。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;会場レイアウトの兼ね合いもありますので、申込後に参加できなくなった方はconnpassで必ず「キャンセル」操作をお願いします！&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;当日の様子は、広報のため写真撮影を行う場合があります。写り込みを希望されない方は当日スタッフにお申し出ください。&lt;/li&gt;
-&lt;li&gt;皆さまが気持ちよく学べる場づくりのため、勉強会の進行や他の参加者の学びへのご配慮をお願いいたします。&lt;/li&gt;
-&lt;li&gt;本勉強会で扱う料金・モデル・プラン情報は &lt;strong&gt;2026年7月時点&lt;/strong&gt; のものです。AIツールの仕様は変動が早いため、実際の利用前には各社公式情報をご確認ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-kumamoto.connpass.com/event/402716/</guid><enclosure url="https://media.connpass.com/thumbs/6c/cd/6ccd85fd760caa01d9677aa0488a80b9.png" length="0" type="image/png"/><pubDate>Tue, 25 Aug 2026 11:25:51 +0900</pubDate></item><item><title>AIを使ったRoblox開発</title><link>https://otona.connpass.com/event/404693/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月31日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月31日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: XOSS POINT.&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;難易度：★☆☆☆☆&lt;/p&gt;&lt;div&gt;&lt;p&gt;グラフィックデザインを専攻し、デザインや3D制作など幅広いものづくりに取り組んでいる発表者が、Roblox StudioとAIを組み合わせたゲーム制作の実践方法をやさしく解説します。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>熊本のイベント</title><link>https://connpass.com/explore/</link><description>熊本のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>熊本のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 23:47:38 +0000</lastBuildDate><item><title>AIを使ったRoblox開発</title><link>https://otona.connpass.com/event/404693/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月31日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月31日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: XOSS POINT.&lt;/li&gt;&lt;li&gt;🏢 住所: 熊本県熊本市西区春日1丁目14-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;難易度：★☆☆☆☆&lt;/p&gt;&lt;div&gt;&lt;p&gt;グラフィックデザインを専攻し、デザインや3D制作など幅広いものづくりに取り組んでいる発表者が、Roblox StudioとAIを組み合わせたゲーム制作の実践方法をやさしく解説します。&lt;/p&gt;
 &lt;p&gt;まずRoblox Studioのインストールから始め、続いてRojo・VS Codeのインストールと、両方でのRojo設定方法を丁寧に解説します。環境が整ったところで、Part・Terrainの基本操作を学び、走る機能や横視点カメラ、アイテムUI、動く足場、テレポート、チェックポイント、カメラ演出付きのパズルドアシステムなど、実際のゲームメカニクスを一つずつ構築していきます。後半では、AIだけを使ったゲーム制作テスト（木の生成・ジェットパック実装など）にも触れ、AIを活用したゲーム開発の可能性を一緒に考えたいと思います。&lt;/p&gt;
 &lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
 &lt;ul&gt;
@@ -410,15 +268,16 @@ CDLE熊本は、歴史と自然に恵まれ、近年は世界的な半導体産�
 &lt;strong&gt;ゆるテクくまもと&lt;/strong&gt;&lt;br&gt;
 ゆーるーく、テクノロジで遊ぶグループでーす！
 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;他のコミュニティにも声掛け中で随時更新していきます！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;会場は &lt;strong&gt;「くまもと森都心プラザ XOSS POINT.」&lt;/strong&gt; です。&lt;/li&gt;
 &lt;li&gt;会場地下に駐車場がありますが、満車の場合は近隣のコインパーキングをご利用ください。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;イヤホン/ヘッドホンを持参いただくと、生成した音声を周りを気にせず確認できるためおすすめです。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;皆さまのご参加をお待ちしています！&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://otona.connpass.com/event/405090/</guid><enclosure url="https://media.connpass.com/thumbs/8e/be/8ebe0c2ef255b685c6ad0c0153925afd.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 15:28:15 +0900</pubDate></item><item><title>Zephyr Project Meetup: Kumamoto, Japan 2026</title><link>https://zephyr-rtos.connpass.com/event/404251/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本（未定）&lt;/li&gt;&lt;li&gt;🏢 住所: 1-1 Honmaru, Chuo Ward, Kumamoto, 860-0002&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZephyrRTOS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;編集中&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;em&gt;The English guide follows the Japanese version.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://otona.connpass.com/event/405090/</guid><enclosure url="https://media.connpass.com/thumbs/8e/be/8ebe0c2ef255b685c6ad0c0153925afd.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 14:59:46 +0900</pubDate></item><item><title>Zephyr Project Meetup: Kumamoto, Japan 2026</title><link>https://zephyr-rtos.connpass.com/event/404251/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 熊本（未定）&lt;/li&gt;&lt;li&gt;🏢 住所: 1-1 Honmaru, Chuo Ward, Kumamoto, 860-0002&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ZephyrRTOS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;編集中&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;em&gt;The English guide follows the Japanese version.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;編集中 / Now editing *&lt;/li&gt;
 &lt;/ul&gt;
