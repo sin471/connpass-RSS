@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山口のイベント</title><link>https://connpass.com/explore/</link><description>山口のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山口のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 28 Aug 2026 23:47:26 +0000</lastBuildDate><item><title>Special Saturday Seminar -“Markdown（マークダウン）” -</title><link>https://hikariba.connpass.com/event/405062/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月29日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月29日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース HiKARiBA&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県光市浅江1-4-14 (アイオイビル3F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SSS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vol.6 知られざるもう一つの共通言語“Markdown（マークダウン）”&lt;/p&gt;&lt;div&gt;&lt;h2&gt;Special Saturday Seminarとは&lt;/h2&gt;
-&lt;p&gt;”第5土曜日”は特別な土曜日！
-定例の勉強会やイベントがなにかと重なりがちな週末の中で、数ヶ月に一度訪れる第5土曜日
-年間数回しかない日にヒカリバから贈る特別な学びの時間をプレゼント。
-なかなか聞けない専門テーマのセミナーで学びを深める土曜日をお届けします。&lt;/p&gt;
-&lt;h2&gt;テーマは「知られざるもう一つの共通言語 “Markdown（マークダウン）”」&lt;/h2&gt;
-&lt;p&gt;6回目のテーマは「知られざるもう一つの共通言語 “Markdown（マークダウン）”」&lt;/p&gt;
-&lt;p&gt;Markdown（マークダウン）を知っていますでしょうか？Markdown（マークダウン）は、Webページの制作に用いられるHTMLの複雑さを解消し、色や太文字などのない文字情報だけを使って、読みやすさを保ちながら、手軽に文章構造を記述する目的で2004年にJohn Gruber氏によって開発されました。HTMLの複雑なタグ記述を分け、誰よりも素早く文章を作成・共有できるようにした軽量マークアップ言語です。&lt;/p&gt;
-&lt;p&gt;Markdownが選ばれる主な理由は「読み書きの速さ」「可読性」「バージョン管理のしやすさ」の3点。この特徴を活かし、生成AIなどとのやりとりには、よくこのMarkdownが用いられており、たとえば生成AIのスキルや、途中経過の資料などで作られる「md」というファイルもこのMarkdown形式のファイルを指し示しています。&lt;/p&gt;
-&lt;p&gt;Markdownに慣れることで、授業でもICT化に触れることが増えた学生や社会人にとって記述するにあたり速さ、見やすさが生まれ効率化を知り、“デジタルネイティブ世代”として新しい学び方に触れることができると感じます。今回のテーマはMarkdownを知ることから、実践して学べるセミナーとなります。&lt;/p&gt;
-&lt;p&gt;生成AIに関するセミナーの多くが、活用法や、コード生成（Codex/Claude Codeなど）、エージェント型などの「特徴」や「使い方」をテーマにしている中、さらに一歩手前の「指示の仕方」につながる共通文法（記法）に掘りさげています。
-よく見るし、なんとなくはわかるというあの独特な文法を知り、学び、活用できるようになっていくための、基礎を学ぶテーマとしました。&lt;/p&gt;
-&lt;p&gt;ITの専門家「テクニカルコンシエルジュ」の顔を持つヒカリバ代表が、最新の話題を交えてお伝えします。&lt;/p&gt;
-&lt;h2&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開催日時 2026年8 月29 日（土） 15:00～16:30（受付開始 14:30～）&lt;/li&gt;
-&lt;li&gt;場所 コワーキングスペース HiKARiBA （山口県光市浅江1-4-14 アイオイビル3F）&lt;/li&gt;
-&lt;li&gt;参加費 1,000 円（月額会員は500 円）&lt;/li&gt;
-&lt;li&gt;定員 20 名&lt;/li&gt;
-&lt;li&gt;講師 石川 博之（株式会社ステラリンク 代表取締役／HiKARiBA 代表・Founder）&lt;/li&gt;
-&lt;li&gt;申込方法 本イベントのWebサイトまたはヒカリバまで電話にてお申し込みください&lt;/li&gt;
-&lt;li&gt;申込・問合せ先 コワーキングスペース HiKARiBA（ホームページ、TEL 0833-71-3650）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;参加・申込方法&lt;/h2&gt;
-&lt;p&gt;以下の方法でお申し込みを受け付けます&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;コワーキングスペース HiKARiBA の&lt;a href="https://hikariba.jp/event/specialsaturdayseminar" rel="nofollow"&gt;イベントページ&lt;/a&gt;内にあるフォーム&lt;/li&gt;
-&lt;li&gt;電話 0833-71-3650 または店頭での口頭による申込み&lt;/li&gt;
-&lt;li&gt;connpass(本ページ)からの申込み&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※できる限りフォーム等での申込みにご協力ください。
-※参加申込みは公式サイトのフォームを優先します。申込み枠数は随時変動しますのでご了承ください。
-※イベントの定員は20名としていますが、connpassでの管理都合上少なく設定しています&lt;/p&gt;
-&lt;h2&gt;イベント詳細、フライヤーダウンロード&lt;/h2&gt;
-&lt;p&gt;イベントの詳細や最新情報、フライヤーのダウンロードはHiKARiBAのイベントページをご参照ください
-&lt;a href="https://hikariba.jp/event/specialsaturdayseminar" rel="nofollow"&gt;https://hikariba.jp/event/specialsaturdayseminar&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hikariba.connpass.com/event/405062/</guid><enclosure url="https://media.connpass.com/thumbs/61/0a/610acf63dd72a1734f53bc7b1592ca80.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 01:45:53 +0900</pubDate></item><item><title>モダンJavaScript茶話会 ＃113 【Webフロントをみんなで楽しく語ろう】</title><link>https://hikariba.connpass.com/event/402440/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月5日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月5日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース HiKARiBA&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県光市浅江1-4-14 (アイオイビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;モダンJavaScriptと関連フレームワークやライブラリなどを中心に、広くフロントエンドについて“教えあい”“学びあい”“語り合う”勉強会。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山口のイベント</title><link>https://connpass.com/explore/</link><description>山口のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山口のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 29 Aug 2026 18:02:26 +0000</lastBuildDate><item><title>モダンJavaScript茶話会 ＃113 【Webフロントをみんなで楽しく語ろう】</title><link>https://hikariba.connpass.com/event/402440/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月5日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月5日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: コワーキングスペース HiKARiBA&lt;/li&gt;&lt;li&gt;🏢 住所: 山口県光市浅江1-4-14 (アイオイビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;モダンJavaScriptと関連フレームワークやライブラリなどを中心に、広くフロントエンドについて“教えあい”“学びあい”“語り合う”勉強会。&lt;/p&gt;
 &lt;h2&gt;この勉強会について&lt;/h2&gt;
 &lt;p&gt;ブラウザ上で稼働し触りやすく親しみのあるJavaScriptですが、プログラミング言語としてのJavaScriptや、画面上の要素を操作することを実際に進めてみると、いろいろと独習のハードルは高くなるものです。&lt;/p&gt;
 &lt;p&gt;JavaScriptそのものも、フロントエンドからバックエンドまで、守備範囲が広く、3Dコンテンツやアプリ開発にまで適用していくことができます。&lt;/p&gt;
