@@ -1,71 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 29 Aug 2026 18:01:32 +0000</lastBuildDate><item><title>CoderDojo仙台若林#70</title><link>https://coderdojo-sendai-wakabayashi.connpass.com/event/403924/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年8月30日(日) 9:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年8月30日(日) 11:40&lt;/li&gt;&lt;li&gt;📍 会場: 若林区中央市民センター（別棟）&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市若林区保春院前丁3番1号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;scrach？ Minecraft&lt;/p&gt;&lt;div&gt;&lt;h3&gt;CoderDojo仙台若林・開催概要&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;項目&lt;/th&gt;
-&lt;th&gt;詳細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;日付&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;時間&lt;/td&gt;
-&lt;td&gt;(受付開始 1５分前より)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;会場&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;住所&lt;/td&gt;
-&lt;td&gt;別枠参照&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;アクセス&lt;/td&gt;
-&lt;td&gt;若林区中央市民センター、七郷市民センター：駐車場あり。荒町市民センター：2台のみ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;参加方法&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Connpassから参加登録してください。（先着順）&lt;/li&gt;
-&lt;li&gt;前日夜までに申し込んでください。&lt;/li&gt;
-&lt;li&gt;※兄弟姉妹で参加の場合は２回参加登録してください。&lt;/li&gt;
-&lt;li&gt;※小学生は原則保護者の方同伴でご参加ください。&lt;/li&gt;
-&lt;li&gt;参加できない場合は、キャンセルをして枠を開放してください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;持ち物&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;書籍（試してみたいもの、CoderDojo開始前の図書館がおすすめ）&lt;/li&gt;
-&lt;li&gt;Scratchが動作するノートパソコン&lt;/li&gt;
-&lt;li&gt;マイクラの場合は、Education版が動作するノートパソコン&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;CoderDojo仙台若林&lt;/h3&gt;
-&lt;p&gt;CoderDojo仙台若林は 2024年3月から活動を開始しました。
-マインクラフトカップの参加などしています。&lt;/p&gt;
-&lt;h3&gt;CoderDojo仙台若林で学べること&lt;/h3&gt;
-&lt;p&gt;CoderDojo仙台若林では7〜17歳の子どもを対象に下記の内容を行います。
-※小１，小２の方は事前にお問い合わせよりご相談ください。&lt;/p&gt;
-&lt;p&gt;Minecraft：マイクラでプログラミング技術を強化しよう！
-Scratch: 初めて参加の方には、一緒に学ぶチュートリアルを行います。その後自由にプログラミングできます。
-もくもく：仲間と一緒に好きなプログラミングをすることができます。（マイクラでも）
-発表：その日作ったことやできたことをみんなに紹介します。&lt;/p&gt;
-&lt;h3&gt;ガジェット分科会について&lt;/h3&gt;
-&lt;p&gt;電子工作でガジェットを仕上げていく、ガジェット分科会です。
-ご自身がお持ちのパーツやチップの素材の性能を引き出して、ものを作って自慢します。&lt;/p&gt;
-&lt;h2&gt;ボランティア、メンターを募集しています。&lt;/h2&gt;
-&lt;p&gt;メンターは、疑問点を一緒に解決したり、プログラミングによるものづくりの進め方などをアドバイスしてくれるボランティアの人たちです。
-メンターをやってみたいという方（参加されるお子さんの保護者でもOKです！）PCをご持参ください。&lt;/p&gt;
-&lt;h2&gt;寄付のお願いについて&lt;/h2&gt;
-&lt;p&gt;施設利用料、通信費、サーバ代などの費用について保護者の皆様からの寄付を募っております。
-  賛同いただける方は、部屋に設置の募金箱にこっそり入れてください。&lt;/p&gt;
-&lt;h2&gt;免責事項&lt;/h2&gt;
-&lt;p&gt;CoderDojo仙台若林の活動参加中、行き帰りなどで発生したトラブルや損失、損害、傷病、事故に対して、
-CoderDojo仙台若林は一切責任を負いません。これらに対して自己責任においてご参加くださるようお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-sendai-wakabayashi.connpass.com/event/403924/</guid><enclosure url="https://media.connpass.com/thumbs/46/2e/462ef1b48c7c5678dd14c9796ce7c226.png" length="0" type="image/png"/><pubDate>Sun, 16 Aug 2026 18:44:18 +0900</pubDate></item><item><title>【東北初開催】Shopifyが仙台へ。AI時代のEC運用とDXを考えるオフラインイベント</title><link>https://tengineer.connpass.com/event/403197/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月10日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月10日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: WeWork JR 仙台イーストゲートビル&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市宮城野区榴岡1丁目1-1 2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #EC&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;Shopifyが仙台へ。AI時代のEC運用とDXを考えるオフラインイベント&lt;/b&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 30 Aug 2026 18:16:12 +0000</lastBuildDate><item><title>【東北初開催】Shopifyが仙台へ。AI時代のEC運用とDXを考えるオフラインイベント</title><link>https://tengineer.connpass.com/event/403197/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月10日(木) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月10日(木) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: WeWork JR 仙台イーストゲートビル&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市宮城野区榴岡1丁目1-1 2階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #EC&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;&lt;b&gt;Shopifyが仙台へ。AI時代のEC運用とDXを考えるオフラインイベント&lt;/b&gt;&lt;/h1&gt;
 
 &lt;p&gt;
 AIの進化により、ECは単に商品を「売る」ための仕組みから、&lt;br&gt;
@@ -268,7 +202,72 @@ https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
 &lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
 &lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
 &lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/401677/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Fri, 24 Jul 2026 21:49:47 +0900</pubDate></item><item><title>DevelopersIO 2026 SENDAI #devio2026</title><link>https://classmethod.connpass.com/event/400583/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace（エンスペース）2F&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #devio2026&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIの「やってみた」を仙台で。金曜の夜、聞いて・試して・持ち帰る。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AIの「やってみた」を、仙台で。飲みながら、笑いながら学べます！&lt;/h2&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/401677/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Fri, 24 Jul 2026 21:49:47 +0900</pubDate></item><item><title>AIモブプロナイト 〜みんなでプロダクトを作ってみよう！〜</title><link>https://suku3rum-sendai.connpass.com/event/405336/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月16日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月16日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0803 宮城県仙台市青葉区国分町1-4-9 enspace&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #suc3rum&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIモブプロでアジャイルなプロダクト開発を一緒に体感しよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;今月のすくすくスクラム仙台は、いつもの「話す会」から一歩進んで、&lt;strong&gt;実際に手を動かす回&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;テーマは「AI × モブプログラミング」。
+ChatGPTやClaude Codeなどの生成AIをドライバー役・ナビゲーター役としてみんなで使いながら、モブプログラミングのスタイルで実際に何かひとつのプロダクト（Webアプリ／ツール／ちょっとした自動化スクリプトなど）を、その場のアイデア出しから一緒に作ってみます。&lt;/p&gt;
+&lt;p&gt;「AIを使うとモブプログラミングはどう変わるのか？」
+「役割分担やコミュニケーションはどう変化する？」
+「一人で使うAIと、チームで使うAIは何が違う？」&lt;/p&gt;
+&lt;p&gt;そんな問いを、実際に手を動かしながらみんなで探求してみましょう。&lt;/p&gt;
+&lt;p&gt;プログラミング未経験でもOKです。見ているだけ、アイデアを出すだけの参加も歓迎します。AIに詳しい人もそうでない人も、みんなで一緒にプロダクトを作る体験を楽しみましょう！&lt;/p&gt;
+&lt;h3&gt;こんな方におすすめ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;モブプログラミングをやってみたい／久しぶりにやりたい方&lt;/li&gt;
+&lt;li&gt;AIを使った開発に興味がある方&lt;/li&gt;
+&lt;li&gt;チームでのAI活用方法を模索している方&lt;/li&gt;
+&lt;li&gt;プログラミング未経験だけど雰囲気を体験してみたい方&lt;/li&gt;
+&lt;li&gt;すくすくスクラム仙台に初めて参加する方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;タイムテーブル&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30&lt;/td&gt;
+&lt;td&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00-19:10&lt;/td&gt;
+&lt;td&gt;オープニング・自己紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10-19:30&lt;/td&gt;
+&lt;td&gt;お題決め・チーム分け・環境確認&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:30-20:50&lt;/td&gt;
+&lt;td&gt;AIモブプログラミング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:50-21:00&lt;/td&gt;
+&lt;td&gt;ふりかえり・クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;終了（終了後、希望者で懇親会を予定）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;持ち物・事前準備&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ノートPC（お持ちの方はご持参ください。モブプログラミングは基本1台の画面を共有して進めますが、AIツールを各自で触ってみたい方は持参推奨です）&lt;/li&gt;
+&lt;li&gt;普段お使いのAIツールがあれば、事前にログイン・使用可能な状態にしておくとスムーズです（アカウントをお持ちでない方は当日相談可）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;諸注意&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;飲食物は持ち寄り制（ポットラック）です。飲みたい・食べたいものをご自由にお持ち込みください。&lt;/li&gt;
+&lt;li&gt;終了後に懇親会を予定しています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;行動規範&lt;/h3&gt;
+&lt;p&gt;すくすくスクラム仙台は &lt;a href="https://2026.scrumgatheringtokyo.org/conference_coc_ja.html" rel="nofollow"&gt;RSGT行動規範&lt;/a&gt; に準拠しています。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;私達の会議では，性別，性的指向，障碍の有無，外見，身体の大きさ，人種，宗教にかかわりなく，全員がハラスメント行為なく会議に参加し体験できる環境の提供に最善を尽くします．私達主催者は，会議参加者によるハラスメント行為を一切許容しません．性的な言葉や映像表現を使うことは会議場および会議に関連するいかなる場でも不適切であり，その適用範囲は発表やトークの内容，ワークショップ，関連パーティー，ツイッターやその他のオンラインメディアでの発言を含みます．これらのルールを破った会議参加者は，主催者の判断によって，会議内での行動を制限されたり，参加費の返却なく会議からの追放処分を受けることがあります．&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://suku3rum-sendai.connpass.com/event/405336/</guid><enclosure url="https://media.connpass.com/thumbs/21/93/219334e6d93788bd77d9cf1dc1a87d3a.png" length="0" type="image/png"/><pubDate>Sun, 30 Aug 2026 11:28:25 +0900</pubDate></item><item><title>DevelopersIO 2026 SENDAI #devio2026</title><link>https://classmethod.connpass.com/event/400583/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace（エンスペース）2F&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #devio2026&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIの「やってみた」を仙台で。金曜の夜、聞いて・試して・持ち帰る。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;AIの「やってみた」を、仙台で。飲みながら、笑いながら学べます！&lt;/h2&gt;
 &lt;p&gt;「AI、気になってはいるけど……まだちゃんと触れてない」
 そんなあなたの席を、仙台に用意しました🍺&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DevelopersIO 2026 SENDAI&lt;/strong&gt; は、AI導入・活用にチャレンジしているクラスメソッドグループのメンバーが、「実際にやってみた」を、LT＆セッションで一気にお届けするイベントです。
