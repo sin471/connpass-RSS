@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 05 Sep 2026 17:02:18 +0000</lastBuildDate><item><title>京都アジャイル勉強会 #134</title><link>https://kyoaja.connpass.com/event/404023/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: はてな&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区 七観音町630 読売京都ビル7F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #京アジャ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;京都アジャイル勉強会とは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>京都のイベント</title><link>https://connpass.com/explore/</link><description>京都のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>京都のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 06 Sep 2026 17:26:07 +0000</lastBuildDate><item><title>京都アジャイル勉強会 #134</title><link>https://kyoaja.connpass.com/event/404023/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: はてな&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区 七観音町630 読売京都ビル7F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #京アジャ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;京都アジャイル勉強会とは&lt;/h1&gt;
 &lt;p&gt;仕事帰りにふらっとアジャイルやスクラムについての相談ができたらな。&lt;/p&gt;
 &lt;p&gt;そんな思いで、2010年から活動しているコミュニティです。&lt;/p&gt;
 &lt;p&gt;参加の敷居の低さでは定評のあるコミュニティなので、是非お気軽にご参加ください。&lt;/p&gt;
@@ -1243,4 +1243,115 @@ AIを使った開発や活用を楽しんでいる方、興味がある方であ
 &lt;li&gt;発熱、あるいは咳・咽頭痛等の症状がある場合&lt;/li&gt;
 &lt;li&gt;新型コロナウイルスへの感染の疑いがある場合&lt;/li&gt;
 &lt;li&gt;その他、感染症や体調不良が懸念される場合&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanmoba.connpass.com/event/401020/</guid><enclosure url="https://media.connpass.com/thumbs/80/94/8094ef43bdc60901100965d3d444fbe1.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 11:18:12 +0900</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanmoba.connpass.com/event/401020/</guid><enclosure url="https://media.connpass.com/thumbs/80/94/8094ef43bdc60901100965d3d444fbe1.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 11:18:12 +0900</pubDate></item><item><title>Kyoto.kt #7</title><link>https://kyotokt.connpass.com/event/404712/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月12日(月) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月12日(月) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社はてな&lt;/li&gt;&lt;li&gt;🏢 住所: 京都府京都市中京区烏丸通六角下ル七観音町630 読売京都ビル7F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kyotokt&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;なんでも発表枠について&lt;/h1&gt;
+&lt;p&gt;なんでも発表枠はあらゆる人がテーマに沿った話題で自由に発表する試みです！&lt;/p&gt;
+&lt;p&gt;発表テーマは「Kotlin」です。
+Kotlin に関連することであれば、サーバーサイド Kotlin や Multiplatform、モバイルなんでもOKです！
+発表者の年齢制限やスキル制限などはありません！&lt;/p&gt;
+&lt;p&gt;例えば以下のような方を募集しています！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kotlin で作ったものを紹介したい！&lt;/li&gt;
+&lt;li&gt;Kotlin の豆知識を披露したい！&lt;/li&gt;
+&lt;li&gt;JVM 引数の話がしたい！&lt;/li&gt;
+&lt;li&gt;最近 Kotlin に入門したから感想を言いたい！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;発表持ち時間はは5分から10分までです！&lt;/p&gt;
+&lt;p&gt;京都に関係する方もそうでない方でも大歓迎です！&lt;/p&gt;
+&lt;p&gt;ぜひ気軽にご応募ください！&lt;/p&gt;
+&lt;h1&gt;会場&lt;/h1&gt;
+&lt;p&gt;株式会社はてな 京都オフィス&lt;/p&gt;
+&lt;h1&gt;準備物&lt;/h1&gt;
+&lt;p&gt;Kyoto.kt では、参加者同士のつながりを増やすために自己紹介タイムを設けています。
+事前に話すことを用意しておくことを推奨します！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;例 )
+名前は Kodee です。
+最近 Kotlin のマスコットになりました！よろしくお願いします！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;タイムテーブル&lt;/h1&gt;
+&lt;p&gt;登壇者が少なかった場合は、OST(オープン・スペース・テクノロジー)もしくはワールドカフェのようなものを行う予定です。
+飛び込みLTも大歓迎です！&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;内容&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:45&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;会場開場&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;開始&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:10&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;自己紹介タイム&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;登壇枠 1&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;登壇枠 2&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;質問・交流タイム&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;15:50&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;登壇枠 3&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;登壇枠 4&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:10&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;登壇枠 5&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;振り返り・アンケート&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;クロージング&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;16:50&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;懇親会&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;FAQ&lt;/h1&gt;
+&lt;h2&gt;Q1. Kyoto.kt って何やるの？&lt;/h2&gt;
+&lt;p&gt;記念すべき Kyoto.kt #1 では LT2枠と Open Space Technology (OST) をやりました！
+詳細は以下のイベント開催記事をご覧ください！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.km3.dev/entry/2025/02/14/222042" rel="nofollow"&gt;Kyoto.kt #1 を開催しました&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Q2. Kotlin 書いたことないけど行ってもいいの？&lt;/h2&gt;
+&lt;p&gt;もちろん！ぜひ来てください！&lt;/p&gt;
+&lt;h2&gt;Q3. サーバーサイド Kotlin / Android しかやったことないけどいい？&lt;/h2&gt;
+&lt;p&gt;もちろん！ぜひ来てください！&lt;/p&gt;
+&lt;h2&gt;Q4. 京都関係ないけど来ていいの？&lt;/h2&gt;
+&lt;p&gt;もちろん！ぜひ来てください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kyotokt.connpass.com/event/404712/</guid><enclosure url="https://media.connpass.com/thumbs/48/34/48344f96706d58ebd74d861585cd71e6.png" length="0" type="image/png"/><pubDate>Sun, 06 Sep 2026 13:24:06 +0900</pubDate></item></channel></rss>
