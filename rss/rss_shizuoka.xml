@@ -1,5 +1,237 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 18:12:24 +0000</lastBuildDate><item><title>第5回 JAZUG Shizuoka</title><link>https://jazug.connpass.com/event/400263/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市市民協働センター(第3研修室)&lt;/li&gt;&lt;li&gt;🏢 住所: 〒430-0929 静岡県浜松市中央区中央１丁目１３−３&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jazug_shizuoka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JAZUG Shizuoka 第5回イベント！ショートセッション大会！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎶本イベントについて&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>静岡のイベント</title><link>https://connpass.com/explore/</link><description>静岡のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>静岡のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 18:11:39 +0000</lastBuildDate><item><title>ゆるIT勉強会浜松 金曜夜IT座談会(+ステーキワイン会/任意)</title><link>https://progdojo-hmmt.connpass.com/event/406410/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 20:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 20:45&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市市民協働センター&lt;/li&gt;&lt;li&gt;🏢 住所: 静岡県浜松市中区中央一丁目13-3&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるふわIT勉強会リアル会の部&lt;/p&gt;&lt;div&gt;&lt;p&gt;年5，6回ぺースで開催してますが、いつものように緩く会場に集まり、ITやプログラミングに関する雑談会をします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;20時ころから、浜松市民協働センター「はまこら」の２Fのフリーな机スペースに緩く集まってください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;お題&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IT関連で最近気になった話とか本などで、ゆるくIT雑談会をします。&lt;/li&gt;
+&lt;li&gt;お題として、1人30秒～2分程度で、最近気になっている話題(IT,技術,他)を紹介してください。&lt;/li&gt;
+&lt;li&gt;最近よく出る話題としては、AIコーディングとか。&lt;/li&gt;
+&lt;li&gt;あと、地域のITイベント情報とか。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;その後の懇親会は任意参加です。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;懇親会は、時間(21:00前)ころには出発し、ファミレス(ステーキガスト等)に行きます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ゆるい会なので当日の天気や参加者都合でドタキャンや飛び入り参加など全然OKです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;時間&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:00前後～&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;２Fフリースペースにゆるく集合&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;20:30～20:45&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;いちおうコアタイム。ゆるくIT座談会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;21:00 前くらい&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;懇親会行く人のみ、出発。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;20時ころにゆるく集まり、21:00前頃には懇親会場に出発します。(遅れる方はSlackで連絡を。)&lt;/li&gt;
+&lt;li&gt;フリースペースなので、早い目に来て作業されていても構いません。(「ゆるIT勉強会」と記入してください)&lt;/li&gt;
+&lt;li&gt;懇親会は、任意です。たいていは近くのファミレスで飲み食いです。 (お店は参加者次第)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;勉強会の内容:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最近は、「AIにプログラムさせて使ってみた話」が多い&lt;/li&gt;
+&lt;li&gt;前回は、最近読んでいる本の紹介などがありました。&lt;/li&gt;
+&lt;li&gt;そのほか、最近興味あることや疑問など、ご自由に。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;こまけぇこたぁ  
+　　　　いいんだよ!!  
+　 /)  
+　// ／)  
+ /／／　　＿＿  
+｜イ二つ／⌒⌒＼  
+｜ 二⊃ (●)　(●) ＼  
+/　 ﾉ／⌒(_人_)⌒ 　＼  
+＼_/｜　　|┬|　　    ｜  
+　/　＼　 `ー′　    ／  
+　  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h4&gt;この勉強会グループについて&lt;/h4&gt;
+&lt;p&gt;毎週金曜日夜にオンライン勉強会と、月1でリアル会をやっています。&lt;br&gt;
+主にITやプログラミングに関してゆるく雑談をしています。&lt;/p&gt;
+&lt;p&gt;他、出る話題は、過去の感じだとおよそ次のような話題が多いです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AIにプログラムさせて動かす話 &lt;/li&gt;
+&lt;li&gt;AI (LLMとMCP)&lt;/li&gt;
+&lt;li&gt;浜松IT技術者の関心事全般 (MakerFair出展報告など)&lt;/li&gt;
+&lt;li&gt;プログラミング言語(python,js,他)&lt;/li&gt;
+&lt;li&gt;映像と音楽と芸術&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ゆるIT勉強会浜松のSNS案内 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;次のSNSチャットで勉強会や情報交換やスケジュールなどやりとりしてます。興味ありましたらお問合せください。&lt;/li&gt;
+&lt;li&gt;Slack&lt;/li&gt;
+&lt;li&gt;Discord&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+&lt;/div&gt;</description><guid isPermaLink="false">https://progdojo-hmmt.connpass.com/event/406410/</guid><enclosure url="https://media.connpass.com/thumbs/36/57/365782c33c991488b325cb69aacd9f16.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 17:01:09 +0900</pubDate></item><item><title>日本Androidの会浜松支部 第182回ミーティング</title><link>https://jaghama.connpass.com/event/406398/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 鴨江アートセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 浜松市中区鴨江町1番地 &lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jaghama&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;もくもく会 Part77&lt;/p&gt;&lt;div&gt;&lt;p&gt;日本Androidの会 浜松支部 第182回ミーティングを開催します。  &lt;/p&gt;
+&lt;p&gt;今回は&lt;span style="font-size:16px;font-weight:bolder;"&gt;「もくもく会 Part77」
+&lt;/span&gt;です。&lt;/p&gt;
+&lt;p&gt;今回は、もくもく会を鴨江アートセンターで開催します。&lt;br&gt;
+もくもく開発する・近況報告など、  ゆるーく情報交換しようと思います。&lt;br&gt;
+途中参加、途中退場は自由です。&lt;br&gt;
+今回は、第2土曜日の9月12日(土)の13-17時からの開催です！    &lt;/p&gt;
+&lt;p&gt;状況によりオンラインに切り替える可能性もあります。&lt;/p&gt;
+&lt;p&gt;Google MeetのURLは当日にメールとconnpassに記載します。&lt;br&gt;
+事前にconnpassのメール登録をお願いします。  &lt;/p&gt;
+&lt;p&gt;不要不急の外出は控えて参加をお願いします。&lt;br&gt;
+シェアオフィスなどで参加される方は自己責任でお願いします。&lt;br&gt;
+体調が優れない場合は、遠慮なく欠席してください。  &lt;/p&gt;
+&lt;p&gt;※内容、時間は変更する事があります。時々connpassをご確認下さい。&lt;br&gt;
+※スイーツ募集中！  &lt;/p&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  内容
+ &lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+  「もくもく会オフライン」
+&lt;br&gt;
+・もくもく会オフライン
+&lt;br&gt;
+&lt;/li&gt;
+  &lt;li&gt;
+   LT
+   &lt;br&gt;
+   募集中 (ML投稿かなおや @naoya_24 or まーくん @macha1972まで)
+   &lt;br&gt;
+   LT:ライトニングトーク（Lightning&amp;nbsp;Talk）とはカンファレンスやフォーラムなどで
+   &lt;br&gt;
+   行われる短いプレゼンテーションのこと。
+   &lt;br&gt;
+   様々な形式があるが、持ち時間が5分という制約が広く共有されている。(ウィキペディアより)
+  &lt;/li&gt;
+ &lt;/ul&gt;
+
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  場所
+ &lt;/h1&gt;
+&lt;p&gt;〒432-8024&lt;br&gt;
+静岡県浜松市中央区鴨江町1番地&lt;br&gt;
+104号室&lt;/p&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  参加費
+ &lt;/h1&gt;
+&lt;p&gt;無料(会場代として500円程度の寄付を募る場合があります)&lt;/p&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+懇親会
+ &lt;/h1&gt;
+&lt;p&gt;未定&lt;/p&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  タイムテーブル(仮)
+ &lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;講師&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00 – 13:15&lt;/td&gt;
+&lt;td&gt;開催準備&lt;/td&gt;
+&lt;td&gt;スタッフ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:15 – 16:30&lt;/td&gt;
+&lt;td&gt;もくもく会オフライン&lt;/td&gt;
+&lt;td&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 – 16:45&lt;/td&gt;
+&lt;td&gt;LT、イベント告知、運営について&lt;/td&gt;
+&lt;td&gt;希望者・スタッフ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:45 – 17:00&lt;/td&gt;
+&lt;td&gt;片付け&lt;/td&gt;
+&lt;td&gt;全員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  その他
+ &lt;/h1&gt;
+
+&lt;p&gt;次回は、2026年10月10日(土) or 11日(日) or 17日(土) or 18日(日)の日時と内容は未定です。&lt;br&gt;
+その他、やりたいことがある方は、MLへ投稿してください。&lt;/p&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  備考
+ &lt;/h1&gt;
+
+&lt;p&gt;内容、時間は変更する事があります。時々ご確認下さい。&lt;br&gt;
+ 一部参加もOKです。&lt;br&gt;
+ 問合せは、なおや(naoya_24) or まーくん(macha1972) まで。&lt;br&gt;
+ 電源延長コードなどがある方は持参して下さると嬉しいです。&lt;br&gt;
+ 録画・公開は考慮中。顔出しNGの方は申告して下さい。&lt;br&gt;
+ スイーツ募集中！&lt;/p&gt;
+&lt;h1 style="border:1px solid #6F6F6F;border-left:16px solid #6F6F6F;padding:4px 0px 4px 4px;margin-top:24px;"&gt;
+  主催団体について
+ &lt;/h1&gt;
+
+&lt;p&gt;日本Androidの会 浜松支部です。&lt;br&gt;
+ 日本Androidの会の会則に基づき、「自主・自律・分散」のモットーの下に活動をしていきます。&lt;br&gt;
+ 浜松支部に興味がある方は是非参加して下さい。運営に参加される方も募集中。  &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+   Androidユーザ
+  &lt;/li&gt;
+  &lt;li&gt;
+   Android初心者
+  &lt;/li&gt;
+  &lt;li&gt;
+   Androidアプリ等を開発したい方、されている方
+  &lt;/li&gt;
+  &lt;li&gt;
+   Androidアプリ等のデザインに興味がある方
+  &lt;/li&gt;
+  &lt;li&gt;
+   Android組込みに興味がある方
+  &lt;/li&gt;
+  &lt;li&gt;
+   Androidに興味がある方
+  &lt;/li&gt;
+ &lt;/ul&gt;
+
+&lt;p&gt;浜松支部への入会（無料）は、下記MLに登録下さい。&lt;br&gt;
+ &lt;a href="https://groups.google.com/group/android-hamamatsu/" rel="nofollow"&gt;
+ &lt;/a&gt;&lt;a href="https://groups.google.com/group/android-hamamatsu/" rel="nofollow"&gt;https://groups.google.com/group/android-hamamatsu/&lt;/a&gt;
+ &lt;/p&gt;
+&lt;p&gt;日本Androidの会の活動は下記のURLを参照して下さい。&lt;br&gt;
+ &lt;a href="http://www.android-group.jp/" rel="nofollow"&gt;
+  &lt;/a&gt;&lt;a href="http://www.android-group.jp/" rel="nofollow"&gt;http://www.android-group.jp/&lt;/a&gt;
+ &lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jaghama.connpass.com/event/406398/</guid><enclosure url="https://media.connpass.com/thumbs/a0/82/a082fc8981678d5481bf369de8025eee.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 09:54:46 +0900</pubDate></item><item><title>第5回 JAZUG Shizuoka</title><link>https://jazug.connpass.com/event/400263/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 浜松市市民協働センター(第3研修室)&lt;/li&gt;&lt;li&gt;🏢 住所: 〒430-0929 静岡県浜松市中央区中央１丁目１３−３&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jazug_shizuoka&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;JAZUG Shizuoka 第5回イベント！ショートセッション大会！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;🎶本イベントについて&lt;/h1&gt;
 &lt;p&gt;昨年2月に再始動した&lt;strong&gt;JAZUG Shizuoka&lt;/strong&gt;の第5回のイベントです。&lt;/p&gt;
 &lt;p&gt;今回もショートセッション大会を開催します！&lt;br&gt;
 &lt;strong&gt;ショートセッションにご登壇頂ける方&lt;/strong&gt;を募集していますので是非お申し込みください！&lt;/p&gt;
