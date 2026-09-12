@@ -1,773 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 11 Sep 2026 18:01:04 +0000</lastBuildDate><item><title>【リアルイベント】生成AI画像の基礎から実践まで はじめてでも分かる画像生成・活用勉強会</title><link>https://aihacklabo.connpass.com/event/405310/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社テックビズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区芝田2丁目621PMO梅田4F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;〜エンジニア視点で学ぶ、実務につながる使い方〜&lt;/p&gt;&lt;div&gt;&lt;h2&gt;はじめに&lt;/h2&gt;
-&lt;p&gt;生成AI画像を「作る」だけで終わらせず、&lt;br&gt;
-実務・発信・収益につなげることを目的としたイベントを開催します。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;生成AIの進化により、画像生成や画像編集は、特別なスキルを持つ人だけのものではなく、&lt;br&gt;
-誰でも扱える身近な技術になりつつあります。&lt;br&gt;
-一方で、「AIで画像は作れるけれど、どう使えばいいのかわからない」&lt;br&gt;
-「試してはみたが、仕事や発信、収益につながっていない」&lt;br&gt;
-といった声も多く聞かれます。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;本交流会では、生成AIによる画像制作をテーマに、&lt;br&gt;
-基礎から実践までを通して、実際に“使える形”で学ぶことを目的としています。&lt;br&gt;
-ツールの使い方やプロンプトの考え方だけでなく、画像編集・加工のポイント、投稿や販売へのつなげ方など、&lt;br&gt;
-現実的な活用方法を具体例とともに紹介します。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;生成AI画像が初めての方から、すでに触ったことがある方まで、&lt;br&gt;
-どなたでも参加しやすい内容です。&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;イベント情報： ℹ️&lt;/h2&gt;
-
-&lt;h3&gt;何をするイベント：🤔&lt;/h3&gt;
-
-&lt;p&gt;本イベントは、
-生成AIによる画像生成・編集をテーマに、エンジニアの実務や発信にどう活かすかを学ぶ、&lt;br&gt;
-講義 × ワーク × 交流のハイブリッドイベントです。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;前半では、生成AIによる画像生成を題材に、&lt;br&gt;
-・生成AI画像の基本的な仕組みと考え方&lt;br&gt;
-・良いアウトプットを出すためのプロンプト設計&lt;br&gt;
-・「なぜその指示でうまくいくのか」を理解する視点&lt;br&gt;
-・なんとなく生成する状態から、狙った結果を出すための考え方&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;を、デモを交えながら分かりやすく解説します。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;後半では、エンジニア向けに、&lt;br&gt;
-・grok・ChatGPT などを使った画像編集・加工の実践例&lt;br&gt;
-・無料・有料ツールの使い分けと選び方&lt;br&gt;
-・実務・発信・マネタイズにつながる活用方法&lt;br&gt;
-・AIに任せる部分と、人が判断する部分の切り分け方&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;といった、現場視点の実践的な内容を中心に扱います。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;また、参加者同士でのライトなディスカッションや質問タイム、&lt;br&gt;
-交流時間も設けており、生成AI画像の活用事例や悩みを気軽に共有できる場となっています。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;イベント終了後には、生成AI画像を&lt;br&gt;
-「なんとなく使う」状態から「目的を持って使える」状態を目指します。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;※本イベントでは、事例紹介の一部に
-年齢制限が設けられているジャンルの話題に触れる場合があります。
-あらかじめご了承ください。&lt;/p&gt;
-&lt;h3&gt;こんな方に来て欲しい：☺️&lt;/h3&gt;
-&lt;p&gt;・AI初心者、なにからしていいかわからない人&lt;br&gt;
-・生成AIで画像を作ってみたが、「作ったあと、どう使えばいいかわからない」と感じている方&lt;br&gt;
-・AI画像を、実務・発信・副収入など、何かしら形にして活かしたい方&lt;br&gt;
-・生成AIが好きなエンジニア同士で情報交換したい方・仲間がほしい方&lt;br&gt;
-・エンジニア同士で交流・情報交換したい方&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;※エンジニアでない方の参加も大歓迎です。&lt;br&gt;
-一つでも当てはまる方は、ぜひ気軽にご参加ください。&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;当日のスケジュール:&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;18:45 ~ 19:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;受付開始&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:00 ~ 19:45&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;セッション① 生成AIによる画像生成講義（基礎〜実践・デモあり）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;19:45 ~ 20:15&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;セッション②｜エンジニア向け生成AI活用講座&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;20:15 ~ 21:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;交流タイム（フリートーク・質疑など）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;参加費&lt;/h3&gt;
-&lt;p&gt;参加費: 無料&lt;/p&gt;
-&lt;h3&gt;登壇者 🤵‍♂️ &lt;/h3&gt;
-&lt;p&gt;名前：神谷栄多（ZOOL株式会社）&lt;/p&gt;
-&lt;p&gt;株式会社サイタンスでCTOを務め、 AI甲子園のコーチとして、初めての参加で優勝を果たす。
-本業の傍ら、 10年間にわたり子供たちへの教育活動を続けている。 また、専門学校での講師経験も7年あり、教育者としてのみならず、 フルスタックエンジニアとしての現場実務もこなす。 
-教育のモットーは、 「やってみせ、言って聞かせて、させてみて、褒めて伸ばす」 であり、人材育成に注力している。 
-2022年末にリリースされたChatGPTの影響を受け、 AIエンジニアの育成に力を入れるようになる。
-国内大手企業の生成AI導入プロジェクトに参画し、AIソリューションで日本の技術革新をリードする上場企業で、
-最前線のAI開発に携わっていた 。
-自らもLLMボットの開発や、RAGの設計・実装に取り組んでいる。 さらに、ERPやSler、自社サービスの立ち上げなど、 多岐にわたる業務経験がある。&lt;/p&gt;
-&lt;h3&gt;登壇者 🤵‍♂️ &lt;/h3&gt;
-&lt;p&gt;名前：谷口 雄亮&lt;/p&gt;
-&lt;p&gt;2000年代初頭にAI時代が到来することを信じて進学するも、プログラミング以前に「考え方」でつまずいた元・挫折者。&lt;br&gt;
-だからこそ「分からない人の気持ちが分かる」「再現性のある学び方だけを教える」を軸に、&lt;br&gt;
-生成AI画像の講義を行っている。&lt;br&gt;
-写真家・ディレクター・営業・経営者として活動し、CDジャケット制作、商業撮影、海外ドキュメンタリー映画主演、
-飲食店経営、楽天での営業日本一など、異色すぎるキャリアを横断。&lt;br&gt;
-2023年、生成AIに本格参入。&lt;br&gt;
-YouTube・海外情報・法制度を独学で徹底研究し、試行錯誤15日で収益化を達成。&lt;br&gt;
-現在は「生成AIを“作品”と“仕事”に変える方法」を、基礎から実践まで分かりやすく伝える講師として活動中。&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;主催者 🤵‍♂️ &lt;/h3&gt;
-&lt;p&gt;AIハックラボ&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;関西のエンジニアコミュニティを盛り上げたいという想いから立ち上がったコミュニティ。&lt;br&gt;
-AI時代においてエンジニアが生き残るための「学び」と「つながり」の場を提供しています。&lt;br&gt;
-AIハックラボでは、AIを脅威ではなく「共創するパートナー」と捉え、&lt;br&gt;
-・AIを使いこなすスキル&lt;br&gt;
-・リアルなコミュニケーションによる信頼関係&lt;br&gt;
-この2つをエンジニアにとって重要な力と考えています。&lt;br&gt;
-そのため、生成AIや最新技術を学ぶ勉強会と、エンジニア同士がリアルにつながる交流イベントを開催。&lt;br&gt;
-技術だけでなく、人とのつながりを通して成長できるコミュニティを目指し活動しています。&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;- コメント&lt;/h3&gt;
-&lt;p&gt;この時間を通じて、&lt;br&gt;
-「AIを使いこなすエンジニアになるためのヒント」&lt;br&gt;
-「キャリアの新しい方向性」を見つけてもらえたら嬉しいです。&lt;br&gt;
-お仕事帰りに、ぜひお気軽にお立ち寄りください！途中参加も大歓迎です。&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;- 持ち物・前提スキル&lt;/h3&gt;
-&lt;p&gt;ノートPC（実際に触りたい方はぜひ！）&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;- 禁止事項&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;マウンティング行為&lt;/li&gt;
-&lt;li&gt;ネットワークビジネス・営業・勧誘目的での参加&lt;/li&gt;
-&lt;li&gt;口説きなど、他の参加者が不快に感じる行為&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ 上記行為が見られた場合はご退場いただきます。&lt;br&gt;
-※ リクルーティング目的でのご参加はお控えください。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aihacklabo.connpass.com/event/405310/</guid><enclosure url="https://media.connpass.com/thumbs/66/6b/666bd5af64a68e7ff0dfa06d899d7901.png" length="0" type="image/png"/><pubDate>Sat, 29 Aug 2026 13:18:23 +0900</pubDate></item><item><title>ユニットテストの先を考える / 関ジャバ'26 9月度</title><link>https://kanjava.connpass.com/event/405063/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: エムオーテックス株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市淀川区西中島5-12-12 エムオーテックス新大阪ビル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kanjava&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Java以外の話題も歓迎します。&lt;/p&gt;
-&lt;p&gt;「初参加」大歓迎です。&lt;/p&gt;
-&lt;h1&gt;関ジャバとは&lt;/h1&gt;
-&lt;p&gt;関西のJavaエンジニアのためのコミュニティです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;初参加者、Java初心者歓迎です。&lt;/li&gt;
-&lt;li&gt;内容は1回ごとに完結しています。&lt;/li&gt;
-&lt;li&gt;業務でJavaを使っている話が多くなりますが、そうでない方でも大丈夫です。&lt;/li&gt;
-&lt;li&gt;途中参加／途中退場していただいても大丈夫です。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;内容&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時刻&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:45&lt;/td&gt;
-&lt;td&gt;開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;開始&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;関ジャバや会場の案内など&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;本編&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;21:00&lt;/td&gt;
-&lt;td&gt;撤収&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;セッションリスト&lt;/h2&gt;
-&lt;h3&gt;模倣再演：ユニットテストの先へ:テスト技法で要求・仕様を整理するjava開発実践/ irof &amp;amp; shimashima35&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;要求や仕様が曖昧なまま実装に入り、後から「そういう仕様だったんですか！」と手戻りが発生した経験はありませんか？&lt;/p&gt;
-&lt;p&gt;テスト技法は、ユニットテストを書くときだけのものではありません。同値分割や境界値分析、デシジョンテーブルといった技法は、実は要求や仕様の曖昧さを発見し、チーム内の認識を揃えるための強力なツールです。&lt;/p&gt;
-&lt;p&gt;本セッションでは、テスト技法をJava開発の上流工程から活用する方法を実例とともに紹介します。「仕様が曖昧で何をテストすべきか分からない」「レビューで認識齟齬が発生する」といった課題を、テスト技法でどう解決できるかを具体的に解説します。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;JJUG CCC 2026 Springで行われた &lt;a href="https://speakerdeck.com/shimashima35/beyond-unit-testing-practical-java-development-techniques-for-organizing-requirements-and-specifications" rel="nofollow"&gt;ユニットテストの先へ:テスト技法で要求・仕様を整理するjava開発実践&lt;/a&gt; を当人が見ている前でirofが再演します。&lt;/p&gt;
-&lt;p&gt;irofの解釈や疑問を交えて話し、shimashima35さんに補足を行ってもらう予定です。
-当人の再演では得られない何かがあるかもしれません。ないかもしれません。&lt;/p&gt;
-&lt;h3&gt;テストのいろんな課題ディスカッション / shimashima35 &amp;amp; irof &amp;amp; みなさま&lt;/h3&gt;
-&lt;p&gt;最近のテストに関する課題をテーマに、irofとshimashima35さんでいろいろディスカッションします。&lt;/p&gt;
-&lt;p&gt;気になる話題があれば飛び込んでください。聞き専でも大丈夫です。&lt;/p&gt;
-&lt;h2&gt;LT（5min）&lt;/h2&gt;
-&lt;p&gt;Lightning Talk、5分のショートセッションです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;テーマは関ジャバやJavaに関連しなくても構いません。&lt;/li&gt;
-&lt;li&gt;インターネット接続が必要な場合は自身でご準備ください。&lt;/li&gt;
-&lt;li&gt;接続はHDMIです。コネクタが必要な場合はご準備ください。&lt;/li&gt;
-&lt;li&gt;環境に不安のある方は事前にPDFやGoogleDocsなどで事前に共有いただければ、運営側で代わりに投影します。&lt;/li&gt;
-&lt;li&gt;確認したいことは「イベントへのお問い合わせ」で聞いてください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;他の人の品位を傷つけたり、差別したり、嫌がらせとなる言動や行動は絶対におやめください。&lt;/li&gt;
-&lt;li&gt;全館禁煙です。&lt;/li&gt;
-&lt;li&gt;オンライン配信は行いません。&lt;/li&gt;
-&lt;li&gt;飲食は禁止です。&lt;/li&gt;
-&lt;li&gt;イベントとしての懇親会はありません。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;お問い合わせ&lt;/h1&gt;
-&lt;p&gt;以下のいずれかでお願いします。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://x.com/takesection" rel="nofollow"&gt;https://x.com/takesection&lt;/a&gt; or &lt;a href="https://x.com/kan_java" rel="nofollow"&gt;https://x.com/kan_java&lt;/a&gt; へのDMやメンション&lt;/li&gt;
-&lt;li&gt;Connpass のメッセージ（返信が必要な場合は本文にその旨を記述ください）&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kanjava.connpass.com/event/405063/</guid><enclosure url="https://media.connpass.com/thumbs/37/77/3777e148bce0c18ba570b45d6326cd79.png" length="0" type="image/png"/><pubDate>Thu, 10 Sep 2026 09:09:21 +0900</pubDate></item><item><title>JISTA関西支部 26年9月度定例会『オープンフォーラム振り返り&amp;関西支部上期振り返り』</title><link>https://jista.connpass.com/event/404661/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: J:COM中央区民センター第2会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市中央区久太郎町1-2-27&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JISTA&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;JISTA関西支部 26年9月度定例会『オープンフォーラム振り返り&amp;amp;関西支部上期振り返り』&lt;br&gt;&lt;/h1&gt;
-&lt;h1&gt;内容&lt;/h1&gt;
-&lt;p&gt;8月に開催したJISTAオープンフォーラム2026in関西を振り返り、当日の講演やクロストークで得られた学びに加え、来年に向けた改善点や反省点について共有します。&lt;/p&gt;
-&lt;p&gt;あわせて、2月からスタートした新体制による関西支部の上半期の活動を振り返り、これまでの取り組みや成果、そして下半期に向けた展望をご報告します。&lt;/p&gt;
-&lt;p&gt;オープンフォーラムに参加された方はもちろん、参加できなかった方や、来年の企画・運営に興味のある方、関西支部の今後の活動を知りたい方もぜひお気軽にご参加ください。&lt;br&gt; &lt;/p&gt;
-&lt;h3&gt;日時&lt;/h3&gt;
-&lt;p&gt;2026年9月11日(金) 19:00～20:00（18:45受付）&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;会場&lt;/h3&gt;
-&lt;p&gt;J:COM中央区民センター   第二会議室&lt;br&gt;
-（住所：大阪市中央区久太郎町1-2-27）&lt;br&gt;
-※最寄り駅：大阪メトロ 堺筋本町駅&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;参加対象&lt;/h3&gt;
-&lt;p&gt;・日本ITストラテジスト協会（JISTA）の会員&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;オンライン参加の方&lt;/h3&gt;
-&lt;p&gt;参加URLはこちらにて告知いたします。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;（★以下、編集中）&lt;/p&gt;
-&lt;h2&gt;懇親会&lt;/h2&gt;
-&lt;p&gt;【日時】同日　20:15～22:15&lt;/p&gt;
-&lt;p&gt;【会場】鳥や わだち&lt;br&gt;
-　　　　（住所：大阪府大阪市中央区南本町1-5-15 ディワンチャンドビル 1F）&lt;br&gt;
-　　　　&lt;a href="https://tabelog.com/osaka/A2701/A270106/27137098/party/297657504" rel="nofollow"&gt;https://tabelog.com/osaka/A2701/A270106/27137098/party/297657504&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【参加費】4,500円・事前払い&lt;/p&gt;
-&lt;p&gt;【人数】最大15名&lt;/p&gt;
-&lt;h3&gt;申込期限&lt;/h3&gt;
-&lt;p&gt;2026年9月8日(火)23時59分&lt;/p&gt;
-&lt;p&gt;※懇親会から参加する方は「定例会現地参加＋懇親会」を選んでください&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/404661/</guid><enclosure url="https://media.connpass.com/thumbs/78/74/78742dcdf70f8f3c2bf90fa00d8bb3ec.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 18:53:44 +0900</pubDate></item><item><title>＼ LT会 × Tech night ／ Vol.11</title><link>https://alpha-omega.connpass.com/event/404202/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月11日(金) 19:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月11日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社アルファオメガ　オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市西区北堀江1-5-2 四ツ橋新興産ビル 606&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;hr&gt;
-&lt;h2&gt;&lt;em&gt;LT会 × Tech night&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;株式会社アルファオメガが毎週金曜日に開催しているミートアップです。エンジニアを中心に、テクノロジーに関心のある方であれば職種・経験を問わずご参加いただけます。&lt;/p&gt;
-&lt;p&gt;前半は&lt;strong&gt;LT（ライトニングトーク）&lt;/strong&gt;、後半は交流会「Tech night」の二部構成。知見の共有だけで終わらず、参加者同士がフラットに繋がれる場をつくることを目的としています。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;各回のLTテーマ・登壇内容は、イベントタイトルおよび本ページの更新情報にてご案内します。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2&gt;⚡ LT登壇者募集&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;各回、LT（1人あたり8〜10分程度）にご登壇いただける方を募集しています。&lt;/li&gt;
-&lt;li&gt;完成された技術発表である必要はありません。「試してみた」「作ってみた」「考えてみた」の共有を大歓迎します。スライドの有無も自由です。&lt;/li&gt;
-&lt;li&gt;登壇をご希望の方は、参加申込時のアンケート、または運営までご連絡ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;このイベントの特徴&lt;/h2&gt;
-&lt;p&gt;「LT ➔ 交流会」という流れ自体は一般的な勉強会と同じですが、本イベントでは次の点を大切に運営しています。&lt;/p&gt;
-&lt;h3&gt;1. 乾杯からはじまる交流 🍻&lt;/h3&gt;
-&lt;p&gt;開場直後から、お酒・ソフトドリンクを片手にご参加いただけます。交流会まで待つ必要はありません。軽食もご用意していますので、仕事帰りにそのままお越しください。&lt;/p&gt;
-&lt;h3&gt;2. 少人数・フリーアドレスの会場&lt;/h3&gt;
-&lt;p&gt;会場は自社オフィスです。大規模な貸し会場ではないぶん、初参加の方やお一人での参加でも会話に入りやすい距離感があります。席は自由で、好きな場所・好きな相手と話せます。&lt;/p&gt;
-&lt;h3&gt;3. 職種・年代の幅が広い参加層&lt;/h3&gt;
-&lt;p&gt;エンジニアのほか、学生・インターン生・営業・企画職など、さまざまな職種・年代の方が参加しています。技術の話に限らず、キャリアや事業の話まで話題が広がるのもこの会の特徴です。&lt;/p&gt;
-&lt;h3&gt;4. 参加費無料&lt;/h3&gt;
-&lt;p&gt;軽食・お飲み物込みで無料です。手ぶらでお越しください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;こんな方におすすめ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;社外のエンジニアや、異なる職種の人と定期的に情報交換できる場がほしい方&lt;/li&gt;
-&lt;li&gt;大規模なカンファレンスは敷居が高いと感じるが、少人数の場なら参加してみたい方&lt;/li&gt;
-&lt;li&gt;LTでのアウトプットに挑戦してみたい方&lt;/li&gt;
-&lt;li&gt;仕事や学校の帰りに、食事とお酒を兼ねて気軽に立ち寄りたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;項目&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;主催&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;株式会社アルファオメガ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;時間&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;19:15 〜 21:00（19:00 開場）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;株式会社アルファオメガ オフィス（最寄駅：四ツ橋駅 徒歩3分）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;無料（軽食・お飲み物付き）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;対象&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;エンジニア、デザイナー、営業、企画職、学生、インターン生など&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;配信&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;オンライン（Google Meet）での同時配信あり&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※開催日は本ページ上部の日時をご確認ください。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;当日のタイムスケジュール&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;19:00&lt;/strong&gt; ｜ 開場・受付（ドリンクはこの時間からどうぞ）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;19:15&lt;/strong&gt; ｜ オープニング・会社紹介&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;19:20&lt;/strong&gt; ｜ LT① ＋ 質疑応答&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;19:40&lt;/strong&gt; ｜ LT② ＋ 質疑応答&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;20:00&lt;/strong&gt; ｜ &lt;strong&gt;Tech night（交流会）&lt;/strong&gt; 🥂（※オンライン組はここで終了）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;21:00&lt;/strong&gt; ｜ クローズ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※進行は当日の状況により前後する場合があります。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;⚠️ 注意事項&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;営業・勧誘のみを目的としたご参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;誹謗中傷・ハラスメント行為は禁止です。&lt;/li&gt;
-&lt;li&gt;20歳未満の方、お車・自転車でお越しの方へのアルコールのご提供はできません。&lt;/li&gt;
-&lt;li&gt;当日の様子を撮影し、SNS等で使用する場合があります。撮影不可の方は当日スタッフまでお申し出ください。&lt;/li&gt;
-&lt;li&gt;内容・進行は予告なく変更となる場合があります。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;みなさまのご参加を心よりお待ちしています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://alpha-omega.connpass.com/event/404202/</guid><enclosure url="https://media.connpass.com/thumbs/92/c3/92c38cc431debd7dd15c15f0d74604d1.png" length="0" type="image/png"/><pubDate>Fri, 28 Aug 2026 12:07:08 +0900</pubDate></item><item><title>設計判断を持ち寄る開発研究会 ～XO-Code Busters 奮闘記～ #4</title><link>https://xocodebusters.connpass.com/event/404696/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 梅田周辺のコワーキングスペース（詳細は参加者へ個別連絡）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田周辺&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #XOCodeBusters&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;設計判断を持ち寄る開発研究会&lt;/h1&gt;
-&lt;h3&gt;～ XO-Code Busters 奮闘記 ～&lt;/h3&gt;
-&lt;p&gt;世にはびこる XO-Code（クソコード）。&lt;/p&gt;
-&lt;p&gt;俺たちは、そんなものを許さない。
-酷いコードは斬って斬って斬りまくる。
-1行たりとも残しはしない。
-バグを憎んで人を憎まず。&lt;/p&gt;
-&lt;p&gt;そんな俺たちは……&lt;/p&gt;
-&lt;p&gt;誰が呼んだか &lt;strong&gt;「XO-Code Busters」&lt;/strong&gt;
-ここに見参っ！！&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;イベント概要&lt;/h2&gt;
-&lt;p&gt;コワーキングスペースにて、各自の開発作業や技術検証を進めながら、設計判断や実装方針について意見交換を行う会です。&lt;/p&gt;
-&lt;p&gt;基本はソースコードの記述を伴うシステム開発を想定していますが、クリエイティブな作業であれば内容は問いません。&lt;/p&gt;
-&lt;p&gt;一人で作業していると、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;モチベーションが下がる&lt;/li&gt;
-&lt;li&gt;調査で行き詰まる&lt;/li&gt;
-&lt;li&gt;問題が発生して心が折れそうになる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;といったことがあります。&lt;/p&gt;
-&lt;p&gt;同じ場所に集まり、それぞれの課題に向き合いながら作業を進める時間にできればと思います。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;この会について&lt;/h2&gt;
-&lt;p&gt;名前は少々物騒ですが、実際には他人のコードを評価・断罪する会ではありません。&lt;/p&gt;
-&lt;p&gt;各自が自分の課題・実装・検証に集中する、ゆるめの開発研究会です。&lt;/p&gt;
-&lt;p&gt;質問や相談、雑談は歓迎ですが、参加・不参加は自由です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;当日の作業内容&lt;/h2&gt;
-&lt;p&gt;主催者は現在、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;アクションゲーム&lt;/li&gt;
-&lt;li&gt;設定画面&lt;/li&gt;
-&lt;li&gt;メンテナンス画面&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;を題材に、オブジェクト指向設計やセキュアコーディングを意識しながら実装を進めています。&lt;/p&gt;
-&lt;p&gt;当日は、その設計判断や実装方針について悩みながら開発を進める予定です。&lt;/p&gt;
-&lt;p&gt;興味があれば議論に参加していただいても構いませんし、ご自身の作業を進めていただいても構いません。&lt;/p&gt;
-&lt;p&gt;また、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;設計の選択肢が複数あって迷っている&lt;/li&gt;
-&lt;li&gt;リファクタリング方針を検討したい&lt;/li&gt;
-&lt;li&gt;実装方針について他者の視点が欲しい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;といった相談も歓迎です。&lt;/p&gt;
-&lt;p&gt;答えを出すことよりも、判断材料を増やすことを重視しています。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;開発中のプロジェクト&lt;/h2&gt;
-&lt;p&gt;XO-Code BustersとしてWebアプリケーションを開発しています。&lt;/p&gt;
-&lt;p&gt;GitHub:
-&lt;a href="https://github.com/Sarajevo001/xo-code-busters" rel="nofollow"&gt;https://github.com/Sarajevo001/xo-code-busters&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;参加者ガイド&lt;/h2&gt;
-&lt;p&gt;本会の考え方や雰囲気をまとめた資料です。&lt;/p&gt;
-&lt;p&gt;参加前に読んでいただけると嬉しいですが、必読ではありません。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1O9G3ShzMSCgRc6O9DxbBq-ZMgU4dV7Eh/view?usp=drivesdk" rel="nofollow"&gt;参加者ガイド（PDF）&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://xocodebusters.connpass.com/event/404696/</guid><enclosure url="https://media.connpass.com/thumbs/b9/ac/b9ac191402fd86cd10e758e21e4d5ef9.png" length="0" type="image/png"/><pubDate>Sun, 23 Aug 2026 14:13:32 +0900</pubDate></item><item><title>本町デジもく会</title><link>https://dezimoku.connpass.com/event/404357/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: TheDECK&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市中央区南本町2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デジもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;ご参加のみなさまは下記の点にご留意ください。&lt;/p&gt;
-&lt;p&gt;・会場はコワーキングスペースのため、他のグループや個人利用の方も作業、お仕事をされています&lt;br&gt;
-・原則「もくもく会」ですが参加者同士の&lt;font color="red"&gt;交流(会話)は周りを気遣ってトーンを抑える&lt;/font&gt;よう心がけてください&lt;br&gt;
-・&lt;font color="red"&gt;工作物、成果物の紹介、披露、デモ時は音声出力のボリウムを絞って&lt;/font&gt;ください&lt;br&gt;
-・&lt;font color="red"&gt;電子音、電子楽器、ゲーム効果音等を出力するときは隣のFabスペースに移動して&lt;/font&gt;ご利用ください&lt;br&gt;
-・zoom等オンライン交流は映像メインで行い会話を要するときは手短に、またはWeb会議用個室ブースをご利用ください&lt;br&gt;
-・ハンダ付けは隣のFabスペースに移動してご利用ください&lt;br&gt;
-・他の利用者も作業、お仕事をされていることを念頭に行動しましょう&lt;br&gt;
-・会場の設備、備品は丁寧に使い、必ず現状復帰させてから解散しましょう&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;【デジもく会とは】&lt;br&gt;
-デジタル工作好きが集まって自分で作りたいものをもくもくと作る場を提供しているゆる〜いコミュニティです。&lt;br&gt;
-参加者は学生から第一線を退いたシニア世代まで初心者、ベテランまで幅広く「これからデジタル工作を始めたいけど周りにアドバイスしてくれる人がいない」といった方も大歓迎です。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;デジタル工作とは、ArduinoやRaspberry Piに代表されるプログラミングを伴った電子工作や3Dプリンタ、レーザーカッター等コンピュータ制御のデジタルツールを使って工作することを指しています。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;参加費は500円。PayPayまたは現金で受け付けます。&lt;br&gt;
-会場では100V電源、ドリンクコーナー(コーヒー、烏龍茶、ジュース等ソフトドリンク)が無料で、&lt;br&gt;
-3Dプリンタ、レーザーカッター、刺繍用ミシンが有料でご利用いただけます。&lt;/p&gt;
-&lt;p&gt;見学や取材ご希望の方はエントリー時にコメント欄でその旨お伝えください。&lt;br&gt;
-閉会後(17時以降)は希望者で懇親会を開くことがあります。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;デジもく会のオープンチャットを開設しました。&lt;br&gt;
-CP2P Chat Peer to Peer（ピアツーピアチャット）&lt;br&gt;
-&lt;a href="https://cp2p.eiwa-up.jp/" rel="nofollow"&gt;https://cp2p.eiwa-up.jp/&lt;/a&gt;　&lt;br&gt;
-メールアドレスの２段階認証だけで登録可能です。 個人識別IDとパスワードは必ずコピーをとり保管してください。 &lt;br&gt;
-入室時にIDパスワードは必要です。&lt;br&gt;
-&lt;br&gt;
-デジもく会オープンチャット&lt;br&gt;
-デジもく会&lt;br&gt;
- パスワード:  password　&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-##協力団体
-
-&lt;p align="center"&gt;
-共催
-&lt;/p&gt;&lt;p align="center"&gt;
-&lt;a href="https://thedeck.jp/" rel="nofollow"&gt;&lt;img width="200" src="https://thedeck.jp/wp/wp-content/themes/thedeck-new/img/logo.png"&gt;&lt;br&gt;
-THE DECK
-&lt;/a&gt;&lt;br&gt;
-共催
-&lt;/p&gt;&lt;p align="center"&gt;
-&lt;a href="https://eiwa-up.jp/" rel="nofollow"&gt;&lt;img width="200" src="https://eiwa-up.jp/wp/wp-content/themes/eiwa-theme/images/logo.svg"&gt;&lt;br&gt;
-有限会社　栄和
-&lt;/a&gt;&lt;br&gt;
-
-&lt;/p&gt;&lt;p align="center"&gt;
-&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;&lt;img alt="サンプル" style="background-color:black;" width="200" src="https://ho-lo.jp/wp-content/themes/holo-theme/images/logo2.svg"&gt;&lt;/a&gt;&lt;/p&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;
-&lt;/a&gt;&lt;p align="center"&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;
-&lt;/a&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;ホログラム　株式会社
-&lt;/a&gt;&lt;br&gt;
-
-&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dezimoku.connpass.com/event/404357/</guid><enclosure url="https://media.connpass.com/thumbs/05/ba/05baa702bc971b8a207960ae0320157e.png" length="0" type="image/png"/><pubDate>Wed, 19 Aug 2026 21:42:16 +0900</pubDate></item><item><title>【大阪開催】第3回 Confidential Computing x LLM Ideathon</title><link>https://acompany.connpass.com/event/400005/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 自習室うめだの貸し会議室 大阪駅前第3ビル店&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区梅田1丁目1-3大阪駅前第3ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~ 「秘密を守れるAI」の仕組みを知り活用する~&lt;/p&gt;&lt;div&gt;&lt;h1&gt;イベントの概要&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;※本イベントは学生エンジニア向けのオフラインイベントです。（参加費：無料）&lt;/p&gt;
-&lt;p&gt;「秘密を守れるAI」は、どうやって実現するのか？——————&lt;/p&gt;
-&lt;p&gt;その仕組みを知り、実際に活用してみる。
-技術のインプットから実践まで体験できるイベントです。&lt;/p&gt;
-&lt;p&gt;先日、名古屋・東京と二度にわたる開催で、意欲の高い学生エンジニアたちによる熱気溢れるイベントとなった「Confidential Computing x LLM Ideathon」（通称：CCアイデアソン）ですが、満を辞して大阪開催が決定しました！&lt;/p&gt;
-&lt;p&gt;プログラムは以下の2部構成です。（一度のお申込みでどちらのプログラムにもご参加いただけます）&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;未来の市場を担う秘密計算に関する技術レクチャー会&lt;/li&gt;
-&lt;li&gt;Confidential ComputingとLLM（大規模言語モデル）を組み合わせた革新的なビジネスアイデアを創出するアイデアソン&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;今回のアイデアソンテーマは、ずばり「秘密」です！詳細は当日明らかになりますが、何やらAcompanyの最新AIプロダクトをいち早く試せるチャンスがあるとか......？！&lt;/p&gt;
-&lt;p&gt;発表された中で特に優れたアイデアは、実際のプロダクトやサービスに採用させていただく場合があります。ぜひ自由な発想でチャレンジしてください！！
-上位入賞者には豪華景品もご用意。イベントの最後には、登壇者や参加者同士でカジュアルに交流できる懇親会（食事あり）も予定しています。&lt;/p&gt;
-&lt;p&gt;技術のインプットだけでなく、事業創造のアウトプットまで体験できるまたとない機会です。ご興味をお持ちの方は、ぜひ奮ってご参加ください！！
-お友達を誘って頂いても、もちろんお一人参加も大歓迎です🙆‍♀️&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;下記の技術を触ってきていて、よりハードウェアに近いレイヤーでのセキュリティや実装に興味がある方は、
-TEEやRemote Attestationの技術にワクワクしていただけると思います！！&lt;/p&gt;
-&lt;p&gt;Confidential AI / KV Cache / Confidential Computing / Intel SGX &lt;/p&gt;
-&lt;p&gt;【低レイヤー技術】&lt;/p&gt;
-&lt;p&gt;WebAssembly / Wasm / WASI / Wasmtime / Wasmer / WasmEdge
-containerd / runc / OCI (Open Container Initiative)
-Firecracker / gVisor / Kata Containers / MicroVM
-KVM / QEMU / hypervisor / virtio / VMM
-cgroups / namespaces / seccomp / eBPF / syscall&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;▼前回のアイデアソンの様子はこちら&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://note.com/y_0q0508/n/nb86f89fba0f6?magazine_key=md518cd0503a4" rel="nofollow"&gt;https://note.com/y_0q0508/n/nb86f89fba0f6?magazine_key=md518cd0503a4&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;【Confidential Computing（ハードウェア型秘密計算）とは】&lt;/h3&gt;
-&lt;p&gt;秘密計算とは、データを暗号化したまま計算できる技術です。その中でもConfidential Computing（ハードウェア型秘密計算）は、TEE（Trusted Execution Environment）、機密コンピューティングとも呼ばれ、データの機密性（Confidentiality）だけでなく、実行コードが事前に開示されたものと一致していることを検証できる完全性（Integrity）も提供できる技術です。&lt;/p&gt;
-&lt;p&gt;近年はAppleの「Private Cloud Compute」にも採用され、防衛など世界的かつ幅広い領域で導入が進むなど、プライバシー保護とデータ活用を両立させる鍵として世界的に注目を集めており、2032年までに3,500億ドル規模（約50兆円）への成長が予測されています。&lt;/p&gt;
-&lt;h1&gt;参加資格&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;高専生・大学生・大学院生の方&lt;/p&gt;
-&lt;p&gt;※本イベントは、主に学生の方を対象としております。
-恐れ入りますが、現在企業にお勤めの社会人の方は参加をご遠慮いただいております。何卒ご理解とご協力をお願い致します。&lt;/p&gt;
-&lt;h1&gt;こんな方におすすめ&lt;/h1&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;秘密計算やLLMといった最先端のプライバシー保護技術に関心がある方&lt;/li&gt;
-&lt;li&gt;AI関連の開発に携わりたい方&lt;/li&gt;
-&lt;li&gt;低レイヤー技術に興味がある方&lt;/li&gt;
-&lt;li&gt;技術を活用した新規事業やプロダクトアイデアの創出にチャレンジしたい方&lt;/li&gt;
-&lt;li&gt;将来的に起業願望がある方（技術で社会を変える事業を作りたい方）&lt;/li&gt;
-&lt;li&gt;ハッカソンやビジネスコンテストに参加するのが好きな方&lt;/li&gt;
-&lt;li&gt;同じテーマに関心があるエンジニア同士のネットワークを広げたい方&lt;/li&gt;
-&lt;li&gt;Acompanyのプロダクトを体験してみたい方&lt;/li&gt;
-&lt;li&gt;Acompanyのエンジニアたちと交流してみたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;登壇者紹介&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;Acompanyのコア技術開発を牽引する2名のエンジニアが登壇します。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tech PdM：平岡 拓海（プロダクト部門 マネージャー ）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;東京大学大学院情報理工学系研究科 電子情報学専攻 修了。
-現在、Acompanyのコンフィデンシャルコンピューティング基盤部にて、ソフトウェアエンジニアとして活動。秘密計算を用いたDCR（データクリーンルーム）の開発など、プライバシー保護技術の最前線で、プロダクトの実装に取り組んでいる。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://note.com/takumi_hi/n/nab694ffb2837" rel="nofollow"&gt;https://note.com/takumi_hi/n/nab694ffb2837&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AI Research Engineer ：高橋  遼（研究開発部門 アシスタントマネージャー）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;大学院までは深層学習を用いたVision &amp;amp; Language分野の研究に従事。その中で著作権や個人情報の利活用に課題意識を持つ。
-学生時代はハッカソンやビジネスプランコンテストに積極的に参加。SXSW 2023の参加をきっかけにスタートアップに興味を持ちAcompanyを知る。
-その理念と事業に共感し、博士課程満期退学後に入社。AIの活用と機密情報の保護を両立できるプロダクトの開発を目指す。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://note.com/haruka0000/n/n14ca6a8706db" rel="nofollow"&gt;https://note.com/haruka0000/n/n14ca6a8706db&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;アイデアソン審査員紹介&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;執行役員 プロダクトCTO：田中 来樹&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;名古屋大学在学時の2019年に「起業家甲子園」出場後、名古屋大学発スタートアップを共同創業し、CTOを経験。その後、2020年5月株式会社Acompanyへインターン生として参画し、秘密計算ソフトウェア『QuickMPC』を開発。2021年10月に正社員となり、2022年3月開発部門マネージャーに就任後、データクリーンルーム構築基盤『AutoPrivacy DataCleanRoom』の立ち上げを主導、同年11月執行役員に就任。プロダクトCTOとして『AutoPrivacy DataCleanRoom』の開発を統括。&lt;/p&gt;
-&lt;h1&gt;タイムテーブル&lt;/h1&gt;
-&lt;hr&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;概要&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;12:45~&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;開場 / 受付開始&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;13:00~13:15&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;オープニング/ 登壇者紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;13:15~14:15&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;高橋&amp;amp;平岡による秘密計算レクチャー会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;14:15~14:45&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;質疑応答タイム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;14:45~15:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;休憩&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;15:00~17:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;秘密計算のビジネス活用：ユースケース創造アイデアソン&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;17:00~17:45&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;アイデア発表会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;17:45~18:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;休憩 &amp;amp; 審査員採点タイム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:00~18:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;結果発表&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:30~19:30&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;懇親会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;19:30~20:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;エンディング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※予告なくタイムテーブルを変更する場合があります&lt;/p&gt;
-&lt;h1&gt;Acompany採用について&lt;/h1&gt;
-&lt;p&gt;Acompanyは「Trust. Data. AI.（あらゆるデータとAI活用に、信頼を。）」をミッションに、企業が機密情報を守りながらAIやデータを安心して活用できる世界をつくるスタートアップです。世界的にも注目される「Confidential Computing（ハードウェア型秘密計算）」をはじめとした最先端技術を研究・開発し、社会実装まで一貫して取り組んでいます。&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;「普通じゃ物足りない」「圧倒的なスピードで成長したい」と考える学生エンジニアの皆さんへ&lt;/p&gt;
-&lt;p&gt;私たちは、技術でまだ世の中にない価値を生み出したい人、研究だけで終わらずプロダクトとして社会に届けたい人、新しい技術領域にワクワクしながら挑戦できる人と一緒に未来をつくりたいと考えています。このイベントや採用ページを通してAcompanyに興味を持っていただけたなら、ぜひ一度カジュアル面談でお話ししましょう！&lt;/p&gt;
-&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;/p&gt;
-&lt;p&gt;▼新卒採用ページ&lt;/p&gt;
-&lt;p&gt;https://recruit.acompany.tech/engineer&lt;/p&gt;
-&lt;p&gt;※本採用ページは、社員のnoteやイベントページなど、特定の経路からアクセスいただいた方のみにご案内している限定公開となります。
-この機会を通じて、皆様と秘密計算という最先端のテーマについて深く議論できることを楽しみにしております！&lt;/p&gt;
-&lt;h1&gt;イベントにおける注意事項・運営からのお願い&lt;/h1&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;当日の無断キャンセルは、準備や他の参加希望者様へのご迷惑となりますため、ご遠慮ください。&lt;/li&gt;
-&lt;li&gt;本イベントにおいて参加者が創作・開発した全てのアイデア、コンセプト、プログラム、 デザイン、ドキュメント等の成果物に関する一切の知的財産権 （著作権、特許権、実用新案権、意匠権、商標権及びノウハウを含むがこれらに限られない）は、 創作と同時に主催者であるAcompany株式会社に帰属するものとします。 &lt;/li&gt;
-&lt;li&gt;コンテンツや登壇者は急遽変更する場合がありますが、ご了承ください。前日までに変更が分かった場合はイベントページに反映します。&lt;/li&gt;
-&lt;li&gt;イベントの様子や感想をSNSで発信していただけると嬉しいです。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://acompany.connpass.com/event/400005/</guid><enclosure url="https://media.connpass.com/thumbs/35/30/3530b75b070ad2feeeeb815256f76fd7.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 12:14:19 +0900</pubDate></item><item><title>JISTA関西支部  【ITストラテジスト試験 論文対策講座】</title><link>https://jista.connpass.com/event/397232/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: NORBDENCE福島区民センター&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市福島区吉野3-17-23&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JISTA&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;特典：論文添削1回付き&lt;/p&gt;&lt;div&gt;&lt;h1&gt;JISTA関西支部  【ITストラテジスト試験 論文対策講座】&lt;br&gt; 〜採点講評から読み解く論文書き方講座〜&lt;br&gt;&lt;/h1&gt;
-&lt;h1&gt;募集定員&lt;/h1&gt;
-&lt;p&gt;最大8名です&lt;/p&gt;
-&lt;h1&gt;内容&lt;/h1&gt;
-&lt;p&gt;ITストラテジスト試験。最大の壁は、やっぱり論文ではないでしょうか。&lt;br&gt;
-✅何を書けばいいのかわからない&lt;br&gt;
-✅構成の作り方もわからない&lt;br&gt;
-✅そもそもこんな長い文章書いたことがない&lt;br&gt;
-✅論文試験、初めてなんですけど…&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;「こう書くと点が入る」
-「これは書いても評価されない」&lt;/p&gt;
-&lt;p&gt;ポイントを押さえることで、合格レベルの論文を書けるようになります！&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;◆こんな方におすすめです&lt;br&gt;
-✅ITストラテジスト試験の論文に初挑戦する&lt;br&gt;
-✅科目B-2（論文）に強い苦手意識がある&lt;br&gt;
-✅書き始める前に手が止まってしまう&lt;br&gt;
-✅サンプル論文を読んでも再現できない&lt;br&gt;
-✅「自分の論文がなぜダメなのか」が分からない&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;ひとつでも当てはまれば、この講座はあなたのための講座です。&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;講座概要&lt;/h1&gt;
-&lt;h2&gt;第1部【Get The Glory!!～先ず勝ちて而る後に戦いを求む～】&lt;br&gt;&lt;/h2&gt;
-&lt;p&gt;講師：神谷 将樹（JISTA関西支部）&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;・受講者のみなさまの自己紹介タイム&lt;br&gt;
-・論文だけでなく午前１（科目A-1）・午前２（科目A-2）・午後１（科目B-1） 通じて、メタ的な目線からの勉強法をご紹介&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;第2部【採点講評から読み解く論文書き方講座】&lt;br&gt;&lt;/h2&gt;
-&lt;p&gt;講師：鶴川 治久（JISTA関西支部）&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;・試験までに、ぜひやってほしい勉強法&lt;br&gt;
-・採点講評に何が書かれているか？&lt;br&gt;
-・「これが書ければOK」という最低ライン&lt;br&gt;
-・採点者目線で論文をチェックしてみよう&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;「論文対策、何から始めればいいの…？」という方、ご紹介する内容を、ぜひ、お試しいただきたい！&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;第3部【試験当日に困らないDX論文ネタの準備術】 &lt;br&gt; 〜過去問分析から考える“使えるネタ”の作り方〜&lt;br&gt;&lt;/h2&gt;
-&lt;p&gt;講師：田中 雅幸（JISTA関西支部）&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;「DXテーマが出題されたら、何を書けばいいのだろう…」そんな不安を感じていませんか？&lt;br&gt;
-DXに関する論文では、幅広いテーマが出題されるため、何を準備しておけばよいか悩む受験生も多いと思います。&lt;br&gt;
-本講座では、令和元年度以降の過去問を分析し、試験当日に困らないために準備しておくべき観点を整理します。&lt;br&gt;
-さらに、講座内のワークを通じて、さまざまな問題に対応できる“使えるネタ”を実際に作成します。&lt;br&gt;
-試験当日に慌てることなく、自信を持って論文を書き始められる状態を目指します。&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;受講料&lt;/h1&gt;
-&lt;p&gt;無料&lt;/p&gt;
-&lt;h1&gt;特典&lt;/h1&gt;
-&lt;p&gt;論文添削1回&lt;/p&gt;
-&lt;h1&gt;日時&lt;/h1&gt;
-&lt;p&gt;2026年9月12日(土) 13:00～16:00（開場12:45）&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;NORBDENCE福島区民センター　305会議室&lt;br&gt;
-（住所：〒553-0006 大阪市福島区吉野3-17-23）&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;最寄駅&lt;/h2&gt;
-&lt;p&gt;大阪シティバス「福島区役所」停留所　徒歩1分&lt;br&gt;
-Osaka Metro千日前線「野田阪神」駅　徒歩5分&lt;br&gt;
-阪神本線「野田」駅　徒歩5分&lt;br&gt;
-JR東西線「海老江」駅　徒歩5分&lt;br&gt;
-JR大阪環状線「野田」駅　徒歩8分&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;参加対象&lt;/h1&gt;
-&lt;p&gt;・最後のST試験で必ず合格したい人&lt;br&gt;
-・情報処理技術者試験 高度区分の論文試験について知りたい人&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1&gt;懇親会&lt;/h1&gt;
-&lt;p&gt;合格を目指して勉強中のみなさんと、対策講座のスタッフで楽しく語らう時間にしましょう！&lt;br&gt;
-【日時】同日　17:00～19:00&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;【会場】参加人数により会場近くのお店で調整予定&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;【参加費】5000円程度で調整中（当日お支払い）&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;申込期限&lt;/h1&gt;
-&lt;p&gt;2026年9月10日(金)23時59分&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jista.connpass.com/event/397232/</guid><enclosure url="https://media.connpass.com/thumbs/18/37/18375f5402f723af05300146e47abda2.png" length="0" type="image/png"/><pubDate>Thu, 09 Jul 2026 21:20:45 +0900</pubDate></item><item><title>【梅田開催】AIで自分のホームページを作ろう！第1回 Claude Code ハンズオン</title><link>https://0to1.connpass.com/event/403093/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: ドットミーティング 堂島貸会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府 大阪市北区 堂島1丁目 堂島地下街8号&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ClaudeCodeを学びながら自分のホームページも作っちゃおう&lt;/p&gt;&lt;div&gt;&lt;div style=""&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜このイベントについて〜&lt;/h3&gt;
-
-&lt;p&gt;「ホームページを持ちたいけど、作り方がわからない」&lt;br&gt;
-「AIツールが話題だけど、何から触ればいいのか…」&lt;/p&gt;
-
-&lt;p&gt;そんな方のための、手を動かしながら&lt;strong&gt;2時間でホームページを完成させる&lt;/strong&gt;ハンズオンセミナーです。&lt;/p&gt;
-
-&lt;p&gt;使うのは今もっとも注目されているAIツール &lt;strong style="color:#2b6cb0;"&gt;Claude Code&lt;/strong&gt;。コードを書く知識は必要ありません。講師が用意したプロンプトを使いながら進めるので、初めての方でも当日中に形になります。&lt;/p&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜当日つくるもの〜&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;サイトの顔になる&lt;strong&gt;メインビジュアル（ヒーロー画像）&lt;/strong&gt;をAIで生成&lt;/li&gt;
-&lt;li&gt;3ページ構成のホームページ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;作った画像をページに差し込んで完成まで。&lt;br&gt;
-作ったものはそのまま持ち帰っていただけます。&lt;/p&gt;
-
-&lt;p&gt;AIツールを仕事で使うときに、知らないと危ない情報の扱い方についても触れます。作って終わりではなく、安心して使い続けられる状態を目指します。&lt;/p&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜タイムテーブル〜&lt;/h3&gt;
-
-&lt;table border="1" style=""&gt;
-&lt;thead&gt;
-&lt;tr style="background-color:#2b6cb0;"&gt;
-&lt;th style="padding:8px; color:#ffffff;"&gt;時間&lt;/th&gt;
-&lt;th style="padding:8px; color:#ffffff; text-align:left;"&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr style="background-color:#f2f7fc;"&gt;&lt;td style="padding:8px; text-align:center;"&gt;15:15&lt;/td&gt;&lt;td style="padding:8px;"&gt;開場&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td style="padding:8px; text-align:center;"&gt;15:30&lt;/td&gt;&lt;td style="padding:8px;"&gt;スタート&lt;br&gt;講師紹介／ツールの準備確認・オープンチャットのご案内&lt;/td&gt;&lt;/tr&gt;
-&lt;tr style="background-color:#f2f7fc;"&gt;&lt;td style="padding:8px; text-align:center;"&gt;15:40&lt;/td&gt;&lt;td style="padding:8px;"&gt;ハンズオン開始：メインビジュアルの作成&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td style="padding:8px; text-align:center;"&gt;15:55&lt;/td&gt;&lt;td style="padding:8px;"&gt;3ページ構成のホームページ作成&lt;/td&gt;&lt;/tr&gt;
-&lt;tr style="background-color:#f2f7fc;"&gt;&lt;td style="padding:8px; text-align:center;"&gt;16:10&lt;/td&gt;&lt;td style="padding:8px;"&gt;画像の差し込み&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td style="padding:8px; text-align:center;"&gt;16:15&lt;/td&gt;&lt;td style="padding:8px;"&gt;完成・アンケート&lt;/td&gt;&lt;/tr&gt;
-&lt;tr style="background-color:#f2f7fc;"&gt;&lt;td style="padding:8px; text-align:center;"&gt;16:15&lt;/td&gt;&lt;td style="padding:8px;"&gt;交流会（軽い雑談・質問タイム・作ったサイトの見せ合い）&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td style="padding:8px; text-align:center;"&gt;17:00&lt;/td&gt;&lt;td style="padding:8px;"&gt;終了&lt;/td&gt;&lt;/tr&gt;
-&lt;tr style="background-color:#f2f7fc;"&gt;&lt;td style="padding:8px; text-align:center;"&gt;17:30&lt;/td&gt;&lt;td style="padding:8px;"&gt;完全撤収&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p style="font-size:13px; color:#666666;"&gt;※交流会は自由参加です。作業でつまずいた点の個別相談もこの時間にお受けします。&lt;/p&gt;
-
-&lt;hr style="border:none; border-top:2px dashed #cccccc; margin:24px 0;"&gt;
-
-&lt;div style="background-color:#fff8e6; border:2px solid #e8b400; padding:16px;"&gt;
-&lt;h2 style="color:#a06c00; margin-top:0;"&gt;【重要】事前準備のお願い&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Claude Code のご契約とインストールを、必ず事前に済ませてご参加ください。&lt;/strong&gt;&lt;br&gt;
-こちらの準備がないと当日の作業が進められません。&lt;/p&gt;
-
-&lt;h4 style="color:#a06c00;"&gt;① 有料プランのご契約&lt;/h4&gt;
-&lt;p&gt;Claude Code のご利用には、Pro / Max / Team / Enterprise いずれかの有料プランが必要です。無料プランでは利用できませんのでご注意ください。&lt;/p&gt;
-&lt;p&gt;▶️ プランのご契約：&lt;a href="https://claude.ai/upgrade" rel="nofollow"&gt;https://claude.ai/upgrade&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 style="color:#a06c00;"&gt;② Claude Code のインストール&lt;/h4&gt;
-&lt;p&gt;パソコン操作に不安のある方は「デスクトップアプリ」がおすすめです。ターミナル（黒い画面）を使わずに始められます。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;デスクトップアプリの手順（初心者の方はこちら）&lt;/strong&gt;&lt;br&gt;
-&lt;a href="https://code.claude.com/docs/ja/desktop-quickstart" rel="nofollow"&gt;https://code.claude.com/docs/ja/desktop-quickstart&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mac をお使いの方：&lt;a href="https://claude.ai/api/desktop/darwin/universal/dmg/latest/redirect" rel="nofollow"&gt;ダウンロードはこちら&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Windows をお使いの方：&lt;a href="https://claude.com/download" rel="nofollow"&gt;ダウンロードはこちら&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;▶️ はじめての方向けガイド：&lt;a href="https://code.claude.com/docs/ja/quickstart" rel="nofollow"&gt;https://code.claude.com/docs/ja/quickstart&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 style="color:#a06c00;"&gt;③ 動作環境のご確認&lt;/h4&gt;
-&lt;p&gt;macOS 13.0 以上、Windows 10（1809）以上、または Ubuntu 20.04 以上／メモリ 4GB 以上／インターネット接続が必要です。お手持ちのPCが対象かご確認ください。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;お持ちいただくもの&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ノートPC（必須）&lt;/li&gt;
-&lt;li&gt;電源アダプタ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p style="background-color:#ffe9e9; border-left:4px solid #d33; padding:8px 12px;"&gt;⚠️ 参加費とは別に、Claude Code の利用料が発生します。あらかじめご了承ください。&lt;/p&gt;
-
-&lt;p style="font-size:13px; color:#666666;"&gt;※設定でつまずいた場合に備え、15:15からツールの準備確認の時間を取っています。不安な方は早めにお越しください。&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px; margin-top:24px;"&gt;こんな方におすすめ&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;自分やお店・事業のホームページを持ちたい方&lt;/li&gt;
-&lt;li&gt;AIツールに興味はあるけど、まだ触れていない方&lt;/li&gt;
-&lt;li&gt;プログラミング未経験の方&lt;/li&gt;
-&lt;li&gt;同じようにAIを学んでいる仲間とつながりたい方&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style="background-color:#eefaf0; border:2px solid #2e9e5b; padding:14px;"&gt;
-&lt;strong style="color:#207244;"&gt;🎁 ご参加特典&lt;/strong&gt;&lt;br&gt;
-最後に、Claude Code のセキュリティ設定がすぐできるスキルをプレゼントします。難しい知識は不要で、そのまま使える形でお渡しします。
-&lt;/div&gt;
-
-&lt;hr style="border:none; border-top:2px dashed #cccccc; margin:24px 0;"&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜講師〜&lt;/h3&gt;
-&lt;p&gt;&lt;strong style="font-size:16px;"&gt;やよいさん&lt;/strong&gt;&lt;br&gt;
-デザイナー歴15年のプロがAIを使用して、簡単にWebサイトの作り方を紹介して頂きます！！&lt;/p&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜サポート体制〜&lt;/h3&gt;
-&lt;p&gt;当日はサポートスタッフが会場を回ります。手が止まったらお気軽に声をかけてください。&lt;/p&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜会場〜&lt;/h3&gt;
-&lt;p&gt;大阪・梅田&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;【会場名・住所】&lt;/strong&gt;&lt;br&gt;
-店舗名: ドットミーティング 堂島貸会議室&lt;br&gt;
-所在地: 大阪府 大阪市北区 堂島1丁目堂島地下街8号&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;アクセス方法:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;OsakaMetro四つ橋線「西梅田駅」より徒歩5分（300m）&lt;/li&gt;
-&lt;li&gt;JR東西線「北新地駅」より徒歩4分（270m）&lt;/li&gt;
-&lt;li&gt;京阪中之島線「渡辺橋駅」より徒歩6分（450m）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p style="font-size:13px; color:#666666;"&gt;※ドージマ地下センター内にございます。&lt;/p&gt;
-
-&lt;table style="margin-top:16px;"&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td style="text-align:center; padding:12px; background-color:#f2f7fc;"&gt;
-&lt;span style="font-size:13px; color:#666666;"&gt;定員&lt;/span&gt;&lt;br&gt;
-&lt;font size="6" color="#2b6cb0"&gt;&lt;strong&gt;20名&lt;/strong&gt;&lt;/font&gt;
-&lt;/td&gt;
-&lt;td style="text-align:center; padding:12px; background-color:#f2f7fc;"&gt;
-&lt;span style="font-size:13px; color:#666666;"&gt;参加費&lt;/span&gt;&lt;br&gt;
-&lt;font size="6" color="#2b6cb0"&gt;&lt;strong&gt;3,000円&lt;/strong&gt;&lt;/font&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;p style="font-size:13px; color:#666666; margin-top:8px;"&gt;参加費は当日、会場受付にてお支払いください。&lt;br&gt;
-本セミナーでは事前決済を行っておりません。急な予定変更でお越しになれないこともあるかと思います。そうした場合の手続きに追われるよりも、当日足を運んでくださった方お一人おひとりに、しっかり時間を使いたいと考えているためです。&lt;br&gt;
-もしご都合がつかなくなった場合は、Connpassからキャンセルのお手続きだけお願いできますと幸いです。お席をお待ちの方にお譲りできます。&lt;/p&gt;
-
-&lt;h3 style="color:#2b6cb0; border-bottom:2px solid #2b6cb0; padding-bottom:4px;"&gt;〜ご案内〜&lt;/h3&gt;
-&lt;p&gt;セミナーの最後に、関連サービスのご案内をさせていただきます。&lt;/p&gt;
-
-&lt;/div&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://0to1.connpass.com/event/403093/</guid><enclosure url="https://media.connpass.com/thumbs/03/fd/03fd854836dd02e8b9b9cbb17f47ff59.png" length="0" type="image/png"/><pubDate>Thu, 27 Aug 2026 02:24:09 +0900</pubDate></item><item><title>大阪 京橋Rustもくもく会 第0回目</title><link>https://connpass.com/event/406451/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 0:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 23:30&lt;/li&gt;&lt;li&gt;📍 会場: セルフカフェ京橋北店&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市都島区東野田町５丁目１５−５ 大野マンション １階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大阪でRustの勉強会とかなさそうなので企画してみました。ま、ぶっちゃけRustでなくても結構です&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ディープな京橋でRust書きませんか？&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>大阪のイベント</title><link>https://connpass.com/explore/</link><description>大阪のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>大阪のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 12 Sep 2026 17:32:44 +0000</lastBuildDate><item><title>大阪 京橋Rustもくもく会 第0回目</title><link>https://connpass.com/event/406451/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 0:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 23:30&lt;/li&gt;&lt;li&gt;📍 会場: セルフカフェ京橋北店&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市都島区東野田町５丁目１５−５ 大野マンション １階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;大阪でRustの勉強会とかなさそうなので企画してみました。ま、ぶっちゃけRustでなくても結構です&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ディープな京橋でRust書きませんか？&lt;/h1&gt;
 &lt;p&gt;はじめまして！yakshaverと申します。Rustを始めて2年ほどになります。&lt;/p&gt;
 &lt;p&gt;おかげで今では息をするようにプロシージャルマクロを書けるようになりました。Rustは素晴らしいですね。コード書いてるだけで心が洗われるようです。&lt;/p&gt;
 &lt;p&gt;ごめんなさい。嘘をついてしまいました・・・。&lt;/p&gt;
@@ -2154,7 +1386,7 @@ Twitter:&lt;a href="https://twitter.com/HARU_Freelance_" rel="nofollow"&gt;https
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h1&gt;🏆 賞品&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Gensparkの最新デバイス&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gensparkの最新デバイス、Google AI pro&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1&gt;⏳ タイムテーブル&lt;/h1&gt;
 &lt;h3&gt;Day 1: 9/19(土)&lt;/h3&gt;
@@ -2201,7 +1433,42 @@ Twitter:&lt;a href="https://twitter.com/HARU_Freelance_" rel="nofollow"&gt;https
 &lt;li&gt;Twitter: &lt;a href="https://x.com/gdgoc_du" rel="nofollow"&gt;https://x.com/gdgoc_du&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Twitter(同志社AI研究会): &lt;a href="https://x.com/doshishaai_lab" rel="nofollow"&gt;https://x.com/doshishaai_lab&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Discord: &lt;a href="https://discord.gg/eGh9Qht5Zr" rel="nofollow"&gt;https://discord.gg/eGh9Qht5Zr&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgocdoshisha.connpass.com/event/401804/</guid><enclosure url="https://media.connpass.com/thumbs/0c/8c/0c8cd18f37ce513e8bb4c4b409592c47.png" length="0" type="image/png"/><pubDate>Thu, 03 Sep 2026 03:08:07 +0900</pubDate></item><item><title>【AIで何をする？会】ココカラ勉強会 @大阪</title><link>https://kokokara.connpass.com/event/404557/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月19日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: NLC新御堂ビル603号室&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市淀川区宮原5丁目1-24ＮＬＣ新御堂ビル６０３号室&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ココカラ勉強会&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💡  今回のテーマについて&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgocdoshisha.connpass.com/event/401804/</guid><enclosure url="https://media.connpass.com/thumbs/c8/ae/c8aebaa28628c7158f70f9d386f5754b.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 11:16:09 +0900</pubDate></item><item><title>第3回大阪ｽﾀｯｸﾁｬﾝもくもく会</title><link>https://kansai-stack-chan-mokumoku.connpass.com/event/399677/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月19日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: アジュール新大阪&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市淀川区西中島4-4-25&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ｽﾀｯｸﾁｬﾝ大阪もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ｽﾀｯｸﾁｬﾝと触れ合いましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;大阪ｽﾀｯｸﾁｬﾝもくもく会開催のお知らせ&lt;/h1&gt;
+&lt;p&gt;大阪でｽﾀｯｸﾁｬﾝに関してもくもくと作業をする会です。&lt;strong&gt;今回はハンズオン無しのもくもく会のみの開催です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自作のｽﾀｯｸﾁｬﾝ、M5版StackChanなど、あらゆるｽﾀｯｸﾁｬﾝに関してもくもくと作業をしましょう。
+ｽﾀｯｸﾁｬﾝに興味があるというだけでも参加OKです。&lt;/p&gt;
+&lt;p&gt;名目上はｽﾀｯｸﾁｬﾝのもくもく会ですが、M5Stackに関する作業などもOKです。
+ｽﾀｯｸﾁｬﾝやM5Stackでよく分からないことなど聞いてみましょう。誰かが教えてくれるかも？
+来場・退場の時間は開催時間内であれば自由です。好きな時に来てもらって、好きな時に帰っていただいても構いません。&lt;/p&gt;
+&lt;p&gt;会場はプロジェクターもあります。LTやりたいなどあれば事前にご相談ください。&lt;/p&gt;
+&lt;h2&gt;物販について&lt;/h2&gt;
+&lt;p&gt;参加者にはﾀﾞﾐｰﾁｬﾝをプレゼント♪&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ｱﾄﾑﾆｬﾝケースもいくつか用意するので直接見て購入したい方はこの機会に♪
+(&lt;a href="https://goooood-san.booth.pm/" rel="nofollow"&gt;https://goooood-san.booth.pm/&lt;/a&gt;)
+少しお安くなります。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;わししグッズの販売(&lt;a href="https://washishi.booth.pm" rel="nofollow"&gt;https://washishi.booth.pm&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;事前にご連絡いただければ、ｽﾀｯｸﾁｬﾝ タカオ版のキット等も用意可能です。（&lt;a href="https://mongonta.booth.pm" rel="nofollow"&gt;https://mongonta.booth.pm&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;h3&gt;日時&lt;/h3&gt;
+&lt;p&gt;2026/9/19 13:00〜19:00&lt;/p&gt;
+&lt;h3&gt;場所&lt;/h3&gt;
+&lt;p&gt;西中島南方駅近くのレンタルスペース（詳細は会場のところを参照ください）&lt;/p&gt;
+&lt;h3&gt;会場に関して&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;飲食可(アルコール不可)
+ゴミはご自身で持ち帰って下さい。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;はんだごて可（はんだごてをお持ち頂ければ、はんだづけ作業は可能ですが、耐熱マットを持参するなど什器への接触が無いようにご配慮お願いします）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansai-stack-chan-mokumoku.connpass.com/event/399677/</guid><enclosure url="https://media.connpass.com/thumbs/45/41/4541335610808a2f6dec7aacbef34660.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 17:10:21 +0900</pubDate></item><item><title>【AIで何をする？会】ココカラ勉強会 @大阪</title><link>https://kokokara.connpass.com/event/404557/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月19日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: NLC新御堂ビル603号室&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市淀川区宮原5丁目1-24ＮＬＣ新御堂ビル６０３号室&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ココカラ勉強会&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;💡  今回のテーマについて&lt;/h1&gt;
 &lt;p&gt;今回は「AIで何をする？」会です。&lt;/p&gt;
 &lt;p&gt;そろそろ皆さん、「何を使うか」じゃなくて、「何をするか」について知見が溜まってきたところではないでしょうか！&lt;/p&gt;
 &lt;p&gt;そういう話をしましょう！&lt;/p&gt;
@@ -2244,42 +1511,7 @@ LTをした方に対しては有志でプライベートの時間を割いて準
 &lt;p&gt;その他、イベントの趣旨・目的と逸脱した行為、イベント内容に積極的に参加されてないと見受けられる行為など、&lt;br&gt;
 本来のイベント趣旨とは異なる行為があった場合、次回以降のイベント参加をお断りさせて頂きます&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kokokara.connpass.com/event/404557/</guid><enclosure url="https://media.connpass.com/thumbs/a9/dc/a9dc0128ce7d3606381ff7732de60504.png" length="0" type="image/png"/><pubDate>Fri, 04 Sep 2026 08:31:18 +0900</pubDate></item><item><title>第3回大阪ｽﾀｯｸﾁｬﾝもくもく会</title><link>https://kansai-stack-chan-mokumoku.connpass.com/event/399677/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月19日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: アジュール新大阪&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市淀川区西中島4-4-25&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ｽﾀｯｸﾁｬﾝ大阪もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ｽﾀｯｸﾁｬﾝと触れ合いましょう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;大阪ｽﾀｯｸﾁｬﾝもくもく会開催のお知らせ&lt;/h1&gt;
-&lt;p&gt;大阪でｽﾀｯｸﾁｬﾝに関してもくもくと作業をする会です。&lt;strong&gt;今回はハンズオン無しのもくもく会のみの開催です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自作のｽﾀｯｸﾁｬﾝ、M5版StackChanなど、あらゆるｽﾀｯｸﾁｬﾝに関してもくもくと作業をしましょう。
-ｽﾀｯｸﾁｬﾝに興味があるというだけでも参加OKです。&lt;/p&gt;
-&lt;p&gt;名目上はｽﾀｯｸﾁｬﾝのもくもく会ですが、M5Stackに関する作業などもOKです。
-ｽﾀｯｸﾁｬﾝやM5Stackでよく分からないことなど聞いてみましょう。誰かが教えてくれるかも？
-来場・退場の時間は開催時間内であれば自由です。好きな時に来てもらって、好きな時に帰っていただいても構いません。&lt;/p&gt;
-&lt;p&gt;会場はプロジェクターもあります。LTやりたいなどあれば事前にご相談ください。&lt;/p&gt;
-&lt;h2&gt;物販について&lt;/h2&gt;
-&lt;p&gt;参加者にはﾀﾞﾐｰﾁｬﾝをプレゼント♪&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;ｱﾄﾑﾆｬﾝケースもいくつか用意するので直接見て購入したい方はこの機会に♪
-(&lt;a href="https://goooood-san.booth.pm/" rel="nofollow"&gt;https://goooood-san.booth.pm/&lt;/a&gt;)
-少しお安くなります。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;わししグッズの販売(&lt;a href="https://washishi.booth.pm" rel="nofollow"&gt;https://washishi.booth.pm&lt;/a&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;事前にご連絡いただければ、ｽﾀｯｸﾁｬﾝ タカオ版のキット等も用意可能です。（&lt;a href="https://mongonta.booth.pm" rel="nofollow"&gt;https://mongonta.booth.pm&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;h3&gt;日時&lt;/h3&gt;
-&lt;p&gt;2026/9/19 13:00〜19:00&lt;/p&gt;
-&lt;h3&gt;場所&lt;/h3&gt;
-&lt;p&gt;西中島南方駅近くのレンタルスペース（詳細は会場のところを参照ください）&lt;/p&gt;
-&lt;h3&gt;会場に関して&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;飲食可(アルコール不可)
-ゴミはご自身で持ち帰って下さい。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;はんだごて可（はんだごてをお持ち頂ければ、はんだづけ作業は可能ですが、耐熱マットを持参するなど什器への接触が無いようにご配慮お願いします）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansai-stack-chan-mokumoku.connpass.com/event/399677/</guid><enclosure url="https://media.connpass.com/thumbs/45/41/4541335610808a2f6dec7aacbef34660.png" length="0" type="image/png"/><pubDate>Thu, 13 Aug 2026 09:49:11 +0900</pubDate></item><item><title>【大阪開催：ハンズオン勉強会】パチンコで鳥を飛ばすゲームを作ろう！</title><link>https://pg-beginner-mtg.connpass.com/event/405848/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月19日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 5.6&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区本庄東1丁目18番8号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;物理エンジン（Phaser + Matter.js）ではじめるゲーム作り（講師：横山巧駆氏）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;更新履歴&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kokokara.connpass.com/event/404557/</guid><enclosure url="https://media.connpass.com/thumbs/a9/dc/a9dc0128ce7d3606381ff7732de60504.png" length="0" type="image/png"/><pubDate>Fri, 04 Sep 2026 08:31:18 +0900</pubDate></item><item><title>【大阪開催：ハンズオン勉強会】パチンコで鳥を飛ばすゲームを作ろう！</title><link>https://pg-beginner-mtg.connpass.com/event/405848/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月19日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月19日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 5.6&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市北区本庄東1丁目18番8号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;物理エンジン（Phaser + Matter.js）ではじめるゲーム作り（講師：横山巧駆氏）&lt;/p&gt;&lt;div&gt;&lt;h1&gt;更新履歴&lt;/h1&gt;
 &lt;p&gt;◎2026/9/3 作成&lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -2601,7 +1833,7 @@ CoderDojoには、ニンジャ、12歳以下のニンジャの保護者、ボラ
 &lt;p&gt;特にありません。手ぶらでご参加ください。&lt;/p&gt;
 &lt;p&gt;（ご自身でも試したい方は、Claude（&lt;a href="http://claude.ai" rel="nofollow"&gt;claude.ai&lt;/a&gt;）のアカウントをご用意ください。Claude Codeの利用には有料プランが必要です）&lt;/p&gt;
 &lt;h2&gt;🚀 主催者メッセージ&lt;/h2&gt;
-&lt;p&gt;SNSが皆さんが言っていること聞いてもわからないので、とりあえず、体験しましょう。百聞は一見にしかずです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dxdojo.connpass.com/event/406664/</guid><enclosure url="https://media.connpass.com/thumbs/7f/a7/7fa7da4c67345952992340c6782d669f.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 17:15:02 +0900</pubDate></item><item><title>第3回 みんなの自宅鯖LT会</title><link>https://homeserver.connpass.com/event/396343/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月24日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月24日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Blooming Camp&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #みんなの自宅鯖LT会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第3回目はさくらインターネット様で開催します！！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;SNSが皆さんが言っていること聞いてもわからないので、とりあえず、体験しましょう。百聞は一見にしかずです。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dxdojo.connpass.com/event/406664/</guid><enclosure url="https://media.connpass.com/thumbs/7f/a7/7fa7da4c67345952992340c6782d669f.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 16:59:46 +0900</pubDate></item><item><title>第3回 みんなの自宅鯖LT会</title><link>https://homeserver.connpass.com/event/396343/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月24日(木) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月24日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Blooming Camp&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町６−３８ グラングリーン大阪北館 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #みんなの自宅鯖LT会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第3回目はさくらインターネット様で開催します！！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;みんなの自宅鯖LT会第1回目を立ち上げました！！
 イベントを通じてワイガヤしながら自宅鯖について語り合いましょう！！
 LT枠も設けておりますので発表したい方は以下をお読みください。&lt;/p&gt;
@@ -5034,41 +4266,7 @@ testingOsakaの発音は「ガラパゴス携帯」と同じ発音です。  &lt
 &lt;p&gt;[更新履歴]&lt;br&gt;
 2026/7/29 イベント概要を公開しました&lt;br&gt;
 2026/9/2 タイムテーブルを公開しました&lt;br&gt;
-2026/9/10 タイムテーブルを更新しました&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/401017/</guid><enclosure url="https://media.connpass.com/thumbs/f0/50/f050823c55089340580c202503ed9188.png" length="0" type="image/png"/><pubDate>Thu, 10 Sep 2026 11:21:02 +0900</pubDate></item><item><title>第20回AI勉強会「スナックAI」（大阪開催）</title><link>https://kansai-ai-co.connpass.com/event/405450/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ワーキングスペースROUGHLABOTECH扇町&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区末広町3-21(扇町センタービル707)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
-&lt;p&gt;生成AIを使えば業務効率やアイデア創出のスピードは驚くほど加速します。
-それでも「みんなどう使ってるの？」「うちでどう使えばいいの？」「専門用語が難しくて…」と足踏みしている方は少なくありません。
-そこで誕生したのが、肩書も年齢も関係なく“スナック感覚”で集まれるゆるい勉強会 「スナックAI」です。&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;【スナックAIが選ばれる 3 つの理由 】&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. ゆるく学べるのに実戦的&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ドレスコードも議事録もありません。&lt;/p&gt;
-&lt;p&gt;気軽なトークの中で、実際に生成AIを導入している経営者・個人事業主が具体的な成功・失敗事例を披露します。&lt;/p&gt;
-&lt;p&gt;机上の空論ではない“生きたノウハウ”をご自身のビジネスにそのまま持ち帰れます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. 質問し放題・売り込みゼロ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「社内の抵抗をどう乗り越えた？」「費用対効果は？」など、気になることは何でもぶつけてください。&lt;/p&gt;
-&lt;p&gt;モデレーターがファシリテートしながら、その場でリアルな答えを共有します。&lt;/p&gt;
-&lt;p&gt;プレゼンもセールスピッチもないので、安心して疑問を解消できます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. お酒片手にインスピレーション&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;アルコールOK、会場でもビールやハイボールを少量ですがご用意しています（早い者勝ちです）。&lt;/p&gt;
-&lt;p&gt;持ち込みも可。ほろ酔いの解放感が、アイデアの化学反応をさらに加速。&lt;/p&gt;
-&lt;p&gt;もちろんソフトドリンク派の方も大歓迎です。&lt;/p&gt;
-&lt;p&gt;飲み物はご自身でご準備してください。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;【こんな方におすすめです 】&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;・ 生成AIを導入したいが、具体的な第一歩が分からない経営者・個人事業主&lt;/p&gt;
-&lt;p&gt;・ 他社の事例を聞き、自社の活用イメージを膨らませたい方&lt;/p&gt;
-&lt;p&gt;・ リラックスしながら専門家や同じ立場の仲間と交流したい方&lt;/p&gt;
-&lt;h2&gt;** 開催情報 **&lt;/h2&gt;
-&lt;p&gt;日時：2026年9月29日（火）18:30–20:30&lt;/p&gt;
-&lt;p&gt;場所：コワーキングスペースROUGHLABOTECH扇町（最寄り駅：堺筋線扇町、JR環状線天満駅）&lt;/p&gt;
-&lt;p&gt;住所：大阪市北区末広町3-21 扇町センタービル707&lt;/p&gt;
-&lt;p&gt;参加費：カンデジ会員・BMS会員は無料&lt;/p&gt;
-&lt;p&gt;ゲストは1,000円（税込）&lt;/p&gt;
-&lt;p&gt;（会場でのアルコール・ソフトドリンクはキャッシュオン形式）&lt;/p&gt;
-&lt;p&gt;★★★★★★★★★★&lt;/p&gt;
-&lt;p&gt;【勉強会の後に2次会を開催します】
-勉強会の後、20時30分より、同じ会場でケータリングを取って2次会を開催し、さらに交流を深めます。&lt;/p&gt;
-&lt;p&gt;参加費：2,000円（ドリンクはキャッシュオン形式、ケータリングの食事付き）&lt;/p&gt;
-&lt;p&gt;合わせてご参加ください。&lt;/p&gt;
-&lt;p&gt;★★★★★★★★★★&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansai-ai-co.connpass.com/event/405450/</guid><enclosure url="https://media.connpass.com/thumbs/d9/eb/d9eb02fcca8481a8fcecfc0a9603d87f.png" length="0" type="image/png"/><pubDate>Mon, 31 Aug 2026 11:25:39 +0900</pubDate></item><item><title>【大阪・LT会】Management &amp; AI Commons Osaka – ゆるLT会 #10</title><link>https://oue-meetup.connpass.com/event/399847/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: アールスリーインスティテュート（gusuku Ashibinaa OSAKA）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 グランフロント大阪 タワーC 16階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;✨ Management &amp;amp; AI Commons Osakaとは&lt;/h1&gt;
+2026/9/10 タイムテーブルを更新しました&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/401017/</guid><enclosure url="https://media.connpass.com/thumbs/f0/50/f050823c55089340580c202503ed9188.png" length="0" type="image/png"/><pubDate>Thu, 10 Sep 2026 11:21:02 +0900</pubDate></item><item><title>【大阪・LT会】Management &amp; AI Commons Osaka – ゆるLT会 #10</title><link>https://oue-meetup.connpass.com/event/399847/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: アールスリーインスティテュート（gusuku Ashibinaa OSAKA）&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町3-1 グランフロント大阪 タワーC 16階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;✨ Management &amp;amp; AI Commons Osakaとは&lt;/h1&gt;
 &lt;p&gt;Management &amp;amp; AI Commons Osaka は、AI活用や経営、組織、戦略に関心のある人が、立場や所属を越えて集まるオープンなコミュニティです。&lt;/p&gt;
 &lt;p&gt;学生、社会人、エンジニア、研究者、実務家、初学者まで、どなたでも参加できます。初めてIT/AIコミュニティに参加する方も歓迎します。&lt;/p&gt;
 &lt;p&gt;生成AIやAI駆動開発は、ソフトウェア開発だけでなく、学び方、働き方、事業づくり、研究活動、チームの動き方にも影響を与えつつあります。AIを使って何かを作る、学ぶ、働く、広げるときには、技術だけでなく、「人」「組織」「戦略」「学習」の問題も関わってきます。&lt;/p&gt;
@@ -5152,7 +4350,41 @@ testingOsakaの発音は「ガラパゴス携帯」と同じ発音です。  &lt
 &lt;li&gt;参加者への不快な声かけやナンパ行為&lt;/li&gt;
 &lt;li&gt;ハラスメントにつながる行為全般&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;会場内で問題が確認された場合、主催側の判断でご退出いただく場合があります。安心して参加できる場づくりにご協力ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://oue-meetup.connpass.com/event/399847/</guid><enclosure url="https://media.connpass.com/thumbs/a0/0b/a00bfcff6f701deb4d2ada9777f8157c.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 11:19:38 +0900</pubDate></item><item><title>【作業会】Management &amp; AI Commons Osaka – もくもく会 #12</title><link>https://oue-meetup.connpass.com/event/402326/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学図書館　ラーニング・コモンズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市東淀川区大隅2−2−8　大阪経済大学&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;💻 もくもく会&lt;/p&gt;
+&lt;p&gt;会場内で問題が確認された場合、主催側の判断でご退出いただく場合があります。安心して参加できる場づくりにご協力ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://oue-meetup.connpass.com/event/399847/</guid><enclosure url="https://media.connpass.com/thumbs/a0/0b/a00bfcff6f701deb4d2ada9777f8157c.png" length="0" type="image/png"/><pubDate>Wed, 26 Aug 2026 11:19:38 +0900</pubDate></item><item><title>第20回AI勉強会「スナックAI」（大阪開催）</title><link>https://kansai-ai-co.connpass.com/event/405450/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ワーキングスペースROUGHLABOTECH扇町&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区末広町3-21(扇町センタービル707)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;肩書も年齢も関係なく“スナック感覚”で集まれるゆるいAI勉強会 「スナックAI」です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;スナックAI ― 生成AIでビジネスを“ちょい飲み”ブースト！&lt;/p&gt;
+&lt;p&gt;生成AIを使えば業務効率やアイデア創出のスピードは驚くほど加速します。
+それでも「みんなどう使ってるの？」「うちでどう使えばいいの？」「専門用語が難しくて…」と足踏みしている方は少なくありません。
+そこで誕生したのが、肩書も年齢も関係なく“スナック感覚”で集まれるゆるい勉強会 「スナックAI」です。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;【スナックAIが選ばれる 3 つの理由 】&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. ゆるく学べるのに実戦的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ドレスコードも議事録もありません。&lt;/p&gt;
+&lt;p&gt;気軽なトークの中で、実際に生成AIを導入している経営者・個人事業主が具体的な成功・失敗事例を披露します。&lt;/p&gt;
+&lt;p&gt;机上の空論ではない“生きたノウハウ”をご自身のビジネスにそのまま持ち帰れます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 質問し放題・売り込みゼロ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「社内の抵抗をどう乗り越えた？」「費用対効果は？」など、気になることは何でもぶつけてください。&lt;/p&gt;
+&lt;p&gt;モデレーターがファシリテートしながら、その場でリアルな答えを共有します。&lt;/p&gt;
+&lt;p&gt;プレゼンもセールスピッチもないので、安心して疑問を解消できます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. お酒片手にインスピレーション&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;アルコールOK、会場でもビールやハイボールを少量ですがご用意しています（早い者勝ちです）。&lt;/p&gt;
+&lt;p&gt;持ち込みも可。ほろ酔いの解放感が、アイデアの化学反応をさらに加速。&lt;/p&gt;
+&lt;p&gt;もちろんソフトドリンク派の方も大歓迎です。&lt;/p&gt;
+&lt;p&gt;飲み物はご自身でご準備してください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【こんな方におすすめです 】&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;・ 生成AIを導入したいが、具体的な第一歩が分からない経営者・個人事業主&lt;/p&gt;
+&lt;p&gt;・ 他社の事例を聞き、自社の活用イメージを膨らませたい方&lt;/p&gt;
+&lt;p&gt;・ リラックスしながら専門家や同じ立場の仲間と交流したい方&lt;/p&gt;
+&lt;h2&gt;** 開催情報 **&lt;/h2&gt;
+&lt;p&gt;日時：2026年9月29日（火）18:30–20:30&lt;/p&gt;
+&lt;p&gt;場所：コワーキングスペースROUGHLABOTECH扇町（最寄り駅：堺筋線扇町、JR環状線天満駅）&lt;/p&gt;
+&lt;p&gt;住所：大阪市北区末広町3-21 扇町センタービル707&lt;/p&gt;
+&lt;p&gt;参加費：カンデジ会員・BMS会員は無料&lt;/p&gt;
+&lt;p&gt;ゲストは1,000円（税込）&lt;/p&gt;
+&lt;p&gt;（会場でのアルコール・ソフトドリンクはキャッシュオン形式）&lt;/p&gt;
+&lt;p&gt;★★★★★★★★★★&lt;/p&gt;
+&lt;p&gt;【勉強会の後に2次会を開催します】
+勉強会の後、20時30分より、同じ会場でケータリングを取って2次会を開催し、さらに交流を深めます。&lt;/p&gt;
+&lt;p&gt;参加費：2,000円（ドリンクはキャッシュオン形式、ケータリングの食事付き）&lt;/p&gt;
+&lt;p&gt;合わせてご参加ください。&lt;/p&gt;
+&lt;p&gt;★★★★★★★★★★&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kansai-ai-co.connpass.com/event/405450/</guid><enclosure url="https://media.connpass.com/thumbs/d9/eb/d9eb02fcca8481a8fcecfc0a9603d87f.png" length="0" type="image/png"/><pubDate>Mon, 31 Aug 2026 11:25:39 +0900</pubDate></item><item><title>【作業会】Management &amp; AI Commons Osaka – もくもく会 #12</title><link>https://oue-meetup.connpass.com/event/402326/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学図書館　ラーニング・コモンズ&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市東淀川区大隅2−2−8　大阪経済大学&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;💻 もくもく会&lt;/p&gt;
 &lt;p&gt;Management &amp;amp; AI Commons Osakaの「もくもく会」は、学生・社会人、学内・学外を問わず、誰でも参加できる「どんな作業でもOK」のゆるい会です。ITやプログラミングに関する作業でなくても大丈夫です。大学図書館というと、「一人で静かに勉強する場所」というイメージがあるかもしれません。現在の多くの大学図書館には、複数人で話したり、一緒に作業したりできる「ラーニング・コモンズ」と呼ばれる空間が設けられています。本会場では、会話をしながら作業でき、飲み物も持ち込めます。図書館の中でありながら、机を囲んで相談したり、パソコンを広げて共同作業をしたりできる、開放的なスペースです。普段、大学に入る機会がない方にも、今どきの大学図書館やラーニング・コモンズの雰囲気を体験していただけます。作業内容は自由です。たとえば、次のような過ごし方ができます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;レポート作成、試験勉強&lt;/li&gt;
@@ -5252,134 +4484,7 @@ testingOsakaの発音は「ガラパゴス携帯」と同じ発音です。  &lt
 &lt;li&gt;ハラスメントにつながる行為全般&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;会場内で問題が確認された場合、主催側の判断でご退出いただく場合があります。
-安心して参加できる場づくりにご協力ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://oue-meetup.connpass.com/event/402326/</guid><enclosure url="https://media.connpass.com/thumbs/da/b7/dab795be6313f54e64b853c324725381.png" length="0" type="image/png"/><pubDate>Tue, 11 Aug 2026 19:25:13 +0900</pubDate></item><item><title>Kansai Frontend Meetup #3 デザイナー×エンジニア大集合！LT大会</title><link>https://fec-kansai.connpass.com/event/404459/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社 大阪オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0017 大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース 35階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #fec_kansai_meetup&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Kansai Frontend Meetup とは&lt;/h1&gt;
-&lt;p&gt;Kansai Frontend Meetup は、フロントエンドカンファレンス関西のスタッフが立ち上げた、関西のフロントエンド好きが気軽に集まれるコミュニティイベントです。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「Frontend, Unbounded. ／ フロントエンドは、みんなの話やで。」——UI を描く人も、体験を設計する人も、コードを書く人も、プロダクトを問う人も。画面の向こうに立つすべての人へ、関西からーー&lt;/strong&gt;&lt;br&gt;
-全ての人が自分なりにフロントエンドを楽しめる場を目指しています。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;カンファレンスのような大きな舞台だけでなく、小さな集まりも大事にし、関西のフロントエンド、テックコミュニティを面白くしていくことを目指していきます。初参加の方も、ひとりで来る方も大歓迎です！気軽においでや〜。&lt;/p&gt;
-&lt;h1&gt;デザイナー×エンジニア大集合！LT大会&lt;/h1&gt;
-&lt;p&gt;第3回目のテーマは『デザイン×フロントエンド開発』。&lt;br&gt;
-今回は「Webデザイン」や「フロントエンドの実装」に関わる人たちが集まり、デザインシステムの構築・運用、Figmaとコードの連携、UI/UXデザイン、アクセシビリティ、最新CSS・アニメーション表現など、デザインとフロントエンドの交差点にあるあらゆるテーマを語り合う会です。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;今回は「デザイナー登壇枠」と「エンジニア登壇枠」をご用意しています！&lt;br&gt;
-それぞれの視点から見えるデザインや実装のリアルな工夫・課題を共有し合い、お互いの領域への理解を深めましょう。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;登壇経験を積むための参加もよし、大きめのカンファレンスに向けた登壇練習をするもよし、普段の業務や個人開発で培った「デザインと実装のこだわり」を熱く語るもよし。「デザインやフロントエンドが好きな人」のための濃密な時間にしましょう。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;当日はぜひXにて&lt;code&gt;#fec_kansai_meetup&lt;/code&gt;のハッシュタグをつけてどんどん盛り上げてください！&lt;/p&gt;
-&lt;p&gt;※会場での飲食物を提供予定&lt;/p&gt;
-&lt;h1&gt;開催概要&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;主催&lt;/strong&gt; : フロントエンドカンファレンス関西実行委員会&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;会場&lt;/strong&gt; : サイボウズ株式会社 大阪オフィス（大阪梅田ツインタワーズ・ノース 35階）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt; : 2026年9月30日（水） 19時00分 ~ 21時30分（18時30分開場）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;開催形式&lt;/strong&gt; : オフライン（大阪）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt; : 無料&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;会場案内&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://cybozu.co.jp/" rel="nofollow"&gt;サイボウズ株式会社&lt;/a&gt; 様の大阪オフィスのイベントスペースをお借りして開催します。&lt;/p&gt;
-&lt;p&gt;会場ビルまでへのアクセスについては以下をご覧ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://cybozu.co.jp/company/access/osaka/" rel="nofollow"&gt;サイボウズ株式会社 大阪オフィス アクセスマップ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;大阪梅田ツインタワーズ・ノースにつきましたら、エレベーターを使って15階スカイロビーからエレベーターを乗り換えて35階にお越しください。&lt;/p&gt;
-&lt;h3&gt;20時を過ぎてからの入場について&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;20時を過ぎてから入場する場合、一般の方は15階以上の階には上がれません。&lt;/strong&gt;&lt;br&gt;
-大阪梅田ツインタワーズ・ノースにつきましたら、&lt;a href="https://x.com/fec_kansai" rel="nofollow"&gt;Xの公式アカウント&lt;/a&gt;へのDM、あるいは本connpassページ下部にあります「フィード」からご連絡ください。運営がメッセージを確認次第、向かいます。&lt;/p&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;th&gt;登壇者（敬称略）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30〜19:00&lt;/td&gt;
-&lt;td&gt;開場・受付開始&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00〜19:05&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;td&gt;運営&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:05〜19:10&lt;/td&gt;
-&lt;td&gt;スポンサー紹介&lt;/td&gt;
-&lt;td&gt;運営&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:10〜19:15&lt;/td&gt;
-&lt;td&gt;LT①（デザイナー枠）：&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:15〜19:20&lt;/td&gt;
-&lt;td&gt;LT②（エンジニア枠）：&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:20〜19:25&lt;/td&gt;
-&lt;td&gt;LT③（デザイナー枠）：&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:25〜19:30&lt;/td&gt;
-&lt;td&gt;LT④（エンジニア枠）：&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:35〜19:45&lt;/td&gt;
-&lt;td&gt;休憩&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:45〜20:15&lt;/td&gt;
-&lt;td&gt;グループワーク（エンジニアがデザイナーに求めること、デザイナーがエンジニアに求めること）&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15〜20:25&lt;/td&gt;
-&lt;td&gt;エンディング&amp;amp;イベント告知&lt;/td&gt;
-&lt;td&gt;運営&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:25〜21:25&lt;/td&gt;
-&lt;td&gt;懇親会&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;21:25〜21:30&lt;/td&gt;
-&lt;td&gt;写真撮影&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;21:30〜&lt;/td&gt;
-&lt;td&gt;完全撤収&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;行動規範 / ポリシー&lt;/h1&gt;
-&lt;p&gt;本イベントは多くの参加者が安心して楽しんでいただけるよう、行動規範の確認及び遵守をお願いしております。
-下記のフロントエンドカンファレンス関西の行動規範に準じて運営しますので、ご確認頂いた上で参加登録をお願いいたします。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1ehwr1skJ_HS0Ef2VL18Hoka1WSB_Qvi5WYOOrRP_zSA/edit?tab=t.0#heading=h.oigojevcbqd8" rel="nofollow"&gt;行動規範&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;会場内ではSNS告知を目的とした写真撮影やオンライン配信等が行われます。あらかじめご了承ください。&lt;/li&gt;
-&lt;li&gt;エージェントの方等、営業目的での参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;飲食目的での参加はご遠慮ください。&lt;/li&gt;
-&lt;li&gt;勧誘目的での参加はご遠慮ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;スポンサー&lt;/h1&gt;
-&lt;h2&gt;会場提供&lt;/h2&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://cybozu.co.jp/" rel="nofollow"&gt;&lt;img src="https://cybozu.co.jp/logotypes/corporate-guideline/img/img_01.png" alt="サイボウズ株式会社ロゴ"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;サイボウズ株式会社&lt;/p&gt;
-&lt;h1&gt;主催&lt;/h1&gt;
-&lt;p&gt;フロントエンドカンファレンス関西実行委員会&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fec-kansai.connpass.com/event/404459/</guid><enclosure url="https://media.connpass.com/thumbs/a3/d2/a3d26105aa6e6d46cb05e341dba3b0aa.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 21:08:58 +0900</pubDate></item><item><title>Gemma 4 でローカルLLMハンズオン in 大阪【DevFest Meetup #3】</title><link>https://gdgkwansai.connpass.com/event/404318/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: LINEヤフー株式会社 大阪オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町4-20 グランフロント大阪 タワーA 37階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #devfest&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者・学生・非エンジニア歓迎！&lt;/p&gt;&lt;div&gt;
+安心して参加できる場づくりにご協力ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://oue-meetup.connpass.com/event/402326/</guid><enclosure url="https://media.connpass.com/thumbs/da/b7/dab795be6313f54e64b853c324725381.png" length="0" type="image/png"/><pubDate>Tue, 11 Aug 2026 19:25:13 +0900</pubDate></item><item><title>Gemma 4 でローカルLLMハンズオン in 大阪【DevFest Meetup #3】</title><link>https://gdgkwansai.connpass.com/event/404318/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: LINEヤフー株式会社 大阪オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区大深町4-20 グランフロント大阪 タワーA 37階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #devfest&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;初心者・学生・非エンジニア歓迎！&lt;/p&gt;&lt;div&gt;
 
 &lt;div style="background-color:#F0F0F0; color:#1E1E1E; padding:8px;"&gt;
 
@@ -5568,7 +4673,134 @@ testingOsakaの発音は「ガラパゴス携帯」と同じ発音です。  &lt
 &lt;p&gt;GDGでは、すべての参加者が楽しく安心して参加できるよう行動規範（Code of Conduct）を定めています。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit?usp=sharing" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/404318/</guid><enclosure url="https://media.connpass.com/thumbs/e1/8a/e18aa25739952e6e1c6153efc9e98501.png" length="0" type="image/png"/><pubDate>Sun, 30 Aug 2026 20:49:57 +0900</pubDate></item><item><title>Sansan Tech Talk @関西 vol.6～AIエージェント実践～</title><link>https://sansan.connpass.com/event/404019/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Sansan 関西支店&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区堂島浜1-4-19 (関電不動産堂島浜ビル 3F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kansai_33techtalk&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;🔍イベントについて&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/404318/</guid><enclosure url="https://media.connpass.com/thumbs/e1/8a/e18aa25739952e6e1c6153efc9e98501.png" length="0" type="image/png"/><pubDate>Sun, 30 Aug 2026 20:49:57 +0900</pubDate></item><item><title>Kansai Frontend Meetup #3 デザイナー×エンジニア大集合！LT大会</title><link>https://fec-kansai.connpass.com/event/404459/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: サイボウズ株式会社 大阪オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0017 大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース 35階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #fec_kansai_meetup&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;Kansai Frontend Meetup とは&lt;/h1&gt;
+&lt;p&gt;Kansai Frontend Meetup は、フロントエンドカンファレンス関西のスタッフが立ち上げた、関西のフロントエンド好きが気軽に集まれるコミュニティイベントです。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「Frontend, Unbounded. ／ フロントエンドは、みんなの話やで。」——UI を描く人も、体験を設計する人も、コードを書く人も、プロダクトを問う人も。画面の向こうに立つすべての人へ、関西からーー&lt;/strong&gt;&lt;br&gt;
+全ての人が自分なりにフロントエンドを楽しめる場を目指しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;カンファレンスのような大きな舞台だけでなく、小さな集まりも大事にし、関西のフロントエンド、テックコミュニティを面白くしていくことを目指していきます。初参加の方も、ひとりで来る方も大歓迎です！気軽においでや〜。&lt;/p&gt;
+&lt;h1&gt;デザイナー×エンジニア大集合！LT大会&lt;/h1&gt;
+&lt;p&gt;第3回目のテーマは『デザイン×フロントエンド開発』。&lt;br&gt;
+今回は「Webデザイン」や「フロントエンドの実装」に関わる人たちが集まり、デザインシステムの構築・運用、Figmaとコードの連携、UI/UXデザイン、アクセシビリティ、最新CSS・アニメーション表現など、デザインとフロントエンドの交差点にあるあらゆるテーマを語り合う会です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;今回は「デザイナー登壇枠」と「エンジニア登壇枠」をご用意しています！&lt;br&gt;
+それぞれの視点から見えるデザインや実装のリアルな工夫・課題を共有し合い、お互いの領域への理解を深めましょう。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;登壇経験を積むための参加もよし、大きめのカンファレンスに向けた登壇練習をするもよし、普段の業務や個人開発で培った「デザインと実装のこだわり」を熱く語るもよし。「デザインやフロントエンドが好きな人」のための濃密な時間にしましょう。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;当日はぜひXにて&lt;code&gt;#fec_kansai_meetup&lt;/code&gt;のハッシュタグをつけてどんどん盛り上げてください！&lt;/p&gt;
+&lt;p&gt;※会場での飲食物を提供予定&lt;/p&gt;
+&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;主催&lt;/strong&gt; : フロントエンドカンファレンス関西実行委員会&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;会場&lt;/strong&gt; : サイボウズ株式会社 大阪オフィス（大阪梅田ツインタワーズ・ノース 35階）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日時&lt;/strong&gt; : 2026年9月30日（水） 19時00分 ~ 21時30分（18時30分開場）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;開催形式&lt;/strong&gt; : オフライン（大阪）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参加費&lt;/strong&gt; : 無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;会場案内&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://cybozu.co.jp/" rel="nofollow"&gt;サイボウズ株式会社&lt;/a&gt; 様の大阪オフィスのイベントスペースをお借りして開催します。&lt;/p&gt;
+&lt;p&gt;会場ビルまでへのアクセスについては以下をご覧ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cybozu.co.jp/company/access/osaka/" rel="nofollow"&gt;サイボウズ株式会社 大阪オフィス アクセスマップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大阪梅田ツインタワーズ・ノースにつきましたら、エレベーターを使って15階スカイロビーからエレベーターを乗り換えて35階にお越しください。&lt;/p&gt;
+&lt;h3&gt;20時を過ぎてからの入場について&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;20時を過ぎてから入場する場合、一般の方は15階以上の階には上がれません。&lt;/strong&gt;&lt;br&gt;
+大阪梅田ツインタワーズ・ノースにつきましたら、&lt;a href="https://x.com/fec_kansai" rel="nofollow"&gt;Xの公式アカウント&lt;/a&gt;へのDM、あるいは本connpassページ下部にあります「フィード」からご連絡ください。運営がメッセージを確認次第、向かいます。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;登壇者（敬称略）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;18:30〜19:00&lt;/td&gt;
+&lt;td&gt;開場・受付開始&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:00〜19:05&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;td&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:05〜19:10&lt;/td&gt;
+&lt;td&gt;スポンサー紹介&lt;/td&gt;
+&lt;td&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:10〜19:15&lt;/td&gt;
+&lt;td&gt;LT①（デザイナー枠）：&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:15〜19:20&lt;/td&gt;
+&lt;td&gt;LT②（エンジニア枠）：&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:20〜19:25&lt;/td&gt;
+&lt;td&gt;LT③（デザイナー枠）：&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:25〜19:30&lt;/td&gt;
+&lt;td&gt;LT④（エンジニア枠）：&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:35〜19:45&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19:45〜20:15&lt;/td&gt;
+&lt;td&gt;グループワーク（エンジニアがデザイナーに求めること、デザイナーがエンジニアに求めること）&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:15〜20:25&lt;/td&gt;
+&lt;td&gt;エンディング&amp;amp;イベント告知&lt;/td&gt;
+&lt;td&gt;運営&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20:25〜21:25&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:25〜21:30&lt;/td&gt;
+&lt;td&gt;写真撮影&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21:30〜&lt;/td&gt;
+&lt;td&gt;完全撤収&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;行動規範 / ポリシー&lt;/h1&gt;
+&lt;p&gt;本イベントは多くの参加者が安心して楽しんでいただけるよう、行動規範の確認及び遵守をお願いしております。
+下記のフロントエンドカンファレンス関西の行動規範に準じて運営しますので、ご確認頂いた上で参加登録をお願いいたします。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1ehwr1skJ_HS0Ef2VL18Hoka1WSB_Qvi5WYOOrRP_zSA/edit?tab=t.0#heading=h.oigojevcbqd8" rel="nofollow"&gt;行動規範&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;会場内ではSNS告知を目的とした写真撮影やオンライン配信等が行われます。あらかじめご了承ください。&lt;/li&gt;
+&lt;li&gt;エージェントの方等、営業目的での参加はご遠慮ください。&lt;/li&gt;
+&lt;li&gt;飲食目的での参加はご遠慮ください。&lt;/li&gt;
+&lt;li&gt;勧誘目的での参加はご遠慮ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;スポンサー&lt;/h1&gt;
+&lt;h2&gt;会場提供&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cybozu.co.jp/" rel="nofollow"&gt;&lt;img src="https://cybozu.co.jp/logotypes/corporate-guideline/img/img_01.png" alt="サイボウズ株式会社ロゴ"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;サイボウズ株式会社&lt;/p&gt;
+&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;フロントエンドカンファレンス関西実行委員会&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://fec-kansai.connpass.com/event/404459/</guid><enclosure url="https://media.connpass.com/thumbs/a3/d2/a3d26105aa6e6d46cb05e341dba3b0aa.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 21:08:58 +0900</pubDate></item><item><title>Sansan Tech Talk @関西 vol.6～AIエージェント実践～</title><link>https://sansan.connpass.com/event/404019/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Sansan 関西支店&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区堂島浜1-4-19 (関電不動産堂島浜ビル 3F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kansai_33techtalk&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;🔍イベントについて&lt;/h1&gt;
 &lt;p&gt;Sansan Tech Talk @関西、第6回目のテーマは「AIエージェント実践」です！&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;AIエージェントは「作る人」「広める人」「日々の開発で使う人」、それぞれの立場で見え方がまったく違います。&lt;br&gt;
 今回は、全社共通のAIエージェント基盤を検証するメンバー、事業部門で活用されているAI基盤を推進するメンバー、そして開発現場でAIエージェントによるタスク管理自動化を運用するメンバーが登壇。&lt;br&gt;
@@ -5971,17 +5203,17 @@ GMOインターネットグループ シナジーカフェ GMO Yours&lt;br&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;13:30～14:15&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Supabaseのプロジェクト作成と、手元に保存しておきたい情報&lt;/strong&gt;&lt;br&gt;Supabaseで「Start your project」からプロジェクトを作成してみます。&lt;br&gt;&lt;a href="https://supabase.com/" rel="nofollow"&gt;https://supabase.com/&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;14:15～14:30&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;pgAdmin 4からPostgreSQLに接続してみよう&lt;/strong&gt; &lt;a href="https://www.pgadmin.org/" rel="nofollow"&gt;https://www.pgadmin.org/&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;pgAdmin 4からPostgreSQLに接続してみよう（ハンズオン）&lt;/strong&gt; &lt;a href="https://www.pgadmin.org/" rel="nofollow"&gt;https://www.pgadmin.org/&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;14:30～14:45&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;pgAdmin 4からSupabaseに接続してみよう&lt;/strong&gt;&lt;a href="https://supabase.com/" rel="nofollow"&gt;https://supabase.com/&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;pgAdmin 4からSupabaseに接続してみよう（ハンズオン）&lt;/strong&gt;&lt;a href="https://supabase.com/" rel="nofollow"&gt;https://supabase.com/&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;14:45～14:55&lt;/td&gt;
@@ -5991,22 +5223,22 @@ GMOインターネットグループ シナジーカフェ GMO Yours&lt;br&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;14:55～15:25&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Delphi 13 VCL + FireDACでSupabaseに接続してCRUDしてみよう&lt;/strong&gt;&lt;br&gt;&lt;a href="https://blogs.embarcadero.com/ja/delphi-13-community-edition-is-now-available-ja/" rel="nofollow"&gt;https://blogs.embarcadero.com/ja/delphi-13-community-edition-is-now-available-ja/&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;15:25～15:55&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Delphi 13 VCL + TNetHTTPClient(json)でSupabaseに接続してCRUDしてみよう&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;15:55～16:25&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Delphi 13 + TMS WEB CoreでSupabaseに接続してCRUDしてみよう&lt;/strong&gt;&lt;br&gt;&lt;a href="https://www.tmssoftware.com/site/tmswebcore.asp?srsltid=AfmBOops2loZYW2aMIme0ShCGz2sNAj3bhAI7DcNdTe7pdY5B6_6fh38" rel="nofollow"&gt;https://www.tmssoftware.com/site/tmswebcore.asp?srsltid=AfmBOops2loZYW2aMIme0ShCGz2sNAj3bhAI7DcNdTe7pdY5B6_6fh38&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;16:25～16:35&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;TMS WEB Coreで作成したアプリを公開してみよう&lt;/strong&gt;&lt;br&gt;さくらのレンタルサーバーへの公開を予定しています。&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;あずま&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;　&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;16:35～16:45&lt;/td&gt;
@@ -6043,7 +5275,7 @@ CRUDを実際に動かしながら学んでみたい方&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;必要な設備などがあれば、その内容&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;内容を確認のうえ、当日のタイムスケジュールに変更追加させていただきます。&lt;/p&gt;
-&lt;p&gt;短時間のライトニングトークから、ハンズオン・技術紹介まで歓迎です！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supabase-postgresql-frontend.connpass.com/event/406657/</guid><enclosure url="https://media.connpass.com/thumbs/f8/a2/f8a2cfc262e9e88a0b0d655bc70bde32.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 16:45:59 +0900</pubDate></item><item><title>情シス交流会#004</title><link>https://josys-crossover.connpass.com/event/404987/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Sankyo Meeting Room&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区西天満4-4-13（三共ビル梅新B1F）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～交流会は忘れたCOLにやって来る～&lt;/p&gt;&lt;div&gt;&lt;h1&gt;情シス交流会とは🤝&lt;/h1&gt;
+&lt;p&gt;短時間のライトニングトークから、ハンズオン・技術紹介まで歓迎です！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://supabase-postgresql-frontend.connpass.com/event/406657/</guid><enclosure url="https://media.connpass.com/thumbs/f8/a2/f8a2cfc262e9e88a0b0d655bc70bde32.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 09:51:57 +0900</pubDate></item><item><title>情シス交流会#004</title><link>https://josys-crossover.connpass.com/event/404987/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: Sankyo Meeting Room&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪府大阪市北区西天満4-4-13（三共ビル梅新B1F）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～交流会は忘れたCOLにやって来る～&lt;/p&gt;&lt;div&gt;&lt;h1&gt;情シス交流会とは🤝&lt;/h1&gt;
 &lt;p&gt;「他社はどんな工夫をしているんだろう？」&lt;br&gt;
 「同じ悩みを抱えている人、いるかな？」&lt;br&gt;
 そんな気持ちを気軽に話せる場をつくりました。&lt;/p&gt;
@@ -7456,813 +6688,967 @@ MAIL：sales_marketing@members.co.jp&lt;/p&gt;&lt;/div&gt;</description><guid is
 &lt;li&gt;パブリックビューイング会場設置可能な地方コミュニティ募集中！&lt;a href="https://osaka-driven-dev.connpass.com/event/316093/inquiry/" rel="nofollow"&gt;ここからお問い合わせ&lt;/a&gt;ください。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;キーワード&lt;/h3&gt;
-&lt;p&gt;AIエージェント AI駆動開発 AIグラス AlphaFold2 Anaconda AndroidXR アノテーション Anthropic 自動運転 オートエンコーダー  AutoGPT バッチ正規化 ボルツマンマシン CanvaAI 特徴量 ChatGPT ClaudeClaude Opus Sonnet Haiku コサイン類似度 Copilot CopilotAgent CNN Codex Cursor IEEE DALL-E DCAI 深層学習 DeepSeek Devin Diffusionモデル ドロップアウト エッジAI ElevenLabs エンベディング 表現学習 連合学習 ファインチューニング FigmaAI フューショット学習 将来予測（売上・在庫・株価） GAN GBDT Gemini GeminiNotebook GenAI GenerativeAI  GitHubCopilot 勾配降下法 GoogleColabolatory GoogleDeepMind 誤差逆伝播法 GPT GPTs Grok ハイパーパラメータ ハルシネーション HCAI HeyGen HuggingFace 画像認識 異常検知 故障予測  InvokeAI JAX JupyterNotebook Kaggle 回帰分析 感情分析 活性化関数 Keras Kling Lovable  勾配降下法 LangChain LeonardoAI Llama LLM  LoRA LSTM Luma 機械学習 MetaImagine Midjourney Mistral MLOps MoE（Mixture of Experts）多層パーセプトロン(MLP)  マルチエージェントシステム マルチモーダルAI 自然言語処理（NLP） NotionAI NVIDIA ニューラルネットワーク（NN） ONNX 音声認識 OpenAI 過学習 PaLM Pandas Perplexity Pika 事前学習 プロンプトエンジニアリング プロンプトインジェクション PyTorch 量子コンピューティング Qwen RAG ランダムフォレスト 強化学習 ReLU関数 ResponsibleAI（責任あるAI） RLHF  RNN Runway サポートベクターマシン(SVM) Scikit-learn SDXL Self-Attention シグモイド関数 Stitch 教師あり学習 教師なし学習 ソフトマックス関数 損失関数 Sora SOTA StableDiffusion ステップ関数 Suno TensorFlow 転移学習 Transformer UnityMuse v0 ベクトルデータベース Veo Watson Whisper XAI（説明可能なAI） xAI Xグラス ゼロショット学習&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://deep-learning-osaka.connpass.com/event/405952/</guid><enclosure url="https://media.connpass.com/thumbs/45/40/454090654f2e72c41f2ab9643e299e56.png" length="0" type="image/png"/><pubDate>Thu, 10 Sep 2026 10:45:42 +0900</pubDate></item><item><title>DevFest Kansai 2026 〜AIと最新技術を一日で総まとめするカンファレンス〜</title><link>https://gdgkwansai.connpass.com/event/388434/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月18日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪国際工科専門職大学&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001 大阪府大阪市北区梅田３丁目３−１ 梅田総合校舎&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #devfest&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI・クラウド・Web・ロボット。最新情報を1日で総まとめ！&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;AIエージェント AI駆動開発 AIグラス AlphaFold2 Anaconda AndroidXR アノテーション Anthropic 自動運転 オートエンコーダー  AutoGPT バッチ正規化 ボルツマンマシン CanvaAI 特徴量 ChatGPT ClaudeClaude Opus Sonnet Haiku コサイン類似度 Copilot CopilotAgent CNN Codex Cursor IEEE DALL-E DCAI 深層学習 DeepSeek Devin Diffusionモデル ドロップアウト エッジAI ElevenLabs エンベディング 表現学習 連合学習 ファインチューニング FigmaAI フューショット学習 将来予測（売上・在庫・株価） GAN GBDT Gemini GeminiNotebook GenAI GenerativeAI  GitHubCopilot 勾配降下法 GoogleColabolatory GoogleDeepMind 誤差逆伝播法 GPT GPTs Grok ハイパーパラメータ ハルシネーション HCAI HeyGen HuggingFace 画像認識 異常検知 故障予測  InvokeAI JAX JupyterNotebook Kaggle 回帰分析 感情分析 活性化関数 Keras Kling Lovable  勾配降下法 LangChain LeonardoAI Llama LLM  LoRA LSTM Luma 機械学習 MetaImagine Midjourney Mistral MLOps MoE（Mixture of Experts）多層パーセプトロン(MLP)  マルチエージェントシステム マルチモーダルAI 自然言語処理（NLP） NotionAI NVIDIA ニューラルネットワーク（NN） ONNX 音声認識 OpenAI 過学習 PaLM Pandas Perplexity Pika 事前学習 プロンプトエンジニアリング プロンプトインジェクション PyTorch 量子コンピューティング Qwen RAG ランダムフォレスト 強化学習 ReLU関数 ResponsibleAI（責任あるAI） RLHF  RNN Runway サポートベクターマシン(SVM) Scikit-learn SDXL Self-Attention シグモイド関数 Stitch 教師あり学習 教師なし学習 ソフトマックス関数 損失関数 Sora SOTA StableDiffusion ステップ関数 Suno TensorFlow 転移学習 Transformer UnityMuse v0 ベクトルデータベース Veo Watson Whisper XAI（説明可能なAI） xAI Xグラス ゼロショット学習&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://deep-learning-osaka.connpass.com/event/405952/</guid><enclosure url="https://media.connpass.com/thumbs/45/40/454090654f2e72c41f2ab9643e299e56.png" length="0" type="image/png"/><pubDate>Thu, 10 Sep 2026 10:45:42 +0900</pubDate></item><item><title>１３５回　本町デジもく会</title><link>https://dezimoku.connpass.com/event/406763/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: TheDECK&lt;/li&gt;&lt;li&gt;🏢 住所: 大阪市中央区南本町2-1-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;デジもく会&lt;/p&gt;&lt;div&gt;&lt;p&gt;ご参加のみなさまは下記の点にご留意ください。&lt;/p&gt;
+&lt;p&gt;・会場はコワーキングスペースのため、他のグループや個人利用の方も作業、お仕事をされています&lt;br&gt;
+・原則「もくもく会」ですが参加者同士の&lt;font color="red"&gt;交流(会話)は周りを気遣ってトーンを抑える&lt;/font&gt;よう心がけてください&lt;br&gt;
+・&lt;font color="red"&gt;工作物、成果物の紹介、披露、デモ時は音声出力のボリウムを絞って&lt;/font&gt;ください&lt;br&gt;
+・&lt;font color="red"&gt;電子音、電子楽器、ゲーム効果音等を出力するときは隣のFabスペースに移動して&lt;/font&gt;ご利用ください&lt;br&gt;
+・zoom等オンライン交流は映像メインで行い会話を要するときは手短に、またはWeb会議用個室ブースをご利用ください&lt;br&gt;
+・ハンダ付けは隣のFabスペースに移動してご利用ください&lt;br&gt;
+・他の利用者も作業、お仕事をされていることを念頭に行動しましょう&lt;br&gt;
+・会場の設備、備品は丁寧に使い、必ず現状復帰させてから解散しましょう&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;【デジもく会とは】&lt;br&gt;
+デジタル工作好きが集まって自分で作りたいものをもくもくと作る場を提供しているゆる〜いコミュニティです。&lt;br&gt;
+参加者は学生から第一線を退いたシニア世代まで初心者、ベテランまで幅広く「これからデジタル工作を始めたいけど周りにアドバイスしてくれる人がいない」といった方も大歓迎です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;デジタル工作とは、ArduinoやRaspberry Piに代表されるプログラミングを伴った電子工作や3Dプリンタ、レーザーカッター等コンピュータ制御のデジタルツールを使って工作することを指しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;参加費は500円。PayPayまたは現金で受け付けます。&lt;br&gt;
+会場では100V電源、ドリンクコーナー(コーヒー、烏龍茶、ジュース等ソフトドリンク)が無料で、&lt;br&gt;
+3Dプリンタ、レーザーカッター、刺繍用ミシンが有料でご利用いただけます。&lt;/p&gt;
+&lt;p&gt;見学や取材ご希望の方はエントリー時にコメント欄でその旨お伝えください。&lt;br&gt;
+閉会後(17時以降)は希望者で懇親会を開くことがあります。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;デジもく会のオープンチャットを開設しました。&lt;br&gt;
+CP2P Chat Peer to Peer（ピアツーピアチャット）&lt;br&gt;
+&lt;a href="https://cp2p.eiwa-up.jp/" rel="nofollow"&gt;https://cp2p.eiwa-up.jp/&lt;/a&gt;　&lt;br&gt;
+メールアドレスの２段階認証だけで登録可能です。 個人識別IDとパスワードは必ずコピーをとり保管してください。 &lt;br&gt;
+入室時にIDパスワードは必要です。&lt;br&gt;
+&lt;br&gt;
+デジもく会オープンチャット&lt;br&gt;
+デジもく会&lt;br&gt;
+ パスワード:  password　&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+##協力団体
+
+&lt;p align="center"&gt;
+共催
+&lt;/p&gt;&lt;p align="center"&gt;
+&lt;a href="https://thedeck.jp/" rel="nofollow"&gt;&lt;img width="200" src="https://thedeck.jp/wp/wp-content/themes/thedeck-new/img/logo.png"&gt;&lt;br&gt;
+THE DECK
+&lt;/a&gt;&lt;br&gt;
+共催
+&lt;/p&gt;&lt;p align="center"&gt;
+&lt;a href="https://eiwa-up.jp/" rel="nofollow"&gt;&lt;img width="200" src="https://eiwa-up.jp/wp/wp-content/themes/eiwa-theme/images/logo.svg"&gt;&lt;br&gt;
+有限会社　栄和
+&lt;/a&gt;&lt;br&gt;
+
+&lt;/p&gt;&lt;p align="center"&gt;
+&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;&lt;img alt="サンプル" style="background-color:black;" width="200" src="https://ho-lo.jp/wp-content/themes/holo-theme/images/logo2.svg"&gt;&lt;/a&gt;&lt;/p&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;
+&lt;/a&gt;&lt;p align="center"&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;
+&lt;/a&gt;&lt;a href="https://ho-lo.jp/" rel="nofollow"&gt;ホログラム　株式会社
+&lt;/a&gt;&lt;br&gt;
+
+&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://dezimoku.connpass.com/event/406763/</guid><enclosure url="https://media.connpass.com/thumbs/05/ba/05baa702bc971b8a207960ae0320157e.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 20:16:52 +0900</pubDate></item><item><title>DevFest Kansai 2026 〜AIと最新技術を一日で総まとめするカンファレンス〜</title><link>https://gdgkwansai.connpass.com/event/388434/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月18日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪国際工科専門職大学&lt;/li&gt;&lt;li&gt;🏢 住所: 〒530-0001 大阪府大阪市北区梅田３丁目３−１ 梅田総合校舎&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DevFestKansai&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AI・クラウド・Web・ロボット。最新情報を1日で総まとめ！&lt;/p&gt;&lt;div&gt;
 
 &lt;div style="background-color:#F0F0F0;
   padding:8px;
 
   color:#1E1E1E;"&gt;
 
-  
-  &lt;img src="https://img.gdgs.jp/NWbxmMod" alt="devfest-banner" width="1000" style=""&gt;
+    
+    &lt;img src="https://img.gdgs.jp/NWbxmMod" alt="devfest-banner" width="1000"&gt;
 
-  
-  &lt;img src="https://img.gdgs.jp/zvusVA6D" alt="DevFest 2026 in Kansai セッション一覧" width="1000" style="margin-top:12px;"&gt;
+    
+    &lt;img src="https://img.gdgs.jp/zvusVA6D" alt="DevFest 2026 in Kansai セッション一覧" width="1000" style="margin-top:12px;"&gt;
 
-  
-  &lt;div style="margin-top:16px;
+    
+    &lt;div style="margin-top:16px;
     padding:0;
     background-color:#FFFFFF;
 
     border:2px solid #000000;"&gt;
-    &lt;div style="padding:12px;"&gt;
-      &lt;h2 style="margin:0;
+        &lt;div style="padding:12px;"&gt;
+            &lt;h2 style="margin:0;
         color:#000000;
         font-size:20px;
         border:none;"&gt;
-        &lt;img src="https://img.gdgs.jp/kwd26yBm" alt="" height="24"&gt;
-        &lt;span&gt;開催概要&lt;/span&gt;
-        &lt;img src="https://img.gdgs.jp/9KyBRXby" alt="" height="24"&gt;
-      &lt;/h2&gt;
-    &lt;/div&gt;
+                &lt;img src="https://img.gdgs.jp/kwd26yBm" alt="" height="24"&gt;
+                &lt;span&gt;開催概要&lt;/span&gt;
+                &lt;img src="https://img.gdgs.jp/9KyBRXby" alt="" height="24"&gt;
+            &lt;/h2&gt;
+        &lt;/div&gt;
 
-    &lt;div style="padding:8px;"&gt;
-      &lt;div style="padding:8px;
+        &lt;div style="padding:8px;"&gt;
+            &lt;div style="padding:8px;
         border-bottom:1px solid #DDDDDD;
         border-left:6px solid #4285F4;"&gt;
-        &lt;strong style="font-size:14px;"&gt;📆 開催日：&lt;/strong&gt;
-        &lt;span style="font-size:14px;"&gt;2026年10月18日（日）&lt;/span&gt;
-      &lt;/div&gt;
+                &lt;strong style="font-size:14px;"&gt;📆 開催日：&lt;/strong&gt;
+                &lt;span style="font-size:14px;"&gt;2026年10月18日（日）&lt;/span&gt;
+            &lt;/div&gt;
 
-      &lt;div style="padding:8px;
+            &lt;div style="padding:8px;
         border-bottom:1px solid #DDDDDD;
         border-left:6px solid #34A853;"&gt;
-        &lt;strong style="font-size:14px;"&gt;🕚 開催時間：&lt;/strong&gt;
-        &lt;span style="font-size:14px;"&gt;10:00〜20:00（受付・懇親会を含む）&lt;/span&gt;
-      &lt;/div&gt;
+                &lt;strong style="font-size:14px;"&gt;🕚 開催時間：&lt;/strong&gt;
+                &lt;span style="font-size:14px;"&gt;10:00〜20:00（受付・懇親会を含む）&lt;/span&gt;
+            &lt;/div&gt;
 
-      &lt;div style="padding:8px;
+            &lt;div style="padding:8px;
         border-bottom:1px solid #DDDDDD;
         border-left:6px solid #EA4336;"&gt;
-        &lt;strong style="font-size:14px;"&gt;📍 会場：&lt;/strong&gt;
-        &lt;span style="font-size:14px;"&gt;国際工科専門職大学 大阪キャンパス&lt;/span&gt;
-      &lt;/div&gt;
+                &lt;strong style="font-size:14px;"&gt;📍 会場：&lt;/strong&gt;
+                &lt;span style="font-size:14px;"&gt;国際工科専門職大学 大阪キャンパス&lt;/span&gt;
+            &lt;/div&gt;
 
-      &lt;div style="padding:8px;
+            &lt;div style="padding:8px;
         border-bottom:1px solid #DDDDDD;
         border-left:6px solid #FAAB00;"&gt;
-        &lt;strong style="font-size:14px;"&gt;💻 開催形式：&lt;/strong&gt;
-        &lt;span style="font-size:14px;"&gt;現地開催・オンライン配信&lt;/span&gt;
-      &lt;/div&gt;
+                &lt;strong style="font-size:14px;"&gt;💻 開催形式：&lt;/strong&gt;
+                &lt;span style="font-size:14px;"&gt;現地開催・オンライン配信&lt;/span&gt;
+            &lt;/div&gt;
 
-      &lt;div style="padding:8px;
+            &lt;div style="padding:8px;
         border-left:6px solid #4285F4;"&gt;
-        &lt;strong style="font-size:14px;"&gt;🎟️ 参加費：無料&lt;/strong&gt;
-      &lt;/div&gt;
+                &lt;strong style="font-size:14px;"&gt;🎟️ 参加費：無料&lt;/strong&gt;
+            &lt;/div&gt;
 
-      &lt;p style="margin:12px 8px 4px 8px;
+            &lt;p style="margin:12px 8px 4px 8px;
         font-size:13px;"&gt;
-        ※イベント内容や開催時間は、今後変更となる場合があります。
-      &lt;/p&gt;
+                ※イベント内容や開催時間は、今後変更となる場合があります。
+            &lt;/p&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
 
-  
-  &lt;div style="margin-top:12px;
+    
+    &lt;div style="margin-top:12px;
     padding:12px;
     background-color:#FFFFFF;
 
     border:2px solid #000000;"&gt;
-    &lt;h2 style="margin:0 0 10px 0;
+        &lt;h2 style="margin:0 0 10px 0;
       color:#000000;
       border:none;
       padding:0;"&gt;
-      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
-      &lt;span style="margin-top:0;
+            &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
+            &lt;span style="margin-top:0;
       font-size:18px;
       font-weight:bold;"&gt;
-        AI 時代の「&lt;span style="color: #4285F4;"&gt;考える&lt;/span&gt;」を取り戻す。&lt;span style="color: #4285F4;"&gt;異分野&lt;/span&gt;と&lt;span style="color: #4285F4;"&gt;越境&lt;/span&gt;の AI カンファレンス
-      &lt;/span&gt;
-    &lt;/h2&gt;
+                AI 時代の「&lt;span style="color: #4285F4;"&gt;考える&lt;/span&gt;」を取り戻す。&lt;span style="color: #4285F4;"&gt;異分野&lt;/span&gt;と&lt;span style="color: #4285F4;"&gt;越境&lt;/span&gt;の AI カンファレンス
+            &lt;/span&gt;
+        &lt;/h2&gt;
 
-    &lt;p style=""&gt;
-      Google Developer Group（GDG）が世界中で展開する人気技術イベント「DevFest」を、今年も大阪で開催！
-      Google AIをはじめとする最新技術と、ファッション・ものづくり・ビジネスなどの異なる専門性が交わるデベロッパーイベントです！
-    &lt;/p&gt;
+        &lt;p&gt;
+            Google Developer Group（GDG）が世界中で展開する人気技術イベント「DevFest」を、今年も大阪で開催！
+            Google AIをはじめとする最新技術と、ファッション・ものづくり・ビジネスなどの異なる専門性が交わるデベロッパーイベントです！
+        &lt;/p&gt;
 
-    &lt;p style=""&gt;
-      AIを単なる便利な道具ではなく、問いを深め、アイデアをカタチにし、
-      &lt;strong&gt;人間の創造性を広げる共創パートナー&lt;/strong&gt;
-      として捉え直します。
-      技術セッション、ハンズオン、異分野との対話を通じて、課題の発見からプロトタイプの実現までを体験するスペシャルな一日です。
-    &lt;/p&gt;
+        &lt;p&gt;
+            AIを単なる便利な道具ではなく、問いを深め、アイデアをカタチにし、
+            &lt;strong&gt;人間の創造性を広げる共創パートナー&lt;/strong&gt;
+            として捉え直します。
+            技術セッション、ハンズオン、異分野との対話を通じて、課題の発見からプロトタイプの実現までを体験するスペシャルな一日です。
+        &lt;/p&gt;
 
-    &lt;div style="padding:15px 18px;
+        &lt;div style="padding:15px 18px;
       border:2px solid #34A853;
 
       font-weight:bold;"&gt;
-      &lt;span style="color:#34A853;"&gt;{&lt;/span&gt;
-      初心者から経験豊富なエンジニアまで、どなたでも大歓迎です！
-      &lt;span style="color:#34A853;"&gt;}&lt;/span&gt;
+            &lt;span style="color:#34A853;"&gt;{&lt;/span&gt;
+            初心者から経験豊富なエンジニアまで、どなたでも大歓迎です！
+            &lt;span style="color:#34A853;"&gt;}&lt;/span&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
 
-  
-  &lt;div style="margin-top:12px;
+    
+    &lt;div style="margin-top:12px;
     padding:12px;
     background-color:#FFFFFF;
 
     border:2px solid #000000;"&gt;
-    &lt;h2 style="margin:0 0 10px 0;
+        &lt;h2 style="margin:0 0 10px 0;
       color:#000000;
       border:none;"&gt;
-      &lt;img src="https://img.gdgs.jp/kyLwWQfk" alt="" height="12"&gt;
-      こんな方におすすめ
-    &lt;/h2&gt;
+            &lt;img src="https://img.gdgs.jp/kyLwWQfk" alt="" height="12"&gt;
+            こんな方におすすめ
+        &lt;/h2&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;
-        Google AIや生成AIを、
-        &lt;strong&gt;実際の開発やプロトタイピングで活用してみたい&lt;/strong&gt;方
-      &lt;/li&gt;
-      &lt;li&gt;
-        ファッションやものづくりなど、
-        &lt;strong&gt;異分野との共創&lt;/strong&gt;や
-        &lt;strong&gt;人間の創造性&lt;/strong&gt;に関心がある方
-      &lt;/li&gt;
-      &lt;li&gt;
-        学生・初学者から経験豊富なエンジニアまで、
-        &lt;strong&gt;新しい技術やコミュニティ&lt;/strong&gt;に出会いたい方
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                Google AIや生成AIを、
+                &lt;strong&gt;実際の開発やプロトタイピングで活用してみたい&lt;/strong&gt;方
+            &lt;/li&gt;
+            &lt;li&gt;
+                ファッションやものづくりなど、
+                &lt;strong&gt;異分野との共創&lt;/strong&gt;や
+                &lt;strong&gt;人間の創造性&lt;/strong&gt;に関心がある方
+            &lt;/li&gt;
+            &lt;li&gt;
+                学生・初学者から経験豊富なエンジニアまで、
+                &lt;strong&gt;新しい技術やコミュニティ&lt;/strong&gt;に出会いたい方
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
 
-  
-  &lt;div style="margin-top:12px;
+    
+    &lt;div style="margin-top:12px;
     padding:6px;
     background-color:#FFFFFF;
     border:2px solid #000;"&gt;
-    &lt;h2 style="margin:0 0 22px 0;
+        &lt;h2 style="margin:0 0 22px 0;
       color:#000000;
       border:none;
       padding:6px;"&gt;
-      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
-      タイムテーブル
-    &lt;/h2&gt;
+            &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
+            タイムテーブル
+        &lt;/h2&gt;
 
-    &lt;img src="https://img.gdgs.jp/5dxWb1gC" alt="DevFest 2026 in Kansai タイムテーブル" width="1000" style="margin:0;"&gt;
+        &lt;img src="https://img.gdgs.jp/5dxWb1gC" alt="DevFest 2026 in Kansai タイムテーブル" width="1000" style="margin:0;"&gt;
 
-    &lt;p style="margin:6px 0 0 0; font-size:13px; padding:6px;"&gt;
-      ※タイムテーブル、セッション内容、登壇形式は変更となる場合があります。
-    &lt;/p&gt;
-  &lt;/div&gt;
+        &lt;p style="margin:6px 0 0 0; font-size:13px; padding:6px;"&gt;
+            ※タイムテーブル、セッション内容、登壇形式は変更となる場合があります。
+        &lt;/p&gt;
+    &lt;/div&gt;
 
-  
-  &lt;div style="margin-top:12px;
+    
+    &lt;div style="margin-top:12px;
     padding:12px;
     background-color:#FFFFFF;
     border:2px solid #1E1E1E;"&gt;
-    &lt;h2 style="margin:0 0 0 0;
+        &lt;h2 style="margin:0 0 0 0;
       color:#000000;
       border:none;"&gt;
-      &lt;img src="https://img.gdgs.jp/gdg-sticker-plus-blue" alt="" height="24"&gt;
-      スポンサー
-    &lt;/h2&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-sticker-plus-blue" alt="" height="24"&gt;
+            スポンサー
+        &lt;/h2&gt;
 
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/ueP38FwZ" alt="Findy株式会社" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Findy株式会社 様&lt;/h3&gt;
-            &lt;p style="margin:0;"&gt;
-              ファインディ株式会社は「挑戦するエンジニアのためのプラットフォームをつくる」ことを目指し、高度なスキルを持つエンジニアの能力を可視化し企業とマッチングするスカウト型採用サービス「Findy」や「Findy
-              Freelance」などを展開しています。また、エンジニア組織の生産性を可視化・向上させるSaaS「Findy
-              Team+」も提供しています。今後もテクノロジーとイノベーションを通じて価値あるサービスを創出し、企業とエンジニア双方の成長を支援してまいります。&lt;/p&gt;
-            &lt;a href="https://findy.co.jp/" rel="nofollow"&gt;会社HP&lt;/a&gt; / &lt;a href="https://tech.findy.co.jp/" rel="nofollow"&gt;Tech Blog&lt;/a&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-  
-  &lt;div style="margin-top:12px;
-    padding:12px;
-    background-color:#FFFFFF;
-    border:2px solid #000000;"&gt;
-    &lt;h2 style="margin:0 0 10px 0;
-      color:#000000;
-      border:none;"&gt;
-      &lt;img src="https://img.gdgs.jp/gdg-sticker-arrow-right-yellow" alt="" height="24"&gt;
-      プレイベント
-    &lt;/h2&gt;
-
-    &lt;p style="margin:0 0 12px 0;"&gt;
-      DevFest Kansai 2026に向けて、関西各地でMeetupを開催しています。ぜひご参加ください！
-    &lt;/p&gt;
-
-    &lt;p style="margin:0 0 8px 0; padding:8px;"&gt;
-      &lt;a href="https://gdgkwansai.connpass.com/event/403503/" rel="nofollow"&gt;&lt;strong&gt;AIどう使ってる？LT会 in 大阪〜疑問と経験を共有しよう〜〖DevFest Meetup
-          #1〗&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-      2026年8月28日（金）19:00〜21:00｜アールスリーインスティテュート gusuku Ashibina&lt;br&gt;
-      開催済み
-    &lt;/p&gt;
-
-    &lt;p style="margin:0 0 8px 0; padding:8px;"&gt;
-      &lt;a href="https://gdgkwansai.connpass.com/event/405133/" rel="nofollow"&gt;&lt;strong&gt;開発の工夫を語るLT会 in 神戸！設計、実装、検証 etc.〖DevFest Meetup
-          #2〗&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-      2026年9月15日（火）19:00〜21:00｜OPTiM KOBE（株式会社オプティム 神戸拠点）
-    &lt;/p&gt;
-
-    &lt;p style="margin:0; padding:8px;"&gt;
-      &lt;a href="https://gdgkwansai.connpass.com/event/404318/" rel="nofollow"&gt;&lt;strong&gt;Gemma 4 でローカルLLMハンズオン in 大阪〖DevFest Meetup
-          #3〗&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-      2026年9月30日（水）19:00〜21:00｜LINEヤフー株式会社 大阪オフィス
-    &lt;/p&gt;
-  &lt;/div&gt;
-
-  
-  &lt;div style="background-color:#FFFFFF; border:2px solid #1E1E1E; color:#1E1E1E; margin:12px 0 16px 0;"&gt;
-    &lt;h2 style="font-size:22px; border:none; padding:16px 16px 0 16px;"&gt;
-      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt; セッション
-    &lt;/h2&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/mH3yDEfI?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Sherry Xu 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Opening&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;Sherry Xu 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Developer Ecosystem Regional Lead Japan&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;Google 日本におけるデベロッパー・エコシステム代表。Googleとデベロッパーの架け橋として、国内のコミュニティ支援を統括。Google Developer
-              Program, Google Developer Experts
-              プログラム、およびスタートアップ・アクセラレーター・プログラムをリードしている。2018年にGoogleに入社。以前は国連ニューヨーク本部で勤務。ニューヨーク大学修士課程修了。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/EVwB6Cuk?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="全 炳河 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Keynote&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;全 炳河 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google DeepMind／プリンシパル サイエンティスト・東京拠点リード&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;2023年よりGoogle DeepMind プリンシパル サイエンティスト・東京拠点リード。99年 鈴鹿高専卒。06年 名古屋工業大学 博士後期課程修了。工学博士。04年
-              米国IBM TJワトソン研究所。08年 英国東芝ケンブリッジ研究所。11年 英国Google。18年 日本Google Brainを経て現職。音声情報処理・大規模言語モデルの研究開発に従事。日本音響学会
-              (ASJ)・情報処理学会 (IPSJ)・電子情報通信学会 (IEICE)・言語処理学会 (NLP)・国際音声コミュニケーション学会 (ISCA)より複数回受賞。2022年国際音声コミュニケーション学会
-              (ISCA) フェロー・2025年 米国電気電子学会 (IEEE) フェロー。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/0ABeKzvg?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="村上 憲郎 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;開会挨拶&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;村上 憲郎 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;国際工科専門職大学（IPUT）学長&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;
-              元Google米国本社副社長兼Google日本法人代表取締役社長。Googleに入社以来、退任まで日本におけるGoogle全業務の責任者を務める。教育にも注力し、京都大学大学院や大阪公立大学大学院、国際大学GLOCOMなどでも教鞭を執る。経済産業省産業構造審議会情報経済分科会委員などを歴任し、現在は総務省AIネットワーク社会推進会議委員。京都大学工学部卒。専門は人工知能。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/WdGkxjCR?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Llion Jones 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Keynote: I didn't need this attention&lt;/h3&gt;
-            &lt;p style="margin:0 0 14px 0;"&gt;Stories about the paper, facts that you might not know and how it's strangely
-              affected my life.&lt;/p&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;Llion Jones 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Co-Founder &amp;amp; CTO, Sakana AI&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;Llion Jones is a Welsh computer scientist and entrepreneur, best known as a co-author
-              of the groundbreaking 2017 research paper “Attention Is All You Need,” which introduced the Transformer
-              architecture that underpins many modern artificial intelligence systems. After spending over a decade at
-              Google, where he worked on natural language processing, Llion co-founded Sakana AI in 2023. Based in
-              Tokyo, he currently serves as the company’s Chief Technology Officer.&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/AtXLXNuP?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="竹内 郁雄 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ものづくりの本質&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;竹内 郁雄 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;東京大学名誉教授／未踏事業統括PM&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;
-              東京大学理学部数学科卒業後、NTT研究所、電気通信大学、東京大学、早稲田大学などで活動。Lispマシンの開発、RoboCup、IT防災の研究などに携わる。「サイボウズ式」にて「ハッカーの遺言状」を49回連載。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/fvsMb039?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="石黒 浩 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIロボットと人間の進化&lt;/h3&gt;
-            &lt;p style="margin:0 0 10px 0;"&gt;本講演では、人間とAIロボット等のテクノロジーの基本的な関係を議論すると共に、その関係において、共に発展するAIロボットと人間の未来について展望を述べる。
-            &lt;/p&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;石黒 浩 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;大阪大学大学院基礎工学研究科 教授（栄誉教授）&lt;br&gt;ATR石黒浩特別研究所
-              客員所長（ATRフェロー）&lt;br&gt;AVITA株式会社 代表取締役&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;
-              遠隔操作ロボット（アバター）や知能ロボットの研究開発に従事するロボット学者。人間酷似型ロボット（アンドロイド）研究の第一人者として、ムーンショット型研究開発制度のプロジェクトマネージャーや、大阪・関西万博EXPO
-              2025テーマ事業プロデューサーなどを務める。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/v3tezY8z?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="落合 陽一 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;落合 陽一 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;メディアアーティスト, 筑波大学デジタルネイチャー開発研究センター長・教授, 東京大学准教授&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;
-              1987年、東京都生まれ。メディアアーティスト。筑波大学デジタルネイチャー開発研究センター長・教授、東京大学准教授。一般社団法人xDiversity理事。内閣府ムーンショットアンバサダー。2025年大阪・関西万博ではシグネチャー事業プロデューサーを務めた。『魔法の世紀』『デジタルネイチャー』（以上、PLANETS）、『半歩先を読む思考法』（新潮社）、『忘れる読書』（PHP新書）など著書多数。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/RTbA8Lap?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="浅田 稔 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;認知発達ロボティクス&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;浅田 稔 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;大阪国際工科専門職大学 副学長・教授&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;
-              大阪大学大学院基礎工学研究科物理系専攻博士後期課程修了。工学博士。認知発達ロボティクスの第一人者として、ロボティクスを軸とした人間と機械の調和に関する研究に取り組む。ロボカップ国際委員会プレジデント、日本ロボット学会会長、人工知能学会理事などを歴任。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/B8nKX6Ju?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="山﨑 大介 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;山﨑 大介 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;筑波大学 情報学郡 情報科学類&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;小学生の頃にJavaに魅了され、現在はOpenJDKにも貢献。指輪型コンピュータ「Java
-              Ring」の解析と復活に取り組み、その活動は「探偵！ナイトスクープ」でも紹介された。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/6Z7dxrxU?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="太田 満久 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;生成AIを「なんとなく改善」するのをやめる&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;太田 満久 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;ユビー株式会社 Ubie Lab 所長／Google Developers Expert（AI／Cloud AI）
-            &lt;/p&gt;
-            &lt;p style="margin:0;"&gt;医療系スタートアップ・ユビーの研究開発組織「Ubie
-              Lab」所長。博士（物理）。ブレインパッドで最高データ技術責任者として研究開発をリードした後、ユビーで機械学習やデータ分析を担当。著書に『事例でわかるMLOps』（共著・講談社）など。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/bjm8oGyN?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="松田 実法 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;松田 実法 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developers Expert&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;TBA&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/a88h9tvh?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Aditya Joshi 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Give Your AI Agents a Sandbox: Running Untrusted Agent Code
-              Safely on Kubernetes&lt;/h3&gt;
-            &lt;p style="margin:0 0 14px 0;"&gt;AIエージェントが生成・実行する信頼できないコードを、Kubernetes上で安全に動かす方法を紹介します。Kubernetes
-              SIGプロジェクト「Agent
-              Sandbox」のCRD、gVisorによる分離、権限の削減、サービストークンの自動マウント無効化などを解説。ウォームプールから強化されたPythonサンドボックスを起動し、エージェントが生成したコードを実行・破棄するデモも行う予定です。
-            &lt;/p&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;Aditya Joshi 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Senior Software Engineer, Walmart／Google Developers Expert
-            &lt;/p&gt;
-            &lt;p style="margin:0;"&gt;AIワークロード向けのクラウドネイティブ基盤を専門とするプラットフォームエンジニア。Kubernetesと分散システムを専門とし、CNCF
-              KubestronautおよびGoogle Developer Expertとして活動。オープンソースへの貢献、カンファレンス登壇、技術記事や動画を通じた情報発信にも取り組んでいる。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/u3tglBlT?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="naga（Yukinaga Oishi）氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;naga（Yukinaga Oishi）氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;GDG Tokyo Organizer／株式会社MIXI 家族アルバム「みてね」エンジニア&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;TBA&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/5VhDJtRd?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="足立 昌彦 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;足立 昌彦 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社GENKEI CEO／Google Developers Expert（AI/ML）&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;人工知能やJava
-              VMの研究に従事。スマートフォン向け日本語入力アプリ「Simeji」を開発し、バイドゥ株式会社へ売却。その後、株式会社カブクを創業しM&amp;amp;Aを経験。製造業向けSaaSを開発・展開する株式会社GENKEIを創業し、CEOを務める。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/u5945MA8?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="saku 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Web 技術の話 (仮)&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/sakupi01" rel="nofollow"&gt;saku (@sakupi01)&lt;/a&gt; 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;サイボウズ デザインテクノロジスト／Google Developers Expert (Web)&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;ウェブの UI 周りの技術動向を追っています。Focusing on all things VISUAL on Web Platform! Design
-              Technologist @Cybozu.&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/iL1LHjuX?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Goldner Lucas 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Flutter の話 (仮)&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/LucasGoldner" rel="nofollow"&gt;Goldner Lucas
-                (@LucasGoldner)&lt;/a&gt; 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社YOUTRUST プロダクト開発部／Google Developers Expert (Flutter)&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;日本の Flutter と Dart の Google Developer Expert です。2024年4月にインターンとして株式会社 YOUTRUST
-              にジョインし、その後正社員になりました。様々なカンファレンス (Fluttercon, Flutter Connection, Flutter Kaigi) で登壇したり、記事を書いたり、Flutter
-              Tokyo Community のオーガナイザーとして活躍しています。言語が大好きで、5 つの言語を話し、日本語も勉強中です。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/NCYMjgXY?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="安藤 幸央 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIが賢くなるほど、UIは不親切であるべき―Cognitive Surrenderを防ぐ UXデザイン&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;安藤 幸央 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社エクサ UXデザイナー&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;三次元コンピュータグラフィックス、UXデザインを専門とする。Google
-              Earthの前身であるKeyholeの時代から、デジタルアース、デジタルマップに関わる。2015年よりGoogle認定デザインスプリントマスター。著書・訳書に『音声UX』『UX戦略』『シビックテックをはじめよう』など。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/8Pdw99do?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="蜂須賀 大貴 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIでコードは書けるのに、つくりたいものがつくれないあなたへ&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;蜂須賀 大貴 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Newbee株式会社 代表取締役／プロダクトマネージャー&lt;/p&gt;
-            &lt;p style="margin:0 0 10px 0;"&gt;
-              AIがコードを書いてくれるようになり、アイデアを形にするハードルは大きく下がりました。それでも、何をつくるべきか決められない、つくっても欲しかったものにならない、誰にも使ってもらえない——そんな壁にぶつかることがあります。バイブコーディングの次に必要な、「つくりたい」を形にし、届けるためのプロダクトマネジメントの考え方をお話しします。
-            &lt;/p&gt;
-            &lt;p style="margin:0;"&gt;
-              株式会社IMAGICAでエンジニアとしてキャリアを開始。フリーランスPMを経て株式会社サイカにて新規プロダクト戦略を牽引。PIVOT株式会社ではPM兼プロダクト組織の立ち上げを担う。2025年3月、Newbee株式会社を創業。現在、テクノロジーメディア「Newbee」の運営や映像受託制作、外部CPOとして支援する。2026年7月22日に『勝てるプロダクト開発の教科書』（翔泳社）を発売。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/LxsE0uUT?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Haren Bhandari 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;経験者向けAIハンズオン (仮)&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/HarenB16221" rel="nofollow"&gt;Haren Bhandari
-                (@HarenB16221)&lt;/a&gt; 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Developer Relations Engineer, Google Cloud Japan&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;シニア デベロッパー リレーションズ エンジニアのバンダリ・ハレン (Bhandari Haren) です。主にGoogle Cloud (GCP)
-              のAI関連サービスをご活用いただくためのハンズオンセッション、コードサンプル、ブログ記事などを開発者の皆様へお届けしています。&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-            &lt;p&gt;　&lt;/p&gt;
-            &lt;img src="https://img.gdgs.jp/NLOcjcTP?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="福島 ゆかり 氏" width="400"&gt;
-          &lt;/td&gt;
-          &lt;td style="border:none; padding:0;"&gt;
-            &lt;p style="color: #FFF;"&gt;
-              　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-            &lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;【ハンズオン】Antigravity &amp;amp; Geminiと作るAI手相×MBTI占いアプリ開発体験！&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;福島 ゆかり 氏&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社電通デジタル&lt;br&gt;AIX部門マネージャー 兼 Google Developer Expert [Cloud
-              AI/ML, Data Analytics]&lt;/p&gt;
-            &lt;p style="margin:0 0 10px 0;"&gt;もっとマーケティングに Google の AI とデータとクラウドを使ってワクワクする！を後押しします！ Google Cloud Partner Top
-              Engineer 2024 data engineer、Google Developer Expert Cloud AI/ML&amp;amp;Data Analytics 、ML女子部コミュニティ運営、jaguar
-              じゃがーる分科会運営、AI/ML 分科会運営、Google Cloud Next 23-25 登壇等多数&lt;/p&gt;
-            &lt;p style="margin:0;"&gt;Googleの次世代AI開発エージェント&lt;strong&gt;「Antigravity」と、マルチモーダルAI「Gemini
-                API」&lt;/strong&gt;を活用し、わずか1時間で「手相画像 × MBTI診断」を掛け合わせたオリジナルAI占いアプリをローカル環境に構築するハンズオン勉強会です！&lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;table border="0" style="border:none;"&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style="border:none; padding:16px;"&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ファッション×AIワークショップ〜Fashion Futures Lab AI と共創する未来のファッション〜&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 10px 0; border:none;"&gt;藤井先生&lt;/h4&gt;
-            &lt;p style="margin:0;"&gt;「ファッション×デジタル」をテーマに、AI 画像生成技術を活用しながら未来のファッションを考える参加型ワークショップです。単に AI
-              を用いてデザインを生成するのではなく、未来の社会やライフスタイル、価値観の変化を想定し、その社会に生きる人々に必要とされる衣服や服飾雑貨を企画・デザインします。参加者はグループごとに未来社会のテーマを与えられ、ターゲット設定や課題分析を行った上で、AI
-              を活用してビジュアルを制作し、最後にプレゼンテーションを行います。ファッション分野で行われる「リサーチ→ターゲット分析→コンセプト設計→デザイン」というプロセスと、デジタル分野で行われる「ユーザー分析→課題発見→企画→開発」というプロセスの共通点を体験的に学ぶことを目的とします。
-            &lt;/p&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;div style="border-top:2px solid #34A853; margin-top:16px; padding-top:16px;"&gt;
-      &lt;h3 style="margin:0 16px 8px 16px; border:none;"&gt;パネルディスカッション 〜ソフトウェアエンジニアリングについて〜&lt;/h3&gt;
-
-      &lt;table border="0" style="border:none;"&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-              &lt;p&gt;　&lt;/p&gt;
-              &lt;img src="https://img.gdgs.jp/3Cl1Raoc?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="石原 直樹 氏" width="400"&gt;
-            &lt;/td&gt;
-            &lt;td style="border:none; padding:0;"&gt;
-              &lt;p style="color:#FFF;"&gt;
-                　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-              &lt;/p&gt;
-              &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;石原 直樹 氏&lt;/h4&gt;
-              &lt;p style="margin:0; font-weight:bold;"&gt;GDG Greater Kwansai&lt;/p&gt;
-            &lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-
-      &lt;table border="0" style="border:none;"&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-              &lt;p&gt;　&lt;/p&gt;
-              &lt;img src="https://img.gdgs.jp/sN7Hutb8?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="及川 卓也 氏" width="400"&gt;
-            &lt;/td&gt;
-            &lt;td style="border:none; padding:0;"&gt;
-              &lt;p style="color:#FFF;"&gt;
-                　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-              &lt;/p&gt;
-              &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/takoratta" rel="nofollow"&gt;及川 卓也 (@takoratta)&lt;/a&gt; 氏&lt;/h4&gt;
-              &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Tably株式会社 代表取締役&lt;/p&gt;
-              &lt;p style="margin:0;"&gt;
-                外資系IT企業3社にて、ソフトウェアエンジニア、プロダクトマネージャー、エンジニアリングマネージャーとして勤務する。その後、スタートアップを経て、独立。2019年1月、テクノロジーにより企業や社会の変革を支援するTably株式会社を設立。著書『ソフトウェア・ファースト～あらゆるビジネスを一変させる最強戦略～』（日経BP）、『プロダクトマネジメントのすべて』（翔泳社）
-              &lt;/p&gt;
-            &lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-
-      &lt;table border="0" style="border:none;"&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td style="border:none; padding:0 18px 0 0;"&gt;
-              &lt;p&gt;　&lt;/p&gt;
-              &lt;img src="https://img.gdgs.jp/0p7ufe5t?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="川中 真耶 氏" width="400"&gt;
-            &lt;/td&gt;
-            &lt;td style="border:none; padding:0;"&gt;
-              &lt;p style="color:#FFF;"&gt;
-                　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-              &lt;/p&gt;
-              &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/mayahjp" rel="nofollow"&gt;川中 真耶 (@mayahjp)&lt;/a&gt; 氏&lt;/h4&gt;
-              &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;一般社団法人ソフトウェアエンジニアリング協会 代表理事／株式会社ナレッジワーク CTO&lt;/p&gt;
-              &lt;p style="margin:0;"&gt;
-                2006年に東京大学でコンピュータ科学修士課程を修了し、2011年からGoogleでChromeの開発をしていました。2020年に株式会社ナレッジワークを共同創業し、CTOを務めています。また一般社団法人ソフトウェアエンジニアリング協会を設立し、日本のソフトウェアエンジニアのレベルアップに向けた活動をしています。
-              &lt;/p&gt;
-            &lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/ueP38FwZ" alt="Findy株式会社" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Findy株式会社 様&lt;/h3&gt;
+                        &lt;p style="margin:0;"&gt;
+                            ファインディ株式会社は「挑戦するエンジニアのためのプラットフォームをつくる」ことを目指し、高度なスキルを持つエンジニアの能力を可視化し企業とマッチングするスカウト型採用サービス「Findy」や「Findy
+                            Freelance」などを展開しています。また、エンジニア組織の生産性を可視化・向上させるSaaS「Findy
+                            Team+」も提供しています。今後もテクノロジーとイノベーションを通じて価値あるサービスを創出し、企業とエンジニア双方の成長を支援してまいります。&lt;/p&gt;
+                        &lt;a href="https://findy.co.jp/" rel="nofollow"&gt;会社HP&lt;/a&gt; / &lt;a href="https://tech.findy.co.jp/" rel="nofollow"&gt;Tech Blog&lt;/a&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
 
-  
-  &lt;div style="margin-top:12px;
+    
+    &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+    border:2px solid #000000;"&gt;
+        &lt;h2 style="margin:0 0 10px 0;
+      color:#000000;
+      border:none;"&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-sticker-arrow-right-yellow" alt="" height="24"&gt;
+            プレイベント
+        &lt;/h2&gt;
+
+        &lt;p style="margin:0 0 12px 0;"&gt;
+            DevFest Kansai 2026に向けて、関西各地でMeetupを開催しています。ぜひご参加ください！
+        &lt;/p&gt;
+
+        &lt;p style="margin:0 0 8px 0; padding:8px;"&gt;
+            &lt;a href="https://gdgkwansai.connpass.com/event/403503/" rel="nofollow"&gt;&lt;strong&gt;AIどう使ってる？LT会 in 大阪〜疑問と経験を共有しよう〜〖DevFest
+                    Meetup
+                    #1〗&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+            2026年8月28日（金）19:00〜21:00｜アールスリーインスティテュート gusuku Ashibina&lt;br&gt;
+            開催済み
+        &lt;/p&gt;
+
+        &lt;p style="margin:0 0 8px 0; padding:8px;"&gt;
+            &lt;a href="https://gdgkwansai.connpass.com/event/405133/" rel="nofollow"&gt;&lt;strong&gt;開発の工夫を語るLT会 in 神戸！設計、実装、検証 etc.〖DevFest
+                    Meetup
+                    #2〗&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+            2026年9月15日（火）19:00〜21:00｜OPTiM KOBE（株式会社オプティム 神戸拠点）
+        &lt;/p&gt;
+
+        &lt;p style="margin:0; padding:8px;"&gt;
+            &lt;a href="https://gdgkwansai.connpass.com/event/404318/" rel="nofollow"&gt;&lt;strong&gt;Gemma 4 でローカルLLMハンズオン in 大阪〖DevFest Meetup
+                    #3〗&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+            2026年9月30日（水）19:00〜21:00｜LINEヤフー株式会社 大阪オフィス
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div style="background-color:#FFFFFF; border:2px solid #1E1E1E; color:#1E1E1E; margin:12px 0 16px 0;"&gt;
+        &lt;h2 style="font-size:22px; border:none; padding:16px 16px 0 16px;"&gt;
+            &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt; セッション
+        &lt;/h2&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/mH3yDEfI?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Sherry Xu 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Opening&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;Sherry Xu 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Developer Ecosystem Regional Lead Japan&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;Google 日本におけるデベロッパー・エコシステム代表。Googleとデベロッパーの架け橋として、国内のコミュニティ支援を統括。Google
+                            Developer
+                            Program, Google Developer Experts
+                            プログラム、およびスタートアップ・アクセラレーター・プログラムをリードしている。2018年にGoogleに入社。以前は国連ニューヨーク本部で勤務。ニューヨーク大学修士課程修了。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/EVwB6Cuk?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="全 炳河 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Keynote&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;全 炳河 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google DeepMind／プリンシパル サイエンティスト・東京拠点リード&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;2023年よりGoogle DeepMind プリンシパル サイエンティスト・東京拠点リード。99年 鈴鹿高専卒。06年 名古屋工業大学
+                            博士後期課程修了。工学博士。04年
+                            米国IBM TJワトソン研究所。08年 英国東芝ケンブリッジ研究所。11年 英国Google。18年 日本Google
+                            Brainを経て現職。音声情報処理・大規模言語モデルの研究開発に従事。日本音響学会
+                            (ASJ)・情報処理学会 (IPSJ)・電子情報通信学会 (IEICE)・言語処理学会 (NLP)・国際音声コミュニケーション学会
+                            (ISCA)より複数回受賞。2022年国際音声コミュニケーション学会
+                            (ISCA) フェロー・2025年 米国電気電子学会 (IEEE) フェロー。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/0ABeKzvg?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="村上 憲郎 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;開会挨拶&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;村上 憲郎 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;国際工科専門職大学（IPUT）学長&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            元Google米国本社副社長兼Google日本法人代表取締役社長。Googleに入社以来、退任まで日本におけるGoogle全業務の責任者を務める。教育にも注力し、京都大学大学院や大阪公立大学大学院、国際大学GLOCOMなどでも教鞭を執る。経済産業省産業構造審議会情報経済分科会委員などを歴任し、現在は総務省AIネットワーク社会推進会議委員。京都大学工学部卒。専門は人工知能。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/WdGkxjCR?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Llion Jones 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Keynote: I didn't need this attention&lt;/h3&gt;
+                        &lt;p style="margin:0 0 14px 0;"&gt;Stories about the paper, facts that you might not know and how
+                            it's strangely
+                            affected my life.&lt;/p&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;Llion Jones 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Co-Founder &amp;amp; CTO, Sakana AI&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;Llion Jones is a Welsh computer scientist and entrepreneur, best known as a
+                            co-author
+                            of the groundbreaking 2017 research paper “Attention Is All You Need,” which introduced the
+                            Transformer
+                            architecture that underpins many modern artificial intelligence systems. After spending over
+                            a decade at
+                            Google, where he worked on natural language processing, Llion co-founded Sakana AI in 2023.
+                            Based in
+                            Tokyo, he currently serves as the company’s Chief Technology Officer.&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/AtXLXNuP?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="竹内 郁雄 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ものづくりの本質&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;竹内 郁雄 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;東京大学名誉教授／未踏事業統括PM&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            東京大学理学部数学科卒業後、NTT研究所、電気通信大学、東京大学、早稲田大学などで活動。Lispマシンの開発、RoboCup、IT防災の研究などに携わる。「サイボウズ式」にて「ハッカーの遺言状」を49回連載。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/fvsMb039?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="石黒 浩 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIロボットと人間の進化&lt;/h3&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            本講演では、人間とAIロボット等のテクノロジーの基本的な関係を議論すると共に、その関係において、共に発展するAIロボットと人間の未来について展望を述べる。
+                        &lt;/p&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;石黒 浩 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;大阪大学大学院基礎工学研究科 教授（栄誉教授）&lt;br&gt;ATR石黒浩特別研究所
+                            客員所長（ATRフェロー）&lt;br&gt;AVITA株式会社 代表取締役&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            遠隔操作ロボット（アバター）や知能ロボットの研究開発に従事するロボット学者。人間酷似型ロボット（アンドロイド）研究の第一人者として、ムーンショット型研究開発制度のプロジェクトマネージャーや、大阪・関西万博EXPO
+                            2025テーマ事業プロデューサーなどを務める。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/v3tezY8z?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="落合 陽一 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;落合 陽一 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;メディアアーティスト, 筑波大学デジタルネイチャー開発研究センター長・教授, 東京大学准教授
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            1987年、東京都生まれ。メディアアーティスト。筑波大学デジタルネイチャー開発研究センター長・教授、東京大学准教授。一般社団法人xDiversity理事。内閣府ムーンショットアンバサダー。2025年大阪・関西万博ではシグネチャー事業プロデューサーを務めた。『魔法の世紀』『デジタルネイチャー』（以上、PLANETS）、『半歩先を読む思考法』（新潮社）、『忘れる読書』（PHP新書）など著書多数。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/RTbA8Lap?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="浅田 稔 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;認知発達ロボティクス&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;浅田 稔 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;大阪国際工科専門職大学 副学長・教授&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            大阪大学大学院基礎工学研究科物理系専攻博士後期課程修了。工学博士。認知発達ロボティクスの第一人者として、ロボティクスを軸とした人間と機械の調和に関する研究に取り組む。ロボカップ国際委員会プレジデント、日本ロボット学会会長、人工知能学会理事などを歴任。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/9uNx9GeK?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="今村 孝矢 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ゲーム界のレジェンドが語る AI との向き合い方&lt;/h3&gt;
+                        &lt;p style="margin:0 0 14px 0;"&gt;
+                            デジタルで絵を描くことが当たり前になり、生成AIの登場によって、誰もが気軽にイラストを生み出せる時代になりました。
+                            その一方で、個人的にはデジタル作品が持つ魅力や価値のあり方も、大きく変わってきたように感じています。
+                            だからこそ、これからの自分の創作活動は少しずつアナログへ。自分の手で描いた「原画」を実際に見ていただけるギャラリーを開き、画面越しでは伝わらない筆致や質感、一点物としての存在感を届けていく。
+                            それを今後の活動のひとつの軸にしていきたいと思っています。
+                        &lt;/p&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;今村 孝矢 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;大阪国際工科専門職大学 教授&lt;br&gt;ゲームクリエイター／イラストレーター／漫画家&lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            2021年に任天堂を退職後、フリーランスのゲームクリエイター、イラストレーター、漫画家として活動する傍ら、大阪国際工科専門職大学で教鞭を執る。
+                        &lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            任天堂在籍時には『F-ZERO』シリーズ、『スターフォックス』シリーズ、『ゼルダの伝説』シリーズなど数多くのタイトルに携わり、キャラクターデザインやアートディレクション、ディレクション、プロデュースなどを担当。
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            現在は教育活動と並行して、ゲーム、漫画、イラスト制作など幅広い創作活動を国内外で展開している。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/B8nKX6Ju?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="山﨑 大介 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;山﨑 大介 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;筑波大学 情報学郡 情報科学類&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;小学生の頃にJavaに魅了され、現在はOpenJDKにも貢献。指輪型コンピュータ「Java
+                            Ring」の解析と復活に取り組み、その活動は「探偵！ナイトスクープ」でも紹介された。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/6Z7dxrxU?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="太田 満久 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;生成AIを「なんとなく改善」するのをやめる&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;太田 満久 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;ユビー株式会社 Ubie Lab 所長／Google Developers
+                            Expert（AI／Cloud AI）
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;医療系スタートアップ・ユビーの研究開発組織「Ubie
+                            Lab」所長。博士（物理）。ブレインパッドで最高データ技術責任者として研究開発をリードした後、ユビーで機械学習やデータ分析を担当。著書に『事例でわかるMLOps』（共著・講談社）など。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/bjm8oGyN?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="松田 実法 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;TBA&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;松田 実法 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developers Expert&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;TBA&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/a88h9tvh?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Aditya Joshi 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Give Your AI Agents a Sandbox: Running Untrusted
+                            Agent Code
+                            Safely on Kubernetes&lt;/h3&gt;
+                        &lt;p style="margin:0 0 14px 0;"&gt;AIエージェントが生成・実行する信頼できないコードを、Kubernetes上で安全に動かす方法を紹介します。Kubernetes
+                            SIGプロジェクト「Agent
+                            Sandbox」のCRD、gVisorによる分離、権限の削減、サービストークンの自動マウント無効化などを解説。ウォームプールから強化されたPythonサンドボックスを起動し、エージェントが生成したコードを実行・破棄するデモも行う予定です。
+                        &lt;/p&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;Aditya Joshi 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Senior Software Engineer, Walmart／Google
+                            Developers Expert
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;AIワークロード向けのクラウドネイティブ基盤を専門とするプラットフォームエンジニア。Kubernetesと分散システムを専門とし、CNCF
+                            KubestronautおよびGoogle Developer Expertとして活動。オープンソースへの貢献、カンファレンス登壇、技術記事や動画を通じた情報発信にも取り組んでいる。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/u3tglBlT?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="naga（Yukinaga Oishi）氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;コードはエージェントに任せて、『プロダクトエンジニアリング』はチームで磨き続ける&lt;/h3&gt;
+                        &lt;p style="margin:0 0 14px 0;"&gt;コーディングをAIエージェントに任せる中で直面した課題と、より良いプロダクトを作り続ける試行錯誤を紹介します。&lt;/p&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;naga（Yukinaga Oishi）氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;GDG Tokyo Organizer／株式会社MIXI 家族アルバム「みてね」エンジニア
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;Mobile App Enginner。個人ではコーヒー事業を営み、自宅インフラとAIを活用した仕組みづくりにも取り組む。大学在学中に北陸初のGDGコミュニティ「GDGoC KIT」を立ち上げ、現在はGDG Tokyoのオーガナイザーとしても活動している。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/5VhDJtRd?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="足立 昌彦 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIエージェント駆動開発の話（仮）&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;足立 昌彦 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社GENKEI CEO／Google Developers Expert（AI/ML）
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;人工知能やJava
+                            VMの研究に従事。スマートフォン向け日本語入力アプリ「Simeji」を開発し、バイドゥ株式会社へ売却。その後、株式会社カブクを創業しM&amp;amp;Aを経験。製造業向けSaaSを開発・展開する株式会社GENKEIを創業し、CEOを務める。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/u5945MA8?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="saku 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Web UI 2026 Updates &amp;amp; What's Coming!&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/sakupi01" rel="nofollow"&gt;saku (@sakupi01)&lt;/a&gt;
+                            氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;サイボウズ デザインテクノロジスト／Google Developers Expert (Web)
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;ウェブの UI 周りの技術動向を追っています。Focusing on all things VISUAL on Web Platform!
+                            Design
+                            Technologist @Cybozu.&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/iL1LHjuX?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Goldner Lucas 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Flutterは3Dゲームを作れるのか？ Flutter Scene × AIで挑戦&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/LucasGoldner" rel="nofollow"&gt;Goldner Lucas
+                                (@LucasGoldner)&lt;/a&gt; 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社YOUTRUST プロダクト開発部／Google Developers Expert
+                            (Flutter)&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;日本の Flutter と Dart の Google Developer Expert です。2024年4月にインターンとして株式会社
+                            YOUTRUST
+                            にジョインし、その後正社員になりました。様々なカンファレンス (Fluttercon, Flutter Connection, Flutter Kaigi)
+                            で登壇したり、記事を書いたり、Flutter
+                            Tokyo Community のオーガナイザーとして活躍しています。言語が大好きで、5 つの言語を話し、日本語も勉強中です。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/NCYMjgXY?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="安藤 幸央 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIが賢くなるほど、UIは不親切であるべき―Cognitive Surrenderを防ぐ UXデザイン
+                        &lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;安藤 幸央 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社エクサ UXデザイナー&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;三次元コンピュータグラフィックス、UXデザインを専門とする。Google
+                            Earthの前身であるKeyholeの時代から、デジタルアース、デジタルマップに関わる。2015年よりGoogle認定デザインスプリントマスター。著書・訳書に『音声UX』『UX戦略』『シビックテックをはじめよう』など。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/8Pdw99do?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="蜂須賀 大貴 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;AIでコードは書けるのに、つくりたいものがつくれないあなたへ&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;蜂須賀 大貴 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Newbee株式会社 代表取締役／プロダクトマネージャー&lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            AIがコードを書いてくれるようになり、アイデアを形にするハードルは大きく下がりました。それでも、何をつくるべきか決められない、つくっても欲しかったものにならない、誰にも使ってもらえない——そんな壁にぶつかることがあります。バイブコーディングの次に必要な、「つくりたい」を形にし、届けるためのプロダクトマネジメントの考え方をお話しします。
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            株式会社IMAGICAでエンジニアとしてキャリアを開始。フリーランスPMを経て株式会社サイカにて新規プロダクト戦略を牽引。PIVOT株式会社ではPM兼プロダクト組織の立ち上げを担う。2025年3月、Newbee株式会社を創業。現在、テクノロジーメディア「Newbee」の運営や映像受託制作、外部CPOとして支援する。2026年7月22日に『勝てるプロダクト開発の教科書』（翔泳社）を発売。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/ugIyeKA9?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="村上 智之 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;オントロジーって結局なにもの？ — AIエージェントに"意味"を渡す知識設計の話
+                        &lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;村上 智之 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;データラーニングギルド代表&lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            生成AIやRAGの文脈で「オントロジー」という言葉を耳にする機会が増えてきました。一方で、「タクソノミーと何が違うのか」「DBのスキーマやナレッジグラフとは別物なのか」と聞かれると、説明に詰まる方も多いのではないでしょうか。
+                        &lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            本セッションでは、オントロジーを「モノ・関係・ルールを機械が扱える形で記述した、業務の地図」と捉え直し、よくある誤解を整理しながら基礎から解説します。そのうえで、LLMがどれだけ賢くなっても現場で答えられない質問が残る理由、そしてRAGが「文書を探す」のに対してオントロジーが「意味を辿る」ことで何が可能になるのかを、AIエージェント設計の観点からお話しします。
+                        &lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;
+                            後半では、オントロジーを組み込んだエージェントで実際に直面する課題と、それに対して私たちが現在取り組んでいる多層構造のオントロジー設計の構想をご紹介します。
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;
+                            株式会社データラーニング代表取締役。データサイエンス領域に12年以上従事し、2018年に同社を創業。経産省認定のデータサイエンティスト育成プログラムを運営し500名以上を育成、約1,200名のデータラーニングギルドを主宰。著書に『データ×AI人材キャリア大全』『働き方のデジタルシフト』。現在は生成AI向けデータ基盤とAIエージェントのためのオントロジー設計に取り組む。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/LxsE0uUT?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="Haren Bhandari 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;経験者向けAIハンズオン (仮)&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/HarenB16221" rel="nofollow"&gt;Haren Bhandari
+                                (@HarenB16221)&lt;/a&gt; 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Developer Relations Engineer, Google Cloud Japan
+                        &lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;シニア デベロッパー リレーションズ エンジニアのバンダリ・ハレン (Bhandari Haren) です。主にGoogle Cloud (GCP)
+                            のAI関連サービスをご活用いただくためのハンズオンセッション、コードサンプル、ブログ記事などを開発者の皆様へお届けしています。&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                        &lt;p&gt;　&lt;/p&gt;
+                        &lt;img src="https://img.gdgs.jp/NLOcjcTP?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="福島 ゆかり 氏" width="400"&gt;
+                    &lt;/td&gt;
+                    &lt;td style="border:none; padding:0;"&gt;
+                        &lt;p style="color: #FFF;"&gt;
+                            　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                        &lt;/p&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;【初心者向けハンズオン】Antigravity &amp;amp; Geminiと作るAI手相 ×
+                            MBTI占いアプリ開発体験！
+                        &lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;福島 ゆかり 氏&lt;/h4&gt;
+                        &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;株式会社電通デジタル&lt;br&gt;AIX部門マネージャー 兼 Google Developer
+                            Expert [Cloud
+                            AI/ML, Data Analytics]&lt;/p&gt;
+                        &lt;p style="margin:0 0 10px 0;"&gt;もっとマーケティングに Google の AI とデータとクラウドを使ってワクワクする！を後押しします！ Google Cloud
+                            Partner Top
+                            Engineer 2024 data engineer、Google Developer Expert Cloud AI/ML&amp;amp;Data Analytics
+                            、ML女子部コミュニティ運営、jaguar
+                            じゃがーる分科会運営、AI/ML 分科会運営、Google Cloud Next 23-25 登壇等多数&lt;/p&gt;
+                        &lt;p style="margin:0;"&gt;Googleの次世代AI開発エージェント&lt;strong&gt;「Antigravity」と、マルチモーダルAI「Gemini
+                                API」&lt;/strong&gt;を活用し、わずか1時間で「手相画像 × MBTI診断」を掛け合わせたオリジナルAI占いアプリをローカル環境に構築するハンズオン勉強会です！&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;table border="0" style="border:none;"&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td style="border:none; padding:16px;"&gt;
+                        &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ファッション×AIワークショップ〜Fashion Futures Lab AI
+                            と共創する未来のファッション〜&lt;/h3&gt;
+                        &lt;h4 style="margin:0 0 10px 0; border:none;"&gt;藤井先生&lt;/h4&gt;
+                        &lt;p style="margin:0;"&gt;「ファッション×デジタル」をテーマに、AI 画像生成技術を活用しながら未来のファッションを考える参加型ワークショップです。単に AI
+                            を用いてデザインを生成するのではなく、未来の社会やライフスタイル、価値観の変化を想定し、その社会に生きる人々に必要とされる衣服や服飾雑貨を企画・デザインします。参加者はグループごとに未来社会のテーマを与えられ、ターゲット設定や課題分析を行った上で、AI
+                            を活用してビジュアルを制作し、最後にプレゼンテーションを行います。ファッション分野で行われる「リサーチ→ターゲット分析→コンセプト設計→デザイン」というプロセスと、デジタル分野で行われる「ユーザー分析→課題発見→企画→開発」というプロセスの共通点を体験的に学ぶことを目的とします。
+                        &lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;div style="border-top:2px solid #34A853; margin-top:16px; padding-top:16px;"&gt;
+            &lt;h3 style="margin:0 16px 8px 16px; border:none;"&gt;パネルディスカッション 〜ソフトウェアエンジニアリングについて〜&lt;/h3&gt;
+
+            &lt;table border="0" style="border:none;"&gt;
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                            &lt;p&gt;　&lt;/p&gt;
+                            &lt;img src="https://img.gdgs.jp/3Cl1Raoc?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="石原 直樹 氏" width="400"&gt;
+                        &lt;/td&gt;
+                        &lt;td style="border:none; padding:0;"&gt;
+                            &lt;p style="color:#FFF;"&gt;
+                                　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                            &lt;/p&gt;
+                            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;石原 直樹 氏&lt;/h4&gt;
+                            &lt;p style="margin:0; font-weight:bold;"&gt;GDG Greater Kwansai&lt;/p&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/tbody&gt;
+            &lt;/table&gt;
+
+            &lt;table border="0" style="border:none;"&gt;
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                            &lt;p&gt;　&lt;/p&gt;
+                            &lt;img src="https://img.gdgs.jp/sN7Hutb8?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="及川 卓也 氏" width="400"&gt;
+                        &lt;/td&gt;
+                        &lt;td style="border:none; padding:0;"&gt;
+                            &lt;p style="color:#FFF;"&gt;
+                                　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                            &lt;/p&gt;
+                            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/takoratta" rel="nofollow"&gt;及川 卓也
+                                    (@takoratta)&lt;/a&gt; 氏&lt;/h4&gt;
+                            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Tably株式会社 代表取締役&lt;/p&gt;
+                            &lt;p style="margin:0;"&gt;
+                                外資系IT企業3社にて、ソフトウェアエンジニア、プロダクトマネージャー、エンジニアリングマネージャーとして勤務する。その後、スタートアップを経て、独立。2019年1月、テクノロジーにより企業や社会の変革を支援するTably株式会社を設立。著書『ソフトウェア・ファースト～あらゆるビジネスを一変させる最強戦略～』（日経BP）、『プロダクトマネジメントのすべて』（翔泳社）
+                            &lt;/p&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/tbody&gt;
+            &lt;/table&gt;
+
+            &lt;table border="0" style="border:none;"&gt;
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td style="border:none; padding:0 18px 0 0;"&gt;
+                            &lt;p&gt;　&lt;/p&gt;
+                            &lt;img src="https://img.gdgs.jp/0p7ufe5t?w=640&amp;amp;h=640&amp;amp;fit=cover&amp;amp;radius=640&amp;amp;q=60&amp;amp;f=avif" alt="川中 真耶 氏" width="400"&gt;
+                        &lt;/td&gt;
+                        &lt;td style="border:none; padding:0;"&gt;
+                            &lt;p style="color:#FFF;"&gt;
+                                　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+                            &lt;/p&gt;
+                            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;&lt;a href="https://x.com/mayahjp" rel="nofollow"&gt;川中 真耶
+                                    (@mayahjp)&lt;/a&gt; 氏&lt;/h4&gt;
+                            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;一般社団法人ソフトウェアエンジニアリング協会 代表理事／株式会社ナレッジワーク CTO
+                            &lt;/p&gt;
+                            &lt;p style="margin:0;"&gt;
+                                2006年に東京大学でコンピュータ科学修士課程を修了し、2011年からGoogleでChromeの開発をしていました。2020年に株式会社ナレッジワークを共同創業し、CTOを務めています。また一般社団法人ソフトウェアエンジニアリング協会を設立し、日本のソフトウェアエンジニアのレベルアップに向けた活動をしています。
+                            &lt;/p&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/tbody&gt;
+            &lt;/table&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;div style="margin-top:12px;
     padding:12px;
     background-color:#FFFFFF;
 
     border:2px solid #000000;"&gt;
-    &lt;div style="margin-bottom:12px;
+        &lt;div style="margin-bottom:12px;
       font-size:26px;
 
       font-weight:bold;"&gt;
-      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
-      &lt;img src="https://img.gdgs.jp/rVrdASin" alt="" height="24"&gt;
-      &lt;img src="https://img.gdgs.jp/yySuJYyi" alt="" height="24"&gt;
-      &lt;img src="https://img.gdgs.jp/lYdeZzlY" alt="" height="24"&gt;
+            &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
+            &lt;img src="https://img.gdgs.jp/rVrdASin" alt="" height="24"&gt;
+            &lt;img src="https://img.gdgs.jp/yySuJYyi" alt="" height="24"&gt;
+            &lt;img src="https://img.gdgs.jp/lYdeZzlY" alt="" height="24"&gt;
 
-      &lt;h2 style="color:#000000;
+            &lt;h2 style="color:#000000;
         font-size:26px;
         border:none;
         margin:8px 0 0 0;"&gt;
-        DevFestとは
-      &lt;/h2&gt;
+                DevFestとは
+            &lt;/h2&gt;
+        &lt;/div&gt;
+
+        &lt;p&gt;
+            DevFestは、世界各地のGoogle Developer Groups（GDG）が、それぞれの地域で開催するコミュニティ主導のテクノロジーカンファレンスです。
+        &lt;/p&gt;
+
+        &lt;p&gt;
+            Googleのテクノロジーや業界の動向を学べるセッション、実際に手を動かすワークショップ、参加者同士のネットワーキングなどを通じて、技術とコミュニティに出会える場をつくります。
+        &lt;/p&gt;
+
+        &lt;p style="margin-bottom:0;"&gt;
+            開発者だけでなく、プロダクトマネージャー、デザイナー、学生、AIを使ってアプリケーション開発や課題解決に取り組みたい方など、さまざまな方が参加できます。
+        &lt;/p&gt;
     &lt;/div&gt;
-
-    &lt;p style=""&gt;
-      DevFestは、世界各地のGoogle Developer Groups（GDG）が、それぞれの地域で開催するコミュニティ主導のテクノロジーカンファレンスです。
-    &lt;/p&gt;
-
-    &lt;p style=""&gt;
-      Googleのテクノロジーや業界の動向を学べるセッション、実際に手を動かすワークショップ、参加者同士のネットワーキングなどを通じて、技術とコミュニティに出会える場をつくります。
-    &lt;/p&gt;
-
-    &lt;p style="margin-bottom:0;"&gt;
-      開発者だけでなく、プロダクトマネージャー、デザイナー、学生、AIを使ってアプリケーション開発や課題解決に取り組みたい方など、さまざまな方が参加できます。
-    &lt;/p&gt;
-  &lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -8309,7 +7695,7 @@ Greek Alphabet Software Academy は、シリコンバレー流のソフトウェ
 &lt;h2&gt;🚀 最後に&lt;/h2&gt;
 &lt;p&gt;技術を深めたい方も、新しい分野の視点に触れたい方も、これからAIを使って何かをつくりたい方も歓迎します。&lt;/p&gt;
 &lt;p&gt;それぞれの専門や関心を持ち寄り、AIと人がともにつくる未来を、DevFest 2026 in Kansaiで一緒に考えてみませんか。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;皆さまのご参加をお待ちしています！🙌&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/388434/</guid><enclosure url="https://media.connpass.com/thumbs/80/fd/80fdcca4ab4b56e5a1847a8fc13cc08b.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 17:49:21 +0900</pubDate></item><item><title>AI Agent Journey 2026 第3回｜AIエージェント公開前の法務チェック</title><link>https://datascience-mokumoku-kyobashi.connpass.com/event/405576/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月19日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月19日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学 北浜キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0041 大阪府大阪市中央区北浜１丁目８−１６&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～『生成AIの法的リスクと対策』を読み解き、みんなで考える～&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI Agent Journey 2026 第3回｜AIエージェント公開前の法務チェック&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;皆さまのご参加をお待ちしています！🙌&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://gdgkwansai.connpass.com/event/388434/</guid><enclosure url="https://media.connpass.com/thumbs/80/fd/80fdcca4ab4b56e5a1847a8fc13cc08b.png" length="0" type="image/png"/><pubDate>Sun, 13 Sep 2026 01:07:23 +0900</pubDate></item><item><title>AI Agent Journey 2026 第3回｜AIエージェント公開前の法務チェック</title><link>https://datascience-mokumoku-kyobashi.connpass.com/event/405576/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月19日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月19日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 大阪経済大学 北浜キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒541-0041 大阪府大阪市中央区北浜１丁目８−１６&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～『生成AIの法的リスクと対策』を読み解き、みんなで考える～&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AI Agent Journey 2026 第3回｜AIエージェント公開前の法務チェック&lt;/h1&gt;
 &lt;h2&gt;～『生成AIの法的リスクと対策』を読み解き、みんなで考える～&lt;/h2&gt;
 &lt;p&gt;⚖️ &lt;strong&gt;実践勉強会・初心者歓迎｜法律の専門知識がなくても参加できます！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AIエージェントを作る人が増えてきました。&lt;/p&gt;

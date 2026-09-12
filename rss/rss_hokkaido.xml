@@ -1,69 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 11 Sep 2026 18:00:19 +0000</lastBuildDate><item><title>[北海道][函館] JAWS-UG函館 勉強会 vol.18</title><link>https://jawsug-hakodate.connpass.com/event/402287/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:15&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 紀の國建設みらい函館市中央図書館　中研修室&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道函館市五稜郭町２６−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_hakodate&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;『そろそろ経験しておこうAI駆動開発ライフサイクル』 ～ AI-DLC入門 ～&lt;/p&gt;&lt;div&gt;&lt;p&gt;JAWS-UG函館 勉強会 vol.18 を開催します！&lt;br&gt;
-AWSに興味がある方、AWSを触ったことがある方も無い方もお気軽にご参加ください。  &lt;/p&gt;
-&lt;p&gt;初めてJAWS-UGの勉強会に参加される方は下記リンクの『参加する方法/ルールとマナー』をご一読ください。&lt;br&gt;
-&lt;a href="https://jaws-ug.jp/for-participant/" rel="nofollow"&gt;https://jaws-ug.jp/for-participant/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;今回の勉強会は個人PCを用いてのハンズオン形式になります。&lt;br&gt;
-&lt;strong&gt;必ずPCを持参&lt;/strong&gt;して参加をお願いします。  &lt;/p&gt;
-&lt;h3&gt;&amp;lt;事前準備&amp;gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;下記のいずれかのコーディングエージェントのインストールをして参加をお願いします。&lt;ul&gt;
-&lt;li&gt;推奨：&lt;a href="https://kiro.dev/downloads/" rel="nofollow"&gt;Kiro&lt;/a&gt; (無料プランでOK) ※ 要BuilderID&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://code.claude.com/docs/ja/quickstart" rel="nofollow"&gt;Claude Code&lt;/a&gt; &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Kiroを選択された方には、当日Kiroのクレジット(1,000クレジット/72日間有効)を配布します！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;タイムテーブル&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;セッション内容 &lt;img width="250px"&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;13:00 ～&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;13:15 ～ 13:35&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;strong&gt;『AWS/JAWS-UG プログラム最新情報』(20分)&lt;/strong&gt; &lt;br&gt;&lt;br&gt;アマゾン ウェブ サービス ジャパン合同会社 / 沼口 繁&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;13:35 ～ 13:45&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;休憩(10分)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;13:45 ～ 16:15&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;strong&gt;『AI-DLCハンズオン』(150分) ※適宜休憩を挟みます&lt;/strong&gt; &lt;br&gt;&lt;br&gt;アマゾン ウェブ サービス ジャパン合同会社 / 深津 颯騎&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:00 ～&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;懇親会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h3&gt;講師紹介&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;アマゾン ウェブ サービス ジャパン合同会社&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;デベロッパーリレーションズ&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;シニアコミュニティマネージャー&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;沼口 繁&lt;/strong&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;img src="https://s3.ap-northeast-1.amazonaws.com/north-code.jp/images/jawsug/vol18/s-numaguchi.jpg" width="300"&gt;&lt;/p&gt;
-&lt;p&gt;北海道函館市出身。&lt;br&gt;
-1989年 弘前大学卒業後、日本アイ・ビー・エム、日本マイクロソフト、&lt;br&gt;
-ITトレーニング・コンサル会社を経て、2017年より現職。&lt;br&gt;
-愛猫のカイくん、くるみちゃんと戯れ、サウナが好き。&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;アマゾン ウェブ サービス ジャパン合同会社&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;Developer Specialist Solution Architect&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;深津 颯騎&lt;/strong&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;img src="https://s3.ap-northeast-1.amazonaws.com/north-code.jp/images/jawsug/vol18/s-fkazu.JPG" width="300"&gt;&lt;/p&gt;
-&lt;p&gt;通信系企業で Private Cloudや Blockchain の研究開発や新規事業の立ち上げに従事したのち、アマゾン ウェブ サービス ジャパン合同会社に入社。&lt;br&gt;
-プロトタイピングエンジニアとしてお客様の技術的なブロッカーの解決の支援を実施したあと、現在はDeveloper SpecialistとしてAI 駆動開発ライフサイクル (AI-DLC) の実践と普及に取り組んでいる。&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-hakodate.connpass.com/event/402287/</guid><enclosure url="https://media.connpass.com/thumbs/5c/f8/5cf8e477dd9034c759dcab7c55f18cf5.png" length="0" type="image/png"/><pubDate>Mon, 31 Aug 2026 10:46:37 +0900</pubDate></item><item><title>FuraIT. fuel #85ハイブリッドもくもく会。やっぱり金曜日がいいよね！</title><link>https://furait.connpass.com/event/406356/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FuraIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;じっくりゆっくりもくもくしよう♫&lt;/p&gt;&lt;div&gt;&lt;p&gt;85回目❗&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 12 Sep 2026 17:31:58 +0000</lastBuildDate><item><title>FuraIT. fuel #85ハイブリッドもくもく会。やっぱり金曜日がいいよね！</title><link>https://furait.connpass.com/event/406356/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FuraIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;じっくりゆっくりもくもくしよう♫&lt;/p&gt;&lt;div&gt;&lt;p&gt;85回目❗&lt;/p&gt;
 &lt;h1&gt;&lt;strong&gt;FuraIT.fuel 爆誕そして継続&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;「fuel = 燃料」  &lt;br&gt;
 自分と技術と真摯に向き合って給油する機会を強制的に作ることができます．&lt;br&gt;
@@ -1210,7 +1146,7 @@ Microsoftが提供する無料のラーニングサイト"&lt;a href="https://do
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;11:05 - 11:40&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;h5&gt;WorkShop Cloudの章&lt;/h5&gt;Google Cloud導入部レクチャー&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;h5&gt;WorkShop Cloudの章&lt;/h5&gt;Google Cloud Quick Start&lt;/td&gt;
 &lt;td&gt;GDE sinmetalさん、GDEメンバー&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1247,10 +1183,10 @@ Microsoftが提供する無料のラーニングサイト"&lt;a href="https://do
 &lt;/table&gt;
 &lt;p&gt;&lt;span style="color: red;"&gt;※時間、内容は変更になる場合があります。&lt;/span&gt;&lt;/p&gt;
 &lt;h1&gt;🔉 &lt;strong&gt;セッション概要&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2&gt;只今、記載内容調整中です。&lt;/h2&gt;
-&lt;h6&gt;セッションの詳細が決まり次第お知らせいたします。&lt;/h6&gt;
-
-
+&lt;h6&gt;セッション詳細は随時更新いたします。&lt;/h6&gt;
+&lt;h2&gt;Opening remarks&lt;/h2&gt;
+&lt;p&gt;日本のデベロッパーシーンを牽引する キーパーソン が、&lt;br&gt;
+札幌の地でオープニングを飾ります！&lt;/p&gt;
 &lt;h3&gt;登壇者: Sherry Xu さん&lt;/h3&gt;
 &lt;p&gt;LinkedIn：(&lt;a href="https://www.linkedin.com/in/sherry-x-g/" rel="nofollow"&gt;https://www.linkedin.com/in/sherry-x-g/&lt;/a&gt;)&lt;/p&gt;
 &lt;ul&gt;
@@ -1262,6 +1198,10 @@ Developer Ecosystem Regional Lead - Japan&lt;/li&gt;
 &lt;p&gt;シュー・シェリー は、Google Japanのデベロッパー・エコシステム（DevRel）の責任者を務めています。彼女はGoogleとデベロッパーをつなぐ架け橋であり、AIやGemini、Cloud、Android、Webなど、Googleのあらゆるオープンソース技術を活用して、日本のデベロッパーやスタートアップの成功を支援することをミッションとしています。彼女は、公式デベロッパーコミュニティ（Google Developer Groups）の運営、専門家（Google Developer Experts）との連携、およびスタートアップ向けアクセラレータープログラム（Google for Startups Accelerators）をリードしています。
 シェリーは2018年にGoogleに入社しました。それ以前は、国連のニューヨーク本部で勤務していました。ニューヨーク大学で修士号を取得しており、英語（Hi!）、中国語（你好!）、日本語（こんにちは!）の3ヶ国語を話します。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;講演セッション #1&lt;/h2&gt;
+&lt;h5&gt;オフラインで動く自分専用AI！Gemma 4で作るローカル・エージェント実践ガイド&lt;/h5&gt;
+
+&lt;p&gt;「クラウドに依存しない、自分だけのAI環境を作りたい」そんな願いを叶える実践セッションです。&lt;br&gt;オープンモデル「Gemma 4」を活用し、完全オフラインかつプライバシーが守られた環境で動作するローカルAIエージェントの構築手順を徹底解説。日々のワークフローを劇的に効率化する活用事例とともに、あなたのデバイスを強力なAIの相棒へと進化させるノウハウをお届けします。&lt;/p&gt;
 &lt;h3&gt;登壇者: Juyeong Ji さん&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;AI Developer Experience&lt;/li&gt;
@@ -1270,6 +1210,15 @@ Developer Ecosystem Regional Lead - Japan&lt;/li&gt;
 &lt;blockquote&gt;
 &lt;p&gt;元ソニーのプレイステーション システムソフトウェア エンジニア、および Google (Stadia) のテクニカル ソリューション コンサルタントを経て、現在は Google DeepMindの DevX チームにて AI 技術の普及と発展に取り組んでいます。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;講演セッション #2&lt;/h2&gt;
+&lt;h5&gt;Agentic Codingと未来&lt;/h5&gt;
+
+&lt;p&gt;AI時代における「開発・役割・学びの変革」～知見を深めるセッションです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ソフトウェア開発手法の根本的変化&lt;/li&gt;
+&lt;li&gt;エンジニア役割の激変&lt;/li&gt;
+&lt;li&gt;学ぶべき対象の変容&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;登壇者: 田中 洋一郎 さん&lt;/h3&gt;
 &lt;p&gt;X：&lt;a href="https://x.com/yoichiro" rel="nofollow"&gt;@yoichiro&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1281,6 +1230,10 @@ Google Developers Expert (Web Technology)&lt;/li&gt;
 &lt;p&gt;業務アプリ向けの開発ツールやフレームワークの設計に携わった後、mixi Platform、LINE Platformの技術統括を行い、日本でのソーシャルアプリケーションの技術的な基礎を確立しただけでなく、メッセージングアプリにおいても世界に先駆けてBOT Platformの立ち上げを主導した。現在はAIを駆使したサービスの開発を行っている。
 Google Developers Expert (Web Technology担当）。電子情報通信学会 東北支部学生員奨励賞受賞。Mash up Award 3rd 3部門同時受賞。モバイルプロジェクト・アワード2010 モバイルプラットフォーム部門優秀賞受賞。著書『ソーシャルアプリプラットフォーム構築技法』『エンジニアチームの生産性の高め方』など。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;WorkShop Cloudの章&lt;/h2&gt;
+&lt;h5&gt;Google Cloud Quick Start&lt;/h5&gt;
+
+&lt;p&gt;Google Cloudを始めるにあたって、まず最低限必要な知識をお話します。&lt;/p&gt;
 &lt;h3&gt;登壇者: sinmetalさん&lt;/h3&gt;
 &lt;p&gt;X：&lt;a href="https://x.com/sinmetal" rel="nofollow"&gt;@sinmetal&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1291,6 +1244,10 @@ GCPUG Admin,Google Developers Expert &lt;/li&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2011年にGoogle App Engineに出会ってから、Google App Engineを使い続けていたが、最近はCloud Runを使っている。Google Cloudで特に好きなのはGoogle App Engine, Cloud Run, BigQuery, Cloud Datastore, Cloud Firestore, Google Kubernetes Engine, Google Cloud Build。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;WorkShop Antigravity2.0の章&lt;/h2&gt;
+&lt;h5&gt;アプリ作成 &amp;amp; ビルド&lt;/h5&gt;
+
+&lt;p&gt;Antigravityを使って実際にアプリを作成！&lt;/p&gt;
 &lt;h3&gt;登壇者: あんざい ゆき（yanzm）さん&lt;/h3&gt;
 &lt;p&gt;X：&lt;a href="https://x.com/yanzm" rel="nofollow"&gt;@yanzm&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1300,6 +1257,15 @@ GCPUG Admin,Google Developers Expert &lt;/li&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Android の GDE です。Kotlin 大好き。最近は AI に個人開発アプリの実装を手伝ってもらったり、自分用の便利ツールを作ってもらったりしてます。めっちゃ楽しいです。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h2&gt;WorkShop アッセンブルの章&lt;/h2&gt;
+&lt;h5&gt;Cloud Run + Cloud制御&lt;/h5&gt;
+
+&lt;p&gt;デプロイ体験「作って終わり」から一歩先へ！&lt;/p&gt;
+&lt;p&gt;Google Developer Expert メンバーによるレクチャー&lt;/p&gt;
+&lt;h2&gt;ランチセッション&lt;/h2&gt;
+&lt;h5&gt;Gemini Sparkを語る&lt;/h5&gt;
+
+&lt;p&gt;Gemini Sparkをテーマにしたランチセッションです。&lt;/p&gt;
 &lt;h3&gt;主催者：ひばまさ (樋原 啓一)&lt;/h3&gt;
 &lt;p&gt;X：&lt;a href="https://x.com/hiba_eternal" rel="nofollow"&gt;@hiba_eternal&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・GDG Sapporo オーガナイザー&lt;/p&gt;
@@ -1353,7 +1319,7 @@ Android、GCP など、Googleのテクノロジー全般について、四国4�
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit?usp=sharing" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit?usp=sharing" rel="nofollow"&gt;English&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-apk.connpass.com/event/402624/</guid><enclosure url="https://media.connpass.com/thumbs/e0/cf/e0cf3d8396febab5c64dbbeaeb0e362b.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 11:17:17 +0900</pubDate></item><item><title>なんでもCopilot 出張回 #2「なんでもCopilot in 札幌」</title><link>https://nandemo.connpass.com/event/400400/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道大学 情報基盤センター南館2階&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北11条西5丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #なんでもCopilot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;北海道上陸！なんコパ民よ、大志を抱け！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;「なんでもCopilot」について&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-apk.connpass.com/event/402624/</guid><enclosure url="https://media.connpass.com/thumbs/e0/cf/e0cf3d8396febab5c64dbbeaeb0e362b.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 21:46:02 +0900</pubDate></item><item><title>なんでもCopilot 出張回 #2「なんでもCopilot in 札幌」</title><link>https://nandemo.connpass.com/event/400400/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道大学 情報基盤センター南館2階&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北11条西5丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #なんでもCopilot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;北海道上陸！なんコパ民よ、大志を抱け！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;「なんでもCopilot」について&lt;/h1&gt;
 &lt;p&gt;「なんでもCopilot」とは、あらゆるマイクロソフト社製品に搭載されているCopilotについて学び合うコミュニティです。
 業務やプライベートでもいつでも頼れる存在となりつつあるCopilotについて理解を深め、みんながCopilotを使いこなすことを目指します。&lt;/p&gt;
 &lt;p&gt;Copilotを使って業務効率化したい方、生成AIに興味がある方、Copilotをこれから勉強したい方等ぜひご参加ください。&lt;/p&gt;
@@ -1628,7 +1594,24 @@ Backlogを活用した効果的な仕事の進め方や、チームのコミュ�
 株式会社ヌーラボは、福岡に本社をおく、コラボレーションツール「&lt;a href="https://backlog.com/ja/" rel="nofollow"&gt;Backlog&lt;/a&gt;」「&lt;a href="https://cacoo.com/ja/home" rel="nofollow"&gt;Cacoo&lt;/a&gt;」「&lt;a href="https://nulab.com/ja/nulabpass" rel="nofollow"&gt;Nulab Pass&lt;/a&gt;」を提供する会社です。現在は、国内3拠点（福岡・京都・東京）に加え、ニューヨーク、アムステルダムに海外拠点を持ち、グローバルに展開しています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jbug.connpass.com/event/405085/</guid><enclosure url="https://media.connpass.com/thumbs/fe/8e/fe8e45c61eea3dff53658937bc8c1437.png" length="0" type="image/png"/><pubDate>Thu, 03 Sep 2026 18:50:29 +0900</pubDate></item><item><title>カーネルランド Rust 勉強会 #5</title><link>https://rust-in-kland.connpass.com/event/406523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月8日(木) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月8日(木) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: アットマークテクノ社会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市北区北12条西4丁目1-6 松﨑北12条ビル&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;月イチのペースで開催している勉強会です。これまでは、社内のメンバー数人と、社外の知り合い数人とでクローズドな感じでやりましたが、他にも参加してくれる人がいたら面白いかも、と思い、一般参加を募集してみることにしました。
 これまでの開催で、主催の shkoga が使ったスライドは、Speaker Deck で公開しています：
   &lt;a href="https://speakerdeck.com/shkoga" rel="nofollow"&gt;https://speakerdeck.com/shkoga&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Rust を使うことに興味があって、Rust の利用分野としてデバイスドライバの実装や、ベアメタルや RTOS でのアプリケーション開発にも興味がある人が主な対象です。「性質の良いソフトウェアを作るには、どうアプローチするのが良いか」という議論や、「こんなの面白くない？」という紹介や自慢をできる交流の場が欲しくて始めた勉強会です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://rust-in-kland.connpass.com/event/406523/</guid><pubDate>Fri, 11 Sep 2026 16:47:35 +0900</pubDate></item><item><title>北海道デジタル経営カンファレンス2026 in 十勝</title><link>https://itc-hokkaidou.connpass.com/event/405690/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月9日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月9日(金) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: とかちプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 帯広市西4条南13丁目1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #デジタル経営カンファレンス&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～ AI時代に考える十勝地域のDXへの取り組み ～&lt;/p&gt;&lt;div&gt;&lt;h2&gt;北海道デジタル経営カンファレンス2026 in 十勝 &lt;br&gt; ～ AI時代に考える十勝地域のDXへの取り組み ～&lt;/h2&gt;
+&lt;p&gt;Rust を使うことに興味があって、Rust の利用分野としてデバイスドライバの実装や、ベアメタルや RTOS でのアプリケーション開発にも興味がある人が主な対象です。「性質の良いソフトウェアを作るには、どうアプローチするのが良いか」という議論や、「こんなの面白くない？」という紹介や自慢をできる交流の場が欲しくて始めた勉強会です。&lt;/p&gt;
+&lt;h1&gt;発表者・発表内容&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;発表者&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;タイトル&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://connpass.com/user/shkoga/" rel="nofollow"&gt;shkoga&lt;/a&gt; &lt;br&gt; &lt;img src="https://media.connpass.com/thumbs/ba/1c/ba1c943ff99a7b5318f6945bf4b4d044.png" width="20"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;（未定）&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Rust のライフタイムと borrow checker が、組込み開発分野で&lt;br&gt;どう役立つかについて考えてみます。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://rust-in-kland.connpass.com/event/406523/</guid><pubDate>Sat, 12 Sep 2026 05:51:33 +0900</pubDate></item><item><title>北海道デジタル経営カンファレンス2026 in 十勝</title><link>https://itc-hokkaidou.connpass.com/event/405690/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月9日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月9日(金) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: とかちプラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 帯広市西4条南13丁目1番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #デジタル経営カンファレンス&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～ AI時代に考える十勝地域のDXへの取り組み ～&lt;/p&gt;&lt;div&gt;&lt;h2&gt;北海道デジタル経営カンファレンス2026 in 十勝 &lt;br&gt; ～ AI時代に考える十勝地域のDXへの取り組み ～&lt;/h2&gt;
 &lt;p&gt;今年度は、十勝（帯広）にて、北海道デジタル経営カンファレンスを開催する運びとなりました。&lt;br&gt;
 十勝エリアでは、現在、国に対して「十勝AI農業特区」の提案をしており、農業を中心としたAI活用に向けて官民一体となって前向きに取り組んでいます。このタイミングで、十勝地域の企業、自治体、関係機関等に対して先進的な事例を紹介することにより、AI活用とそこから生み出されるDXの効果や重要性を広く周知するために本カンファレンスを開催いたします。&lt;/p&gt;
 &lt;h5&gt;【日時】2026年10月9日（金）　13:30～17:30（受付開始13:00）&lt;/h5&gt;

@@ -1,619 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 11 Sep 2026 18:00:41 +0000</lastBuildDate><item><title>ふしぎな石ころ後継機で体験アプリをつくるハッカソン</title><link>https://tsu-x.connpass.com/event/397048/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 村田製作所 みなとみらいイノベーションセンター 18階&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市西区みなとみらい４丁目３−８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ふしぎな石ころ後継機&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;世界初！ふしぎな石ころ後継機を触れるチャンス！&lt;/p&gt;&lt;div&gt;&lt;p&gt;ハッカソンの説明は最後までお読みくださいますようお願いいたします。&lt;/p&gt;
-&lt;h2&gt;触覚の未来を、あなたの手で&lt;br&gt; 「ふしぎな石ころ」後継機 を活用したアプリ開発ハッカソン&lt;/h2&gt;
-&lt;p&gt;万博で大きな反響を呼んだ「ふしぎな石ころ echorb」&lt;br&gt;
-その後継機を使い、次世代の触覚表現に挑むアプリ開発のハッカソンを開催します。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;「ふしぎな石ころ」後継機に搭載された、前後左右に動くデュアル振動アクチュエータは、モノに触覚や運動を与える未来の技術です。&lt;br&gt;
-通常の振動デバイスと違い、前後左右への動きとデュアル振動によって表現の幅が広く、「力」や「動き」を繊細にコントロールできるのが特徴です。&lt;br&gt;
-人間の"感覚"に直接働きかけられるため、ゲームのコントローラーや福祉機器をはじめ、あらゆる分野での応用が期待されています。&lt;br&gt;
-本ハッカソンでは、「ふしぎな石ころ」後継機を実際に手に取り、「何ができるのか」「どんな使い方ができるのか」を自由な発想で探ります。決められた正解はありません。あなたのアイデアで、この石ころが秘めた可能性を広げてください。&lt;br&gt;
-技術者、デザイナー、クリエイター、福祉・医療関係者――触覚という新しい表現領域に興味のあるすべての方をお待ちしています。&lt;/p&gt;
-&lt;h4&gt;事例紹介&lt;/h4&gt;
-&lt;p&gt;審査員の藤原氏による作例です。&lt;br&gt;
-&lt;a href="https://youtu.be/xyzqPaA8ej0" rel="nofollow"&gt;ハプティクスで「見えない誰かの手」を再現し、こっくりさんをAI化した作品。&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;開催概要&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;開催日時&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;9/12(土) 11:00～16:30&lt;/li&gt;
-&lt;li&gt;9/23(水・祝日) 11:00～19:00&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;村田製作所 みなとみらいイノベーションセンター 18階&lt;br&gt;
-１階のMulabo！入り口（新高島駅寄り）から入門しエレベータで５階受付にお上がりください&lt;br&gt;
-(10時30分より受付開始)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;参加人数&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20名&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;参加について&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;イベント初日（9月12日）に3〜5名のチーム（最大7チームを想定）を編成します。&lt;/li&gt;
-&lt;li&gt;チーム人数に満たない場合は、当日チームビルディングを行います。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;景品&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: center;"&gt;賞&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;景品&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;景品明細&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;最優秀賞×１チーム&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;アマゾンギフト券&lt;br&gt;ふじぎな石ころ後継機（時期は調整）&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;5万円分&lt;br&gt;人数分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;優秀賞×2チーム&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;ふしぎな石ころ（キーホルダー）&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;人数分&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;注意事項&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;チーム参加の場合でも、&lt;strong&gt;各メンバーが個別にイベント申し込みを行ってください。&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;9月12日および9月23日の両日とも参加必須&lt;/strong&gt;となります。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;イベント当日の開催判断について&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;イベント当日、荒天や天変地異その他、運営困難と判断された場合は予告なく開催を中止する可能性があります。&lt;br&gt;
-開催の中止に関しては本connpassページで前日の19時までに案内いたします。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Day1 (9月12日)&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;スケジュール&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;10:30～11:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;11:00～11:20&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;イベント趣旨説明 / ミライセンス武藤より挨拶&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;11:20-～11:40&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;動作技術レクチャー&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;11:40～13:30&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;アイデアソン＆チームビルディング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;～16:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;ランチ＆ハッカソン時間 *1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:00～16:30&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;Day1クロージング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Day2 (9月23日)&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;スケジュール&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;10:30～&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;11:00～11:10&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;オープニング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;10:30～14:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;ハッカソン *1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;14:00～14:10&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;審査員＆武藤社長紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;14:10～15:30&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;発表＆質疑応答&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;15:30～16:20&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;タッチ＆トライ＆アンケート記入&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:20～16:50&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;授賞式、総評&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:50～17:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;懇親会場移動&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;17:00～19:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;懇親会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;*1&lt;/strong&gt; ランチご提供予定&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;ハッカソン審査員&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;中山 誠基（なかやま せいき）&lt;br&gt;
-株式会社バスキュール&lt;br&gt;テクニカルプロデューサー&lt;/strong&gt;&lt;br&gt;
-&lt;img src="https://i.imgur.com/btK67Tr.jpeg" width="150" alt="中山純基審査員 写真"&gt;&lt;/p&gt;
-&lt;p&gt;ロサンゼルス生まれ、香港育ち。慶應義塾大学でメディアアートを学ぶ。&lt;br&gt;
-TSUTAYAの旗艦店立ち上げや、地域NPO「田舎時間」を設立。2008年からバスキュールに参加。&lt;br&gt;
-デジタルとフィジカル。テクノロジーと身体性。その融合をテーマに、数々の体験型プロジェクトを手がける。&lt;br&gt;
-代表作に、ドバイ万博日本館（音声AR）、大阪・関西万博「Better Co-Being」（ふしぎな石ころ〜echorb〜）、&lt;br&gt;
-「未来の都市」（Mirai Theater）など。現在、北海道仁木町在住。&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;藤原 麻里菜（ふじわら まりな）&lt;br&gt;
-株式会社無駄 CEO &lt;br&gt;
-作家 / 無用発明家 /コンテンツクリエイター&lt;/strong&gt;&lt;br&gt;
-&lt;img src="https://i.imgur.com/yusMimF.jpeg" width="150" alt="藤原麻里菜審査員 写真 "&gt;&lt;/p&gt;
-&lt;p&gt;
-頭の中に浮かんだ不必要なものをなんとか作り上げる「無駄づくり」を活動の中心に据え、&lt;br&gt;
-YouTubeをはじめとするSNSで数多くの作品を発表。
-Forbes Japan「世界を変える30歳未満の30人_30 UNDER 30」、&lt;br&gt;
-青年版国民栄誉賞TOYP会頭特別賞など受賞歴多数。&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;土屋 崇敏（つちや たかとし）&lt;br&gt;
-株式会社 インタラクト &lt;/strong&gt;&lt;br&gt;
-&lt;img src="https://i.imgur.com/tOpkKZg.jpeg" width="150" alt="土屋崇敏審査員 写真 "&gt;&lt;/p&gt;
-&lt;p&gt;2000年に組み込み系エンジニアとして通信・オーディオ分野のソフトウェア開発に従事。&lt;br&gt;
-2006年に株式会社インタラクトの設立に参加し取締役に就任。&lt;br&gt;
-2014年からは株式会社ミライセンスの協力会社として、3DHaptics技術の普及に尽力。&lt;br&gt;
-現在は静岡を拠点に、テクノロジー領域の開発と自然と向き合う農業（主に稲作）、異なる二つの分野に取り組んでいる。&lt;br&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;増田 修治（ますだ  しゅうじ）&lt;br&gt;
-株式会社 電通&lt;br&gt;シニア・アカウントリード&lt;/strong&gt;&lt;br&gt;
-&lt;img src="https://i.imgur.com/Mqe2V3G.png" width="150" alt="増田修治審査員 写真 "&gt;&lt;/p&gt;
-&lt;p&gt;
-広告代理店の営業担当として、企業の広告制作やキャンペーンのプロデュースをはじめ、&lt;br&gt;
-アートフェアなどの文化イベントやマラソン大会などのスポーツ事業など幅広い領域で担当実績を持つ。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;&lt;a href="https://www.miraisens.com/ja/" rel="nofollow"&gt;ミライセンス&lt;/a&gt;について&lt;/h2&gt;
-&lt;p&gt;ミライセンスは、産総研において発明された錯触力覚技術を世の中に普及させるため、2014年に創業した産総研技術移転ベンチャーです。第3のメディアといわれる触力覚（力触覚）技術をはじめ、最先端のHMI技術を手掛ける研究開発型の企業として、脳科学に基づく各種要素技術をベースに、豊かな人の未来を実現する人工体感技術、及び人間拡張技術の革新と普及を続けていきます。2019年12月村田製作所に買収され村田製作所資本の下、開発を推進中。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;諸注意&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;会場利用に関する注意事項&lt;/strong&gt;&lt;br&gt;
-はんだごておよび火気の使用は &lt;strong&gt;一切禁止&lt;/strong&gt; されています。&lt;br&gt;
-※安全確保のため、加熱機器や発火の恐れがある機材は一切使用いただけません。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;イベント運営に関する注意事項&lt;/strong&gt;&lt;br&gt;
-　・イベント内容は一部変更となる場合があります。あらかじめご了承ください。&lt;br&gt;
-　・イベント当日の様子（写真・映像等）は、後日何らかの媒体にて公開させていただく場合があります。ご了承の上ご参加ください。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;禁止行為について&lt;/strong&gt;&lt;br&gt;
-以下のような行動を取られた方は退室いただく場合があります。また、過去の村田製作所や、ミライセンスのイベント等において過去に以下のような行動を取られた方からのお申込についてもお断りさせていただく場合がございます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;他の参加者や登壇者、運営、企業、その他関係者に対しての迷惑行為と見られる言動や行動  &lt;/li&gt;
-&lt;li&gt;人材紹介、転職、マルチ商法、宗教など、本イベントとは関係のない勧誘&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3&gt;イベント参加者誓約書&lt;/h3&gt;
-&lt;p&gt;株式会社ミライセンス 御中 &lt;/p&gt;
-&lt;p&gt;私は、貴社が主催する次のイベント（以下「本イベント」といいます。）に参加するにあたり、本イベント参加者として、以
-下の事項に誓約します。なお、イベント名称、イベント日時、イベント開催場所が誓約日以降に変更になっても、本誓
-約は有効といたします。&lt;/p&gt;
-&lt;p&gt;イベント名称： ふしぎな石ころ後継機で体験アプリをつくるハッカソン  &lt;br&gt;
-イベント日時：2026年9月12日 - 9月23日&lt;br&gt;
-イベント開催場所：神奈川県横浜市西区みなとみらい 4丁目3-8 村田製作所 みなとみらいイノベーションセンター  &lt;/p&gt;
-&lt;p&gt;■規則遵守の誓約&lt;br&gt;
-私は、本イベントの規則及びガイドライン、並びに貴社及び本イベントの運営補佐を行う痛快技術株式会社（以下
-「主催者等」と総称します。）の指示を遵守し、誠実に参加します。&lt;br&gt;
-私は、主催者等及び他の参加者と協力し、創造的かつ建設的なアイデアの共有に努めます。  &lt;/p&gt;
-&lt;p&gt;■秘密保持の誓約&lt;br&gt;
-私は、本イベントにおいて主催者等より開示される以下の情報・物品等（以下「秘密情報」といいます。）を、貴社の
-書面による事前の承諾なく第三者に開示、漏洩せず、また本イベントの範囲外において使用及び複製しないこと
-を誓約します。&lt;br&gt;
-・   マニュアル類&lt;br&gt;
-・   サンプルコード&lt;br&gt;
-・   以上の他、主催者等より秘密である旨の明示がされて開示された技術上又は営業上の一切の情報&lt;br&gt;
-私は、主催者等から指示があったとき、又は本イベントが終了したときは、速やかに主催者等から提供された秘密
-情報及びその複製物を、主催者等の指示に従い返却又は破棄します。 &lt;/p&gt;
-&lt;p&gt;■知的財産権に関する取扱い&lt;br&gt;
-私は、貴社が本イベントによらず、本イベントにおいて参加者が提供したアイデア（発明、考案、意匠、商標、著作
-物、コンセプト及びノウハウ等を含み、以下本誓約書において同じです。）と同一又は類似のアイデアを利用した
-プロダクトを独自に開発済みである、又は将来開発する可能性があることを認識し、了承します。 
-私は、イベントで提供するアイデアにかかる知的財産権の保護の重要性を認識し、適宜参加前に自身で権利保
-護手続きを行います。 
-私は、本イベント終了後に貴社からアイデアを利用したい旨の連絡を受けた場合、当該アイデアにかかる知的財
-産権の取扱いにつき貴社と誠意をもって協議し、別途締結する契約においてこれを定めることに同意します。 &lt;/p&gt;
-&lt;p&gt;■個人情報の取扱い&lt;br&gt;
-私は、主催者等が、本イベント参加に際して、氏名、住所、所属先企業・団体・学校、電話番号、メールアドレスな
-どの私の個人情報を取得し、以下の利用目的のため、私の個人情報を利用することに同意します。 
-[ミライセンスの利用目的] 
-本イベントの準備・運営、本イベントに関する連絡、アンケートやフィードバックの実施、参加者のアイデアの利用
-に関する問い合わせ・連絡、本イベントの記録・広報、関連イベントのご案内その他これらに付随する目的 
-[痛快技術の利用目的] 
-本イベントの準備・運営、本イベントに関する連絡、アンケートの実施、本イベントの記録 &lt;/p&gt;
-&lt;p&gt;■権利侵害の禁止&lt;br&gt;
-私は、本イベントにおける活動に関し、法令及び公序良俗に違反せず、また、主催者等、参加者及び第三者の知
-的財産権その他一切の権利を侵害しないことを誓約します。また、主催者等及び参加者に対する信用や名誉の
-棄損行為、本イベントの秩序を乱す行為並びに主催者等及び参加者に迷惑や損害を及ぼす一切の行為を行わ
-ないことを誓約します。 &lt;/p&gt;
-&lt;p&gt;■写真・ビデオ撮影&lt;br&gt;
-私は、主催者等や他の参加者が本イベント開催中において、イベント開催場所での写真・ビデオ撮影を行うにあ
-たって、当該撮影によって得られた画像・映像に私が映り込む可能性があることについてあらかじめ了解するととも
-に、主催者等が当該画像・映像を広告宣伝のためにウェブサイト（SNSを含みます。）やチラシ・パンフレット等の宣
-伝広告物に掲載することについてあらかじめ合意した上で参加することを誓約します。 &lt;/p&gt;
-&lt;p&gt;■SNS 等への投稿の留意&lt;br&gt;
-私は、本イベントに関して、SNS、ブログ、ウェブサイトなどの不特定多数の者が閲覧できる場所において情報発信
-をする場合には、秘密情報（マニュアル類・サンプルコードの写真等を含みます。）を掲載しないこと、また、他者を
-誹謗中傷したり、他者のプライバシーや肖像権等の権利を侵害するような態様で掲載しないことを誓約します。 &lt;/p&gt;
-&lt;p&gt;■貸与物の取り扱い&lt;br&gt;
-私は、本イベントにおいて主催者等から貸与される物品・書類等（以下「貸与物」といいます。）について、本イベン
-トの目的にのみ使用し、私的な利用は行わないことを誓約します。 
-私は、貸与物の管理は私の責任で行い、紛失や破損が発生した場合は速やかに主催者等に報告します。万が一
-私の故意又は重過失により、紛失又は破損した場合には、その損害を賠償します。 
-私は、貸与物の構造に関する分析又はリバースエンジニアリング等の行為を一切行わないことを誓約します。&lt;br&gt;
-私は、本イベント終了後又は主催者等から指示があった場合は、速やかに貸与物を返却します。  &lt;/p&gt;
-&lt;p&gt;■免責&lt;br&gt;
-私は、本イベントに参加中の事故により生命身体もしくは財産上の損害を被った場合、その損害は私自身が負担
-し、主催者等に何ら請求しないことを誓約いたします。ただし、主催者等にその損害の発生について故意又は重
-過失が存在する場合はこの限りではありません。 &lt;/p&gt;
-&lt;p&gt;■その他&lt;br&gt;
-私が主催者等に対して提供した情報はすべて真実であり、虚偽の申告等は一切行っていないことを保証します。 
-本イベントが主催者等側のやむを得ない事情で中止された場合でも、主催者等に対して責任を追及いたしません。 
-本イベントへの参加により私が負担した費用（交通費・材料費等の一切を含みます。）は、私自身が負担するものと
-し、主催者等に対して請求いたしません。 
-私は、本イベントにおいて他の参加者その他の第三者との間で紛争が発生した場合、自己の費用と責任におい
-て当該紛争を解決するものとします。 
-私は、万が一本誓約に反した場合には、本イベントへの参加が停止され、私のアイデアの受賞等が取り消される
-可能性があること、また、私の違反により主催者等が損害を被ったときはこれを賠償することを理解しました。 
-以上、誓約の内容を確認し、同意の上で署名いたします。 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;【注意事項】&lt;/strong&gt;&lt;br&gt;
-18歳未満の方は必ず以下の対応を行ってください。&lt;br&gt;
-①以下のURLより誓約書を &lt;strong&gt;事前に印刷&lt;/strong&gt;&lt;br&gt;
-② &lt;strong&gt;法定代理人（親権者など保護者の方）の署名を誓約書にご記入いただき、イベント当日にご持参ください。&lt;/strong&gt;&lt;br&gt;
-　※法定代理人とは、親や保護者など、法律上あなたの責任者となる成人の方を指します。  &lt;/p&gt;
-&lt;p&gt;[誓約書ダウンロードURL]&lt;br&gt;
-&lt;a href="https://www.tsu-x.com/wp-content/uploads/2026/08/イベント参加者誓約書.pdf" rel="nofollow"&gt;イベント参加者誓約書ドキュメントダウンロード&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tsu-x.connpass.com/event/397048/</guid><enclosure url="https://media.connpass.com/thumbs/4a/62/4a620b902b491151540714e553df91c0.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 11:59:56 +0900</pubDate></item><item><title>第74回 CoderDojo武蔵小杉 ※初めての方歓迎</title><link>https://coderdojo-musashikosugi.connpass.com/event/403337/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: かわさき市民活動センター　会議室A/B&lt;/li&gt;&lt;li&gt;🏢 住所: 〒211-0004　川崎市中原区新丸子東3-1100-12　1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2026年のテーマ：ロボットプログラミングをやってみよう！※初回の方向け説明を含みます&lt;/p&gt;&lt;div&gt;&lt;p&gt;※今回は13:15開場・13:30開始です！時間にご注意ください。&lt;/p&gt;
-&lt;h1&gt;CoderDojoって？&lt;/h1&gt;
-&lt;p&gt;CoderDojo とは、7〜17歳の子どもを対象にした非営利のプログラミング道場です。
-CoderDojo の活動は2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本では全国に200以上の道場があります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CoderDojo &lt;a href="https://coderdojo.com" rel="nofollow"&gt;https://coderdojo.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CoderDojo Japan &lt;a href="https://coderdojo.jp" rel="nofollow"&gt;https://coderdojo.jp&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;「CoderDojo武蔵小杉」は、活動内容が公益的であることの確認を経て、（公財）かわさき市民活動センターに登録を承認されている市民活動（ボランティア）団体です。
-武蔵小杉に縁のある小中学生を対象に非営利でプログラミング道場（クラブ）活動やロボット・工作・発明・STEAMに関する活動・イベントを開催する目的で、2022年4月より有志・ボランティアにより運営し、「ゆるく・楽しく」活動しています。&lt;/p&gt;
-&lt;p&gt;LINE公式アカウント：CoderDojo武蔵小杉 @dojo-musashikosugi&lt;/p&gt;
-&lt;p&gt;Facebookページ：&lt;a href="https://www.facebook.com/coderdojo.musashikosugi" rel="nofollow"&gt;https://www.facebook.com/coderdojo.musashikosugi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;※2023年より大人を中心としたチームで「つくばチャレンジ」に参加しており、その開発メンバーも一緒にプログラミングしたり開発に関連する活動で参加します。興味のある方は当日ご参加の上ご質問下さい。定員オーバーの場合はキャンセル待ち登録してください。&lt;/p&gt;
-&lt;h1&gt;開催日時&lt;/h1&gt;
-&lt;p&gt;2026年9月12日(土) 13:15開場　13:30〜15:55開催 ※16:00終了 (16:10閉室)
-※遅刻・途中退出もOKです！&lt;/p&gt;
-&lt;h1&gt;タイムテーブル（当日変更になる場合があります）&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;(13:00 運営準備開始）&lt;/li&gt;
-&lt;li&gt;13:15　開場 会場にて受付開始、ニックネーム・やりたいこと記入、パソコンやWiFi準備・タイピング練習など&lt;/li&gt;
-&lt;li&gt;13:30～13:40ごろ開始　&lt;/li&gt;
-&lt;li&gt;CoderDojo武蔵小杉とは？&lt;/li&gt;
-&lt;li&gt;自己紹介&lt;/li&gt;
-&lt;li&gt;14:00-14:30レクチャー&amp;amp;ワークショップ&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ゲームを作ろう！またはロボットプログラミングをやってみよう！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;14:30～ 自由時間（Scratch、toio、micro:bit、マインクラフト、Unity、ロボット工作など）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;15:40～ 発表タイム&lt;/li&gt;
-&lt;li&gt;15:55ごろから片付け&lt;/li&gt;
-&lt;li&gt;16:00退室 (16:10までに閉室)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;開催場所&lt;/h1&gt;
-&lt;p&gt;かわさき市民活動センター 会議室A/B&lt;/p&gt;
-&lt;p&gt;〒211-0004 神奈川県川崎市中原区新丸子東3-1100-12
-川崎市中原市民館1階奥&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www2.kawasaki-shiminkatsudo.or.jp/volunt/shisetsu/map/#target_access" rel="nofollow"&gt;アクセス情報はこちら&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;無料駐輪場あり&lt;/li&gt;
-&lt;li&gt;無料駐車場あり（機械式駐車場・駐車券をセンター受付で精算する必要があります）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※状況によって事前通知の上オンライン（Zoom等のWeb会議形式）での開催となる場合があります&lt;/p&gt;
-&lt;h1&gt;参加対象&lt;/h1&gt;
-&lt;p&gt;下記すべてを満たす方：&lt;/p&gt;
-&lt;h2&gt;参加者（CoderDojo名称：ニンジャ）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;みんなで楽しく活動できる方&lt;/li&gt;
-&lt;li&gt;川崎市中原区や武蔵小杉に"自称"縁のある（非在住・非在勤でもOK）小中学生のお子さまと保護者の方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※小学校4年生以上の方：初参加～2回目までは必ず保護者同伴にてご参加ください&lt;/p&gt;
-&lt;p&gt;※小学校3年生までの方：保護者の方は常時同伴にてご参加ください&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;できればご自分でパソコンやタブレットなどプログラミングができる端末を持ち込める方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※難しい場合は数に限り（3台程度）がありますが貸し出しますのでご相談ください&lt;/p&gt;
-&lt;p&gt;※ロボットトイtoioの「トイオ・プレイグラウンド」などパソコンを使わないプログラミングおもちゃも準備予定です&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;グループワーク、準備・片付けや安全管理に協力いただける方&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CoderDojo武蔵小杉の活動報告（各種イベントやプレゼンテーション）や情報発信（SNS・Webサイト・YouTube等）にお顔や活動内容が掲載されても問題ないと事前に保護者の方に同意いただける方
-　※イベント中はニックネームを使用し、本名が出ないように配慮いたします&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;メンター（指導・アドバイスのボランティア）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;みんなで楽しく活動できる方&lt;/li&gt;
-&lt;li&gt;ボランティアでプログラミングや工作・発明などに関してアドバイスにご協力いただける方&lt;/li&gt;
-&lt;li&gt;プログラミングの基礎知識がありScratch等の子ども向けプログラミング環境を使ったことがある方&lt;/li&gt;
-&lt;li&gt;お子さんとの交流や地域活動の活性化に興味のある方&lt;/li&gt;
-&lt;li&gt;グループワーク、準備・片付けや個人情報管理・安全管理に協力いただける方&lt;/li&gt;
-&lt;li&gt;CoderDojo武蔵小杉の活動報告（各種イベントやプレゼンテーション）や情報発信（SNS・Webサイト・YouTube等）にお顔や活動内容が掲載されても問題ないと事前に同意いただける方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;参加申し込みについて&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;本Connpassの各回のイベントページよりお申し込みください。&lt;/li&gt;
-&lt;li&gt;小学生のお子様は保護者の方がお申し込みください。&lt;/li&gt;
-&lt;li&gt;参加費：無料
- ※任意：会場の運営費補助を目的とした募金箱を設置しています（小銭のみ投入可・PayPayでもOK）ので可能な方はご協力ください&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;必要なもの・持ち物&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;WiFi接続可能なノートパソコンやタブレット（iPad/Chromebook推奨）などの端末・キーボード付き推奨
-　※端末が無い方は3台まで貸出可能なPCを用意できますのでご相談ください。
-　※会場にフリーWiFiあり&lt;/li&gt;
-&lt;li&gt;筆記用具（ノート、鉛筆等）&lt;/li&gt;
-&lt;li&gt;水分補給用の水など&lt;/li&gt;
-&lt;li&gt;（任意）工作などを楽しみたい方は必要な素材や道具（危険な素材や工具はご遠慮ください）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;感染症対策について&lt;/h1&gt;
-&lt;p&gt;感染状況や自治体・政府要請状況により、現地開催をキャンセルしてオンライン開催になる場合があります。
-開催時間1時間前までに開催可否の連絡を Connpass を通じてメールでご連絡致します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加される方は、必要な感染症対策を実施の上、無理ない形でご参加ください。&lt;/li&gt;
-&lt;li&gt;以下に該当する場合は参加をご遠慮ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;・体温が37.5℃以上の方&lt;/p&gt;
-&lt;p&gt;・感染症罹患者・濃厚接触者、またはご家族で体調がすぐれない方がいる場合&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加時は会場入口に備え付けの検温計での体温測定とアルコール消毒にご協力ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;会場内での注意について&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;参加者同士の円滑で楽しい交流にご協力ください。&lt;/li&gt;
-&lt;li&gt;広報活動のため様子を写真・動画で撮影させていただきますのであらかじめご了承ください。&lt;/li&gt;
-&lt;li&gt;会場内での飲み物は水分補給目的のみとし、食べ物はご遠慮ください（会議室外のロビー等でお願いします）。&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;電子機器の損傷を防ぐため、水分補給は機器から離れてお願いします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;貴重品や機器の管理は自己管理にてお願いいたします。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;紛失・破損に対して運営や団体としての責任は一切負いかねますのでご了承ください。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;トラブルや不測の事態などにより運営側で必要と判断した場合は、回を途中で終了したり、個別に退出をお願いする場合があります。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;その他、かわさき市民活動センター（または当日の会場）の利用規約・ルールに沿った利用をお願いします。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;運営について&lt;/h1&gt;
-&lt;p&gt;全国のDojoはボランティアの方のご協力と、寄付で運営を行なっています。
-CoderDojo武蔵小杉でも以下ご協力頂けると嬉しいです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;子どもたちのプログラミングをサポートして頂ける方（教えるというよりは一緒に考えて楽しんで頂ける方）&lt;/li&gt;
-&lt;li&gt;子どもたちに色々なサンプルやでデモを見せて頂ける方&lt;/li&gt;
-&lt;li&gt;カンパ・寄付いただける方（会場に募金箱を置き、消耗品代・場所代（3,200円/回）に充当させて頂きます）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;代表者（CoderDojo名称：チャンピオン）：&lt;a href="https://www.facebook.com/akichika.tanaka" rel="nofollow"&gt;田中章愛&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-musashikosugi.connpass.com/event/403337/</guid><enclosure url="https://media.connpass.com/thumbs/9a/9a/9a9a62f50cedc23346b481feca8a6f42.png" length="0" type="image/png"/><pubDate>Sun, 09 Aug 2026 11:13:42 +0900</pubDate></item><item><title>第65回　CoderDojo伊勢原</title><link>https://coderdojo-isehara.connpass.com/event/402399/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月12日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月12日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 伊勢原市民活動サポートセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 伊勢原市田中２９７番地&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;７歳から17歳を対象とした無料プログラミング道場&lt;/p&gt;&lt;div&gt;&lt;h4&gt;CoderDojoとは&lt;/h4&gt;
-
-&lt;p&gt;CoderDojoは７〜17歳の子どもを対象にしたプログラミング道場（Dojo = クラブ）です。2011年にアイルランドで始まり、世界では100カ国以上、日本では全国に200以上のDojoがあります。
-お申込みの前に&lt;a href="https://coderdojo-isehara.connpass.com" rel="nofollow"&gt;https://coderdojo-isehara.connpass.com&lt;/a&gt;をご確認いただき、以下を含むCoderDojoの趣旨をご理解ください。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dojoは無償のボランティアにより運営されており参加費は無料です。&lt;/li&gt;
-&lt;li&gt;トレーナーが教える「教室」ではなく、子どもたちが自発的に活動する「クラブ」です（自分がやりたいことをプログラミングで実現し、わからないことは他のニンジャやメンターに相談して一緒に考えてもらうことができます）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;参加対象&lt;/h4&gt;
-
-&lt;h5&gt;ニンジャ(参加する子ども)&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;小学生〜高校生（小学生には保護者の同伴をお願いします）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;保護者の方にサポートいただくことを前提に、未就学児も参加可能です&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;※ 初めての方でもパソコンの基本操作、マウスやキーボードで簡単な操作ができれば大丈夫です。
-&lt;br&gt;※ 小学生以下のお子様の場合、お申込みはこちらのConnpassから保護者の方が行ってください。(ユーザー名はニックネームに変更しておきましょう。)
-&lt;br&gt;※ 申込後に都合がつかなくなった場合は、キャンセル処理をお願いいたします。&lt;/p&gt;
-&lt;h5&gt;メンター(指南役)／ボランティア&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;メンター: 主役であるニンジャたちのプログラミングをサポートいただける誰でも（トレーナーではありません）
-    メンターの役割については&lt;a href="https://coderdojo.jp/kata" rel="nofollow"&gt;CoderDojo Japan Kata&lt;/a&gt;のDojo 運営者向け！役立つ資料まとめからご参照ください&lt;/li&gt;
-&lt;li&gt;ボランティア: 会場設営や受付、写真撮影などのイベント運営をサポートいただける誰でも、また興味を持つ見学希望者も歓迎しますので、その旨記載ください。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;持ち物&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wi-Fiに接続可能なPCもしくはタブレット。動作確認は必ず事前に行ってください、Wi-Fi接続設定は現地で行います。&lt;/li&gt;
-&lt;li&gt;Chrome, Firefox等のブラウザをインストールし動作確認を行ってください。&lt;/li&gt;
-&lt;li&gt;パソコンはMacBookを２台/Windowsを2台貸し出し可能です、１台には教育版のマイクラをインストール済みです。&lt;/li&gt;
-&lt;li&gt;micro:bit、ドローンなどは会場に持ち込みますので当日貸し出し可能、またmicro:bitは長期貸出も可能です。&lt;/li&gt;
-&lt;li&gt;筆記具と自分でお持ちの参考者や資料など。&lt;/li&gt;
-&lt;li&gt;初めての方用に幾つかの参考資料や書籍は用意します。&lt;/li&gt;
-&lt;li&gt;必要に応じて身の回り品（飲み物）など。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;プログラミングと直接関係ないゲーム機の持ち込みはご遠慮ください。&lt;/p&gt;
-&lt;h4&gt;運営側で用意するもの&lt;/h4&gt;
-
-&lt;ol&gt;
-&lt;li&gt;会場（場所、机、椅子）と電源&lt;/li&gt;
-&lt;li&gt;Wi-Fiによるインターネット接続&lt;/li&gt;
-&lt;li&gt;プロジェクター（ガイダンス、発表）&lt;/li&gt;
-&lt;li&gt;名札用シールとペン&lt;/li&gt;
-&lt;li&gt;導入用にScratchなどの参考資料&lt;/li&gt;
-&lt;li&gt;その他Dojoに必要な機材&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;貸出できるもの&lt;/h4&gt;
-
-&lt;p&gt;CoderDojo Japan経由で提供を受けています&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;micro:bit　複数台&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MacBook 二台、Windows 二台&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;二ャイスコード　二セット&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;時間割&lt;/h4&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;　　　　　　　　　　　内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;13:00-13:45&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;会場準備&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;13:30-13:45&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;メンター／ボランティア集合&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;13:45-14:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ニンジャ集合・受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;14:00-14:15&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ガイダンス（CoderDojoについて、メンターデモなど）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;14:15-15:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;各自のプログラミングタイム （途中10分間のもぐもぐタイム）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;15:40-16:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;発表（希望者）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;16:00-16:20&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;片付け&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4&gt;活動内容&lt;/h4&gt;
-
-&lt;p&gt;今回のDojoでは主に以下のようなものに取り組むことを想定しています。Dojoの醍醐味は発表です。みんなの前で自分がやったこと（完成していなくてもよいです）を自慢しましょう。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://hourofcode.com/jp" rel="nofollow"&gt;Hour of Code&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;プログラミングが初めての方は、Hour of Code（アワーオブコード）から始めることをおすすめします。課題形式でプログラミングを学習するので、ブロックを組み合わせてプログラムすることに慣れることができます。学習履歴を残せるので、事前に自宅でアカウント作成しておくことをおすすめします。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://blockly.games/?lang=ja" rel="nofollow"&gt;Googleブロックリー&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;明日のプログラマーのためのゲームということで、プログラミングをまだ始めていない人たちが、ゲームを通してプログラミングに慣れるためためのツールです。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://toio.io" rel="nofollow"&gt;toio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;小学校入学前でもプログラム的思考が養成できるSonyのロボットプログラミングツールです。カードを使った絵本で学ぶプログラミング、Scratchの拡張機能としてtoioを制御、Node.jsのライブラリでさらに詳細な制御もできます。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.ryzerobotics.com/jp/tello" rel="nofollow"&gt;ドローン&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;toioは平面（二次元）の移動ですが、ドローンは三次元で飛行をコントロールできます。プログラミングはScratchのようなブロック言語を使って行います。動画も記録できるので使い方を考えてみてください。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://scratch.mit.edu" rel="nofollow"&gt;Scratch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ゲームやアニメーションを作成したい方はScratch（スクラッチ）/Scratch Jrに取り組みましょう。初めての方はオンラインのアカウントを作成して、書籍などの教材を参考にして取り組んでいくことをおすすめします。既に作品を作っている方は、各自の作りたいモノをどんどん作っていきましょう。分からないことや知りたいことはメンターに相談できます。&lt;/p&gt;
-&lt;p&gt;ポケモンのキャラクターをプログラムで動かすことができるよ。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://microbit.org" rel="nofollow"&gt;micro:bit&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;micro:bit（マイクロビット）はイギリスのBBCが主体となって作った教育向けのマイコンボードです。25個のLED、2個のボタンスイッチのほか、加速度センサーや磁力センサー、無線通信機能、マイク、スピーカーがついていて、ブロック型エディターやPythonでプログラムして操作できます。micro:bit本体やUSBケーブル（Type A - Micro-Bタイプ）、電源などは各自でお持ちください。台数限定ですが貸し出しもできます。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://education.minecraft.net/ja-jp/homepage" rel="nofollow"&gt;マイクラEE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;マイクロソフトが提供する、ゲームを通してプログラミングを学べるツールです。CoderDojo伊勢原では教育機関としてアカウントを取得しているので、ライセンス取得（１年単位の契約で8月が更新月）できます。体験用アカウントも用意しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.luanti.org/ja/" rel="nofollow"&gt;Luanti&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;オープンソースのマイクラ類似のボクセルゲーム、ユーザ自身で拡張機能の作り込みができるのが特徴です&lt;/p&gt;
-&lt;p&gt;それ以外に何でも&lt;/p&gt;
-&lt;p&gt;PyGame, Unity, Sonic PI, Arduino, Raspberry PI, M5stack,ドローンプログラミングや電子工作、3DプリンターなどSTEAMに関するやりたいことがある方はご参加いただけます。自分の興味をもって取り組んでいることをみんなに聞いてもらったり、一緒に取り組む仲間を見つけましょう！&lt;/p&gt;
-&lt;h4&gt;その他の注意事項&lt;/h4&gt;
-
-&lt;h5&gt;保護者のサポート&lt;/h5&gt;
-&lt;p&gt;通常は子どもたちの自主性を尊重して何でもやらせてあげるようにしてください。ノートPCやタブレットの基本的な操作は子どもたちが大人になるまでにいつか身に着けるべき大事なスキルです。不慣れで手助けが必要な時には、代わりに操作してあげるのではなく、なるべく操作の仕方を教えて次から自分でできるようにするのがよいでしょう。子どもたちが自らやりたいと思うことは覚えが速いです。子どもたちが自立して楽しいプログラミング体験となるようご協力をお願いします。&lt;/p&gt;
-&lt;h5&gt;撮影について&lt;/h5&gt;
-
-&lt;p&gt;Dojoの主催者として、当日の雰囲気をFacebookなどで紹介するため写真や動画の撮影を行います。あらかじめご了承ください。参加者による撮影は、他の方のプライバシーに十分配慮して、個人利用の範囲にとどめるようお願いします。&lt;/p&gt;
-&lt;h5&gt;メンター／ボランティア募集&lt;/h5&gt;
-
-&lt;p&gt;メンターやボランティアのサポートにより、ニンジャにとってDojoに来て何かすることが魅力ある体験になります。
-サポートいただくのに必ずしもプログラミングのスキルが必要というわけではありません。子どもたちの相談に乗って一緒に考えていただける方にお手伝いいただければと思います。ニンジャに技術や創造性のひらめきを与えてくれるようなメンターや、女子のニンジャにロールモデルを見せてくれる女性メンター、ニンジャの付き添いのついでに他のニンジャもサポートしてくれる保護者の方を歓迎します。ご自分のSTEAMの経験をニンジャと共有いただけるという方はお声がけください！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-isehara.connpass.com/event/402399/</guid><enclosure url="https://media.connpass.com/thumbs/bd/fc/bdfcce6148bd7886b0dea35b22aa5f06.png" length="0" type="image/png"/><pubDate>Fri, 07 Aug 2026 07:01:44 +0900</pubDate></item><item><title>新横浜Blenderがやがや会(第39回)</title><link>https://manabino.connpass.com/event/405526/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: YDA横浜デジタルアーツ専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 〒222-0033 神奈川県横浜市港北区新横浜3-22-17&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;この会について&lt;/h1&gt;
-&lt;p&gt;横浜デジタルアーツ専門学校の教室を借りて、みんなでBlenderモデリング等を勉強する会です。&lt;br&gt;
-毎月、ほぼ第二日曜日に開催しています。&lt;br&gt;
-&lt;br&gt;
-「もくもく会」と同じく、自習を基本としつつも、分からないことを質問したり一緒に考えたりして、&lt;br&gt;
-ちょっとにぎやかに過ごせればいいな、と思っています。&lt;br&gt;
-主催のまついは、BlenderとMetasequoiaでキャラクターモデルを作っていますので、&lt;br&gt;
-モデリングに関するご質問には、少しお答えできると思います。&lt;br&gt;
-　※Mayaはちょっとしかさわったことがありませんが、モデリングでは共通する部分も多いと思います。&lt;br&gt;
-Pythonスクリプトやアドオン製作も、少しなら助言できます。&lt;br&gt;
-&lt;br&gt;
-協賛： &lt;a href="https://yda.iwasaki.ac.jp/" title="学校法人岩崎学園 横浜デジタルアーツ専門学校" rel="nofollow"&gt;学校法人岩崎学園 横浜デジタルアーツ専門学校&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;こんな方にオススメ&lt;/h1&gt;
-&lt;p&gt;・VRoidで作ったキャラクターに小物を持たせたい&lt;br&gt;
-・VRでBlenderデータをいじってみたい&lt;br&gt;
-・ゼロからガチでキャラクターモデルを作りたい&lt;br&gt;
-・Unityアセットを改造して自分好みにしたい&lt;br&gt;
-・他形式のデータをBlenderで加工したい&lt;br&gt;
-・Blenderの見た目をカスタマイズしてカッコよくしたい&lt;br&gt;
-・Pythonスクリプトを極めて、モデリングやリギングを効率化したい&lt;br&gt;
-・ChatGPTを活用して、簡単なアドオンを作りたい&lt;br&gt;
-・NomadSculptの強力なUV編集機能をBlenderと連携させたい&lt;br&gt;
-・Mayaを使っているけどBlenderも使ってみたい&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
-&lt;p&gt;ざっくりと下記の流れになります。&lt;br&gt;
-途中参加や帰宅もできますので、お気軽にご参加ください。&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;時間  予定&lt;br&gt;
-10:30 ~ この時間から入場できます&lt;br&gt;
-11:00 ~ 簡単な自己紹介と今日のやること発表 → 各自作業&lt;br&gt;
-11:30 ~ 初心者向けのBlender基本操作説明（初心者がいる場合のみ）&lt;br&gt;
-12:30 ~ 各自昼食（匂いが出ないものなら持ち込み可）　今のところはコンビニ買い出しが多い感じ&lt;br&gt;
-17:30 ~ 本日の成果発表、感想&lt;br&gt;
-18:00 ~ 解散。お疲れ様でした&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;持ち物&lt;/h1&gt;
-&lt;p&gt;・BlenderのインストールされたPC、ACアダプター&lt;br&gt;
-　　USB-C給電ならギリギリ貸せますが、専用ACアダプターは無理です&lt;br&gt;
-　　　PCをお持ちでない方は、「PC貸出利用」枠（初回無料）にてお申し込みください。&lt;br&gt;
-　　　Blenderインストール済みのPCを使用できます。&lt;br&gt;
-　　　　※到着してからBlenderをインストールした方も何名かおられますので、焦らずにどうぞ&lt;br&gt;
-　　　　　ここのネット接続はけっこう高速なので、自己紹介しているうちに準備完了しますよ&lt;br&gt;
-・質問とか相談のメモ&lt;br&gt;
-・各自作業に必要なもの(書籍など）&lt;br&gt;
-・マスク（必要な方）&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;会場アクセス&lt;/h1&gt;
-&lt;p&gt;横浜デジタルアーツ専門学校&lt;br&gt;
-神奈川県横浜市港北区新横浜3-22-17&lt;br&gt;
-&lt;br&gt;
-新幹線・JR・相鉄新横浜線・東急新横浜線・横浜市営地下鉄線&lt;br&gt;
-「新横浜駅」より徒歩7分&lt;br&gt;
-&lt;img alt="駅からのアクセス" src="https://yda.iwasaki.ac.jp/wp-content/uploads/2023/04/ACCESS_1124x764.jpg" title="駅から会場へのアクセス"&gt;&lt;br&gt;
-&lt;a href="https://www.youtube.com/watch?v=diW3-cli_zU" rel="nofollow" title="駅から会場へのアクセス"&gt;&lt;img alt="駅からのアクセス" src="https://img.youtube.com/vi/diW3-cli_zU/0.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="会場ビルの写真" src="https://www.iwasaki.ac.jp/img/facilities/yda_big_03.jpg" title="会場ビルの写真"&gt;&lt;br&gt;
-&lt;font size="4" color="#ff0000"&gt;
-&lt;b&gt;2号館　5階504教室&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;
-&lt;img alt="会場内の写真" src="https://yda.iwasaki.ac.jp/wp-content/uploads/2023/03/d0e9d7acf41423628085b7de09767ba1.jpg" title="会場内の写真"&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;
-&lt;h1&gt;当日の他の催しについて&lt;/h1&gt;
-&lt;p&gt;当日、同じ5階の別教室で「インディゲームもくもく会」が開催されております。&lt;br&gt;
-見学なさる分には問題ありません。（参加者のお邪魔にならない程度に）&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;その他&lt;/h1&gt;
-&lt;p&gt;・宗教の勧誘や周りの方が不快と感じるような勧誘行為は禁止です。&lt;br&gt;
-・キャンセルされる場合は、当サイトのキャンセル処理を行なってください。&lt;br&gt;
-・当日ご連絡なく不参加の方や、直前のキャンセルを繰り返す方は、参加をご遠慮いただく場合がございます。&lt;br&gt;&lt;/p&gt;&lt;/b&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://manabino.connpass.com/event/405526/</guid><enclosure url="https://media.connpass.com/thumbs/d0/80/d08023247ac27be8abbcce64182296dd.png" length="0" type="image/png"/><pubDate>Tue, 01 Sep 2026 01:45:28 +0900</pubDate></item><item><title>新横浜インディゲームもくもく会 第41回（協賛：学校法人岩崎学園 横浜デジタルアーツ専門学校</title><link>https://indiegame.connpass.com/event/404707/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 横浜デジタルアーツ専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市港北区新横浜3-22-17&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;参加費無料！みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;会の内容&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 12 Sep 2026 17:32:21 +0000</lastBuildDate><item><title>新横浜インディゲームもくもく会 第41回（協賛：学校法人岩崎学園 横浜デジタルアーツ専門学校</title><link>https://indiegame.connpass.com/event/404707/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 横浜デジタルアーツ専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市港北区新横浜3-22-17&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;参加費無料！みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;会の内容&lt;/h1&gt;
 &lt;h2&gt;インディゲームを作っている人のための会&lt;/h2&gt;
 &lt;p&gt;ゲームエンジンの縛りなし！Unity、Unreal Engine、Godot Engine、その他なんでもOK！&lt;/p&gt;
 &lt;p&gt;本会では各々が目標に向かってもくもく作業します。&lt;/p&gt;
@@ -701,7 +87,69 @@ Pythonスクリプトやアドオン製作も、少しなら助言できます�
 &lt;p&gt;「新横浜駅」より徒歩7分&lt;/p&gt;
 &lt;p&gt;&lt;img alt="駅からのアクセス" src="https://yda.iwasaki.ac.jp/wp-content/uploads/2023/04/ACCESS_1124x764.jpg" title="駅から会場へのアクセス"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=diW3-cli_zU" title="駅から会場へのアクセス" rel="nofollow"&gt;&lt;img alt="駅からのアクセス" src="https://img.youtube.com/vi/diW3-cli_zU/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最後までお読みいただきありがとうございました！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://indiegame.connpass.com/event/404707/</guid><enclosure url="https://media.connpass.com/thumbs/d1/52/d152da5c9af36da472865d72751f72b1.png" length="0" type="image/png"/><pubDate>Sun, 23 Aug 2026 16:04:22 +0900</pubDate></item><item><title>Nokuchi.sre#0 〜プレオープン〜 【増席】【LT枠+】</title><link>https://nokuchi-sre.connpass.com/event/404411/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月16日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月16日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: ノクチラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒213-0001 神奈川県川崎市高津区溝口３丁目３−８(セシーズイシイ１０ 1階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nokuchisre&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;p&gt;最後までお読みいただきありがとうございました！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://indiegame.connpass.com/event/404707/</guid><enclosure url="https://media.connpass.com/thumbs/d1/52/d152da5c9af36da472865d72751f72b1.png" length="0" type="image/png"/><pubDate>Sun, 23 Aug 2026 16:04:22 +0900</pubDate></item><item><title>新横浜Blenderがやがや会(第39回)</title><link>https://manabino.connpass.com/event/405526/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月13日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月13日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: YDA横浜デジタルアーツ専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 〒222-0033 神奈川県横浜市港北区新横浜3-22-17&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;この会について&lt;/h1&gt;
+&lt;p&gt;横浜デジタルアーツ専門学校の教室を借りて、みんなでBlenderモデリング等を勉強する会です。&lt;br&gt;
+毎月、ほぼ第二日曜日に開催しています。&lt;br&gt;
+&lt;br&gt;
+「もくもく会」と同じく、自習を基本としつつも、分からないことを質問したり一緒に考えたりして、&lt;br&gt;
+ちょっとにぎやかに過ごせればいいな、と思っています。&lt;br&gt;
+主催のまついは、BlenderとMetasequoiaでキャラクターモデルを作っていますので、&lt;br&gt;
+モデリングに関するご質問には、少しお答えできると思います。&lt;br&gt;
+　※Mayaはちょっとしかさわったことがありませんが、モデリングでは共通する部分も多いと思います。&lt;br&gt;
+Pythonスクリプトやアドオン製作も、少しなら助言できます。&lt;br&gt;
+&lt;br&gt;
+協賛： &lt;a href="https://yda.iwasaki.ac.jp/" title="学校法人岩崎学園 横浜デジタルアーツ専門学校" rel="nofollow"&gt;学校法人岩崎学園 横浜デジタルアーツ専門学校&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;こんな方にオススメ&lt;/h1&gt;
+&lt;p&gt;・VRoidで作ったキャラクターに小物を持たせたい&lt;br&gt;
+・VRでBlenderデータをいじってみたい&lt;br&gt;
+・ゼロからガチでキャラクターモデルを作りたい&lt;br&gt;
+・Unityアセットを改造して自分好みにしたい&lt;br&gt;
+・他形式のデータをBlenderで加工したい&lt;br&gt;
+・Blenderの見た目をカスタマイズしてカッコよくしたい&lt;br&gt;
+・Pythonスクリプトを極めて、モデリングやリギングを効率化したい&lt;br&gt;
+・ChatGPTを活用して、簡単なアドオンを作りたい&lt;br&gt;
+・NomadSculptの強力なUV編集機能をBlenderと連携させたい&lt;br&gt;
+・Mayaを使っているけどBlenderも使ってみたい&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
+&lt;p&gt;ざっくりと下記の流れになります。&lt;br&gt;
+途中参加や帰宅もできますので、お気軽にご参加ください。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;時間  予定&lt;br&gt;
+10:30 ~ この時間から入場できます&lt;br&gt;
+11:00 ~ 簡単な自己紹介と今日のやること発表 → 各自作業&lt;br&gt;
+11:30 ~ 初心者向けのBlender基本操作説明（初心者がいる場合のみ）&lt;br&gt;
+12:30 ~ 各自昼食（匂いが出ないものなら持ち込み可）　今のところはコンビニ買い出しが多い感じ&lt;br&gt;
+17:30 ~ 本日の成果発表、感想&lt;br&gt;
+18:00 ~ 解散。お疲れ様でした&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;持ち物&lt;/h1&gt;
+&lt;p&gt;・BlenderのインストールされたPC、ACアダプター&lt;br&gt;
+　　USB-C給電ならギリギリ貸せますが、専用ACアダプターは無理です&lt;br&gt;
+　　　PCをお持ちでない方は、「PC貸出利用」枠（初回無料）にてお申し込みください。&lt;br&gt;
+　　　Blenderインストール済みのPCを使用できます。&lt;br&gt;
+　　　　※到着してからBlenderをインストールした方も何名かおられますので、焦らずにどうぞ&lt;br&gt;
+　　　　　ここのネット接続はけっこう高速なので、自己紹介しているうちに準備完了しますよ&lt;br&gt;
+・質問とか相談のメモ&lt;br&gt;
+・各自作業に必要なもの(書籍など）&lt;br&gt;
+・マスク（必要な方）&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;会場アクセス&lt;/h1&gt;
+&lt;p&gt;横浜デジタルアーツ専門学校&lt;br&gt;
+神奈川県横浜市港北区新横浜3-22-17&lt;br&gt;
+&lt;br&gt;
+新幹線・JR・相鉄新横浜線・東急新横浜線・横浜市営地下鉄線&lt;br&gt;
+「新横浜駅」より徒歩7分&lt;br&gt;
+&lt;img alt="駅からのアクセス" src="https://yda.iwasaki.ac.jp/wp-content/uploads/2023/04/ACCESS_1124x764.jpg" title="駅から会場へのアクセス"&gt;&lt;br&gt;
+&lt;a href="https://www.youtube.com/watch?v=diW3-cli_zU" rel="nofollow" title="駅から会場へのアクセス"&gt;&lt;img alt="駅からのアクセス" src="https://img.youtube.com/vi/diW3-cli_zU/0.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="会場ビルの写真" src="https://www.iwasaki.ac.jp/img/facilities/yda_big_03.jpg" title="会場ビルの写真"&gt;&lt;br&gt;
+&lt;font size="4" color="#ff0000"&gt;
+&lt;b&gt;2号館　5階504教室&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;
+&lt;img alt="会場内の写真" src="https://yda.iwasaki.ac.jp/wp-content/uploads/2023/03/d0e9d7acf41423628085b7de09767ba1.jpg" title="会場内の写真"&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;
+&lt;h1&gt;当日の他の催しについて&lt;/h1&gt;
+&lt;p&gt;当日、同じ5階の別教室で「インディゲームもくもく会」が開催されております。&lt;br&gt;
+見学なさる分には問題ありません。（参加者のお邪魔にならない程度に）&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;その他&lt;/h1&gt;
+&lt;p&gt;・宗教の勧誘や周りの方が不快と感じるような勧誘行為は禁止です。&lt;br&gt;
+・キャンセルされる場合は、当サイトのキャンセル処理を行なってください。&lt;br&gt;
+・当日ご連絡なく不参加の方や、直前のキャンセルを繰り返す方は、参加をご遠慮いただく場合がございます。&lt;br&gt;&lt;/p&gt;&lt;/b&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://manabino.connpass.com/event/405526/</guid><enclosure url="https://media.connpass.com/thumbs/d0/80/d08023247ac27be8abbcce64182296dd.png" length="0" type="image/png"/><pubDate>Tue, 01 Sep 2026 01:45:28 +0900</pubDate></item><item><title>Nokuchi.sre#0 〜プレオープン〜 【増席】【LT枠+】</title><link>https://nokuchi-sre.connpass.com/event/404411/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月16日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月16日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: ノクチラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒213-0001 神奈川県川崎市高津区溝口３丁目３−８(セシーズイシイ１０ 1階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nokuchisre&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
 &lt;p&gt;SRE（Site Reliability Engineering）に興味関心のある方！
 現役SREの方も、これからSREをやっていくぞな方も、そして学生さんも、いろんなバックグラウンドを持つ人が集まることで信頼性は向上されます！&lt;/p&gt;
 &lt;p&gt;勉強会やイベント初参加の方も、大歓迎です。温かくお迎えします！&lt;/p&gt;
@@ -846,23 +294,23 @@ Pythonスクリプトやアドオン製作も、少しなら助言できます�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:15-19:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;作っただけで終わらないKnowledge Base（仮）&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Hiroto&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:25-19:35&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;GameDayみたいなクラウド演習を自分で作ってみた&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;tonitoni415&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:35-19:45&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;「どのログを見ればいい？」から始めたサーバーレス障害解析&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;y_waka1&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:45-19:55&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;AWS IaCレビューのトイルをAI Agentで減らせるか？ KiroでReview Agentを作ってみた&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;伊佐薫明&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:55-20:05&lt;/td&gt;
@@ -871,18 +319,18 @@ Pythonスクリプトやアドオン製作も、少しなら助言できます�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;20:05-20:15&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;宇宙一早い re:Cap 前哨戦!? 日本一早い(?) ABWG 選出裏話 LT ～採択の裏には SRE あり～&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;yaya&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;宇宙一早い re:Cap 前哨戦!? 日本一早い(?) ABWG 選出裏話 LT ～採択の裏には SRE あり～&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;yaya&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;20:15-20:25&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;EC2、4つに増えたStatus Checksの使い方&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;suzryo&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;20:25-20:35&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;マルチクラウド環境でDNS障害が発生した話&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;ムカイヤマ&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;20:35-20:45&lt;/td&gt;
@@ -1153,7 +601,7 @@ AWSを活用したSREのプラクティス実践について語り合うコミ�
 &lt;li&gt;会場入館の目的に沿って会場提供者（社）に入館申請を行う場合&lt;/li&gt;
 &lt;li&gt;本人の同意がある場合&lt;/li&gt;
 &lt;li&gt;本人の生命の保護などのために必要な場合であって、緊急を要するなど、ご本人の同意を得ることが困難である場合&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-yokohama.connpass.com/event/403362/</guid><enclosure url="https://media.connpass.com/thumbs/c8/00/c8008b0af9b410cd09a797795a6c0df4.png" length="0" type="image/png"/><pubDate>Sun, 06 Sep 2026 11:37:32 +0900</pubDate></item><item><title>野毛もくもく会 #2</title><link>https://noge-junction.connpass.com/event/403800/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月22日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月22日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 野毛地区センター 会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市中区野毛町3丁目160-4 (ちぇるる野毛3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #野毛もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;雑談OKのゆるいもくもく会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-yokohama.connpass.com/event/403362/</guid><enclosure url="https://media.connpass.com/thumbs/c8/00/c8008b0af9b410cd09a797795a6c0df4.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 11:14:38 +0900</pubDate></item><item><title>野毛もくもく会 #2</title><link>https://noge-junction.connpass.com/event/403800/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月22日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月22日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 野毛地区センター 会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市中区野毛町3丁目160-4 (ちぇるる野毛3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #野毛もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;雑談OKのゆるいもくもく会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;プログラミング、勉強、読書、デザイン、資格学習、個人開発など、それぞれが取り組みたいことを持ち寄って、集中して作業する会です。&lt;/p&gt;
 &lt;p&gt;「自宅では集中しづらい」「作業する場所がほしい」「同じように頑張る人とゆるく交流したい」という方は、お気軽にご参加ください。&lt;/p&gt;
 &lt;p&gt;作業内容は自由です。経験を問わずご参加いただけます。&lt;/p&gt;
