@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 17:48:07 +0000</lastBuildDate><item><title>CodeRabbit User Group Okayama #1</title><link>https://crug.connpass.com/event/404267/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: レンタルスペース「アンジュ」&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区駅前町1-10-20 （駅前第一ビル3F）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CR_UG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIコードレビューで開発生産性を向上させよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;AIコードレビューサービス&lt;a href="https://coderabbit.link/atsushi" rel="nofollow"&gt;CodeRabbit&lt;/a&gt;のユーザーグループです。岡山初開催になります！&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 14 Sep 2026 19:42:07 +0000</lastBuildDate><item><title>CodeRabbit User Group Okayama #1</title><link>https://crug.connpass.com/event/404267/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: レンタルスペース「アンジュ」&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区駅前町1-10-20 （駅前第一ビル3F）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CR_UG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIコードレビューで開発生産性を向上させよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;AIコードレビューサービス&lt;a href="https://coderabbit.link/atsushi" rel="nofollow"&gt;CodeRabbit&lt;/a&gt;のユーザーグループです。岡山初開催になります！&lt;/p&gt;
 &lt;p&gt;近年、AI駆動開発が広まるに連れて、コードレビューに対する課題が取り沙汰されることが増えています。リードエンジニアの負荷増大、DevOpsにおけるコードレビューのボトルネック化などで悩んでいる方、チームも多いのではないでしょうか。&lt;/p&gt;
 &lt;p&gt;CodeRabbitは2023年に登場以降、多くの開発者・組織の方々にご利用いただいています。そうした中で聞かれるのは、よりコードレビューを自動化していくためにも、設定や運用での知見を得たいという声です。CodeRabbitはデフォルトの設定でも十分に成果が得られるため、そのままにしてしまっている方も多いようです。しかし、カスタマイズを行ってもらうことで、より高い効果が得られるようになります。&lt;/p&gt;
 &lt;p&gt;CodeRabbit User Groupでは実際にCodeRabbitを使っている方々をはじめ、AIによる開発生産性向上に取り組んでいる方々に登壇いただき、お話を伺います。チームはもちろん、個人でも役立つ知見になること請け合いです！&lt;/p&gt;
@@ -219,13 +219,13 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;14:15 - 14:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;セッション枠&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Flutter × ヘルスケア&lt;br&gt;〜 ネイティブコード０への挑戦 〜&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;フナモト さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;14:40 - 14:50&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;FlutterとiOS 27とiPhone Duo&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/kishisuke" rel="nofollow"&gt;kishisuke さん&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;ダイヤが欲しかっただけなのに、なぜかFlutterを書いています。&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;はりねずみ さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;14:50 - 15:00&lt;/td&gt;
@@ -234,13 +234,13 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;15:00 - 15:10&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;そのFlutterコード、なぜ書いた？&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/yakuran1" rel="nofollow"&gt;yakuran さん&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;FlutterとiOS 27とiPhone Duo&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/kishisuke" rel="nofollow"&gt;kishisuke さん&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;15:10 - 15:20&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT枠&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;TBD&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;そのFlutterコード、なぜ書いた？&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="https://x.com/yakuran1" rel="nofollow"&gt;yakuran さん&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;15:20 - 15:40&lt;/td&gt;
@@ -341,7 +341,7 @@ CoderDojoが初めての方は13:30位を目処にお越し下さい。不明点
 &lt;ul&gt;
 &lt;li&gt;“Flutter and the related logo are trademarks of Google LLC. FlutterKaigi is not affiliated with or otherwise sponsored by Google LLC.”&lt;/li&gt;
 &lt;li&gt;"Flutterおよび関連するロゴは、Google LLC の商標です。FlutterKaigi は、Google LLC との提携および、Google LLC が後援しているものでもないことに御留意下さい。”&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://flutterkaigi.connpass.com/event/401279/</guid><enclosure url="https://media.connpass.com/thumbs/45/4e/454ecb4f276b2506d010203b40d53bf0.png" length="0" type="image/png"/><pubDate>Thu, 10 Sep 2026 17:10:40 +0900</pubDate></item><item><title>ゲームジャム高梁2026 事前勉強会</title><link>https://hirouni.connpass.com/event/398030/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 【岡山】なのです 【香川】燈屋 【広島】port.cloud&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市児島駅前１丁目５３−３ 他&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲームジャム高梁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;刮目せよ。ゲームジャムが変わる。高梁が変える。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲームジャム高梁2026に向けて、事前勉強会を開催します！&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://flutterkaigi.connpass.com/event/401279/</guid><enclosure url="https://media.connpass.com/thumbs/45/4e/454ecb4f276b2506d010203b40d53bf0.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 10:25:12 +0900</pubDate></item><item><title>ゲームジャム高梁2026 事前勉強会</title><link>https://hirouni.connpass.com/event/398030/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 【岡山】なのです 【香川】燈屋 【広島】port.cloud&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市児島駅前１丁目５３−３ 他&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲームジャム高梁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;刮目せよ。ゲームジャムが変わる。高梁が変える。&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲームジャム高梁2026に向けて、事前勉強会を開催します！&lt;/h1&gt;
 &lt;p&gt;&lt;font size="3"&gt;こちらは&lt;u&gt;事前勉強会&lt;/u&gt;のページです。&lt;/font&gt;&lt;br&gt;
 ゲームジャム高梁2026への本参加は &lt;strong&gt;&lt;a href="https://okauni.connpass.com/event/398017/" rel="nofollow"&gt;こちらのエントリーページ&lt;/a&gt;&lt;/strong&gt; からお願いします&lt;/p&gt;
 &lt;h2&gt;ゲームジャム高梁 事前勉強会とは？&lt;/h2&gt;
@@ -620,7 +620,7 @@ Claude Community Ambassador として、9/22〜23 に高松で「うどんゲー
 &lt;li&gt;ゲームジャム高梁のロゴは &lt;a href="https://www.dakshithaprasanna.com" rel="nofollow"&gt;Dakshitha Prasanna&lt;/a&gt; さんに作成いただきました。&lt;/li&gt;
 &lt;li&gt;ゲームジャム高梁2026のイラストは  &lt;a href="https://lit.link/sira241tama" rel="nofollow"&gt;白玉&lt;/a&gt;  さんに描いていただきました。 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;素敵な作品をありがとうございます！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/398030/</guid><enclosure url="https://media.connpass.com/thumbs/3c/93/3c935fe448510bc0c2c4d1f997afbe35.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 22:18:55 +0900</pubDate></item><item><title>岡山エンジニア座談会 #20【Tech Guild】</title><link>https://okayama-engineer.connpass.com/event/401961/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: gilda&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区柳町２丁目６−６ 長屋102&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるくエンジニア談義を楽しみましょう♪&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【Tech Guild】岡山エンジニア座談会&lt;/h1&gt;
+&lt;p&gt;素敵な作品をありがとうございます！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/398030/</guid><enclosure url="https://media.connpass.com/thumbs/3c/93/3c935fe448510bc0c2c4d1f997afbe35.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 17:10:32 +0900</pubDate></item><item><title>岡山エンジニア座談会 #20【Tech Guild】</title><link>https://okayama-engineer.connpass.com/event/401961/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: gilda&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区柳町２丁目６−６ 長屋102&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるくエンジニア談義を楽しみましょう♪&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【Tech Guild】岡山エンジニア座談会&lt;/h1&gt;
 &lt;p&gt;岡山のエンジニア同士で気軽に交流できる座談会を開催します！&lt;br&gt;
 技術の話でも、趣味の話でも、仕事の愚痴でもOK！&lt;br&gt;
 エンジニア仲間とゆるく楽しく語り合いましょう🎉&lt;br&gt;
@@ -804,7 +804,7 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;blockquote&gt;
 &lt;p&gt;SORACOM User Group / ソラコムユーザーグループ（通称SORACOM UG）とは、業種や職業問わず、IoTやIoTプラットフォーム SORACOMについて関心を持った方、既に利用されている方、これからIoTを始める方が誰でも参加することが出来るコミュニティです。個人としてIoTに興味がある方や、IoTビジネスを提供されている方、これから自社のサービスや製品にIoTを取り入れようという方など、様々なバックグラウンド、経験を持った方が集まり、互いに学び合い、交流し合う場です。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;SORACOM UG Okayamaは、SORACOM UGの岡山支部になります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/405412/</guid><enclosure url="https://media.connpass.com/thumbs/43/b5/43b5d11d0e2cf2546e7d4bd23d47962b.png" length="0" type="image/png"/><pubDate>Mon, 31 Aug 2026 17:26:37 +0900</pubDate></item><item><title>【Okayama.なんか】もくもく会 #01</title><link>https://okayama-nanka.connpass.com/event/401459/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 倉敷物語館 2F（エレベーター、スロープなどバリアフリー設備有り）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市阿知2-23-18&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #okanan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりの Okayama.なんか は、いつもと趣向を変えて "もくもく会" をやります！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;約8ヶ月ぶりの "Okayama.なんか" は、もくもく会形式！&lt;/h2&gt;
+&lt;p&gt;SORACOM UG Okayamaは、SORACOM UGの岡山支部になります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/405412/</guid><enclosure url="https://media.connpass.com/thumbs/43/b5/43b5d11d0e2cf2546e7d4bd23d47962b.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 19:11:28 +0900</pubDate></item><item><title>【Okayama.なんか】もくもく会 #01</title><link>https://okayama-nanka.connpass.com/event/401459/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 倉敷物語館 2F（エレベーター、スロープなどバリアフリー設備有り）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市阿知2-23-18&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #okanan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりの Okayama.なんか は、いつもと趣向を変えて "もくもく会" をやります！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;約8ヶ月ぶりの "Okayama.なんか" は、もくもく会形式！&lt;/h2&gt;
 &lt;p&gt;"なんか" にはいろいろ入る、ざっくりテック系コミュニティ &lt;strong&gt;"Okayama.なんか"&lt;/strong&gt; 、約8ヶ月ぶりの開催となる今回は、いつもとは少し趣向を変えて &lt;strong&gt;"もくもく会"&lt;/strong&gt; 形式でのイベント開催をしてみようと思っています。&lt;/p&gt;
 &lt;p&gt;"もくもく会" とは？: 参加者が同じ場所やオンラインに集まり、それぞれ自分の作業を "黙々と" 進める会です。&lt;/p&gt;
 &lt;p&gt;勉強会のように講師の話を聞くのではなく、各自が思い思い、好きなことをします。たとえば、&lt;/p&gt;
@@ -1071,28 +1071,32 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;h2&gt;■ スポンサー&lt;/h2&gt;
 &lt;p&gt;本イベントは、以下の企業さまのご協賛により運営しています&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;🥇 ゴールドスポンサー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://waraku-da.co.jp/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/wadagumi.png" width="85%" alt="株式会社和田組"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a href="https://waraku-da.co.jp/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/wadagumi.png" width="85%" alt="株式会社和田組"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p align="center"&gt;&lt;a href="https://pscsrv.co.jp/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/pscsrv.svg" width="55%" alt="ピープルソフトウェア株式会社"&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;🥈 シルバースポンサー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nanodes.jp" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/nanodesu.jpeg" width="45%" alt="株式会社なのです"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a href="https://nanodes.jp" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/nanodesu.jpeg" width="40%" alt="株式会社なのです"&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;株式会社Useful さま（&lt;a href="https://useful-tao.com/" rel="nofollow"&gt;useful-tao.com&lt;/a&gt;）&lt;/p&gt;
+&lt;p align="center"&gt;株式会社Useful さま（&lt;a href="https://useful-tao.com/" rel="nofollow"&gt;useful-tao.com&lt;/a&gt;）&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;🥉 ブロンズスポンサー&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://waraku-da.co.jp/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/nagomi.jpg" width="30%" alt="株式会社和"&gt;&lt;/a&gt; &lt;a href="https://www.code54.net/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/code54.svg" width="30%" alt="株式会社CODE54"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a href="https://waraku-da.co.jp/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/nagomi.jpg" width="38%" alt="株式会社和"&gt;&lt;/a&gt;　&lt;a href="https://www.code54.net/" rel="nofollow"&gt;&lt;img src="https://techguild.jp/images/sponsors/code54.svg" width="28%" alt="株式会社CODE54"&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 &lt;h2&gt;主催&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://okayama-engineer.connpass.com/" rel="nofollow"&gt;岡山エンジニアコミュニティ【Tech Guild】&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;ご質問があればお気軽にどうぞ！
-皆さんのご参加をお待ちしています 🙌&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-engineer.connpass.com/event/401705/</guid><enclosure url="https://media.connpass.com/thumbs/d5/ed/d5ed206e66465b9db6639b898ed0d0c2.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 17:40:24 +0900</pubDate></item><item><title>ゲームジャム高梁2026</title><link>https://okauni.connpass.com/event/398017/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 吉備国際大学 国際交流会館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒716-0007 岡山県高梁市奥万田町3752-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲームジャム高梁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Game Jam Takahashi 2026 in Okayama, Japan&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲームジャム高梁2026開催します！&lt;/h1&gt;
+皆さんのご参加をお待ちしています 🙌&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-engineer.connpass.com/event/401705/</guid><enclosure url="https://media.connpass.com/thumbs/d5/ed/d5ed206e66465b9db6639b898ed0d0c2.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 09:59:00 +0900</pubDate></item><item><title>ゲームジャム高梁2026</title><link>https://okauni.connpass.com/event/398017/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 吉備国際大学 国際交流会館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒716-0007 岡山県高梁市奥万田町3752-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲームジャム高梁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Game Jam Takahashi 2026 in Okayama, Japan&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲームジャム高梁2026開催します！&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.city.takahashi.lg.jp" rel="nofollow"&gt;岡山県高梁（たかはし）市&lt;/a&gt;にて、即席チームが週末の二日間でゲームをつくるイベント&lt;strong&gt;&lt;em&gt;「ゲームジャム」&lt;/em&gt;&lt;/strong&gt;を今年も開催します！&lt;/p&gt;
 &lt;h1&gt;👾 ゲームジャムとは？&lt;/h1&gt;
 &lt;p&gt;週末の限られた時間の中で、ゲームをゼロから1本作ります。&lt;/p&gt;
@@ -1137,7 +1141,8 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;h2&gt;🎯 当日までの流れ&lt;/h2&gt;
 &lt;p&gt;1) このページにある「このイベントに申し込む」をクリックいただき、エントリーをしてください。&lt;br&gt;
 なお本ゲームジャムは &lt;strong&gt;イベント保険の加入&lt;/strong&gt; を行うため、&lt;strong&gt;アンケートは正しい情報&lt;/strong&gt; をご記入ください。&lt;/p&gt;
-&lt;p&gt;2) イベントの連絡等をDiscord上にて行います。イベントエントリー後にご参加ください。  &lt;/p&gt;
+&lt;p&gt;2) イベントの連絡等を　岡山Unity勉強会 Discord 上にて行います。&lt;br&gt;
+イベントエントリー後にこのページに表示される &lt;strong&gt;参加者への情報&lt;/strong&gt; をご参照の上、ご参加ください。  &lt;/p&gt;
 &lt;p&gt;3) 岡山県高梁市にある吉備国際大学の &lt;font size="3"&gt;&lt;a href="https://www1.kiui.jp/pc/campus/campusmap.html" rel="nofollow"&gt;国際交流会館&lt;/a&gt;&lt;/font&gt; で開催します。&lt;br&gt;
    当日受付の時間に 国際交流会館 の2階にお集まりください。&lt;/p&gt;
 &lt;h2&gt;🎒 持ち物リスト&lt;/h2&gt;
@@ -1467,7 +1472,7 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 ゲームジャム経験者がコツや参加する心得などをお伝えします。お気軽にご参加ください！&lt;/p&gt;
 &lt;p&gt;&lt;font size="3"&gt;&lt;a href="https://hirouni.connpass.com/event/398030/" rel="nofollow"&gt;事前勉強会 についてはこちら!&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;h2&gt;✨更新履歴&lt;/h2&gt;
-&lt;p&gt;2026年9月4日 : イベント情報を公開しました。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okauni.connpass.com/event/398017/</guid><enclosure url="https://media.connpass.com/thumbs/64/e7/64e78df2e70abe7981c872d58b170683.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 23:57:58 +0900</pubDate></item><item><title>THE岡山IT座談会#21</title><link>https://freelance-matchup.connpass.com/event/398863/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: ぬるまゆ堂&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市中央1-10-16&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #IT座談会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;そろそろホットコーヒー&lt;/p&gt;&lt;div&gt;&lt;p&gt;2024年度からTHE岡山IT座談会としてスタートします！希望として月一回ぐらいペースで開催を考えています。ITといっても幅広く捉えて、最近ハマっていることや気になること趣味の話などなんでも自由に雑談するところから始めましょう。&lt;br&gt;
+&lt;p&gt;2026年9月4日 : イベント情報を公開しました。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okauni.connpass.com/event/398017/</guid><enclosure url="https://media.connpass.com/thumbs/64/e7/64e78df2e70abe7981c872d58b170683.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 17:14:35 +0900</pubDate></item><item><title>THE岡山IT座談会#21</title><link>https://freelance-matchup.connpass.com/event/398863/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: ぬるまゆ堂&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市中央1-10-16&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #IT座談会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;そろそろホットコーヒー&lt;/p&gt;&lt;div&gt;&lt;p&gt;2024年度からTHE岡山IT座談会としてスタートします！希望として月一回ぐらいペースで開催を考えています。ITといっても幅広く捉えて、最近ハマっていることや気になること趣味の話などなんでも自由に雑談するところから始めましょう。&lt;br&gt;
 何か発表したい方も大歓迎です！プロジェクターもありますのでPCやスマホと繋げれます。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;手探り中のイベントではありますが、&lt;br&gt;
 気軽に楽しめる場を目指しています～。&lt;br&gt;

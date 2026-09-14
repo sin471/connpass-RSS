@@ -1,82 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 17:47:21 +0000</lastBuildDate><item><title>第8回それいけ。AI ～仙台のLT会(2026年9月14日)</title><link>https://soreike-ai.connpass.com/event/401677/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月14日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月14日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目4-19アーバンネット仙台中央ビル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;https://note.com/yui_nos/n/n53c2fd54d255&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;a href="https://note.com/yui_nos/n/n53c2fd54d255" rel="nofollow"&gt;過去のイベントレポートはこちら&lt;/a&gt;&lt;/h2&gt;
-&lt;h2&gt;本イベントについて&lt;/h2&gt;
-&lt;p&gt;NTTアーバンソリューションズ(YUI NOS)とNECソリューションイノベータが共同開催するAIをテーマにしたLT会です。&lt;/p&gt;
-&lt;p&gt;「会社を超えた交流の場」「新しい技術・知識に触れる場」「仙台を盛り上げる」という3つの目標を掲げ、両社が持つ知見と情熱を知恵の交流に活かすために開催します。
-この場が単なる技術紹介以上に、参加者同士のネットワーク形成や、仙台という地域の発展へのヒントを得られるようにしてきたいです。&lt;/p&gt;
-&lt;h2&gt;当日タイムテーブル&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開場&lt;/span&gt;
-&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開始&lt;/span&gt;
-&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;35&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;&lt;span class="n"&gt;分&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;質問1分&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;1&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;2&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;3&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;4&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;
-&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;6&lt;/span&gt;
-&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;集合写真撮影&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
-&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;交流会&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2&gt;その他&lt;/h2&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;◇会場：YUI NOS  2Fコワーキングスペース
-◇注意
-・写真撮影 OK  (映り込みなど配慮してください。運営も使います)
-・SNS投稿  OK  (写真は本人の了承得てください)
-◇会場
-・2Fで受付をしてください。  入退出はスタッフに声掛けください。
-◇ルール
-・連続の発表はご遠慮ください。間隔を2回程度空けてください。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h1&gt;YUI NOS 施設利用 プライバシーポリシー&lt;/h1&gt;
-&lt;p&gt;プライバシーポリシーに従ってください。
-https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
-&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
-&lt;p&gt;イベントに参加するみなさんは以下のポリシーを遵守するように心がけてください。
-(TokyoGirls.rb アンチハラスメントポリシーを参考にさせていただきました。ありがとうございます。）&lt;/p&gt;
-&lt;h2&gt;当ポリシーの目的と適用範囲&lt;/h2&gt;
-&lt;p&gt;当ポリシーは、イベントの参加者全員が楽しく、安全に集える場を維持するために策定されました。&lt;/p&gt;
-&lt;p&gt;「参加者全員が楽しく、安全に集える場を維持する」という目的には、「将来開催されるイベントについてもみなさんが不安や心配を感じることなく、気軽に参加できること」も含まれています。&lt;/p&gt;
-&lt;p&gt;よって、当ポリシーはイベント会場内の発言や行動だけでなく、イベント終了後に発生した参加者同士のコミュニケーションや、SNS・ブログ等での情報発信（このイベントに関するもの）に対しても適用されます。&lt;/p&gt;
-&lt;h2&gt;対象者&lt;/h2&gt;
-&lt;p&gt;イベントに関わる人たちは誰もが対等です。よって、当ポリシーはイベントに関わる、以下の全員が対象になります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;参加者&lt;/li&gt;
-&lt;li&gt;登壇者&lt;/li&gt;
-&lt;li&gt;スポンサー&lt;/li&gt;
-&lt;li&gt;運営スタッフ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当ポリシーでは、上記全員をまとめて「参加者」と表現します。ですので、「参加者」の中には登壇者やスポンサー、運営スタッフも含まれる点にご注意ください。&lt;/p&gt;
-&lt;h2&gt;ハラスメントの観点&lt;/h2&gt;
-&lt;p&gt;ハラスメント（他人を困らせる行為や嫌がらせ）の観点には、以下のような例があります。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ジェンダー、性自認やジェンダー表現、性的指向&lt;/li&gt;
-&lt;li&gt;障がい&lt;/li&gt;
-&lt;li&gt;外見、身体的特徴&lt;/li&gt;
-&lt;li&gt;人種、民族、国籍&lt;/li&gt;
-&lt;li&gt;年齢&lt;/li&gt;
-&lt;li&gt;宗教&lt;/li&gt;
-&lt;li&gt;特定のツールや技術、プログラミング言語と、その愛好者またはコミュニティ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ただし、上記の観点はあくまで一例です。上記以外の観点であっても、参加者が不快、不安に感じる発言や行動はハラスメントとみなされます。&lt;/p&gt;
-&lt;h2&gt;禁止行為&lt;/h2&gt;
-&lt;p&gt;上記の観点に対する、以下のような行為を禁止します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;攻撃的、非建設的、過剰に批判的な発言や揶揄（やゆ）&lt;/li&gt;
-&lt;li&gt;脅迫、ストーキング、つきまとい&lt;/li&gt;
-&lt;li&gt;不適切な身体的接触&lt;/li&gt;
-&lt;li&gt;性的な関心を引く行為（性的な画像の掲示や、性的なコスチュームの着用等）&lt;/li&gt;
-&lt;li&gt;ジェンダーを強く意識させるコンテキストで、特定の個人をほめたたえる行為&lt;/li&gt;
-&lt;li&gt;その他、スタッフがハラスメントであると判断した行為&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;言うまでもありませんが、性的なハラスメントについては男性から女性に対してだけではなく、女性から男性に対するハラスメントも禁止です。&lt;/p&gt;
-&lt;h2&gt;ハラスメントを受けたら、判断に迷ったら&lt;/h2&gt;
-&lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
-&lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
-&lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/401677/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Fri, 24 Jul 2026 21:49:47 +0900</pubDate></item><item><title>AIモブプロナイト 〜みんなでプロダクトを作ってみよう！〜</title><link>https://suku3rum-sendai.connpass.com/event/405336/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月16日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月16日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0803 宮城県仙台市青葉区国分町1-4-9 enspace&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #suc3rum&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIモブプロでアジャイルなプロダクト開発を一緒に体感しよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;今月のすくすくスクラム仙台は、いつもの「話す会」から一歩進んで、&lt;strong&gt;実際に手を動かす回&lt;/strong&gt;です。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 14 Sep 2026 19:41:18 +0000</lastBuildDate><item><title>AIモブプロナイト 〜みんなでプロダクトを作ってみよう！〜</title><link>https://suku3rum-sendai.connpass.com/event/405336/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月16日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月16日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0803 宮城県仙台市青葉区国分町1-4-9 enspace&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #suc3rum&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIモブプロでアジャイルなプロダクト開発を一緒に体感しよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;今月のすくすくスクラム仙台は、いつもの「話す会」から一歩進んで、&lt;strong&gt;実際に手を動かす回&lt;/strong&gt;です。&lt;/p&gt;
 &lt;p&gt;テーマは「AI × モブプログラミング」。
 ChatGPTやClaude Codeなどの生成AIをドライバー役・ナビゲーター役としてみんなで使いながら、モブプログラミングのスタイルで実際に何かひとつのプロダクト（Webアプリ／ツール／ちょっとした自動化スクリプトなど）を、その場のアイデア出しから一緒に作ってみます。&lt;/p&gt;
 &lt;p&gt;「AIを使うとモブプログラミングはどう変わるのか？」
@@ -394,7 +317,7 @@ ChatGPTやClaude Codeなどの生成AIをドライバー役・ナビゲーター
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;18:55&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;セッション｜プロンプトインジェクション対策、マネージドと自前を比較してみた&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;セッション｜プロンプトインジェクション、WAF と Guardrails をすり抜けるものをどう防ぐか&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;山田&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -477,7 +400,7 @@ ChatGPTやClaude Codeなどの生成AIをドライバー役・ナビゲーター
 &lt;a href="https://classmethod.connpass.com/event/400601/" rel="nofollow"&gt;&lt;img src="https://devio2024-media.developers.io/image/upload/f_auto/q_auto/v1787569719/2026/08/24/zpq9t9xygpcpttvrjakv.png" alt="広島：10/16（金）"&gt;&lt;/a&gt;
 &lt;a href="https://classmethod.connpass.com/event/402011/" rel="nofollow"&gt;&lt;img src="https://devio2024-media.developers.io/image/upload/f_auto/q_auto/v1787569731/2026/08/24/iokfbfxochxldaodd31i.png" alt="日比谷"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[更新履歴]&lt;br&gt;
-2026/08/27 11:00&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/400583/</guid><enclosure url="https://media.connpass.com/thumbs/36/1f/361f6bc71eefceb1821753fed3e5b013.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 17:35:17 +0900</pubDate></item><item><title>SendAI Meetup #9</title><link>https://sendai-ai-lab.connpass.com/event/403411/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月24日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月24日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社 Biz Freak 仙台本社&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町3丁目3-20 京阪仙台一番町ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SendAI Meetup（センドエーアイ ミートアップ）&lt;/h1&gt;
+2026/08/27 11:00&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/400583/</guid><enclosure url="https://media.connpass.com/thumbs/36/1f/361f6bc71eefceb1821753fed3e5b013.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 13:36:46 +0900</pubDate></item><item><title>SendAI Meetup #9</title><link>https://sendai-ai-lab.connpass.com/event/403411/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月24日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月24日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社 Biz Freak 仙台本社&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町3丁目3-20 京阪仙台一番町ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SendAI Meetup（センドエーアイ ミートアップ）&lt;/h1&gt;
 &lt;h2&gt;当イベントについて&lt;/h2&gt;
 &lt;p&gt;SendAI Meetup（センドエーアイ ミートアップ）は、仙台でAI・生成AIについて学び、知見を共有するコミュニティです。&lt;/p&gt;
 &lt;p&gt;エンジニア、ビジネスパーソン、学生など、立場を問わずご参加いただけます。LT（ライトニングトーク）や交流を通して、「AIをどう使うか」「どう活かすか」を参加者同士で共有します。&lt;/p&gt;
