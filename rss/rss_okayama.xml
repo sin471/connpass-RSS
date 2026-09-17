@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 16 Sep 2026 18:34:04 +0000</lastBuildDate><item><title>CodeRabbit User Group Okayama #1</title><link>https://crug.connpass.com/event/404267/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: レンタルスペース「アンジュ」&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区駅前町1-10-20 （駅前第一ビル3F）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CR_UG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIコードレビューで開発生産性を向上させよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;AIコードレビューサービス&lt;a href="https://coderabbit.link/atsushi" rel="nofollow"&gt;CodeRabbit&lt;/a&gt;のユーザーグループです。岡山初開催になります！&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 17 Sep 2026 18:42:15 +0000</lastBuildDate><item><title>CodeRabbit User Group Okayama #1</title><link>https://crug.connpass.com/event/404267/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: レンタルスペース「アンジュ」&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区駅前町1-10-20 （駅前第一ビル3F）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CR_UG&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIコードレビューで開発生産性を向上させよう！&lt;/p&gt;&lt;div&gt;&lt;p&gt;AIコードレビューサービス&lt;a href="https://coderabbit.link/atsushi" rel="nofollow"&gt;CodeRabbit&lt;/a&gt;のユーザーグループです。岡山初開催になります！&lt;/p&gt;
 &lt;p&gt;近年、AI駆動開発が広まるに連れて、コードレビューに対する課題が取り沙汰されることが増えています。リードエンジニアの負荷増大、DevOpsにおけるコードレビューのボトルネック化などで悩んでいる方、チームも多いのではないでしょうか。&lt;/p&gt;
 &lt;p&gt;CodeRabbitは2023年に登場以降、多くの開発者・組織の方々にご利用いただいています。そうした中で聞かれるのは、よりコードレビューを自動化していくためにも、設定や運用での知見を得たいという声です。CodeRabbitはデフォルトの設定でも十分に成果が得られるため、そのままにしてしまっている方も多いようです。しかし、カスタマイズを行ってもらうことで、より高い効果が得られるようになります。&lt;/p&gt;
 &lt;p&gt;CodeRabbit User Groupでは実際にCodeRabbitを使っている方々をはじめ、AIによる開発生産性向上に取り組んでいる方々に登壇いただき、お話を伺います。チームはもちろん、個人でも役立つ知見になること請け合いです！&lt;/p&gt;
@@ -407,7 +407,22 @@ MKTkakumei(2019年から主に二次創作中心に行ったVRoidアバターの
 &lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Google AntiGravity IDE から Unity を操作し、キューブやスフィアなどのオブジェクトを生成・操作する方法を説明します。実際のデモを交えながらハンズオン形式でご紹介します。
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;h3&gt;セッション3 : 未定&lt;/h3&gt;
+&lt;h3&gt;セッション3 : コーディングAIでできること、できないこと&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/42/c9/42c9f6e25ffaa3dc215bfcb9e00f2c3b.png" width="60px"&gt;&lt;br&gt;
+発表者 : 讃岐GameN りゅうせいさん&lt;/p&gt;
+&lt;p&gt;香川県のSE。趣味でゲームやツールを作っています。一般社団法人 讃岐GameN 理事。
+Claude Community Ambassador として、9/22〜23 に高松で「うどんゲームジャム」(Claude Code のゲームジャム) を開催。&lt;/p&gt;
+&lt;p&gt;【過去に携わったゲームなど】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;うどんプッシャー (Unity、BitSummit 2026 出展)&lt;/li&gt;
+&lt;li&gt;ドラゴンキャッチ (ARグラスのARゲーム、東京ゲームショウ出展)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;AIにできることは数か月で変わるので、個別のツールの使い方ではなく、長く使える考え方を話します。
+コーディングAIが読めるのはテキストと画像、出せるのはテキストだけで、ゲームの体験はその入出力のどこにも無い。だから任せるには、人間側が「AIがゲームを観測し、判定できる仕組み」を設計する必要があります。その考え方と工夫を、実際のゲーム制作の例を交えて話します。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;対象 : AIを使ってゲーム開発の負荷を下げたい人、AI活用の幅を広げたい人。&lt;/p&gt;
+&lt;h3&gt;セッション4 : 未定&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/68/6a/686a8c1b9a9a99a7c450eb5ac9efd88c.png" width="60px"&gt;&lt;br&gt;
 発表者. 岡山Unity勉強会 かふうさん&lt;/p&gt;
 &lt;p&gt;Unityアンバサダー、ゲームジャム、Unity、&lt;a href="https://okauni.jimdofree.com/" rel="nofollow"&gt;岡山Unity勉強会&lt;/a&gt; をやってたり&lt;a href="http://extrival.com/" rel="nofollow"&gt;Extrival&lt;/a&gt;を手伝ってたり。 &lt;br&gt;
@@ -419,7 +434,7 @@ MKTkakumei(2019年から主に二次創作中心に行ったVRoidアバターの
 &lt;li&gt;&lt;a href="https://cafoo.itch.io/my-flower-garden" rel="nofollow"&gt;My Flower Garden (ぼっげ～むジャム 2022)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://unityroom.com/games/meteorroots" rel="nofollow"&gt;Meteor Roots (Global Game Jam 2023)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;セッション4 : Notion で Claude をマネジメントするゲーム開発事例&lt;/h3&gt;
+&lt;h3&gt;セッション5 : Notion で Claude をマネジメントするゲーム開発事例&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/993529371678855168/JJVB75Lw_400x400.jpg" width="60px"&gt;&lt;br&gt;
 発表者 ウラクラスタ ゆーりさん&lt;/p&gt;
 &lt;p&gt;【過去に携わったゲームなど】 &lt;/p&gt;
@@ -431,7 +446,14 @@ AIでコードを書くのはもちろん。タスク管理や進捗整理など
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;対象 : 初学者、非エンジニア向け。&lt;/p&gt;
-&lt;h3&gt;セッション5 : 大炎上！プロマネブラザーズ / 最後の切り札とは？&lt;/h3&gt;
+&lt;h3&gt;セッション6(特別招待講演) : 高梁市について(仮)&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://kamera25.github.io/event/hirouni/2025_gjtakahashi/Minami-sama_icon.jpg" width="60px"&gt;&lt;br&gt;
+発表者 一般社団法人 高梁市観光協会 高梁支部 南さん&lt;/p&gt;
+&lt;p&gt;【経歴】高梁市観光協会へ2005年に参画。2016年～2017年、岡山県観光連盟へ出向。2020年より事務局長に就任し、事務局運営の総合的な責任を担うとともに、関係団体との調整役として地域の連携を推進。「天空の城」や「猫城主さんじゅーろー」をはじめとする、岡山県高梁市のプロモーションにも力を注ぎ、高梁市の魅力発信と地域活性化に取り組んでいる。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://takahasikanko.or.jp" rel="nofollow"&gt;一般社団法人 高梁市観光協会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;セッション7 : 大炎上！プロマネブラザーズ / 最後の切り札とは？&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/99/f5/99f5e91bbea22fea2e7be6647be8c238.png" width="60px"&gt;&lt;br&gt;
 発表者 : 広島Unity勉強会 kamera25さん&lt;/p&gt;
 &lt;p&gt;本職は雑食系ネットワークエンジニア。&lt;br&gt;
@@ -452,23 +474,83 @@ AIでコードを書くのはもちろん。タスク管理や進捗整理など
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;対象 : ゲームジャム高梁でチームリーダーをやってみたい、という方&lt;/p&gt;
-&lt;h3&gt;セッション6 : コーディングAIでできること、できないこと&lt;/h3&gt;
-&lt;p&gt;&lt;img src="https://media.connpass.com/thumbs/42/c9/42c9f6e25ffaa3dc215bfcb9e00f2c3b.png" width="60px"&gt;&lt;br&gt;
-発表者 : 讃岐GameN りゅうせいさん&lt;/p&gt;
-&lt;p&gt;香川県のSE。趣味でゲームやツールを作っています。一般社団法人 讃岐GameN 理事。
-Claude Community Ambassador として、9/22〜23 に高松で「うどんゲームジャム」(Claude Code のゲームジャム) を開催。&lt;/p&gt;
-&lt;p&gt;【過去に携わったゲームなど】&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;うどんプッシャー (Unity、BitSummit 2026 出展)&lt;/li&gt;
-&lt;li&gt;ドラゴンキャッチ (ARグラスのARゲーム、東京ゲームショウ出展)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;AIにできることは数か月で変わるので、個別のツールの使い方ではなく、長く使える考え方を話します。
-コーディングAIが読めるのはテキストと画像、出せるのはテキストだけで、ゲームの体験はその入出力のどこにも無い。だから任せるには、人間側が「AIがゲームを観測し、判定できる仕組み」を設計する必要があります。その考え方と工夫を、実際のゲーム制作の例を交えて話します。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;対象 : AIを使ってゲーム開発の負荷を下げたい人、AI活用の幅を広げたい人。&lt;/p&gt;
-
-
+&lt;h1&gt;🗓️ タイムテーブル (目安)&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;開始&lt;/th&gt;
+&lt;th style="text-align: right;"&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;12:45&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;15分&lt;/td&gt;
+&lt;td&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;13:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;10分&lt;/td&gt;
+&lt;td&gt;開会挨拶・各会場案内&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;13:10&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;20分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;山根信二さん「ゲームを面白くするには」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;13:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;25分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MKTkakumeiさん「AntiGravity IDEとUnityをCLI連携してシーンを操作してみる」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;13:55&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;20分&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;休憩&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;14:15&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;25分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;りゅうせいさん「コーディングAIでできること、できないこと」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;14:40&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;15分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;かふうさん「未定」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;14:55&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;20分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ゆーりさん「NotionでClaudeをマネジメントするゲーム開発事例」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;15:15&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;15分&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;休憩&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;15:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;15分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;南さん 「高梁市について(仮)」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;15:45&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;strong&gt;15分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;kamera25さん「大炎上！プロマネブラザーズ / 最後の切り札とは？」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;16:00&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;10分&lt;/td&gt;
+&lt;td&gt;ゲームジャム高梁2026案内・各会場からのお知らせ・閉会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;16:15&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right;"&gt;&lt;/td&gt;
+&lt;td&gt;完全終了＆岡山/香川/広島会場 は もくもく会開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;※ タイムスケジュールは当日の状況や盛り上がりにより、時刻が前後することがあります。あらかじめご了承ください。&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;※ 延長となっても16:30までに完全終了となります。&lt;/strong&gt;&lt;/p&gt;
 &lt;h1&gt;🏃 参加方法&lt;/h1&gt;
@@ -634,7 +716,7 @@ Claude Community Ambassador として、9/22〜23 に高松で「うどんゲー
 &lt;li&gt;ゲームジャム高梁のロゴは &lt;a href="https://www.dakshithaprasanna.com" rel="nofollow"&gt;Dakshitha Prasanna&lt;/a&gt; さんに作成いただきました。&lt;/li&gt;
 &lt;li&gt;ゲームジャム高梁2026のイラストは  &lt;a href="https://lit.link/sira241tama" rel="nofollow"&gt;白玉&lt;/a&gt;  さんに描いていただきました。 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;素敵な作品をありがとうございます！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/398030/</guid><enclosure url="https://media.connpass.com/thumbs/3c/93/3c935fe448510bc0c2c4d1f997afbe35.png" length="0" type="image/png"/><pubDate>Wed, 16 Sep 2026 11:12:47 +0900</pubDate></item><item><title>岡山エンジニア座談会 #20【Tech Guild】</title><link>https://okayama-engineer.connpass.com/event/401961/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: gilda&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区柳町２丁目６−６ 長屋102&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるくエンジニア談義を楽しみましょう♪&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【Tech Guild】岡山エンジニア座談会&lt;/h1&gt;
+&lt;p&gt;素敵な作品をありがとうございます！&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hirouni.connpass.com/event/398030/</guid><enclosure url="https://media.connpass.com/thumbs/3c/93/3c935fe448510bc0c2c4d1f997afbe35.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 23:17:23 +0900</pubDate></item><item><title>岡山エンジニア座談会 #20【Tech Guild】</title><link>https://okayama-engineer.connpass.com/event/401961/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 15:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: gilda&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区柳町２丁目６−６ 長屋102&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゆるくエンジニア談義を楽しみましょう♪&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【Tech Guild】岡山エンジニア座談会&lt;/h1&gt;
 &lt;p&gt;岡山のエンジニア同士で気軽に交流できる座談会を開催します！&lt;br&gt;
 技術の話でも、趣味の話でも、仕事の愚痴でもOK！&lt;br&gt;
 エンジニア仲間とゆるく楽しく語り合いましょう🎉&lt;br&gt;
@@ -1213,10 +1295,6 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;td&gt;定員&lt;/td&gt;
 &lt;td&gt;40名程度&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;申込締切&lt;/td&gt;
-&lt;td&gt;2026年8月31日（月）&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3&gt;会場アクセス&lt;/h3&gt;
@@ -1357,7 +1435,7 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;p&gt;&lt;a href="https://okayama-engineer.connpass.com/" rel="nofollow"&gt;岡山エンジニアコミュニティ【Tech Guild】&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;ご質問があればお気軽にどうぞ！
-皆さんのご参加をお待ちしています 🙌&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-engineer.connpass.com/event/401705/</guid><enclosure url="https://media.connpass.com/thumbs/d5/ed/d5ed206e66465b9db6639b898ed0d0c2.png" length="0" type="image/png"/><pubDate>Wed, 16 Sep 2026 18:21:47 +0900</pubDate></item><item><title>ゲームジャム高梁2026</title><link>https://okauni.connpass.com/event/398017/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 吉備国際大学 国際交流会館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒716-0007 岡山県高梁市奥万田町3752-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲームジャム高梁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Game Jam Takahashi 2026 in Okayama, Japan&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲームジャム高梁2026開催します！&lt;/h1&gt;
+皆さんのご参加をお待ちしています 🙌&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-engineer.connpass.com/event/401705/</guid><enclosure url="https://media.connpass.com/thumbs/d5/ed/d5ed206e66465b9db6639b898ed0d0c2.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 09:38:45 +0900</pubDate></item><item><title>ゲームジャム高梁2026</title><link>https://okauni.connpass.com/event/398017/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: 吉備国際大学 国際交流会館&lt;/li&gt;&lt;li&gt;🏢 住所: 〒716-0007 岡山県高梁市奥万田町3752-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ゲームジャム高梁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Game Jam Takahashi 2026 in Okayama, Japan&lt;/p&gt;&lt;div&gt;&lt;h1&gt;ゲームジャム高梁2026開催します！&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.city.takahashi.lg.jp" rel="nofollow"&gt;岡山県高梁（たかはし）市&lt;/a&gt;にて、即席チームが週末の二日間でゲームをつくるイベント&lt;strong&gt;&lt;em&gt;「ゲームジャム」&lt;/em&gt;&lt;/strong&gt;を今年も開催します！&lt;/p&gt;
 &lt;h1&gt;👾 ゲームジャムとは？&lt;/h1&gt;
 &lt;p&gt;週末の限られた時間の中で、ゲームをゼロから1本作ります。&lt;/p&gt;

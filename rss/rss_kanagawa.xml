@@ -1,115 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 16 Sep 2026 18:33:33 +0000</lastBuildDate><item><title>Nokuchi.sre#0 〜プレオープン〜 【増席】【LT枠+】</title><link>https://nokuchi-sre.connpass.com/event/404411/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月16日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月16日(水) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: ノクチラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒213-0001 神奈川県川崎市高津区溝口３丁目３−８(セシーズイシイ１０ 1階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nokuchisre&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
-&lt;p&gt;SRE（Site Reliability Engineering）に興味関心のある方！
-現役SREの方も、これからSREをやっていくぞな方も、そして学生さんも、いろんなバックグラウンドを持つ人が集まることで信頼性は向上されます！&lt;/p&gt;
-&lt;p&gt;勉強会やイベント初参加の方も、大歓迎です。温かくお迎えします！&lt;/p&gt;
-&lt;p&gt;交流会では、実際に飲食間借り系SREとして活動をしている主催者を始めとした食事担当者が参加者のお腹を満たします！
-この枠は今後、希望があれば一般公募になる可能性もあります。
-（支払いが発生するため、希望者の方のみ提供とします。ご了承ください）&lt;/p&gt;
-&lt;h1&gt;目的&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;地域コミニュティとして、その地域ならではの雰囲気を知りながら信頼性に関心のある人と交流する&lt;/li&gt;
-&lt;li&gt;はじめてのLT参加の場として、アウトプットしたい人やSREについて知りたい人を応援する&lt;/li&gt;
-&lt;li&gt;飲食を始めたい人、トライアルしてみたい方の最初の一歩を応援する&lt;/li&gt;
-&lt;li&gt;（重厚な発表の場というよりも）気軽に発表して、参加者同士で交流する&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;タイムスケジュール&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30-19:00&lt;/td&gt;
-&lt;td&gt;開場 / 受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00-19:10&lt;/td&gt;
-&lt;td&gt;会の案内、二次会会場おすすめお知らせなど&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:10-19:15&lt;/td&gt;
-&lt;td&gt;飲食担当者からひとこと！&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:20-19:30&lt;/td&gt;
-&lt;td&gt;SRE枠 / TBD. / MoneyForest&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:30-19:40&lt;/td&gt;
-&lt;td&gt;SRE枠 / ほんとうの信頼性は、ヒーローが死んでからはじまる / VTRyo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:40-19:50&lt;/td&gt;
-&lt;td&gt;Non-SRE枠 / オンコール体制を作る時にめちゃくちゃ考えた話(仮) / htanaka0828&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:50-20:00&lt;/td&gt;
-&lt;td&gt;SRE枠 / TBD / Kaoru Oda&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:00-20:10&lt;/td&gt;
-&lt;td&gt;LT&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15〜&lt;/td&gt;
-&lt;td&gt;会のまとめなど&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:20~&lt;/td&gt;
-&lt;td&gt;休憩&amp;amp;交流会準備&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;22:00&lt;/td&gt;
-&lt;td&gt;会場解散&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;登壇枠について&lt;/h1&gt;
-&lt;p&gt;ずっと気軽に発表できる場が欲しいと思っていました。15分や30分の発表は登壇者も聴衆も負荷が高いものです。
-「10分だけ話す」という形を通じて、これまで話す勇気がなかった方の第一歩になれると良いなと思っています。
-（主催者が若い頃、初心者歓迎勉強会でさんざん登壇させてもらったことを感謝している、という経緯があります）&lt;/p&gt;
-&lt;h2&gt;SRE枠&lt;/h2&gt;
-&lt;p&gt;すでにSREとしてご活躍されている方の枠です。&lt;/p&gt;
-&lt;h2&gt;Non-SRE / 1年未満SRE&lt;/h2&gt;
-&lt;p&gt;SREというロールで活動されていない方、もしくは活動期間が1年未満の方の枠です。&lt;/p&gt;
-&lt;h2&gt;学生枠&lt;/h2&gt;
-&lt;p&gt;登壇したい学生さん用の枠です。&lt;/p&gt;
-&lt;h1&gt;それ以外の枠について&lt;/h1&gt;
-&lt;h2&gt;一般枠&lt;/h2&gt;
-&lt;p&gt;登壇しない参加希望の方はこちらでお願い致します。&lt;/p&gt;
-&lt;h2&gt;会場おてつだい枠&lt;/h2&gt;
-&lt;p&gt;会場設営、イベント開催中のおてつだいをしてくれる当日スタッフを募集中です。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主な仕事&lt;ul&gt;
-&lt;li&gt;受付&lt;/li&gt;
-&lt;li&gt;椅子や机の移動&lt;/li&gt;
-&lt;li&gt;飲食のサービング&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;交流会について&lt;/h1&gt;
-&lt;p&gt;Nokuchi.sreの最大の特徴として、会場にキッチンがついております。
-ここで飲食を調理し、参加者の方に振る舞います！（有料となります）&lt;/p&gt;
-&lt;h2&gt;今回の担当者 "&lt;a href="https://www.instagram.com/spicefoodlabo_nishige/" rel="nofollow"&gt;SPICE FOOD LABOにしげ&lt;/a&gt;"&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" src="https://pbs.twimg.com/media/HPHhoaJbIAAdC5u?format=jpg&amp;amp;name=large"&gt;&lt;/p&gt;
-&lt;p&gt;川崎市・溝の口を中心に活動する間借りカレー屋です。&lt;/p&gt;
-&lt;p&gt;20種のスパイスが紡ぐ、スリランカ仕込みの本気。
-現地で学んだ本場の味をベースに、
-隠し味の醤油とスリランカ産スパイス20種で独自の深みを追求。&lt;/p&gt;
-&lt;p&gt;出店スケジュール・場所はSNSで随時お知らせいたします&lt;/p&gt;
-&lt;p&gt;スパイスフードラボにしげの公式noteを始めました！
-カレーや当店にまつわることを更新していきますので、ぜひご覧ください！
-&lt;a href="https://note.com/nishigecurry" rel="nofollow"&gt;https://note.com/nishigecurry&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;ご注意点&lt;/h2&gt;
-&lt;p&gt;さまざまな理由から、以下の点を先にご理解いただきますようお願い致します。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;こちらから提供する飲食は、担当店が示す値段を頂戴します&lt;/li&gt;
-&lt;li&gt;飲食は交流を円滑にするためのものです。発表を聞こうとしない、交流しようとしない場合は提供せずにご退出いただくことがあります&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://nokuchi-sre.connpass.com/event/404411/</guid><enclosure url="https://media.connpass.com/thumbs/7f/92/7f921c8db5b0a1181e73ae46f62ccc64.png" length="0" type="image/png"/><pubDate>Mon, 14 Sep 2026 16:46:25 +0900</pubDate></item><item><title>JAWS-UG横浜 #103 SRE支部コラボLT会</title><link>https://jawsug-yokohama.connpass.com/event/403362/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: YAMAHA MOTOR Regenerative Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 〒220-0012 神奈川県横浜市西区みなとみらい5丁目1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugyokohama&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;お知らせ&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>神奈川のイベント</title><link>https://connpass.com/explore/</link><description>神奈川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>神奈川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 17 Sep 2026 18:41:41 +0000</lastBuildDate><item><title>JAWS-UG横浜 #103 SRE支部コラボLT会</title><link>https://jawsug-yokohama.connpass.com/event/403362/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月18日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月18日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: YAMAHA MOTOR Regenerative Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 〒220-0012 神奈川県横浜市西区みなとみらい5丁目1番2号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugyokohama&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;お知らせ&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2026/08/17 イベントページを公開しました&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2026/09/12 LT枠の登壇タイトルをタイムテーブルに反映しました&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2026/09/13 参加登録・キャンセルは、9/17(木) 12:00 am までにお願いします&lt;/strong&gt;&lt;/p&gt;
@@ -291,7 +181,7 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;&lt;strong&gt;大栗宗 (クラスメソッド)&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src="https://scontent-itm1-1.xx.fbcdn.net/v/t39.30808-6/436197586_3103388843125067_1071948251783596237_n.jpg?_nc_cat=105&amp;amp;ccb=1-7&amp;amp;_nc_sid=6ee11a&amp;amp;_nc_ohc=3nwFJ1W4sK0Q7kNvwFmZmdj&amp;amp;_nc_oc=AdlAFTqyRpBORsOjMd8HkzSnjBx50PNsCnv_AAPedN_OMiBf9ZlHhlkAcn141JM3A8VaNLATO-VpTjsluh-4POdy&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent-itm1-1.xx&amp;amp;_nc_gid=G4aeVykT6RdIDI9NdVOdvw&amp;amp;oh=00_AfTXAxAa3f6yjzgWCHkZDsTLbJNeGj6uPGobCczMRn0SHQ&amp;amp;oe=6872700A" width="400"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://s3-ap-northeast-1.amazonaws.com/img.jawsug-yokohama.connpass.com/oguri.jpg"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;最近 AWS のお仕事を再開してます。マルチクラウド的な感じで。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -453,7 +343,7 @@ AWSを活用したSREのプラクティス実践について語り合うコミ�
 &lt;li&gt;会場入館の目的に沿って会場提供者（社）に入館申請を行う場合&lt;/li&gt;
 &lt;li&gt;本人の同意がある場合&lt;/li&gt;
 &lt;li&gt;本人の生命の保護などのために必要な場合であって、緊急を要するなど、ご本人の同意を得ることが困難である場合&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-yokohama.connpass.com/event/403362/</guid><enclosure url="https://media.connpass.com/thumbs/c8/00/c8008b0af9b410cd09a797795a6c0df4.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 01:01:33 +0900</pubDate></item><item><title>野毛もくもく会 #2</title><link>https://noge-junction.connpass.com/event/403800/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月22日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月22日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 野毛地区センター 会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市中区野毛町3丁目160-4 (ちぇるる野毛3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #野毛もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;雑談OKのゆるいもくもく会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-yokohama.connpass.com/event/403362/</guid><enclosure url="https://media.connpass.com/thumbs/c8/00/c8008b0af9b410cd09a797795a6c0df4.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 12:38:01 +0900</pubDate></item><item><title>野毛もくもく会 #2</title><link>https://noge-junction.connpass.com/event/403800/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月22日(火) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月22日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 野毛地区センター 会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横浜市中区野毛町3丁目160-4 (ちぇるる野毛3階)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #野毛もくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;雑談OKのゆるいもくもく会です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;プログラミング、勉強、読書、デザイン、資格学習、個人開発など、それぞれが取り組みたいことを持ち寄って、集中して作業する会です。&lt;/p&gt;
 &lt;p&gt;「自宅では集中しづらい」「作業する場所がほしい」「同じように頑張る人とゆるく交流したい」という方は、お気軽にご参加ください。&lt;/p&gt;
 &lt;p&gt;作業内容は自由です。経験を問わずご参加いただけます。&lt;/p&gt;
@@ -529,7 +419,7 @@ AWSを活用したSREのプラクティス実践について語り合うコミ�
 &lt;li&gt;セールスやリクルーティングを目的とした参加はご遠慮ください。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;この会について&lt;/h2&gt;
-&lt;p&gt;この会は、参加者全員が気持ちよく過ごせる場を目指しています。皆さまのご協力をお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://noge-junction.connpass.com/event/403800/</guid><enclosure url="https://media.connpass.com/thumbs/34/c5/34c500a10e24dc6f0157098b843f4b8f.png" length="0" type="image/png"/><pubDate>Tue, 08 Sep 2026 08:52:57 +0900</pubDate></item><item><title>第69回 CoderDojo厚木</title><link>https://coderdojo-atsugi.connpass.com/event/405415/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 12:30&lt;/li&gt;&lt;li&gt;📍 会場: アミューあつぎ 6F&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県厚木市中町2丁目12-15&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CoderDojoは、誰でも無料で参加できる子どもたちがプログラミングを学ぶ場を提供する活動です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;CoderDojo厚木&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;この会は、参加者全員が気持ちよく過ごせる場を目指しています。皆さまのご協力をお願いいたします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://noge-junction.connpass.com/event/403800/</guid><enclosure url="https://media.connpass.com/thumbs/34/c5/34c500a10e24dc6f0157098b843f4b8f.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 18:55:46 +0900</pubDate></item><item><title>第69回 CoderDojo厚木</title><link>https://coderdojo-atsugi.connpass.com/event/405415/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 12:30&lt;/li&gt;&lt;li&gt;📍 会場: アミューあつぎ 6F&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県厚木市中町2丁目12-15&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CoderDojoは、誰でも無料で参加できる子どもたちがプログラミングを学ぶ場を提供する活動です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;strong&gt;CoderDojo厚木&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;参加資格&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;対象者 : 小学生、中学生（保護者の付き添い必須。未就学児の参加も保護者判断でOKです。）、17才まで&lt;/li&gt;
@@ -738,7 +628,7 @@ kintone Café 神奈川のオプショナルツアーです。&lt;/p&gt;
 13:00〜13:30 kintone Café 神奈川の会場に移動&lt;/p&gt;
 &lt;h2&gt;お申込後のキャンセルについて&lt;/h2&gt;
 &lt;p&gt;キャンセル料はかかりませんが、&lt;br&gt;
-キャンセルの場合はなるべく2日前までにご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kintonecafe-kanagawa.connpass.com/event/395611/</guid><enclosure url="https://media.connpass.com/thumbs/f2/b1/f2b1a1fa71658e7d35ad0170effef73d.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 13:38:43 +0900</pubDate></item><item><title>kintone Café 神奈川 Vol.22 in 横須賀市</title><link>https://kintonecafe-kanagawa.connpass.com/event/395508/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 横須賀市総合福祉会館 視聴覚室&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横須賀市本町2丁目1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintonecafe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;kintone Café 神奈川 Vol.22（リアル）&lt;br&gt;&lt;/h1&gt;
+キャンセルの場合はなるべく2日前までにご連絡ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kintonecafe-kanagawa.connpass.com/event/395611/</guid><enclosure url="https://media.connpass.com/thumbs/f2/b1/f2b1a1fa71658e7d35ad0170effef73d.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 18:54:09 +0900</pubDate></item><item><title>kintone Café 神奈川 Vol.22 in 横須賀市</title><link>https://kintonecafe-kanagawa.connpass.com/event/395508/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 横須賀市総合福祉会館 視聴覚室&lt;/li&gt;&lt;li&gt;🏢 住所: 神奈川県横須賀市本町2丁目1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #kintonecafe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;kintone Café 神奈川 Vol.22（リアル）&lt;br&gt;&lt;/h1&gt;
 &lt;h1&gt;◎開催概要&lt;br&gt;&lt;/h1&gt;
 &lt;div style="margin-left:20px;"&gt;
 日時：2026-9-26（土）14:00 - 17:00&lt;br&gt;
@@ -869,7 +759,7 @@ kintone hive tokyoで地区代表に選ばれた茅ヶ崎市役所の松原さ�
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;16:00〜16:10&lt;/td&gt;
 &lt;td style="text-align: right;"&gt;　10分&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;LT3&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;LT3&lt;br&gt;「地域を支える人を電話から解放する！ 〜kintone × 音声DXでつくる現場の仕組み〜」&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;高橋さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -903,7 +793,7 @@ kintone hive tokyoで地区代表に選ばれた茅ヶ崎市役所の松原さ�
 このイベントの「サブイベント」にありますので、ぜひご参加ください。&lt;br&gt;
 ※サブイベントだけの参加はご遠慮ください。&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;サブイベント「ぶらかな 横須賀編」&lt;br&gt;
-&lt;a href="https://kintonecafe-kanagawa.connpass.com/event/395611/" rel="nofollow"&gt;https://kintonecafe-kanagawa.connpass.com/event/395611/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kintonecafe-kanagawa.connpass.com/event/395508/</guid><enclosure url="https://media.connpass.com/thumbs/3d/a2/3da2d7f3e255d818448823d657c8a40e.png" length="0" type="image/png"/><pubDate>Wed, 09 Sep 2026 08:10:28 +0900</pubDate></item><item><title>三浦半島.rb #10 近況報告LT &amp; 秋のもくもく自由研究会</title><link>https://miurahantorb.connpass.com/event/404475/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 横須賀市産業交流プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒238-0041 横須賀市本町3-27 ベイスクエアよこすか一番館3階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #miurahantorb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;三浦半島にみんなあつまれ〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;三浦半島.rb とは&lt;/h1&gt;
+&lt;a href="https://kintonecafe-kanagawa.connpass.com/event/395611/" rel="nofollow"&gt;https://kintonecafe-kanagawa.connpass.com/event/395611/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kintonecafe-kanagawa.connpass.com/event/395508/</guid><enclosure url="https://media.connpass.com/thumbs/3d/a2/3da2d7f3e255d818448823d657c8a40e.png" length="0" type="image/png"/><pubDate>Thu, 17 Sep 2026 13:44:35 +0900</pubDate></item><item><title>三浦半島.rb #10 近況報告LT &amp; 秋のもくもく自由研究会</title><link>https://miurahantorb.connpass.com/event/404475/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月26日(土) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月26日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 横須賀市産業交流プラザ&lt;/li&gt;&lt;li&gt;🏢 住所: 〒238-0041 横須賀市本町3-27 ベイスクエアよこすか一番館3階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #miurahantorb&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;三浦半島にみんなあつまれ〜&lt;/p&gt;&lt;div&gt;&lt;h1&gt;三浦半島.rb とは&lt;/h1&gt;
 &lt;p&gt;三浦半島もとい、神奈川県の南側を中心とした界隈で Ruby技術者たちが気軽に集まれる場を作りたいという思いで始動した神奈川のRubyコミュニティです。&lt;br&gt;
 神奈川県にお住まいの Rubyist の方、県外在住の三浦半島に遊びに行ってみたいRubyistの方も大歓迎です!&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;活動レポートを Cosense の方でも取り上げています。&lt;a href="https://scrapbox.io/miurahantorb/" rel="nofollow"&gt;https://scrapbox.io/miurahantorb/&lt;/a&gt; &lt;br&gt;
