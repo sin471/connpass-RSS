@@ -1,75 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 19 Sep 2026 17:36:39 +0000</lastBuildDate><item><title>第35回なごやインディゲームもくもく会</title><link>https://indiewarehuman.connpass.com/event/400557/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月20日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月20日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Code Base Nagoya&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディーゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;インディゲームを作っている人のための会&lt;/h1&gt;
-&lt;p&gt;ゲームエンジンの縛りなし！Unity、Unreal Engine、Godot Engine、その他なんでもOK！&lt;/p&gt;
-&lt;p&gt;本会では各々が目標に向かってもくもく作業します。&lt;/p&gt;
-&lt;p&gt;詰まったら質問やテストプレイなどで協力しあいましょう。&lt;/p&gt;
-&lt;p&gt;週末・祝日にゲーム制作を進めるきっかけになれば嬉しいです。&lt;/p&gt;
-&lt;p&gt;一人だとできなくてもみんなで集まればできるはず！&lt;/p&gt;
-&lt;p&gt;参加の前に、以下の【注意事項】を必ずご確認ください。&lt;/p&gt;
-&lt;p&gt;君は昼食を食べてから来てもいいし、
-途中で食事のため休憩に行ってもいい。&lt;/p&gt;
-&lt;h1&gt;注意事項&lt;/h1&gt;
-&lt;p&gt;・マスクの着用は各自の判断でお願いします。&lt;/p&gt;
-&lt;p&gt;・本会での営業活動、ネットワークビジネスや宗教等の
-　勧誘行為はお断りします。&lt;/p&gt;
-&lt;p&gt;・雑談もOKですが、もくもくがメインの会ですので
-　出来る限り作業をする心構えでお願いします。&lt;/p&gt;
-&lt;p&gt;・なるべく自己紹介の時間までに来てください。
-　遅刻する場合はTwitterリプライorDMでの報告お願いします
-　※お昼ご飯食べてから来るのもアリです
-　　ただ、自己紹介に参加できないかも&lt;/p&gt;
-&lt;p&gt;・主催側から必要以上の注意を受け
-　不適切と判断された方はご退場いただく可能性があります&lt;/p&gt;
-&lt;p&gt;・恋愛の場としてお考えになるのはお互い不幸になるのでやめましょう&lt;/p&gt;
-&lt;h1&gt;こんな人におすすめ！&lt;/h1&gt;
-&lt;p&gt;ゲームを作成している知り合いに会いたい&lt;/p&gt;
-&lt;p&gt;週末・祝日はゲーム開発に没頭したい&lt;/p&gt;
-&lt;p&gt;たまには場所を変えてゲーム開発したい&lt;/p&gt;
-&lt;p&gt;作品の完成までモチベが続かない&lt;/p&gt;
-&lt;p&gt;Amazonで買ったゲーム開発本を積ん読&lt;/p&gt;
-&lt;p&gt;もはや自分のゲームが面白いか分からない&lt;/p&gt;
-&lt;h1&gt;時間割&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;11:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;入館・準備・Wifi接続の時間&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;11:30&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;自己紹介、今日やることを共有&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;12:30&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;もくもく&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;17:30&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;今日やれたことの共有&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;17:45&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;会場片付け、退室準備&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left;"&gt;18:00&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;閉会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1&gt;参加費・場所・持ち物&lt;/h1&gt;
-&lt;p&gt;参加費：0 円！！！！！&lt;/p&gt;
-&lt;h1&gt;場所&lt;/h1&gt;
-&lt;p&gt;愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/p&gt;
-&lt;h1&gt;持ち物&lt;/h1&gt;
-&lt;p&gt;ゲーム開発環境が入ったPC
-電源タップ&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://indiewarehuman.connpass.com/event/400557/</guid><enclosure url="https://media.connpass.com/thumbs/2a/25/2a2524aed65af42c287825db1295f2f8.png" length="0" type="image/png"/><pubDate>Sun, 02 Aug 2026 09:46:08 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2026/09/23</title><link>https://coderdojo-nisshin.connpass.com/event/406071/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 20 Sep 2026 17:48:33 +0000</lastBuildDate><item><title>サウナ de 開発 !</title><link>https://connpass.com/event/407509/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月21日(月) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月21日(月) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: サウナモンキー&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区名駅南１丁目１７−２３&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #個人開発&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;サウナで頭を整えながら個人開発を進めます&lt;/p&gt;&lt;div&gt;&lt;p&gt;名古屋駅徒歩５分のサウナ「サウナモンキー」で整いながら個人開発を進めます。&lt;/p&gt;
+&lt;p&gt;場所は休憩スペースを利用。基本的にはもくもく作業して、ちょくちょくサウナに行きましょう。&lt;/p&gt;
+&lt;p&gt;料金はフリータイム想定ですが、どのプランで入ってもらっても構いません。&lt;/p&gt;
+&lt;p&gt;途中参加、途中退出OK。&lt;/p&gt;
+&lt;p&gt;私は午前9時〜午後4時まで居る予定です。&lt;/p&gt;
+&lt;p&gt;1人だとどうにも気分が乗らないので、一緒に作業を進めましょう！&lt;/p&gt;
+&lt;p&gt;※サウナが男性専用サウナのため、女性の方の参加は受け付けておりません。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/407509/</guid><enclosure url="https://media.connpass.com/thumbs/ee/77/ee770c856fa1946051ee43cc3a06346a.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 16:36:07 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2026/09/23</title><link>https://coderdojo-nisshin.connpass.com/event/406071/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月23日(水) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月23日(水) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
 &lt;p&gt;&lt;span style="color: red; font-size: 30px ;"&gt;
 会場の確保の都合で9/23(水・祝)の開催です。いつも開催している土曜日ではありませんので、お間違えのないようにご注意ください。
 &lt;/span&gt;&lt;/p&gt;
@@ -722,7 +658,7 @@ JR東海道線で片道 約53分 1,320円&lt;/p&gt;
 &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等、他人への迷惑行為を行うことは禁止します。&lt;/li&gt;
 &lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただく場合があります。&lt;/li&gt;
 &lt;li&gt;咳や発熱、倦怠感など、体調が優れない方は参加をお控えください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-benkyoukai.connpass.com/event/405683/</guid><enclosure url="https://media.connpass.com/thumbs/d1/43/d143cc4707364da6d194991f1695f881.png" length="0" type="image/png"/><pubDate>Wed, 16 Sep 2026 01:36:37 +0900</pubDate></item><item><title>製造業でも生成AI活用したい！名古屋LLM MeetUp#14</title><link>https://kinto-technologies.connpass.com/event/402252/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: なごのキャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区那古野２丁目１４−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #名古屋LLMMeetUp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-benkyoukai.connpass.com/event/405683/</guid><enclosure url="https://media.connpass.com/thumbs/d1/43/d143cc4707364da6d194991f1695f881.png" length="0" type="image/png"/><pubDate>Mon, 21 Sep 2026 01:01:34 +0900</pubDate></item><item><title>製造業でも生成AI活用したい！名古屋LLM MeetUp#14</title><link>https://kinto-technologies.connpass.com/event/402252/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: なごのキャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市西区那古野２丁目１４−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #名古屋LLMMeetUp&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
 &lt;b&gt;AIの秋ですね！今回はOST会（参加者 自由形式ディスカッション会）となります！&lt;/b&gt;&lt;br&gt;
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;/p&gt;
 &lt;h1&gt;🔰 はじめに&lt;/h1&gt;
@@ -2447,7 +2383,94 @@ IT本部AI・データ戦略統括部データ基盤部&lt;br&gt;
 ・その他、事務局が不適切と判断した行為&lt;br&gt;
 参加者がこれらの行為に加担した場合、事務局側は当該参加者に対し必要な処分を行うことができます。この処分には、当該参加者への勧告、今後のイベントに聴講者・登壇者として関わることの禁止などを含みます。また、今後のよりよい運営のために、事態の詳細をレポートとして公開する場合があります。
 本サービスの中で、「これはハラスメントではないか？」と感じたり、他の誰かがハラスメントを受けていることに気が付いた場合、または事務局側の体制がこれらのポリシーを満たさないと感じることがあった場合には、以下までご連絡ください。&lt;/p&gt;
-&lt;p&gt;mail：33tech@sansan.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sansan.connpass.com/event/405568/</guid><enclosure url="https://media.connpass.com/thumbs/5f/a2/5fa291419d040a082050fa716086b0bc.png" length="0" type="image/png"/><pubDate>Tue, 08 Sep 2026 01:07:51 +0900</pubDate></item><item><title>Nagoya.vim #27</title><link>https://nagoyavim.connpass.com/event/406028/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 来栖川電算&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区新栄１丁目２９−２３ (アーバンドエル新栄)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nagoyavim&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Vim(Neovim) でもくもくする会です。&lt;/p&gt;
+&lt;p&gt;mail：33tech@sansan.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sansan.connpass.com/event/405568/</guid><enclosure url="https://media.connpass.com/thumbs/5f/a2/5fa291419d040a082050fa716086b0bc.png" length="0" type="image/png"/><pubDate>Tue, 08 Sep 2026 01:07:51 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2026/10/17</title><link>https://coderdojo-nisshin.connpass.com/event/407505/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+&lt;p&gt;&lt;span style="color: red; font-size: larger;"&gt;
+※当日PC貸出希望の方は、「参加者（子供）PC貸出」で申し込みください。
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: blue; font-size: larger;"&gt;
+● オンライン会議室のURLは、申し込み後このページで確認いただけます。また前日に参加者に連絡いたします。
+&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;p&gt;CoderDojoはボランティアで運営されている無料で自由なプログラミングクラブ（道場）です。それぞれのお子さんが自分のやりたいことに取り組み、大人（メンター）がそれをサポートします。&lt;/p&gt;
+&lt;p&gt;CoderDojo日進では、小学生でも簡単にプログラミングができるプログラミング言語Scratchを中心に行います。
+Scratch以外にもWebプログラミングやmicro:bit 、Arduinoなどの電子工作もサポートします。
+やりたいことがあれば相談してください。&lt;/p&gt;
+&lt;p&gt;カリキュラムなどは用意せず、自分がやりたいこと、作りたいものをメンターや仲間たちとプログラミングしていくワークショップです。初心者の子や、やりたいことが思いつかない子はメンターがサポートします。&lt;/p&gt;
+&lt;p&gt;プログラミングをやってみたい子、プログラミングが好きな子、自分の作ったプログラムを自慢したい子、プログラムがうまく動かなく相談したい子、ぜひ参加ください。&lt;/p&gt;
+&lt;h2&gt;開催日時・場所&lt;/h2&gt;
+&lt;p&gt;日時： 2026/10/17(土)　9:00-11:00&lt;br&gt;
+場所： 日進市にぎわい交流館 &lt;strong&gt;2F 会議室1&lt;/strong&gt; / オンライン会議室&lt;/p&gt;
+&lt;p&gt;アクセス方法はにぎわい交流館のページを参考にしてください。 &lt;br&gt;
+&lt;a href="https://shimin-kouryu.net/about/#access" rel="nofollow"&gt;https://shimin-kouryu.net/about/#access&lt;/a&gt; &lt;br&gt;
+車でこれらる場合は、にぎわい交流館または日進市役所の駐車場が利用できます。&lt;/p&gt;
+&lt;p&gt;オンライン会議室(Zoom)のURLは、申込後に本ページで確認いただけます。
+また、前日にも連絡いたします。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;08:50&lt;/td&gt;
+&lt;td&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00&lt;/td&gt;
+&lt;td&gt;スタート (スタート前に会場のWiFiに接続をお願いします。）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;発表（各自今日やったことを発表してください)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;終了・後片付け&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;撤収&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;パソコン・タブレットについて&lt;/h2&gt;
+&lt;p&gt;WiFi接続可能なノートパソコンまたはタブレットをご持参ください。会場ではWiFiが使用できます。
+お持ちではない方は申し込み時にその旨記載ください。(ただし台数に限りがあるため、対応できない場合もあります。)&lt;/p&gt;
+&lt;h2&gt;Scratchについて&lt;/h2&gt;
+&lt;p&gt;マサチューセッツ工科大学（MIT）メディアラボが作った、子供でも簡単にゲームやアニメーションが作れるプログラミング言語です。
+Scratchのサイトでプログラミングができ、世界中の人たちが作った作品が公開されています。
+参加される方は事前に、Scratchのアカウント作成してきてください。
+NHKのこちらのサイトを参考にしてください。 &lt;br&gt;
+&lt;a href="https://coderdojo-inazawash.com/scratch-registration/" rel="nofollow"&gt;https://coderdojo-inazawash.com/scratch-registration/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;micro:bitについて&lt;/h2&gt;
+&lt;p&gt;micro:bit（マイクロビット）は、25個のLED、2個のボタンスイッチ、明るさセンサー、加速度センサー、磁力センサー、無線通信機能などがついている小さなコンピューターです。 &lt;br&gt;
+&lt;a href="https://microbit.org/ja/get-started/what-is-the-microbit/" rel="nofollow"&gt;https://microbit.org/ja/get-started/what-is-the-microbit/&lt;/a&gt;&lt;br&gt;
+あらかじめ搭載されているセンサーを使って状態の変化を検知したり、LEDを光らせたり、音を鳴らしたり、モノを動かしたりできます。&lt;br&gt;
+micro:bitでプログラミングすることにより、普段の生活のさまざまな場所でプログラムが動いているのを身近に感じてもらえると思います。&lt;br&gt;
+CoderDojo日進では、micro:bit本体とmicro:bitで動くロボットカーを貸し出します。ぜひ試してみてください。&lt;br&gt;
+プログラムの作成にパソコンまたはタブレットが必要ですので、お持ちの方はご持参ください。お持ちでない方は「パソコン貸出希望」と申し込み時に記載ください。  &lt;/p&gt;
+&lt;h2&gt;その他のプログラミングについて&lt;/h2&gt;
+&lt;p&gt;テキストプログラミングでは、2018/11/01より初心者向けの教材として&lt;a href="https://prog-8.com/news_posts/71" rel="nofollow"&gt;Progateが利用できるようになりました&lt;/a&gt;。興味がある方は申し込み時に連絡ください。Progateを利用しなくてももちろん構いません。&lt;/p&gt;
+&lt;h2&gt;申し込みについて&lt;/h2&gt;
+&lt;p&gt;このConnpass のイベント案内で申し込んでください。その際、以下の点に注意してください。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;キャンセルの場合は必ず、キャンセル手続きをお願いします。 &lt;/li&gt;
+&lt;li&gt;定員は状況を見て変更します。定員オーバーの場合も、受講できる場合がありますのでキャンセル待ちに登録してください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;子供達のプログラミングのサポートをして頂ける方はメンター枠で応募ください。&lt;/p&gt;
+&lt;h2&gt;写真撮影について&lt;/h2&gt;
+&lt;p&gt;会場内及びオンラインで写真撮影＆画面のキャプチャーを行い、ホームページやFacebookなど、インターネットで公開する場合があります。あらかじめご了承ください。写真撮影不可の場合はその旨連絡ください。&lt;/p&gt;
+&lt;h2&gt;メンターについて&lt;/h2&gt;
+&lt;p&gt;子供たちが作りたいプログラムを一緒に考え、サポートしていただきます。&lt;br&gt;
+プログラミングの経験はなくてもかまいません。&lt;br&gt;
+初心者や低学年の子も多いので、パソコンの操作、本や資料を一緒に見ながら考えることからお願いしています。  &lt;/p&gt;
+&lt;p&gt;会場の設営・撤収や写真撮影もご協力お願いします。&lt;br&gt;
+ボランティアで運営しているため、報酬、交通費の支給はありませんのでご了承ください。  &lt;/p&gt;
+&lt;p&gt;Scratchも少し使ってみてきてください。&lt;br&gt;
+&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nisshin.connpass.com/event/407505/</guid><enclosure url="https://media.connpass.com/thumbs/7c/a4/7ca4fbf11637203a3337cbe73791b5df.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 18:31:06 +0900</pubDate></item><item><title>Nagoya.vim #27</title><link>https://nagoyavim.connpass.com/event/406028/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月17日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月17日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 来栖川電算&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区新栄１丁目２９−２３ (アーバンドエル新栄)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #nagoyavim&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;Vim(Neovim) でもくもくする会です。&lt;/p&gt;
 &lt;h2&gt;目的&lt;/h2&gt;
 &lt;p&gt;なごやの Vim(Neovim) 使いと交流する&lt;/p&gt;
 &lt;h2&gt;内容&lt;/h2&gt;
@@ -3273,7 +3296,94 @@ HPやチラシでも、惹きつけるような画像が生成したくて、&lt
 &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等他人への迷惑行為を行うことは禁止します。&lt;/li&gt;
 &lt;li&gt;その他、イベント趣旨とは異なる行為があった場合は、イベント参加をお断りさせていただきます。&lt;/li&gt;
 &lt;li&gt;咳や発熱、倦怠感など、体調が優れない方は参加を控えていただくようお願いします。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-benkyoukai.connpass.com/event/406637/</guid><enclosure url="https://media.connpass.com/thumbs/2e/30/2e30887baf8217c7ab9021c3b4aa0fa8.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 20:07:49 +0900</pubDate></item><item><title>（名古屋会場）SORACOM UG Explorer 2026  〜まだ見ぬ「できる」を探しに。</title><link>https://soracomug-tokyo.connpass.com/event/406963/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Seeed株式会社 (Seeed K.K.)&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区並木1丁目183&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #soracomug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もやります！ SORACOM UG Explorer&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ore-no-benkyoukai.connpass.com/event/406637/</guid><enclosure url="https://media.connpass.com/thumbs/2e/30/2e30887baf8217c7ab9021c3b4aa0fa8.png" length="0" type="image/png"/><pubDate>Sat, 12 Sep 2026 20:07:49 +0900</pubDate></item><item><title>CoderDojo日進 子供向けプログラミング道場(会場&amp;オンライン)2026/10/31</title><link>https://coderdojo-nisshin.connpass.com/event/407507/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 9:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: にぎわい交流館&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県日進市蟹甲町中島277-1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意！！&lt;/h1&gt;
+&lt;p&gt;&lt;span style="color: red; font-size: larger;"&gt;
+※当日PC貸出希望の方は、「参加者（子供）PC貸出」で申し込みください。
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: blue; font-size: larger;"&gt;
+● オンライン会議室のURLは、申し込み後このページで確認いただけます。また前日に参加者に連絡いたします。
+&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;p&gt;CoderDojoはボランティアで運営されている無料で自由なプログラミングクラブ（道場）です。それぞれのお子さんが自分のやりたいことに取り組み、大人（メンター）がそれをサポートします。&lt;/p&gt;
+&lt;p&gt;CoderDojo日進では、小学生でも簡単にプログラミングができるプログラミング言語Scratchを中心に行います。
+Scratch以外にもWebプログラミングやmicro:bit 、Arduinoなどの電子工作もサポートします。
+やりたいことがあれば相談してください。&lt;/p&gt;
+&lt;p&gt;カリキュラムなどは用意せず、自分がやりたいこと、作りたいものをメンターや仲間たちとプログラミングしていくワークショップです。初心者の子や、やりたいことが思いつかない子はメンターがサポートします。&lt;/p&gt;
+&lt;p&gt;プログラミングをやってみたい子、プログラミングが好きな子、自分の作ったプログラムを自慢したい子、プログラムがうまく動かなく相談したい子、ぜひ参加ください。&lt;/p&gt;
+&lt;h2&gt;開催日時・場所&lt;/h2&gt;
+&lt;p&gt;日時： 2026/10/31(土)　9:00-11:00&lt;br&gt;
+場所： 日進市にぎわい交流館 &lt;strong&gt;2F 会議室1&lt;/strong&gt; / オンライン会議室&lt;/p&gt;
+&lt;p&gt;アクセス方法はにぎわい交流館のページを参考にしてください。 &lt;br&gt;
+&lt;a href="https://shimin-kouryu.net/about/#access" rel="nofollow"&gt;https://shimin-kouryu.net/about/#access&lt;/a&gt; &lt;br&gt;
+車でこれらる場合は、にぎわい交流館または日進市役所の駐車場が利用できます。&lt;/p&gt;
+&lt;p&gt;オンライン会議室(Zoom)のURLは、申込後に本ページで確認いただけます。
+また、前日にも連絡いたします。&lt;/p&gt;
+&lt;h2&gt;タイムテーブル&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;08:50&lt;/td&gt;
+&lt;td&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00&lt;/td&gt;
+&lt;td&gt;スタート (スタート前に会場のWiFiに接続をお願いします。）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;発表（各自今日やったことを発表してください)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;終了・後片付け&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;撤収&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;パソコン・タブレットについて&lt;/h2&gt;
+&lt;p&gt;WiFi接続可能なノートパソコンまたはタブレットをご持参ください。会場ではWiFiが使用できます。
+お持ちではない方は申し込み時にその旨記載ください。(ただし台数に限りがあるため、対応できない場合もあります。)&lt;/p&gt;
+&lt;h2&gt;Scratchについて&lt;/h2&gt;
+&lt;p&gt;マサチューセッツ工科大学（MIT）メディアラボが作った、子供でも簡単にゲームやアニメーションが作れるプログラミング言語です。
+Scratchのサイトでプログラミングができ、世界中の人たちが作った作品が公開されています。
+参加される方は事前に、Scratchのアカウント作成してきてください。
+NHKのこちらのサイトを参考にしてください。 &lt;br&gt;
+&lt;a href="https://coderdojo-inazawash.com/scratch-registration/" rel="nofollow"&gt;https://coderdojo-inazawash.com/scratch-registration/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;micro:bitについて&lt;/h2&gt;
+&lt;p&gt;micro:bit（マイクロビット）は、25個のLED、2個のボタンスイッチ、明るさセンサー、加速度センサー、磁力センサー、無線通信機能などがついている小さなコンピューターです。 &lt;br&gt;
+&lt;a href="https://microbit.org/ja/get-started/what-is-the-microbit/" rel="nofollow"&gt;https://microbit.org/ja/get-started/what-is-the-microbit/&lt;/a&gt;&lt;br&gt;
+あらかじめ搭載されているセンサーを使って状態の変化を検知したり、LEDを光らせたり、音を鳴らしたり、モノを動かしたりできます。&lt;br&gt;
+micro:bitでプログラミングすることにより、普段の生活のさまざまな場所でプログラムが動いているのを身近に感じてもらえると思います。&lt;br&gt;
+CoderDojo日進では、micro:bit本体とmicro:bitで動くロボットカーを貸し出します。ぜひ試してみてください。&lt;br&gt;
+プログラムの作成にパソコンまたはタブレットが必要ですので、お持ちの方はご持参ください。お持ちでない方は「パソコン貸出希望」と申し込み時に記載ください。  &lt;/p&gt;
+&lt;h2&gt;その他のプログラミングについて&lt;/h2&gt;
+&lt;p&gt;テキストプログラミングでは、2018/11/01より初心者向けの教材として&lt;a href="https://prog-8.com/news_posts/71" rel="nofollow"&gt;Progateが利用できるようになりました&lt;/a&gt;。興味がある方は申し込み時に連絡ください。Progateを利用しなくてももちろん構いません。&lt;/p&gt;
+&lt;h2&gt;申し込みについて&lt;/h2&gt;
+&lt;p&gt;このConnpass のイベント案内で申し込んでください。その際、以下の点に注意してください。 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;キャンセルの場合は必ず、キャンセル手続きをお願いします。 &lt;/li&gt;
+&lt;li&gt;定員は状況を見て変更します。定員オーバーの場合も、受講できる場合がありますのでキャンセル待ちに登録してください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;子供達のプログラミングのサポートをして頂ける方はメンター枠で応募ください。&lt;/p&gt;
+&lt;h2&gt;写真撮影について&lt;/h2&gt;
+&lt;p&gt;会場内及びオンラインで写真撮影＆画面のキャプチャーを行い、ホームページやFacebookなど、インターネットで公開する場合があります。あらかじめご了承ください。写真撮影不可の場合はその旨連絡ください。&lt;/p&gt;
+&lt;h2&gt;メンターについて&lt;/h2&gt;
+&lt;p&gt;子供たちが作りたいプログラムを一緒に考え、サポートしていただきます。&lt;br&gt;
+プログラミングの経験はなくてもかまいません。&lt;br&gt;
+初心者や低学年の子も多いので、パソコンの操作、本や資料を一緒に見ながら考えることからお願いしています。  &lt;/p&gt;
+&lt;p&gt;会場の設営・撤収や写真撮影もご協力お願いします。&lt;br&gt;
+ボランティアで運営しているため、報酬、交通費の支給はありませんのでご了承ください。  &lt;/p&gt;
+&lt;p&gt;Scratchも少し使ってみてきてください。&lt;br&gt;
+&lt;a href="https://scratch.mit.edu/" rel="nofollow"&gt;https://scratch.mit.edu/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-nisshin.connpass.com/event/407507/</guid><enclosure url="https://media.connpass.com/thumbs/7c/a4/7ca4fbf11637203a3337cbe73791b5df.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 18:31:06 +0900</pubDate></item><item><title>（名古屋会場）SORACOM UG Explorer 2026  〜まだ見ぬ「できる」を探しに。</title><link>https://soracomug-tokyo.connpass.com/event/406963/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Seeed株式会社 2Fイベントスペース&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区並木1丁目183&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #soracomug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もやります！ SORACOM UG Explorer&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;SORACOM Explorer 2026 〜まだ見ぬ「できる」を探しに。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本イベントは全国10会場で開催します。&lt;br&gt;
 &lt;strong&gt;このページは、名古屋会場についての参加者募集ページです。&lt;/strong&gt;&lt;/p&gt;
@@ -3312,6 +3422,12 @@ HPやチラシでも、惹きつけるような画像が生成したくて、&lt
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2&gt;会場について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;会場内で飲食はOKです。飲み物がこぼれると掃除が大変なので、なるべくキャップ付きのものにしてください。&lt;/li&gt;
+&lt;li&gt;トイレは洋式です。ゆったりと、きれいにご利用いただければ幸いです。&lt;/li&gt;
+&lt;li&gt;ゴミ箱はありません。持ち帰ってください。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1&gt;イベント内容&lt;/h1&gt;
 &lt;p&gt;IoTと生成AIの融合した最新テクノロジーを体験できるハンズオンを中心にイベントを実施します。ほかのイベントにはないユニークなIoTの体験をしていただけます。&lt;br&gt;
 あわせてSORACOMの講師によるセッションや LT、最後に全員参加のワークショップでアウトプットしていただきます。&lt;/p&gt;
@@ -3345,7 +3461,77 @@ HPやチラシでも、惹きつけるような画像が生成したくて、&lt
 タイムテーブルについては以下のページを参照ください。&lt;br&gt;
 &lt;a href="https://soracom-ug.jp/soracom-ug-explorer-2026/" rel="nofollow"&gt;https://soracom-ug.jp/soracom-ug-explorer-2026/&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;懇親会について&lt;/h1&gt;
-&lt;p&gt;別途サブイベントを作成いたします&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/406963/</guid><enclosure url="https://media.connpass.com/thumbs/8e/25/8e251e25eaf6efe0cdbe27a10a56d142.png" length="0" type="image/png"/><pubDate>Sat, 19 Sep 2026 19:29:09 +0900</pubDate></item><item><title>懇親会 SORACOM UG Explorer 2026 （名古屋会場）</title><link>https://connpass.com/event/407420/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ふるさと居酒屋 村さ来 八田店&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区並木2-262&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/407420/</guid><enclosure url="https://media.connpass.com/thumbs/4b/4e/4b4e967e73f45ad1d141336bd27603ec.png" length="0" type="image/png"/><pubDate>Sat, 19 Sep 2026 19:45:00 +0900</pubDate></item><item><title>手羽先プロンプト #2 〜名古屋のAI勉強会〜</title><link>https://tebasaki-prompt.connpass.com/event/406092/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スタメン 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒450-0006 愛知県名古屋市中村区 下広井町１丁目１４－８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tebapro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名古屋のAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;手羽先プロンプトとは？&lt;/h1&gt;
+&lt;p&gt;別途サブイベントを作成いたします&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/406963/</guid><enclosure url="https://media.connpass.com/thumbs/8e/25/8e251e25eaf6efe0cdbe27a10a56d142.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 22:11:16 +0900</pubDate></item><item><title>懇親会 SORACOM UG Explorer 2026 （名古屋会場）</title><link>https://connpass.com/event/407420/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ふるさと居酒屋 村さ来 八田店&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中村区並木2-262&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/407420/</guid><enclosure url="https://media.connpass.com/thumbs/4b/4e/4b4e967e73f45ad1d141336bd27603ec.png" length="0" type="image/png"/><pubDate>Sat, 19 Sep 2026 19:45:00 +0900</pubDate></item><item><title>第38回なごやインディゲームもくもく会</title><link>https://indiewarehuman.connpass.com/event/407497/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月1日(日) 11:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月1日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: Code Base Nagoya&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディーゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;インディゲームを作っている人のための会&lt;/h1&gt;
+&lt;p&gt;ゲームエンジンの縛りなし！Unity、Unreal Engine、Godot Engine、その他なんでもOK！&lt;/p&gt;
+&lt;p&gt;本会では各々が目標に向かってもくもく作業します。&lt;/p&gt;
+&lt;p&gt;詰まったら質問やテストプレイなどで協力しあいましょう。&lt;/p&gt;
+&lt;p&gt;週末・祝日にゲーム制作を進めるきっかけになれば嬉しいです。&lt;/p&gt;
+&lt;p&gt;一人だとできなくてもみんなで集まればできるはず！&lt;/p&gt;
+&lt;p&gt;参加の前に、以下の【注意事項】を必ずご確認ください。&lt;/p&gt;
+&lt;p&gt;君は昼食を食べてから来てもいいし、
+途中で食事のため休憩に行ってもいい。&lt;/p&gt;
+&lt;h1&gt;注意事項&lt;/h1&gt;
+&lt;p&gt;・マスクの着用は各自の判断でお願いします。&lt;/p&gt;
+&lt;p&gt;・本会での営業活動、ネットワークビジネスや宗教等の
+　勧誘行為はお断りします。&lt;/p&gt;
+&lt;p&gt;・雑談もOKですが、もくもくがメインの会ですので
+　出来る限り作業をする心構えでお願いします。&lt;/p&gt;
+&lt;p&gt;・なるべく自己紹介の時間までに来てください。
+　遅刻する場合はTwitterリプライorDMでの報告お願いします
+　※お昼ご飯食べてから来るのもアリです
+　　ただ、自己紹介に参加できないかも&lt;/p&gt;
+&lt;p&gt;・主催側から必要以上の注意を受け
+　不適切と判断された方はご退場いただく可能性があります&lt;/p&gt;
+&lt;p&gt;・恋愛の場としてお考えになるのはお互い不幸になるのでやめましょう&lt;/p&gt;
+&lt;h1&gt;こんな人におすすめ！&lt;/h1&gt;
+&lt;p&gt;ゲームを作成している知り合いに会いたい&lt;/p&gt;
+&lt;p&gt;週末・祝日はゲーム開発に没頭したい&lt;/p&gt;
+&lt;p&gt;たまには場所を変えてゲーム開発したい&lt;/p&gt;
+&lt;p&gt;作品の完成までモチベが続かない&lt;/p&gt;
+&lt;p&gt;Amazonで買ったゲーム開発本を積ん読&lt;/p&gt;
+&lt;p&gt;もはや自分のゲームが面白いか分からない&lt;/p&gt;
+&lt;h1&gt;時間割&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;11:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;入館・準備・Wifi接続の時間&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;11:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;自己紹介、今日やることを共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;12:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;もくもく&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;17:30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;今日やれたことの共有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;17:45&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;会場片付け、退室準備&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;18:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;閉会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;参加費・場所・持ち物&lt;/h1&gt;
+&lt;p&gt;参加費：0 円！！！！！&lt;/p&gt;
+&lt;h1&gt;場所&lt;/h1&gt;
+&lt;p&gt;愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/p&gt;
+&lt;h1&gt;持ち物&lt;/h1&gt;
+&lt;p&gt;ゲーム開発環境が入ったPC
+電源タップ&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://indiewarehuman.connpass.com/event/407497/</guid><enclosure url="https://media.connpass.com/thumbs/45/9e/459ef34f9aba0885f815d8b90ffc96a9.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 11:26:20 +0900</pubDate></item><item><title>手羽先プロンプト #2 〜名古屋のAI勉強会〜</title><link>https://tebasaki-prompt.connpass.com/event/406092/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スタメン 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒450-0006 愛知県名古屋市中村区 下広井町１丁目１４－８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tebapro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名古屋のAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;手羽先プロンプトとは？&lt;/h1&gt;
 &lt;p&gt;名古屋でAI勉強会を開き、名古屋を盛り上げていこうという意気込みのグループです。
 「AIが気になるけど何から始めれば？」「他の方々はどんなAIの活用をしているのだろう？」「名古屋でAI仲間がほしい」
 そんな方のためのゆるく学べるAI活用コミュニティです！&lt;/p&gt;
