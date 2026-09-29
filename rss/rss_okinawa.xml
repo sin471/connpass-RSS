@@ -1,77 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 28 Sep 2026 20:56:59 +0000</lastBuildDate><item><title>Robloxでゲームをつくろう！プログラミングに沖縄から挑戦</title><link>https://minecraft098.connpass.com/event/408241/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月29日(火) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月29日(火) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;「遊ぶRoblox」から「自分でつくるRoblox」へ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP&lt;/h1&gt;
-&lt;h2&gt;Minecraft・ゲーム・プログラミングで「遊ぶ側」から「つくる側」へ&lt;/h2&gt;
-&lt;p&gt;沖縄マイクラ部・プログラミングスクール「クロスウェーブ」では、小学生から高校生を対象に、Minecraft、Scratch、MakeCode、Python、JavaScript、Roblox、PICO-8、AI、動画編集などを使ったデジタル作品づくりのワークショップを開催します。&lt;/p&gt;
-&lt;p&gt;「プログラミングを勉強する」ことだけが目的ではありません。&lt;/p&gt;
-&lt;p&gt;ゲームを考える。
-実際に作ってみる。
-うまく動かなければ原因を考える。
-もっと面白くなるように改造する。
-完成した作品を人に見せる。&lt;/p&gt;
-&lt;p&gt;そんな体験を通して、プログラミングだけでなく、&lt;strong&gt;論理的思考力・問題解決力・創造力・表現力&lt;/strong&gt;を育てていくことを目指します。&lt;/p&gt;
-&lt;p&gt;初心者も大歓迎です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1&gt;Robloxでゲームをつくろう！プログラミングに挑戦&lt;/h1&gt;
-&lt;h2&gt;― 「遊ぶRoblox」から「自分でつくるRoblox」へ！ ―&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;使用ツール：Roblox Studio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Robloxでゲームを遊んだことはあるけれど、&lt;/p&gt;
-&lt;p&gt;「ゲームってどうやって作っているんだろう？」&lt;/p&gt;
-&lt;p&gt;「自分でもRobloxのゲームを作ってみたい！」&lt;/p&gt;
-&lt;p&gt;そんな子どもたちに体験してほしい、&lt;strong&gt;Robloxゲームクリエイターへの第一歩&lt;/strong&gt;です。&lt;/p&gt;
-&lt;p&gt;この講座では、Robloxのゲーム制作ツール「Roblox Studio」を使って、自分だけの3Dゲームづくりに挑戦します。&lt;/p&gt;
-&lt;p&gt;まずはステージに床や足場、建物、障害物などを配置して、ゲームの世界を作るところからスタート。&lt;/p&gt;
-&lt;p&gt;キャラクターを動かして実際に遊びながら、&lt;/p&gt;
-&lt;p&gt;「ここにジャンプ台を置いたら面白そう！」&lt;/p&gt;
-&lt;p&gt;「このブロックに触れたら消えるようにしたい！」&lt;/p&gt;
-&lt;p&gt;「ゴールしたらメッセージを表示したい！」&lt;/p&gt;
-&lt;p&gt;といったアイデアを、少しずつゲームの仕組みにしていきます。&lt;/p&gt;
-&lt;p&gt;そしてRobloxでは、ただ3D空間を作るだけではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lua（Luau）というプログラミング言語&lt;/strong&gt;を使うことで、ゲームの中にさまざまな動きやルールを追加することができます。&lt;/p&gt;
-&lt;p&gt;たとえば、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ブロックに触れたら色が変わる&lt;/li&gt;
-&lt;li&gt;アイテムを取ったらポイントが増える&lt;/li&gt;
-&lt;li&gt;ジャンプすると足場が消える&lt;/li&gt;
-&lt;li&gt;ゴールするとクリアになる&lt;/li&gt;
-&lt;li&gt;敵や仕掛けを動かす&lt;/li&gt;
-&lt;li&gt;ボタンを押すと何かが起こる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;など、自分のアイデアをプログラムでゲームにしていくことができます。&lt;/p&gt;
-&lt;p&gt;「このコードを書いたら動いた！」&lt;/p&gt;
-&lt;p&gt;「数字を変えたらどうなる？」&lt;/p&gt;
-&lt;p&gt;「ここを変えれば、もっと難しくできそう！」&lt;/p&gt;
-&lt;p&gt;ゲームを作りながら試行錯誤することで、&lt;strong&gt;変数、条件分岐、イベント、座標、繰り返し、関数&lt;/strong&gt;など、これからプログラミングを学んでいくうえで大切な考え方にも自然に触れていきます。&lt;/p&gt;
-&lt;p&gt;難しいコードを最初から覚える必要はありません。&lt;/p&gt;
-&lt;p&gt;まずはサンプルを動かしてみる。
-数字や文字を変えてみる。
-動きがどう変わるか確かめる。
-そこから自分のアイデアを追加してみる。&lt;/p&gt;
-&lt;p&gt;そんな「作りながら覚える」スタイルで進めていきます。&lt;/p&gt;
-&lt;p&gt;今回は、プログラミングの文法を暗記することよりも、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;まず、自分で遊べるRobloxゲームを作ってみること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そして、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「もっとこうしたい！」をプログラミングで実現してみること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;を大切にします。&lt;/p&gt;
-&lt;h2&gt;挑戦すること&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Roblox Studioを使ってみよう&lt;/li&gt;
-&lt;li&gt;自分だけの3Dステージを作ってみよう&lt;/li&gt;
-&lt;li&gt;パーツや障害物を配置してみよう&lt;/li&gt;
-&lt;li&gt;キャラクターを動かして遊んでみよう&lt;/li&gt;
-&lt;li&gt;Lua（Luau）のプログラムを動かしてみよう&lt;/li&gt;
-&lt;li&gt;触れると何かが起こる仕掛けを作ってみよう&lt;/li&gt;
-&lt;li&gt;スコアやゴールなどのゲームルールを追加してみよう&lt;/li&gt;
-&lt;li&gt;自分だけの仕掛けやアイデアを追加してみよう&lt;/li&gt;
-&lt;li&gt;作ったゲームを何度もテストして改造してみよう&lt;/li&gt;
-&lt;li&gt;完成したゲームをみんなに紹介しよう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Robloxは、ゲームを遊ぶだけのものではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自分で世界を作り、ルールを考え、プログラムを書き、誰かに遊んでもらうことができるゲーム制作のプラットフォーム&lt;/strong&gt;でもあります。&lt;/p&gt;
-&lt;p&gt;いつも遊んでいるゲームを、&lt;/p&gt;
-&lt;p&gt;「どうやって作られているんだろう？」&lt;/p&gt;
-&lt;p&gt;という目線で見てみる。&lt;/p&gt;
-&lt;p&gt;そして今度は、自分がゲームを作る側になってみる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ゲームが好きなら、今日からRobloxゲームクリエイターに挑戦できます。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/408241/</guid><enclosure url="https://media.connpass.com/thumbs/fd/b4/fdb4d1a6c4bd5006bf468dabc2b67f2a.png" length="0" type="image/png"/><pubDate>Mon, 28 Sep 2026 18:42:49 +0900</pubDate></item><item><title>動画編集に挑戦しよう！ゲーム実況など目指せYouTuber！</title><link>https://minecraft098.connpass.com/event/408242/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゲームが好きな子どもたちに、ぜひ一度体験してほしい「ゲームを作る側」の世界。&lt;/p&gt;&lt;div&gt;&lt;p&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 29 Sep 2026 19:43:52 +0000</lastBuildDate><item><title>動画編集に挑戦しよう！ゲーム実況など目指せYouTuber！</title><link>https://minecraft098.connpass.com/event/408242/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年9月30日(水) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年9月30日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゲームが好きな子どもたちに、ぜひ一度体験してほしい「ゲームを作る側」の世界。&lt;/p&gt;&lt;div&gt;&lt;p&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP
 Minecraft・ゲーム・プログラミングで「遊ぶ側」から「つくる側」へ&lt;/p&gt;
 &lt;p&gt;沖縄マイクラ部・プログラミングスクール「クロスウェーブ」では、小学生から高校生を対象に、Minecraft、Scratch、MakeCode、Python、JavaScript、Roblox、PICO-8、AI、動画編集などを使ったデジタル作品づくりのワークショップを開催します。&lt;/p&gt;
 &lt;p&gt;「プログラミングを勉強する」ことだけが目的ではありません。&lt;/p&gt;
@@ -768,7 +696,7 @@ AIも活用する。
 &lt;h1&gt;&lt;a href="https://www.instagram.com/87drivein/" rel="nofollow"&gt;87 DRIVE-IN&lt;/a&gt;　企画協力（Special Thanks！）&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;&lt;img src=" https://pbs.twimg.com/media/Gv3OIqJXkAE8OYu?format=jpg&amp;amp;name=360x360" width="200"&gt;&lt;/p&gt;
 &lt;h2&gt;周辺地域ランチマップ&lt;/h2&gt;
-&lt;p&gt;ランチタイムは混雑することが予想されるため、周辺地域の&lt;a href="https://docs.google.com/document/d/1uxRZ2FsbFEzon4xfhQYqb5RPXW9yeuevFXEe1zT7ax0/edit?tab=t.0" rel="nofollow"&gt;ランチマップ&lt;/a&gt;もご用意しております&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hackers-champloo.connpass.com/event/406428/</guid><enclosure url="https://media.connpass.com/thumbs/6f/1b/6f1b1028271cfa1b5ba9835577e165d4.png" length="0" type="image/png"/><pubDate>Tue, 15 Sep 2026 09:41:33 +0900</pubDate></item><item><title>ハカチャン2026 夜の部 打ち上げ！</title><link>https://hackers-champloo.connpass.com/event/406433/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月12日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月12日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: てだこホール 市民交流室&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県浦添市仲間１丁目９−３（てだこホール 市民交流室）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hcmpl26&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ハッカーズチャンプルー2026 打ち上げ&lt;/h1&gt;
+&lt;p&gt;ランチタイムは混雑することが予想されるため、周辺地域の&lt;a href="https://docs.google.com/document/d/1uxRZ2FsbFEzon4xfhQYqb5RPXW9yeuevFXEe1zT7ax0/edit?tab=t.0" rel="nofollow"&gt;ランチマップ&lt;/a&gt;もご用意しております&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hackers-champloo.connpass.com/event/406428/</guid><enclosure url="https://media.connpass.com/thumbs/6f/1b/6f1b1028271cfa1b5ba9835577e165d4.png" length="0" type="image/png"/><pubDate>Tue, 29 Sep 2026 13:03:41 +0900</pubDate></item><item><title>ハカチャン2026 夜の部 打ち上げ！</title><link>https://hackers-champloo.connpass.com/event/406433/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月12日(月) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月12日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: てだこホール 市民交流室&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県浦添市仲間１丁目９−３（てだこホール 市民交流室）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hcmpl26&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ハッカーズチャンプルー2026 打ち上げ&lt;/h1&gt;
 &lt;p&gt;2026年10月12日（月曜祝日）に開催する&lt;a href="https://hackers-champloo.org/2026/" rel="nofollow"&gt;ハッカーズチャンプルー2026&lt;/a&gt;打ち上げ受付ページとなります。&lt;/p&gt;
 &lt;h2&gt;開催概要&lt;/h2&gt;
 &lt;p&gt;ハッカーズチャンプルーは、2013年より開催している沖縄IT系エンジニアの夏祭りです。カンファレンスの部では沖縄県内外のIT系エンジニアたちが、様々な枠を超えたトークを聞くことで相互交流を深めることを目的としています。
@@ -1457,8 +1385,8 @@ Wi-Fi　／　モビリティ　／　分散インフラ　／　データ配信
 &lt;p&gt;貴重品の管理は各自でお願いいたします。万が一盗難・紛失等が発生しても、主催者側では一切責任を負えません。&lt;/p&gt;
 &lt;p&gt;本イベントは &lt;a href="https://events.linuxfoundation.org/about/code-of-conduct/" rel="nofollow"&gt;Linux Foundation 行動規範 / Code of Conduct&lt;/a&gt; に準拠します。参加者の全員が、行動規範に同意していただくことが必要です。全員にとって安全な環境を維持するため、皆さん一人一人にご協力をお願いします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ool.connpass.com/event/404909/</guid><enclosure url="https://media.connpass.com/thumbs/69/79/69796e9e6877878024dc71963075d807.png" length="0" type="image/png"/><pubDate>Mon, 31 Aug 2026 10:55:20 +0900</pubDate></item><item><title>12/5 Open Source Conference 2026 Okinawa</title><link>https://ospn.connpass.com/event/406506/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県市町村自治会館 4F&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市旭町116−37(沖縄県市町村自治会館)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #osc26ok&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;OSC2026 Okinawaを開催します！&lt;/h1&gt;
 &lt;p&gt;オープンソースカンファレンスは全国各地で開催されている、オープンソースおよび地域コミュニティの文化祭です。セミナーおよびブース展示で日頃の活動について発表、情報交換を行う集まりです。&lt;/p&gt;
-&lt;p&gt;今年のOSC沖縄では、今後のOSCとOSPNの方向性を皆さんで考え、認識を共有化出来たらと考えています。&lt;br&gt;
-現地参加だけでなく、オンラインでも皆さんのご参加をお待ちしています。&lt;/p&gt;
+&lt;p&gt;今年のOSC沖縄では、今後のOSCとOSPNの方向性を皆さんで考え、認識を共有化出来たらと考えています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;※オンライン配信は検討中です&lt;/p&gt;
 &lt;p&gt;皆様、是非ご参加ください。&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;感染症予防対策へのご協力のお願い&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;
@@ -1496,7 +1424,7 @@ Wi-Fi　／　モビリティ　／　分散インフラ　／　データ配信
 調整中&lt;/p&gt;
 &lt;h1&gt;参加者荷物事前送付先&lt;/h1&gt;
 &lt;p&gt;※12月4日(金) 午後必着&lt;br&gt;
-詳細、後日ご案内します&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/406506/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Mon, 28 Sep 2026 16:13:03 +0900</pubDate></item><item><title>CoderDojo Onna@OIST (Conference Center)</title><link>https://coderdojo-nago.connpass.com/event/403564/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2027年3月14日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2027年3月14日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１&lt;/li&gt;&lt;li&gt;🏢 住所: 恩納村字谷茶1919-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hands-on Programming Session&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Target&lt;/h1&gt;
+詳細、後日ご案内します&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ospn.connpass.com/event/406506/</guid><enclosure url="https://media.connpass.com/thumbs/6a/df/6adf677e3ccae1e30f64bde90ef2f8c5.png" length="0" type="image/png"/><pubDate>Tue, 29 Sep 2026 19:38:49 +0900</pubDate></item><item><title>CoderDojo Onna@OIST (Conference Center)</title><link>https://coderdojo-nago.connpass.com/event/403564/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2027年3月14日(日) 10:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2027年3月14日(日) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１&lt;/li&gt;&lt;li&gt;🏢 住所: 恩納村字谷茶1919-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CoderDojo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hands-on Programming Session&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Target&lt;/h1&gt;
 &lt;p&gt;7 to 17 years old&lt;/p&gt;
 &lt;p&gt;It is a place for self-study and learning together to create and express themselves through technology.&lt;/p&gt;
 &lt;p&gt;Elementary school participants must be accompanied by a parent or guardian.&lt;/p&gt;
