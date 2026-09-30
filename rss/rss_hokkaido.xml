@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 29 Sep 2026 19:42:35 +0000</lastBuildDate><item><title>「オール光ネットワーク」ビジネス交流セッションin札幌</title><link>https://apn.connpass.com/event/406134/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月2日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月2日(金) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: HooK&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北一条西5丁目1-4 アーバンネット札幌リンクタワー HooK&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;次世代の通信技術から考える北海道発のイノベーションとビジネスの未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催趣旨&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 30 Sep 2026 19:44:21 +0000</lastBuildDate><item><title>「オール光ネットワーク」ビジネス交流セッションin札幌</title><link>https://apn.connpass.com/event/406134/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月2日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月2日(金) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: HooK&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北一条西5丁目1-4 アーバンネット札幌リンクタワー HooK&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;次世代の通信技術から考える北海道発のイノベーションとビジネスの未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催趣旨&lt;/h1&gt;
 &lt;p&gt;AI時代に突入し、国もそれに見合ったビジネス環境を整備すべく、基盤となるインフラづくりに着手しています。これに備えて、北海道の事業者が抱える業務課題の解決や、スタートアップも含めた新たな事業創出を考える、共創型のビジネス交流セッションを開催します。&lt;/p&gt;
 &lt;p&gt;本セッションでは、総務省が国家戦略として早期の社会実装を推進する次世代のネットワーク「オール光ネットワーク（APN）」を話題に取り上げ、その普及が地域の産業にどのような変革をもたらすのかを考えます。&lt;/p&gt;
 &lt;p&gt;基本的な技術の説明のほか、あらゆる分野で想定されるユースケースについて解説します。AI時代の次世代通信について話題を先取りするともに、距離の離れた拠点間を高速大容量・低遅延・低消費電力でつなぐメリットを、北の大地で最大限に活かし、ビジネスを加速させるための方策を、産官学金あらゆる立場のみなさまとともに考え、北海道発の未来のビジネスを共創するセッションとなります。&lt;/p&gt;
@@ -1636,6 +1636,12 @@ hello@ai-robot-japan.org
 &lt;/ul&gt;
 &lt;h2&gt;登壇ゲスト&lt;/h2&gt;
 &lt;p&gt;クラウドの現場で活躍するゲストをお迎えします。&lt;/p&gt;
+&lt;h3&gt;タイトル：TBD&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/profile_images/792056348640841728/9eFGqCoc_400x400.png" width="240px"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;いわさ &lt;a href="https://x.com/Tak1wa" rel="nofollow"&gt;@Tak1wa&lt;/a&gt;&lt;br&gt;
+クラスメソッド株式会社のクラウドの部署でソリューションアーキテクトとして業務をしています。業務ではAWSをよく使っています。趣味でMicrosoft Azureも使います。AWS Top Engineer、Microsoft MVP for Azure&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;登壇募集（一般登壇枠 / 初心者登壇枠）&lt;/h2&gt;
 &lt;p&gt;今回は、「クラウド」をテーマとした登壇（5〜10分枠）を募集します！&lt;/p&gt;
 &lt;ul&gt;
@@ -1691,7 +1697,7 @@ hello@ai-robot-japan.org
 &lt;tr&gt;
 &lt;td&gt;20:35〜20:55&lt;/td&gt;
 &lt;td&gt;ゲストセッション&lt;/td&gt;
-&lt;td&gt;（ゲスト名）&lt;/td&gt;
+&lt;td&gt;いわさ&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:55〜21:00&lt;/td&gt;
@@ -1737,7 +1743,7 @@ hello@ai-robot-japan.org
 &lt;li&gt;&lt;a href="https://seb-sapporo.connpass.com/event/384045/" rel="nofollow"&gt;SAPPORO ENGINEER BASE #14&lt;/a&gt; | &lt;a href="https://sapporo-engineer-base.dev/seb-14" rel="nofollow"&gt;開催レポート&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://seb-sapporo.connpass.com/event/398613/" rel="nofollow"&gt;SAPPORO ENGINEER BASE #15&lt;/a&gt; | &lt;a href="https://sapporo-engineer-base.dev/seb-15" rel="nofollow"&gt;開催レポート&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://seb-sapporo.connpass.com/event/402717/" rel="nofollow"&gt;SAPPORO ENGINEER BASE #16&lt;/a&gt; | &lt;a href="https://sapporo-engineer-base.dev/seb-16" rel="nofollow"&gt;開催レポート&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://seb-sapporo.connpass.com/event/407357/</guid><enclosure url="https://media.connpass.com/thumbs/d0/38/d03826053ca6fe45e82c50ca6a282512.png" length="0" type="image/png"/><pubDate>Fri, 25 Sep 2026 18:03:22 +0900</pubDate></item><item><title>第12回 札幌すごいAI会</title><link>https://sapporo-sugoi-ai.connpass.com/event/407149/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月16日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月16日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Deep Tech CORE SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北５条西５丁目１−5 JR55SAPPOROビル　8F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;特別編、ロボットアームを持ってきます！「AIってすごい！」を体感し、分かち合う場です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;どんなイベント？&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://seb-sapporo.connpass.com/event/407357/</guid><enclosure url="https://media.connpass.com/thumbs/d0/38/d03826053ca6fe45e82c50ca6a282512.png" length="0" type="image/png"/><pubDate>Wed, 30 Sep 2026 20:39:39 +0900</pubDate></item><item><title>第12回 札幌すごいAI会</title><link>https://sapporo-sugoi-ai.connpass.com/event/407149/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月16日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月16日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Deep Tech CORE SAPPORO&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区北５条西５丁目１−5 JR55SAPPOROビル　8F&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;特別編、ロボットアームを持ってきます！「AIってすごい！」を体感し、分かち合う場です！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;どんなイベント？&lt;/h1&gt;
 &lt;p&gt;生成AIを主軸として、 &lt;strong&gt;「AIってすごい！」&lt;/strong&gt; を知る・伝える・その場で体感するイベントです！&lt;br&gt;
 前半戦はいつもの「AIならなんでもOK」なLT会、後半戦は「ロボットを持ってきます！」私はロボットアーム、そのほかにも持ってきてくれる人いるかも？&lt;/p&gt;
 &lt;h1&gt;どんな人向け？&lt;/h1&gt;
@@ -1803,7 +1809,51 @@ hello@ai-robot-japan.org
 NES Tech Brewery運営&lt;br&gt;
 AWS初心者LT会in札幌運営&lt;br&gt;
 札幌すごいAI会運営&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/407149/</guid><enclosure url="https://media.connpass.com/thumbs/ae/34/ae344265576cb965bf39be69b8aae202.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 07:33:31 +0900</pubDate></item><item><title>#7 札幌開催：はじめてのIT勉強会 in 札幌(2026)【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/407835/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月22日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月22日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌デザイン&amp;テクノロジー専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区北1条西8丁目2-75&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hajimete_it&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;紙飛行機づくりで体験するソフトウェア開発手法！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめに&lt;/h1&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sapporo-sugoi-ai.connpass.com/event/407149/</guid><enclosure url="https://media.connpass.com/thumbs/ae/34/ae344265576cb965bf39be69b8aae202.png" length="0" type="image/png"/><pubDate>Sun, 20 Sep 2026 07:33:31 +0900</pubDate></item><item><title>千歳ゆるい勉強会vol.8</title><link>https://chitose-yuru.connpass.com/event/408395/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月18日(日) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月18日(日) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 公立千歳科学技術大学情報棟H102教室&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道千歳市美々758番地65&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;主催&lt;/h1&gt;
+&lt;p&gt;CIST IT COMMUNITY&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;イベント概要&lt;/h2&gt;
+&lt;p&gt;スライドをつくってきてみんなでゆるく技術系の発表をしていきます。
+発表時間の目安は5~10分です。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;会場&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.chitose.ac.jp/" rel="nofollow"&gt;公立千歳科学技術大学&lt;/a&gt;のH102教室（情報棟）で行います。
+&lt;strong&gt;大学祭機関なので、学外の方もお気軽にお越しください。&lt;/strong&gt;
+当日は無料のシャトルバスが利用できます。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;予定&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;時間&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;13:30 ~ 13:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;オープニング、発表準備&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;13:40 ~ 14:40&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;LT会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:40 ~ 14:50&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;14:50 ~ 16:00&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;LT会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;＊予定は登壇人数によって変動することがあります。&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;登壇スケジュール&lt;/h1&gt;
+&lt;p&gt;後日発表&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://chitose-yuru.connpass.com/event/408395/</guid><enclosure url="https://media.connpass.com/thumbs/e1/cf/e1cf0db499a38c19166d90a98fc25f4e.png" length="0" type="image/png"/><pubDate>Wed, 30 Sep 2026 10:42:58 +0900</pubDate></item><item><title>#7 札幌開催：はじめてのIT勉強会 in 札幌(2026)【オフライン開催】</title><link>https://lets-go-study-meeting.connpass.com/event/407835/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月22日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月22日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 札幌デザイン&amp;テクノロジー専門学校&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市中央区北1条西8丁目2-75&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hajimete_it&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;紙飛行機づくりで体験するソフトウェア開発手法！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;はじめに&lt;/h1&gt;
 &lt;p&gt;はじめてのIT勉強会は、 いろいろな不安があって勉強会への参加を躊躇っている方が
 気軽に参加し、「一歩目」を体験しつつ、明日から役立つ知見を獲得するための勉強会です。
 参加回数に関わらずご活用いただける内容を提供します&lt;/p&gt;
