@@ -1,111 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 02 Oct 2026 19:40:40 +0000</lastBuildDate><item><title>SORACOM UG Okayama #7 小型IoTカメラで撮った写真を、クラウドに送ってみよう！</title><link>https://soracomug-tokyo.connpass.com/event/405412/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月3日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月3日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山国際交流センター 3F研修室&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区奉還町２丁目２−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #soracomug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Timer Camera X × SORACOM Arc × Harvest Files ハンズオン&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;小さなカメラで写真を撮って、その写真をクラウドに自動で送る。そんな仕組みを、みんなで一緒に手を動かしながら作ってみるイベントです。 &lt;br&gt;
-「IoT」という言葉を聞いたことはありますか？  &lt;br&gt;
-身のまわりのモノをインターネットにつなげて便利にする技術のことです。 &lt;br&gt;
-今回はその第一歩として、「カメラで撮った写真がクラウドに届く」までを体験します。 &lt;br&gt;
-プログラミングやIoTがはじめての方でも楽しめるように、ゆっくり丁寧に進めていきます。   &lt;/p&gt;
-&lt;p&gt;今回使うのは、手のひらにのる小さなカメラ「Timer Camera X」です。このカメラには小さなコンピューター（ESP32）が入っていて、自分で写真を撮って送ることができます。   &lt;/p&gt;
-&lt;p&gt;自分で書き込んだプログラムで、本当に写真がクラウドに届く。
-その瞬間を体験できるのが、このハンズオンのいちばんの楽しみです。&lt;/p&gt;
-&lt;p&gt;SIMカードは使いません&lt;/p&gt;
-&lt;p&gt;「IoTって、スマホみたいにSIMカードがいるんじゃないの？」と思うかもしれません。 &lt;br&gt;
-今回は SIMカードは使いません。 &lt;br&gt;
-おうちや会場にあるふつうのWi-Fiだけで完結します。 &lt;br&gt;
-だから準備もシンプルで、はじめての方にぴったりです。 &lt;br&gt;
-（※ SIMカードを使う本格的な方法もありますが、それはまた別の機会に。まずはWi-Fiで気軽に体験してみましょう。）&lt;/p&gt;
-&lt;h2&gt;開催日時・場所&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;項目&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;日時&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2026年10月03日(土) 13:30-17:00 (13:15開場)&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;場所&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://www.opief.or.jp/oicenter/rental.html" rel="nofollow"&gt;岡山国際交流センター3F研修室&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;対象者&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;IoTやハードウェアなどに興味がある方、仕事で使ってみたい方。&lt;/li&gt;
-&lt;li&gt;SORACOM サービスを使ってみたいと思っている人&lt;/li&gt;
-&lt;li&gt;IoTやSORACOMサービスを実際に手を動かしながら学びたい人&lt;/li&gt;
-&lt;li&gt;「自分で作ったモノが動く」体験をしてみたい方&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;IoTやSORACOMに興味がある方なら誰でも大歓迎です。 業種、職種、ハードウェア、ソフトウェア、クラウドなど担当分野は問いません。 SORACOMをまだ使っていなくても問題ありませんので、皆さまのご参加をお待ちしております！&lt;/p&gt;
-&lt;h2&gt;持参物&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ノートパソコン（WindowsでもMacでもOK。USBポートがあるもの）&lt;/li&gt;
-&lt;li&gt;できれば、事前にSORACOMのアカウントを作っておくとスムーズです（当日サポートもします）&lt;/li&gt;
-&lt;li&gt;インタネットにつながる環境（テザリング等）をご準備ください。&lt;/li&gt;
-&lt;li&gt;M5のTimer Camera Xをお持ちでしたら、ご持参ください。（会場にも多少、貸出機器を用意しておきます）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;注意事項&lt;/h2&gt;
-&lt;p&gt;イベント中は写真の撮影を行い、SNS等に公開する場合があります。もし撮影に支障のあるかたは会場にてお申し出ください。 &lt;/p&gt;
-&lt;h2&gt;イベント内容・タイムスケジュール&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時刻&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;13:15-13:30&lt;/td&gt;
-&lt;td&gt;開場&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:30-13:40&lt;/td&gt;
-&lt;td&gt;ごあいさつ、会場説明、SORACOM UGのご紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:40-13:55&lt;/td&gt;
-&lt;td&gt;自己紹介タイム&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:55-14:45&lt;/td&gt;
-&lt;td&gt;SORACOMとは？ ～ SORACOM Discoveryの振り返りとアップデート&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:45-15:00&lt;/td&gt;
-&lt;td&gt;休憩&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00-16:45&lt;/td&gt;
-&lt;td&gt;小型IoTカメラで撮った写真を、クラウドに送ってみよう！ ハンズオン&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:50-17:00&lt;/td&gt;
-&lt;td&gt;クロージング 会場片付け&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;懇親会&lt;/h3&gt;
-&lt;p&gt;時間：17:30〜19:30 &lt;br&gt;
-場所：未定
-@5,500円 位&lt;/p&gt;
-&lt;h2&gt;SORACOMについて&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://soracom.jp/overview/" rel="nofollow"&gt;https://soracom.jp/overview/&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;IoT(Internet of Things)は、言葉の通り、Internetに接続されたさまざまな機器のことです。
-SORACOMは、それら機器をInternetに接続するための、安価なSIM、パブリッククラウドとの容易な連携、セキュアな閉域網サービスなどを組み合わせたプラットフォームサービスです。セルラー、LPWA（LoRaWAN、Sigfox、LTE-M）を、1回線からリーズナブルに使うことができます。&lt;br&gt;
-例えば、Wi-Fiの利用が難しい、エレベーターや空調設備などの定期点検や稼働状況の可視化、路線バスのリアルタイム運行情報管理などに活用されています。その他事例などは以下をご参照ください。&lt;br&gt;
-&lt;a href="https://soracom.jp/case_studies/" rel="nofollow"&gt;https://soracom.jp/case_studies/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;SORACOM UG / SORACOM UG Okayama について&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;SORACOM User Group / ソラコムユーザーグループ（通称SORACOM UG）とは、業種や職業問わず、IoTやIoTプラットフォーム SORACOMについて関心を持った方、既に利用されている方、これからIoTを始める方が誰でも参加することが出来るコミュニティです。個人としてIoTに興味がある方や、IoTビジネスを提供されている方、これから自社のサービスや製品にIoTを取り入れようという方など、様々なバックグラウンド、経験を持った方が集まり、互いに学び合い、交流し合う場です。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;SORACOM UG Okayamaは、SORACOM UGの岡山支部になります。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/405412/</guid><enclosure url="https://media.connpass.com/thumbs/43/b5/43b5d11d0e2cf2546e7d4bd23d47962b.png" length="0" type="image/png"/><pubDate>Thu, 01 Oct 2026 21:19:39 +0900</pubDate></item><item><title>【Okayama.なんか】もくもく会 #01</title><link>https://okayama-nanka.connpass.com/event/401459/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 倉敷物語館 2F（エレベーター、スロープなどバリアフリー設備有り）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市阿知2-23-18&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #okanan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりの Okayama.なんか は、いつもと趣向を変えて "もくもく会" をやります！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;約8ヶ月ぶりの "Okayama.なんか" は、もくもく会形式！&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>岡山のイベント</title><link>https://connpass.com/explore/</link><description>岡山のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>岡山のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 03 Oct 2026 18:27:08 +0000</lastBuildDate><item><title>【Okayama.なんか】もくもく会 #01</title><link>https://okayama-nanka.connpass.com/event/401459/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 12:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: 倉敷物語館 2F（エレベーター、スロープなどバリアフリー設備有り）&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県倉敷市阿知2-23-18&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #okanan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;久しぶりの Okayama.なんか は、いつもと趣向を変えて "もくもく会" をやります！&lt;/p&gt;&lt;div&gt;&lt;h2&gt;約8ヶ月ぶりの "Okayama.なんか" は、もくもく会形式！&lt;/h2&gt;
 &lt;p&gt;"なんか" にはいろいろ入る、ざっくりテック系コミュニティ &lt;strong&gt;"Okayama.なんか"&lt;/strong&gt; 、約8ヶ月ぶりの開催となる今回は、いつもとは少し趣向を変えて &lt;strong&gt;"もくもく会"&lt;/strong&gt; 形式でのイベント開催をしてみようと思っています。&lt;/p&gt;
 &lt;p&gt;"もくもく会" とは？: 参加者が同じ場所やオンラインに集まり、それぞれ自分の作業を "黙々と" 進める会です。&lt;/p&gt;
 &lt;p&gt;勉強会のように講師の話を聞くのではなく、各自が思い思い、好きなことをします。たとえば、&lt;/p&gt;
@@ -188,7 +82,29 @@ SORACOMは、それら機器をInternetに接続するための、安価なSIM�
 &lt;p&gt;Okayama.なんか では、IT技術全般に興味を持つ参加者同士の交流を目的として開催するイベントに、すべての人に安全に・安心してご参加いただきたいと考えています。&lt;/p&gt;
 &lt;p&gt;参加者がハラスメント行為に属するふるまいをした場合、主催者は適切と判断した範囲で、当該行為を行った者に対する警告や、会場からの追放などの対応を行います。&lt;/p&gt;
 &lt;p&gt;ハラスメント行為には、言葉による性別、性的指向、障碍の有無、外見、身体の大きさ、人種、宗教に関する攻撃的なコメント、公的空間での性的な映像表現、意図的な威力行為、 ストーキング、つきまとい、写真撮影や録音によるいやがらせ、トークやその他のイベントに対して繰り返して中断しようとする行為、不適切な身体接触、そして望まれない性的な注意を引きつける行為を含みます。&lt;/p&gt;
-&lt;p&gt;もしあなたがハラスメント行為に遭った場合、他の人がハラスメントに遭っていると思われる場合、あるいは他に気になることがあったときは、すぐに主催者に連絡していただくようお願いします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-nanka.connpass.com/event/401459/</guid><enclosure url="https://media.connpass.com/thumbs/ee/f4/eef4b8eb1dc08f869515dfee36a1f509.png" length="0" type="image/png"/><pubDate>Tue, 29 Sep 2026 07:59:40 +0900</pubDate></item><item><title>第7回 LT大会「涼しゅうなってきたけぇ、そろそろLTするかぁ！」</title><link>https://okayama-revengers.connpass.com/event/397974/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月11日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月11日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山理科大学 A7号館 2階 ものづくり実習室&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区理大町１−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #okarev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~集え！コンピューターの先駆者たち~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;もしあなたがハラスメント行為に遭った場合、他の人がハラスメントに遭っていると思われる場合、あるいは他に気になることがあったときは、すぐに主催者に連絡していただくようお願いします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://okayama-nanka.connpass.com/event/401459/</guid><enclosure url="https://media.connpass.com/thumbs/ee/f4/eef4b8eb1dc08f869515dfee36a1f509.png" length="0" type="image/png"/><pubDate>Tue, 29 Sep 2026 07:59:40 +0900</pubDate></item><item><title>ITゆるもく勉強会(岡山+オンライン)</title><link>https://devskill-pp.connpass.com/event/408797/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 15:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山市立御南西公民館&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山市北区田中157－110&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #岡山&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;【開発スキル＋＋】ゆるっと集まる技術者の輪 🙌&lt;/p&gt;
+&lt;p&gt;開発スキル＋＋は、有志で集まっているゆるめの技術者コミュニティです！&lt;/p&gt;
+&lt;p&gt;勉強会で「ちょっと勉強する時間」をつくったり、メンバー同士でわいわい意見交換したりしながら、和気あいあいと学んでいます。&lt;/p&gt;
+&lt;p&gt;こんな目的でもOK！&lt;/p&gt;
+&lt;p&gt;技術力を伸ばしたい
+アプリ開発してみたい
+友だちをつくりたい
+なんとなく雰囲気を見てみたい&lt;/p&gt;
+&lt;p&gt;参加の理由は人それぞれ。気負わず、気軽に遊びに来てください😊
+聞き専・途中参加・途中退出も大歓迎です！&lt;/p&gt;
+&lt;p&gt;🗓️ 開催日時&lt;/p&gt;
+&lt;p&gt;10/10(土) 13:00～16:00&lt;/p&gt;
+&lt;p&gt;⏰ 当日の流れ（予定）&lt;/p&gt;
+&lt;p&gt;13:30～ 自己紹介タイム
+15:45～ 成果報告&lt;/p&gt;
+&lt;p&gt;それ以外の時間は、各自もくもくと作業したり、気になることを相談したりと自由に過ごせます！
+LT（ライトニングトーク）をやってみたい方は、お気軽にご連絡ください🎤&lt;/p&gt;
+&lt;p&gt;📍 会場
+岡山市立御南西公民館 ★第1講座室
+※開催日の2日前までに会場参加の方がいない場合は、オンライン開催のみになります。会場に来る予定の方は、早めにお申し込みいただけると助かります！&lt;/p&gt;
+&lt;p&gt;💬 オンライン参加はDiscordから参加できます。&lt;br&gt;
+下のリンクから、ふらっとどうぞ！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://discord.gg/WM4vgfBrh" rel="nofollow"&gt;https://discord.gg/WM4vgfBrh&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://devskill-pp.connpass.com/event/408797/</guid><enclosure url="https://media.connpass.com/thumbs/56/7e/567e40beb37d5c2fe9b30483112412cd.png" length="0" type="image/png"/><pubDate>Sat, 03 Oct 2026 12:10:00 +0900</pubDate></item><item><title>第7回 LT大会「涼しゅうなってきたけぇ、そろそろLTするかぁ！」</title><link>https://okayama-revengers.connpass.com/event/397974/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月11日(日) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月11日(日) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 岡山理科大学 A7号館 2階 ものづくり実習室&lt;/li&gt;&lt;li&gt;🏢 住所: 岡山県岡山市北区理大町１−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #okarev&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;~集え！コンピューターの先駆者たち~&lt;/p&gt;&lt;div&gt;&lt;h2&gt;概要&lt;/h2&gt;
 &lt;p&gt;熱波が過ぎて、人間もコンピューターも過ごしやすい気温に下がりつつあります。芸術の秋の休日に、みんなで集まってLTをしましょう！！&lt;/p&gt;
 &lt;p&gt;皆さんが日々何にコンピューターを使っているか、好きな技術を交えつつ教えてください。コンピューターさえ関わっていれば、ガチな話でもざっくりした話でも大歓迎です。学生の方、社会人の方、どなたでも自由にご参加ください。&lt;/p&gt;
 &lt;p&gt;今年も後半に入って、他イベントでの発表や趣味のコンピューティングなど知見が貯まってきているのではないでしょうか。最近気に入っている事、あるいはずっと変わらず好きな事を、是非岡山内外のコンピューター好きと共有してください！&lt;/p&gt;
