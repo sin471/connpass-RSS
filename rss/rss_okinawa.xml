@@ -1,77 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 05 Oct 2026 21:44:57 +0000</lastBuildDate><item><title>Robloxでゲームをつくろう！プログラミングに沖縄から挑戦</title><link>https://minecraft098.connpass.com/event/408663/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月6日(火) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月6日(火) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;「遊ぶRoblox」から「自分でつくるRoblox」へ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP&lt;/h1&gt;
-&lt;h2&gt;Minecraft・ゲーム・プログラミングで「遊ぶ側」から「つくる側」へ&lt;/h2&gt;
-&lt;p&gt;沖縄マイクラ部・プログラミングスクール「クロスウェーブ」では、小学生から高校生を対象に、Minecraft、Scratch、MakeCode、Python、JavaScript、Roblox、PICO-8、AI、動画編集などを使ったデジタル作品づくりのワークショップを開催します。&lt;/p&gt;
-&lt;p&gt;「プログラミングを勉強する」ことだけが目的ではありません。&lt;/p&gt;
-&lt;p&gt;ゲームを考える。
-実際に作ってみる。
-うまく動かなければ原因を考える。
-もっと面白くなるように改造する。
-完成した作品を人に見せる。&lt;/p&gt;
-&lt;p&gt;そんな体験を通して、プログラミングだけでなく、&lt;strong&gt;論理的思考力・問題解決力・創造力・表現力&lt;/strong&gt;を育てていくことを目指します。&lt;/p&gt;
-&lt;p&gt;初心者も大歓迎です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1&gt;Robloxでゲームをつくろう！プログラミングに挑戦&lt;/h1&gt;
-&lt;h2&gt;― 「遊ぶRoblox」から「自分でつくるRoblox」へ！ ―&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;使用ツール：Roblox Studio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Robloxでゲームを遊んだことはあるけれど、&lt;/p&gt;
-&lt;p&gt;「ゲームってどうやって作っているんだろう？」&lt;/p&gt;
-&lt;p&gt;「自分でもRobloxのゲームを作ってみたい！」&lt;/p&gt;
-&lt;p&gt;そんな子どもたちに体験してほしい、&lt;strong&gt;Robloxゲームクリエイターへの第一歩&lt;/strong&gt;です。&lt;/p&gt;
-&lt;p&gt;この講座では、Robloxのゲーム制作ツール「Roblox Studio」を使って、自分だけの3Dゲームづくりに挑戦します。&lt;/p&gt;
-&lt;p&gt;まずはステージに床や足場、建物、障害物などを配置して、ゲームの世界を作るところからスタート。&lt;/p&gt;
-&lt;p&gt;キャラクターを動かして実際に遊びながら、&lt;/p&gt;
-&lt;p&gt;「ここにジャンプ台を置いたら面白そう！」&lt;/p&gt;
-&lt;p&gt;「このブロックに触れたら消えるようにしたい！」&lt;/p&gt;
-&lt;p&gt;「ゴールしたらメッセージを表示したい！」&lt;/p&gt;
-&lt;p&gt;といったアイデアを、少しずつゲームの仕組みにしていきます。&lt;/p&gt;
-&lt;p&gt;そしてRobloxでは、ただ3D空間を作るだけではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lua（Luau）というプログラミング言語&lt;/strong&gt;を使うことで、ゲームの中にさまざまな動きやルールを追加することができます。&lt;/p&gt;
-&lt;p&gt;たとえば、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ブロックに触れたら色が変わる&lt;/li&gt;
-&lt;li&gt;アイテムを取ったらポイントが増える&lt;/li&gt;
-&lt;li&gt;ジャンプすると足場が消える&lt;/li&gt;
-&lt;li&gt;ゴールするとクリアになる&lt;/li&gt;
-&lt;li&gt;敵や仕掛けを動かす&lt;/li&gt;
-&lt;li&gt;ボタンを押すと何かが起こる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;など、自分のアイデアをプログラムでゲームにしていくことができます。&lt;/p&gt;
-&lt;p&gt;「このコードを書いたら動いた！」&lt;/p&gt;
-&lt;p&gt;「数字を変えたらどうなる？」&lt;/p&gt;
-&lt;p&gt;「ここを変えれば、もっと難しくできそう！」&lt;/p&gt;
-&lt;p&gt;ゲームを作りながら試行錯誤することで、&lt;strong&gt;変数、条件分岐、イベント、座標、繰り返し、関数&lt;/strong&gt;など、これからプログラミングを学んでいくうえで大切な考え方にも自然に触れていきます。&lt;/p&gt;
-&lt;p&gt;難しいコードを最初から覚える必要はありません。&lt;/p&gt;
-&lt;p&gt;まずはサンプルを動かしてみる。
-数字や文字を変えてみる。
-動きがどう変わるか確かめる。
-そこから自分のアイデアを追加してみる。&lt;/p&gt;
-&lt;p&gt;そんな「作りながら覚える」スタイルで進めていきます。&lt;/p&gt;
-&lt;p&gt;今回は、プログラミングの文法を暗記することよりも、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;まず、自分で遊べるRobloxゲームを作ってみること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そして、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「もっとこうしたい！」をプログラミングで実現してみること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;を大切にします。&lt;/p&gt;
-&lt;h2&gt;挑戦すること&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Roblox Studioを使ってみよう&lt;/li&gt;
-&lt;li&gt;自分だけの3Dステージを作ってみよう&lt;/li&gt;
-&lt;li&gt;パーツや障害物を配置してみよう&lt;/li&gt;
-&lt;li&gt;キャラクターを動かして遊んでみよう&lt;/li&gt;
-&lt;li&gt;Lua（Luau）のプログラムを動かしてみよう&lt;/li&gt;
-&lt;li&gt;触れると何かが起こる仕掛けを作ってみよう&lt;/li&gt;
-&lt;li&gt;スコアやゴールなどのゲームルールを追加してみよう&lt;/li&gt;
-&lt;li&gt;自分だけの仕掛けやアイデアを追加してみよう&lt;/li&gt;
-&lt;li&gt;作ったゲームを何度もテストして改造してみよう&lt;/li&gt;
-&lt;li&gt;完成したゲームをみんなに紹介しよう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Robloxは、ゲームを遊ぶだけのものではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自分で世界を作り、ルールを考え、プログラムを書き、誰かに遊んでもらうことができるゲーム制作のプラットフォーム&lt;/strong&gt;でもあります。&lt;/p&gt;
-&lt;p&gt;いつも遊んでいるゲームを、&lt;/p&gt;
-&lt;p&gt;「どうやって作られているんだろう？」&lt;/p&gt;
-&lt;p&gt;という目線で見てみる。&lt;/p&gt;
-&lt;p&gt;そして今度は、自分がゲームを作る側になってみる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ゲームが好きなら、今日からRobloxゲームクリエイターに挑戦できます。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/408663/</guid><enclosure url="https://media.connpass.com/thumbs/fd/b4/fdb4d1a6c4bd5006bf468dabc2b67f2a.png" length="0" type="image/png"/><pubDate>Fri, 02 Oct 2026 10:35:08 +0900</pubDate></item><item><title>動画編集に挑戦しよう！ゲーム実況など目指せYouTuber！</title><link>https://minecraft098.connpass.com/event/408664/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月7日(水) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月7日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゲームが好きな子どもたちに、ぜひ一度体験してほしい「ゲームを作る側」の世界。&lt;/p&gt;&lt;div&gt;&lt;p&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 06 Oct 2026 19:55:40 +0000</lastBuildDate><item><title>動画編集に挑戦しよう！ゲーム実況など目指せYouTuber！</title><link>https://minecraft098.connpass.com/event/408664/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月7日(水) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月7日(水) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゲームが好きな子どもたちに、ぜひ一度体験してほしい「ゲームを作る側」の世界。&lt;/p&gt;&lt;div&gt;&lt;p&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP
 Minecraft・ゲーム・プログラミングで「遊ぶ側」から「つくる側」へ&lt;/p&gt;
 &lt;p&gt;沖縄マイクラ部・プログラミングスクール「クロスウェーブ」では、小学生から高校生を対象に、Minecraft、Scratch、MakeCode、Python、JavaScript、Roblox、PICO-8、AI、動画編集などを使ったデジタル作品づくりのワークショップを開催します。&lt;/p&gt;
 &lt;p&gt;「プログラミングを勉強する」ことだけが目的ではありません。&lt;/p&gt;
@@ -592,29 +520,30 @@ E-mail: linedevcom@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLin
 参加費：無料（事前登録制）&lt;br&gt;
 対象者：OOL会員、及びOOL会員からの紹介者&lt;br&gt;
 懇親会：19:00～ &lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;アジェンダ&lt;/h3&gt;
-&lt;p&gt;【発表予定プロジェクト】&lt;br&gt;
-・テストベッドPJ&lt;br&gt;
-・Edge PJ&lt;br&gt;
-・Model Driven NW DevOps PJ&lt;br&gt;
-・Trusted Network PJ&lt;br&gt;
-・テレプレゼンスPJ&lt;br&gt;
-・インターネット回線カルテPJ&lt;br&gt;
-・IOWN PJ&lt;br&gt;
-・ナレッジグラフPJ&lt;br&gt;
-・交流活動推進(EAP) PJ&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;【活動提案】&lt;br&gt;
-シングルペアイーサネット&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;タイムスケジュール&lt;/h3&gt;
+&lt;p&gt;13:30-13:55　テストベッドPJ&lt;br&gt;
+13:55-14:20　Edge PJ&lt;br&gt;
+14:30-14:55　Model Driven NW DevOps PJ&lt;br&gt;
+14:55-15:20　Trusted Network PJ&lt;br&gt;
+15:30-15:55　テレプレゼンスPJ&lt;br&gt;
+15:55-16:20　インターネット回線カルテPJ&lt;br&gt;
+16:30-16:55　IOWN PJ&lt;br&gt;
+16:55-17:20　【活動提案】シングルペアイーサネットについて&lt;br&gt;
+17:30-17:55　ナレッジグラフPJ&lt;br&gt;
+17:55-18:10　交流活動推進(EAP) PJ&lt;br&gt;
+18:10-18:20　ラップアップ&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;OOLプロジェクト一覧&lt;br&gt;
+&lt;a href="https://www.okinawaopenlabs.org/new-pj&amp;lt;br&gt;" rel="nofollow"&gt;https://www.okinawaopenlabs.org/new-pj&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;懇親会のご案内&lt;/h3&gt;
 &lt;p&gt;活動報告会終了後、懇親会を企画しております。&lt;br&gt;
 　日時：10月16日（金）19:00～&lt;br&gt;
-　会場：那覇市内予定（会場が決まり次第ご連絡いたします）&lt;br&gt;
+　会場：リバーサイド琉炭　&lt;a href="https://r.gnavi.co.jp/p0stw8jm0000/&amp;lt;br&gt;" rel="nofollow"&gt;https://r.gnavi.co.jp/p0stw8jm0000/&lt;br&gt;&lt;/a&gt;
 　会費：4,000円（税込）&lt;br&gt;
-　　　　※活動報告会会場にて集金させていただきます。&lt;br&gt;&lt;/p&gt;
+　　　　※活動報告会会場にて集金いたします。&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;（お願い）&lt;br&gt;&lt;/h4&gt;
 &lt;p&gt;イベントの様子を写真撮影または動画で録画することがございます。 &lt;br&gt;
 撮影した写真等は、ホームページへの掲載、弊社での記録を目的に撮影させていただきます。 &lt;br&gt;
-撮影を希望されない場合は、その旨を運営スタッフまでお伝えいただけますよう、お願い致します。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ool.connpass.com/event/405809/</guid><enclosure url="https://media.connpass.com/thumbs/fa/be/fabe54b96f804c393796f2ee6ec126bf.png" length="0" type="image/png"/><pubDate>Fri, 04 Sep 2026 09:44:38 +0900</pubDate></item><item><title>Japan Power Platform Community Caravan in 沖縄</title><link>https://jppcc.connpass.com/event/404154/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月24日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月24日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館 ビジネスルーム&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1丁目20番1号（カフーナ旭橋A街区の3階から5階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JPPCC_OKN&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もキャラバンが走ります！Power Platform・Copilot＋M365なんでも相談会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【10/24(土) 沖縄開幕】Japan Power Platform Community Caravan in 沖縄 ― 今年もキャラバンが走ります！Power Platform・Copilot最新情報＋Microsoft 365なんでも相談会&lt;/h1&gt;
+撮影を希望されない場合は、その旨を運営スタッフまでお伝えいただけますよう、お願い致します。&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://ool.connpass.com/event/405809/</guid><enclosure url="https://media.connpass.com/thumbs/fa/be/fabe54b96f804c393796f2ee6ec126bf.png" length="0" type="image/png"/><pubDate>Tue, 06 Oct 2026 11:52:17 +0900</pubDate></item><item><title>Japan Power Platform Community Caravan in 沖縄</title><link>https://jppcc.connpass.com/event/404154/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月24日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月24日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県立図書館 ビジネスルーム&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎1丁目20番1号（カフーナ旭橋A街区の3階から5階）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #JPPCC_OKN&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もキャラバンが走ります！Power Platform・Copilot＋M365なんでも相談会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;【10/24(土) 沖縄開幕】Japan Power Platform Community Caravan in 沖縄 ― 今年もキャラバンが走ります！Power Platform・Copilot最新情報＋Microsoft 365なんでも相談会&lt;/h1&gt;
 &lt;h2&gt;昨年に続き、今年も開催。2026年のキャラバンは沖縄から出発します&lt;/h2&gt;
 &lt;p&gt;「困った」を「できた！」に変える、横のつながりを作りましょう。&lt;/p&gt;
 &lt;p&gt;「Power Platformを始めたけれど、社内に聞ける人がいない」
