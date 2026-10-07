@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 06 Oct 2026 19:54:16 +0000</lastBuildDate><item><title>カーネルランド Rust 勉強会 #5</title><link>https://rust-in-kland.connpass.com/event/406523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月8日(木) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月8日(木) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: アットマークテクノ社会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市北区北12条西4丁目1-6 松﨑北12条ビル&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;月イチのペースで開催している勉強会です。これまでは、社内のメンバー数人と、社外の知り合い数人とでクローズドな感じでやりましたが、他にも参加してくれる人がいたら面白いかも、と思い、一般参加を募集してみることにしました。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 07 Oct 2026 20:19:35 +0000</lastBuildDate><item><title>カーネルランド Rust 勉強会 #5</title><link>https://rust-in-kland.connpass.com/event/406523/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月8日(木) 17:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月8日(木) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: アットマークテクノ社会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 札幌市北区北12条西4丁目1-6 松﨑北12条ビル&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;月イチのペースで開催している勉強会です。これまでは、社内のメンバー数人と、社外の知り合い数人とでクローズドな感じでやりましたが、他にも参加してくれる人がいたら面白いかも、と思い、一般参加を募集してみることにしました。
 これまでの開催で、主催の shkoga が使ったスライドは、Speaker Deck で公開しています：
   &lt;a href="https://speakerdeck.com/shkoga" rel="nofollow"&gt;https://speakerdeck.com/shkoga&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Rust を使うことに興味があって、Rust の利用分野としてデバイスドライバの実装や、ベアメタルや RTOS でのアプリケーション開発にも興味がある人が主な対象です。「性質の良いソフトウェアを作るには、どうアプローチするのが良いか」という議論や、「こんなの面白くない？」という紹介や自慢をできる交流の場が欲しくて始めた勉強会です。&lt;/p&gt;
@@ -2066,7 +2066,61 @@ Twitter &lt;a href="https://x.com/ebitech0511" rel="nofollow"&gt;@ebitech0511&lt
 &lt;li&gt;概要：
 ISO 13606規格と、その情報モデリングの基盤となったopenEHR仕様は、参照モデルとアーキタイプからなる二層モデルに基づく高い柔軟性を備え、豊富な臨床概念モデルを提示することでデータの意味論的相互運用性のための標準化を推進してきた。本チュートリアルでは、まず、他の医療情報標準規格にも触れながらopenEHRの概念モデル設計について、アーキタイプとテンプレートを中心に解説する。次に、その実装基盤であるEHRbaseやBetter EHRと、AQL（Archetype Query Language）を用いたデータ活用事例を紹介する。さらに、モデル駆動型開発の実例として、臨床概念モデルの定義から実装に至る一連の流れを具体的に示す。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;加えて、臨床データの相互運用性に関する標準規格であるopenEHRとHL７ FHIRの協働関係を取り上げる。openEHRの中核である臨床記録の長期保存を見据えた臨床概念モデルは用語体系だけでは担えない意味論的相互運用性の基盤であり、HL７ FHIRのProfile設計でも必要となる。こうした意味的モデリングの重要性は、欧州健康データ空間（EHDS）をはじめとする国際的な動向においても高まりつつあり、全国医療情報プラットフォームとJP-Core／JP-CLINSの整備が進むわが国の医療DXにも示唆を与える。さらに、構造化・意味づけされたopenEHRデータを基盤とする大規模言語モデル（LLM）等のAI活用の基盤となる可能性についても触れる。標準規格や実装の予備知識は前提とせず、臨床データの標準化と実装に関心を持つ医療者・技術者・研究者を広く対象とする。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://openehr.connpass.com/event/407907/</guid><pubDate>Fri, 25 Sep 2026 13:01:53 +0900</pubDate></item><item><title>Sapporo.sre #1</title><link>https://sapporo-sre.connpass.com/event/401691/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月19日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道ガス株式会社 本社ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市東区北７条東２丁目１−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sapporo_sre&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
+&lt;p&gt;加えて、臨床データの相互運用性に関する標準規格であるopenEHRとHL７ FHIRの協働関係を取り上げる。openEHRの中核である臨床記録の長期保存を見据えた臨床概念モデルは用語体系だけでは担えない意味論的相互運用性の基盤であり、HL７ FHIRのProfile設計でも必要となる。こうした意味的モデリングの重要性は、欧州健康データ空間（EHDS）をはじめとする国際的な動向においても高まりつつあり、全国医療情報プラットフォームとJP-Core／JP-CLINSの整備が進むわが国の医療DXにも示唆を与える。さらに、構造化・意味づけされたopenEHRデータを基盤とする大規模言語モデル（LLM）等のAI活用の基盤となる可能性についても触れる。標準規格や実装の予備知識は前提とせず、臨床データの標準化と実装に関心を持つ医療者・技術者・研究者を広く対象とする。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://openehr.connpass.com/event/407907/</guid><pubDate>Fri, 25 Sep 2026 13:01:53 +0900</pubDate></item><item><title>Laboratory Automation月例勉強会 / 2026.11</title><link>https://laboratoryautomation.connpass.com/event/409057/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月17日(火) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月17日(火) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道大学 札幌キャンパス&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北11条西8丁目&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #LA_Study&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2026年11月開催分です。札幌とオンラインのハイブリッド開催です。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;おしらせ&lt;/h2&gt;
+&lt;p&gt;[2026-10-07 10:00] connpassを公開しました。&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Laboratory Automation月例勉強会について&lt;/h2&gt;
+&lt;p&gt;Laboratory Automation月例勉強会では、ラボラトリーオートメーション（研究の自動化）に関するハードウェア・ソフトウェアはもちろんのこと、運用管理やそれぞれの実験領域に至るまで、さまざまな広い分野の開発・実装ノウハウや最先端の潮流について、開発者・技術者・研究者が所属や立場の垣根を超えて議論・情報交換・交流します。&lt;br&gt;
+・自動化の潮流をショートトークで知る&lt;br&gt;
+・すでに取り組んでいる人が情報交換／開発会議をする&lt;br&gt;
+・そういう人たちを横目で見ながら雰囲気を知る&lt;br&gt;
+・「自動化」をコアに集まって雑談をする&lt;br&gt;
+などなどそれぞれお好みのスタンスでご参加いただければと思います。&lt;br&gt;
+&lt;br&gt;
+よくある質問、過去のトークは&lt;a href="https://laboratoryautomation.connpass.com/" rel="nofollow"&gt;こちらのページ&lt;/a&gt;に記載しています。はじめての方はご一読ください。&lt;/p&gt;
+&lt;h2&gt;開催概要&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;名　称&lt;/strong&gt;　Laboratory Automation月例勉強会&lt;br&gt;
+&lt;strong&gt;会　期&lt;/strong&gt;　2026年11月17日 [火] 13:00-17:00&lt;br&gt;
+&lt;strong&gt;会　場&lt;/strong&gt;　現地会場：北海道大学 札幌キャンパス（北海道札幌市北区北11条西8丁目）&lt;br&gt;
+　　　　オンライン会場：Zoom配信（第1部のみ）&lt;br&gt;
+&lt;strong&gt;主　催&lt;/strong&gt;　一般社団法人ラボラトリーオートメーション協会&lt;br&gt;
+&lt;strong&gt;言　語&lt;/strong&gt;　日本語&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;※これまでに開催された&lt;a href="https://laboratoryautomation.connpass.com/" rel="nofollow"&gt;トークの一覧はこちら&lt;/a&gt;です。&lt;br&gt;
+※今回は都合がつかないけど次回は！という方、継続的に参加したい方は
+&lt;a href="https://laboratoryautomation.connpass.com/" rel="nofollow"&gt;こちらのページ&lt;/a&gt;の画面右上の「メンバーになる」ボタンから登録してください。開催案内がメールで届きます（connpassの自動送信機能）。&lt;/p&gt;
+&lt;h2&gt;参加対象者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Laboratory Automationにまつわる開発者およびユーザー（自作の自動化装置やソフトウェアを開発している方、フローサイトメーターや分注機などの既に売られている自動化装置を使っている方、マイクロ流路、顕微鏡、画像処理、LLM、AIなどで自動化を試みている方を含みます）&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;自動化に興味のある生命科学・化学・材料分野などの研究者や学生&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;ロボット・IT・生命科学・化学・材料分野などのビジネスに携わる方&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;関連の技術や機器等の研究開発に携わる方&lt;/li&gt;
+&lt;li&gt;上記に関する企業や団体の支援部門・事務部門・経営部門の方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;年齢や所属、職位に関係なく自動化に興味のある人間、ロボット、AIのみなさまのご参加をお待ちしております。&lt;/p&gt;
+&lt;h2&gt;ライトニングトーク発表者の募集&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;事務局による招待講演のほかに、立候補制・先着順の10分ライトニングトーク枠（LT発表枠）を用意しています。&lt;/li&gt;
+&lt;li&gt;発表内容は、こじつけでもなんでもLAにかすっていれば特に制限しませんので、ぜひ気軽にご応募下さい。&lt;/li&gt;
+&lt;li&gt;希望者は参加登録の「LT発表枠」で申し込んでください。&lt;/li&gt;
+&lt;li&gt;発表・参加は現地会場でもオンライン会場でも可能です。&lt;/li&gt;
+&lt;li&gt;発表者の裁量で発表時間と質疑応答時間は持ち時間の中でアレンジお願いします。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;プログラム&lt;/h2&gt;
+&lt;h4&gt;13:00-15:30 第1部　トークセッション（招待・LT）&lt;/h4&gt;
+&lt;p&gt;後日公開します。&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;15:30-17:00 第2部　施設見学・フリーディスカッション・交流&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font color="#CC3300"&gt;現地会場のみの開催です&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;現地会場について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;現地会場の参加希望の方は「現地会場で参加」の枠で参加登録をしてください。&lt;/li&gt;
+&lt;li&gt;オンライン参加枠と現地参加枠を枠変更したい方は（&lt;a href="https://kabayan55.hatenablog.com/entry/2019/01/05/215225" rel="nofollow"&gt;こちら&lt;/a&gt;）をご覧ください。&lt;/li&gt;
+&lt;li&gt;37.5度以上の発熱などの体調不良がある場合は現地会場での参加はご遠慮ください。&lt;/li&gt;
+&lt;li&gt;感染症状況・社会情勢の変化・会場施設の方針により現地会場での開催が中止となる可能性があることをご了承ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;お問い合せ&lt;/h2&gt;
+&lt;p&gt;ご質問等ありましたら下記までお気軽にご連絡ください&lt;br&gt;
+program [at] lasa [dot] or [dot] jp&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://laboratoryautomation.connpass.com/event/409057/</guid><enclosure url="https://media.connpass.com/thumbs/59/d3/59d31e5282ddd86e797ef44adb5c3a10.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 10:01:20 +0900</pubDate></item><item><title>Sapporo.sre #1</title><link>https://sapporo-sre.connpass.com/event/401691/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月19日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月19日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 北海道ガス株式会社 本社ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市東区北７条東２丁目１−１&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sapporo_sre&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
 &lt;p&gt;Sapporo.sreは札幌周辺で行うSREのオフライン勉強会です。
 扱うトピックはSite Reliability Engineeringに関連しているトピックであれば特に限定していません。&lt;/p&gt;
 &lt;p&gt;SREに関心があれば、職場での役割や普段の業務はなんでもOK! ぜひ、お気軽にご参加ください。&lt;/p&gt;

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 06 Oct 2026 19:54:22 +0000</lastBuildDate><item><title>仙台AI横丁 Vol.2</title><link>https://ai-yokocho.connpass.com/event/408301/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月14日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月14日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: WeWork JR 仙台イーストゲートビル&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市宮城野区榴岡1-1-1 JR仙台イーストゲートビル 2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIでSNS投稿をつくってみよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIでSNS投稿をつくってみよう！&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 07 Oct 2026 20:19:41 +0000</lastBuildDate><item><title>TOHOKU FRIDAY NIGHT</title><link>https://connpass.com/event/409211/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月9日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月9日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: 仙台市市民活動サポートセンター&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0811 宮城県仙台市青葉区一番町４丁目１−３&lt;/li&gt;&lt;/ul&gt;</description><guid isPermaLink="false">https://connpass.com/event/409211/</guid><enclosure url="https://media.connpass.com/thumbs/10/07/10071d8b1a150d7c586c170e4a47088d.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 23:33:56 +0900</pubDate></item><item><title>仙台AI横丁 Vol.2</title><link>https://ai-yokocho.connpass.com/event/408301/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月14日(水) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月14日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: WeWork JR 仙台イーストゲートビル&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市宮城野区榴岡1-1-1 JR仙台イーストゲートビル 2F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIでSNS投稿をつくってみよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;AIでSNS投稿をつくってみよう！&lt;/h1&gt;
 &lt;h2&gt;AIに「作らせる」から、AIと「一緒につくる」へ&lt;/h2&gt;
 &lt;p&gt;今回の仙台AI横丁では、&lt;strong&gt;ChatGPTを活用したSNSクリエイティブ制作&lt;/strong&gt;に挑戦します。&lt;/p&gt;
 &lt;p&gt;AIに「SNSの投稿画像を作って」とお願いすれば、それらしい画像を簡単につくれるようになりました。&lt;/p&gt;
@@ -941,7 +941,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;19:25 - 19:40&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;ローカルLLMは心の友になれる？〜最新モデルと長期記憶を導入してみて〜（後編）&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;スマートウォッチからAIエージェントを操作する話&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;月見だんご&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -992,8 +992,12 @@
 &lt;h1&gt;セッション&lt;/h1&gt;
 &lt;h2&gt;楽しみながら AI エージェント開発を学ぶ方法&lt;/h2&gt;
 &lt;p&gt;発表者：いいの&lt;/p&gt;
-&lt;h2&gt;ローカルLLMは心の友になれる？〜最新モデルと長期記憶を導入してみて〜（後編）&lt;/h2&gt;
+&lt;h2&gt;スマートウォッチからAIエージェントを操作する話&lt;/h2&gt;
 &lt;p&gt;発表者：月見だんご&lt;/p&gt;
+&lt;p&gt;スマートウォッチを使って手元からClaudeCodeやCodexに音声入力をして、応用を読み上げてもらうというアプリを作成した話をします。構成や苦労した点などをお話しする予定。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;手元からClaude Codeとコミュニケーションできるようにした。 &lt;a href="https://t.co/rvOgd26pFc" rel="nofollow"&gt;https://t.co/rvOgd26pFc&lt;/a&gt;&lt;/p&gt;&amp;mdash; 月見だんご (@yu_wakayama) &lt;a href="https://x.com/yu_wakayama/status/2107613049221939639?ref_src=twsrc%5Etfw" rel="nofollow"&gt;October 6, 2026&lt;/a&gt;&lt;/blockquote&gt;
+
+
 &lt;h2&gt;知っているようで知らないかもしれない毎日触るアレの話&lt;/h2&gt;
 &lt;p&gt;発表者：すろし&lt;/p&gt;
 &lt;h2&gt;eGPUでローカルLLM動かしてみた！&lt;/h2&gt;
@@ -1031,7 +1035,7 @@
 &lt;p&gt;全国に広がる Microsoft Base の一つとして、Power Platform を活用した業務改善や自動化を学べるコミュニティ拠点です。セミナーやワークショップに適した設備を備え、企業・自治体・学生など幅広い参加者が集う “DX の学びと実践の場” として利用されています。&lt;/p&gt;
 &lt;h1&gt;ZUNDA-IT コミュニティガイドライン&lt;/h1&gt;
 &lt;p&gt;皆様が安心してイベントにご参加いただけるよう、事前にご一読をお願いいたします。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://zunda-it.github.io/" rel="nofollow"&gt;https://zunda-it.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/408247/</guid><enclosure url="https://media.connpass.com/thumbs/78/96/78968635b3848a6cfce179fc8da6d2a3.png" length="0" type="image/png"/><pubDate>Mon, 05 Oct 2026 21:48:23 +0900</pubDate></item><item><title>SendAI Meetup #10</title><link>https://sendai-ai-lab.connpass.com/event/405813/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月22日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月22日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Sendai AI Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町3丁目3-20 京阪仙台一番町ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SendAI Meetup（センドエーアイ ミートアップ）&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://zunda-it.github.io/" rel="nofollow"&gt;https://zunda-it.github.io/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://zunda-it.connpass.com/event/408247/</guid><enclosure url="https://media.connpass.com/thumbs/78/96/78968635b3848a6cfce179fc8da6d2a3.png" length="0" type="image/png"/><pubDate>Thu, 08 Oct 2026 02:30:29 +0900</pubDate></item><item><title>SendAI Meetup #10</title><link>https://sendai-ai-lab.connpass.com/event/405813/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月22日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月22日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: Sendai AI Lab&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町3丁目3-20 京阪仙台一番町ビル2階&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;SendAI Meetup（センドエーアイ ミートアップ）&lt;/h1&gt;
 &lt;h2&gt;当イベントについて&lt;/h2&gt;
 &lt;p&gt;SendAI Meetup（センドエーアイ ミートアップ）は、仙台でAI・生成AIについて学び、知見を共有するコミュニティです。&lt;/p&gt;
 &lt;p&gt;エンジニア、ビジネスパーソン、学生など、立場を問わずご参加いただけます。LT（ライトニングトーク）や交流を通して、「AIをどう使うか」「どう活かすか」を参加者同士で共有します。&lt;/p&gt;
@@ -1532,7 +1536,7 @@
 お問合せ番号：PMS002411&lt;/p&gt;
 &lt;h2&gt;■アイデアのお取り扱いについて、その他&lt;/h2&gt;
 &lt;p&gt;アイデアソンで得られた参加者による各種アウトプットは、秘密保持の対象とならないものとします。&lt;/p&gt;
-&lt;p&gt;参加者は、主催者がイベントの記録・広報・報告等の目的で、イベント中に撮影した写真・動画・音声等を使用することに同意します。これには、主催者のウェブサイト、SNS、プレスリリース、報告書、広告物、その他の媒体での公開・編集・加工・複製・配布が含まれます。参加者は、これらの利用に関して 肖像権・パブリシティ権その他一切の権利を主張しないものとします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://apn.connpass.com/event/408931/</guid><pubDate>Tue, 06 Oct 2026 23:43:24 +0900</pubDate></item><item><title>（仙台会場）SORACOM UG Explorer 2026  〜まだ見ぬ「できる」を探しに。</title><link>https://soracomug-tokyo.connpass.com/event/406960/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ねこまた&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0811 宮城県仙台市青葉区一番町2丁目5-1 大一野村ビル 7F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #soracomug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もやります！ SORACOM UG Explorer&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;参加者は、主催者がイベントの記録・広報・報告等の目的で、イベント中に撮影した写真・動画・音声等を使用することに同意します。これには、主催者のウェブサイト、SNS、プレスリリース、報告書、広告物、その他の媒体での公開・編集・加工・複製・配布が含まれます。参加者は、これらの利用に関して 肖像権・パブリシティ権その他一切の権利を主張しないものとします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://apn.connpass.com/event/408931/</guid><enclosure url="https://media.connpass.com/thumbs/11/d7/11d79cf6ec4ea3e30397ef4a92e4237b.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 21:40:39 +0900</pubDate></item><item><title>（仙台会場）SORACOM UG Explorer 2026  〜まだ見ぬ「できる」を探しに。</title><link>https://soracomug-tokyo.connpass.com/event/406960/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社ねこまた&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0811 宮城県仙台市青葉区一番町2丁目5-1 大一野村ビル 7F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #soracomug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;今年もやります！ SORACOM UG Explorer&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;SORACOM Explorer 2026 〜まだ見ぬ「できる」を探しに。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本イベントは全国10会場で開催します。&lt;br&gt;
 &lt;strong&gt;このページは、仙台会場についての参加者募集ページです。&lt;/strong&gt;&lt;/p&gt;
@@ -1615,7 +1619,38 @@
 &lt;li&gt;11/1 開催当日&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;実際には諸般の事情によりスケジュールが前後する可能性がございますので、あらかじめご了承ください。&lt;/p&gt;
-&lt;p&gt;最新情報は &lt;a href="https://sendai.tskaigi.org/" rel="nofollow"&gt;公式HP&lt;/a&gt; および &lt;a href="https://x.com/tskaigi" rel="nofollow"&gt;X（@tskaigi）&lt;/a&gt; もウォッチしてください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tskaigi.connpass.com/event/399797/</guid><enclosure url="https://media.connpass.com/thumbs/de/db/dedb46488f31866b69cbe8d3a08df907.png" length="0" type="image/png"/><pubDate>Sat, 22 Aug 2026 22:37:07 +0900</pubDate></item><item><title>学んでもらえる！Canva×AI 伝わるデザイン教室</title><link>https://connpass.com/event/407586/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月4日(水) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月4日(水) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 仙台市中小企業活性化センター6階セミナールーム（1）A&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央1-3-1 AER 6階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CanvaとAIを初心者向けにやさしく学べる90分講座。&lt;/p&gt;&lt;div&gt;&lt;div style="background-color:#fff7ed; border:2px solid #fb923c; padding:26px 20px; text-align:center;"&gt;
+&lt;p&gt;最新情報は &lt;a href="https://sendai.tskaigi.org/" rel="nofollow"&gt;公式HP&lt;/a&gt; および &lt;a href="https://x.com/tskaigi" rel="nofollow"&gt;X（@tskaigi）&lt;/a&gt; もウォッチしてください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tskaigi.connpass.com/event/399797/</guid><enclosure url="https://media.connpass.com/thumbs/de/db/dedb46488f31866b69cbe8d3a08df907.png" length="0" type="image/png"/><pubDate>Sat, 22 Aug 2026 22:37:07 +0900</pubDate></item><item><title>TSKaigi Sendai TypeScript型推論ハンズオン：手を動かしてつかむ型の効きどころ</title><link>https://tskaigi.connpass.com/event/408117/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月1日(日) 12:40&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月1日(日) 14:40&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市青葉区中央4丁目4-19 (アーバンネット仙台中央ビル 4F)&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #TSKaigiSendai&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;注意&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://sendai.tskaigi.org/" rel="nofollow"&gt;TSKaigi Sendai 2026&lt;/a&gt; に開催のイベント内企画です。&lt;br&gt;
+12:40～14:40（予定）に、企画ルームで開催します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TSKaigi Sendai 2026の現地参加チケットをお持ちの方だけが対象になります。&lt;/strong&gt;&lt;br&gt;
+何らかの方法で現地参加できることをご確認ください。&lt;strong&gt;オンラインでの参加はできません。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TSKaigi 2026で実施した&lt;a href="https://tskaigi.connpass.com/event/392953/" rel="nofollow"&gt;TypeScript型推論ハンズオン&lt;/a&gt;と同等内容の想定です。&lt;/p&gt;
+&lt;h1&gt;概要&lt;/h1&gt;
+&lt;p&gt;TypeScriptの型が良い感じに効いているとはどういうことでしょうか。&lt;/p&gt;
+&lt;p&gt;この時間では、短い解説と小さな演習を交互に進めながら、TypeScriptの型が「効く」ということを手で覚えます。&lt;br&gt;
+リテラル型、Union、wideningとnarrowing、Discriminated Union、Generics、Conditional Types を題材に、「こう書くと型が自然に効く」「ここで推論が崩れる」「このように整えてやる」という感覚を、実際のコードでつかみます。&lt;/p&gt;
+&lt;p&gt;前半では、wideningやnarrowingを観察し、Discriminated UnionによってオブジェクトのUnionを安全に扱う流れを体験します。&lt;br&gt;
+後半では、GenericsとConditional Typesに触れ、型レベルの記述がどのようなときに嬉しいか、素朴なTypeScriptの型推論を越える方法を観察します。時間や進行に応じて、Unionの分配などにも接続を示します。&lt;/p&gt;
+&lt;h2&gt;想定参加者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TypeScript の基本文法を書いたことがあり、雰囲気ででも使えている方&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;string&lt;/code&gt;、&lt;code&gt;number&lt;/code&gt;、&lt;code&gt;boolean&lt;/code&gt; などの基本の型はたぶん使えている方&lt;/li&gt;
+&lt;li&gt;Union（ &lt;code&gt;A | B&lt;/code&gt; ）、Generics（&lt;code&gt;Array＜T＞&lt;/code&gt;）を見たことがある方&lt;/li&gt;
+&lt;li&gt;型エラーを回避しがちだが、もう少し納得して扱えるようになりたい方&lt;/li&gt;
+&lt;li&gt;AIが書いてくるTypeScriptの実装に自信を持って善し悪しを考えられるようになりたい方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;進め方&lt;/h2&gt;
+&lt;p&gt;短い解説と小さな演習を交互に進める演習付き講座です。  各演習にはヒントと模範解答を用意します。&lt;/p&gt;
+&lt;p&gt;自力で最後まで解くことよりも、型推論の動きを観察することを重視します。&lt;br&gt;
+模範解答を見ながら進めても問題ありません。正しい解答ではなく、手触りを知るための時間です。&lt;/p&gt;
+&lt;h2&gt;持ち物・環境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TSKaigi Sendai 2026に現地参加できるチケット、および元気&lt;/li&gt;
+&lt;li&gt;ノートPC、タブレット端末&lt;/li&gt;
+&lt;li&gt;ご利用のブラウザの最新バージョン（Chrome, Firefox, Safariを想定します）&lt;/li&gt;
+&lt;li&gt;TypeScript Playgroundなど、ブラウザ上でTypeScriptを動作させる環境を使います&lt;/li&gt;
+&lt;li&gt;事前の環境構築は不要です&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tskaigi.connpass.com/event/408117/</guid><enclosure url="https://media.connpass.com/thumbs/b8/24/b82455170c9c1f7c1f1dc2e549ab8d45.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 11:01:27 +0900</pubDate></item><item><title>学んでもらえる！Canva×AI 伝わるデザイン教室</title><link>https://connpass.com/event/407586/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月4日(水) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月4日(水) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 仙台市中小企業活性化センター6階セミナールーム（1）A&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央1-3-1 AER 6階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;CanvaとAIを初心者向けにやさしく学べる90分講座。&lt;/p&gt;&lt;div&gt;&lt;div style="background-color:#fff7ed; border:2px solid #fb923c; padding:26px 20px; text-align:center;"&gt;
 
   &lt;p style="color:#ea580c; font-weight:bold;"&gt;
     ＼ 仙台開催・初心者歓迎！ ／
@@ -2260,7 +2295,7 @@
     event@cantera-sendai.co.jp
   &lt;/p&gt;
 
-&lt;/div&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/407586/</guid><enclosure url="https://media.connpass.com/thumbs/8d/7f/8d7feec16f8cbf4a076b9adf540a22a4.png" length="0" type="image/png"/><pubDate>Thu, 01 Oct 2026 13:28:36 +0900</pubDate></item><item><title>仙台CTF 2026</title><link>https://connpass.com/event/406226/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月14日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月14日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sendaictf&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;情報セキュリティ技術のスキルアップイベント&lt;/p&gt;&lt;div&gt;&lt;h2&gt;仙台CTFとは&lt;/h2&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/407586/</guid><enclosure url="https://media.connpass.com/thumbs/8d/7f/8d7feec16f8cbf4a076b9adf540a22a4.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 10:34:31 +0900</pubDate></item><item><title>仙台CTF 2026</title><link>https://connpass.com/event/406226/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月14日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月14日(土) 18:30&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 仙台市青葉区国分町1-4-9&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #sendaictf&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;情報セキュリティ技術のスキルアップイベント&lt;/p&gt;&lt;div&gt;&lt;h2&gt;仙台CTFとは&lt;/h2&gt;
 &lt;p&gt;「仙台CTF」は、情報セキュリティ技術の「腕試しの場（セキュリティ技術競技会：CTF）」と「学びの場（セキュリティ技術勉強会）」で構成された情報セキュリティ技術のスキルアップ・イベントです。&lt;/p&gt;
 &lt;p&gt;「現場で役立つ技術」を題材としており、初心者も気軽にご参加いただけるイベントとなっております。&lt;/p&gt;
 &lt;p&gt;おかげさまで、仙台CTFは、仙台CTF2017 開催から数えて10回目の開催となります。&lt;br&gt;10周年記念企画として、仙台CTFスコアサーバーのオンライン公開や記念品（会場参加者対象）を準備しています。ぜひ、ご参加ください。&lt;/p&gt;
@@ -2402,10 +2437,8 @@
             &lt;td style=""&gt;10:00-10:30 &lt;br&gt;
             &lt;/td&gt;
             &lt;td style=""&gt;開会式&lt;br&gt;
-            講演&lt;br&gt;
+            講演：サイバー犯罪の現状&lt;br&gt;
             　宮城県警察本部生活安全部サイバー犯罪対策課&lt;br&gt;
-            　課長補佐&lt;br&gt;
-            　津志田 浩孝 氏
             &lt;/td&gt;
           &lt;/tr&gt;
           &lt;tr&gt;
@@ -2535,7 +2568,7 @@
         &lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h2&gt;お問い合わせ等&lt;/h2&gt;
 &lt;p&gt;仙台CTF推進プロジェクト公式サイト&lt;br&gt;
-　&lt;a href="https://www.sendai-ctf.org/" rel="nofollow"&gt;https://www.sendai-ctf.org/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/406226/</guid><enclosure url="https://media.connpass.com/thumbs/1e/86/1e8621e3939582b4c8103c921b8baf70.png" length="0" type="image/png"/><pubDate>Thu, 01 Oct 2026 09:05:11 +0900</pubDate></item><item><title>[仙台] Rakuten Technology Conference 2026 ＠楽天仙台</title><link>https://rakutentechsendai.connpass.com/event/407274/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月14日(土) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月14日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: ミレーネＴ仙台ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0021 宮城県仙台市青葉区中央３丁目５−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AInization,rtechconf,rakutensendai&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;IT技術者とITに興味のある学生を対象にした、楽天グループ主催のIT開発系イベントです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Rakuten AI Technology Conference 2026&lt;/h1&gt;
+　&lt;a href="https://www.sendai-ctf.org/" rel="nofollow"&gt;https://www.sendai-ctf.org/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/406226/</guid><enclosure url="https://media.connpass.com/thumbs/1e/86/1e8621e3939582b4c8103c921b8baf70.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 15:24:38 +0900</pubDate></item><item><title>[仙台] Rakuten Technology Conference 2026 ＠楽天仙台</title><link>https://rakutentechsendai.connpass.com/event/407274/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月14日(土) 12:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月14日(土) 19:00&lt;/li&gt;&lt;li&gt;📍 会場: ミレーネＴ仙台ビル&lt;/li&gt;&lt;li&gt;🏢 住所: 〒980-0021 宮城県仙台市青葉区中央３丁目５−１７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AInization,rtechconf,rakutensendai&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;IT技術者とITに興味のある学生を対象にした、楽天グループ主催のIT開発系イベントです&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Rakuten AI Technology Conference 2026&lt;/h1&gt;
 &lt;p&gt;楽天AIテクノロジーカンファレンス2026＠楽天仙台支社&lt;/p&gt;
 &lt;p&gt;楽天AIテクノロジーカンファレンスは東京をメイン会場に、仙台・大阪・福岡・インド・中国・シンガポール・ベトナム・アメリカの各サテライト会場をつないで行う、年に一度のIT開発系のイベントです。&lt;/p&gt;
 &lt;p&gt;2026年のイベントサイトは&lt;a href="https://tech.rakuten.co.jp/" rel="nofollow"&gt;こちら&lt;/a&gt;&lt;/p&gt;
