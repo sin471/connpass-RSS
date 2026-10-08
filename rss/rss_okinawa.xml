@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 07 Oct 2026 20:21:17 +0000</lastBuildDate><item><title>ChatGPT部 #98 〜 LT &amp; ディスカッション 〜</title><link>https://chatgptclub.connpass.com/event/408005/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ChatGPT部&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ChatGPT部 Connpass&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 08 Oct 2026 20:23:18 +0000</lastBuildDate><item><title>ChatGPT部 #98 〜 LT &amp; ディスカッション 〜</title><link>https://chatgptclub.connpass.com/event/408005/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月10日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月10日(土) 11:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ChatGPT部&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;ChatGPT部 Connpass&lt;/h1&gt;
 &lt;h2&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;ChatGPTについて、あれこれディスカッションする会です&lt;/li&gt;
@@ -322,8 +322,8 @@
 &lt;p&gt;「AIを使ってみたい。でもプログラミングは分からない…」
 「LINE Botって作れるの?難しそう…」&lt;/p&gt;
 &lt;p&gt;そんな方のための、&lt;strong&gt;プログラミング経験ゼロの完全初心者向け&lt;/strong&gt;ハンズオンです。&lt;/p&gt;
-&lt;p&gt;ノーコードAI構築サービス &lt;strong&gt;&lt;a href="https://miibo.ai/" rel="nofollow"&gt;miibo(ミーボ)&lt;/a&gt;&lt;/strong&gt; を使って、自分専用のAI案内係をLINE Botとして動かします。
-コードは一行も書きません。作ったAI案内係は、その日からお店や施設で使い始められます。&lt;strong&gt;miiboのアカウントとLINEアカウントさえあれば&lt;/strong&gt;、誰でも今日から自分のAI案内係を持てます。&lt;/p&gt;
+&lt;p&gt;ノーコードでAIアプリを作れるサービス &lt;strong&gt;&lt;a href="https://dify.ai/" rel="nofollow"&gt;Dify&lt;/a&gt;&lt;/strong&gt; を使って、自分専用のAI案内係をLINE Botとして動かします。&lt;/p&gt;
+&lt;p&gt;コードは一行も書きません。作ったAI案内係は、その日からお店や施設で使い始められます。&lt;strong&gt;DifyのアカウントとLINEアカウントさえあれば&lt;/strong&gt;、誰でも今日から自分のAI案内係を持てます。&lt;/p&gt;
 &lt;h1&gt;こんなAI案内係が作れます(例)&lt;/h1&gt;
 &lt;p&gt;ハンズオンでは、まず&lt;strong&gt;「汎用的なAI案内係」のベース&lt;/strong&gt;を全員で一緒に作ります。その後、自分の好きな用途にカスタマイズする流れです。&lt;/p&gt;
 &lt;p&gt;例えば、こんなAI案内係を作ってみてください:&lt;/p&gt;
@@ -337,7 +337,7 @@
 &lt;p&gt;「自分のお店や施設にこんな案内係がいたら便利」というアイデアがあれば、ハンズオンの後半でカスタマイズして実際に作れます。&lt;/p&gt;
 &lt;h1&gt;このハンズオンの特徴&lt;/h1&gt;
 &lt;p&gt;✅ &lt;strong&gt;プログラミング不要&lt;/strong&gt;: コードを書く場面はゼロ。すべてノーコードのGUI操作&lt;br&gt;
-✅ &lt;strong&gt;無料で完結&lt;/strong&gt;: miiboの無料プラン + LINE公式アカウントの無料プランで動きます&lt;br&gt;
+✅ &lt;strong&gt;無料で始められる&lt;/strong&gt;: Difyの無料プラン(Sandbox) + LINE公式アカウントの無料プランで動きます&lt;br&gt;
 ✅ &lt;strong&gt;持ち帰り可能&lt;/strong&gt;: ハンズオンで作ったAI案内係は、その日から使い続けられます&lt;br&gt;
 ✅ &lt;strong&gt;2時間でカタチに&lt;/strong&gt;: 概念説明〜実装〜カスタマイズまで一通り体験&lt;br&gt;
 ✅ &lt;strong&gt;質問しやすい雰囲気&lt;/strong&gt;: 後半は質疑応答・デバッグタイムをたっぷり確保&lt;/p&gt;
@@ -350,19 +350,36 @@
 &lt;/ul&gt;
 &lt;h1&gt;事前準備&lt;/h1&gt;
 &lt;p&gt;当日をスムーズに進めるため、以下のアカウントを事前に作成しておいてください。&lt;/p&gt;
-&lt;p&gt;①&lt;strong&gt;miiboのアカウント作成(無料プラン)&lt;/strong&gt;
-&lt;a href="https://miibo.ai/" rel="nofollow"&gt;https://miibo.ai/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;② &lt;strong&gt;LINE公式アカウントの作成&lt;/strong&gt;
-普段使いのLINEアカウントとは別に、Bot用のLINE公式アカウントを作成します。&lt;/p&gt;
-&lt;p&gt;作成の流れ&lt;/p&gt;
+&lt;h1&gt;事前準備&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;LINEのセットアップ 普段使いのLINEアカウントとは別に、Bot用のLINE公式アカウントを作成します。&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;&lt;a href="https://zenn.dev/protoout/articles/16-line-bot-setup" rel="nofollow"&gt;https://zenn.dev/protoout/articles/16-line-bot-setup&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Difyのアカウント作成&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://dify.ai/" rel="nofollow"&gt;https://dify.ai/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ElevenLabsのアカウント作成&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://elevenlabs.io" rel="nofollow"&gt;https://elevenlabs.io&lt;/a&gt;
+&lt;br&gt;可能であればAPIキー作成もしておくとスムーズです。
+&lt;br&gt;&lt;a href="https://elevenlabs.io/app/developers/api-keys" rel="nofollow"&gt;https://elevenlabs.io/app/developers/api-keys&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;当日の流れ&lt;/h2&gt;
 &lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;【第1部:全員で「汎用AI案内係」を作る】
 
-① miiboとLINE Botの世界をのぞいてみる
+① DifyとLINE Botの世界をのぞいてみる
    ノーコードAIってどんな仕組み?
 
-② miiboで「汎用AI案内係」のベースを作る
+② Difyで「汎用AI案内係」のベースを作る
    性格・口調・できることを設定
 
 ③ LINEと接続する
@@ -395,22 +412,22 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;17:30〜17:35&lt;/td&gt;
+&lt;td&gt;17:10〜17:15&lt;/td&gt;
 &lt;td&gt;オープニング・自己紹介&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;5分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;17:35〜17:50&lt;/td&gt;
-&lt;td&gt;ノーコードAI/miibo/LINE Botの基本&lt;/td&gt;
+&lt;td&gt;17:15〜17:30&lt;/td&gt;
+&lt;td&gt;ノーコードAI/Dify/LINE Botの基本&lt;/td&gt;
 &lt;td&gt;のびすけ&lt;/td&gt;
 &lt;td&gt;15分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;17:50〜18:15&lt;/td&gt;
+&lt;td&gt;17:30〜18:15&lt;/td&gt;
 &lt;td&gt;全員で「汎用AI案内係」を作る&lt;/td&gt;
 &lt;td&gt;のびすけ&lt;/td&gt;
-&lt;td&gt;25分&lt;/td&gt;
+&lt;td&gt;55分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18:15〜18:40&lt;/td&gt;
@@ -430,7 +447,8 @@
 &lt;h2&gt;費用について&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;参加費: &lt;strong&gt;無料&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ツール利用費: &lt;strong&gt;無料&lt;/strong&gt;(miiboの無料プラン+LINE公式アカウントの無料プランの範囲で動きます)&lt;/li&gt;
+&lt;li&gt;ツール利用費: &lt;strong&gt;無料&lt;/strong&gt;(Difyの無料プラン+LINE公式アカウントの無料プランの範囲で動きます)&lt;/li&gt;
+&lt;li&gt;※Difyの無料プランはAIの利用回数に上限があります。継続して本格的に使う場合は有料プランや外部のAI(LLM)APIキーの設定が必要になることがあります。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;ul&gt;
@@ -478,7 +496,7 @@
 &lt;p&gt;運営サイドで参加にふさわしくないと判断させて頂いた方は、イベント中ご退席をお願いすることがございます。&lt;/p&gt;
 &lt;p&gt;ハラスメントを受けた、と感じた方は以下までご連絡下さい。
 X @linedc_jp
-E-mail: linedevcom@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/408498/</guid><enclosure url="https://media.connpass.com/thumbs/1a/8c/1a8c49466cbeb9c858d9bdfa263f205d.png" length="0" type="image/png"/><pubDate>Mon, 05 Oct 2026 12:58:15 +0900</pubDate></item><item><title>OOL活動報告会2026年10月（OOL会員・招待者限定）</title><link>https://ool.connpass.com/event/405809/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月16日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月16日(金) 18:20&lt;/li&gt;&lt;li&gt;📍 会場: みんなの貸会議室（那覇泉崎店）&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎１丁目１３−３ 資格の大原沖縄校&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;現地会場＋オンライン&lt;/p&gt;&lt;div&gt;&lt;p&gt;沖縄オープンラボラトリでは、オープンテクノロジーを軸に、オープンな交流や連携、共創を通じて先進技術の社会・産業への実用化を目指しています。&lt;br&gt;
+E-mail: linedevcom@gmail.com&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://linedevelopercommunity.connpass.com/event/408498/</guid><enclosure url="https://media.connpass.com/thumbs/1a/8c/1a8c49466cbeb9c858d9bdfa263f205d.png" length="0" type="image/png"/><pubDate>Thu, 08 Oct 2026 12:57:33 +0900</pubDate></item><item><title>OOL活動報告会2026年10月（OOL会員・招待者限定）</title><link>https://ool.connpass.com/event/405809/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月16日(金) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月16日(金) 18:20&lt;/li&gt;&lt;li&gt;📍 会場: みんなの貸会議室（那覇泉崎店）&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市泉崎１丁目１３−３ 資格の大原沖縄校&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;現地会場＋オンライン&lt;/p&gt;&lt;div&gt;&lt;p&gt;沖縄オープンラボラトリでは、オープンテクノロジーを軸に、オープンな交流や連携、共創を通じて先進技術の社会・産業への実用化を目指しています。&lt;br&gt;
 10月の活動報告会では、各研究開発プロジェクトや各種活動における2026年度の活動内容についてご紹介いたします。&lt;br&gt;
 また、参加者の皆さまと交流を深める懇親会も予定しています。&lt;br&gt;
 多くの皆さまのご参加を心よりお待ちしております。&lt;br&gt;&lt;/p&gt;

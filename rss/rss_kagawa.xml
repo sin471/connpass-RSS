@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>香川のイベント</title><link>https://connpass.com/explore/</link><description>香川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>香川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 07 Oct 2026 20:20:55 +0000</lastBuildDate><item><title>ゼロから始めるAIロボット製作　Gemini ✕ ｽﾀｯｸﾁｬﾝ 入門</title><link>https://gdgshikoku.connpass.com/event/407425/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: e-とぴあ・かがわ クラスルームA&lt;/li&gt;&lt;li&gt;🏢 住所: 香川県高松市サンポート2-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;- 第２回 - ソフト開発入門編&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>香川のイベント</title><link>https://connpass.com/explore/</link><description>香川のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>香川のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 08 Oct 2026 20:23:01 +0000</lastBuildDate><item><title>ゼロから始めるAIロボット製作　Gemini ✕ ｽﾀｯｸﾁｬﾝ 入門</title><link>https://gdgshikoku.connpass.com/event/407425/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: e-とぴあ・かがわ クラスルームA&lt;/li&gt;&lt;li&gt;🏢 住所: 香川県高松市サンポート2-1&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;- 第２回 - ソフト開発入門編&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催概要&lt;/h1&gt;
 &lt;p&gt;「話題の『ｽﾀｯｸﾁｬﾝ』が気になっていたけど、どこから始めればいいか分からない…」&lt;/p&gt;
 &lt;p&gt;そんな方にぴったりのハンズオンイベント第２弾！&lt;br&gt;
 大好評だった第1回に引き続き、「えれくら！」×「GDG 四国」×「GDG 京都」のコラボ企画として、うどん県（e-とぴあ・かがわ）でワイワイ楽しく開催します！&lt;/p&gt;
@@ -223,9 +223,14 @@ M5Stack、Arduino、Raspberry Piなどのマイコンを使って生活の中に
 &lt;p&gt;みなさんに作っていただくのは、ダンジョンを探索する冒険者パーティーのAI。自分でプログラムしたパーティーをほかの参加者のパーティーと戦わせ、宝箱を持ち帰って獲得したコインの数を競います。&lt;/p&gt;
 &lt;p&gt;どこを探索する？ 誰が宝を運び、誰が守る？ 相手と出会ったらどうする？
 あなたの戦略をコードにして、最強の冒険者パーティーを目指してみませんか！&lt;/p&gt;
-&lt;h3&gt;ゲーム動画&lt;/h3&gt;
-&lt;p&gt;まずは、実際に動いているゲームの様子をご覧ください。冒険者たちが迷宮を探索し、宝箱を運ぶ様子を紹介しています。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://youtu.be/hZku25WHgAI" rel="nofollow"&gt;スーパーダンジョンウォーズのゲーム動画を見る（YouTube）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;紹介動画・ゲーム動画&lt;/h3&gt;
+&lt;p&gt;まずは、新作「スーパーダンジョンウォーズ」の紹介PVをご覧ください！
+宝箱の争奪戦や、運搬役を守る護衛など、ゲームの見どころを短くまとめています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://youtu.be/L_LUA0SEn3M" rel="nofollow"&gt;スーパーダンジョンウォーズ 紹介PVを見る（YouTube）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;探索を分担する？ 仲間を護衛する？ それとも相手を待ち伏せする？
+&lt;strong&gt;あなたなら、どんな作戦で攻略しますか？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;試合全体の流れをじっくり見たい方は、こちらのプレイ動画もご覧ください。チーム紹介から約2分間の試合、リザルトまでを収録しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://youtu.be/hZku25WHgAI" rel="nofollow"&gt;スーパーダンジョンウォーズ プレイ動画を見る（YouTube）&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;参加対象&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;基礎的なC#プログラミングができれば、年齢・職業・お住まいを問わず、全国のどなたでも参加できます！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;子どもも大人も、趣味でプログラミングを楽しむ方も、ゲーム業界で働くプロのプログラマーも大歓迎です。&lt;/p&gt;
@@ -292,4 +297,4 @@ M5Stack、Arduino、Raspberry Piなどのマイコンを使って生活の中に
 &lt;h2&gt;開発環境&lt;/h2&gt;
 &lt;p&gt;制作には、&lt;strong&gt;Unity 6000.3.24f1&lt;/strong&gt;と&lt;strong&gt;C#&lt;/strong&gt;を使用してください。&lt;/p&gt;
 &lt;p&gt;Unity Hubから、参加用GitHubプロジェクト内の &lt;strong&gt;&lt;code&gt;SuperDungeonWars&lt;/code&gt;&lt;/strong&gt; フォルダを開いて制作してください。&lt;/p&gt;
-&lt;p&gt;提出するのは、専用機能で出力した&lt;strong&gt;提出用ZIP&lt;/strong&gt;です。提出先・提出方法は後日、このページでお知らせします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sxg-probattle.connpass.com/event/407970/</guid><enclosure url="https://media.connpass.com/thumbs/d0/a6/d0a6b6f9720e1cc6ee301ebecc0158f3.png" length="0" type="image/png"/><pubDate>Fri, 02 Oct 2026 17:47:50 +0900</pubDate></item></channel></rss>
+&lt;p&gt;提出するのは、専用機能で出力した&lt;strong&gt;提出用ZIP&lt;/strong&gt;です。提出先・提出方法は後日、このページでお知らせします。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sxg-probattle.connpass.com/event/407970/</guid><enclosure url="https://media.connpass.com/thumbs/d0/a6/d0a6b6f9720e1cc6ee301ebecc0158f3.png" length="0" type="image/png"/><pubDate>Thu, 08 Oct 2026 14:58:11 +0900</pubDate></item></channel></rss>
