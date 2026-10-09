@@ -1,62 +1,484 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山形のイベント</title><link>https://connpass.com/explore/</link><description>山形のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山形のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 08 Oct 2026 20:22:11 +0000</lastBuildDate><item><title>DevFest Yamagata 2026 東北TECH道場 山形</title><link>https://kahoku.connpass.com/event/405468/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 琥珀の湯 欅の宿 コンベンションホール&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県東根市温泉町１丁目８−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;東北TECH道場とは、開発に興味がある人が集まる教え合いのコミュニティイベントです。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;準備中！&lt;/h2&gt;
-&lt;p&gt;有意義で楽しいセッションや企画を準備中です。公開までお待ちください。&lt;/p&gt;
-&lt;h2&gt;会場&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.higashine.com/onsen" rel="nofollow"&gt;さくらんぼ東根温泉街&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-〒999-3702 山形県東根市温泉町１丁目８−１４  &lt;/p&gt;
-&lt;h2&gt;メインセッション会場&lt;/h2&gt;
-&lt;p&gt;琥珀の湯 欅の宿 コンベンションホール&lt;br&gt;
-&lt;a href="https://maps.app.goo.gl/kHGo8GcuAAioLcRh6" rel="nofollow"&gt;Google Map で確認&lt;/a&gt;  &lt;/p&gt;
-&lt;h2&gt;タイムスケジュール&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00 ~ 14:30&lt;/td&gt;
-&lt;td&gt;オープニング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:30 ~ 19:00&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:00 ~ 23:59&lt;/td&gt;
-&lt;td&gt;深夜開発&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;詳細調整中&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;参加費&lt;/h2&gt;
-&lt;p&gt;無料&lt;br&gt;
-※ご宿泊は有料です。各自で&lt;a href="https://www.higashine.com/ryokan" rel="nofollow"&gt;お好みの旅館&lt;/a&gt;をご予約ください。ご予約の際「DevFest参加です」とお伝えいただけますと幸いです。&lt;/p&gt;
-&lt;h2&gt;参加方法&lt;/h2&gt;
-&lt;p&gt;① こちらのページでお申込みください&lt;br&gt;
-② 宿泊される方は、各自で&lt;a href="https://www.higashine.com/ryokan" rel="nofollow"&gt;お好みの旅館&lt;/a&gt;をご予約ください&lt;br&gt;
-③ ご予約の際「DevFest参加です」とお伝えください&lt;br&gt;
-④ 現地へお越しください  &lt;/p&gt;
-&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山形のイベント</title><link>https://connpass.com/explore/</link><description>山形のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山形のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 09 Oct 2026 19:54:52 +0000</lastBuildDate><item><title>DevFest Yamagata 2026</title><link>https://kahoku.connpass.com/event/405468/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 琥珀の湯 欅の宿 コンベンションホール&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県東根市温泉町１丁目８−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIハンズオンから温泉ナイトハックまで！山形初開催！&lt;/p&gt;&lt;div&gt;
+
+&lt;div style="background-color:#F0F0F0;
+  padding:8px;
+
+  color:#1E1E1E;"&gt;
+
+
+  
+  &lt;div style="margin-top:16px;
+    padding:0;
+    background-color:#FFFFFF;
+
+    border:2px solid #000000;"&gt;
+    &lt;div style="padding:12px;"&gt;
+      &lt;h2 style="margin:0;
+        color:#000000;
+        font-size:20px;
+        border:none;"&gt;
+        &lt;img src="https://img.gdgs.jp/kwd26yBm" alt="" height="24"&gt;
+        &lt;span&gt;開催概要&lt;/span&gt;
+        &lt;img src="https://img.gdgs.jp/9KyBRXby" alt="" height="24"&gt;
+      &lt;/h2&gt;
+    &lt;/div&gt;
+
+    &lt;div style="padding:8px;"&gt;
+      &lt;div style="padding:8px;
+        border-bottom:1px solid #DDDDDD;
+        border-left:6px solid #4285F4;"&gt;
+        &lt;strong style="font-size:14px;"&gt;📆 開催日：&lt;/strong&gt;
+        &lt;span style="font-size:14px;"&gt;2026年12月5日（土）&lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div style="padding:8px;
+        border-bottom:1px solid #DDDDDD;
+        border-left:6px solid #34A853;"&gt;
+        &lt;strong style="font-size:14px;"&gt;🕚 開催時間：&lt;/strong&gt;
+        &lt;span style="font-size:14px;"&gt;14:00〜18:00（深夜開発開場オープン 18:30〜）&lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div style="padding:8px;
+        border-bottom:1px solid #DDDDDD;
+        border-left:6px solid #EA4336;"&gt;
+        &lt;strong style="font-size:14px;"&gt;📍 会場：&lt;/strong&gt;
+        &lt;span style="font-size:14px;"&gt;
+          山形県 &lt;a href="https://maps.app.goo.gl/52FFU359XTjxtNoz6" rel="nofollow"&gt;東根温泉街&lt;/a&gt;&lt;br&gt;
+          ・メイン会場：&lt;a href="https://maps.app.goo.gl/BBYRzpQNdoHcWkFK8" rel="nofollow"&gt;琥珀の湯 欅の宿&lt;/a&gt; コンベンションホール&lt;br&gt;
+          ・深夜開発(ﾅｲﾄﾊｯｸ)会場：&lt;a href="https://maps.app.goo.gl/EvxR7yiNzNjMXRL29" rel="nofollow"&gt;民謡の宿 あづまや&lt;/a&gt; 会議室
+        &lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div style="padding:8px;
+        border-bottom:1px solid #DDDDDD;
+        border-left:6px solid #FAAB00;"&gt;
+        &lt;strong style="font-size:14px;"&gt;💻 開催形式：&lt;/strong&gt;
+        &lt;span style="font-size:14px;"&gt;現地開催（秋田・青森サテライト会場との中継も予定）&lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div style="padding:8px;
+        border-left:6px solid #4285F4;"&gt;
+        &lt;strong style="font-size:14px;"&gt;🎫 参加費：無料&lt;/strong&gt;
+        &lt;p style="margin:4px 0 0 0; font-size:13px;"&gt;
+          ※ご宿泊は有料です。ご宿泊される方は各自で&lt;a href="https://www.higashine.com/ryokan" rel="nofollow"&gt;お好みの旅館&lt;/a&gt;をご予約ください。ご予約の際「DevFest参加です」とお伝えいただけますと幸いです。
+        &lt;/p&gt;
+      &lt;/div&gt;
+
+      &lt;p style="margin:12px 8px 4px 8px;
+        font-size:13px;"&gt;
+        ※イベント内容や開催時間は、今後変更となる場合があります。
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+
+    border:2px solid #000000;"&gt;
+    &lt;h2 style="margin:0 0 10px 0;
+      color:#000000;
+      border:none;
+      padding:0;"&gt;
+      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
+      &lt;span style="margin-top:0;
+      font-size:18px;
+      font-weight:bold;"&gt;
+        「How」から「What」へ。&lt;span style="color: #4285F4;"&gt;AI時代&lt;/span&gt;につくる「&lt;span style="color: #34A853;"&gt;面白い温泉街&lt;/span&gt;」
+      &lt;/span&gt;
+    &lt;/h2&gt;
+
+    &lt;p style=""&gt;
+      山形県で初開催となる今回のDevFestでは、AIが自律的に動くエージェント時代において、私たちの意識を「どう作るか（How）」から「何を作るか（What）」へと切り替えることを提案します。
+    &lt;/p&gt;
+
+    &lt;p style=""&gt;
+      最先端の技術をインプットするだけでなく、日本のローカルが抱えるリアルな課題やニーズを捉え、テクノロジーを使ってどのようなアプローチができるのか。参加者全員で考え「What」の糸口を探ってみましょう！
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+
+    border:2px solid #000000;"&gt;
+    &lt;h2 style="margin:0 0 10px 0;
+      color:#000000;
+      border:none;"&gt;
+      &lt;img src="https://img.gdgs.jp/kyLwWQfk" alt="" height="12"&gt;
+      こんな方におすすめ
+    &lt;/h2&gt;
+
+    &lt;div style="padding:15px 18px;
+      border:2px solid #34A853;
+
+      font-weight:bold;"&gt;
+      &lt;span style="color:#34A853;"&gt;{&lt;/span&gt;
+      初心者から経験豊富なエンジニアまで、どなたでも大歓迎です！
+      &lt;span style="color:#34A853;"&gt;}&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;strong&gt;AIによる社会の変化&lt;/strong&gt;をとらえたい方
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;新しい技術やコミュニティ&lt;/strong&gt;に出会いたい方
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;異分野との交流&lt;/strong&gt;や、&lt;strong&gt;何かをつくること&lt;/strong&gt;が好きな方
+      &lt;/li&gt;
+      &lt;li&gt;
+        Google AIや生成AIを、&lt;strong&gt;実際の開発やプロトタイピングで活用してみたい&lt;/strong&gt;方
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+    border:2px solid #000000;"&gt;
+    &lt;h2 style="margin:0 0 12px 0;
+      color:#000000;
+      border:none;
+      padding:0;"&gt;
+      &lt;img src="https://img.gdgs.jp/kwd26yBm" alt="" height="24"&gt;
+      参加者には Google Developer Groups グッズをプレゼント
+      &lt;img src="https://img.gdgs.jp/9KyBRXby" alt="" height="24"&gt;
+    &lt;/h2&gt;
+
+    &lt;p style="margin:0 0 16px 0;"&gt;
+      現地参加者の皆さまに、Google Developer Groups グッズをプレゼントします！&lt;br&gt;
+      &lt;strong&gt;※お申し込み先着順・数量限定となりますので、ぜひお早めにお申し込みください。&lt;/strong&gt;
+    &lt;/p&gt;
+
+    &lt;table border="0" style="border:none;"&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td align="center" style="border:none; padding:8px 24px 8px 0;"&gt;
+            &lt;img src="https://github.com/user-attachments/assets/94332a6c-c10b-48c8-8793-89f306aa2602" alt="公式Tシャツ" width="220" style="border:3px solid #4285F4;"&gt;
+            &lt;h3 style="margin:10px 0 0 0; font-size:16px; border:none; color:#1E1E1E;"&gt;公式Tシャツ&lt;/h3&gt;
+          &lt;/td&gt;
+          &lt;td align="center" style="border:none; padding:8px 0 8px 24px;"&gt;
+            &lt;img src="https://github.com/user-attachments/assets/0a8f5d62-316b-4f65-b6b5-a32a770dd7ef" alt="ステッカー" width="220" style="border:3px solid #34A853;"&gt;
+            &lt;h3 style="margin:10px 0 0 0; font-size:16px; border:none; color:#1E1E1E;"&gt;ステッカー&lt;/h3&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+    &lt;p style="margin:12px 0 0 0; font-size:13px;"&gt;
+      ※なくなり次第配布終了となりますのであらかじめご了承ください。
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+    border:2px solid #000000;"&gt;
+    &lt;h2 style="margin:0 0 16px 0;
+      color:#000000;
+      border:none;
+      padding:0;"&gt;
+      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
+      タイムテーブル
+    &lt;/h2&gt;
+
+
+    &lt;table border="0" style="border:none;"&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; color:#9AA0A6; font-weight:bold;"&gt;13:30〜14:00
+          &lt;/td&gt;
+          &lt;td style="border:2px solid #9AA0A6; background-color:#F0F0F0; color:#9AA0A6; padding:10px 14px; font-size:14px;"&gt;
+            開場・受付（場所：琥珀の湯 欅の宿 コンベンションホール）
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;14:00〜14:10&lt;/td&gt;
+          &lt;td style="border:2px solid #F9AB00; background-color:#FFE7A5; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;オープニング&lt;/strong&gt;&lt;br&gt;
+            細矢 研人 氏（GDG山形）
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;14:10〜15:00&lt;/td&gt;
+          &lt;td style="border:2px solid #4285F4; background-color:#C3ECF6; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;技術セッション&lt;/strong&gt;&lt;br&gt;
+            TBA（Google Developer Experts）
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;15:00〜15:10&lt;/td&gt;
+          &lt;td style="border:2px solid #1E1E1E; background-color:#FFFFFF; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;集合写真撮影&lt;/strong&gt;&lt;br&gt;
+            みんなで写真を撮りましょう！📸
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; color:#9AA0A6; font-weight:bold;"&gt;15:10〜15:30
+          &lt;/td&gt;
+          &lt;td style="border:2px solid #9AA0A6; background-color:#F0F0F0; color:#9AA0A6; padding:10px 14px; font-size:14px;"&gt;
+            休憩
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;15:30〜16:30&lt;/td&gt;
+          &lt;td style="border:2px solid #34A853; background-color:#CCF6C5; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;ローカルセッション&lt;/strong&gt;&lt;br&gt;
+            TBA
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; color:#9AA0A6; font-weight:bold;"&gt;16:30〜16:50
+          &lt;/td&gt;
+          &lt;td style="border:2px solid #9AA0A6; background-color:#F0F0F0; color:#9AA0A6; padding:10px 14px; font-size:14px;"&gt;
+            休憩
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;16:50〜18:00&lt;/td&gt;
+          &lt;td style="border:2px solid #EA4335; background-color:#F8D8D8; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;Google AI ハンズオン ワークショップ&lt;/strong&gt;&lt;br&gt;
+            TBA（Google Developer Experts）
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;18:00〜18:10&lt;/td&gt;
+          &lt;td style="border:2px solid #F9AB00; background-color:#FFE7A5; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;クロージング&lt;/strong&gt;&lt;br&gt;
+            細矢 研人 氏（GDG山形）
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;18:30〜23:59&lt;/td&gt;
+          &lt;td style="border:2px solid #673AB7; background-color:#EDE7F6; color:#1E1E1E; padding:10px 14px;"&gt;
+            &lt;strong&gt;深夜開発 会場開放&lt;/strong&gt;（場所：民謡の宿 あづまや 会議室）&lt;br&gt;
+            寝るまで開発・交流しよう！
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+
+    &lt;p style="margin:12px 0 0 0; font-size:13px;"&gt;
+      ※タイムテーブル、セッション内容、登壇形式は変更となる場合があります。
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="background-color:#FFFFFF; border:2px solid #1E1E1E; color:#1E1E1E; margin:12px 0 16px 0; padding:12px;"&gt;
+    &lt;h2 style="font-size:22px; border:none; margin:0 0 16px 0;"&gt;
+      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt; セッション・プログラム紹介
+    &lt;/h2&gt;
+
+    &lt;table border="0" style="border:none;"&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td style="border:none; padding:8px 18px 16px 0;"&gt;
+            &lt;p&gt;　&lt;/p&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-logo?w=640&amp;amp;h=640&amp;amp;fit=cover" alt="GDG山形" width="160" style="border:3px solid #4285F4;"&gt;
+          &lt;/td&gt;
+          &lt;td style="border:none; padding:8px 0 16px 0;"&gt;
+            &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;オープニング ＆ クロージング&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;細矢 研人 氏&lt;/h4&gt;
+            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;GDG 東北TECH道場 山形 オーガナイザー&lt;/p&gt;
+            &lt;p style="margin:0;"&gt;
+              山形県初開催となるDevFest 2026
+              山形の主催。
+            &lt;/p&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style="border:none; padding:16px 18px 16px 0;"&gt;
+            &lt;p&gt;　&lt;/p&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-logo?w=640&amp;amp;h=640&amp;amp;fit=cover" alt="GDE 技術セッション" width="160" style="border:3px solid #4285F4;"&gt;
+          &lt;/td&gt;
+          &lt;td style="border:none; padding:16px 0 16px 0;"&gt;
+            &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;技術セッション：&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;TBA（Google Developer Experts）&lt;/h4&gt;
+            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developer Expert&lt;/p&gt;
+            &lt;p style="margin:0;"&gt;
+              グローバルトピックであるエージェント時代の「Build, Secure,
+              Scale」について、第一線のエキスパートとして最先端の知見をお伝えします。
+            &lt;/p&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style="border:none; padding:16px 18px 16px 0;"&gt;
+            &lt;p&gt;　&lt;/p&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-logo?w=640&amp;amp;h=640&amp;amp;fit=cover" alt="ローカルセッション" width="160" style="border:3px solid #34A853;"&gt;
+          &lt;/td&gt;
+          &lt;td style="border:none; padding:16px 0 16px 0;"&gt;
+            &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ローカルセッション：東北サテライト中継&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;TBA ＆ 地域コミュニティ&lt;/h4&gt;
+            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;東北広域連携セッション&lt;/p&gt;
+            &lt;p style="margin:0;"&gt;
+              秋田、青森のサテライト会場と中継を繋ぎ、東北広域でのテクノロジートレンドや地域課題に対するアプローチを語り合います。
+            &lt;/p&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style="border:none; padding:16px 18px 16px 0;"&gt;
+            &lt;p&gt;　&lt;/p&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-logo?w=640&amp;amp;h=640&amp;amp;fit=cover" alt="Google AI ハンズオン" width="160" style="border:3px solid #EA4335;"&gt;
+          &lt;/td&gt;
+          &lt;td style="border:none; padding:16px 0 16px 0;"&gt;
+            &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Google AI ハンズオン ワークショップ&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;TBA（Google Developer Experts）&lt;/h4&gt;
+            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developer Expert&lt;/p&gt;
+            &lt;p style="margin:0;"&gt;
+              最新のGoogle AIや生成AIモデルを実際に手を動かしながら活用するハンズオンセッションです。参加者自身のPCでアイデアを具現化するプロセスを体験しましょう。
+            &lt;/p&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style="border:none; padding:16px 18px 8px 0;"&gt;
+            &lt;p&gt;　&lt;/p&gt;
+            &lt;img src="https://img.gdgs.jp/gdg-logo?w=640&amp;amp;h=640&amp;amp;fit=cover" alt="深夜開発" width="160" style="border:3px solid #F9AB00;"&gt;
+          &lt;/td&gt;
+          &lt;td style="border:none; padding:16px 0 8px 0;"&gt;
+            &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;深夜開発（ナイトハック）＆ 交流&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;参加者のみなさん（自由参加）&lt;/h4&gt;
+            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;会場：民謡の宿 あづまや 会議室（18:30〜）&lt;/p&gt;
+            &lt;p style="margin:0;"&gt;
+              夜通し利用できる交流スペースと温泉をご用意。時間を気にせず寝落ちするまでテクノロジーや地域の未来について語り合ったり、昼のセッションで得たインスピレーションをもとに開発を楽しめます。美味しい地酒の差し入れもあるかも！？
+            &lt;/p&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+    border:2px solid #000000;"&gt;
+    &lt;h2 style="margin:0 0 14px 0;
+      color:#000000;
+      border:none;"&gt;
+      &lt;img src="https://img.gdgs.jp/gdg-sticker-arrow-right-yellow" alt="" height="24"&gt;
+      DevFest 山形の見どころ
+    &lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;strong&gt;山形を五感で味わおう！&lt;/strong&gt;&lt;br&gt;
+        美味しい水、日本一綺麗な空気、おいしい季節の食材、みちのくの魅力を楽しんでください。
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;温泉街をふるさとにしよう！&lt;/strong&gt;&lt;br&gt;
+        温泉街や地域の人たちと交流して、この街の一員になっちゃいましょう。
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;深夜開発で寝落ちするまで技術談義しよう！&lt;/strong&gt;&lt;br&gt;
+        夜通し利用できる交流スペースと温泉をご用意。そのまま宿泊すれば、時間を気にせず寝落ちするまでテクノロジーと地域の未来を語り合えます。
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;日帰り温泉も充実してます&lt;/strong&gt;&lt;br&gt;
+        日帰り入浴ができる施設が多数あり、宿泊場所以外の温泉も楽しめます。
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;泉質が最高&lt;/strong&gt;&lt;br&gt;
+        ちょっと寂れた温泉街ですが、&lt;a href="https://www.higashine.com/onsen/about" rel="nofollow"&gt;泉質はかなり良い&lt;/a&gt;と評判です。
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;strong&gt;翌朝は「朝市」で地元野菜を楽しもう！&lt;/strong&gt;&lt;br&gt;
+        次の日の朝(7:00~)は&lt;a href="https://www.higashine.com/archives/13049.html" rel="nofollow"&gt;農家直販の「朝市」&lt;/a&gt;が開催されています。地元食材を買って帰れます。
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+
+  
+  &lt;div style="margin-top:12px;
+    padding:12px;
+    background-color:#FFFFFF;
+
+    border:2px solid #000000;"&gt;
+    &lt;div style="margin-bottom:12px;
+      font-size:26px;
+
+      font-weight:bold;"&gt;
+      &lt;img src="https://img.gdgs.jp/TN2BNE9d" alt="" height="24"&gt;
+      &lt;img src="https://img.gdgs.jp/rVrdASin" alt="" height="24"&gt;
+      &lt;img src="https://img.gdgs.jp/yySuJYyi" alt="" height="24"&gt;
+      &lt;img src="https://img.gdgs.jp/lYdeZzlY" alt="" height="24"&gt;
+
+      &lt;h2 style="color:#000000;
+        font-size:26px;
+        border:none;
+        margin:8px 0 0 0;"&gt;
+        DevFestとは
+      &lt;/h2&gt;
+    &lt;/div&gt;
+
+    &lt;p style=""&gt;
+      DevFestは、世界各地のGoogle Developer Groups（GDG）が、それぞれの地域で開催するコミュニティ主導のテクノロジーカンファレンスです。
+    &lt;/p&gt;
+
+    &lt;p style=""&gt;
+      Googleのテクノロジーや業界の動向を学べるセッション、実際に手を動かすワークショップ、参加者同士のネットワーキングなどを通じて、技術とコミュニティに出会える場をつくります。
+    &lt;/p&gt;
+
+    &lt;p style="margin-bottom:0;"&gt;
+      開発者だけでなく、プロダクトマネージャー、デザイナー、学生、AIを使ってアプリケーション開発や課題解決に取り組みたい方など、さまざまな方が参加できます。
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;主催・協力・後援&lt;/h2&gt;
+&lt;h3&gt;主催：&lt;a href="https://gdg.community.dev/gdg-tohoku-tech-dojo-yamagata/" rel="nofollow"&gt;GDG 東北TECH道場 - 山形&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;協力：&lt;a href="https://developers-jp.googleblog.com/" rel="nofollow"&gt;Google&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;後援：&lt;a href="https://cchigashine.jp/" rel="nofollow"&gt;C＆Cひがしね&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;サテライト会場連携&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GDG 東北TECH道場 - 秋田（秋田サテライト会場）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GDG 東北TECH道場 - 青森（青森サテライト会場）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;⚠️ 注意事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スケジュール、内容は変更となる場合があります。&lt;/li&gt;
+&lt;li&gt;本イベントの内容は後日、主催団体のSNS等にて紹介する可能性があります。その際、参加者やアイコン等が写った画像も紹介されることがあります。予めご了承ください。&lt;/li&gt;
+&lt;li&gt;災害等により、主催の判断にてイベントを中止する場合があります。&lt;/li&gt;
+&lt;li&gt;参加を辞退する場合は、詳細ページより申込のキャンセルをお願い致します。&lt;/li&gt;
+&lt;li&gt;無断欠席などが続く場合、コミュニティ企画への参加を今後お断りさせていただく場合がございます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;推奨持ち物&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC&lt;/li&gt;
+&lt;li&gt;その他開発に必要なもの&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;⚠️ アンチハラスメントポリシー&lt;/h2&gt;
 &lt;p&gt;ハラスメントとは、性差、性同一性と表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、脅迫、ストーカー、望まない写真撮影や録音、録画、不適切な接触、およびそれらに関連した不快な言動が含まれます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GDG では全ての参加者がナレッジ共有に集中できるよう、これらのハラスメント行為を許容しません。&lt;/li&gt;
 &lt;li&gt;ナレッジの共有、参加者同士の交流を目的としない参加はお断りします。&lt;/li&gt;
 &lt;li&gt;参加目的が不適切だと判断される場合、運営側で参加をキャンセルさせていただきます。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;会場または配信コンテンツ上だけでなく、本イベントの内容や状況についてブログや SNS などで公開、コメントなどいただく際にも、これらハラスメント行為がないようご留意ください。 万が一、ハラスメント行為を見聞きした参加者は、お手数ですが主催グループまでご一報ください。&lt;/p&gt;
-&lt;h2&gt;Code of Conduct&lt;/h2&gt;
-&lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。&lt;br&gt;
+&lt;p&gt;会場または配信コンテンツ上だけでなく、本イベントの内容や状況についてブログや SNS などで公開、コメントなどいただく際にも、これらハラスメント行為がないようご留意ください。
+万が一、ハラスメント行為を見聞きした参加者は、お手数ですが主催グループまでご一報ください。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📜 Code of Conduct&lt;/h2&gt;
+&lt;p&gt;GDG では、みんなが楽しく参加できるようにイベントでの行動規範を定めています。
 イベントに参加される方はご一読ください。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mMye8H51TBqMRRlcWO0h7LjRaZas5GQsrVn_tqxxXhM/edit?usp=sharing" rel="nofollow"&gt;日本語&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mMye8H51TBqMRRlcWO0h7LjRaZas5GQsrVn_tqxxXhM/edit?usp=sharing" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1tClqOh-BctAXivEbYDZOpDeKfCayLS2HiJ3c-Gekoqs/edit?usp=sharing" rel="nofollow"&gt;English&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kahoku.connpass.com/event/405468/</guid><enclosure url="https://media.connpass.com/thumbs/8c/7b/8c7b8abdc11bc162c99bb9900e5d0b23.png" length="0" type="image/png"/><pubDate>Tue, 01 Sep 2026 12:01:13 +0900</pubDate></item><item><title>第42回 CoderDojo Tsuruoka</title><link>https://coderdojo-tsuruoka.connpass.com/event/408034/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月19日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月19日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 古今cocon&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県鶴岡市山王町8-18 古今cocon&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojotsuruoka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（コーダー道場）とは？&lt;/h1&gt;
+&lt;/ul&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kahoku.connpass.com/event/405468/</guid><enclosure url="https://media.connpass.com/thumbs/17/15/17157363e2301bebdf9767914f8ee392.png" length="0" type="image/png"/><pubDate>Fri, 09 Oct 2026 23:40:07 +0900</pubDate></item><item><title>第42回 CoderDojo Tsuruoka</title><link>https://coderdojo-tsuruoka.connpass.com/event/408034/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月19日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月19日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 古今cocon&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県鶴岡市山王町8-18 古今cocon&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojotsuruoka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（コーダー道場）とは？&lt;/h1&gt;
 &lt;p&gt;CoderDojo は7〜17歳を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には201以上の道場があります。(2024年10月現在)&lt;/p&gt;
 &lt;p&gt;子どもにより良い環境で、自発的に、なおかつ無料でプログラミングに触れる機会を提供するために始まりました。&lt;/p&gt;
 &lt;p&gt;CoderDojo Japan Webページ: &lt;a href="https://coderdojo.jp/" rel="nofollow"&gt;https://coderdojo.jp/&lt;/a&gt;&lt;/p&gt;
