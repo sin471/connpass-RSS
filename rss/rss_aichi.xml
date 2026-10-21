@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 20 Oct 2026 18:50:18 +0000</lastBuildDate><item><title>DroidKaigi.collect { #31@Nagoya }</title><link>https://droidkaigi.connpass.com/event/407026/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月23日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月23日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: Sansan株式会社 中部支店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 愛知県名古屋市中区栄3-13-20 栄センタービル 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DroidKaigi&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テーマは "After DroidKaigi 2026！"&lt;/p&gt;&lt;div&gt;&lt;h1&gt;DroidKaigi.collectとは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>愛知のイベント</title><link>https://connpass.com/explore/</link><description>愛知のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>愛知のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 21 Oct 2026 19:02:41 +0000</lastBuildDate><item><title>DroidKaigi.collect { #31@Nagoya }</title><link>https://droidkaigi.connpass.com/event/407026/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月23日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月23日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: Sansan株式会社 中部支店&lt;/li&gt;&lt;li&gt;🏢 住所: 〒460-0008 愛知県名古屋市中区栄3-13-20 栄センタービル 3F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #DroidKaigi&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;テーマは "After DroidKaigi 2026！"&lt;/p&gt;&lt;div&gt;&lt;h1&gt;DroidKaigi.collectとは&lt;/h1&gt;
 &lt;p&gt;DroidKaigi.collectは、&lt;a href="https://droidkaigi.jp/" rel="nofollow"&gt;DroidKaigi&lt;/a&gt;が主催するAndroid技術情報の共有とコミュニケーションを目的としたIn Personイベントです。&lt;/p&gt;
 &lt;p&gt;年次カンファレンス以外の交流の場として、地域によらず、定例開催することを目指しています。&lt;/p&gt;
 &lt;h2&gt;テーマは「After DroidKaigi 2026」&lt;/h2&gt;
@@ -1416,10 +1416,15 @@ PCを持ち込む方は、ご自身のペースで個人開発に取り組んで
 &lt;/table&gt;
 &lt;h2&gt;持ち物・事前準備&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;PC（任意）&lt;/li&gt;
-&lt;li&gt;持ち込む場合は、事前にClaude Codeを利用できる状態にしておくことをおすすめします&lt;/li&gt;
-&lt;li&gt;準備しておいていただきたいプランは、別途ご案内します&lt;/li&gt;
-&lt;li&gt;申し込み時のアンケートで、PC持ち込みの有無と、ご希望のレベル感を伺います。グループ分けが必要な方の参考にしますので、ご回答をお願いします&lt;/li&gt;
+&lt;li&gt;PC（任意）&lt;ul&gt;
+&lt;li&gt;持ち込む場合は、当日までに Claude Code が起動してログインできる状態にしておいてください&lt;/li&gt;
+&lt;li&gt;Claude Code の利用には、Claude の有料プラン（Pro など）または API の従量課金アカウントが必要です。無料プランではご利用いただけません。料金はご本人のご負担となります（料金・プラン: &lt;a href="https://claude.com/pricing" rel="nofollow"&gt;https://claude.com/pricing&lt;/a&gt; ）&lt;/li&gt;
+&lt;li&gt;インストールとログインの手順: &lt;a href="https://code.claude.com/docs/ja/setup" rel="nofollow"&gt;https://code.claude.com/docs/ja/setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Claude Code 以外の AI コーディングツールをお使いいただいても構いませんが、運営ではサポートできません&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PCや有料プランのご用意が難しい方も、そのままご参加いただけます（当日はクラスメソッドのメンバーの環境で一緒に開発します）&lt;/li&gt;
+&lt;li&gt;申し込み時のアンケートで、PC持ち込みの有無などを伺います。グループ分けが必要な方の参考にしますので、ご回答をお願いします&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;h3&gt;電源・Wi-Fi&lt;/h3&gt;
@@ -1437,7 +1442,7 @@ PCを持ち込む方は、ご自身のペースで個人開発に取り組んで
 &lt;li&gt;入館確認のため、受付にて氏名・ご連絡先情報を確認させていただく場合がございます。（セキュリティ上の入館処理以外に利用いたしません）&lt;/li&gt;
 &lt;li&gt;本イベントの参加お申し込み時にいただく情報は、クラスメソッド株式会社の『&lt;a href="https://classmethod.jp/privacy/" rel="nofollow"&gt;個人情報保護方針&lt;/a&gt;』および『&lt;a href="https://classmethod.jp/wp-content/themes/classmethod/pdf/privacy_purpose.pdf" rel="nofollow"&gt;クラスメソッドが取得する個人情報と利用目的&lt;/a&gt;』の「当社ビジネスに関するイベント・セミナー参加者情報」に基づき取り扱います。&lt;/li&gt;
 &lt;li&gt;イベントの様子は、写真撮影や録画される可能性がございます。撮影内容は、クラスメソッドグループの広報活動等に利用いたします。あらかじめご了承ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/408161/</guid><enclosure url="https://media.connpass.com/thumbs/d5/51/d5516064f2b881fe85353004753038d1.png" length="0" type="image/png"/><pubDate>Wed, 07 Oct 2026 19:35:23 +0900</pubDate></item><item><title>名古屋アジャイル勉強会 Re:boot #3 ~ LT ＋ OST、「話す」をもっと楽しく！ ~</title><link>https://nagoyaagile.connpass.com/event/407180/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: CTC - 伊藤忠テクノソリューションズ 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中区栄4-1-1 中日ビル（受付は11階です）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NagoyaAgile&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;アジャイル開発手法やその周辺のさまざまな知見を職場で活かすための勉強会です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/408161/</guid><enclosure url="https://media.connpass.com/thumbs/d5/51/d5516064f2b881fe85353004753038d1.png" length="0" type="image/png"/><pubDate>Wed, 21 Oct 2026 09:56:43 +0900</pubDate></item><item><title>名古屋アジャイル勉強会 Re:boot #3 ~ LT ＋ OST、「話す」をもっと楽しく！ ~</title><link>https://nagoyaagile.connpass.com/event/407180/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: CTC - 伊藤忠テクノソリューションズ 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 名古屋市中区栄4-1-1 中日ビル（受付は11階です）&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #NagoyaAgile&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;アジャイル開発手法やその周辺のさまざまな知見を職場で活かすための勉強会です。&lt;/p&gt;&lt;div&gt;&lt;p&gt;★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;br&gt;
 &lt;strong&gt;名古屋アジャイル勉強会 第3回 ｜ LT ＋ OST、「話す」をもっと楽しく！ 🎉&lt;/strong&gt;&lt;br&gt;
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;話せるOSTに、聞いて楽しいLTを。&lt;/strong&gt;&lt;/p&gt;
@@ -1729,7 +1734,7 @@ PCを持ち込む方は、ご自身のペースで個人開発に取り組んで
 &lt;li&gt;禁止事項： 営業目的や勧誘行為はご遠慮ください。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;メモ&lt;/h1&gt;
-&lt;p&gt;Discordウェブアクセシビリティコミュニティ 全体　第181回&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://a11y-discord.connpass.com/event/409098/</guid><pubDate>Tue, 06 Oct 2026 16:16:48 +0900</pubDate></item><item><title>手羽先プロンプト #2 〜名古屋のAI勉強会〜</title><link>https://tebasaki-prompt.connpass.com/event/406092/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スタメン 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒450-0006 愛知県名古屋市中村区 下広井町１丁目１４－８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tebapro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名古屋のAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;手羽先プロンプトとは？&lt;/h1&gt;
+&lt;p&gt;Discordウェブアクセシビリティコミュニティ 全体　第181回&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://a11y-discord.connpass.com/event/409098/</guid><enclosure url="https://media.connpass.com/thumbs/ef/30/ef3041d553a4b6cefa76fd4e8b282036.png" length="0" type="image/png"/><pubDate>Wed, 21 Oct 2026 14:30:22 +0900</pubDate></item><item><title>手羽先プロンプト #2 〜名古屋のAI勉強会〜</title><link>https://tebasaki-prompt.connpass.com/event/406092/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月6日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月6日(金) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社スタメン 名古屋オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 〒450-0006 愛知県名古屋市中村区 下広井町１丁目１４－８&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #tebapro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;名古屋のAI勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;手羽先プロンプトとは？&lt;/h1&gt;
 &lt;p&gt;名古屋でAI勉強会を開き、名古屋を盛り上げていこうという意気込みのグループです。
 「AIが気になるけど何から始めれば？」「他の方々はどんなAIの活用をしているのだろう？」「名古屋でAI仲間がほしい」
 そんな方のためのゆるく学べるAI活用コミュニティです！&lt;/p&gt;
@@ -4052,7 +4057,11 @@ ND1ロードスターのCAN仕様、信号の取り方、解析の勘所、実�
 &lt;ul&gt;
 &lt;li&gt;イベントの趣旨と関係のない宣伝行為、採用活動、およびネットワーキングのみを目的としたご参加はご遠慮ください。&lt;/li&gt;
 &lt;li&gt;万が一、他の参加者の方への迷惑行為や強引な勧誘が見受けられた場合は、主催者の判断によりご退場いただく場合がございます。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tech-challenge-party.connpass.com/event/409859/</guid><enclosure url="https://media.connpass.com/thumbs/c8/94/c894eb52837c8f394ae0ca4e292a1823.png" length="0" type="image/png"/><pubDate>Mon, 19 Oct 2026 14:03:29 +0900</pubDate></item><item><title>第41回なごやインディゲームもくもく会</title><link>https://indiewarehuman.connpass.com/event/409655/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月19日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月19日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Code Base Nagoya&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディーゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;インディゲームを作っている人のための会&lt;/h1&gt;
+&lt;/ul&gt;
+&lt;h2&gt;プライバシーポリシー同意のお願い&lt;/h2&gt;
+&lt;p&gt;イベント参加者様にはプライバシーポリシー同意のお願いをしております。
+下記リンクよりご確認の上、申し込み時に同意をお願いします。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://collabo-style.box.com/s/nz804cvtxdw0z1xuicjj1u0673ql7073" rel="nofollow"&gt;プライバシーポリシーはこちら&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://tech-challenge-party.connpass.com/event/409859/</guid><enclosure url="https://media.connpass.com/thumbs/c8/94/c894eb52837c8f394ae0ca4e292a1823.png" length="0" type="image/png"/><pubDate>Wed, 21 Oct 2026 16:45:38 +0900</pubDate></item><item><title>第41回なごやインディゲームもくもく会</title><link>https://indiewarehuman.connpass.com/event/409655/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月19日(土) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月19日(土) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: Code Base Nagoya&lt;/li&gt;&lt;li&gt;🏢 住所: 愛知県名古屋市中区葵1-23-14 プロト葵ビル6F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #インディーゲームもくもく会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;みんなでもくもくゲーム開発しよう！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;インディゲームを作っている人のための会&lt;/h1&gt;
 &lt;p&gt;ゲームエンジンの縛りなし！Unity、Unreal Engine、Godot Engine、その他なんでもOK！&lt;/p&gt;
 &lt;p&gt;本会では各々が目標に向かってもくもく作業します。&lt;/p&gt;
 &lt;p&gt;詰まったら質問やテストプレイなどで協力しあいましょう。&lt;/p&gt;
