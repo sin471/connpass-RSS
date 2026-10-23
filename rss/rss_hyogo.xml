@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Thu, 22 Oct 2026 18:58:36 +0000</lastBuildDate><item><title>【JAWS-UG 神戸 #15】残暑！LT会</title><link>https://jawsug-kobe.connpass.com/event/407581/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月23日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月23日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1002）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兵庫のイベント</title><link>https://connpass.com/explore/</link><description>兵庫のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>兵庫のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Fri, 23 Oct 2026 18:48:42 +0000</lastBuildDate><item><title>【JAWS-UG 神戸 #15】残暑！LT会</title><link>https://jawsug-kobe.connpass.com/event/407581/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月23日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月23日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 中央区文化センター（会議室 1002）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒650-0031 兵庫県神戸市中央区東町１１５&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsug_kobe&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;
 &lt;p&gt;だいぶ涼しくなってきましたが、歩いているとまだまだ暑いですね。&lt;br&gt;
 そんな残暑を感じながらのLT会を開催します！（果たして開催日はまだ暑いのか）&lt;br&gt;
 いつも通りのAWSのことならなんでもOKのLT会です&lt;br&gt;
@@ -1201,7 +1201,7 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;18:40 - 19:15&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;strong&gt;講演1（30分＋質疑5分）&lt;/strong&gt;&lt;br&gt;IPA 未踏アドバンスド発、OSS 開発での AI 駆動開発環境（仮）&lt;br&gt;勝又 雅史 さん&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;講演1（30分＋質疑5分）&lt;/strong&gt;&lt;br&gt;MapConductor の開発での AI 駆動開発&lt;br&gt;勝又 雅史 さん&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;19:15 - 19:50&lt;/td&gt;
@@ -1229,9 +1229,9 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;hr&gt;
 &lt;h2&gt;講演内容：AIDD 環境構築編&lt;/h2&gt;
 &lt;p&gt;立場の異なる3つの現場から、「AI 駆動開発をどんな環境で、どう回しているか」をお話しいただきます。&lt;/p&gt;
-&lt;h3&gt;講演1：IPA 未踏アドバンスド発、OSS 開発での AI 駆動開発環境（仮）&lt;/h3&gt;
+&lt;h3&gt;講演1：OSS 開発での AI 駆動開発環境&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;勝又 雅史 さん&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OSS 開発において、AI をどのように開発プロセスへ組み込んでいるのか。個人〜少人数で高速に開発を進めるための環境づくりを紹介いただきます。&lt;/p&gt;
+&lt;p&gt;自身の公開している OSS 開発における AI 駆動開発についてお話しします。&lt;/p&gt;
 &lt;h3&gt;講演2：中規模開発組織の Claude Code 導入&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;米澤 さん&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中規模の開発組織に Claude Code を導入する際の進め方、ルールづくり、現場での定着までのリアルな道のりをお話しいただきます。&lt;/p&gt;
@@ -1249,7 +1249,9 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;p&gt;会場からの質問も受け付けます。聞いてみたいことをぜひ持ってきてください！&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;登壇者紹介&lt;/h2&gt;
-&lt;h3&gt;勝又 雅史 さん&lt;/h3&gt;
+&lt;h3&gt;勝又 雅史 さん / フルスタックWebエンジニア&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://thinkit.co.jp/sites/default/files/styles/photo_180/public/images/article_node/nid/3/93/39397/prof_katsumata_eng-judg.png.avif?itok=zCmoC4KG" height="200px"&gt;&lt;/p&gt;
+&lt;p&gt;フルスタックWebエンジニア(Angular、Node.js、TS、GCP、Android、iOS、Redis)。Maps 分野の Google Developer Expert(GDE)で、約 10 年にわたり地図アプリケーションや関連ツールの開発に携わる。Google Maps APIs に関する書籍の執筆や、世界中の開発者に利用されている Cordova Google Maps Plugin の開発経験を持つ。複数の地図SDKを共通のプログラミングモデルで扱うためのオープンソースSDK「&lt;a href="https://mapconductor.com/ja/" rel="nofollow"&gt;MapConductor&lt;/a&gt;」のリード開発者。&lt;/p&gt;
 &lt;h3&gt;米澤 さん&lt;/h3&gt;
 &lt;h3&gt;H2O リテイリング ご登壇者&lt;/h3&gt;
 &lt;hr&gt;
@@ -1259,7 +1261,7 @@ AI駆動開発(AI-Driven Development) 勉強会では、AI技術を使った開�
 &lt;li&gt;会場は 21:00 完全撤収のため、イベントは 20:45 に終了します。終了後は速やかなご退出にご協力ください。&lt;/li&gt;
 &lt;li&gt;会場の様子は写真撮影し、SNS 等で発信する場合があります。写りたくない方は受付でお申し出ください。&lt;/li&gt;
 &lt;li&gt;ハラスメント行為は固くお断りします。安心・安全な学びの場づくりにご協力ください。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/410751/</guid><enclosure url="https://media.connpass.com/thumbs/dc/af/dcafcd11a9d43adcbf9412f31661a611.png" length="0" type="image/png"/><pubDate>Thu, 22 Oct 2026 22:44:35 +0900</pubDate></item><item><title>おさべん忘年会2026</title><link>https://connpass.com/event/408745/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 長田区文化センター&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市長田区若松町５丁目５−１&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;おさべん忘年会2026&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/410751/</guid><enclosure url="https://media.connpass.com/thumbs/dc/af/dcafcd11a9d43adcbf9412f31661a611.png" length="0" type="image/png"/><pubDate>Fri, 23 Oct 2026 23:12:58 +0900</pubDate></item><item><title>おさべん忘年会2026</title><link>https://connpass.com/event/408745/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 長田区文化センター&lt;/li&gt;&lt;li&gt;🏢 住所: 兵庫県神戸市長田区若松町５丁目５−１&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;おさべん忘年会2026&lt;/h1&gt;
 &lt;p&gt;おさべん忘年会2026の下記の要領で開催します。 &lt;br&gt; 
 みなさんの参加をお待ちしています。 &lt;br&gt; &lt;/p&gt;
 &lt;h2&gt;■日時&lt;br&gt;&lt;/h2&gt;
