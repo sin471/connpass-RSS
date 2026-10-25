@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>佐賀のイベント</title><link>https://connpass.com/explore/</link><description>佐賀のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>佐賀のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sat, 24 Oct 2026 17:44:30 +0000</lastBuildDate><item><title>JAWS-UG佐賀#34 ハック・ザ・メディア 〜佐賀にAIはあうんか？〜</title><link>https://jawsug-saga.connpass.com/event/400996/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月1日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月1日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: JONAI SQUARE&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市城内1丁目6番10号 サガテレビ1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugsaga&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 style="background-color: #1ebe36; color: white;"&gt;概要&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>佐賀のイベント</title><link>https://connpass.com/explore/</link><description>佐賀のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>佐賀のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 25 Oct 2026 18:00:18 +0000</lastBuildDate><item><title>JAWS-UG佐賀#34 ハック・ザ・メディア 〜佐賀にAIはあうんか？〜</title><link>https://jawsug-saga.connpass.com/event/400996/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月1日(日) 13:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月1日(日) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: JONAI SQUARE&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市城内1丁目6番10号 サガテレビ1F&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #jawsugsaga&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2 style="background-color: #1ebe36; color: white;"&gt;概要&lt;/h2&gt;
 
 &lt;p&gt;JAWS-UG佐賀のオフラインイベント第34回を開催します！ 今回の舞台は、サガテレビ1Fのオープンスペース「JONAI SQUARE」。 仕様駆動開発とAI-DLC（AI駆動開発ライフサイクル）をテーマに、AIとチャットしながら爆速でプロトタイプを作る「ハッカソン形式」のワークショップを行います。&lt;/p&gt;
 &lt;p&gt;「勝手にサガテレビグループのDXを応援するシステム」を即席チームで開発し、佐賀の地に最先端のAI開発体験を持ち込みましょう。 AWSや生成AI、ローカルDXに関心のあるエンジニア・ビジネスパーソン、そして学生（大学・高専・専門学校等）も大歓迎です。 プログラミング未経験の方も、AIに仕様を指示・レビューする重要な役割として活躍できます！&lt;/p&gt;
@@ -69,7 +69,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;15:55-16:00&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;【LT③】T.B.D&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;【LT③】Kiro + AWS Blocksで試すモバイルアプリ開発（国府田 諭）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;16:00-16:45&lt;/td&gt;
@@ -222,8 +222,8 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;3&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;T.B.D&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;T.B.D&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Kiro + AWS Blocksで試すモバイルアプリ開発&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;国府田 諭&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -234,10 +234,13 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;CDLE佐賀でのAWS・AI 活用&lt;/strong&gt;（黒田 陽之 さん）&lt;ul&gt;
-&lt;li&gt;CDLE佐賀でのコミュニティ活動へのAI活用内容紹介&lt;/li&gt;
+&lt;li&gt;CDLE佐賀でのコミュニティ活動へのAI活用内容紹介  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;T.B.D&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiro + AWS Blocksで試すモバイルアプリ開発&lt;/strong&gt;（国府田 諭 さん）&lt;ul&gt;
+&lt;li&gt;AWS Blocksは、手軽にAWSのローカル環境を作れ、モバイル向けのコード生成ツールもあります。これとKiroでアプリを作ってみた話です&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 style="background-color: #1ebe36; color: white;"&gt;事前準備のお願い&lt;/h2&gt;
 
@@ -302,7 +305,7 @@
 
 &lt;h1 style="background-color: #1ebe36; color: white; text-align: center;"&gt;イベント開催協力：佐賀県産業スマート化センター&lt;/h1&gt;
 
-&lt;p&gt;&lt;img alt="ロゴ画像" src="https://www.saga-smart.jp/images/ogp.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-saga.connpass.com/event/400996/</guid><enclosure url="https://media.connpass.com/thumbs/25/36/25362a11741845949d7a6678f17d61f3.png" length="0" type="image/png"/><pubDate>Mon, 19 Oct 2026 16:02:04 +0900</pubDate></item><item><title>【懇親会】JAWS-UG佐賀#34 ハック・ザ・メディア 〜佐賀にAIはあうんか？〜</title><link>https://jawsug-saga.connpass.com/event/401035/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月1日(日) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月1日(日) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: JONAI SQUARE&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市城内1丁目6番10号 サガテレビ1F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;会場そのままで立食パーティーとなる予定です。&lt;br&gt;
+&lt;p&gt;&lt;img alt="ロゴ画像" src="https://www.saga-smart.jp/images/ogp.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-saga.connpass.com/event/400996/</guid><enclosure url="https://media.connpass.com/thumbs/25/36/25362a11741845949d7a6678f17d61f3.png" length="0" type="image/png"/><pubDate>Sun, 25 Oct 2026 22:00:02 +0900</pubDate></item><item><title>【懇親会】JAWS-UG佐賀#34 ハック・ザ・メディア 〜佐賀にAIはあうんか？〜</title><link>https://jawsug-saga.connpass.com/event/401035/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月1日(日) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月1日(日) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: JONAI SQUARE&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市城内1丁目6番10号 サガテレビ1F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p&gt;会場そのままで立食パーティーとなる予定です。&lt;br&gt;
 サガテレビグループのビープラスト様に県外の方向けに佐賀らしい飲食物をご用意頂いています。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://jawsug-saga.connpass.com/event/401035/</guid><pubDate>Fri, 31 Jul 2026 17:25:12 +0900</pubDate></item><item><title>【CDLE佐賀】実践！社会実装をはじめよう～Cloudflareで動かすハンズオン～</title><link>https://cdle-saga.connpass.com/event/410404/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月21日(土) 15:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月21日(土) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: オンライン／ものづくりカフェ「こねくり家」&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市柳町4-16&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #CDLE佐賀&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h2&gt;イベント概要&lt;/h2&gt;
 &lt;p&gt;9月の「実践！作って学ぶ画像認識モデル」では、Teachable Machine で画像認識モデルを作りました。&lt;br&gt;
 今回はその続きです。作ったモデルを &lt;strong&gt;Cloudflare に載せて、実際に使える状態にする&lt;/strong&gt;ところまで、手を動かしながら一緒に進めます。&lt;br&gt;
@@ -379,7 +382,7 @@
 &lt;li&gt;懇親会のキャンセルは 11/14(土)（7日前）までにお願いします&lt;/li&gt;
 &lt;li&gt;当日の様子を写真に撮り、活動レポートで紹介する場合があります&lt;/li&gt;
 &lt;li&gt;イベント内容・タイムテーブルは予告なく変更となる場合があります&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-saga.connpass.com/event/410404/</guid><enclosure url="https://media.connpass.com/thumbs/15/52/1552b9c18c1ec39186d3f430be8bff5c.png" length="0" type="image/png"/><pubDate>Sat, 24 Oct 2026 13:16:25 +0900</pubDate></item><item><title>【CDLE佐賀】懇親会</title><link>https://cdle-saga.connpass.com/event/410726/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月21日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月21日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ものづくりカフェ「こねくり家」&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市柳町4-16&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://cdle-saga.connpass.com/event/410404/</guid><enclosure url="https://media.connpass.com/thumbs/4a/ca/4aca52b2ed498411b9ad00077f527083.png" length="0" type="image/png"/><pubDate>Sun, 25 Oct 2026 11:52:03 +0900</pubDate></item><item><title>【CDLE佐賀】懇親会</title><link>https://cdle-saga.connpass.com/event/410726/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月21日(土) 17:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月21日(土) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: ものづくりカフェ「こねくり家」&lt;/li&gt;&lt;li&gt;🏢 住所: 佐賀県佐賀市柳町4-16&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;イベント概要&lt;/h1&gt;
 &lt;p&gt;本イベントは、「実践！社会実装をはじめよう～Cloudflareで動かすハンズオン～」終了後の懇親会サブイベントとなります。&lt;br&gt;
 佐賀県遺産でもある古民家をリノベーションした「ものづくりカフェ こねくり家」を貸し切っての開催となります！&lt;br&gt;
 この機会にいろんな人と交流したい方、CDLEメンバーと繋がりたいという方は、ぜひお気軽にお申し込みください！  &lt;/p&gt;
