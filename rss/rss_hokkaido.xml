@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Sun, 25 Oct 2026 17:59:11 +0000</lastBuildDate><item><title>Vue Sapporo #5</title><link>https://vue-sapporo.connpass.com/event/409572/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月28日(水) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月28日(水) 20:45&lt;/li&gt;&lt;li&gt;📍 会場: ふれあい貸し会議室 札幌中屋&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北九条西4-10-1 N9中屋ビル2階 202&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #vuesapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vue.jsと周辺技術を遊び尽くす！初心者も上級者も、知見と悩みを語り合う交流型勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;VueSapporo #5&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 20:13:26 +0000</lastBuildDate><item><title>Vue Sapporo #5</title><link>https://vue-sapporo.connpass.com/event/409572/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月28日(水) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月28日(水) 20:45&lt;/li&gt;&lt;li&gt;📍 会場: ふれあい貸し会議室 札幌中屋&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北九条西4-10-1 N9中屋ビル2階 202&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #vuesapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vue.jsと周辺技術を遊び尽くす！初心者も上級者も、知見と悩みを語り合う交流型勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;VueSapporo #5&lt;/h1&gt;
 &lt;h2&gt;～札幌のVue.jsエンジニアLT会～&lt;/h2&gt;
 &lt;p&gt;#5を開催します。場所は前回・前々回と同じです。&lt;br&gt;
 Vue.jsや関連技術についていろいろお話ししましょう！&lt;br&gt;
@@ -28,13 +28,13 @@ LTは10分+質疑(わいわい)5分です。&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:15-19:30&lt;/td&gt;
-&lt;td&gt;（TBA）&lt;/td&gt;
-&lt;td&gt;LT1 （未定）&lt;/td&gt;
+&lt;td&gt;kouki.miura&lt;/td&gt;
+&lt;td&gt;LT1 「vue-tsc x TypeScript7&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:30-19:45&lt;/td&gt;
-&lt;td&gt;（TBA）&lt;/td&gt;
-&lt;td&gt;LT2 （未定）&lt;/td&gt;
+&lt;td&gt;RyuziOohashiさん&lt;/td&gt;
+&lt;td&gt;LT2 「package.json の外側、見てますか？」&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:45-20:00&lt;/td&gt;
@@ -43,13 +43,13 @@ LTは10分+質疑(わいわい)5分です。&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:00-20:15&lt;/td&gt;
-&lt;td&gt;（TBA）&lt;/td&gt;
-&lt;td&gt;LT3 （未定）&lt;/td&gt;
+&lt;td&gt;kouki.miura※&lt;/td&gt;
+&lt;td&gt;LT3 「Vue Fes Japan 2026 参加レポート」※&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:15-20:30&lt;/td&gt;
-&lt;td&gt;（TBA）&lt;/td&gt;
-&lt;td&gt;LT4 （未定）&lt;/td&gt;
+&lt;td&gt;kouki.miura※&lt;/td&gt;
+&lt;td&gt;LT4 「SFCで実現する病院・医療情報システムの動的組み立て式UI」※&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20:30-20:35&lt;/td&gt;
@@ -63,6 +63,7 @@ LTは10分+質疑(わいわい)5分です。&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;※LT3、LT4は仮発表者、仮タイトルです。発表希望あれば変更します。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;VueSapporoについて&lt;/h2&gt;
 &lt;p&gt;VueSapporoは、札幌周辺のVue.jsエンジニアが集まる勉強会です。&lt;br&gt;
@@ -87,7 +88,7 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 ・本勉強会の趣旨から外れる過度な勧誘・営業行為はしない&lt;br&gt;
 　（所属会社の簡単な紹介や、関わっているプロダクトの概要説明は問題ありません）  &lt;/p&gt;
 &lt;p&gt;運営が不適切と判断した行為があった場合、&lt;br&gt;
-注意・退出のお願いを行うことがあります。あらかじめご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://vue-sapporo.connpass.com/event/409572/</guid><enclosure url="https://media.connpass.com/thumbs/89/98/899826a4161ee604faa323d4cb14e5f8.png" length="0" type="image/png"/><pubDate>Sun, 11 Oct 2026 16:05:43 +0900</pubDate></item><item><title>【第3回】ハロウィンの夜に、ITで繋がろう！ITエンジニア交流会</title><link>https://0plus.connpass.com/event/406255/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月29日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月29日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 725_KITCHEN札幌&lt;/li&gt;&lt;li&gt;🏢 住所: 〒064-0806 北海道札幌市 中央区南6条西6丁目7−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【第3回🎃】ハロウィンの夜に、ITで繋がろう！｜ITエンジニア&amp;amp;フリーランス交流会 By Localhost Sapporo&lt;br&gt;&lt;/h1&gt;
+注意・退出のお願いを行うことがあります。あらかじめご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://vue-sapporo.connpass.com/event/409572/</guid><enclosure url="https://media.connpass.com/thumbs/89/98/899826a4161ee604faa323d4cb14e5f8.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 08:10:44 +0900</pubDate></item><item><title>【第3回】ハロウィンの夜に、ITで繋がろう！ITエンジニア交流会</title><link>https://0plus.connpass.com/event/406255/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月29日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月29日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 725_KITCHEN札幌&lt;/li&gt;&lt;li&gt;🏢 住所: 〒064-0806 北海道札幌市 中央区南6条西6丁目7−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【第3回🎃】ハロウィンの夜に、ITで繋がろう！｜ITエンジニア&amp;amp;フリーランス交流会 By Localhost Sapporo&lt;br&gt;&lt;/h1&gt;
 &lt;p&gt;2026年10月29日(木) 19:00〜21:00&lt;br&gt;&lt;br&gt;
 札幌のIT業界をもっと盛り上げたい！🔥&lt;br&gt;
 そんな思いから気軽に参加できるIT交流会を開催いたします！&lt;br&gt;
@@ -152,7 +153,7 @@ LT（ライトニングトーク）を中心に情報共有することを目的
 また、参加者間のトラブルについて、当会が仲裁することはございません。&lt;br&gt;
 本イベントは男女の出会いを目的としたものではなく、男女比の調整は行っておりません。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;主催：&lt;br&gt;
-株式会社ZeroPlus / Localhost Sapporo&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://0plus.connpass.com/event/406255/</guid><enclosure url="https://media.connpass.com/thumbs/36/40/364073719d5b206bf141a23cf972da5d.png" length="0" type="image/png"/><pubDate>Tue, 15 Sep 2026 09:47:09 +0900</pubDate></item><item><title>FuraIT. fuel #86ハイブリッドもくもく会。やっぱり金曜日がいいよね！</title><link>https://furait.connpass.com/event/408915/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月30日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月30日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FuraIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;じっくりゆっくりもくもくしよう♫&lt;/p&gt;&lt;div&gt;&lt;p&gt;86回目❗&lt;/p&gt;
+株式会社ZeroPlus / Localhost Sapporo&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://0plus.connpass.com/event/406255/</guid><enclosure url="https://media.connpass.com/thumbs/36/40/364073719d5b206bf141a23cf972da5d.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 18:05:44 +0900</pubDate></item><item><title>FuraIT. fuel #86ハイブリッドもくもく会。やっぱり金曜日がいいよね！</title><link>https://furait.connpass.com/event/408915/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月30日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月30日(金) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: コンシェルジュフラノ4階フラノデザイン&lt;/li&gt;&lt;li&gt;🏢 住所: 富良野市本町2番27号&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #FuraIT&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;じっくりゆっくりもくもくしよう♫&lt;/p&gt;&lt;div&gt;&lt;p&gt;86回目❗&lt;/p&gt;
 &lt;h1&gt;&lt;strong&gt;FuraIT.fuel 爆誕そして継続&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;「fuel = 燃料」  &lt;br&gt;
 自分と技術と真摯に向き合って給油する機会を強制的に作ることができます．&lt;br&gt;
@@ -726,7 +727,58 @@ Koto City, JP-13 135-0063）&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;&lt;strong&gt;【懇親会】&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;地下鉄澄川駅近辺の居酒屋で開催予定です。後程別に connpass を立てる予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hmmspr.connpass.com/event/406483/</guid><enclosure url="https://media.connpass.com/thumbs/4f/b9/4fb914862e63527137aba3cb43cc70c4.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 16:23:24 +0900</pubDate></item><item><title>HackBar in Sapporo@11.7</title><link>https://seb-sapporo.connpass.com/event/410414/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月7日(土) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月7日(土) 22:30&lt;/li&gt;&lt;li&gt;📍 会場: Bar オープン&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南１条西１丁目３ 板谷ビル 8階 Bar Open&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～神戸の Hack Bar が Bar オープン で1日限定オープン！～&lt;/p&gt;&lt;div&gt;&lt;p&gt;神戸でエンジニアが集まるバー「HACK.BAR」の店長が札幌にやってきます！&lt;/p&gt;
+&lt;p&gt;地下鉄澄川駅近辺の居酒屋で開催予定です。後程別に connpass を立てる予定です。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://hmmspr.connpass.com/event/406483/</guid><enclosure url="https://media.connpass.com/thumbs/4f/b9/4fb914862e63527137aba3cb43cc70c4.png" length="0" type="image/png"/><pubDate>Fri, 11 Sep 2026 16:23:24 +0900</pubDate></item><item><title>第５９回 CoderDojo江別</title><link>https://coderdojo-ebetsu.connpass.com/event/410999/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月7日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月7日(土) 16:00&lt;/li&gt;&lt;li&gt;📍 会場: 市民交流施設 ぷらっと&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道江別市東野幌本町6-43&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #プログラミング&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;スクラッチやマイクラなどで、大人も一緒に遊んでみよう。マイクラでタイピング練習をしよう&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CoderDojo江別では&lt;/h1&gt;
+&lt;p&gt;楽しく、のんびりと、想像力を膨らませましょう。自分の作品を発表しましょう。
+スクラッチで自分の考えた「何か？」を描いてみましょう。
+不明点がありましたらお問い合わせくださいご説明いたします。&lt;/p&gt;
+&lt;p&gt;※マイクラはJava版をインストールしたPCがあります。&lt;/p&gt;
+&lt;h2&gt;今回のDOJOは&lt;/h2&gt;
+&lt;p&gt;今回も&lt;strong&gt;マイクラをマルチプレーヤー(3人以上)で遊びたい&lt;/strong&gt;と思っております。  &lt;/p&gt;
+&lt;p&gt;ゲームはサバイバルモードでプレイいたします。敵は強い者がおります。
+洞窟の探検などは、協力体制を組まないと難しいです。&lt;/p&gt;
+&lt;p&gt;そのため、ゲームではありますが「協力してサバイバルする」体験ができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【保護者の皆さんへ】&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当Dojoでは、マイクラ(Java版)のマルチプレイが流行っております。&lt;/p&gt;
+&lt;p&gt;ただし、製品版のゲームでなく、開発環境でのゲームプレイになりますので。&lt;br&gt;
+&lt;strong&gt;いくつかの試練&lt;/strong&gt;があります。&lt;br&gt;
+これは、親子で協力してやってもらうことになるかもしれません。&lt;/p&gt;
+&lt;p&gt;具体的には以下のようなことです。ちょっと本格的なモノですが、書き写しなので簡単にできます。
+ポイントは「自分でやった」という成功体験だと思っております。&lt;br&gt;
+・Webサーバーへの接続確認&lt;br&gt;
+・MODファイルのインストール&lt;br&gt;
+・Gradleスクリプトの実装  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【自分のPCにインストール】&lt;/strong&gt;
+ご希望であれば、手持ちのPCへマイクラの開発環境をインストールするお手伝いをいたします。
+自分のPCなので、遊んだ後のデータを保持したままにできます。&lt;/p&gt;
+&lt;p&gt;【レンタルPCについて】 &lt;br&gt;
+1. 「PCなど持っていない」、「使えるPCがない」などありましたら、ぜひ、ご相談ください。
+古いPCなどを再利用する方法を知っております。そこらへんの情報を共有できます。
+そして、レンタル用のPCを６台ほど持っております。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://coderdojo.jp/kata#learn" rel="nofollow"&gt;スクラッチの参考資料&lt;/a&gt;をダウンロードできます。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;古いPCなどありましたら、それを持参ください。
+  そのPCを「Linux」という無料のOSで&lt;a href="https://youtu.be/iR3TTHHmj1U" rel="nofollow"&gt;再度使えるようにできます&lt;/a&gt;。
+  ただし、そのPCのデータなど保存していたものが全て消えてしまうので、データの退避などしておいてください。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coder Dojoの「&lt;a href="https://coderdojo.jp/kata" rel="nofollow"&gt;Kata&lt;/a&gt;」がありますので、参考になるドキュメント(資料)をやってみるのも一つです。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;「Greenfoot」などやってみませんか？Javaというマインクラフトを作っているプログラミング言語です。「&lt;a href="https://www.greenfoot.org/scenarios/" rel="nofollow"&gt;人の作品を見てみよう&lt;/a&gt;」で作品が見れます。そして、使用している言語がJavaになります&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;１８歳以上のみなさんへ(大人を含む)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;メンター(ボランティア)を募集&lt;/strong&gt;しています。
+是非ご参加ください。プログラミング好きな大人がいますので、見分を広げる機会にできると思います。&lt;/p&gt;
+&lt;p&gt;昨今では、どの業界でも「サーバー」や「システム利用」ということが業務でも増えております。
+Dojoでは、&lt;strong&gt;業務システムの基本となる「サーバー」と「クライアント」の関係を実体験として学ぶ事&lt;/strong&gt;ができます。&lt;/p&gt;
+&lt;p&gt;開発環境で遊べる場所(コミニティ)は、珍しいと思います。一緒にサーバーを使って遊びましょう。&lt;/p&gt;
+&lt;p&gt;そして、是非ご協力のほどをお願いいたします。&lt;/p&gt;
+&lt;p&gt;一度イベントにご参加いただき、それからやる・やらないを決めるというのもよいと思っております。&lt;br&gt;
+※&lt;strong&gt;メンターには７０代の方もいらっしゃいます。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://coderdojo-ebetsu.connpass.com/event/410999/</guid><enclosure url="https://media.connpass.com/thumbs/a8/f4/a8f4dbdfbfa27aee3cf0bb522b83e03c.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 10:31:19 +0900</pubDate></item><item><title>HackBar in Sapporo@11.7</title><link>https://seb-sapporo.connpass.com/event/410414/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月7日(土) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月7日(土) 22:30&lt;/li&gt;&lt;li&gt;📍 会場: Bar オープン&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市中央区南１条西１丁目３ 板谷ビル 8階 Bar Open&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;～神戸の Hack Bar が Bar オープン で1日限定オープン！～&lt;/p&gt;&lt;div&gt;&lt;p&gt;神戸でエンジニアが集まるバー「HACK.BAR」の店長が札幌にやってきます！&lt;/p&gt;
 &lt;p&gt;当日は札幌の Bar オープンを間借りして、1日限定の「HackBar in Sapporo」を開催します。&lt;/p&gt;
 &lt;p&gt;テーマ「ハック」の5分間LTを5本楽しんだあとは、ドリンク片手に気軽に交流しましょう。&lt;/p&gt;
 &lt;p&gt;札幌のエンジニアも、神戸や Hack Bar が気になる方も、ぜひお気軽にご参加ください。&lt;/p&gt;
@@ -965,7 +1017,7 @@ LT希望の方は、申込み時にLTタイトルと簡単な内容を入力し�
 &lt;li&gt;知識の共有および、参加者同士の交流を目的としない参加はお断りしています。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;レベル問わず IT 技術について盛り上がる事を目的としています。過剰なマウンティング行為や宣伝行為はご控えください&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;イベント参加時に入力いただいた情報は、&lt;a href="https://classmethod.jp/privacy/" rel="nofollow"&gt;クラスメソッド 個人情報保護方針&lt;/a&gt; に基づき扱います。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/410468/</guid><enclosure url="https://media.connpass.com/thumbs/bc/fa/bcfa6905c71eb373bbeb9ffe1244931e.png" length="0" type="image/png"/><pubDate>Wed, 21 Oct 2026 18:55:44 +0900</pubDate></item><item><title>(医療情報学連合大会チュートリアル企画）openEHR/ISO13606入門</title><link>https://openehr.connpass.com/event/407907/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月12日(木) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月12日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: I会場（札幌コンベンションセンター ２階 206）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市白石区東札幌６条１丁目１−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第46回医療情報学連合大会チュートリアル企画&lt;/p&gt;&lt;div&gt;&lt;h1&gt;openEHR/ISO13606入門&lt;/h1&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://classmethod.connpass.com/event/410468/</guid><enclosure url="https://media.connpass.com/thumbs/bc/fa/bcfa6905c71eb373bbeb9ffe1244931e.png" length="0" type="image/png"/><pubDate>Tue, 27 Oct 2026 01:01:30 +0900</pubDate></item><item><title>(医療情報学連合大会チュートリアル企画）openEHR/ISO13606入門</title><link>https://openehr.connpass.com/event/407907/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月12日(木) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月12日(木) 17:30&lt;/li&gt;&lt;li&gt;📍 会場: I会場（札幌コンベンションセンター ２階 206）&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市白石区東札幌６条１丁目１−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;第46回医療情報学連合大会チュートリアル企画&lt;/p&gt;&lt;div&gt;&lt;h1&gt;openEHR/ISO13606入門&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;日時： 2026年11月12日（木）16時00分　～　17時30分&lt;/li&gt;
 &lt;li&gt;会場：I会場（札幌コンベンションセンター ２階 206）&lt;/li&gt;
