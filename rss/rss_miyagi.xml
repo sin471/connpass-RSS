@@ -1,82 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 20:13:32 +0000</lastBuildDate><item><title>Ep4.テーマが思いつかない：SendaiDevGarage</title><link>https://sendai-dev-garage.connpass.com/event/409591/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月27日(火) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月27日(火) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: せんだいメディアテーク&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区春日町2-1&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #SendaiDevGarage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;突如好きな話をします&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Sendai Dev Garage&lt;/h1&gt;
-&lt;p&gt;Sendai Dev Garage (仙台Devガレージ)は、『Kansai Dev Garage』にインスパイアされた地域コミュニティで、ソフトウェア開発に関わる技術的知見を共有し、開発者間での交流を繋げていく集まりを定期的に開催しています。&lt;/p&gt;
-&lt;h2&gt;日時&lt;/h2&gt;
-&lt;p&gt;2026年10月27日 (火曜日) 19:00-21:00&lt;/p&gt;
-&lt;p&gt;開場時間🕐18時30分、開始時間は🕑19時00分からです。&lt;/p&gt;
-&lt;p&gt;場所 🚩：仙台市青葉区春日町2-1 &lt;br&gt;
-せんだいメディアテーク  &lt;strong&gt;7階会議室b&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;今回のテーマ: 「テーマが思いつかない！」&lt;/h2&gt;
-&lt;p&gt;今回は開催テーマを思いつきませんでした。&lt;br&gt;
-何でも良いので、好きな話をしましょう！&lt;br&gt;
-ライトニングトークを募集しています！&lt;/p&gt;
-&lt;h2&gt;ルール&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ライブデモを行ってもかまいません。&lt;/li&gt;
-&lt;li&gt;運営スタッフでタイムキープを行います。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;18:30–19:00&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;開場・受付&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00–19:20&lt;/td&gt;
-&lt;td&gt;オープニング 自己紹介&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:20〜&lt;/td&gt;
-&lt;td&gt;LT&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;トーク1【TBD】&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;【募集中】&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;【募集中】&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;【募集中】&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;【トーク2 TBD】&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;休憩 10min&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;懇親会&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;21:00&lt;/td&gt;
-&lt;td&gt;クロージング&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;Info&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;🏃18:30開場です。任意の時間にお越しください。💨&lt;/li&gt;
-&lt;li&gt;飲食可能です。疲れたら、おやつを食べたり少し休んでスッキリしましょう。&lt;/li&gt;
-&lt;li&gt;電源、無線LANが利用できます。 (通信速度は遅めです)&lt;/li&gt;
-&lt;li&gt;※施設使用料・電灯電気使用料に充てるための募金を募ることがあります。ご協力は任意です。領収証の発行はありません。&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendai-dev-garage.connpass.com/event/409591/</guid><enclosure url="https://media.connpass.com/thumbs/87/99/8799687d07925a80f249c5d8ffbe3df2.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 22:29:32 +0900</pubDate></item><item><title>「オール光ネットワーク」ビジネス交流セッションin仙台</title><link>https://apn.connpass.com/event/408931/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月30日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月30日(金) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町１丁目４−９&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;次世代の通信技術から考える仙台発のイノベーションとビジネスの未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催趣旨&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>宮城のイベント</title><link>https://connpass.com/explore/</link><description>宮城のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>宮城のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 27 Oct 2026 19:45:03 +0000</lastBuildDate><item><title>「オール光ネットワーク」ビジネス交流セッションin仙台</title><link>https://apn.connpass.com/event/408931/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月30日(金) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月30日(金) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: enspace&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区国分町１丁目４−９&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;次世代の通信技術から考える仙台発のイノベーションとビジネスの未来&lt;/p&gt;&lt;div&gt;&lt;h1&gt;開催趣旨&lt;/h1&gt;
 &lt;p&gt;AI時代に突入し、国もそれに見合ったビジネス環境を整備すべく、基盤となるインフラづくりに着手しています。これに備えて、仙台の事業者が抱える業務課題の解決や、スタートアップも含めた新たな事業創出を考える、共創型のビジネス交流セッションを開催します。&lt;/p&gt;
 &lt;p&gt;本セッションでは、総務省が国家戦略として早期の社会実装を推進する次世代のネットワーク「オール光ネットワーク（APN）」を話題に取り上げ、その普及が地域の産業にどのような変革をもたらすのかを考えます。&lt;/p&gt;
 &lt;p&gt;基本的な技術の説明のほか、あらゆる分野で想定されるユースケースについて解説します。AI時代の次世代通信について話題を先取りするともに、距離の離れた拠点間を高速大容量・低遅延・低消費電力でつなぐメリットを、仙台で最大限に活かし、ビジネスを加速させるための方策を、産学官あらゆる立場のみなさまとともに考え、仙台発の未来のビジネスを共創するセッションとなります。&lt;/p&gt;
@@ -966,7 +889,84 @@
 &lt;p&gt;ruby-jpのSlackグループに#sendairbチャンネルがあります。&lt;br&gt;
 イベント当日の簡単な資料共有をはじめ、参加者どうしのコミュニケーションに使いたいと思っていますので、ぜひご参加ください！&lt;/p&gt;
 &lt;p&gt;ruby-jpのSlackグループに未参加の方は&lt;a href="https://ruby-jp.github.io/" rel="nofollow"&gt;こちら&lt;/a&gt;からどうぞ。(ruby-jpの行動規範も必ずご確認ください)&lt;br&gt;
-このSlackグループには国内のRubyistがたくさん集まっているので、Sendai.rb以外でのコミュニケーションもぜひ楽しんでください😊&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendairb.connpass.com/event/409926/</guid><enclosure url="https://media.connpass.com/thumbs/5b/23/5b23b44251011b9cfff5bf29be433ec6.png" length="0" type="image/png"/><pubDate>Thu, 15 Oct 2026 09:31:17 +0900</pubDate></item><item><title>サルでもわかる恐竜のキモチ</title><link>https://minamimachi.connpass.com/event/410605/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月13日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月13日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町２丁目２−８ IKIビル10F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h3&gt;イベント概要&lt;/h3&gt;
+このSlackグループには国内のRubyistがたくさん集まっているので、Sendai.rb以外でのコミュニケーションもぜひ楽しんでください😊&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://sendairb.connpass.com/event/409926/</guid><enclosure url="https://media.connpass.com/thumbs/5b/23/5b23b44251011b9cfff5bf29be433ec6.png" length="0" type="image/png"/><pubDate>Thu, 15 Oct 2026 09:31:17 +0900</pubDate></item><item><title>第9回それいけ。AI ～仙台のLT会(2026年11月9日)</title><link>https://soreike-ai.connpass.com/event/411126/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月9日(月) 18:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月9日(月) 20:00&lt;/li&gt;&lt;li&gt;📍 会場: YUI NOS&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区中央4丁目4-19アーバンネット仙台中央ビル&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;https://note.com/yui_nos/n/n53c2fd54d255&lt;/p&gt;&lt;div&gt;&lt;h2&gt;&lt;a href="https://note.com/yui_nos/n/n53c2fd54d255" rel="nofollow"&gt;過去のイベントレポートはこちら&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;本イベントについて&lt;/h2&gt;
+&lt;p&gt;NTTアーバンソリューションズ(YUI NOS)とNEC（旧NECソリューションイノベータ）が共同開催するAIをテーマにしたLT会です。&lt;/p&gt;
+&lt;p&gt;「会社を超えた交流の場」「新しい技術・知識に触れる場」「仙台を盛り上げる」という3つの目標を掲げ、両社が持つ知見と情熱を知恵の交流に活かすために開催します。
+この場が単なる技術紹介以上に、参加者同士のネットワーク形成や、仙台という地域の発展へのヒントを得られるようにしてきたいです。&lt;/p&gt;
+&lt;h2&gt;当日タイムテーブル&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開場&lt;/span&gt;
+&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;開始&lt;/span&gt;
+&lt;span class="mf"&gt;18&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;35&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;15&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;&lt;span class="n"&gt;分&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;質問1分&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;1&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;2&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;3&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;4&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;5&lt;/span&gt;
+&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="n"&gt;LT&lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="mf"&gt;6&lt;/span&gt;
+&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;集合写真撮影&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;span class="mf"&gt;19&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;30&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;20&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;00&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;交流会&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;◇会場：YUI NOS  2Fコワーキングスペース
+◇注意
+・写真撮影 OK  (映り込みなど配慮してください。運営も使います)
+・SNS投稿  OK  (写真は本人の了承得てください)
+◇会場
+・2Fで受付をしてください。  入退出はスタッフに声掛けください。
+◇ルール
+・連続の発表はご遠慮ください。間隔を2回程度空けてください。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1&gt;YUI NOS 施設利用 プライバシーポリシー&lt;/h1&gt;
+&lt;p&gt;プライバシーポリシーに従ってください。
+https://like-steed-cec.notion.site/6f4c3d9b4d9a468ebcccb5012be6dd0d&lt;/p&gt;
+&lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt;
+&lt;p&gt;イベントに参加するみなさんは以下のポリシーを遵守するように心がけてください。
+(TokyoGirls.rb アンチハラスメントポリシーを参考にさせていただきました。ありがとうございます。）&lt;/p&gt;
+&lt;h2&gt;当ポリシーの目的と適用範囲&lt;/h2&gt;
+&lt;p&gt;当ポリシーは、イベントの参加者全員が楽しく、安全に集える場を維持するために策定されました。&lt;/p&gt;
+&lt;p&gt;「参加者全員が楽しく、安全に集える場を維持する」という目的には、「将来開催されるイベントについてもみなさんが不安や心配を感じることなく、気軽に参加できること」も含まれています。&lt;/p&gt;
+&lt;p&gt;よって、当ポリシーはイベント会場内の発言や行動だけでなく、イベント終了後に発生した参加者同士のコミュニケーションや、SNS・ブログ等での情報発信（このイベントに関するもの）に対しても適用されます。&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;イベントに関わる人たちは誰もが対等です。よって、当ポリシーはイベントに関わる、以下の全員が対象になります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参加者&lt;/li&gt;
+&lt;li&gt;登壇者&lt;/li&gt;
+&lt;li&gt;スポンサー&lt;/li&gt;
+&lt;li&gt;運営スタッフ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当ポリシーでは、上記全員をまとめて「参加者」と表現します。ですので、「参加者」の中には登壇者やスポンサー、運営スタッフも含まれる点にご注意ください。&lt;/p&gt;
+&lt;h2&gt;ハラスメントの観点&lt;/h2&gt;
+&lt;p&gt;ハラスメント（他人を困らせる行為や嫌がらせ）の観点には、以下のような例があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ジェンダー、性自認やジェンダー表現、性的指向&lt;/li&gt;
+&lt;li&gt;障がい&lt;/li&gt;
+&lt;li&gt;外見、身体的特徴&lt;/li&gt;
+&lt;li&gt;人種、民族、国籍&lt;/li&gt;
+&lt;li&gt;年齢&lt;/li&gt;
+&lt;li&gt;宗教&lt;/li&gt;
+&lt;li&gt;特定のツールや技術、プログラミング言語と、その愛好者またはコミュニティ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ただし、上記の観点はあくまで一例です。上記以外の観点であっても、参加者が不快、不安に感じる発言や行動はハラスメントとみなされます。&lt;/p&gt;
+&lt;h2&gt;禁止行為&lt;/h2&gt;
+&lt;p&gt;上記の観点に対する、以下のような行為を禁止します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;攻撃的、非建設的、過剰に批判的な発言や揶揄（やゆ）&lt;/li&gt;
+&lt;li&gt;脅迫、ストーキング、つきまとい&lt;/li&gt;
+&lt;li&gt;不適切な身体的接触&lt;/li&gt;
+&lt;li&gt;性的な関心を引く行為（性的な画像の掲示や、性的なコスチュームの着用等）&lt;/li&gt;
+&lt;li&gt;ジェンダーを強く意識させるコンテキストで、特定の個人をほめたたえる行為&lt;/li&gt;
+&lt;li&gt;その他、スタッフがハラスメントであると判断した行為&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;言うまでもありませんが、性的なハラスメントについては男性から女性に対してだけではなく、女性から男性に対するハラスメントも禁止です。&lt;/p&gt;
+&lt;h2&gt;ハラスメントを受けたら、判断に迷ったら&lt;/h2&gt;
+&lt;p&gt;ハラスメントを受けた場合、見かけた場合、もしくはハラスメントかどうか判断に迷った場合は、近くの運営スタッフに声をかけてください。&lt;/p&gt;
+&lt;p&gt;我々運営スタッフは、ハラスメントに直面している参加者の心理的、身体的な安全を、全力で確保するように努めます。&lt;/p&gt;
+&lt;p&gt;また、ハラスメント行為をやめるように要請された参加者は、運営スタッフの指示に直ちに従ってください。&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soreike-ai.connpass.com/event/411126/</guid><enclosure url="https://media.connpass.com/thumbs/c3/a3/c3a3abce97b24a5731ba9d21d6608d03.png" length="0" type="image/png"/><pubDate>Tue, 27 Oct 2026 09:01:14 +0900</pubDate></item><item><title>サルでもわかる恐竜のキモチ</title><link>https://minamimachi.connpass.com/event/410605/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月13日(金) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月13日(金) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: ソシラボ&lt;/li&gt;&lt;li&gt;🏢 住所: 宮城県仙台市青葉区一番町２丁目２−８ IKIビル10F&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h3&gt;イベント概要&lt;/h3&gt;
 &lt;p&gt;南町通りイカ研究所 デベロッパー部の「サルでもわかる」シリーズ、今回のテーマは「恐竜のキモチ」です。講師に &lt;strong&gt;jinten_ken さん&lt;/strong&gt;をお迎えします。&lt;/p&gt;
 &lt;p&gt;恐竜を中心に、かつて地球に生きていた絶滅した生き物たちと、それを取り巻く環境についてお話しします。&lt;/p&gt;
 &lt;p&gt;今は西暦2026年。西暦で数えると、まだ約2000年です。

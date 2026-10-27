@@ -1,77 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 20:14:47 +0000</lastBuildDate><item><title>Robloxでゲームをつくろう！プログラミングに沖縄から挑戦</title><link>https://minecraft098.connpass.com/event/410562/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月27日(火) 16:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月27日(火) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;「遊ぶRoblox」から「自分でつくるRoblox」へ！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP&lt;/h1&gt;
-&lt;h2&gt;Minecraft・ゲーム・プログラミングで「遊ぶ側」から「つくる側」へ&lt;/h2&gt;
-&lt;p&gt;沖縄マイクラ部・プログラミングスクール「クロスウェーブ」では、小学生から高校生を対象に、Minecraft、Scratch、MakeCode、Python、JavaScript、Roblox、PICO-8、AI、動画編集などを使ったデジタル作品づくりのワークショップを開催します。&lt;/p&gt;
-&lt;p&gt;「プログラミングを勉強する」ことだけが目的ではありません。&lt;/p&gt;
-&lt;p&gt;ゲームを考える。
-実際に作ってみる。
-うまく動かなければ原因を考える。
-もっと面白くなるように改造する。
-完成した作品を人に見せる。&lt;/p&gt;
-&lt;p&gt;そんな体験を通して、プログラミングだけでなく、&lt;strong&gt;論理的思考力・問題解決力・創造力・表現力&lt;/strong&gt;を育てていくことを目指します。&lt;/p&gt;
-&lt;p&gt;初心者も大歓迎です。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1&gt;Robloxでゲームをつくろう！プログラミングに挑戦&lt;/h1&gt;
-&lt;h2&gt;― 「遊ぶRoblox」から「自分でつくるRoblox」へ！ ―&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;使用ツール：Roblox Studio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Robloxでゲームを遊んだことはあるけれど、&lt;/p&gt;
-&lt;p&gt;「ゲームってどうやって作っているんだろう？」&lt;/p&gt;
-&lt;p&gt;「自分でもRobloxのゲームを作ってみたい！」&lt;/p&gt;
-&lt;p&gt;そんな子どもたちに体験してほしい、&lt;strong&gt;Robloxゲームクリエイターへの第一歩&lt;/strong&gt;です。&lt;/p&gt;
-&lt;p&gt;この講座では、Robloxのゲーム制作ツール「Roblox Studio」を使って、自分だけの3Dゲームづくりに挑戦します。&lt;/p&gt;
-&lt;p&gt;まずはステージに床や足場、建物、障害物などを配置して、ゲームの世界を作るところからスタート。&lt;/p&gt;
-&lt;p&gt;キャラクターを動かして実際に遊びながら、&lt;/p&gt;
-&lt;p&gt;「ここにジャンプ台を置いたら面白そう！」&lt;/p&gt;
-&lt;p&gt;「このブロックに触れたら消えるようにしたい！」&lt;/p&gt;
-&lt;p&gt;「ゴールしたらメッセージを表示したい！」&lt;/p&gt;
-&lt;p&gt;といったアイデアを、少しずつゲームの仕組みにしていきます。&lt;/p&gt;
-&lt;p&gt;そしてRobloxでは、ただ3D空間を作るだけではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lua（Luau）というプログラミング言語&lt;/strong&gt;を使うことで、ゲームの中にさまざまな動きやルールを追加することができます。&lt;/p&gt;
-&lt;p&gt;たとえば、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ブロックに触れたら色が変わる&lt;/li&gt;
-&lt;li&gt;アイテムを取ったらポイントが増える&lt;/li&gt;
-&lt;li&gt;ジャンプすると足場が消える&lt;/li&gt;
-&lt;li&gt;ゴールするとクリアになる&lt;/li&gt;
-&lt;li&gt;敵や仕掛けを動かす&lt;/li&gt;
-&lt;li&gt;ボタンを押すと何かが起こる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;など、自分のアイデアをプログラムでゲームにしていくことができます。&lt;/p&gt;
-&lt;p&gt;「このコードを書いたら動いた！」&lt;/p&gt;
-&lt;p&gt;「数字を変えたらどうなる？」&lt;/p&gt;
-&lt;p&gt;「ここを変えれば、もっと難しくできそう！」&lt;/p&gt;
-&lt;p&gt;ゲームを作りながら試行錯誤することで、&lt;strong&gt;変数、条件分岐、イベント、座標、繰り返し、関数&lt;/strong&gt;など、これからプログラミングを学んでいくうえで大切な考え方にも自然に触れていきます。&lt;/p&gt;
-&lt;p&gt;難しいコードを最初から覚える必要はありません。&lt;/p&gt;
-&lt;p&gt;まずはサンプルを動かしてみる。
-数字や文字を変えてみる。
-動きがどう変わるか確かめる。
-そこから自分のアイデアを追加してみる。&lt;/p&gt;
-&lt;p&gt;そんな「作りながら覚える」スタイルで進めていきます。&lt;/p&gt;
-&lt;p&gt;今回は、プログラミングの文法を暗記することよりも、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;まず、自分で遊べるRobloxゲームを作ってみること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そして、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「もっとこうしたい！」をプログラミングで実現してみること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;を大切にします。&lt;/p&gt;
-&lt;h2&gt;挑戦すること&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Roblox Studioを使ってみよう&lt;/li&gt;
-&lt;li&gt;自分だけの3Dステージを作ってみよう&lt;/li&gt;
-&lt;li&gt;パーツや障害物を配置してみよう&lt;/li&gt;
-&lt;li&gt;キャラクターを動かして遊んでみよう&lt;/li&gt;
-&lt;li&gt;Lua（Luau）のプログラムを動かしてみよう&lt;/li&gt;
-&lt;li&gt;触れると何かが起こる仕掛けを作ってみよう&lt;/li&gt;
-&lt;li&gt;スコアやゴールなどのゲームルールを追加してみよう&lt;/li&gt;
-&lt;li&gt;自分だけの仕掛けやアイデアを追加してみよう&lt;/li&gt;
-&lt;li&gt;作ったゲームを何度もテストして改造してみよう&lt;/li&gt;
-&lt;li&gt;完成したゲームをみんなに紹介しよう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Robloxは、ゲームを遊ぶだけのものではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自分で世界を作り、ルールを考え、プログラムを書き、誰かに遊んでもらうことができるゲーム制作のプラットフォーム&lt;/strong&gt;でもあります。&lt;/p&gt;
-&lt;p&gt;いつも遊んでいるゲームを、&lt;/p&gt;
-&lt;p&gt;「どうやって作られているんだろう？」&lt;/p&gt;
-&lt;p&gt;という目線で見てみる。&lt;/p&gt;
-&lt;p&gt;そして今度は、自分がゲームを作る側になってみる。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ゲームが好きなら、今日からRobloxゲームクリエイターに挑戦できます。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/410562/</guid><enclosure url="https://media.connpass.com/thumbs/fd/b4/fdb4d1a6c4bd5006bf468dabc2b67f2a.png" length="0" type="image/png"/><pubDate>Wed, 21 Oct 2026 12:18:42 +0900</pubDate></item><item><title>Shima Tech Hub #22</title><link>https://shima-tech-hub.connpass.com/event/406890/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月30日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月30日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社シーエー・アドバンス（4F_リラクゼーションルーム）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒900-0006 沖縄県那覇市おもろまち1−1−12　那覇新都心センタービル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #しまてく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;見えないところも面白い！？インフラLT！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Shima Tech Hub とは&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 27 Oct 2026 19:46:19 +0000</lastBuildDate><item><title>Shima Tech Hub #22</title><link>https://shima-tech-hub.connpass.com/event/406890/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月30日(金) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月30日(金) 21:30&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社シーエー・アドバンス（4F_リラクゼーションルーム）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒900-0006 沖縄県那覇市おもろまち1−1−12　那覇新都心センタービル&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #しまてく&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;見えないところも面白い！？インフラLT！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;Shima Tech Hub とは&lt;/h1&gt;
 &lt;p&gt;沖縄県内でエンジニアの価値をもっと見出して、県外に負けないエンジニアの強いつながりを作りたい！という思いで発足した 「Shima Tech Hub」（＃しまてく） 沖縄在住のエンジニアの満足度を底上げしたい！そして、多くのエンジニア同士交流の場が生まれ、沖縄のエンジニア界隈を盛り上げたい！という想いを持ったメンバーが集まっています。&lt;/p&gt;
 &lt;p&gt;今回は、那覇市にある（株）シーエー・アドバンスにて開催いたします！&lt;/p&gt;
 &lt;h1&gt;「Shima Tech Hub#22」のテーマは【見えないところも面白い！？インフラLT！】です！&lt;/h1&gt;
@@ -367,7 +295,65 @@ LTタイトルやその他の調整をさせていただきます。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://xn--fiqs8sd1d84lw6i6k0ajst.com/makecode/" rel="nofollow"&gt;https://xn--fiqs8sd1d84lw6i6k0ajst.com/makecode/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://gmnavi.jp/makecode/" rel="nofollow"&gt;https://gmnavi.jp/makecode/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/playlist?list=PLHzG9R8VBAxdrZCaar8wa7yN0Hl0sk0v7" rel="nofollow"&gt;https://www.youtube.com/playlist?list=PLHzG9R8VBAxdrZCaar8wa7yN0Hl0sk0v7&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://webcrafts.jp/" rel="nofollow"&gt;https://webcrafts.jp/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/411027/</guid><enclosure url="https://media.connpass.com/thumbs/12/42/1242dba44fe76e326735b20618db47cf.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 08:29:19 +0900</pubDate></item><item><title>沖縄エンジニアHUB もくもく会 #2（平日夜）</title><link>https://okinawa-engineer-hub.connpass.com/event/410730/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月5日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月5日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社日虹 オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県浦添市牧港2-49-13(黄金ビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;隣のエンジニアの作業が、知らない分野に興味を持つきっかけになる作業会&lt;/p&gt;&lt;div&gt;&lt;p&gt;沖縄エンジニアHUBのもくもく会です。
+&lt;p&gt;&lt;a href="https://webcrafts.jp/" rel="nofollow"&gt;https://webcrafts.jp/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/411027/</guid><enclosure url="https://media.connpass.com/thumbs/12/42/1242dba44fe76e326735b20618db47cf.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 08:29:19 +0900</pubDate></item><item><title>【沖縄・中学生募集】ゲームを遊ぶ側から、つくる側へ。中高生デジタルクリエイター部</title><link>https://minecraft098.connpass.com/event/411217/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月2日(月) 19:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月2日(月) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;ゲームを遊ぶ側からつくる側へ！Roblox・AI・プログラミングに挑戦する中高生募集&lt;/p&gt;&lt;div&gt;&lt;p&gt;「ゲームが好き」&lt;/p&gt;
+&lt;p&gt;その「好き」を、遊ぶだけで終わらせず、
+自分でゲームや作品をつくる力に変えてみませんか？&lt;/p&gt;
+&lt;p&gt;沖縄のクロスウェーブ／沖縄マイクラ部では、中学生・高校生を対象にした「デジタルクリエイター部」のメンバーを募集します。&lt;/p&gt;
+&lt;p&gt;小学生の頃はScratchやMinecraftでプログラミングを楽しんでいたけれど、中学生になってから次に何を学べばいいかわからない。&lt;/p&gt;
+&lt;p&gt;Robloxが好きで毎日のように遊んでいるけれど、「今度は自分でゲームを作ってみたい」。&lt;/p&gt;
+&lt;p&gt;AIやプログラミングに興味はあるけれど、一人では何から始めればいいかわからない。&lt;/p&gt;
+&lt;p&gt;そんな中高生のための「つくる場所」です。&lt;/p&gt;
+&lt;p&gt;「ゲームをする」から「ゲームをつくる」へ&lt;/p&gt;
+&lt;p&gt;クロスウェーブでは、決められた教材を全員が同じように進めるだけではありません。&lt;/p&gt;
+&lt;p&gt;興味やレベルに合わせて、&lt;/p&gt;
+&lt;p&gt;・Roblox Studio / Luauによるゲーム制作
+・Minecraftを使ったワールド制作・プログラミング
+・Python / JavaScriptなどのプログラミング
+・Scratch / MakeCodeから本格的な開発へのステップアップ
+・生成AIを活用したものづくり
+・Webサイト、アプリ、ゲーム制作
+・動画編集、作品紹介動画の制作
+・各種プログラミング・ゲーム制作コンテストへの挑戦&lt;/p&gt;
+&lt;p&gt;などに取り組みます。&lt;/p&gt;
+&lt;p&gt;初心者でも大丈夫です。&lt;/p&gt;
+&lt;p&gt;「まだプログラムを書いたことがない」
+「ゲームは好きだけど、作ったことはない」&lt;/p&gt;
+&lt;p&gt;という中学生も歓迎します。&lt;/p&gt;
+&lt;p&gt;Robloxで「遊ぶ教室」ではありません&lt;/p&gt;
+&lt;p&gt;最近、&lt;/p&gt;
+&lt;p&gt;「子どもがRobloxばかりやっている」
+「Robloxが好きなので、プログラミングにつなげたい」&lt;/p&gt;
+&lt;p&gt;というお問い合わせが増えています。&lt;/p&gt;
+&lt;p&gt;クロスウェーブでもRoblox Studioを使いますが、目的はRobloxを自由にプレイすることではありません。&lt;/p&gt;
+&lt;p&gt;Robloxを「遊ぶもの」から「自分でつくるもの」へ変えていくこと。&lt;/p&gt;
+&lt;p&gt;ゲームの仕組みを考え、ステージを作り、プログラムを書き、失敗したら修正し、最後まで一つの作品を完成させることを大切にしています。&lt;/p&gt;
+&lt;p&gt;なお、本活動はゲーム依存や生活習慣の改善を目的とした治療・更生プログラムではありません。授業中のゲームプレイについても、制作・学習上必要な場合を除き、講師の許可なく自由に遊ぶことはできません。&lt;/p&gt;
+&lt;p&gt;目標は「勉強した」で終わらないこと&lt;/p&gt;
+&lt;p&gt;せっかくプログラミングを学ぶなら、作品をつくって終わりではなく、外の世界にも挑戦してほしい。&lt;/p&gt;
+&lt;p&gt;クロスウェーブでは、Minecraftをはじめ、プログラミングやゲーム制作などのコンテストへの挑戦にも力を入れています。&lt;/p&gt;
+&lt;p&gt;自分で企画する。
+仲間と相談する。
+調べる。
+プログラムを書く。
+AIも活用する。
+何度も作り直す。
+そして、自分の作品を人前で発表する。&lt;/p&gt;
+&lt;p&gt;学校のテストとは違う「ものづくりを最後までやり切る経験」を目指します。&lt;/p&gt;
+&lt;p&gt;中学生メンバーを募集中！&lt;/p&gt;
+&lt;p&gt;現在、クロスウェーブでは中学生以上のクリエイターメンバーを募集しています。&lt;/p&gt;
+&lt;p&gt;「ゲームをつくってみたい」
+「プログラミングを本格的に始めたい」
+「AIを使って何か作ってみたい」
+「Minecraftの次のステップに進みたい」
+「コンテストに挑戦してみたい」
+「将来、ゲームやITの仕事に興味がある」&lt;/p&gt;
+&lt;p&gt;一つでも当てはまったら、ぜひ参加してください。&lt;/p&gt;
+&lt;p&gt;プログラミング経験は問いません。&lt;/p&gt;
+&lt;p&gt;必要なのは、&lt;/p&gt;
+&lt;p&gt;「何かをつくってみたい」という気持ちです。&lt;/p&gt;
+&lt;p&gt;ゲームが好きな中学生へ。&lt;/p&gt;
+&lt;p&gt;次は、遊ぶ側から「つくる側」へ。&lt;/p&gt;
+&lt;p&gt;沖縄で一緒に作品をつくる仲間を募集します。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/411217/</guid><enclosure url="https://media.connpass.com/thumbs/e9/3c/e93c47cc1ea65840efe6957d24d70cb5.png" length="0" type="image/png"/><pubDate>Tue, 27 Oct 2026 15:26:58 +0900</pubDate></item><item><title>沖縄エンジニアHUB もくもく会 #2（平日夜）</title><link>https://okinawa-engineer-hub.connpass.com/event/410730/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月5日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月5日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社日虹 オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県浦添市牧港2-49-13(黄金ビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;隣のエンジニアの作業が、知らない分野に興味を持つきっかけになる作業会&lt;/p&gt;&lt;div&gt;&lt;p&gt;沖縄エンジニアHUBのもくもく会です。
 毎月、第1木曜の夜と第3日曜の午前に開いています。&lt;/p&gt;
 &lt;p&gt;各自が自分の作業を持ち寄って、同じ場所で進める会です。
 仕事の続きでも、個人開発でも、勉強でも、作業の中身は何でも大丈夫です。&lt;/p&gt;
@@ -1107,8 +1093,8 @@ Veracodeが2026年7月に公表したレポートによると、AIは構文上�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18:05 - 18:10&lt;/td&gt;
-&lt;td&gt;【LT】調整中&lt;/td&gt;
-&lt;td&gt;※推薦枠&lt;/td&gt;
+&lt;td&gt;【LT】1人運営のコミュニティをClaude Codeで回してみた ── AIに任せること、任せないこと&lt;/td&gt;
+&lt;td&gt;Irei Keigo氏&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18:10 - 18:15&lt;/td&gt;
@@ -1179,7 +1165,7 @@ AI駆動開発勉強会 沖縄支部 運営。&lt;br&gt;
 &lt;li&gt;懇親会は勉強会の一環としてご用意しております。懇親会の飲食のみを目的としたご参加はご遠慮ください。&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;ハラスメント行為は固くお断りします。安心・安全な学びの場づくりにご協力ください。&lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;みなさまのご参加、心よりお待ちしております！&lt;/h3&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/409814/</guid><enclosure url="https://media.connpass.com/thumbs/0a/de/0ade9d2b51cc67a5f1545cb50d8d068a.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 11:39:02 +0900</pubDate></item><item><title>勉強会参加者限定懇親会（無料）</title><link>https://connpass.com/event/409815/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月2日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月2日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: SAKURA innobase Okinawa（さくらイノーベース沖縄）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒900-0032 沖縄県那覇市松山1丁目2-13 1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動開発勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;勉強会後に同会場で開催いたしますので、お申込みは不要となります。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;「第6回AI駆動開発勉強会 沖縄支部」本会終了後、同じ会場で無料の懇親会を開催いたします。&lt;br&gt;&lt;/h2&gt;
+&lt;h3&gt;みなさまのご参加、心よりお待ちしております！&lt;/h3&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://aid.connpass.com/event/409814/</guid><enclosure url="https://media.connpass.com/thumbs/0a/de/0ade9d2b51cc67a5f1545cb50d8d068a.png" length="0" type="image/png"/><pubDate>Tue, 27 Oct 2026 08:46:05 +0900</pubDate></item><item><title>勉強会参加者限定懇親会（無料）</title><link>https://connpass.com/event/409815/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月2日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月2日(水) 20:30&lt;/li&gt;&lt;li&gt;📍 会場: SAKURA innobase Okinawa（さくらイノーベース沖縄）&lt;/li&gt;&lt;li&gt;🏢 住所: 〒900-0032 沖縄県那覇市松山1丁目2-13 1階&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #AI駆動開発勉強会&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;勉強会後に同会場で開催いたしますので、お申込みは不要となります。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;「第6回AI駆動開発勉強会 沖縄支部」本会終了後、同じ会場で無料の懇親会を開催いたします。&lt;br&gt;&lt;/h2&gt;
 &lt;p&gt;軽食とドリンクをご用意しています。&lt;br&gt;
 お気軽にご参加ください。&lt;br&gt;
 &lt;strong&gt;※懇親会のみのご参加はできませんので、予めご了承ください。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/409815/</guid><enclosure url="https://media.connpass.com/thumbs/6b/f7/6bf7e8cf0349b744a3a9c0509bc97bbd.png" length="0" type="image/png"/><pubDate>Thu, 22 Oct 2026 09:28:03 +0900</pubDate></item><item><title>フィジカルAI勉強会 in沖縄</title><link>https://ai-robot-japan.connpass.com/event/410674/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月3日(木) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月3日(木) 17:00&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄県市町村自治会館　4F 第4・5会議室&lt;/li&gt;&lt;li&gt;🏢 住所: 〒900-0029 沖縄県那覇市旭町１１６−３７&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #ai_robot_japan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIロボティクスの最前線&lt;/p&gt;&lt;div&gt;&lt;h1&gt;概要&lt;/h1&gt;

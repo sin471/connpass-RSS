@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山形のイベント</title><link>https://connpass.com/explore/</link><description>山形のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山形のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 20:13:35 +0000</lastBuildDate><item><title>DevFest Yamagata 2026</title><link>https://kahoku.connpass.com/event/405468/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 琥珀の湯 欅の宿 コンベンションホール&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県東根市温泉町１丁目８−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIハンズオンから温泉ナイトハックまで！山形初開催！&lt;/p&gt;&lt;div&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>山形のイベント</title><link>https://connpass.com/explore/</link><description>山形のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>山形のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 27 Oct 2026 19:45:06 +0000</lastBuildDate><item><title>DevFest Yamagata 2026</title><link>https://kahoku.connpass.com/event/405468/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月5日(土) 14:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月5日(土) 23:00&lt;/li&gt;&lt;li&gt;📍 会場: 琥珀の湯 欅の宿 コンベンションホール&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県東根市温泉町１丁目８−１&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;AIハンズオンから温泉ナイトハックまで！山形初開催！&lt;/p&gt;&lt;div&gt;
 
 &lt;div style="background-color:#F0F0F0;
   padding:8px;
@@ -36,7 +36,7 @@
         border-bottom:1px solid #DDDDDD;
         border-left:6px solid #34A853;"&gt;
         &lt;strong style="font-size:14px;"&gt;🕚 開催時間：&lt;/strong&gt;
-        &lt;span style="font-size:14px;"&gt;14:00〜18:00（深夜開発開場オープン 18:30〜）&lt;/span&gt;
+        &lt;span style="font-size:14px;"&gt;14:00〜18:30（深夜開発会場オープン 18:30〜）&lt;/span&gt;
       &lt;/div&gt;
 
       &lt;div style="padding:8px;
@@ -209,8 +209,8 @@
         &lt;tr&gt;
           &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;14:10〜15:00&lt;/td&gt;
           &lt;td style="border:2px solid #4285F4; background-color:#C3ECF6; color:#1E1E1E; padding:10px 14px;"&gt;
-            &lt;strong&gt;技術セッション&lt;/strong&gt;&lt;br&gt;
-            TBA（Google Developer Experts）
+            &lt;strong&gt;技術セッション：アイディアを形にしよう&lt;/strong&gt;&lt;br&gt;
+            坂田 純 氏（Google Developer Expert）
           &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -230,8 +230,8 @@
         &lt;tr&gt;
           &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;15:30〜16:30&lt;/td&gt;
           &lt;td style="border:2px solid #34A853; background-color:#CCF6C5; color:#1E1E1E; padding:10px 14px;"&gt;
-            &lt;strong&gt;ローカルセッション&lt;/strong&gt;&lt;br&gt;
-            TBA
+            &lt;strong&gt;ローカルセッション：地域コミュニティと地域課題の今&lt;/strong&gt;&lt;br&gt;
+            ファシリテーター　細矢 研人 氏 （Google Developer Group 山形）
           &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -244,8 +244,8 @@
         &lt;tr&gt;
           &lt;td align="right" style="border:none; padding:10px 14px 10px 0; font-weight:bold;"&gt;16:50〜18:00&lt;/td&gt;
           &lt;td style="border:2px solid #EA4335; background-color:#F8D8D8; color:#1E1E1E; padding:10px 14px;"&gt;
-            &lt;strong&gt;Google AI ハンズオン ワークショップ&lt;/strong&gt;&lt;br&gt;
-            TBA（Google Developer Experts）
+            &lt;strong&gt;Google AI ハンズオン ワークショップ：Antigravityでアプリ開発を体験しよう&lt;/strong&gt;&lt;br&gt;
+            福島 ゆかり 氏（Google Developer Expert）
           &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -301,12 +301,11 @@
           &lt;/td&gt;
           &lt;td style="border:none; padding:16px 0 16px 0;"&gt;
             &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;技術セッション：&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;TBA（Google Developer Experts）&lt;/h4&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;技術セッション：アイディアを形にしよう&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;坂田 純 氏&lt;/h4&gt;
             &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developer Expert&lt;/p&gt;
             &lt;p style="margin:0;"&gt;
-              グローバルトピックであるエージェント時代の「Build, Secure,
-              Scale」について、第一線のエキスパートとして最先端の知見をお伝えします。
+              第一線のエキスパートによる最新の技術と実践知をもとに、アイディアを最短で形にする方法を解説します。
             &lt;/p&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
@@ -317,11 +316,11 @@
           &lt;/td&gt;
           &lt;td style="border:none; padding:16px 0 16px 0;"&gt;
             &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ローカルセッション：東北サテライト中継&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;TBA ＆ 地域コミュニティ&lt;/h4&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;ローカルセッション：地域コミュニティと地域課題の今&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;ファシリテーター 細矢 研人 氏　＆　地域コミュニティ&lt;/h4&gt;
             &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;東北広域連携セッション&lt;/p&gt;
             &lt;p style="margin:0;"&gt;
-              秋田、青森のサテライト会場と中継を繋ぎ、東北広域でのテクノロジートレンドや地域課題に対するアプローチを語り合います。
+              秋田、青森のサテライト会場と中継を繋ぎ、東北地域での開発者コミュニティや地域課題に対するアプローチを語り合います。
             &lt;/p&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
@@ -332,11 +331,11 @@
           &lt;/td&gt;
           &lt;td style="border:none; padding:16px 0 16px 0;"&gt;
             &lt;p style="color: #FFF;"&gt;　&lt;/p&gt;
-            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Google AI ハンズオン ワークショップ&lt;/h3&gt;
-            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;TBA（Google Developer Experts）&lt;/h4&gt;
-            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developer Expert&lt;/p&gt;
+            &lt;h3 style="margin:0 0 8px 0; border:none;"&gt;Google AI ハンズオン ワークショップ：Antigravityでアプリ開発を体験しよう&lt;/h3&gt;
+            &lt;h4 style="margin:0 0 6px 0; border:none;"&gt;福島 ゆかり 氏&lt;/h4&gt;
+            &lt;p style="margin:0 0 10px 0; font-weight:bold;"&gt;Google Developer Expert&lt;br&gt;電通デジタル&lt;/p&gt;
             &lt;p style="margin:0;"&gt;
-              最新のGoogle AIや生成AIモデルを実際に手を動かしながら活用するハンズオンセッションです。参加者自身のPCでアイデアを具現化するプロセスを体験しましょう。
+              最新のGoogle AIや生成AIモデルを実際に手を動かしながら活用するハンズオンセッションです。参加者自身のPCでアプリ開発を体験しましょう！
             &lt;/p&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
@@ -478,7 +477,7 @@
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mMye8H51TBqMRRlcWO0h7LjRaZas5GQsrVn_tqxxXhM/edit?usp=sharing" rel="nofollow"&gt;日本語版&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1tClqOh-BctAXivEbYDZOpDeKfCayLS2HiJ3c-Gekoqs/edit?usp=sharing" rel="nofollow"&gt;English&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kahoku.connpass.com/event/405468/</guid><enclosure url="https://media.connpass.com/thumbs/95/22/95227d0d044b1e7f9bc4b418232f71fc.png" length="0" type="image/png"/><pubDate>Tue, 13 Oct 2026 16:38:29 +0900</pubDate></item><item><title>第42回 CoderDojo Tsuruoka</title><link>https://coderdojo-tsuruoka.connpass.com/event/408034/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月19日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月19日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 古今cocon&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県鶴岡市山王町8-18 古今cocon&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojotsuruoka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（コーダー道場）とは？&lt;/h1&gt;
+&lt;hr&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://kahoku.connpass.com/event/405468/</guid><enclosure url="https://media.connpass.com/thumbs/95/22/95227d0d044b1e7f9bc4b418232f71fc.png" length="0" type="image/png"/><pubDate>Tue, 27 Oct 2026 17:53:22 +0900</pubDate></item><item><title>第42回 CoderDojo Tsuruoka</title><link>https://coderdojo-tsuruoka.connpass.com/event/408034/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月19日(土) 10:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月19日(土) 12:00&lt;/li&gt;&lt;li&gt;📍 会場: 古今cocon&lt;/li&gt;&lt;li&gt;🏢 住所: 山形県鶴岡市山王町8-18 古今cocon&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #coderdojotsuruoka&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;CoderDojo（コーダー道場）とは？&lt;/h1&gt;
 &lt;p&gt;CoderDojo は7〜17歳を対象とした非営利のプログラミング道場です。2011年にアイルランドで始まり、世界では100カ国・2,000の道場、日本には201以上の道場があります。(2024年10月現在)&lt;/p&gt;
 &lt;p&gt;子どもにより良い環境で、自発的に、なおかつ無料でプログラミングに触れる機会を提供するために始まりました。&lt;/p&gt;
 &lt;p&gt;CoderDojo Japan Webページ: &lt;a href="https://coderdojo.jp/" rel="nofollow"&gt;https://coderdojo.jp/&lt;/a&gt;&lt;/p&gt;
