@@ -1,94 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 27 Oct 2026 19:44:58 +0000</lastBuildDate><item><title>Vue Sapporo #5</title><link>https://vue-sapporo.connpass.com/event/409572/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月28日(水) 19:10&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月28日(水) 20:45&lt;/li&gt;&lt;li&gt;📍 会場: ふれあい貸し会議室 札幌中屋&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道札幌市北区北九条西4-10-1 N9中屋ビル2階 202&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #vuesapporo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vue.jsと周辺技術を遊び尽くす！初心者も上級者も、知見と悩みを語り合う交流型勉強会&lt;/p&gt;&lt;div&gt;&lt;h1&gt;VueSapporo #5&lt;/h1&gt;
-&lt;h2&gt;～札幌のVue.jsエンジニアLT会～&lt;/h2&gt;
-&lt;p&gt;#5を開催します。場所は前回・前々回と同じです。&lt;br&gt;
-Vue.jsや関連技術についていろいろお話ししましょう！&lt;br&gt;
-"VueFesJapan"の直後、得たものを共有できればと思います！&lt;/p&gt;
-&lt;p&gt;テーマはVue.jsに関連している or 関連していそうな内容であれば何でも構いません。&lt;br&gt;
-LTは10分+質疑(わいわい)5分です。&lt;/p&gt;
-&lt;h2&gt;タイムテーブル&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;時間&lt;/th&gt;
-&lt;th&gt;スピーカー&lt;/th&gt;
-&lt;th&gt;セッションタイトル&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;19:00-19:10&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;受付&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:10-19:15&lt;/td&gt;
-&lt;td&gt;kouki.miura&lt;/td&gt;
-&lt;td&gt;VueSapporoについて&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:15-19:30&lt;/td&gt;
-&lt;td&gt;kouki.miura&lt;/td&gt;
-&lt;td&gt;LT1 「vue-tsc x TypeScript7&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:30-19:45&lt;/td&gt;
-&lt;td&gt;RyuziOohashiさん&lt;/td&gt;
-&lt;td&gt;LT2 「package.json の外側、見てますか？」&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19:45-20:00&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;休憩&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:00-20:15&lt;/td&gt;
-&lt;td&gt;kouki.miura※&lt;/td&gt;
-&lt;td&gt;LT3 「Vue Fes Japan 2026 参加レポート」※&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:15-20:30&lt;/td&gt;
-&lt;td&gt;kouki.miura※&lt;/td&gt;
-&lt;td&gt;LT4 「SFCで実現する病院・医療情報システムの動的組み立て式UI」※&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:30-20:35&lt;/td&gt;
-&lt;td&gt;kouki.miura&lt;/td&gt;
-&lt;td&gt;クロージング&amp;amp;アンケート&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20:35-20:45&lt;/td&gt;
-&lt;td&gt;全員&lt;/td&gt;
-&lt;td&gt;片付けしながらワイワイ&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;※LT3、LT4は仮発表者、仮タイトルです。発表希望あれば変更します。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;VueSapporoについて&lt;/h2&gt;
-&lt;p&gt;VueSapporoは、札幌周辺のVue.jsエンジニアが集まる勉強会です。&lt;br&gt;
-Vue.jsの使い方や内部仕様、実務での事例や気付きの共有をはじめ、&lt;br&gt;
-Nuxt / Nuxt UI / Vuetify などのエコシステム、&lt;br&gt;
-React・Svelte など他フレームワークとの比較について、&lt;br&gt;
-LT（ライトニングトーク）を中心に情報共有することを目的としています。  &lt;/p&gt;
-&lt;p&gt;Vue.jsをこれから学びたい方から、実務で利用している方まで、&lt;br&gt;
-レベルを問わず気軽に参加できるコミュニティを目指します。&lt;br&gt;
-発表未経験の方のLTも歓迎です。もちろん、聞くだけ参加もOKです。  &lt;/p&gt;
-&lt;p&gt;📍 札幌周辺で開催（Meetup形式）&lt;br&gt;
-📆 初回(#1)開催：2026年2月28日&lt;br&gt;
-🔁 偶数月開催予定（2・4・6・8・10・12月）  &lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;行動規範&lt;/h2&gt;
-&lt;p&gt;本勉強会は、参加者全員が安心して学び・発表・交流できる場を目指しています。  &lt;/p&gt;
-&lt;p&gt;以下の行動を尊重してください。&lt;br&gt;
-・他者の知識レベルや経験、立場を尊重する&lt;br&gt;
-・発表内容や質問に対して、人格を否定するような発言をしない&lt;br&gt;
-・過度なマウンティングや攻撃的な発言を行わない&lt;br&gt;
-・ハラスメントや差別的な表現は控える&lt;br&gt;
-・本勉強会の趣旨から外れる過度な勧誘・営業行為はしない&lt;br&gt;
-　（所属会社の簡単な紹介や、関わっているプロダクトの概要説明は問題ありません）  &lt;/p&gt;
-&lt;p&gt;運営が不適切と判断した行為があった場合、&lt;br&gt;
-注意・退出のお願いを行うことがあります。あらかじめご了承ください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://vue-sapporo.connpass.com/event/409572/</guid><enclosure url="https://media.connpass.com/thumbs/89/98/899826a4161ee604faa323d4cb14e5f8.png" length="0" type="image/png"/><pubDate>Mon, 26 Oct 2026 08:10:44 +0900</pubDate></item><item><title>【第3回】ハロウィンの夜に、ITで繋がろう！ITエンジニア交流会</title><link>https://0plus.connpass.com/event/406255/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月29日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月29日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 725_KITCHEN札幌&lt;/li&gt;&lt;li&gt;🏢 住所: 〒064-0806 北海道札幌市 中央区南6条西6丁目7−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【第3回🎃】ハロウィンの夜に、ITで繋がろう！｜ITエンジニア&amp;amp;フリーランス交流会 By Localhost Sapporo&lt;br&gt;&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北海道のイベント</title><link>https://connpass.com/explore/</link><description>北海道のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>北海道のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Wed, 28 Oct 2026 19:59:04 +0000</lastBuildDate><item><title>【第3回】ハロウィンの夜に、ITで繋がろう！ITエンジニア交流会</title><link>https://0plus.connpass.com/event/406255/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月29日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月29日(木) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: 725_KITCHEN札幌&lt;/li&gt;&lt;li&gt;🏢 住所: 〒064-0806 北海道札幌市 中央区南6条西6丁目7−1&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;【第3回🎃】ハロウィンの夜に、ITで繋がろう！｜ITエンジニア&amp;amp;フリーランス交流会 By Localhost Sapporo&lt;br&gt;&lt;/h1&gt;
 &lt;p&gt;2026年10月29日(木) 19:00〜21:00&lt;br&gt;&lt;br&gt;
 札幌のIT業界をもっと盛り上げたい！🔥&lt;br&gt;
 そんな思いから気軽に参加できるIT交流会を開催いたします！&lt;br&gt;
@@ -430,7 +341,7 @@ B1 階に喫煙所がございますのでそちらでお願いします。&lt;/
 &lt;a href="https://soracom-ug.jp/soracom-ug-explorer-2026/" rel="nofollow"&gt;https://soracom-ug.jp/soracom-ug-explorer-2026/&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;懇親会について&lt;/h1&gt;
 &lt;p&gt;実施します。会場については調整中となります。
-アンケートにて、参加可否をお答えください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/406959/</guid><enclosure url="https://media.connpass.com/thumbs/8e/25/8e251e25eaf6efe0cdbe27a10a56d142.png" length="0" type="image/png"/><pubDate>Mon, 28 Sep 2026 16:00:18 +0900</pubDate></item><item><title>hokkaido.js vol.08@Asahikawa w/ ゆるい勉強会@旭川</title><link>https://hokkaido-js.connpass.com/event/407987/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: あさひかわ北彩都ガーデンセンター 体験学習コーナー&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道旭川市宮前２条１丁目１あさひかわ北彩都ガーデンセンター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hokkaido_js&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;hokkaido.js w/ ゆるい勉強会＠旭川&lt;/h1&gt;
+アンケートにて、参加可否をお答えください。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://soracomug-tokyo.connpass.com/event/406959/</guid><enclosure url="https://media.connpass.com/thumbs/8e/25/8e251e25eaf6efe0cdbe27a10a56d142.png" length="0" type="image/png"/><pubDate>Wed, 28 Oct 2026 09:07:46 +0900</pubDate></item><item><title>hokkaido.js vol.08@Asahikawa w/ ゆるい勉強会@旭川</title><link>https://hokkaido-js.connpass.com/event/407987/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年10月31日(土) 13:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年10月31日(土) 18:00&lt;/li&gt;&lt;li&gt;📍 会場: あさひかわ北彩都ガーデンセンター 体験学習コーナー&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道旭川市宮前２条１丁目１あさひかわ北彩都ガーデンセンター&lt;/li&gt;&lt;li&gt;🏷️ ハッシュタグ: #hokkaido_js&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;h1&gt;hokkaido.js w/ ゆるい勉強会＠旭川&lt;/h1&gt;
 &lt;p&gt;北海道在住のJavaScriptやTypeScriptに触れている人に向けて勉強会です！ JavaScriptやTypeScriptの話、取り巻くフロントエンドやバックエンド、ツールチェイン、アプリケーション開発の話、サイト制作の話 etc... JSに関する話ならオールOKな勉強会です. 学生・社会人・趣味開発者・その他 etc...どなたでもご参加いただけます&lt;br&gt; &lt;strong&gt;今回は旭川のIT勉強会、ゆるい勉強会@旭川との共催です&lt;/strong&gt;
 &lt;br&gt;
 ハッシュタグ: &lt;a href="https://x.com/search?q=%23hokkaido_js&amp;amp;src=hashtag_click" rel="nofollow"&gt;#hokkaido_js&lt;/a&gt;
@@ -1477,12 +1388,15 @@ program [at] lasa [dot] or [dot] jp&lt;/p&gt;&lt;/div&gt;</description><guid isP
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;ゲスト&lt;/h2&gt;
-&lt;h3&gt;TBD&lt;/h3&gt;
-&lt;p&gt;TBD
-　&lt;br&gt;
-【ゲスト紹介】&lt;br&gt;
-TBD
-　  &lt;/p&gt;
+&lt;h3&gt;五十嵐 悠紀 ( &lt;a href="https://x.com/yuki_igrs" rel="nofollow"&gt;@yuki_igrs&lt;/a&gt; ) 先生&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://techramenconf.net/2026/guest/igarashi-yuki.jpg" width="300"&gt;  &lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;【所属】  
+お茶の水女子大学理学部情報科学科准教授／東京大学先端科学技術研究センター准教授（クロスアポイントメント）  
+　  
+【プロフィール】  
+2010年東京大学大学院工学系研究科博士課程修了，博士（工学）．日本学術振興会特別研究員（DC2・PD・RPD），明治大学総合数理学部専任講師・専任准教授を経て，2022年よりお茶の水女子大学理学部情報科学科准教授．2025年6月より東京大学先端科学技術研究センター准教授（クロスアポイントメント）．2016年～2026年3月まで情報処理推進機構（IPA）未踏事業プロジェクトマネージャ兼任．専門はヒューマンコンピュータインタラクション、コンピュータグラフィックス．手芸やものづくりを題材に，誰もが創造的な活動を楽しめる設計・制作支援技術の研究に取り組む．著書に『縫うコンピュータグラフィックス』（オーム社）など．  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 &lt;h2&gt;タイムテーブル&lt;/h2&gt;
 &lt;p&gt;TBD&lt;/p&gt;
 
@@ -1491,12 +1405,12 @@ TBD
 &lt;p&gt;&lt;a href="https://fortee.jp/techramen-26-conf/proposal/callfor" rel="nofollow"&gt;https://fortee.jp/techramen-26-conf/proposal/callfor&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;del&gt;一次募集 : 10/18(日) 正午 12:00 まで&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;二次募集 : 10/25(日) 正午 12:00 まで&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;二次募集 : 10/25(日) 正午 12:00 まで&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;※ 一次募集で充足した場合は，二次募集はありません．&lt;/p&gt;
 &lt;h2&gt;応援団（いわゆるスポンサー）募集&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://fortee.jp/techramen-26-conf/ticket-shop/index/e81a5c0b-9e4b-4577-895f-2babbe3c2ce1" rel="nofollow"&gt;https://fortee.jp/techramen-26-conf/ticket-shop/index/e81a5c0b-9e4b-4577-895f-2babbe3c2ce1&lt;/a&gt;
-　&lt;br&gt;
+&lt;p&gt;&lt;a href="https://fortee.jp/techramen-26-conf/ticket-shop/index/e81a5c0b-9e4b-4577-895f-2babbe3c2ce1" rel="nofollow"&gt;https://fortee.jp/techramen-26-conf/ticket-shop/index/e81a5c0b-9e4b-4577-895f-2babbe3c2ce1&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
 note 記事 : 応援団のみなさまへ&lt;br&gt;
 &lt;a href="https://note.com/tomio2480/n/nfc4124c0a6e8?magazine_key=mcf1b031e1753" rel="nofollow"&gt;https://note.com/tomio2480/n/nfc4124c0a6e8?magazine_key=mcf1b031e1753&lt;/a&gt;  &lt;/p&gt;
 &lt;h2&gt;参加申込方法&lt;/h2&gt;
@@ -1510,7 +1424,7 @@ note 記事 : 応援団のみなさまへ&lt;br&gt;
 イベント画像右上の⭐マークを押して，ブックマークされると便利です．  &lt;/p&gt;
 &lt;h2&gt;問い合わせ&lt;/h2&gt;
 &lt;p&gt;fortee CoC ページにある問い合わせ先にご連絡ください．&lt;br&gt;
-&lt;a href="https://fortee.jp/techramen-26-conf/page/coc" rel="nofollow"&gt;https://fortee.jp/techramen-26-conf/page/coc&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://techramenconf.connpass.com/event/410034/</guid><enclosure url="https://media.connpass.com/thumbs/22/58/2258e87844995faea8b5cad480f3dd25.png" length="0" type="image/png"/><pubDate>Mon, 19 Oct 2026 08:11:29 +0900</pubDate></item><item><title>kintone Café 帯広 vol.8</title><link>https://kintonecafeobihiro.connpass.com/event/405876/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月20日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月20日(金) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 相互電業株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道帯広市東1条南5丁目2番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;登壇者ぜひおまちしてます～！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Caféとは？&lt;/h1&gt;
+&lt;a href="https://fortee.jp/techramen-26-conf/page/coc" rel="nofollow"&gt;https://fortee.jp/techramen-26-conf/page/coc&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://techramenconf.connpass.com/event/410034/</guid><enclosure url="https://media.connpass.com/thumbs/22/58/2258e87844995faea8b5cad480f3dd25.png" length="0" type="image/png"/><pubDate>Thu, 29 Oct 2026 01:25:11 +0900</pubDate></item><item><title>kintone Café 帯広 vol.8</title><link>https://kintonecafeobihiro.connpass.com/event/405876/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月20日(金) 18:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月20日(金) 19:30&lt;/li&gt;&lt;li&gt;📍 会場: 相互電業株式会社&lt;/li&gt;&lt;li&gt;🏢 住所: 北海道帯広市東1条南5丁目2番地&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;登壇者ぜひおまちしてます～！&lt;/p&gt;&lt;div&gt;&lt;h1&gt;kintone Caféとは？&lt;/h1&gt;
 &lt;p&gt;kintone Caféは、まだkintoneに触れたことの無い方から、より高度なカスタマイズを行いたいと考えているプロフェッショナルの方まで幅広い層を対象に、 楽しく学び・教え合うことで、kintoneの魅力や活用法を共有するための勉強会コミュニティです。&lt;/p&gt;
 &lt;h1&gt;対象者&lt;/h1&gt;
 &lt;p&gt;kintoneに興味がある方。 kintoneの色々な活用方法に興味のある方。 クラウドシステムに興味がある方。&lt;/p&gt;
