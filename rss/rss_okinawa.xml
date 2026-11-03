@@ -1,71 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Mon, 02 Nov 2026 22:57:50 +0000</lastBuildDate><item><title>沖縄・宜野湾マインクラフトワークショップ（体験会）</title><link>https://minecraft098.connpass.com/event/411788/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月3日(火) 14:30&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月3日(火) 16:30&lt;/li&gt;&lt;li&gt;📍 会場: 沖縄ホームページ制作工房「WEBCRAFTS」&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県宜野湾市伊佐2-20-15&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;マイクラが好き。その“好き”を、つくる力に変えよう。&lt;/p&gt;&lt;div&gt;&lt;h2&gt;沖縄・宜野湾マインクラフトワークショップ（体験会）&lt;/h2&gt;
-&lt;h3&gt;マイクラが好き。その“好き”を、つくる力に変えよう。&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;CROSSWAVE DIGITAL CREATOR WORKSHOP&lt;/strong&gt;
-&lt;strong&gt;Minecraft・ゲーム・プログラミングで「遊ぶ側」から「つくる側」へ&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;沖縄マイクラ部・プログラミングスクール「クロスウェーブ」では、&lt;strong&gt;小学生から高校生を対象としたデジタルクリエイターワークショップ&lt;/strong&gt;を開催します。&lt;/p&gt;
-&lt;p&gt;今回のテーマは、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「はじめてのゲームクリエイターDAY」&lt;/strong&gt;
-― 2時間で「遊ぶゲーム」から「自分で作るゲーム」へ！ ―&lt;/p&gt;
-&lt;p&gt;ゲームが好きな子どもたちに、ぜひ一度体験してほしいのが、
-&lt;strong&gt;「ゲームを遊ぶ側」ではなく「ゲームを作る側」の世界です。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft &lt;strong&gt;MakeCode Arcade&lt;/strong&gt;を使って、キャラクターを動かしたり、アイテムを置いたり、敵を登場させたりしながら、自分だけのミニゲーム制作に挑戦します。&lt;/p&gt;
-&lt;p&gt;MakeCode Arcadeは、Scratchのようにブロックを組み合わせてプログラムを作ることができるので、&lt;strong&gt;プログラミングが初めてのお子さまも大歓迎！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「キャラクターが動いた！」&lt;/p&gt;
-&lt;p&gt;「敵に当たったらどうなる？」&lt;/p&gt;
-&lt;p&gt;「アイテムを取ったら10ポイント増やしたい！」&lt;/p&gt;
-&lt;p&gt;ゲームを作っているうちに、いつの間にか
-&lt;strong&gt;条件分岐・変数・座標・イベント&lt;/strong&gt;など、プログラミングの基本的な考え方にも触れることができます。&lt;/p&gt;
-&lt;p&gt;でも今回の目的は、難しいプログラミングを勉強することではありません。&lt;/p&gt;
-&lt;p&gt;まずは、&lt;strong&gt;自分のゲームを完成させること。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;そして完成したゲームに、&lt;/p&gt;
-&lt;p&gt;「もっと敵を増やしたい！」&lt;/p&gt;
-&lt;p&gt;「こんなルールを追加したい！」&lt;/p&gt;
-&lt;p&gt;「ステージをもっと面白くしたい！」&lt;/p&gt;
-&lt;p&gt;と、自分のアイデアを加えて改造していきます。&lt;/p&gt;
-&lt;h3&gt;今回挑戦すること&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;キャラクターを動かしてみよう&lt;/li&gt;
-&lt;li&gt;アイテムを配置してみよう&lt;/li&gt;
-&lt;li&gt;敵キャラクターを作ってみよう&lt;/li&gt;
-&lt;li&gt;スコアを追加しよう&lt;/li&gt;
-&lt;li&gt;ゲームオーバーを作ろう&lt;/li&gt;
-&lt;li&gt;自分だけのゲームルールを追加しよう&lt;/li&gt;
-&lt;li&gt;完成したゲームをみんなに紹介しよう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ゲーム制作を通して育てたいのは、プログラミング技術だけではありません。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;考える力。試してみる力。失敗から直す力。アイデアを形にする力。そして、人に伝える力。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Minecraftやゲームが大好きなら、それが最初の一歩です。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ゲームが好きなら、今日からゲームクリエイターになれる。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ぜひ宜野湾で、「つくる側」の世界を体験してみませんか？&lt;/p&gt;
-&lt;h3&gt;開催概要&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;イベント名&lt;/strong&gt;
-沖縄・宜野湾マインクラフトワークショップ（体験会）
-CROSSWAVE DIGITAL CREATOR WORKSHOP&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;開催日時&lt;/strong&gt;
-2026年9月23日（水）
-15:30〜17:30&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;対象&lt;/strong&gt;
-小学生〜高校生
-※プログラミング初心者歓迎&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今回の使用ツール&lt;/strong&gt;
-Microsoft MakeCode Arcade&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内容&lt;/strong&gt;
-ゲーム制作・プログラミング体験
-Minecraftやデジタル作品づくりに興味のある子どもたちも大歓迎です。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主催&lt;/strong&gt;
-沖縄マイクラ部・プログラミングスクール「クロスウェーブ」&lt;/p&gt;
-&lt;h3&gt;こんな子におすすめ！&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Minecraftやゲームが大好き&lt;/li&gt;
-&lt;li&gt;自分でゲームを作ってみたい&lt;/li&gt;
-&lt;li&gt;Scratchやプログラミングに興味がある&lt;/li&gt;
-&lt;li&gt;将来ゲームクリエイターになってみたい&lt;/li&gt;
-&lt;li&gt;パソコンで何かを作ることが好き&lt;/li&gt;
-&lt;li&gt;AI・動画編集・デジタル制作にも興味がある&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;「遊ぶだけ」で終わらせない。
-好きなゲームを入口に、次は自分でつくってみよう。&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://minecraft098.connpass.com/event/411788/</guid><enclosure url="https://media.connpass.com/thumbs/07/54/0754e14da2ba9e72ba84a306790630ff.png" length="0" type="image/png"/><pubDate>Mon, 02 Nov 2026 08:25:05 +0900</pubDate></item><item><title>沖縄エンジニアHUB もくもく会 #2（平日夜）</title><link>https://okinawa-engineer-hub.connpass.com/event/410730/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月5日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月5日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社日虹 オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県浦添市牧港2-49-13(黄金ビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;隣のエンジニアの作業が、知らない分野に興味を持つきっかけになる作業会&lt;/p&gt;&lt;div&gt;&lt;p&gt;沖縄エンジニアHUBのもくもく会です。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>沖縄のイベント</title><link>https://connpass.com/explore/</link><description>沖縄のイベント情報</description><atom:link href="https://connpass.com/explore/" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sin471/connpass-RSS/refs/heads/main/image/connpass_logo_4.png</url><title>沖縄のイベント</title><link>https://connpass.com/explore/</link></image><language>ja</language><lastBuildDate>Tue, 03 Nov 2026 20:43:38 +0000</lastBuildDate><item><title>沖縄エンジニアHUB もくもく会 #2（平日夜）</title><link>https://okinawa-engineer-hub.connpass.com/event/410730/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年11月5日(木) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年11月5日(木) 22:00&lt;/li&gt;&lt;li&gt;📍 会場: 株式会社日虹 オフィス&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県浦添市牧港2-49-13(黄金ビル3F)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;隣のエンジニアの作業が、知らない分野に興味を持つきっかけになる作業会&lt;/p&gt;&lt;div&gt;&lt;p&gt;沖縄エンジニアHUBのもくもく会です。
 毎月、第1木曜の夜と第3日曜の午前に開いています。&lt;/p&gt;
 &lt;p&gt;各自が自分の作業を持ち寄って、同じ場所で進める会です。
 仕事の続きでも、個人開発でも、勉強でも、作業の中身は何でも大丈夫です。&lt;/p&gt;
@@ -1064,7 +998,7 @@ AI駆動開発勉強会 沖縄支部 運営。&lt;br&gt;
 こちらの申し込みは、OOD参加者とクラウドネイティブ勉強会参加者専用申込となります。&lt;/p&gt;
 &lt;p&gt;参加費：4500円(税込み) レストラン予約の都合上、申込後に不参加となった場合には、「必ず」事前に取り消し作業をお願いします。 また、本会議場にて参加費は集めますので、宜しくお願いします。&lt;/p&gt;
 &lt;p&gt;クラウドネイティブ勉強会は、会場でLTタイムに軽食とお飲み物が提供されます。
-それとは別のイベントになりますのでご注意下さい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/411457/</guid><enclosure url="https://media.connpass.com/thumbs/b4/56/b456a1fca71464a4e2a852c8f047bb55.png" length="0" type="image/png"/><pubDate>Mon, 02 Nov 2026 19:22:43 +0900</pubDate></item><item><title>オープンデータフォーラム懇親会</title><link>https://ool.connpass.com/event/410974/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月2日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月2日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: EL RINCON DE MEXICOLA&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市牧志3-3-4 1階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;牧志のメキシコ料理店にて懇親会を開催します！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;沖縄オープンデイズ参加者と併催イベントご参加の皆さまはどなた様も申し込み可能です。&lt;/strong&gt;&lt;/p&gt;
+それとは別のイベントになりますのでご注意下さい。&lt;/p&gt;&lt;/div&gt;</description><guid isPermaLink="false">https://connpass.com/event/411457/</guid><enclosure url="https://media.connpass.com/thumbs/b4/56/b456a1fca71464a4e2a852c8f047bb55.png" length="0" type="image/png"/><pubDate>Tue, 03 Nov 2026 16:35:03 +0900</pubDate></item><item><title>オープンデータフォーラム懇親会</title><link>https://ool.connpass.com/event/410974/</link><description>&lt;ul&gt;&lt;li&gt;🗓 開始: 2026年12月2日(水) 19:00&lt;/li&gt;&lt;li&gt;🕐 終了: 2026年12月2日(水) 21:00&lt;/li&gt;&lt;li&gt;📍 会場: EL RINCON DE MEXICOLA&lt;/li&gt;&lt;li&gt;🏢 住所: 沖縄県那覇市牧志3-3-4 1階&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;牧志のメキシコ料理店にて懇親会を開催します！&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;沖縄オープンデイズ参加者と併催イベントご参加の皆さまはどなた様も申し込み可能です。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;こちらの申し込みは、オープンデータフォーラム参加者専用の申込WEBとなります。&lt;/p&gt;
 &lt;p&gt;OOD参加者とクラウドネイティブ勉強会参加者は別途申込サイトから登録をお願いします。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;参加費&lt;/strong&gt;
